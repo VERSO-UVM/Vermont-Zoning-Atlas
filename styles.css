@@ -1,0 +1,255 @@
+/* Vermont Zoning Atlas - Static Site Styles */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fdfdfd;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Header */
+header {
+  background-color: #424242;
+  color: white;
+  padding: 1rem 0;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.site-title {
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin: 0;
+}
+
+.site-title a {
+  color: white;
+  text-decoration: none;
+}
+
+.site-title a:hover {
+  text-decoration: none;
+}
+
+nav {
+  display: flex;
+  gap: 1.5rem;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Main Content */
+main {
+  padding: 2rem 20px;
+  min-height: calc(100vh - 200px);
+}
+
+main h1 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  margin-bottom: 1rem;
+  color: #111;
+}
+
+main h2 {
+  font-size: 2rem;
+  font-weight: 400;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #111;
+}
+
+main h3 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  color: #111;
+}
+
+main h4 {
+  font-size: 1.25rem;
+  font-weight: 400;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  color: #111;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+a {
+  color: #2a7ae2;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul, ol {
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+
+th, td {
+  border: 1px solid #e8e8e8;
+  padding: 0.75rem;
+  text-align: left;
+}
+
+th {
+  background-color: #f7f7f7;
+  font-weight: 600;
+}
+
+tr:hover {
+  background-color: #f9f9f9;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 1rem 0;
+}
+
+/* Code */
+code {
+  background-color: #f3f3f3;
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-family: 'Monaco', 'Courier New', monospace;
+  font-size: 0.9em;
+}
+
+pre {
+  background-color: #f3f3f3;
+  padding: 1rem;
+  border-radius: 3px;
+  overflow-x: auto;
+  margin: 1rem 0;
+}
+
+pre code {
+  padding: 0;
+  background-color: transparent;
+}
+
+/* Glossary / Definition Lists */
+dl {
+  margin: 1.5rem 0;
+}
+
+dt {
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 0.25rem;
+}
+
+dt:first-child {
+  margin-top: 0;
+}
+
+dd {
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Footer */
+footer {
+  background-color: #424242;
+  color: #828282;
+  padding: 2rem 0;
+  margin-top: 3rem;
+  border-top: 1px solid #e8e8e8;
+}
+
+footer p {
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+footer a {
+  color: #828282;
+}
+
+footer a:hover {
+  color: white;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  header .container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  nav {
+    margin-top: 1rem;
+    flex-wrap: wrap;
+  }
+  
+  main h1 {
+    font-size: 2rem;
+  }
+  
+  main h2 {
+    font-size: 1.5rem;
+  }
+}
+
+/* Map container */
+#map {
+  border: 1px solid #e8e8e8;
+  border-radius: 4px;
+}
+
+/* Leaflet popup customization */
+.leaflet-popup-content p {
+  margin-bottom: 0.25rem;
+}
+
+.leaflet-popup-content strong {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 1.1em;
+}

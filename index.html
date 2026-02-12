@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vermont Zoning Atlas</title>
+  <meta name="description" content="The Vermont Zoning Atlas is a web-based geospatial interface that visualizes zoning code distributions across all of Vermont.">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/flatgeobuf@3.26.2/dist/flatgeobuf-geojson.min.js"></script>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1 class="site-title"><a href="index.html">Vermont Zoning Atlas</a></h1>
+      <nav>
+        <a href="about.html">About</a>
+        <a href="data.html">Data</a>
+        <a href="contribute.html">Contribute</a>
+        <a href="resources.html">Resources</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <h1>Vermont Zoning Atlas</h1>
+
+    <p><strong>This is a community built dataset, use at your own risk and check with your local town offices!</strong></p>
+
+    <p>The <a href="https://www.zoningatlas.org/vermont">Vermont Zoning Atlas</a> is a web-based geospatial interface that visualizes zoning code distributions across all of Vermont.</p>
+    
+    <div id="map" style="width: 100%; height: 800px; margin: 2rem 0;"></div>
+
+    <script>
+      // Initialize the map
+      var map = L.map('map').setView([43.951, -72.756], 7);
+
+      // Add a tile layer to the map
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+      }).addTo(map);
+
+      // List of fields to display in the popup
+      var fieldsToDisplay = [
+        "Jurisdiction County","Jurisdiction District Name", "District Type", "District Name",
+        "Overlay District","1F Allowance","2F Allowance","3F Allowance",
+        "3F Connection to Sewage/Water Required","3F Elderly Housing Only","4F Allowance",
+        "4F Connection to Sewage/Water Required","4F Elderly Housing Only", "Affordable Housing District",
+        "ADU Owner Occupancy Required","1F Connection to Sewage/Water Required","1F Elderly Housing Only",
+        "2F Connection to Sewage/Water Required","2F Elderly Housing Only"
+      ]; 
+
+      // Function to bind popups to each feature
+      function onEachFeature(feature, layer) {
+        if (feature.properties) {
+          var popupContent = "<p><strong>Attributes:</strong></p>";
+          fieldsToDisplay.forEach(field => {
+            if (feature.properties[field] !== undefined) {
+              popupContent += "<p>" + field + ": " + feature.properties[field] + "</p>";
+            }
+          });
+          layer.bindPopup(popupContent);
+        }
+      }
+
+      // List of RPCs to load
+      var rpcs = ['ACRPC', 'BCRC', 'CCRPC', 'CVRPC', 'LCPC', 'MARC', 'NVDA', 'NWRPC', 'RRPC', 'TRORC', 'WRC'];
+
+      // Load each RPC's GeoJSON data
+      rpcs.forEach(rpc => {
+        fetch('data/RPC/' + rpc + '/' + rpc + '_Zoning.geojson')
+          .then(response => {
+            if (!response.ok) {
+              throw new Error('Network response was not ok ' + response.statusText);
+            }
+            return response.json();
+          })
+          .then(data => {
+            L.geoJSON(data, {
+              onEachFeature: onEachFeature
+            }).addTo(map);
+          })
+          .catch(error => console.error('Error loading GeoJSON data for ' + rpc + ':', error));
+      });
+    </script>
+
+    <p>Zoning rules can present barriers to effective city planning, impairing our ability to achieve important policy objectives like community desegregation, climate change resiliency, transportation access, homelessness relief, and affordable housing development. The Vermont Zoning Atlas seeks to democratize researchers', policymakers', advocates', and everyday citizens' understanding of zoning regulations and enable apples-to-apples cross-jurisdiction comparisons through a methodology developed by the <a href="https://www.zoningatlas.org/">National Zoning Atlas</a>.</p>
+
+    <p>The Vermont Zoning Atlas is a database and web tool that brings together zoning laws from 1,755 districts across the state of Vermont. Without this tool, one would have to read thousands of pages of dense legal code to answer simple questions. Its goal is to help answer fundamental questions facing cities and towns: for the land that we have, what can be built?</p>
+
+    <p>If you use this data in publications, please Cite it with this DOI: <a href="https://doi.org/10.5281/zenodo.11508694">https://doi.org/10.5281/zenodo.11508694</a></p>
+
+    <h2>Quicklinks</h2>
+
+    <ul>
+      <li><a href="about.html">Learn More About the Project</a></li>
+      <li><a href="data.html">Explore the Structure of the Data</a></li>
+      <li><a href="contribute.html">See How to Contribute</a></li>
+      <li><a href="resources.html">Resource and Analysis</a></li>
+      <li><a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/LICENSE">MIT License</a></li>
+    </ul>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2026 Vermont Zoning Atlas. Licensed under <a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/LICENSE">MIT License</a>.</p>
+      <p>Repository: <a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas">VERSO-UVM/Vermont-Zoning-Atlas</a></p>
+    </div>
+  </footer>
+</body>
+</html>
