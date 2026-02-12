@@ -40,9 +40,9 @@
 
     .hero-stats {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
       gap: 2rem;
-      max-width: 900px;
+      max-width: 1000px;
       width: 100%;
       margin-top: 3rem;
       animation: fadeInUp 1s ease-out 0.6s both;
@@ -207,15 +207,19 @@
     }
 
     .process-steps {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 2rem;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      gap: 1.5rem;
       margin: 2rem 0;
+      flex-wrap: nowrap;
     }
 
     .process-step {
       text-align: center;
-      padding: 1.5rem;
+      padding: 1rem;
+      flex: 1;
+      min-width: 0;
     }
 
     .process-number {
@@ -296,6 +300,15 @@
       .story-section p {
         font-size: 1.1rem;
       }
+      
+      .process-steps {
+        flex-wrap: wrap;
+      }
+      
+      .process-step {
+        flex: 0 0 calc(50% - 0.75rem);
+        min-width: 140px;
+      }
     }
   </style>
 </head>
@@ -355,22 +368,18 @@
         <div class="process-step">
           <div class="process-number">1</div>
           <h3>Planning Commission</h3>
-          <p>Drafts zoning bylaws with community input</p>
         </div>
         <div class="process-step">
           <div class="process-number">2</div>
           <h3>Public Hearing</h3>
-          <p>Citizens review and comment on proposals</p>
         </div>
         <div class="process-step">
           <div class="process-number">3</div>
           <h3>Australian Ballot</h3>
-          <p>Voters approve or reject changes at Town Meeting</p>
         </div>
         <div class="process-step">
           <div class="process-number">4</div>
           <h3>Implementation</h3>
-          <p>Zoning Administrator enforces adopted regulations</p>
         </div>
       </div>
       <p style="margin-top: 2rem; padding: 1.5rem; background: #fff3cd; border-left: 4px solid #ffc107; border-radius: 4px;"><strong>Fair Housing Requirement:</strong> Vermont law (<a href="https://legislature.vermont.gov/statutes/section/24/117/04412">24 VSA § 4412</a>) requires municipalities to ensure zoning regulations provide reasonable opportunity for all housing types and don't have discriminatory effects.</p>
