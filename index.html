@@ -606,17 +606,17 @@
 
         // RPC data
         var rpcDataInfo = {
-          "ACRPC": {name: "Addison County RPC", municipalities: 23, population: "~37,000", url: "http://www.acrpc.org/"},
-          "BCRC": {name: "Bennington County RPC", municipalities: 19, population: "~36,000", url: "http://www.bcrcvt.org/"},
-          "CCRPC": {name: "Chittenden County RPC", municipalities: 19, population: "~168,000", url: "http://www.ccrpcvt.org"},
-          "CVRPC": {name: "Central Vermont RPC", municipalities: 23, population: "~59,000", url: "http://www.centralvtplanning.org"},
-          "LCPC": {name: "Lamoille County PC", municipalities: 13, population: "~26,000", url: "http://www.lcpcvt.org"},
-          "MARC": {name: "Mount Ascutney RPC", municipalities: 24, population: "~32,000", url: "https://marcvt.org/"},
-          "NVDA": {name: "Northeastern Vermont Dev. Assoc.", municipalities: 51, population: "~62,000", url: "http://www.nvda.net"},
-          "NWRPC": {name: "Northwest RPC", municipalities: 20, population: "~49,000", url: "http://www.nrpcvt.com"},
-          "RRPC": {name: "Rutland RPC", municipalities: 27, population: "~59,000", url: "http://www.rutlandrpc.org"},
-          "TRORC": {name: "Two Rivers-Ottauquechee RPC", municipalities: 30, population: "~47,000", url: "http://www.trorc.org"},
-          "WRC": {name: "Windham RPC", municipalities: 27, population: "~45,000", url: "http://www.windhamregional.org"}
+          "ACRPC": {name: "Addison County RPC", municipalities: 23, population: "~37,000"},
+          "BCRC": {name: "Bennington County RPC", municipalities: 19, population: "~36,000"},
+          "CCRPC": {name: "Chittenden County RPC", municipalities: 19, population: "~168,000"},
+          "CVRPC": {name: "Central Vermont RPC", municipalities: 23, population: "~59,000"},
+          "LCPC": {name: "Lamoille County PC", municipalities: 13, population: "~26,000"},
+          "MARC": {name: "Mount Ascutney RPC", municipalities: 24, population: "~32,000"},
+          "NVDA": {name: "Northeastern Vermont Dev. Assoc.", municipalities: 51, population: "~62,000"},
+          "NWRPC": {name: "Northwest RPC", municipalities: 20, population: "~49,000"},
+          "RRPC": {name: "Rutland RPC", municipalities: 27, population: "~59,000"},
+          "TRORC": {name: "Two Rivers-Ottauquechee RPC", municipalities: 30, population: "~47,000"},
+          "WRC": {name: "Windham RPC", municipalities: 27, population: "~45,000"}
         };
 
         // Load RPC boundaries from the statewide RPC boundary file
@@ -641,14 +641,12 @@
                 var municipalities = rpcInfo.municipalities ? (rpcInfo.municipalities + " municipalities") : '';
                 var population = rpcInfo.population ? (rpcInfo.population + " residents") : '';
                 var metaLine = [municipalities, population].filter(Boolean).join(' • ');
-                var url = rpcInfo.url || '';
 
                 var tooltipContent = "<div style='padding: 0.5rem;'>" +
                   "<strong style='font-size: 1.1rem; color: #667eea;'>" + displayName + "</strong>" +
                   (rpcAbbrev ? "<div style='font-size: 0.9rem; font-weight: 600; color: #666; margin-top: 0.25rem;'>" + rpcAbbrev + "</div>" : "") +
                   (longNameLine ? "<div style='font-size: 0.9rem; color: #555; margin-top: 0.25rem;'>" + longNameLine + "</div>" : "") +
                   (metaLine ? "<div style='margin-top: 0.5rem; font-size: 0.95rem;'>" + metaLine + "</div>" : "") +
-                  (url ? "<div style='margin-top: 0.25rem;'><a href='" + url + "' target='_blank' style='color: #2a7ae2; font-size: 0.9rem;'>" + url + "</a></div>" : "") +
                   "</div>";
 
                 layer.bindTooltip(tooltipContent, {
@@ -681,77 +679,66 @@
         <div class="rpc-card">
           <div class="rpc-name">Addison County RPC</div>
           <div class="rpc-abbrev">ACRPC</div>
-          <div class="rpc-pop">23 municipalities • ~37,000 residents</div>
           <p><a href="http://www.acrpc.org/">www.acrpc.org</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Bennington County RPC</div>
           <div class="rpc-abbrev">BCRC</div>
-          <div class="rpc-pop">19 municipalities • ~36,000 residents</div>
           <p><a href="http://www.bcrcvt.org/">www.bcrcvt.org</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Chittenden County RPC</div>
           <div class="rpc-abbrev">CCRPC</div>
-          <div class="rpc-pop">19 municipalities • ~168,000 residents</div>
           <p><a href="http://www.ccrpcvt.org">www.ccrpcvt.org</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Central Vermont RPC</div>
           <div class="rpc-abbrev">CVRPC</div>
-          <div class="rpc-pop">23 municipalities • ~59,000 residents</div>
           <p><a href="http://www.centralvtplanning.org">centralvtplanning.org</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Lamoille County PC</div>
           <div class="rpc-abbrev">LCPC</div>
-          <div class="rpc-pop">13 municipalities • ~26,000 residents</div>
           <p><a href="http://www.lcpcvt.org">www.lcpcvt.org</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Mount Ascutney RPC</div>
           <div class="rpc-abbrev">MARC</div>
-          <div class="rpc-pop">24 municipalities • ~32,000 residents</div>
           <p><a href="https://marcvt.org/">marcvt.org</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Northeastern Vermont Dev. Assoc.</div>
           <div class="rpc-abbrev">NVDA</div>
-          <div class="rpc-pop">51 municipalities • ~62,000 residents</div>
           <p><a href="http://www.nvda.net">www.nvda.net</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Northwest RPC</div>
           <div class="rpc-abbrev">NWRPC</div>
-          <div class="rpc-pop">20 municipalities • ~49,000 residents</div>
           <p><a href="http://www.nrpcvt.com">www.nrpcvt.com</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Rutland RPC</div>
           <div class="rpc-abbrev">RRPC</div>
-          <div class="rpc-pop">27 municipalities • ~59,000 residents</div>
           <p><a href="http://www.rutlandrpc.org">www.rutlandrpc.org</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Two Rivers-Ottauquechee RPC</div>
           <div class="rpc-abbrev">TRORC</div>
-          <div class="rpc-pop">30 municipalities • ~47,000 residents</div>
           <p><a href="http://www.trorc.org">www.trorc.org</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Windham RPC</div>
           <div class="rpc-abbrev">WRC</div>
-          <div class="rpc-pop">27 municipalities • ~45,000 residents</div>
           <p><a href="http://www.windhamregional.org">windhamregional.org</a></p>
         </div>
       </div>
