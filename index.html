@@ -264,6 +264,18 @@
       font-weight: 600;
     }
 
+    /* Custom tooltip styling */
+    .custom-tooltip {
+      background: rgba(0, 0, 0, 0.85);
+      color: white;
+      border: none;
+      border-radius: 4px;
+      padding: 8px 12px;
+      font-size: 14px;
+      font-weight: 500;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    }
+
     @media (max-width: 768px) {
       .hero-section h1 {
         font-size: 2rem;
@@ -803,6 +815,18 @@
           
           popupContent += "</div>";
           layer.bindPopup(popupContent);
+          
+          // Bind tooltip for hover display
+          var tooltipText = (feature.properties.Jurisdiction || "") + 
+                           (feature.properties.Jurisdiction && feature.properties.Jurisdiction_District_Name ? " - " : "") +
+                           (feature.properties.Jurisdiction_District_Name || "");
+          if (tooltipText) {
+            layer.bindTooltip(tooltipText, {
+              permanent: false,
+              sticky: true,
+              className: 'custom-tooltip'
+            });
+          }
         }
         
         // Add hover effect
@@ -828,12 +852,46 @@
         });
       }
 
-      // List of RPCs to load
-      var rpcs = ['ACRPC', 'BCRC', 'CCRPC', 'CVRPC', 'LCPC', 'MARC', 'NVDA', 'NWRPC', 'RRPC', 'TRORC', 'WRC'];
+      // List of all Vermont municipality GeoJSON files
+      var vtMunicipalities = [
+        "Addison_Addison_rev12262017", "Addison_Bridport_rev03132025", "Addison_Bristol_rev", "Addison_Cornwall_rev02052008",
+        "Addison_Ferrisburgh_rev", "Addison_Goshen_rev05082017", "Addison_Leicester_rev", "Addison_Lincoln_rev",
+        "Addison_Middlebury_rev09132022", "Addison_Monkton_rev03072023", "Addison_NewHaven_rev04012024", "Addison_Orwell_rev03052019",
+        "Addison_Panton_rev02012022", "Addison_Ripton_rev01282022", "Addison_Salisbury_rev", "Addison_Shoreham_rev01312024",
+        "Addison_Starksboro_rev01282020", "Addison_Vergennes_rev06142022", "Addison_waltham_rev06012019", "Addison_Weybridge_rev01032017",
+        "Addison_whiting_rev12292005", "Bennignton_Readsboro_rev05292013", "Bennington_Arlington_rev02212022", "Bennington_Bennington_rev06242024",
+        "Bennington_Dorset_rev09122023", "Bennington_Landgrove_rev03012024", "Bennington_Manchester_rev11022021", "Bennington_ManchesterVillage_rev07072015",
+        "Bennington_OldBennington_rev", "Bennington_Pownal_rev08122021", "Bennington_Rupert_rev", "Bennington_Sandgate_rev05062024",
+        "Bennington_Shaftsbury_rev", "Bennington_Stamford_rev10232020", "Bennington_winhall_rev03062018", "Caledonia_Hardwick_rev09052024",
+        "Caledonia_Peacham_rev01092025", "Caledonia_Waterford_rev03052024", "Chittenden_Bolton_rev06162025", "Chittenden_BuelsGore_rev08232010",
+        "Chittenden_Burlington_rev11272024", "Chittenden_Charlotte_rev", "Chittenden_Colchester_rev", "Chittenden_Essex_rev",
+        "Chittenden_EssexJunction_rev07122016", "Chittenden_Hinesburg_rev10102016", "Chittenden_Jericho_rev", "Chittenden_Milton_rev",
+        "Chittenden_Richmond_rev01292025", "Chittenden_Shelburne_rev", "Chittenden_StGeorge_rev06162013", "Chittenden_Underhill_rev",
+        "Chittenden_Westford_rev06222020", "Chittenden_Williston_rev", "Chittenden_Winooski_rev07072025", "Franklin_Bakersfield_rev",
+        "Franklin_Berkshire_rev08012024", "Franklin_Enosburgh_rev05012013", "Franklin_Enosburghfalls_rev11012013", "Franklin_Fairfax_rev02012011",
+        "Franklin_Fairfield_rev02012020", "Franklin_Fletcher_rev", "Franklin_Franklin_rev08152018", "Franklin_Georgia_rev",
+        "Franklin_Highgate_rev03012015", "Franklin_Montgomery_rev", "Franklin_Richford_rev", "Franklin_SaintAlbansCity_rev",
+        "Franklin_SaintAlbansTown_rev", "Franklin_Sheldon_rev", "Franklin_Swanton_rev05012008", "GrandIsle_GrandIsle_rev02172025",
+        "GrandIsle_NorthHero_rev08012014", "GrandIsle_SouthHero_rev03012020", "Lamoille_Elmore_rev", "Lamoille_HydeParkTown_rev",
+        "Lamoille_HydeParkVillage_rev02012020", "Lamoille_JohnsonTown_rev", "Lamoille_JohnsonTownJohnsonVillage_rev", "Lamoille_Morristown_Morrisville_rev03312023",
+        "Lamoille_Wolcott_rev12012016", "Orange_Fairlee_Overlay_rev", "Orange_Fairlee_rev", "Orange_Newbury_Overlay_rev",
+        "Orange_Randolph_rev", "Orleans_Derby_rev", "Orleans_NewportCity_rev04172023", "Orleans_Troy_rev",
+        "Orleans_Westfield_rev", "Rutland_Benson_rev", "Rutland_Brandon_rev11052024", "Rutland_Castleton_rev",
+        "Rutland_Clarendon_rev06132016", "Rutland_FairHaven_rev07162020", "Rutland_Hubbardton_rev06202019", "Rutland_Killington_rev02222024",
+        "Rutland_Mendon_rev", "Rutland_Pawlet_rev", "Rutland_Pittsford_rev05082019", "Rutland_Poultney_rev",
+        "Rutland_Proctor_rev", "Rutland_RutlandCity_rev", "Rutland_Shrewsbury_rev", "Rutland_Sudbury_rev12202017",
+        "Rutland_Tinmouth_rev", "Rutland_Wallingford_rev", "Rutland_WestHaven_rev03012019", "Rutland_WestRutland_rev10282021",
+        "Washington_BarreTown_rev09092007", "Washington_Northfield_rev", "Washington_Waterbury_rev02072013", "Windham_Brattleboro_rev",
+        "Windham_Halifax_rev03062007", "Windham_Londonderry_Overlay_rev", "Windham_Londonderry_rev", "Windham_Newfane_rev09012008",
+        "Windham_Putney_rev", "Windham_Rockingham_rev", "Windsor_Andover_rev", "Windsor_Baltimore_rev06092024",
+        "Windsor_LudlowTown_Overlay_rev", "Windsor_LudlowTown_rev", "Windsor_LudlowVillage_rev", "Windsor_Norwich_rev",
+        "Windsor_Springfield_Overlays_rev", "Windsor_Springfield_rev", "Windsor_Stockbridge_rev", "Windsor_Weston_rev",
+        "Windsor_WoodstockVillage_rev"
+      ];
 
-      // Load each RPC's GeoJSON data
-      rpcs.forEach(rpc => {
-        fetch('data/RPC/' + rpc + '/' + rpc + '_Zoning.geojson')
+      // Load each municipality's GeoJSON data
+      vtMunicipalities.forEach(municipality => {
+        fetch('data/State_of_Vermont/' + municipality + '.geojson')
           .then(response => {
             if (!response.ok) {
               throw new Error('Network response was not ok ' + response.statusText);
@@ -848,7 +906,7 @@
             
             geoJsonLayers.push(layer);
           })
-          .catch(error => console.error('Error loading GeoJSON data for ' + rpc + ':', error));
+          .catch(error => console.error('Error loading GeoJSON data for ' + municipality + ':', error));
       });
 
       // Add event listener for housing type selector
