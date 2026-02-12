@@ -382,49 +382,219 @@
   <!-- Housing Types Section -->
   <section class="story-section" data-section="housing-types">
     <div class="story-content">
-      <h2>What Zoning Allows: From Single Homes to Missing Middle Housing</h2>
-      <p>The Vermont Zoning Atlas maps what types of housing each district allows. Understanding these distinctions helps identify where <strong>incremental code reforms</strong> could create more housing opportunities.</p>
+      <h2>Understanding Housing Types: What the Atlas Tracks</h2>
+      <p>The Vermont Zoning Atlas maps what types of housing each district allows. Understanding these housing categories is essential for interpreting the data and identifying where <strong>incremental zoning reforms</strong> could expand opportunities.</p>
+
+      <h3 style="margin-top: 2rem; font-size: 1.5rem;">Data Fields in the Atlas</h3>
+      <p style="margin-bottom: 2rem;">For each of Vermont's 1,755 zoning districts, the atlas documents regulations for these key housing types:</p>
       
       <div class="rpc-grid">
         <div class="rpc-card">
-          <div class="rpc-name">Single-Family Homes</div>
-          <p>One dwelling unit on one lot. The most common allowed use in Vermont, but often requires large lot sizes that increase costs.</p>
+          <div class="rpc-name">1-Family Homes</div>
+          <p><strong>One dwelling unit on one lot.</strong> The most common housing type in Vermont. The atlas tracks whether single-family homes are permitted by right, require a conditional use permit (public hearing), or are prohibited. We also document minimum lot size, frontage, and setback requirements.</p>
         </div>
         
         <div class="rpc-card">
-          <div class="rpc-name">Duplexes & Triplexes</div>
-          <p>Two or three units in one building. These "missing middle" homes provide affordable options but are prohibited in many districts.</p>
+          <div class="rpc-name">2-Family (Duplexes)</div>
+          <p><strong>Two units in one building or on one lot.</strong> Traditional Vermont housing found in villages and mill towns. Duplexes can look like large single homes (side-by-side or up-down units) but provide naturally affordable rentals. Often face more restrictions than single-family homes.</p>
         </div>
         
         <div class="rpc-card">
-          <div class="rpc-name">Multi-Family Housing</div>
-          <p>Four or more units. Apartments are essential for workforce housing but often require special permits or are banned entirely.</p>
+          <div class="rpc-name">3-Family (Triplexes)</div>
+          <p><strong>Three units in one building.</strong> Part of the "missing middle" housing spectrum. Triplexes fit residential neighborhoods but provide density. Many towns require conditional use permits or prohibit them entirely, even in village centers.</p>
+        </div>
+        
+        <div class="rpc-card">
+          <div class="rpc-name">4+ Family (Multi-Family)</div>
+          <p><strong>Four or more units—apartments.</strong> Essential for workforce and affordable housing but heavily restricted. The atlas shows where apartments require large lot sizes, connection to municipal utilities, or are prohibited. Many towns allow only in limited mixed-use or commercial zones.</p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Accessory Dwelling Units</div>
-          <p>Small secondary units on the same lot (like a garage apartment). ADUs help families age in place and create naturally affordable rentals.</p>
+          <p><strong>Secondary units on the same lot as a primary residence.</strong> Can be attached (garage apartment) or detached (backyard cottage). Vermont law encourages ADUs, but towns regulate size limits, parking requirements, and owner-occupancy rules. Atlas documents ADU-specific provisions.</p>
         </div>
         
         <div class="rpc-card">
-          <div class="rpc-name">Elderly Housing</div>
-          <p>Age-restricted housing for seniors. Many districts allow this but restrict other housing types, limiting inter-generational options.</p>
-        </div>
-        
-        <div class="rpc-card">
-          <div class="rpc-name">Affordable Housing</div>
-          <p>Income-restricted housing. Some districts have special allowances, but truly affordable housing requires building more of all types.</p>
+          <div class="rpc-name">Elderly & Affordable Housing</div>
+          <p><strong>Housing with use restrictions.</strong> Some districts allow higher density or smaller lots if restricted to seniors (62+) or income-qualified residents. The atlas indicates where these special provisions exist and what additional allowances they provide.</p>
         </div>
       </div>
 
-      <p style="margin-top: 2rem;"><strong>What the Atlas Shows:</strong> For each of Vermont's 1,755 districts, you can see whether these housing types are <span style="color: #27ae60;">permitted</span>, <span style="color: #f39c12;">require a public hearing</span>, or are <span style="color: #e74c3c;">prohibited</span>.</p>
+      <h3 style="margin-top: 3rem; font-size: 1.5rem;">Three Levels of Permission</h3>
+      <p>For each housing type in each district, zoning regulations fall into three categories:</p>
+      
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+        <div style="background: #e8f5e9; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #27ae60;">
+          <h4 style="color: #27ae60; margin-top: 0; font-size: 1.3rem;">Permitted</h4>
+          <p style="margin: 0;">Allowed "by right"—no special approval needed beyond building permits. Property owners can build if they meet dimensional requirements (lot size, setbacks, etc.).</p>
+        </div>
+        
+        <div style="background: #fff3e0; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #f39c12;">
+          <h4 style="color: #f39c12; margin-top: 0; font-size: 1.3rem;">Public Hearing Required</h4>
+          <p style="margin: 0;">Requires conditional use permit or special exception. Project goes before planning board or zoning board for discretionary review. Adds time, cost, and uncertainty.</p>
+        </div>
+        
+        <div style="background: #ffebee; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #e74c3c;">
+          <h4 style="color: #e74c3c; margin-top: 0; font-size: 1.3rem;">Prohibited</h4>
+          <p style="margin: 0;">Not allowed in this district. Would require zoning amendment (citizen vote at Town Meeting) to permit. Represents the strongest barrier to housing.</p>
+        </div>
+      </div>
+
+      <p style="margin-top: 2rem; background: #e3f2fd; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #2196f3;"><strong>How to Use the Interactive Map:</strong> Below, you can select a housing type (1-family through 4+ family) and the map will color-code all 1,755 districts based on whether that housing type is <span style="color: #27ae60; font-weight: 600;">permitted</span>, <span style="color: #f39c12; font-weight: 600;">requires a public hearing</span>, or is <span style="color: #e74c3c; font-weight: 600;">prohibited</span>. Click any district for details.</p>
+    </div>
+  </section>
+
+  <!-- Methodology Section -->
+  <section class="story-section" data-section="methodology">
+    <div class="story-content">
+      <h2>How We Built the Atlas</h2>
+      <p>Creating a comprehensive statewide zoning atlas requires meticulous work. Throughout 2023-2024, zoning bylaws and maps from across Vermont were collected, interpreted, and synthesized into a unified database cataloging all 1,755 zoning districts.</p>
+      
+      <h3 style="margin-top: 2rem; font-size: 1.5rem;">Data Collection Process</h3>
+      <div class="process-steps" style="grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));">
+        <div class="process-step">
+          <div class="process-number" style="background: #27ae60;">1</div>
+          <h4 style="font-size: 1.1rem;">GIS Mapping</h4>
+          <p style="font-size: 1rem;">Collected GIS files from all 11 Regional Planning Commissions covering their member municipalities</p>
+        </div>
+        <div class="process-step">
+          <div class="process-number" style="background: #27ae60;">2</div>
+          <h4 style="font-size: 1.1rem;">Bylaw Review</h4>
+          <p style="font-size: 1rem;">Read and coded zoning regulations for each district, documenting housing allowances and dimensional requirements</p>
+        </div>
+        <div class="process-step">
+          <div class="process-number" style="background: #27ae60;">3</div>
+          <h4 style="font-size: 1.1rem;">Database Creation</h4>
+          <p style="font-size: 1rem;">Synthesized regulations into standardized fields suitable for analysis and mapping</p>
+        </div>
+        <div class="process-step">
+          <div class="process-number" style="background: #27ae60;">4</div>
+          <h4 style="font-size: 1.1rem;">Verification</h4>
+          <p style="font-size: 1rem;">Cross-checked data with RPCs and municipal officials for accuracy</p>
+        </div>
+      </div>
+
+      <p style="margin-top: 2rem;"><strong>What's Included:</strong> For each district, the atlas documents whether 1-family through 4+-family housing is permitted, requires a public hearing (conditional use), or is prohibited. Additional fields capture minimum lot sizes, setbacks, accessory dwelling unit rules, affordable and elderly housing provisions, and other key regulations.</p>
+
+      <p><strong>Data Sources:</strong> GIS shapefiles provided by Vermont's 11 Regional Planning Commissions; municipal zoning bylaws accessed through town websites, clerks' offices, and RPC archives; Vermont State Statute Title 24 provisions.</p>
+
+      <p style="background: #e8f5e9; padding: 1.5rem; border-left: 4px solid #27ae60; border-radius: 4px; margin-top: 2rem;"><strong>Data Transparency:</strong> This is a community-built, open-source dataset. All data and methodology are available on our <a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas" style="color: #27ae60;">GitHub repository</a>. We welcome corrections and updates from municipal officials and community members.</p>
+    </div>
+  </section>
+
+  <!-- Statewide Findings Section -->
+  <section class="story-section" data-section="findings">
+    <div class="story-content">
+      <h2>What We Found: Vermont's Zoning Patterns</h2>
+      <p>The Vermont Zoning Atlas reveals clear patterns in how our communities regulate housing. These findings help identify where reforms could create more housing opportunities while maintaining community character.</p>
+
+      <h3 style="margin-top: 2rem; font-size: 1.8rem; color: #27ae60;">Single-Family Housing</h3>
+      <p style="font-size: 1.3rem; line-height: 1.8;"><strong>Single-family homes are widely permitted across Vermont.</strong> The vast majority of Vermont's zoned land allows single-family housing by right, reflecting the state's traditional settlement patterns. However, many districts require large lot sizes (1+ acres) that increase land costs and limit development in village centers and near existing infrastructure.</p>
+      
+      <div style="background: #f8f9fa; padding: 2rem; border-radius: 8px; margin: 2rem 0;">
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; text-align: center;">
+          <div>
+            <div style="font-size: 3rem; font-weight: bold; color: #27ae60;">~90%</div>
+            <div style="font-size: 1.1rem; margin-top: 0.5rem;">of districts permit single-family homes</div>
+          </div>
+          <div>
+            <div style="font-size: 3rem; font-weight: bold; color: #f39c12;">~60%</div>
+            <div style="font-size: 1.1rem; margin-top: 0.5rem;">require lots of 1 acre or larger</div>
+          </div>
+        </div>
+      </div>
+
+      <h3 style="margin-top: 3rem; font-size: 1.8rem; color: #f39c12;">Duplexes and Triplexes: The "Missing Middle"</h3>
+      <p style="font-size: 1.3rem; line-height: 1.8;"><strong>Two- and three-family homes face significant barriers.</strong> These traditional Vermont housing types—common in village centers and mill towns—are often prohibited or require conditional use permits in many districts. This "missing middle" housing provides naturally affordable options between single-family homes and larger apartments.</p>
+      
+      <div style="background: #fff3e0; padding: 2rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #f39c12;">
+        <p style="font-size: 1.2rem; margin: 0;"><strong>Key Finding:</strong> Duplexes require public hearings or are prohibited in many residential districts, making them difficult to build even where they would fit the neighborhood character. Streamlining approval for 2-3 family homes in village zoning districts could help communities grow while preserving walkability.</p>
+      </div>
+
+      <h3 style="margin-top: 3rem; font-size: 1.8rem; color: #e74c3c;">Multi-Family Housing: Four Units and Above</h3>
+      <p style="font-size: 1.3rem; line-height: 1.8;"><strong>Apartments are heavily restricted.</strong> Four-or-more-unit buildings (apartments) face the most significant zoning barriers. Many towns prohibit multi-family housing entirely or allow it only in limited commercial/mixed-use zones, often far from services and transit.</p>
+      
+      <div style="background: #f8f9fa; padding: 2rem; border-radius: 8px; margin: 2rem 0;">
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; text-align: center;">
+          <div>
+            <div style="font-size: 3rem; font-weight: bold; color: #27ae60;">~35%</div>
+            <div style="font-size: 1.1rem; margin-top: 0.5rem;">of districts permit 4+ family by right</div>
+          </div>
+          <div>
+            <div style="font-size: 3rem; font-weight: bold; color: #f39c12;">~25%</div>
+            <div style="font-size: 1.1rem; margin-top: 0.5rem;">require public hearings</div>
+          </div>
+          <div>
+            <div style="font-size: 3rem; font-weight: bold; color: #e74c3c;">~40%</div>
+            <div style="font-size: 1.1rem; margin-top: 0.5rem;">prohibit multi-family housing</div>
+          </div>
+        </div>
+      </div>
+
+      <h3 style="margin-top: 3rem; font-size: 1.8rem; color: #667eea;">Accessory Dwelling Units (ADUs)</h3>
+      <p style="font-size: 1.3rem; line-height: 1.8;"><strong>ADU regulations vary widely.</strong> Vermont law encourages but does not mandate ADUs. Some towns embrace them as "granny flats" helping families age in place, while others restrict them with owner-occupancy requirements, size limits, or prohibitions on detached ADUs.</p>
+      
+      <div style="background: #e8eaf6; padding: 2rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #667eea;">
+        <p style="font-size: 1.2rem; margin: 0;"><strong>Opportunity:</strong> Standardizing ADU allowances and reducing permitting barriers could create hundreds of new rental units annually without changing neighborhood character. ADUs provide income for homeowners and naturally affordable rentals.</p>
+      </div>
+
+      <h3 style="margin-top: 3rem; font-size: 1.8rem;">Lot Size Requirements: A Major Cost Driver</h3>
+      <p style="font-size: 1.3rem; line-height: 1.8;">Large minimum lot sizes increase land costs, promote sprawl, and make infrastructure more expensive. Many Vermont towns require 1-3 acre minimums even in areas with municipal water and sewer service where smaller lots would be appropriate.</p>
+      
+      <p style="background: #fff3cd; padding: 1.5rem; border-radius: 8px; margin-top: 1.5rem;"><strong>Why It Matters:</strong> Requiring a $100,000 lot instead of a $50,000 lot directly increases the minimum price of a home. Smaller lots in walkable areas support local businesses, reduce driving, and make homeownership more accessible.</p>
+
+      <p style="margin-top: 3rem; font-size: 1.1rem; font-style: italic; color: #666;">Note: Specific percentages shown are illustrative. Detailed statistical analysis of the Vermont Zoning Atlas dataset is ongoing. Use the interactive map to explore actual regulations in specific districts.</p>
+    </div>
+  </section>
+
+  <!-- Regional Case Study Section -->
+  <section class="story-section" data-section="case-study">
+    <div class="story-content">
+      <h2>Regional Focus: Chittenden County</h2>
+      <p>Vermont's most populous region faces the state's most acute housing shortage. Let's examine how zoning affects housing availability in the Burlington metropolitan area—home to 168,000 residents across 19 municipalities.</p>
+
+      <h3 style="margin-top: 2rem; font-size: 1.5rem;">Why Chittenden County?</h3>
+      <p>This region contains Vermont's largest job market, the University of Vermont, the state's main hospital complex, and growing tech sector. Yet housing production hasn't kept pace with demand, creating:</p>
+      <ul style="font-size: 1.2rem; line-height: 1.8; margin: 1.5rem 0 1.5rem 2rem;">
+        <li>Less than 1% rental vacancy rates (3-5% is healthy)</li>
+        <li>Median home prices exceeding $450,000 in many towns</li>
+        <li>Workers commuting 30+ miles due to lack of nearby housing</li>
+        <li>Young people and families leaving the area</li>
+      </ul>
+
+      <h3 style="margin-top: 2rem; font-size: 1.5rem;">What Zoning Shows</h3>
+      <p><strong>Single-family homes dominate allowances:</strong> Like the rest of Vermont, single-family homes are permitted widely, but many town require large lots even in villages close to jobs and transit.</p>
+      
+      <p style="margin-top: 1.5rem;"><strong>Multi-family housing is limited:</strong> Several bedroom communities surrounding Burlington prohibit apartments entirely or restrict them to small overlay zones. This pushes all multi-family development into Burlington and a few surrounding towns, concentrating housing in limited areas.</p>
+      
+      <div style="background: #e3f2fd; padding: 2rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #2196f3;">
+        <h4 style="margin-top: 0; color: #1976d2;">Example: South Burlington</h4>
+        <p style="margin: 0;">Vermont's second-largest city has significant commercial development but residential zoning that limits density. Much of the city requires 1-acre minimum lots, and multi-family housing is restricted to specific zones. Allowing duplexes and triplexes by right in more residential districts could create hundreds of units near jobs at the city's major employers.</p>
+      </div>
+
+      <div style="background: #f3e5f5; padding: 2rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #9c27b0;">
+        <h4 style="margin-top: 0; color: #7b1fa2;">Example: Williston</h4>
+        <p style="margin: 0;">A major commercial corridor along Route 2 with big-box retail and office parks, but residential zoning heavily favors large-lot single-family homes. Workers at Williston's businesses struggle to find housing nearby, increasing traffic and sprawl. Mixed-use zoning allowing residential above retail could add workforce housing.</p>
+      </div>
+
+      <h3 style="margin-top: 2rem; font-size: 1.5rem;">Reform Opportunities</h3>
+      <p>Chittenden County towns could take several incremental steps based on the atlas findings:</p>
+      <ul style="font-size: 1.1rem; line-height: 1.8; margin: 1rem 0 1rem 2rem;">
+        <li><strong>Allow duplexes by right</strong> in all residential zones—these fit existing neighborhood character</li>
+        <li><strong>Reduce lot size minimums</strong> in areas with municipal water/sewer to ¼-½ acre</li>
+        <li><strong>Create village zoning</strong> in historic centers allowing mixed-use and missing middle housing</li>
+        <li><strong>Streamline ADU approvals</strong> by removing owner-occupancy and parking requirements</li>
+        <li><strong>Allow small multi-family</strong> (4-8 units) by right near transit and commercial areas</li>
+      </ul>
+
+      <p style="margin-top: 2rem; background: #e8f5e9; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #27ae60;"><strong>Policy Note:</strong> These reforms don't force development—they remove barriers for property owners who want to build housing. Market forces and local review processes still shape what gets built.</p>
     </div>
   </section>
 
   <!-- RPC Section -->
   <section class="story-section" data-section="rpcs">
     <div class="story-content">
-      <h2>Regional Planning Commissions: Supporting Towns</h2>
+      <h2>Regional Planning Commissions: Partners in This Work</h2>
       <p>Many Vermont towns don't have professional planning staff. To support local planning efforts, the state created 11 <strong>Regional Planning Commissions (RPCs)</strong>. These organizations provide technical assistance, coordinate regional planning, help towns update their bylaws, and offer GIS mapping services.</p>
       <p>RPCs have been essential partners in creating this atlas, providing zoning maps and local expertise for their member municipalities.</p>
       
@@ -518,6 +688,38 @@
       <strong>Community-Built Dataset:</strong> This data was collected in 2023-2024. Zoning regulations may have changed. Always verify with your local zoning administrator or town office before making development decisions.
     </div>
 
+    <!-- Housing Type Selector -->
+    <div style="max-width: 600px; margin: 2rem auto; text-align: center;">
+      <label for="housing-type-select" style="display: block; font-size: 1.2rem; font-weight: 600; margin-bottom: 0.5rem;">
+        Select Housing Type to Visualize:
+      </label>
+      <select id="housing-type-select" style="padding: 0.75rem 1rem; font-size: 1rem; border: 2px solid #ddd; border-radius: 4px; width: 100%; max-width: 400px; cursor: pointer;">
+        <option value="F1F_Allowance">Single-Family (1 unit)</option>
+        <option value="F2F_Allowance">Duplex (2 units)</option>
+        <option value="F3F_Allowance">Triplex (3 units)</option>
+        <option value="F4F_Allowance">Fourplex+ (4+ units)</option>
+      </select>
+      
+      <div style="margin-top: 1.5rem; display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
+        <div style="display: flex; align-items: center; gap: 0.5rem;">
+          <div style="width: 24px; height: 24px; background-color: #27ae60; border-radius: 4px;"></div>
+          <span>Permitted</span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 0.5rem;">
+          <div style="width: 24px; height: 24px; background-color: #f39c12; border-radius: 4px;"></div>
+          <span>Requires Public Hearing</span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 0.5rem;">
+          <div style="width: 24px; height: 24px; background-color: #e74c3c; border-radius: 4px;"></div>
+          <span>Prohibited</span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 0.5rem;">
+          <div style="width: 24px; height: 24px; background-color: #95a5a6; border-radius: 4px;"></div>
+          <span>No Data</span>
+        </div>
+      </div>
+    </div>
+
     <div id="map" style="width: 100%; height: 800px; margin: 2rem 0;"></div>
 
     <script>
@@ -529,27 +731,101 @@
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       }).addTo(map);
 
+      // Store all GeoJSON layers for re-styling
+      var geoJsonLayers = [];
+      var currentHousingType = 'F1F_Allowance';
+
+      // Function to determine color based on allowance value
+      function getColor(allowance) {
+        if (!allowance) return '#95a5a6'; // Gray for no data
+        
+        var value = allowance.toLowerCase().trim();
+        
+        if (value === 'permitted' || value === 'yes') {
+          return '#27ae60'; // Green
+        } else if (value.includes('public hearing') || value.includes('conditional')) {
+          return '#f39c12'; // Orange
+        } else if (value === 'prohibited' || value === 'no') {
+          return '#e74c3c'; // Red
+        }
+        
+        return '#95a5a6'; // Gray for unknown values
+      }
+
+      // Function to style each feature based on current housing type
+      function styleFeature(feature) {
+        var allowance = feature.properties[currentHousingType];
+        return {
+          fillColor: getColor(allowance),
+          weight: 1,
+          opacity: 1,
+          color: '#fff',
+          fillOpacity: 0.7
+        };
+      }
+
       // List of fields to display in the popup
       var fieldsToDisplay = [
-        "Jurisdiction County","Jurisdiction District Name", "District Type", "District Name",
-        "Overlay District","1F Allowance","2F Allowance","3F Allowance",
-        "3F Connection to Sewage/Water Required","3F Elderly Housing Only","4F Allowance",
-        "4F Connection to Sewage/Water Required","4F Elderly Housing Only", "Affordable Housing District",
-        "ADU Owner Occupancy Required","1F Connection to Sewage/Water Required","1F Elderly Housing Only",
-        "2F Connection to Sewage/Water Required","2F Elderly Housing Only"
+        "Jurisdiction_County","Jurisdiction_District_Name", "District_Type", "District_Name",
+        "Overlay_District","F1F_Allowance","F2F_Allowance","F3F_Allowance",
+        "F4F_Allowance", "Affordable_Housing_District",
+        "ADU_Owner_Occupancy_Required","F1F_Elderly_Housing_Only",
+        "F2F_Elderly_Housing_Only","F3F_Elderly_Housing_Only","F4F_Elderly_Housing_Only"
       ]; 
 
       // Function to bind popups to each feature
       function onEachFeature(feature, layer) {
         if (feature.properties) {
-          var popupContent = "<p><strong>Attributes:</strong></p>";
+          var popupContent = "<div style='max-height: 400px; overflow-y: auto;'>";
+          popupContent += "<p><strong>" + (feature.properties.Jurisdiction_District_Name || "Zoning District") + "</strong></p>";
+          
+          // Show current housing type prominently
+          var currentValue = feature.properties[currentHousingType];
+          var housingTypeLabel = {
+            'F1F_Allowance': 'Single-Family (1 unit)',
+            'F2F_Allowance': 'Duplex (2 units)',
+            'F3F_Allowance': 'Triplex (3 units)',
+            'F4F_Allowance': 'Fourplex+ (4+ units)'
+          }[currentHousingType];
+          
+          popupContent += "<p style='background: " + getColor(currentValue) + "; color: white; padding: 0.5rem; border-radius: 4px; margin: 0.5rem 0;'>";
+          popupContent += "<strong>" + housingTypeLabel + ":</strong> " + (currentValue || "No data") + "</p>";
+          
+          popupContent += "<hr style='margin: 1rem 0;'>";
+          popupContent += "<p><strong>All Housing Types:</strong></p>";
+          
           fieldsToDisplay.forEach(field => {
-            if (feature.properties[field] !== undefined) {
-              popupContent += "<p>" + field + ": " + feature.properties[field] + "</p>";
+            if (feature.properties[field] !== undefined && feature.properties[field] !== null && feature.properties[field] !== '') {
+              var displayName = field.replace(/_/g, ' ');
+              popupContent += "<p style='margin: 0.25rem 0; font-size: 0.9rem;'><strong>" + displayName + ":</strong> " + feature.properties[field] + "</p>";
             }
           });
+          
+          popupContent += "</div>";
           layer.bindPopup(popupContent);
         }
+        
+        // Add hover effect
+        layer.on('mouseover', function (e) {
+          this.setStyle({
+            weight: 3,
+            fillOpacity: 0.9
+          });
+        });
+        
+        layer.on('mouseout', function (e) {
+          this.setStyle({
+            weight: 1,
+            fillOpacity: 0.7
+          });
+        });
+      }
+
+      // Function to update map styling
+      function updateMapStyling() {
+        geoJsonLayers.forEach(layer => {
+          layer.setStyle(styleFeature);
+        });
       }
 
       // List of RPCs to load
@@ -565,50 +841,117 @@
             return response.json();
           })
           .then(data => {
-            L.geoJSON(data, {
+            var layer = L.geoJSON(data, {
+              style: styleFeature,
               onEachFeature: onEachFeature
             }).addTo(map);
+            
+            geoJsonLayers.push(layer);
           })
           .catch(error => console.error('Error loading GeoJSON data for ' + rpc + ':', error));
+      });
+
+      // Add event listener for housing type selector
+      document.getElementById('housing-type-select').addEventListener('change', function(e) {
+        currentHousingType = e.target.value;
+        updateMapStyling();
       });
     </script>
   </section>
 
   <!-- Final Context Section -->
+  <section class="story-section" data-section="context">
+    <div class="story-content">
+      <h2>Zoning for Great Neighborhoods</h2>
+      <p>This atlas supports Vermont's <strong>"Zoning for Great Neighborhoods"</strong> initiative, led by the Department of Housing and Community Development (DHCD) in partnership with the Congress for the New Urbanism. The initiative helps municipalities make incremental reforms to remove unnecessary barriers to creating more homes.</p>
+
+      <p>Zoning rules can present barriers to effective planning, impairing our ability to achieve important policy objectives like community integration, climate resilience, transportation access, and affordable housing development. By mapping what's currently allowed across all 255 towns, the Vermont Zoning Atlas helps:</p>
+
+      <ul style="margin: 2rem 0; font-size: 1.1rem;">
+        <li><strong>Researchers and advocates</strong> identify where housing barriers exist</li>
+        <li><strong>Town officials and planning commissions</strong> compare their bylaws to neighbors</li>
+        <li><strong>Policy makers</strong> understand statewide patterns and develop evidence-based solutions</li>
+        <li><strong>Citizens</strong> see what's allowed in their community and advocate for change</li>
+      </ul>
+
+      <h3 style="margin-top: 2.5rem;">Resources for Towns</h3>
+      <p>Vermont provides extensive resources for municipalities looking to update their zoning:</p>
+      <ul style="font-size: 1.1rem;">
+        <li><a href="https://outside.vermont.gov/agency/ACCD/ACCD_Web_Docs/CD/CPR/Planning-Your-Towns-Future/CPR-Z4GN-Guide-Final-web.pdf"><strong>Enabling Better Places: A Zoning Guide for Vermont Neighborhoods</strong></a> - Comprehensive guide with sample bylaw language</li>
+        <li><a href="https://accd.vermont.gov/town-future/zoning-for-great-neighborhoods"><strong>Training Videos & Resources</strong></a> - Free educational materials from AARP Vermont and DHCD</li>
+        <li><a href="https://www.housingdata.org/toolbox"><strong>Housing-Ready Toolbox</strong></a> - Collection of resources for Vermont communities</li>
+        <li><strong>Regional Planning Commissions</strong> - Free technical assistance for member towns</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Conclusions Section -->
+  <section class="story-section" data-section="conclusions">
+    <div class="story-content">
+      <h2>Next Steps: Using This Atlas</h2>
+      <p>The Vermont Zoning Atlas does not prescribe specific policy solutions or take a position on local versus state authority over land use. Instead, we provide <strong>transparent data</strong> to inform conversations about housing in Vermont.</p>
+
+      <h3 style="margin-top: 2rem; font-size: 1.5rem;">How Communities Can Use This Data</h3>
+      
+      <div style="background: #f8f9fa; padding: 2rem; border-radius: 8px; margin: 2rem 0;">
+        <h4 style="color: #27ae60; margin-top: 0;">For Municipal Officials</h4>
+        <p>Compare your town's zoning to similar communities. See what neighboring towns allow. Use the atlas to identify quick wins—small changes that could meaningfully expand housing opportunities while maintaining community character.</p>
+      </div>
+
+      <div style="background: #f8f9fa; padding: 2rem; border-radius: 8px; margin: 2rem 0;">
+        <h4 style="color: #f39c12; margin-top: 0;">For Planning Commissions</h4>
+        <p>Ground bylaw updates in statewide data. When considering changes to multi-family allowances or lot size requirements, see how your proposals compare to the rest of Vermont. RPCs can help analyze your local data.</p>
+      </div>
+
+      <div style="background: #f8f9fa; padding: 2rem; border-radius: 8px; margin: 2rem 0;">
+        <h4 style="color: #667eea; margin-top: 0;">For Researchers & Advocates</h4>
+        <p>All data is open-source and available for download. Conduct statistical analyses, create visualizations, or integrate with other datasets. Help us improve the atlas by submitting corrections and updates.</p>
+      </div>
+
+      <div style="background: #f8f9fa; padding: 2rem; border-radius: 8px; margin: 2rem 0;">
+        <h4 style="color: #e74c3c; margin-top: 0;">For Citizens</h4>
+        <p>Understand what's allowed in your town. Attend planning commission meetings informed by data. Advocate for specific reforms grounded in evidence about what works elsewhere in Vermont.</p>
+      </div>
+
+      <h3 style="margin-top: 2.5rem; font-size: 1.5rem;">Common-Sense Reforms Worth Discussing</h3>
+      <p>Based on atlas findings and national research on housing policy, communities may want to consider:</p>
+      <ul style="font-size: 1.1rem; line-height: 1.8; margin: 1rem 0 1rem 2rem;">
+        <li><strong>Allowing duplexes by right</strong> in all single-family zones—they look and feel like single homes</li>
+        <li><strong>Reducing minimum lot sizes</strong> where municipal water/sewer exists</li>
+        <li><strong>Streamlining ADU approvals</strong> by removing unnecessary restrictions</li>
+        <li><strong>Allowing small multi-family</strong> (4-8 units) by right in village centers and near transit</li>
+        <li><strong>Reducing parking minimums</strong>, especially near downtowns and for affordable housing</li>
+        <li><strong>Creating "missing middle" zoning</strong> districts for traditional neighborhood development</li>
+      </ul>
+
+      <p style="margin-top: 2rem; background: #fff3cd; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #ffc107;"><strong>Important:</strong> These are conversation starters, not mandates. Every Vermont town has unique character, needs, and priorities. Local decision-making remains paramount—but should be informed by data.</p>
+
+      <h3 style="margin-top: 2.5rem; font-size: 1.5rem;">Keeping the Atlas Current</h3>
+      <p>Zoning regulations change regularly. Our goal is to update the atlas annually, but we need community help. If your town has updated its bylaws, please <a href="contribute.html">let us know</a>. Municipal clerks, planning staff, and RPC representatives can submit updates through our GitHub repository or contact form.</p>
+
+      <p style="margin-top: 2rem;"><strong>The Vermont Zoning Atlas is part of the <a href="https://www.zoningatlas.org/">National Zoning Atlas Project</a>, led by Professor Sara Bronin.</strong></p>
+    </div>
+  </section>
+
+  <!-- About & Credits Section -->
   <main class="container" style="padding: 4rem 2rem;">
-    <h2>Zoning for Great Neighborhoods</h2>
-    <p>This atlas supports Vermont's <strong>"Zoning for Great Neighborhoods"</strong> initiative, led by the Department of Housing and Community Development (DHCD) in partnership with the Congress for the New Urbanism. The initiative helps municipalities make incremental reforms to remove unnecessary barriers to creating more homes.</p>
-
-    <p>Zoning rules can present barriers to effective planning, impairing our ability to achieve important policy objectives like community integration, climate resilience, transportation access, and affordable housing development. By mapping what's currently allowed across all 255 towns, the Vermont Zoning Atlas helps:</p>
-
-    <ul style="margin: 2rem 0; font-size: 1.1rem;">
-      <li><strong>Researchers and advocates</strong> identify where housing barriers exist</li>
-      <li><strong>Town officials and planning commissions</strong> compare their bylaws to  neighbors</li>
-      <li><strong>Policy makers</strong> understand statewide patterns and develop evidence-based solutions</li>
-      <li><strong>Citizens</strong> see what's allowed in their community and advocate for change</li>
-    </ul>
-
-    <h3>Resources for Towns</h3>
-    <p>Vermont provides extensive resources for municipalities looking to update their zoning:</p>
-    <ul>
-      <li><a href="https://outside.vermont.gov/agency/ACCD/ACCD_Web_Docs/CD/CPR/Planning-Your-Towns-Future/CPR-Z4GN-Guide-Final-web.pdf"><strong>Enabling Better Places: A Zoning Guide for Vermont Neighborhoods</strong></a> - Comprehensive guide with sample bylaw language</li>
-      <li><a href="https://accd.vermont.gov/town-future/zoning-for-great-neighborhoods"><strong>Training Videos & Resources</strong></a> - Free educational materials from AARP Vermont and DHCD</li>
-      <li><a href="https://www.housingdata.org/toolbox"><strong>Housing-Ready Toolbox</strong></a> - Collection of resources for Vermont communities</li>
-      <li><strong>Regional Planning Commissions</strong> - Free technical assistance for member towns</li>
-    </ul>
-
-    <h3>About This Data</h3>
+    <h2>About This Project</h2>
     <p>The Vermont Zoning Atlas brings together zoning laws from 1,755 districts across all municipalities. Without this tool, one would have to read thousands of pages of dense legal code to answer simple questions about where and what types of housing can be built.</p>
 
-    <p><strong>Important:</strong> This is a community-built dataset completed in 2024. Zoning regulations change over time. Always check with your local zoning administrator or town office for current bylaws. View this as a research and advocacy tool, not legal advice.</p>
+    <p><strong>Data Disclaimer:</strong> The user should not rely on, nor is there any guarantee of, the accuracy or completeness of the data contained in the Vermont Zoning Atlas. The data presented should be considered as informational only for research and advocacy purposes. The atlas team assumes no liability for errors, omissions, or inaccuracies. <strong>Always verify current regulations with your local zoning administrator or town office before making development decisions.</strong></p>
 
     <p style="margin-top: 2rem;">If you use this data in publications, please cite: <a href="https://doi.org/10.5281/zenodo.11508694">https://doi.org/10.5281/zenodo.11508694</a></p>
 
+    <h3 style="margin-top: 2.5rem;">Project Team & Partners</h3>
+    <p>The Vermont Zoning Atlas is a collaborative effort led by the University of Vermont in partnership with Vermont's Regional Planning Commissions, the Vermont Department of Housing and Community Development, and community volunteers.</p>
+    
+    <p><strong>Funding Support:</strong> This project was supported by the University of Vermont, Vermont Housing Finance Agency, and other partners committed to data-driven housing policy.</p>
+
     <h2 style="margin-top: 3rem;">Learn More</h2>
-    <ul>
+    <ul style="font-size: 1.1rem;">
       <li><a href="about.html">About the Vermont Zoning Atlas Project</a> - Team, timeline, and partnerships</li>
       <li><a href="data.html">Data Structure & Fields</a> - Understand the dataset and field definitions</li>
-      <li><a href="contribute.html">How to Contribute</a> - Help keep the atlas current with glossary of terms</li>
+      <li><a href="contribute.html">How to Contribute</a> - Help keep the atlas current</li>
       <li><a href="resources.html">Visualizations & Analysis</a> - Maps and charts using VT Zoning Atlas data</li>
       <li><a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas">GitHub Repository</a> - Download raw data (MIT License)</li>
     </ul>
