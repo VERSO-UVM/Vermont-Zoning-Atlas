@@ -5,9 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vermont Zoning Atlas</title>
   <meta name="description" content="The Vermont Zoning Atlas is a web-based geospatial interface that visualizes zoning code distributions across all of Vermont.">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <link rel="stylesheet" href="styles.css">
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/proj4@2.9.0/dist/proj4.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/proj4leaflet@1.0.2/src/proj4leaflet.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <style>
     /* Story-specific styles */
@@ -843,6 +845,9 @@
       // Store all GeoJSON layers for re-styling
       var geoJsonLayers = [];
       var currentHousingType = 'F1F_Allowance';
+      var loadedCount = 0;
+      var failedCount = 0;
+      var failedFiles = [];
 
       // Function to determine color based on allowance value
       function getColor(allowance) {
@@ -987,11 +992,13 @@
       ];
 
       // Load each municipality's GeoJSON data
+      console.log('Starting to load ' + vtMunicipalities.length + ' GeoJSON files...');
+      
       vtMunicipalities.forEach(municipality => {
         fetch('data/State_of_Vermont/' + municipality + '.geojson')
           .then(response => {
             if (!response.ok) {
-              throw new Error('Network response was not ok ' + response.statusText);
+              throw new Error('HTTP ' + response.status + ': ' + response.statusText);
             }
             return response.json();
           })
@@ -1002,8 +1009,38 @@
             }).addTo(map);
             
             geoJsonLayers.push(layer);
+            loadedCount++;
+            
+            if (loadedCount === 1) {
+              console.log('First file loaded successfully: ' + municipality);
+              console.log('Sample coordinates from first feature:', 
+                data.features[0] ? data.features[0].geometry.coordinates : 'No features');
+            }
+            
+            if (loadedCount + failedCount === vtMunicipalities.length) {
+              console.log('Loading complete: ' + loadedCount + ' succeeded, ' + failedCount + ' failed');
+              if (failedFiles.length > 0) {
+                console.log('Failed files:', failedFiles);
+              }
+              // Fit map to all loaded data
+              if (geoJsonLayers.length > 0) {
+                var group = L.featureGroup(geoJsonLayers);
+                map.fitBounds(group.getBounds(), { padding: [20, 20] });
+              }
+            }
           })
-          .catch(error => console.error('Error loading GeoJSON data for ' + municipality + ':', error));
+          .catch(error => {
+            failedCount++;
+            failedFiles.push(municipality);
+            console.error('Error loading ' + municipality + ':', error.message);
+            
+            if (loadedCount + failedCount === vtMunicipalities.length) {
+              console.log('Loading complete: ' + loadedCount + ' succeeded, ' + failedCount + ' failed');
+              if (failedFiles.length > 0) {
+                console.log('Failed files:', failedFiles);
+              }
+            }
+          });
       });
 
       // Add event listener for housing type selector
