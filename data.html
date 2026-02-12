@@ -6,6 +6,124 @@
   <title>Data - Vermont Zoning Atlas</title>
   <meta name="description" content="Data structure and field descriptions for the Vermont Zoning Atlas.">
   <link rel="stylesheet" href="styles.css">
+  <style>
+    /* Story-specific styles - matching homepage */
+    .story-section {
+      min-height: auto;
+      padding: 4rem 2rem;
+      opacity: 0;
+      transform: translateY(50px);
+      transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+    }
+
+    .story-section.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .story-section:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+
+    .story-content {
+      max-width: 1000px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .story-section h2 {
+      font-size: 2.5rem;
+      margin-bottom: 2rem;
+      color: #333;
+    }
+
+    .story-section p {
+      font-size: 1.25rem;
+      line-height: 1.8;
+      margin-bottom: 1.5rem;
+    }
+
+    .story-section h3 {
+      font-size: 1.5rem;
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      color: #2a7ae2;
+    }
+
+    .hero-section {
+      min-height: 40vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 4rem 2rem;
+    }
+
+    .hero-section h1 {
+      font-size: 3.5rem;
+      margin-bottom: 1rem;
+      color: white;
+    }
+
+    .hero-section p {
+      font-size: 1.3rem;
+      max-width: 800px;
+      margin: 0 auto;
+      opacity: 0.95;
+    }
+
+    .story-section table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 2rem 0;
+      background: white;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .story-section table th,
+    .story-section table td {
+      padding: 1rem;
+      text-align: left;
+      border-bottom: 1px solid #e0e0e0;
+    }
+
+    .story-section table thead {
+      background: #667eea;
+      color: white;
+    }
+
+    .story-section table tbody tr:hover {
+      background: #f5f5f5;
+    }
+
+    .story-section table td:first-child {
+      font-weight: 500;
+    }
+
+    @media (max-width: 768px) {
+      .hero-section h1 {
+        font-size: 2rem;
+      }
+      
+      .story-section h2 {
+        font-size: 2rem;
+      }
+
+      .story-section table {
+        font-size: 0.9rem;
+      }
+
+      .story-section table th,
+      .story-section table td {
+        padding: 0.5rem;
+      }
+    }
+  </style>
 </head>
 <body>
   <header>
@@ -20,10 +138,18 @@
     </div>
   </header>
 
-  <main class="container">
-    <h1>Data</h1>
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <h1>Data Documentation</h1>
+    <p>Complete field descriptions and structure for Vermont's zoning database</p>
+  </section>
 
-    <p>Data has been broken into smaller files for ease in editing. In "<a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/RPCs">data/RPC</a>" all the zoning files are split out into the Regional Planning Commissions (RPC). This geojson can be explored in the abbreviated viewer on the homepage of this site or downloaded for further analysis.</p>
+  <!-- Data Structure Section -->
+  <section class="story-section" data-section="structure">
+    <div class="story-content">
+      <h2>Data Structure</h2>
+      
+      <p>Data has been broken into smaller files for ease in editing. In "<a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/RPCs">data/RPC</a>" all the zoning files are split out into the Regional Planning Commissions (RPC). This geojson can be explored in the abbreviated viewer on the homepage of this site or downloaded for further analysis.</p>
 
     <table>
       <thead>
@@ -90,17 +216,27 @@
           <td>WRC</td>
         </tr>
       </tbody>
-    </table>
+      </table>
 
-    <p>There is also a state-wide single file, "<a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/State_of_Vermont">data/State of Vermont</a>", this is not the preferred way to update the files but rather for analysis.</p>
+      <p>There is also a state-wide single file, "<a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/State_of_Vermont">data/State of Vermont</a>", this is not the preferred way to update the files but rather for analysis.</p>
 
-    <p>If you are interested in viewing the legal PDFs downloaded as part of this process, explore "<a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/Town_Bylaw_Text">data/Town_Bylaw_Text</a>" and the downloaded maps from town websites here: "<a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/Town_Zoning_Maps">data/Town_Zoning_Maps</a>"</p>
+      <p>If you are interested in viewing the legal PDFs downloaded as part of this process, explore "<a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/Town_Bylaw_Text">data/Town_Bylaw_Text</a>" and the downloaded maps from town websites here: "<a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/Town_Zoning_Maps">data/Town_Zoning_Maps</a>"</p>
+    </div>
+  </section>
 
-    <h2>Collection Timeline and Data Error Warning</h2>
-    <p>This effort is a collection of teams which includes volunteers, interns, and students. This was done over a year period from 2023-2024 and during this time updates to the zoning codes have already made some of this data inaccurate. It is likely that this data will only be updated once a year at most so this data can be out of date. It is also possible that the regulation from the State of Vermont may not be reflected in town zoning just due to the time it takes to update and comply with legislation and the very limited capacity many of these towns have to complete that work.</p>
+  <!-- Data Quality Section -->
+  <section class="story-section" data-section="quality">
+    <div class="story-content">
+      <h2>Collection Timeline and Data Quality</h2>
+      <p>This effort is a collection of teams which includes volunteers, interns, and students. This was done over a year period from 2023-2024 and during this time updates to the zoning codes have already made some of this data inaccurate. It is likely that this data will only be updated once a year at most so this data can be out of date. It is also possible that the regulation from the State of Vermont may not be reflected in town zoning just due to the time it takes to update and comply with legislation and the very limited capacity many of these towns have to complete that work.</p>
+    </div>
+  </section>
 
-    <h2>Fields</h2>
-    <p>There is a large number of fields, the naming and in some cases the implementation will differ from the National Zoning Atlas. We will also only be maintaining a subset of these dataset over time and markers will be added to the list below when that has been determined.</p>
+  <!-- Fields Section -->
+  <section class="story-section" data-section="fields">
+    <div class="story-content">
+      <h2>Field Descriptions</h2>
+      <p>There is a large number of fields, the naming and in some cases the implementation will differ from the National Zoning Atlas. We will also only be maintaining a subset of these dataset over time and markers will be added to the list below when that has been determined.</p>
 
     <table>
       <thead>
@@ -248,10 +384,11 @@
           <td>Yes</td>
         </tr>
       </tbody>
-    </table>
+      </table>
 
-    <p><strong>Note:</strong> This table shows a subset of key fields. The complete dataset includes 60+ fields covering dimensional standards (lot size, setbacks, height, parking), process requirements, and housing-specific regulations. For a comprehensive field list, see the <a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/data.md">full documentation on GitHub</a>.</p>
-  </main>
+      <p><strong>Note:</strong> This table shows a subset of key fields. The complete dataset includes 60+ fields covering dimensional standards (lot size, setbacks, height, parking), process requirements, and housing-specific regulations. For a comprehensive field list, see the <a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/data.md">full documentation on GitHub</a>.</p>
+    </div>
+  </section>
 
   <footer>
     <div class="container">
@@ -259,5 +396,25 @@
       <p>Repository: <a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas">VERSO-UVM/Vermont-Zoning-Atlas</a></p>
     </div>
   </footer>
+
+  <script>
+    // Scroll animations
+    const observerOptions = {
+      threshold: 0.2,
+      rootMargin: '0px 0px -100px 0px'
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+        }
+      });
+    }, observerOptions);
+
+    document.querySelectorAll('.story-section').forEach(section => {
+      observer.observe(section);
+    });
+  </script>
 </body>
 </html>

@@ -6,6 +6,109 @@
   <title>Resources - Vermont Zoning Atlas</title>
   <meta name="description" content="Resources, visualizations, and analysis tools for exploring Vermont zoning data.">
   <link rel="stylesheet" href="styles.css">
+  <style>
+    /* Story-specific styles - matching homepage */
+    .story-section {
+      min-height: auto;
+      padding: 4rem 2rem;
+      opacity: 0;
+      transform: translateY(50px);
+      transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+    }
+
+    .story-section.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .story-section:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+
+    .story-content {
+      max-width: 1000px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .story-section h2 {
+      font-size: 2.5rem;
+      margin-bottom: 2rem;
+      color: #333;
+    }
+
+    .story-section p {
+      font-size: 1.25rem;
+      line-height: 1.8;
+      margin-bottom: 1.5rem;
+    }
+
+    .story-section ul {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      margin: 1rem 0 1rem 2rem;
+    }
+
+    .story-section ul li {
+      margin-bottom: 1rem;
+    }
+
+    .story-section h3 {
+      font-size: 1.5rem;
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      color: #2a7ae2;
+    }
+
+    .hero-section {
+      min-height: 40vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 4rem 2rem;
+    }
+
+    .hero-section h1 {
+      font-size: 3.5rem;
+      margin-bottom: 1rem;
+      color: white;
+    }
+
+    .hero-section p {
+      font-size: 1.3rem;
+      max-width: 800px;
+      margin: 0 auto;
+      opacity: 0.95;
+    }
+
+    .resource-card {
+      background: white;
+      padding: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+      border-left: 4px solid #667eea;
+      margin-bottom: 1.5rem;
+    }
+
+    .resource-card h3 {
+      margin-top: 0;
+      color: #667eea;
+    }
+
+    @media (max-width: 768px) {
+      .hero-section h1 {
+        font-size: 2rem;
+      }
+      
+      .story-section h2 {
+        font-size: 2rem;
+      }
+    }
+  </style>
 </head>
 <body>
   <header>
@@ -20,30 +123,60 @@
     </div>
   </header>
 
-  <main class="container">
-    <h1>Resources</h1>
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <h1>Resources & Tools</h1>
+    <p>Visualizations, analysis tools, and information for exploring Vermont zoning</p>
+  </section>
 
-    <p>This is a collection of resources, maps, analysis and other things that we think will help you explore zoning.</p>
+  <!-- Visualizations Section -->
+  <section class="story-section" data-section="visualizations">
+    <div class="story-content">
+      <h2>Visualizations from the Vermont Zoning Atlas Data</h2>
+      
+      <div class="resource-card">
+        <h3><a href="https://arcg.is/TaTuz0">VCGI Interactive Map</a></h3>
+        <p>Created by VCGI, this map explores where different types of housing can be built according to an analysis of zoning districts across Vermont.</p>
+      </div>
 
-    <h2>Visualizations from the Vermont Zoning Atlas Data</h2>
-    <ul>
-      <li><a href="https://arcg.is/TaTuz0">VCGI Map</a> - Created by VCGI it explores where different types of housing can be built according to an analysis of zoning districts across Vermont</li>
-      <li><a href="https://arcg.is/0OiKiq">1 Family Min Lot Size Visualization</a> - Created by VERSO</li>
-      <li><a href="https://arcg.is/1Dq9qu">2 Family Min Lot Size Visualization</a> - Created by VERSO</li>
-    </ul>
+      <div class="resource-card">
+        <h3><a href="https://arcg.is/0OiKiq">1 Family Minimum Lot Size Visualization</a></h3>
+        <p>Created by VERSO, this map shows minimum lot size requirements for single-family homes across Vermont municipalities.</p>
+      </div>
 
-    <h2>Project Links</h2>
-    <ul>
-      <li><a href="https://github.com/VERSO-UVM/VT_Zoning_Atlas">VT Zoning Atlas GitHub Repository</a></li>
-      <li><a href="https://verso-uvm.github.io/Vermont-Livability-Map/">Vermont Livability Map (BETA)</a></li>
-    </ul>
+      <div class="resource-card">
+        <h3><a href="https://arcg.is/1Dq9qu">2 Family Minimum Lot Size Visualization</a></h3>
+        <p>Created by VERSO, this map displays minimum lot size requirements for two-family homes across Vermont municipalities.</p>
+      </div>
+    </div>
+  </section>
 
-    <h2>State Resources</h2>
-    <p><a href="https://storymaps.arcgis.com/collections/0cfc7acbdec94ef4a13072e6129a8388">State of Vermont - Housing Development in Vermont</a><br>
-    A look at new construction and other data related to the creation of new housing opportunities across the state.</p>
+  <!-- Project Links Section -->
+  <section class="story-section" data-section="projects">
+    <div class="story-content">
+      <h2>Related Projects</h2>
+      <ul>
+        <li><a href="https://github.com/VERSO-UVM/VT_Zoning_Atlas">VT Zoning Atlas GitHub Repository</a> - Full source code and data files</li>
+        <li><a href="https://verso-uvm.github.io/Vermont-Livability-Map/">Vermont Livability Map (BETA)</a> - Explore walkability and livability metrics across Vermont</li>
+      </ul>
+    </div>
+  </section>
 
-    <p>For additional Vermont housing data and information, please see <a href="https://accd.vermont.gov/housing/plans-data-rules/needs-assessment">Vermont's Housing Needs Assessment</a> and <a href="https://www.housingdata.org/">www.housingdata.org</a> maintained by the Vermont Housing Finance Agency. Please send any feedback and questions regarding the dashboards and maps on this page to vcgi@vermont.gov.</p>
-  </main>
+  <!-- State Resources Section -->
+  <section class="story-section" data-section="state">
+    <div class="story-content">
+      <h2>State Resources</h2>
+      
+      <div class="resource-card">
+        <h3><a href="https://storymaps.arcgis.com/collections/0cfc7acbdec94ef4a13072e6129a8388">State of Vermont - Housing Development in Vermont</a></h3>
+        <p>A look at new construction and other data related to the creation of new housing opportunities across the state.</p>
+      </div>
+
+      <p>For additional Vermont housing data and information, please see <a href="https://accd.vermont.gov/housing/plans-data-rules/needs-assessment">Vermont's Housing Needs Assessment</a> and <a href="https://www.housingdata.org/">www.housingdata.org</a> maintained by the Vermont Housing Finance Agency.</p>
+      
+      <p>Please send any feedback and questions regarding the dashboards and maps on this page to vcgi@vermont.gov.</p>
+    </div>
+  </section>
 
   <footer>
     <div class="container">
@@ -51,5 +184,25 @@
       <p>Repository: <a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas">VERSO-UVM/Vermont-Zoning-Atlas</a></p>
     </div>
   </footer>
+
+  <script>
+    // Scroll animations
+    const observerOptions = {
+      threshold: 0.2,
+      rootMargin: '0px 0px -100px 0px'
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+        }
+      });
+    }, observerOptions);
+
+    document.querySelectorAll('.story-section').forEach(section => {
+      observer.observe(section);
+    });
+  </script>
 </body>
 </html>
