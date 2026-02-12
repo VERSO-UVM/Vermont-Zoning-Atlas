@@ -1168,9 +1168,10 @@
       ];
 
       // Load each municipality's GeoJSON data
-      console.log('Starting to load ' + vtMunicipalities.length + ' GeoJSON files...');
+      var filteredMunicipalities = vtMunicipalities.filter(municipality => !municipality.name.includes('Overlay'));
+      console.log('Starting to load ' + filteredMunicipalities.length + ' GeoJSON files...');
       
-      vtMunicipalities.forEach(municipality => {
+      filteredMunicipalities.forEach(municipality => {
         fetch('data/State_of_Vermont/' + municipality.name + '.' + municipality.ext)
           .then(response => {
             if (!response.ok) {
@@ -1193,7 +1194,7 @@
                 data.features[0] ? data.features[0].geometry.coordinates : 'No features');
             }
             
-            if (loadedCount + failedCount === vtMunicipalities.length) {
+            if (loadedCount + failedCount === filteredMunicipalities.length) {
               console.log('Loading complete: ' + loadedCount + ' succeeded, ' + failedCount + ' failed');
               if (failedFiles.length > 0) {
                 console.log('Failed files:', failedFiles);
@@ -1210,7 +1211,7 @@
             failedFiles.push(municipality.name);
             console.error('Error loading ' + municipality.name + ':', error.message);
             
-            if (loadedCount + failedCount === vtMunicipalities.length) {
+            if (loadedCount + failedCount === filteredMunicipalities.length) {
               console.log('Loading complete: ' + loadedCount + ' succeeded, ' + failedCount + ' failed');
               if (failedFiles.length > 0) {
                 console.log('Failed files:', failedFiles);
