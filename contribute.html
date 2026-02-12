@@ -6,6 +6,121 @@
   <title>Contribute - Vermont Zoning Atlas</title>
   <meta name="description" content="Learn how to contribute to the Vermont Zoning Atlas project and explore our zoning glossary.">
   <link rel="stylesheet" href="styles.css">
+  <style>
+    /* Story-specific styles - matching homepage */
+    .story-section {
+      min-height: auto;
+      padding: 4rem 2rem;
+      opacity: 0;
+      transform: translateY(50px);
+      transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+    }
+
+    .story-section.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .story-section:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+
+    .story-content {
+      max-width: 1000px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .story-section h2 {
+      font-size: 2.5rem;
+      margin-bottom: 2rem;
+      color: #333;
+    }
+
+    .story-section p {
+      font-size: 1.25rem;
+      line-height: 1.8;
+      margin-bottom: 1.5rem;
+    }
+
+    .story-section h3 {
+      font-size: 1.5rem;
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      color: #2a7ae2;
+    }
+
+    .hero-section {
+      min-height: 40vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 4rem 2rem;
+    }
+
+    .hero-section h1 {
+      font-size: 3.5rem;
+      margin-bottom: 1rem;
+      color: white;
+    }
+
+    .hero-section p {
+      font-size: 1.3rem;
+      max-width: 800px;
+      margin: 0 auto;
+      opacity: 0.95;
+    }
+
+    .glossary-grid {
+      display: grid;
+      gap: 1.5rem;
+      margin-top: 2rem;
+    }
+
+    .glossary-term {
+      background: white;
+      padding: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+      border-left: 4px solid #667eea;
+    }
+
+    .glossary-term dt {
+      font-size: 1.2rem;
+      font-weight: bold;
+      color: #667eea;
+      margin-bottom: 0.5rem;
+    }
+
+    .glossary-term dd {
+      font-size: 1rem;
+      line-height: 1.6;
+      margin: 0;
+      color: #555;
+    }
+
+    .info-box {
+      background: #e8f5e9;
+      padding: 1.5rem;
+      border-left: 4px solid #27ae60;
+      border-radius: 4px;
+      margin: 2rem 0;
+    }
+
+    @media (max-width: 768px) {
+      .hero-section h1 {
+        font-size: 2rem;
+      }
+      
+      .story-section h2 {
+        font-size: 2rem;
+      }
+    }
+  </style>
 </head>
 <body>
   <header>
@@ -20,107 +135,173 @@
     </div>
   </header>
 
-  <main class="container">
-    <h1>Contribute</h1>
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <h1>Contribute to the Atlas</h1>
+    <p>Help us maintain and improve Vermont's zoning data through community collaboration</p>
+  </section>
 
-    <p><em>How can I contribute to the Vermont Zoning Atlas?</em></p>
+  <!-- How to Contribute Section -->
+  <section class="story-section" data-section="contribute">
+    <div class="story-content">
+      <h2>How to Contribute</h2>
+      
+      <p>This is a community project open to collaboration. To maintain data integrity, contributors must follow the correct process. While we follow much of the methodology of the <a href="https://www.zoningatlas.org/atlas">National Zoning Atlas</a>, we deviate in various ways to best reflect Vermont zoning practices. Follow the information below to contribute, and reference the <a href="data.html">Data</a> page for guidance on field values and practices.</p>
 
-    <p>This is a community project open to collaboration and in order to maintain the integrity of the data contributors must follow the correct process in order to help the Vermont Zoning Atlas succeed. While we follow much of the methodology of the <a href="https://www.zoningatlas.org/atlas">National Zoning Atlas</a> we do deviate in a variety of ways to best reflect the Vermont Zoning practices. Follow the information below to contribute, and reference the <a href="data.html">Data</a> page for guidance on field values and practices.</p>
+      <p>Explore <a href="https://www.zoningatlas.org/how">HOW TO MAKE A ZONING ATLAS</a>, a guide with step-by-step instructions about how to list zoning districts, analyze zoning code texts, and collect and upload geospatial information.</p>
 
-    <p>It is also helpful to explore <a href="https://www.zoningatlas.org/how">HOW TO MAKE A ZONING ATLAS</a> which is a guide with step-by-step instructions about how to list zoning districts, analyze zoning code texts, and collect and upload geospatial information into the National Zoning Atlas Editor.</p>
+      <h3>License</h3>
+      <p>This project is under the MIT license. We welcome contributions with the understanding you are submitting them under that license. You are welcome to use, fork and explore this data — that is the point of it!</p>
 
-    <h2>License</h2>
-    <p>This project is under the MIT license, we welcome contributions with the understanding you are submitting it under that license. You are welcome to use, fork and explore this data, that is the point of it!</p>
+      <h3>Pull Requests</h3>
+      <p>All changes should be submitted as a pull request in GitHub. Pull requests updating the data should include a description of what has changed and links to supporting documents. We recommend a limited number of changes at a time to make this a reasonable process for everyone.</p>
+    </div>
+  </section>
 
-    <h2>Pull Requests</h2>
-    <p>All changes should be submitted as a pull request in Github. Pull request updating the data should include reference in the description of what has changes and links to supporting documents. We recommend doing a limited number of changes at a time to make this a reasonable process for everyone.</p>
+  <!-- Glossary Section -->
+  <section class="story-section" data-section="glossary">
+    <div class="story-content">
+      <h2>Zoning Glossary</h2>
 
-    <h2>Glossary</h2>
+      <div class="info-box">
+        <strong>NOTE:</strong> All terms have definitions that vary slightly from town to town. This Glossary is just a very basic summary to get beginners oriented to zoning-speak. Be sure to check each jurisdiction's rules to know how they specifically define these terms!
+      </div>
 
-    <p><strong>NOTE:</strong> All terms have definitions that vary slightly from town to town. This Glossary is just a very basic summary to get beginners oriented to zoning-speak. Be sure to check each jurisdiction's rules to know how they specifically define these terms!</p>
+      <p>See also the <a href="https://www.ccrpcvt.org/glossary/">Chittenden County Transportation and Land Use Glossary</a>.</p>
 
-    <p>See also the <a href="https://www.ccrpcvt.org/glossary/">Chittenden County Transportation and Land Use Glossary</a>.</p>
+      <div class="glossary-grid">
+        <dl class="glossary-term">
+          <dt>Accessory dwelling unit (ADU)</dt>
+          <dd>An ADU is like a smaller unit of "extra housing" you can build onto the lot that holds your primary housing. Think: a mother-in-law apartment or a detached garage that you repurpose as an efficiency. ADUs can be built onto an existing home, partitioned out within the existing home, or detached from the original home but on the same lot.</dd>
+        </dl>
 
-    <dl>
-      <dt><strong>Accessory dwelling unit (ADU)</strong></dt>
-      <dd>An ADU is like a smaller unit of "extra housing" you can build onto the lot that holds your primary housing. Think: a mother-in-law apartment or a detached garage that you repurpose as an efficiency. ADUs can be built onto an existing home, partitioned out within the existing home, or detached from the original home but on the same lot.</dd>
+        <dl class="glossary-term">
+          <dt>Affordable housing</dt>
+          <dd>This is housing that costs significantly less than market-rate housing. Sometimes, the landlord receives incentives to charge rent is just lower than average; other times, the tenant pays a portion of their income (like 30%), regardless of how little they make, and the rest of the rent is paid another way.</dd>
+        </dl>
 
-      <dt><strong>Affordable housing</strong></dt>
-      <dd>This is housing that costs significantly less than market-rate housing. Sometimes, the landlord receives incentives to charge rent is just lower than average; other times, the tenant pays a portion of their income (like 30%), regardless of how little they make, and the rest of the rent is paid another way.</dd>
+        <dl class="glossary-term">
+          <dt>Allowed/conditional</dt>
+          <dd>This is a National Zoning Atlas designation that means a jurisdiction allows the development of some type of action without a public hearing. This could include an absolute allowance (no process required) or simple administrative requirements that are overseen without a public hearing (e.g., a permit issuance or a site plan review).</dd>
+        </dl>
 
-      <dt><strong>Allowed/conditional</strong></dt>
-      <dd>This is a National Zoning Atlas designation that means a jurisdiction allows the development of some type of action without a public hearing. This could include an absolute allowance (no process required) or simple administrative requirements that are overseen without a public hearing (e.g., a permit issuance or a site plan review).</dd>
+        <dl class="glossary-term">
+          <dt>Conditional use review</dt>
+          <dd>This is a high level of review that requires more time and expense than just permitting or site plan review.</dd>
+        </dl>
 
-      <dt><strong>Conditional use review</strong></dt>
-      <dd>This is a high level of review that requires more time and expense than just permitting or site plan review.</dd>
+        <dl class="glossary-term">
+          <dt>Density</dt>
+          <dd>This is the number of units per acre of housing that is permitted by zoning. High density means more people living in a smaller space; low density usually means big lots or fewer units allowed on a single acre.</dd>
+        </dl>
 
-      <dt><strong>Density</strong></dt>
-      <dd>This is the number of units per acre of housing that is permitted by zoning. High density means more people living in a smaller space; low density usually means big lots or fewer units allowed on a single acre.</dd>
+        <dl class="glossary-term">
+          <dt>District</dt>
+          <dd>These are the pieces that each town (or "jurisdiction") is carved into. A district will be characterized by its own set of rules for how many and what type of housing is allowed. Districts generally shouldn't overlap with the exception of overlay districts. A district doesn't have to allow any housing – it can be an area of land reserved for only commercial or land conservation uses, for example.</dd>
+        </dl>
 
-      <dt><strong>District</strong></dt>
-      <dd>These are the pieces that each town (or "jurisdiction") is carved into. A district will be characterized by its own set of rules for how many and what type of housing is allowed. Districts generally shouldn't overlap with the exception of overlay districts. A district doesn't have to allow any housing – it can be an area of land reserved for only commercial or land conservation uses, for example.</dd>
+        <dl class="glossary-term">
+          <dt>Elderly housing</dt>
+          <dd>This is housing that is reserved for people above a certain age threshold. No one can rent it who is younger than the required age at the time they apply. It is also known as age-restricted or senior housing.</dd>
+        </dl>
 
-      <dt><strong>Elderly housing</strong></dt>
-      <dd>This is housing that is reserved for people above a certain age threshold. No one can rent it who is younger than the required age at the time they apply. It is also known as age-restricted or senior housing.</dd>
+        <dl class="glossary-term">
+          <dt>Form-Based Code</dt>
+          <dd>Form-based code sets aesthetic building standards instead of regulating the way land is used. Conventional zoning focuses on things like density, setbacks, and parking requirements, while form-based code may regulate things like the mix of different street and building types or the number of floors in a building. FBC exists in Vermont but is not the most common form of zoning.</dd>
+        </dl>
 
-      <dt><strong>Form-Based Code</strong></dt>
-      <dd>Form-based code sets aesthetic building standards instead of regulating the way land is used. Conventional zoning focuses on things like density, setbacks, and parking requirements, while form-based code may regulate things like the mix of different street and building types or the number of floors in a building. FBC exists in Vermont but is not the most common form of zoning.</dd>
+        <dl class="glossary-term">
+          <dt>Frontage</dt>
+          <dd>This is a specification that limits what shape a lot can be. It says how many feet of the lot have to be street-side. A low frontage requirement would allow construction on long skinny lots that go way back away from the street; a high frontage requirement would not allow this kind of layout.</dd>
+        </dl>
 
-      <dt><strong>Frontage</strong></dt>
-      <dd>This is a specification that limits what shape a lot can be. It says how many feet of the lot have to be street-side. A low frontage requirement would allow construction on long skinny lots that go way back away from the street; a high frontage requirement would not allow this kind of layout.</dd>
+        <dl class="glossary-term">
+          <dt>Gore</dt>
+          <dd>These are irregularly-shaped land areas that are unincorporated and therefore neither a town nor a city. Vermont has two: Buel and Avery.</dd>
+        </dl>
 
-      <dt><strong>Gore</strong></dt>
-      <dd>These are irregularly-shaped land areas that are unincorporated and therefore neither a town nor a city. Vermont has two: Buel and Avery.</dd>
+        <dl class="glossary-term">
+          <dt>Hearing</dt>
+          <dd>A hearing is a proceeding overseen by a Zoning Administrative Officer, a board of representatives, and/or members of the general public who consider whether or not to allow the request of a potential developer to build some kind of structure or use land in some way. The developer provides evidence and arguments and answers questions supporting the development. The adjudicator(s) then decide whether or not the development meets zoning and other standards and can block development if they decide against the developer.</dd>
+        </dl>
 
-      <dt><strong>Hearing</strong></dt>
-      <dd>A hearing is a proceeding overseen by a Zoning Administrative Officer, a board of representatives, and/or members of the general public who consider whether or not to allow the request of a potential developer to build some kind of structure or use land in some way. The developer provides evidence and arguments and answers questions supporting the development. The adjudicator(s) then decide whether or not the development meets zoning and other standards and can block development if they decide against the developer.</dd>
+        <dl class="glossary-term">
+          <dt>Impervious surface</dt>
+          <dd>For our purposes, this is typically driveways, parking areas, and walkways. The percent of a lot that can be covered by construction can be measured either with or without including impervious surfaces.</dd>
+        </dl>
 
-      <dt><strong>Impervious surface</strong></dt>
-      <dd>For our purposes, this is typically driveways, parking areas, and walkways. The percent of a lot that can be covered by construction can be measured either with or without including impervious surfaces.</dd>
+        <dl class="glossary-term">
+          <dt>Jurisdiction</dt>
+          <dd>This is a Vermont town, city, or gore. Each jurisdiction is cut up onto slices known as districts, and each district has its own set of rules about land use and property development.</dd>
+        </dl>
 
-      <dt><strong>Jurisdiction</strong></dt>
-      <dd>This is a Vermont town, city, or gore. Each jurisdiction is cut up onto slices known as districts, and each district has its own set of rules about land use and property development.</dd>
+        <dl class="glossary-term">
+          <dt>Land use</dt>
+          <dd>Land use is the general term for how you might want to develop or use a plot or parcel of land. Some examples are: residential development (e.g. building a house), conservation, or commercial uses (e.g., building a shop or running a business).</dd>
+        </dl>
 
-      <dt><strong>Land use</strong></dt>
-      <dd>Land use is the general term for how you might want to develop or use a plot or parcel of land. Some examples are: residential development (e.g. building a house), conservation, or commercial uses (e.g., building a shop or running a business).</dd>
+        <dl class="glossary-term">
+          <dt>Maximum/minimum lot size</dt>
+          <dd>This is the number of square feet of land a jurisdiction requires a developer to own in order to build a particular structure on it.</dd>
+        </dl>
 
-      <dt><strong>Maximum/minimum lot size</strong></dt>
-      <dd>This is the number of square feet of land a jurisdiction requires a developer to own in order to build a particular structure on it.</dd>
+        <dl class="glossary-term">
+          <dt>Municipality</dt>
+          <dd>This is a US census designation that indicates a Vermont jurisdiction is a city and not a town, village, or gore. Vermont has only 10 cities.</dd>
+        </dl>
 
-      <dt><strong>Municipality</strong></dt>
-      <dd>This is a US census designation that indicates a Vermont jurisdiction is a city and not a town, village, or gore. Vermont has only 10 cities.</dd>
+        <dl class="glossary-term">
+          <dt>Overlay district</dt>
+          <dd>This is a special type of district that lays on top of another base district. The rules for the overlay district will pre-empt any rules that conflict in the base district.</dd>
+        </dl>
 
-      <dt><strong>Overlay district</strong></dt>
-      <dd>This is a special type of district that lays on top of another base district. The rules for the overlay district will pre-empt any rules that conflict in the base district.</dd>
+        <dl class="glossary-term">
+          <dt>Permitted</dt>
+          <dd>This typically means that a particular type of development or land use can be allowed with a permit. Permits may or may not require public review, depending on the jurisdiction.</dd>
+        </dl>
 
-      <dt><strong>Permitted</strong></dt>
-      <dd>This typically means that a particular type of development or land use can be allowed with a permit. Permits may or may not require public review, depending on the jurisdiction.</dd>
+        <dl class="glossary-term">
+          <dt>Planned Residential Development</dt>
+          <dd>A developer proposes to build a Planned Residential Development (PRD) when she wants to build a structure or structures that will be used ONLY for residential purposes and it will require more than one parcel of land.</dd>
+        </dl>
 
-      <dt><strong>Planned Residential Development</strong></dt>
-      <dd>A developer proposes to build a Planned Residential Development (PRD) when she wants to build a structure or structures that will be used ONLY for residential purposes and it will require more than one parcel of land.</dd>
+        <dl class="glossary-term">
+          <dt>Planned Unit Development</dt>
+          <dd>A developer proposes to build a Planned Unit Development (PUD) when she wants to use more than one parcel of land for more than one purpose. That purpose may or may not include a residential use.</dd>
+        </dl>
 
-      <dt><strong>Planned Unit Development</strong></dt>
-      <dd>A developer proposes to build a Planned Unit Development (PUD) when she wants to use more than one parcel of land for more than one purpose. That purpose may or may not include a residential use.</dd>
+        <dl class="glossary-term">
+          <dt>Regional Planning Commission</dt>
+          <dd>These entities coordinate planning activity across all the towns and cities of each of Vermont's 11 regions: Chittenden County, Addison County, Central Vermont, Northwest, Rutland, Bennington County, Lamoille County, Mt. Ascutney, Two Rivers-Ottauquechee, Northeastern, and Windham. They provide technical support, especially to towns that lack professional planning or GIS staff.</dd>
+        </dl>
 
-      <dt><strong>Regional Planning Commission</strong></dt>
-      <dd>These entities coordinate planning activity across all the towns and cities of each of Vermont's 11 regions: Chittenden County, Addison County, Central Vermont, Northwest, Rutland, Bennington County, Lamoille County, Mt. Ascutney, Two Rivers-Ottauquechee, Northeastern, and Windham. They provide technical support, especially to towns that lack professional planning or GIS staff.</dd>
+        <dl class="glossary-term">
+          <dt>Setback (front, side, rear)</dt>
+          <dd>This is how far back a structure must be built from the edges of the property on which is sits. A requirement for a back or front yard of specified dimensions is essentially also a setback requirement.</dd>
+        </dl>
 
-      <dt><strong>Setback (front, side, rear)</strong></dt>
-      <dd>This is how far back a structure must be built from the edges of the property on which is sits. A requirement for a back or front yard of specified dimensions is essentially also a setback requirement.</dd>
+        <dl class="glossary-term">
+          <dt>Site plan</dt>
+          <dd>A site plan is a detailed document that gives notice to a town or city of what use party is planning to use a piece of land for, particularly building specifications for any structures the party is seeking permission to build or renovate.</dd>
+        </dl>
 
-      <dt><strong>Site plan</strong></dt>
-      <dd>A site plan is a detailed document that gives notice to a town or city of what use party is planning to use a piece of land for, particularly building specifications for any structures the party is seeking permission to build or renovate.</dd>
+        <dl class="glossary-term">
+          <dt>Town Planner</dt>
+          <dd>A town or city planner is someone who works with community stakeholders and private citizens to design and develop aspects of the town's environment, including transportation, land use, zoning, and other topics that will affect the character and layout of that town.</dd>
+        </dl>
 
-      <dt><strong>Town Planner</strong></dt>
-      <dd>A town or city planner is someone who works with community stakeholders and private citizens to design and develop aspects of the town's environment, including transportation, land use, zoning, and other topics that will affect the character and layout of that town.</dd>
+        <dl class="glossary-term">
+          <dt>Township</dt>
+          <dd>This is a US Census designation that indicates a Vermont jurisdiction is not a city or gore. Most jurisdictions in Vermont are townships.</dd>
+        </dl>
 
-      <dt><strong>Township</strong></dt>
-      <dd>This is a US Census designation that indicates a Vermont jurisdiction is not a city or gore. Most jurisdictions in Vermont are townships.</dd>
-
-      <dt><strong>Zoning Administrator</strong></dt>
-      <dd>This is the person in each town's government who works with the public to make sure that any construction follows zoning rules.</dd>
-    </dl>
-  </main>
+        <dl class="glossary-term">
+          <dt>Zoning Administrator</dt>
+          <dd>This is the person in each town's government who works with the public to make sure that any construction follows zoning rules.</dd>
+        </dl>
+      </div>
+    </div>
+  </section>
 
   <footer>
     <div class="container">
@@ -128,5 +309,25 @@
       <p>Repository: <a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas">VERSO-UVM/Vermont-Zoning-Atlas</a></p>
     </div>
   </footer>
+
+  <script>
+    // Scroll animations
+    const observerOptions = {
+      threshold: 0.2,
+      rootMargin: '0px 0px -100px 0px'
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+        }
+      });
+    }, observerOptions);
+
+    document.querySelectorAll('.story-section').forEach(section => {
+      observer.observe(section);
+    });
+  </script>
 </body>
 </html>

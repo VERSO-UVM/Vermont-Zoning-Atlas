@@ -6,6 +6,125 @@
   <title>About - Vermont Zoning Atlas</title>
   <meta name="description" content="Learn about the Vermont Zoning Atlas project, team, partners, and timeline.">
   <link rel="stylesheet" href="styles.css">
+  <style>
+    /* Story-specific styles - matching homepage */
+    .story-section {
+      min-height: auto;
+      padding: 4rem 2rem;
+      opacity: 0;
+      transform: translateY(50px);
+      transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+    }
+
+    .story-section.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .story-section:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+
+    .story-content {
+      max-width: 1000px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .story-section h2 {
+      font-size: 2.5rem;
+      margin-bottom: 2rem;
+      color: #333;
+    }
+
+    .story-section p {
+      font-size: 1.25rem;
+      line-height: 1.8;
+      margin-bottom: 1.5rem;
+    }
+
+    .story-section ul {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      margin: 1rem 0 1rem 2rem;
+    }
+
+    .story-section h3 {
+      font-size: 1.5rem;
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      color: #2a7ae2;
+    }
+
+    .process-steps {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1.5rem;
+      margin: 2rem 0;
+    }
+
+    .process-step {
+      text-align: center;
+      padding: 1rem;
+    }
+
+    .process-number {
+      display: inline-block;
+      width: 60px;
+      height: 60px;
+      line-height: 60px;
+      border-radius: 50%;
+      background: #27ae60;
+      color: white;
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-bottom: 1rem;
+    }
+
+    .process-step h4 {
+      font-size: 1.1rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .process-step p {
+      font-size: 1rem !important;
+    }
+
+    .hero-section {
+      min-height: 40vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 4rem 2rem;
+    }
+
+    .hero-section h1 {
+      font-size: 3.5rem;
+      margin-bottom: 1rem;
+      color: white;
+    }
+
+    .hero-section p {
+      font-size: 1.3rem;
+      max-width: 800px;
+      margin: 0 auto;
+      opacity: 0.95;
+    }
+
+    @media (max-width: 768px) {
+      .hero-section h1 {
+        font-size: 2rem;
+      }
+      
+      .story-section h2 {
+        font-size: 2rem;
+      }
+    }
+  </style>
 </head>
 <body>
   <header>
@@ -20,101 +139,189 @@
     </div>
   </header>
 
-  <main class="container">
-    <h1>About</h1>
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <h1>About the Vermont Zoning Atlas</h1>
+    <p>A community-built, open-source project documenting zoning regulations across all 255 Vermont towns</p>
+  </section>
 
-    <h2>The Start of the Zoning Atlas</h2>
-    <p>Inspired by Sara Bronin's keynote speech at the 2022 <a href="https://vhfa.org/conference">Vermont Statewide Housing Conference</a>, <a href="https://www.uvm.edu/">University of Vermont</a> students <a href="https://www.linkedin.com/in/yoshi-bird-57278a257/">Yoshi Bird</a> and <a href="https://mvarnold.w3.uvm.edu/">Michael Arnold</a> approached the state and other partners about creating a dataset that could visualize geospatial distributions of land use regulations across Vermont down to the individual district level. Emily Sun, a planner from New York City and Middlebury graduate, volunteered as the founding Zoning Analyst Team Lead, supported by Dr. William Hegman of Middlebury College, while Colin Dowey, former of the Agency of Commerce and Community Development, acted as the consulting Geospatial Lead.</p>
+  <!-- How We Built the Atlas Section -->
+  <section class="story-section" data-section="methodology">
+    <div class="story-content">
+      <h2>How We Built the Atlas</h2>
+      <p>Creating a comprehensive statewide zoning atlas requires meticulous work. Throughout 2023-2024, zoning bylaws and maps from across Vermont were collected, interpreted, and synthesized into a unified database cataloging all 1,755 zoning districts.</p>
+      
+      <h3 style="margin-top: 2rem; font-size: 1.5rem;">Data Collection Process</h3>
+      <div class="process-steps">
+        <div class="process-step">
+          <div class="process-number">1</div>
+          <h4>GIS Mapping</h4>
+          <p>Collected GIS files from all 11 Regional Planning Commissions covering their member municipalities</p>
+        </div>
+        <div class="process-step">
+          <div class="process-number">2</div>
+          <h4>Bylaw Review</h4>
+          <p>Read and coded zoning regulations for each district, documenting housing allowances and dimensional requirements</p>
+        </div>
+        <div class="process-step">
+          <div class="process-number">3</div>
+          <h4>Database Creation</h4>
+          <p>Synthesized regulations into standardized fields suitable for analysis and mapping</p>
+        </div>
+        <div class="process-step">
+          <div class="process-number">4</div>
+          <h4>Verification</h4>
+          <p>Cross-checked data with RPCs and municipal officials for accuracy</p>
+        </div>
+      </div>
 
-    <img src="assets/vcgi_map_screenshot.png" alt="VCGI Map Screenshot">
+      <p style="margin-top: 2rem;"><strong>What's Included:</strong> For each district, the atlas documents whether 1-family through 4+-family housing is permitted, requires a public hearing (conditional use), or is prohibited. Additional fields capture minimum lot sizes, setbacks, accessory dwelling unit rules, affordable and elderly housing provisions, and other key regulations.</p>
 
-    <h2>Timeline</h2>
-    <ul>
-      <li><strong>Spring 2023</strong> - Founding of the Vermont Zoning Atlas and start of volunteer work</li>
-      <li><strong>Summer 2023</strong> - Volunteers map Chittenden and Addison Counties</li>
-      <li><strong>September 2023</strong> - Anonymous donor funds the first ORCA Pod</li>
-      <li><strong>January 2024</strong> - Hiring of Summer UVM student ORCA Pod</li>
-      <li><strong>Summer 2024</strong> - VTZA teams complete state mapping</li>
-      <li><strong>November 2024</strong> - Beta VTZA Site Launch and Yoshi Bird and Kendall Fortney presented the Beta Vermont Zoning Atlas at the 2024 Vermont Statewide Housing Conference</li>
-      <li><strong>January 2025</strong> - Launch of this website!</li>
-    </ul>
+      <p><strong>Data Sources:</strong> GIS shapefiles provided by Vermont's 11 Regional Planning Commissions; municipal zoning bylaws accessed through town websites, clerks' offices, and RPC archives; Vermont State Statute Title 24 provisions.</p>
 
-    <h2>Expanded Partnerships</h2>
-    <p>In the Spring of 2024, thanks to an anonymous donation, Yoshi Bird was able to collaborate with Kendall Fortney of the <a href="https://verso.w3.uvm.edu/">Vermont Open Source Research Office (VERSO)</a> @ University of Vermont in hiring undergraduate student interns through the <a href="https://verso.w3.uvm.edu/orca/">Open Research Community Accelerator (ORCA)</a> program. The Open Research Community Accelerator is a student program that grows the impact of academic research by making research products accessible to other academics, local businesses, and community members through open source project. ORCA creates these products through student project teams called Pods — groups of dynamic and passionate students who learn industry open source practices by working on real projects destined for public use. ORCA's goals are to produce impactful, accessible, open source research tools by training tomorrow's workforce in marketable open source skills.</p>
+      <p style="background: #e8f5e9; padding: 1.5rem; border-left: 4px solid #27ae60; border-radius: 4px; margin-top: 2rem;"><strong>Data Transparency:</strong> This is a community-built, open-source dataset. All data and methodology are available on our <a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas" style="color: #27ae60;">GitHub repository</a>. We welcome corrections and updates from municipal officials and community members.</p>
+    </div>
+  </section>
 
-    <p>These teams were in conjunction with work by Catherine Dimitruk of the Northwest Regional Planning Commission, and Leslie Black-Plumeau of the Vermont Housing Finance Agency.</p>
+  <!-- Origin Story Section -->
+  <section class="story-section" data-section="origin">
+    <div class="story-content">
+      <h2>The Start of the Zoning Atlas</h2>
+      <p>Inspired by Sara Bronin's keynote speech at the 2022 <a href="https://vhfa.org/conference">Vermont Statewide Housing Conference</a>, <a href="https://www.uvm.edu/">University of Vermont</a> students <a href="https://www.linkedin.com/in/yoshi-bird-57278a257/">Yoshi Bird</a> and <a href="https://mvarnold.w3.uvm.edu/">Michael Arnold</a> approached the state and other partners about creating a dataset that could visualize geospatial distributions of land use regulations across Vermont down to the individual district level.</p>
 
-    <h3>Spring ORCA Pod 2024</h3>
-    <ul>
-      <li>Zoe Sreden (Team Lead)</li>
-      <li>Anoushka Pschorr</li>
-      <li>Emma Eash</li>
-      <li>Tucker Schulz</li>
-      <li>Zachary Winigrad</li>
-    </ul>
+      <p>Emily Sun, a planner from New York City and Middlebury graduate, volunteered as the founding Zoning Analyst Team Lead, supported by Dr. William Hegman of Middlebury College, while Colin Dowey, former of the Agency of Commerce and Community Development, acted as the consulting Geospatial Lead.</p>
 
-    <h3>Summer 2024</h3>
-    <ul>
-      <li>Zachary Winigrad (Team Lead)</li>
-      <li>Tucker Schulz</li>
-      <li>Aleah Young</li>
-    </ul>
+      <img src="assets/vcgi_map_screenshot.png" alt="VCGI Map Screenshot" style="max-width: 100%; height: auto; margin: 2rem 0; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+    </div>
+  </section>
 
-    <h3>Fall 2024</h3>
-    <ul>
-      <li>Zachary Winigrad (Team Lead)</li>
-      <li>Aleah Young</li>
-      <li>Matthew Premysler</li>
-    </ul>
+  <!-- Timeline Section -->
+  <section class="story-section" data-section="timeline">
+    <div class="story-content">
+      <h2>Timeline</h2>
+      <ul>
+        <li><strong>Spring 2023</strong> - Founding of the Vermont Zoning Atlas and start of volunteer work</li>
+        <li><strong>Summer 2023</strong> - Volunteers map Chittenden and Addison Counties</li>
+        <li><strong>September 2023</strong> - Anonymous donor funds the first ORCA Pod</li>
+        <li><strong>January 2024</strong> - Hiring of Summer UVM student ORCA Pod</li>
+        <li><strong>Summer 2024</strong> - VTZA teams complete state mapping</li>
+        <li><strong>November 2024</strong> - Beta VTZA Site Launch and Yoshi Bird and Kendall Fortney presented the Beta Vermont Zoning Atlas at the 2024 Vermont Statewide Housing Conference</li>
+        <li><strong>January 2025</strong> - Launch of this website!</li>
+      </ul>
+    </div>
+  </section>
 
-    <h3>Spring 2025</h3>
-    <ul>
-      <li>Zachary Winigrad (Team Lead)</li>
-    </ul>
+  <!-- Partnerships Section -->
+  <section class="story-section" data-section="partnerships">
+    <div class="story-content">
+      <h2>Expanded Partnerships</h2>
+      <p>In the Spring of 2024, thanks to an anonymous donation, Yoshi Bird was able to collaborate with Kendall Fortney of the <a href="https://verso.w3.uvm.edu/">Vermont Open Source Research Office (VERSO)</a> @ University of Vermont in hiring undergraduate student interns through the <a href="https://verso.w3.uvm.edu/orca/">Open Research Community Accelerator (ORCA)</a> program.</p>
 
-    <h3>Summer 2025</h3>
-    <ul>
-      <li>TBA</li>
-    </ul>
+      <p>The Open Research Community Accelerator is a student program that grows the impact of academic research by making research products accessible to other academics, local businesses, and community members through open source project. ORCA creates these products through student project teams called Pods — groups of dynamic and passionate students who learn industry open source practices by working on real projects destined for public use.</p>
 
-    <h2>Outreach</h2>
-    <ul>
-      <li><strong>August 24, 2023</strong> - <a href="https://housingforwardva.org/news/fwd-g25-vermont-zoning-atlas/">Housing Forward Virginia - Zoning Atlases Across the Map: Vermont</a></li>
-      <li><strong>April 18, 2024</strong> - The project was also presented by Team Lead Zoe Sreden at the <a href="https://www.uvm.edu/uvminnovations/invention-2-venture-i2v-conference">2024 Invention2Venture</a> at the University of Vermont as part of a talk on the Open Research Community Accelerator (ORCA) program.</li>
-      <li><strong>April 26-27, 2024</strong> - Yoshi Bird and Kendall Fortney presenting at the New England Zoning Atlas Consortium Workshop held in Manchester, NH</li>
-      <li><strong>June 20, 2024</strong> - Kendall Fortney presented about ORCA and the Vermont Zoning Atlas at the USASBE Rural Entrepreneurship Symposium 2024</li>
-      <li><strong>June 24, 2024</strong> - Kendall Fortney presented about ORCA including the Vermont Zoning Atlas at the RISE Summit at UVM</li>
-      <li><strong>August 11, 2024</strong> - Presentation about ORCA and the Vermont Zoning Atlas were made at the E-Forum meeting at UVM</li>
-      <li><strong>November 14, 2024</strong> - Yoshi Bird and Kendall Fortney presented the Beta Vermont Zoning Atlas at the 2024 Vermont Statewide Housing Conference</li>
-      <li><strong>January 28, 2025</strong> - Kendall Fortney and ORCA Team Lead Zach Winigrad presented at the Economic Development Professionals Gathering in Colchester, VT.</li>
-    </ul>
+      <p>These teams were in conjunction with work by Catherine Dimitruk of the Northwest Regional Planning Commission, and Leslie Black-Plumeau of the Vermont Housing Finance Agency.</p>
 
-    <h2>Initial Completion and Transfer</h2>
-    <p>In August 2024, the project officially transferred ownership to VERSO and the University of Vermont's Open Source Programs Office under the leadership of Director Kendall Fortney, which will continue to coordinate the ongoing collection of a custom data subset in partnership with the Regional Planning Commissions, Town Planners, the Agency of Commerce and Community Development, and the Vermont Center for Geographic Information. Additional projects, like this site, will be created to explore the Vermont Zoning Atlas data and its implications for Vermont's future along with other datasets.</p>
+      <h3>Student Teams</h3>
+      
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem; margin: 2rem 0;">
+        <div style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+          <h4 style="color: #667eea; margin-top: 0;">Spring ORCA Pod 2024</h4>
+          <ul style="margin: 0; padding-left: 1.5rem;">
+            <li>Zoe Sreden (Team Lead)</li>
+            <li>Anoushka Pschorr</li>
+            <li>Emma Eash</li>
+            <li>Tucker Schulz</li>
+            <li>Zachary Winigrad</li>
+          </ul>
+        </div>
 
-    <h2>Funding</h2>
-    <p>This project was made possible with significant funding for student interns provided by the University of Vermont <a href="https://www.uvm.edu/cas/geography">Geography and Geosciences Department</a>, <a href="https://www.uvm.edu/gund">Gund Fund for the Environment</a>, the <a href="https://www.uvm.edu/cas">College of Arts & Sciences</a> Fellowship program and an anonymous donation which supported the UVM ORCA Student internship teams for over a year.</p>
+        <div style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+          <h4 style="color: #667eea; margin-top: 0;">Summer 2024</h4>
+          <ul style="margin: 0; padding-left: 1.5rem;">
+            <li>Zachary Winigrad (Team Lead)</li>
+            <li>Tucker Schulz</li>
+            <li>Aleah Young</li>
+          </ul>
+        </div>
 
-    <h2>Partnerships</h2>
-    <p>The project is in collaboration with the following:</p>
-    <ul>
-      <li><a href="https://accd.vermont.gov/">Vermont state Agency of Commerce and Community Development (ACCD)</a></li>
-      <li><a href="https://accd.vermont.gov/housing">Department of Housing and Community Development (DHCD)</a></li>
-      <li><a href="https://www.vapda.org/">Vermont Association of Planning and Development Agencies (VAPDA)</a></li>
-      <li><a href="https://vcgi.vermont.gov/">Vermont Center for Geographic Information (VCGI)</a></li>
-      <li><a href="https://www.vhfa.org/">Vermont Housing Finance Agency (VHFA)</a></li>
-      <li><a href="https://www.cvoeo.org/">Champlain Valley Office of Economic Opportunity (CVOEO)</a></li>
-      <li><a href="https://www.cvoeo.org/get-help/fair-housing-and-discrimination">Fair Housing Project</a></li>
-      <li><a href="https://www.vtaffordablehousing.org/">Vermont Affordable Housing Coalition (VAHC)</a></li>
-      <li><a href="https://verso.w3.uvm.edu/">UVM's Open Source Program Office (VERSO)</a></li>
-      <li><a href="https://www.uvm.edu/gund">University of Vermont Gund Institute</a></li>
-      <li><a href="https://www.middlebury.edu/college/academics/geography">Middlebury College Geography Department</a></li>
-    </ul>
+        <div style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+          <h4 style="color: #667eea; margin-top: 0;">Fall 2024</h4>
+          <ul style="margin: 0; padding-left: 1.5rem;">
+            <li>Zachary Winigrad (Team Lead)</li>
+            <li>Aleah Young</li>
+            <li>Matthew Premysler</li>
+          </ul>
+        </div>
 
-    <h2>Contributors</h2>
-    <p>This list is far from comprehensive, but it includes in no particular order:</p>
-    <p>Ben Cooley, Kendall Fortney, Zoe Sreden, Anoushka Pschorr, Emma Eash, Tucker Schulz, Zachary Winigrad, Matthew Premysler, Yoshi Bird, Michael Arnold, Colin Dowey, Bill Hegman, Emily Sun, Sean Rogers, Jack Reed, Amy Siu, Magali Stowell Aleman, Erik Weis, John Zimmerman, Olivia Ting, Megan Sutor, Emma Spett, Chris Donovan, Patrick Payne, Sam Powers, William Borley, Halimeh Abuayyash, Joy Emmanuel, Frederick Senya, Dakota Walker, Tin Skoric, Leslie Black-Plumeau, John Adams and many more!</p>
-  </main>
+        <div style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+          <h4 style="color: #667eea; margin-top: 0;">Spring 2025</h4>
+          <ul style="margin: 0; padding-left: 1.5rem;">
+            <li>Zachary Winigrad (Team Lead)</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Outreach Section -->
+  <section class="story-section" data-section="outreach">
+    <div class="story-content">
+      <h2>Outreach & Presentations</h2>
+      <ul>
+        <li><strong>August 24, 2023</strong> - <a href="https://housingforwardva.org/news/fwd-g25-vermont-zoning-atlas/">Housing Forward Virginia - Zoning Atlases Across the Map: Vermont</a></li>
+        <li><strong>April 18, 2024</strong> - Presentation by Team Lead Zoe Sreden at the <a href="https://www.uvm.edu/uvminnovations/invention-2-venture-i2v-conference">2024 Invention2Venture</a> at UVM</li>
+        <li><strong>April 26-27, 2024</strong> - Yoshi Bird and Kendall Fortney presenting at the New England Zoning Atlas Consortium Workshop held in Manchester, NH</li>
+        <li><strong>June 20, 2024</strong> - Kendall Fortney presented about ORCA and the Vermont Zoning Atlas at the USASBE Rural Entrepreneurship Symposium 2024</li>
+        <li><strong>June 24, 2024</strong> - Kendall Fortney presented about ORCA including the Vermont Zoning Atlas at the RISE Summit at UVM</li>
+        <li><strong>August 11, 2024</strong> - Presentation about ORCA and the Vermont Zoning Atlas at the E-Forum meeting at UVM</li>
+        <li><strong>November 14, 2024</strong> - Yoshi Bird and Kendall Fortney presented the Beta Vermont Zoning Atlas at the 2024 Vermont Statewide Housing Conference</li>
+        <li><strong>January 28, 2025</strong> - Kendall Fortney and ORCA Team Lead Zach Winigrad presented at the Economic Development Professionals Gathering in Colchester, VT</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Transfer Section -->
+  <section class="story-section" data-section="transfer">
+    <div class="story-content">
+      <h2>Initial Completion and Transfer</h2>
+      <p>In August 2024, the project officially transferred ownership to VERSO and the University of Vermont's Open Source Programs Office under the leadership of Director Kendall Fortney, which will continue to coordinate the ongoing collection of a custom data subset in partnership with the Regional Planning Commissions, Town Planners, the Agency of Commerce and Community Development, and the Vermont Center for Geographic Information.</p>
+
+      <p>Additional projects, like this site, will be created to explore the Vermont Zoning Atlas data and its implications for Vermont's future along with other datasets.</p>
+    </div>
+  </section>
+
+  <!-- Funding & Partners Section -->
+  <section class="story-section" data-section="funding">
+    <div class="story-content">
+      <h2>Funding</h2>
+      <p>This project was made possible with significant funding for student interns provided by the University of Vermont <a href="https://www.uvm.edu/cas/geography">Geography and Geosciences Department</a>, <a href="https://www.uvm.edu/gund">Gund Fund for the Environment</a>, the <a href="https://www.uvm.edu/cas">College of Arts & Sciences</a> Fellowship program and an anonymous donation which supported the UVM ORCA Student internship teams for over a year.</p>
+
+      <h3>Partnerships</h3>
+      <p>The project is in collaboration with the following:</p>
+      <ul>
+        <li><a href="https://accd.vermont.gov/">Vermont state Agency of Commerce and Community Development (ACCD)</a></li>
+        <li><a href="https://accd.vermont.gov/housing">Department of Housing and Community Development (DHCD)</a></li>
+        <li><a href="https://www.vapda.org/">Vermont Association of Planning and Development Agencies (VAPDA)</a></li>
+        <li><a href="https://vcgi.vermont.gov/">Vermont Center for Geographic Information (VCGI)</a></li>
+        <li><a href="https://www.vhfa.org/">Vermont Housing Finance Agency (VHFA)</a></li>
+        <li><a href="https://www.cvoeo.org/">Champlain Valley Office of Economic Opportunity (CVOEO)</a></li>
+        <li><a href="https://www.cvoeo.org/get-help/fair-housing-and-discrimination">Fair Housing Project</a></li>
+        <li><a href="https://www.vtaffordablehousing.org/">Vermont Affordable Housing Coalition (VAHC)</a></li>
+        <li><a href="https://verso.w3.uvm.edu/">UVM's Open Source Program Office (VERSO)</a></li>
+        <li><a href="https://www.uvm.edu/gund">University of Vermont Gund Institute</a></li>
+        <li><a href="https://www.middlebury.edu/college/academics/geography">Middlebury College Geography Department</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Contributors Section -->
+  <section class="story-section" data-section="contributors">
+    <div class="story-content">
+      <h2>Contributors</h2>
+      <p>This list is far from comprehensive, but it includes in no particular order:</p>
+      <p>Ben Cooley, Kendall Fortney, Zoe Sreden, Anoushka Pschorr, Emma Eash, Tucker Schulz, Zachary Winigrad, Matthew Premysler, Yoshi Bird, Michael Arnold, Colin Dowey, Bill Hegman, Emily Sun, Sean Rogers, Jack Reed, Amy Siu, Magali Stowell Aleman, Erik Weis, John Zimmerman, Olivia Ting, Megan Sutor, Emma Spett, Chris Donovan, Patrick Payne, Sam Powers, William Borley, Halimeh Abuayyash, Joy Emmanuel, Frederick Senya, Dakota Walker, Tin Skoric, Leslie Black-Plumeau, John Adams and many more!</p>
+    </div>
+  </section>
 
   <footer>
     <div class="container">
@@ -122,5 +329,25 @@
       <p>Repository: <a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas">VERSO-UVM/Vermont-Zoning-Atlas</a></p>
     </div>
   </footer>
+
+  <script>
+    // Scroll animations
+    const observerOptions = {
+      threshold: 0.2,
+      rootMargin: '0px 0px -100px 0px'
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+        }
+      });
+    }, observerOptions);
+
+    document.querySelectorAll('.story-section').forEach(section => {
+      observer.observe(section);
+    });
+  </script>
 </body>
 </html>
