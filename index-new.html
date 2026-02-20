@@ -1006,7 +1006,7 @@
             borderColor: '#764ba2',
             backgroundColor: 'rgba(118, 75, 162, 0.1)',
             tension: 0.4,
-            yAxisID: 'y',
+            yAxisID: 'y1',
             fill: true
           }
         ]
@@ -1045,12 +1045,31 @@
             type: 'linear',
             display: true,
             position: 'left',
+            beginAtZero: true,
             title: {
               display: true,
               text: 'Count',
               font: { size: 14, weight: 'bold' }
             },
             ticks: {
+              beginAtZero: true,
+              callback: function(value) {
+                return (value/1000).toFixed(0) + 'K';
+              }
+            }
+          },
+          y1: {
+            type: 'linear',
+            display: true,
+            position: 'right',
+            beginAtZero: true,
+            title: {
+              display: true,
+              text: 'Count',
+              font: { size: 14, weight: 'bold' }
+            },
+            ticks: {
+              beginAtZero: true,
               callback: function(value) {
                 return (value/1000).toFixed(0) + 'K';
               }
