@@ -1006,7 +1006,7 @@
             borderColor: '#764ba2',
             backgroundColor: 'rgba(118, 75, 162, 0.1)',
             tension: 0.4,
-            yAxisID: 'y1',
+            yAxisID: 'y',
             fill: true
           }
         ]
@@ -1047,31 +1047,13 @@
             position: 'left',
             title: {
               display: true,
-              text: 'Population',
+              text: 'Count',
               font: { size: 14, weight: 'bold' }
             },
             ticks: {
               callback: function(value) {
                 return (value/1000).toFixed(0) + 'K';
               }
-            }
-          },
-          y1: {
-            type: 'linear',
-            display: true,
-            position: 'right',
-            title: {
-              display: true,
-              text: 'Housing Units',
-              font: { size: 14, weight: 'bold' }
-            },
-            ticks: {
-              callback: function(value) {
-                return (value/1000).toFixed(0) + 'K';
-              }
-            },
-            grid: {
-              drawOnChartArea: false,
             }
           }
         }

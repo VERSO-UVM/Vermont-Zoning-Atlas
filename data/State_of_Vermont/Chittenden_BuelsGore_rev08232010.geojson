@@ -1,1 +1,2591 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","id":1,"geometry":{"type":"MultiPolygon","coordinates":[[[[-72.964640599999939,44.229402200000038],[-72.961362099999974,44.229777800000079],[-72.959771899999964,44.229912600000034],[-72.959449934999952,44.229943787000025],[-72.958756423999944,44.230017844000031],[-72.965098787999978,44.231327063000037],[-72.964754199999959,44.230327700000032],[-72.964640599999939,44.229402200000038]]],[[[-72.965014598999971,44.229360400000076],[-72.964827599999978,44.229381300000057],[-72.964940599999977,44.230304800000056],[-72.965237199999933,44.231150000000071],[-72.965014598999971,44.229360400000076]]],[[[-72.959510999999964,44.216975500000046],[-72.958984898999972,44.217390700000067],[-72.959099699999967,44.217509900000039],[-72.959292099999971,44.217947400000071],[-72.95952989999995,44.218113900000048],[-72.960383599999943,44.218465000000037],[-72.96026520099997,44.219005500000037],[-72.960503399999936,44.219544600000063],[-72.960397600999954,44.219618800000035],[-72.960274999999967,44.220108000000039],[-72.96030159999998,44.220625300000052],[-72.960687899999982,44.221703800000057],[-72.960907299999974,44.222708200000056],[-72.96082279999996,44.222794000000079],[-72.960592299999973,44.223882100000026],[-72.960402500999976,44.224268100000074],[-72.960169599999972,44.224406700000031],[-72.960033998999961,44.224833000000046],[-72.960197799999946,44.22578180000005],[-72.960194899999976,44.226043700000048],[-72.96003369999994,44.226566300000059],[-72.959992799999952,44.226616000000035],[-72.959098500999971,44.226695200000051],[-72.958548899999982,44.226518300000066],[-72.958496499999967,44.226049600000067],[-72.958623799999941,44.225845700000036],[-72.958410798999978,44.225492900000063],[-72.958319299999971,44.22547250000008],[-72.957547499999976,44.225525100000027],[-72.95683699999995,44.22573680000005],[-72.956562799999972,44.225732500000049],[-72.956164998999952,44.225917700000025],[-72.956294899999989,44.227250200000071],[-72.964425899999981,44.226462200000071],[-72.964432899999963,44.226560400000039],[-72.964445603999934,44.226559300000076],[-72.96437009999994,44.225550500000054],[-72.962923199999977,44.217717700000037],[-72.962644599999976,44.217996200000073],[-72.962160099999949,44.218222100000048],[-72.961648799999978,44.218306000000041],[-72.961108899999942,44.218231700000047],[-72.960624499999938,44.218017100000054],[-72.960306599999967,44.21773550000006],[-72.960069098999952,44.217122600000039],[-72.959510999999964,44.216975500000046]]],[[[-72.962171699999942,44.213648800000044],[-72.96220059999996,44.213970400000051],[-72.962107899999978,44.214278500000034],[-72.962106099999971,44.214689800000031],[-72.962549899999942,44.215757200000041],[-72.962226299999941,44.216296700000044],[-72.962102099999981,44.216739100000041],[-72.962494698999933,44.216697000000067],[-72.962662799999976,44.216308000000026],[-72.962171699999942,44.213648800000044]]],[[[-72.960858598999948,44.207761300000072],[-72.960602499999936,44.207851500000061],[-72.960782799999947,44.208191900000031],[-72.960734799999955,44.208455800000081],[-72.960610599999939,44.208573300000069],[-72.960600199999988,44.209011600000053],[-72.961067299999968,44.209534400000052],[-72.960903799999983,44.210074200000065],[-72.96105659899996,44.211053600000071],[-72.961050499999942,44.21171060000006],[-72.961416999999983,44.212495800000056],[-72.961713199999963,44.212770900000066],[-72.962100999999961,44.213265800000045],[-72.96109679999995,44.207832500000052],[-72.960858598999948,44.207761300000072]]]]},"properties":{"OBJECTID":1,"OBJECTID_1":1022,"Jurisdiction_District_Name":"Buels Gore Design Review","County":"Chittenden","Jurisdiction":"Buels Gore ","Abbreviated_District_Name":"Dr","District_Name":"Design Review","District_Mapped":"Yes","Overlay_District":"No","Extinct_District":null,"District_Type":"Mixed with Residential","Affordable_Housing_District":"No","Elderly_Housing_District":"No","F1F_Allowance":"Permitted","F2F_Allowance":"Prohibited","F3F_Allowance":"Prohibited","F4F_Allowance":"Prohibited","F5F_Allowance":null,"ADU_Allowance":"Allowed/Conditional","Affordable_Housing_Allowance":"Not Mentioned","PRD_Allowance":"Not Mentioned","NOTES":"None","F1F_Min_Lot":10,"F1F_Front_Setback":50,"F1F_Side_Setback":50,"F1F_Rear_Setback":50,"F1F_Frontage":null,"F1F_Max_Lot_Building_Coverage":null,"F1F_Max_Lot_Impervious_Coverage":null,"F1F_Min_Parking_Spaces":null,"F1F_Max_Stories":null,"F1F_Max_Height":null,"F1F_Floor_to_Area_Ratio":null,"F1F_Min_Unit_Size":null,"F2F_Affordable_Housing_Only":"No","F2F_Elderly_Housing_Only":"No","F2F_Min_Lot_Size":null,"F2F_Max_Density":null,"F2F_Front_Setback":null,"F2F_Side_Setback":null,"F2F_Rear_Setback":null,"F2F_Frontage":null,"F2F_Max_Lot_Building_Coverage":null,"F2F_Max_Lot_Impervious_Coverage":null,"F2F_Min_Parking_Spaces_per_1BR":null,"F2F_Min_Parking_Spaces_per_mult_BR":null,"F2F_Max_Stories":null,"F2F_Max_Height":null,"F2F_Floor_to_Area_Ratio":null,"F2F_Min_Unit_Size":null,"F3F_Affordable_Housing_Only":"No","F3F_Elderly_Housing_Only":"No","F3F_Min_Lot_Size":null,"F3F_Max_Density":null,"F3F_Front_Setback":null,"F3F_Side_Setback":null,"F3F_Rear_Setback":null,"F3F_Frontage":null,"F3F_Max_Lot_Building_Coverage":null,"F3F_Max_Lot_Impervious_Coverage":null,"F3F_Min_Parking_Spaces_per_1BR":null,"F3F_Min_Parking_Spaces_per_mult_BR":null,"F3F_Connection_to_Sewage_Water_Required":"No","F3F_Proximity_to_Public_Transit_Required":"No","F3F_Max_Stories":null,"F3F_Max_Height":null,"F3F_Floor_to_Area_Ratio":null,"F3F_Min_Unit_Size":null,"F3F_Max_Bedrooms":null,"F4F_Affordable_Housing_Only":"No","F4F_Elderly_Housing_Only":"No","F4F_Min_Lot_Size":null,"F4F_Max_Density":null,"F4F_Front_Setback":null,"F4F_Side_Setback":null,"F4F_Rear_Setback":null,"F4F_Frontage":null,"F4F_Max_Lot_Building_Coverage":null,"F4F_Max_Lot_Impervious_Coverage":null,"F4F_Min_Parking_Spaces_per_1BR":null,"F4F_Min_Parking_Spaces_per__mult_BR":null,"F4F_Connection_to_Sewage_Water_Required":"No","F4F_Proximity_to_Public_Transit_Required":"No","F4F_Max_Stories":null,"F4F_Max_Height":null,"F4F_Floor_to_Area_Ratio":null,"F4F_Min_Unit_Size":null,"F4F_Max_Bedrooms":null,"F4F_Max_Units_per_Building":null,"F5F_Affordable_Housing_Only":"F","F5F_Elderly_Housing_Only":"F","F5F_Min_Lot_Size":null,"F5F_Max_Density":null,"F5F_Front_Setback":null,"F5F_Side_Setback":null,"F5F_Rear_Setback":null,"F5F_Frontage":null,"F5F_Max_Lot_Building_Coverage":null,"F5F_Max__Lot_Impervious_Coverage":null,"F5F_Min_Parking_Spaces_per_1BR":null,"F5F_Min_Parking_Spaces_per_mult_BR":null,"F5F_Connection_to_Sewage_Water_Required":"F","F5F_Proximity_to_Public_Transit_Required":"F","F5F_Max_Stories":null,"F5F_Max_Height":null,"F5F_Floor_to_Area_Ratio":null,"F5F_Min_Unit_Size":null,"F5F_Max_Bedrooms":null,"F5F_Max_Units_per_Building":null,"Affordable_Housing_Definition":null,"Affordable_Housing_Elderly_Only":"No","Affordable_Housing_Min_Lot_Size":null,"Affordable_Housing_Max_Density":null,"Affordable_Housing_Min_Parking_Spaces_per_1BR":null,"Affordable_Housing_Min_Parking_Spaces_per_mult_BR":null,"Affordable_Housing_Min_Unit_Size":null,"Affordable_Housing_Max_Bedrooms":null,"Affordable_Housing_Max_Units_per_Building":null,"ADU_Employee_or_Family_Occupancy_Required":"No","ADU_Renter_Occupancy_Prohibited":"No","ADU_Owner_Occupancy_Required":"No","ADU_Elderly_Housing_Only":"No","ADU_Min_Lot_Size":null,"ADU_Min_Parking_Spaces":null,"ADU_Restricted_to_Primary_Structure":"No","ADU_Max_Size_as_Percent_of_Primary_Strcture":null,"ADU_Max_Size_in_sq_ft":null,"ADU_Max_Bedrooms":null,"PRD_Mobile_or_Manufactured_Home_Park":"No","PRD_Min_Lot_Size":null,"PRD_Max_Density":null,"PRD_Max_Units":null,"PUD_Required_with_Subdivision":"F","PUD_Threshold_Number":null,"PUD_Allowance":"No","PUD_Requires_Land_Conservation":"T","Base_Density":0.10000000000000001,"CONDITIONAL_1F_Min_Lot":null,"CONDITIONAL_1F_Front_Setback":null,"CONDITIONAL_1F_Side_Setback":null,"CONDITIONAL_1F_Rear_Setback":null,"CONDITIONAL_1F_Frontage":null,"CONDITIONAL_1F_Max_Lot_Building_Coverage":null,"CONDITIONAL_1F_Max_Lot_Impervious_Coverage":null,"CONDITIONAL_1F_Min_Parking_Spaces":null,"CONDITIONAL_1F_Max_Stories":null,"CONDITIONAL_1F_Max_Height":null,"CONDITIONAL_1F_Floor_to_Area_Ratio":null,"CONDITIONAL_1F_Min_Unit_Size":null,"CONDITIONAL_2F_Affordable_Housing_Only":null,"CONDITIONAL_2F_Elderly_Housing_Only":null,"CONDITIONAL_2F_Min_Lot_Size":null,"CONDITIONAL_2F_Max_Density":null,"CONDITIONAL_2F_Front_Setback":null,"CONDITIONAL_2F_Side_Setback":null,"CONDITIONAL_2F_Rear_Setback":null,"CONDITIONAL_2F_Frontage":null,"CONDITIONAL_2F_Max_Lot_Building_Coverage":null,"CONDITIONAL_2F_Max_Lot_Impervious_Coverage":null,"CONDITIONAL_2F_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_2F_Min_Parking_Spaces_per_mult_BR":null,"CONDITIONAL_2F_Max_Stories":null,"CONDITIONAL_2F_Max_Height":null,"CONDITIONAL_2F_Floor_to_Area_Ratio":null,"CONDITIONAL_2F_Min_Unit_Size":null,"CONDITIONAL_3F_Affordable_Housing_Only":null,"CONDITIONAL_3F_Elderly_Housing_Only":null,"CONDITIONAL_3F_Min_Lot_Size":null,"CONDITIONAL_3F_Max_Density":null,"CONDITIONAL_3F_Front_Setback":null,"CONDITIONAL_3F_Side_Setback":null,"CONDITIONAL_3F_Rear_Setback":null,"CONDITIONAL_3F_Frontage":null,"CONDITIONAL_3F_Max_Lot_Building_Coverage":null,"CONDITIONAL_3F_Max_Lot_Impervious_Coverage":null,"CONDITIONAL_3F_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_3F_Min_Parking_Spaces_per_mult_BR":null,"CONDITIONAL_3F_Connection_to_Sewage_Water_Required":null,"CONDITIONAL_3F_Proximity_to_Public_Transit_Required":null,"CONDITIONAL_3F_Max_Stories":null,"CONDITIONAL_3F_Max_Height":null,"CONDITIONAL_3F_Floor_to_Area_Ratio":null,"CONDITIONAL_3F_Min_Unit_Size":null,"CONDITIONAL_3F_Max_Bedrooms":null,"CONDITIONAL_4F_Affordable_Housing_Only":null,"CONDITIONAL_4F_Elderly_Housing_Only":null,"CONDITIONAL_4F_Min_Lot_Size":null,"CONDITIONAL_4F_Max_Density":null,"CONDITIONAL_4F_Front_Setback":null,"CONDITIONAL_4F_Side_Setback":null,"CONDITIONAL_4F_Rear_Setback":null,"CONDITIONAL_4F_Frontage":null,"CONDITIONAL_4F_Max_Lot_Building_Coverage":null,"CONDITIONAL_4F_Max_Lot_Impervious_Coverage":null,"CONDITIONAL_4F_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_4F_Min_Parking_Spaces_per__mult_BR":null,"CONDITIONAL_4F_Connection_to_Sewage_Water_Required":null,"CONDITIONAL_4F_Proximity_to_Public_Transit_Required":null,"CONDITIONAL_4F_Max_Stories":null,"CONDITIONAL_4F_Max_Height":null,"CONDITIONAL_4F_Floor_to_Area_Ratio":null,"CONDITIONAL_4F_Min_Unit_Size":null,"CONDITIONAL_4F_Max_Bedrooms":null,"CONDITIONAL_4F_Max_Units_per_Building":null,"CONDITIONAL_5F_Affordable_Housing_Only":null,"CONDITIONAL_5F_Elderly_Housing_Only":null,"CONDITIONAL_5F_Min_Lot_Size":null,"CONDITIONAL_5F_Max_Density":null,"CONDITIONAL_5F_Front_Setback":null,"CONDITIONAL_5F_Side_Setback":null,"CONDITIONAL_5F_Rear_Setback":null,"CONDITIONAL_5F_Frontage":null,"CONDITIONAL_5F_Max_Lot_Building_Coverage":null,"CONDITIONAL_5F_Max__Lot_Impervious_Coverage":null,"CONDITIONAL_5F_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_5F_Min_Parking_Spaces_per_mult_BR":null,"CONDITIONAL_5F_Connection_to_Sewage_Water_Required":null,"CONDITIONAL_5F_Proximity_to_Public_Transit_Required":null,"CONDITIONAL_5F_Max_Stories":null,"CONDITIONAL_5F_Max_Height":null,"CONDITIONAL_5F_Floor_to_Area_Ratio":null,"CONDITIONAL_5F_Min_Unit_Size":null,"CONDITIONAL_5F_Max_Bedrooms":null,"CONDITIONAL_5F_Max_Units_per_Building":null,"CONDITIONAL_Affordable_Housing_Definition":null,"CONDITIONAL_Affordable_Housing_Elderly_Only":null,"CONDITIONAL_Affordable_Housing_Min_Lot_Size":null,"CONDITIONAL_Affordable_Housing_Max_Density":null,"CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_mult_BR":null,"CONDITIONAL_Affordable_Housing_Min_Unit_Size":null,"CONDITIONAL_Affordable_Housing_Max_Bedrooms":null,"CONDITIONAL_Affordable_Housing_Max_Units_per_Building":null,"CONDITIONAL_ADU_Employee_or_Family_Occupancy_Required":null,"CONDITIONAL_ADU_Renter_Occupancy_Prohibited":null,"CONDITIONAL_ADU_Owner_Occupancy_Required":null,"CONDITIONAL_ADU_Elderly_Housing_Only":null,"CONDITIONAL_ADU_Min_Lot_Size":null,"CONDITIONAL_ADU_Min_Parking_Spaces":null,"CONDITIONAL_ADU_Restricted_to_Primary_Structure":null,"CONDITIONAL_ADU_Max_Size_as_Percent_of_Primary_Strcture":null,"CONDITIONAL_ADU_Max_Size_in_sq_ft":null,"CONDITIONAL_ADU_Max_Bedrooms":null,"CONDITIONAL_PRD_Mobile_or_Manufactured_Home_Park":null,"CONDITIONAL_PRD_Min_Lot_Size":null,"CONDITIONAL_PRD_Max_Density":null,"CONDITIONAL_PRD_Max_Units":null,"CONDITIONAL_PUD_Required_with_Subdivision":null,"CONDITIONAL_PUD_Threshold_Number":null,"CONDITIONAL_PUD_Allowance":null,"CONDITIONAL_PUD_Requires_Land_Conservation":null,"Bylaw_Date":"2023-08-02","RPC":"CCRPC","Version":1,"Acres":95.302911261842752,"Shape_Length":0.076054330192430228,"Shape_Area":4.3439563079874335e-05}},{"type":"Feature","id":2,"geometry":{"type":"MultiPolygon","coordinates":[[[[-72.95344579999994,44.227727700000059],[-72.951828599999942,44.227925700000071],[-72.950805600999956,44.227985500000045],[-72.949381399999936,44.227892100000076],[-72.94851155899994,44.22796775900008],[-72.953705499999955,44.228989354000078],[-72.95344579999994,44.227727700000059]]],[[[-72.959510999999964,44.216975500000046],[-72.959175899999934,44.217010100000039],[-72.958898199999965,44.217187600000045],[-72.95832299999995,44.217403200000035],[-72.957782799999961,44.217455800000039],[-72.957480699999962,44.217389500000081],[-72.95703009999994,44.217697300000054],[-72.956249100999969,44.218002800000079],[-72.955342899999948,44.21846910000005],[-72.955332399999975,44.218569900000034],[-72.95506249999994,44.218784300000038],[-72.954067699999939,44.218956500000047],[-72.953975399999933,44.21916120000003],[-72.953912799999955,44.220624400000077],[-72.953765999999973,44.221334500000069],[-72.953447900999947,44.221687700000075],[-72.953267699999969,44.222129400000028],[-72.952901499999939,44.222406300000046],[-72.952495300999942,44.222896300000059],[-72.952490899999987,44.222719300000051],[-72.952433099999951,44.222699700000078],[-72.952797299999986,44.222275800000034],[-72.953102799999954,44.222059900000033],[-72.953271700999949,44.221632700000043],[-72.953611999999964,44.22122180000008],[-72.953723698999966,44.220613000000071],[-72.95380659999995,44.219347300000038],[-72.953320199999951,44.219558900000038],[-72.952978799999983,44.220247800000038],[-72.952480899999955,44.220598100000075],[-72.951675800999965,44.220827100000065],[-72.950756899999988,44.220838900000047],[-72.950096499999972,44.220717300000047],[-72.949212599999953,44.220347300000071],[-72.948458498999969,44.220437600000025],[-72.947819999999979,44.220335800000043],[-72.947320099999956,44.22004830000003],[-72.947015699999952,44.219767300000058],[-72.946190610999963,44.219197465000036],[-72.945201199999985,44.219128200000057],[-72.945086299999957,44.219123600000046],[-72.943743499999982,44.219063300000073],[-72.94263590099996,44.219033900000056],[-72.942310193999958,44.222105901000077],[-72.942276699999979,44.222484800000075],[-72.942086599999982,44.224662900000055],[-72.946690998999941,44.224999300000036],[-72.946666798999956,44.225451700000065],[-72.947663699999964,44.225358200000073],[-72.947997699999974,44.225326300000063],[-72.956030599999963,44.224551100000042],[-72.956164998999952,44.225917700000025],[-72.956562799999972,44.225732500000049],[-72.95683699999995,44.22573680000005],[-72.957547499999976,44.225525100000027],[-72.958319299999971,44.22547250000008],[-72.958410798999978,44.225492900000063],[-72.958623799999941,44.225845700000036],[-72.958496499999967,44.226049600000067],[-72.958548899999982,44.226518300000066],[-72.959098500999971,44.226695200000051],[-72.959992799999952,44.226616000000035],[-72.96003369999994,44.226566300000059],[-72.960194899999976,44.226043700000048],[-72.960197799999946,44.22578180000005],[-72.960033998999961,44.224833000000046],[-72.960169599999972,44.224406700000031],[-72.960402500999976,44.224268100000074],[-72.960592299999973,44.223882100000026],[-72.96082279999996,44.222794000000079],[-72.960907299999974,44.222708200000056],[-72.960687899999982,44.221703800000057],[-72.96030159999998,44.220625300000052],[-72.960274999999967,44.220108000000039],[-72.960397600999954,44.219618800000035],[-72.960503399999936,44.219544600000063],[-72.96026520099997,44.219005500000037],[-72.960383599999943,44.218465000000037],[-72.95952989999995,44.218113900000048],[-72.959292099999971,44.217947400000071],[-72.959099699999967,44.217509900000039],[-72.958984898999972,44.217390700000067],[-72.959510999999964,44.216975500000046]]],[[[-72.948955599999977,44.206758600000057],[-72.948397699999987,44.206790399000056],[-72.948299498999972,44.206803900000068],[-72.94825210099998,44.207005800000047],[-72.948249029999943,44.207041147000041],[-72.947362399999975,44.218071000000066],[-72.948670799999945,44.219034500000078],[-72.94923689999996,44.218963000000031],[-72.949656498999957,44.218985700000076],[-72.950074099999938,44.219104600000037],[-72.950912799999969,44.219457700000078],[-72.951368399999978,44.219455900000071],[-72.951527000999988,44.219084500000065],[-72.951837899999987,44.218700000000069],[-72.952329499999962,44.218385000000069],[-72.953190699999936,44.218019500000025],[-72.953768798999988,44.217361100000062],[-72.954146999999978,44.217067100000065],[-72.954640899999958,44.216858200000047],[-72.95602839999998,44.21649350000007],[-72.956146399999966,44.216057500000034],[-72.956541598999934,44.215691400000026],[-72.956932499999937,44.215547500000071],[-72.957419699999946,44.215493500000036],[-72.957899898999983,44.215608600000053],[-72.958152600999938,44.215763300000049],[-72.959562299999959,44.215038500000048],[-72.961610399999984,44.215634100000045],[-72.961936999999978,44.216756000000032],[-72.962102099999981,44.216739100000041],[-72.962226299999941,44.216296700000044],[-72.962549899999942,44.215757200000041],[-72.962106099999971,44.214689800000031],[-72.962107899999978,44.214278500000034],[-72.96220059999996,44.213970400000051],[-72.962171699999942,44.213648800000044],[-72.962100999999961,44.213265800000045],[-72.961713199999963,44.212770900000066],[-72.961416999999983,44.212495800000056],[-72.961050499999942,44.21171060000006],[-72.96105659899996,44.211053600000071],[-72.960903799999983,44.210074200000065],[-72.961067299999968,44.209534400000052],[-72.960600199999988,44.209011600000053],[-72.960610599999939,44.208573300000069],[-72.960734799999955,44.208455800000081],[-72.960782799999947,44.208191900000031],[-72.960602499999936,44.207851500000061],[-72.960623998999949,44.208042200000079],[-72.960398899999973,44.208063800000048],[-72.960158098999955,44.207988300000068],[-72.959465399999942,44.207992500000046],[-72.959064099999978,44.20825190000005],[-72.958786399999951,44.208238300000062],[-72.958551999999941,44.208305600000074],[-72.958239300999935,44.208538700000076],[-72.957785298999966,44.208576900000025],[-72.95710749999995,44.208632900000055],[-72.957071199999973,44.208749400000045],[-72.956803099999945,44.208888800000068],[-72.956207599999971,44.209233500000039],[-72.955885299999977,44.209291500000063],[-72.955424299999947,44.209219500000074],[-72.955393700999934,44.209186700000032],[-72.955225499999983,44.208919700000081],[-72.955040999999937,44.208844900000031],[-72.954856998999958,44.208911900000032],[-72.95469769999994,44.209115300000065],[-72.95441859999994,44.209208700000033],[-72.953511398999979,44.20899460000004],[-72.953190899999981,44.208963700000027],[-72.95250539999995,44.208586900000057],[-72.951025799999968,44.208128200000033],[-72.949984699999959,44.20768140000007],[-72.949270099999978,44.207244900000035],[-72.948955599999977,44.206758600000057]]],[[[-72.952204781999967,44.161422412000036],[-72.951277699999935,44.163319500000057],[-72.949881599999969,44.166176300000075],[-72.949717199999952,44.166512700000055],[-72.949481699999978,44.166994600000066],[-72.949451900999975,44.167056200000047],[-72.949395599999946,44.167172600000072],[-72.939497999999958,44.187579400000061],[-72.940658999999982,44.187557300000037],[-72.940635599999951,44.188308100000029],[-72.94982669999996,44.188710300000025],[-72.950171500999943,44.184517000000028],[-72.955648699999983,44.18445360000004],[-72.955728999999963,44.184767000000079],[-72.956344498999954,44.184704400000044],[-72.956827998999984,44.184726800000078],[-72.954728999999986,44.173644700000068],[-72.953285298999958,44.166376700000058],[-72.952204781999967,44.161422412000036]]]]},"properties":{"OBJECTID":2,"OBJECTID_1":1023,"Jurisdiction_District_Name":"Buels Gore Forestry And Conservation One","County":"Chittenden","Jurisdiction":"Buels Gore ","Abbreviated_District_Name":"Fc1","District_Name":"Forestry And Conservation One","District_Mapped":"Yes","Overlay_District":"No","Extinct_District":null,"District_Type":"Mixed with Residential","Affordable_Housing_District":"No","Elderly_Housing_District":"No","F1F_Allowance":"Permitted","F2F_Allowance":"Prohibited","F3F_Allowance":"Prohibited","F4F_Allowance":"Prohibited","F5F_Allowance":null,"ADU_Allowance":"Allowed/Conditional","Affordable_Housing_Allowance":"Not Mentioned","PRD_Allowance":"Not Mentioned","NOTES":"None","F1F_Min_Lot":10,"F1F_Front_Setback":100,"F1F_Side_Setback":50,"F1F_Rear_Setback":50,"F1F_Frontage":null,"F1F_Max_Lot_Building_Coverage":null,"F1F_Max_Lot_Impervious_Coverage":null,"F1F_Min_Parking_Spaces":null,"F1F_Max_Stories":null,"F1F_Max_Height":null,"F1F_Floor_to_Area_Ratio":null,"F1F_Min_Unit_Size":null,"F2F_Affordable_Housing_Only":"No","F2F_Elderly_Housing_Only":"No","F2F_Min_Lot_Size":null,"F2F_Max_Density":null,"F2F_Front_Setback":null,"F2F_Side_Setback":null,"F2F_Rear_Setback":null,"F2F_Frontage":null,"F2F_Max_Lot_Building_Coverage":null,"F2F_Max_Lot_Impervious_Coverage":null,"F2F_Min_Parking_Spaces_per_1BR":null,"F2F_Min_Parking_Spaces_per_mult_BR":null,"F2F_Max_Stories":null,"F2F_Max_Height":null,"F2F_Floor_to_Area_Ratio":null,"F2F_Min_Unit_Size":null,"F3F_Affordable_Housing_Only":"No","F3F_Elderly_Housing_Only":"No","F3F_Min_Lot_Size":null,"F3F_Max_Density":null,"F3F_Front_Setback":null,"F3F_Side_Setback":null,"F3F_Rear_Setback":null,"F3F_Frontage":null,"F3F_Max_Lot_Building_Coverage":null,"F3F_Max_Lot_Impervious_Coverage":null,"F3F_Min_Parking_Spaces_per_1BR":null,"F3F_Min_Parking_Spaces_per_mult_BR":null,"F3F_Connection_to_Sewage_Water_Required":"No","F3F_Proximity_to_Public_Transit_Required":"No","F3F_Max_Stories":null,"F3F_Max_Height":null,"F3F_Floor_to_Area_Ratio":null,"F3F_Min_Unit_Size":null,"F3F_Max_Bedrooms":null,"F4F_Affordable_Housing_Only":"No","F4F_Elderly_Housing_Only":"No","F4F_Min_Lot_Size":null,"F4F_Max_Density":null,"F4F_Front_Setback":null,"F4F_Side_Setback":null,"F4F_Rear_Setback":null,"F4F_Frontage":null,"F4F_Max_Lot_Building_Coverage":null,"F4F_Max_Lot_Impervious_Coverage":null,"F4F_Min_Parking_Spaces_per_1BR":null,"F4F_Min_Parking_Spaces_per__mult_BR":null,"F4F_Connection_to_Sewage_Water_Required":"No","F4F_Proximity_to_Public_Transit_Required":"No","F4F_Max_Stories":null,"F4F_Max_Height":null,"F4F_Floor_to_Area_Ratio":null,"F4F_Min_Unit_Size":null,"F4F_Max_Bedrooms":null,"F4F_Max_Units_per_Building":null,"F5F_Affordable_Housing_Only":"F","F5F_Elderly_Housing_Only":"F","F5F_Min_Lot_Size":null,"F5F_Max_Density":null,"F5F_Front_Setback":null,"F5F_Side_Setback":null,"F5F_Rear_Setback":null,"F5F_Frontage":null,"F5F_Max_Lot_Building_Coverage":null,"F5F_Max__Lot_Impervious_Coverage":null,"F5F_Min_Parking_Spaces_per_1BR":null,"F5F_Min_Parking_Spaces_per_mult_BR":null,"F5F_Connection_to_Sewage_Water_Required":"F","F5F_Proximity_to_Public_Transit_Required":"F","F5F_Max_Stories":null,"F5F_Max_Height":null,"F5F_Floor_to_Area_Ratio":null,"F5F_Min_Unit_Size":null,"F5F_Max_Bedrooms":null,"F5F_Max_Units_per_Building":null,"Affordable_Housing_Definition":null,"Affordable_Housing_Elderly_Only":"No","Affordable_Housing_Min_Lot_Size":null,"Affordable_Housing_Max_Density":null,"Affordable_Housing_Min_Parking_Spaces_per_1BR":null,"Affordable_Housing_Min_Parking_Spaces_per_mult_BR":null,"Affordable_Housing_Min_Unit_Size":null,"Affordable_Housing_Max_Bedrooms":null,"Affordable_Housing_Max_Units_per_Building":null,"ADU_Employee_or_Family_Occupancy_Required":"No","ADU_Renter_Occupancy_Prohibited":"No","ADU_Owner_Occupancy_Required":"No","ADU_Elderly_Housing_Only":"No","ADU_Min_Lot_Size":null,"ADU_Min_Parking_Spaces":null,"ADU_Restricted_to_Primary_Structure":"No","ADU_Max_Size_as_Percent_of_Primary_Strcture":null,"ADU_Max_Size_in_sq_ft":null,"ADU_Max_Bedrooms":null,"PRD_Mobile_or_Manufactured_Home_Park":"No","PRD_Min_Lot_Size":null,"PRD_Max_Density":null,"PRD_Max_Units":null,"PUD_Required_with_Subdivision":"F","PUD_Threshold_Number":null,"PUD_Allowance":"No","PUD_Requires_Land_Conservation":"F","Base_Density":0.10000000000000001,"CONDITIONAL_1F_Min_Lot":null,"CONDITIONAL_1F_Front_Setback":null,"CONDITIONAL_1F_Side_Setback":null,"CONDITIONAL_1F_Rear_Setback":null,"CONDITIONAL_1F_Frontage":null,"CONDITIONAL_1F_Max_Lot_Building_Coverage":null,"CONDITIONAL_1F_Max_Lot_Impervious_Coverage":null,"CONDITIONAL_1F_Min_Parking_Spaces":null,"CONDITIONAL_1F_Max_Stories":null,"CONDITIONAL_1F_Max_Height":null,"CONDITIONAL_1F_Floor_to_Area_Ratio":null,"CONDITIONAL_1F_Min_Unit_Size":null,"CONDITIONAL_2F_Affordable_Housing_Only":null,"CONDITIONAL_2F_Elderly_Housing_Only":null,"CONDITIONAL_2F_Min_Lot_Size":null,"CONDITIONAL_2F_Max_Density":null,"CONDITIONAL_2F_Front_Setback":null,"CONDITIONAL_2F_Side_Setback":null,"CONDITIONAL_2F_Rear_Setback":null,"CONDITIONAL_2F_Frontage":null,"CONDITIONAL_2F_Max_Lot_Building_Coverage":null,"CONDITIONAL_2F_Max_Lot_Impervious_Coverage":null,"CONDITIONAL_2F_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_2F_Min_Parking_Spaces_per_mult_BR":null,"CONDITIONAL_2F_Max_Stories":null,"CONDITIONAL_2F_Max_Height":null,"CONDITIONAL_2F_Floor_to_Area_Ratio":null,"CONDITIONAL_2F_Min_Unit_Size":null,"CONDITIONAL_3F_Affordable_Housing_Only":null,"CONDITIONAL_3F_Elderly_Housing_Only":null,"CONDITIONAL_3F_Min_Lot_Size":null,"CONDITIONAL_3F_Max_Density":null,"CONDITIONAL_3F_Front_Setback":null,"CONDITIONAL_3F_Side_Setback":null,"CONDITIONAL_3F_Rear_Setback":null,"CONDITIONAL_3F_Frontage":null,"CONDITIONAL_3F_Max_Lot_Building_Coverage":null,"CONDITIONAL_3F_Max_Lot_Impervious_Coverage":null,"CONDITIONAL_3F_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_3F_Min_Parking_Spaces_per_mult_BR":null,"CONDITIONAL_3F_Connection_to_Sewage_Water_Required":null,"CONDITIONAL_3F_Proximity_to_Public_Transit_Required":null,"CONDITIONAL_3F_Max_Stories":null,"CONDITIONAL_3F_Max_Height":null,"CONDITIONAL_3F_Floor_to_Area_Ratio":null,"CONDITIONAL_3F_Min_Unit_Size":null,"CONDITIONAL_3F_Max_Bedrooms":null,"CONDITIONAL_4F_Affordable_Housing_Only":null,"CONDITIONAL_4F_Elderly_Housing_Only":null,"CONDITIONAL_4F_Min_Lot_Size":null,"CONDITIONAL_4F_Max_Density":null,"CONDITIONAL_4F_Front_Setback":null,"CONDITIONAL_4F_Side_Setback":null,"CONDITIONAL_4F_Rear_Setback":null,"CONDITIONAL_4F_Frontage":null,"CONDITIONAL_4F_Max_Lot_Building_Coverage":null,"CONDITIONAL_4F_Max_Lot_Impervious_Coverage":null,"CONDITIONAL_4F_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_4F_Min_Parking_Spaces_per__mult_BR":null,"CONDITIONAL_4F_Connection_to_Sewage_Water_Required":null,"CONDITIONAL_4F_Proximity_to_Public_Transit_Required":null,"CONDITIONAL_4F_Max_Stories":null,"CONDITIONAL_4F_Max_Height":null,"CONDITIONAL_4F_Floor_to_Area_Ratio":null,"CONDITIONAL_4F_Min_Unit_Size":null,"CONDITIONAL_4F_Max_Bedrooms":null,"CONDITIONAL_4F_Max_Units_per_Building":null,"CONDITIONAL_5F_Affordable_Housing_Only":null,"CONDITIONAL_5F_Elderly_Housing_Only":null,"CONDITIONAL_5F_Min_Lot_Size":null,"CONDITIONAL_5F_Max_Density":null,"CONDITIONAL_5F_Front_Setback":null,"CONDITIONAL_5F_Side_Setback":null,"CONDITIONAL_5F_Rear_Setback":null,"CONDITIONAL_5F_Frontage":null,"CONDITIONAL_5F_Max_Lot_Building_Coverage":null,"CONDITIONAL_5F_Max__Lot_Impervious_Coverage":null,"CONDITIONAL_5F_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_5F_Min_Parking_Spaces_per_mult_BR":null,"CONDITIONAL_5F_Connection_to_Sewage_Water_Required":null,"CONDITIONAL_5F_Proximity_to_Public_Transit_Required":null,"CONDITIONAL_5F_Max_Stories":null,"CONDITIONAL_5F_Max_Height":null,"CONDITIONAL_5F_Floor_to_Area_Ratio":null,"CONDITIONAL_5F_Min_Unit_Size":null,"CONDITIONAL_5F_Max_Bedrooms":null,"CONDITIONAL_5F_Max_Units_per_Building":null,"CONDITIONAL_Affordable_Housing_Definition":null,"CONDITIONAL_Affordable_Housing_Elderly_Only":null,"CONDITIONAL_Affordable_Housing_Min_Lot_Size":null,"CONDITIONAL_Affordable_Housing_Max_Density":null,"CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_mult_BR":null,"CONDITIONAL_Affordable_Housing_Min_Unit_Size":null,"CONDITIONAL_Affordable_Housing_Max_Bedrooms":null,"CONDITIONAL_Affordable_Housing_Max_Units_per_Building":null,"CONDITIONAL_ADU_Employee_or_Family_Occupancy_Required":null,"CONDITIONAL_ADU_Renter_Occupancy_Prohibited":null,"CONDITIONAL_ADU_Owner_Occupancy_Required":null,"CONDITIONAL_ADU_Elderly_Housing_Only":null,"CONDITIONAL_ADU_Min_Lot_Size":null,"CONDITIONAL_ADU_Min_Parking_Spaces":null,"CONDITIONAL_ADU_Restricted_to_Primary_Structure":null,"CONDITIONAL_ADU_Max_Size_as_Percent_of_Primary_Strcture":null,"CONDITIONAL_ADU_Max_Size_in_sq_ft":null,"CONDITIONAL_ADU_Max_Bedrooms":null,"CONDITIONAL_PRD_Mobile_or_Manufactured_Home_Park":null,"CONDITIONAL_PRD_Min_Lot_Size":null,"CONDITIONAL_PRD_Max_Density":null,"CONDITIONAL_PRD_Max_Units":null,"CONDITIONAL_PUD_Required_with_Subdivision":null,"CONDITIONAL_PUD_Threshold_Number":null,"CONDITIONAL_PUD_Allowance":null,"CONDITIONAL_PUD_Requires_Land_Conservation":null,"Bylaw_Date":"2023-08-02","RPC":"CCRPC","Version":1,"Acres":996.66712171873053,"Shape_Length":0.20386504747330683,"Shape_Area":0.00045411353261569522}},{"type":"Feature","id":3,"geometry":{"type":"MultiPolygon","coordinates":[[[[-72.964708599999938,44.227383000000032],[-72.964827599999978,44.229381300000057],[-72.965014598999971,44.229360400000076],[-72.964708599999938,44.227383000000032]]],[[[-72.964445603999934,44.226559300000076],[-72.964432899999963,44.226560400000039],[-72.964633399999968,44.229390400000057],[-72.959449934999952,44.229943787000025],[-72.959771899999964,44.229912600000034],[-72.961362099999974,44.229777800000079],[-72.964640599999939,44.229402200000038],[-72.964445603999934,44.226559300000076]]],[[[-72.956030599999963,44.224551100000042],[-72.947997699999974,44.225326300000063],[-72.947663699999964,44.225358200000073],[-72.946666798999956,44.225451700000065],[-72.946665500999984,44.225484000000051],[-72.956016799999986,44.224561600000072],[-72.956294899999989,44.227250200000071],[-72.956164998999952,44.225917700000025],[-72.956030599999963,44.224551100000042]]],[[[-72.942310193999958,44.222105901000077],[-72.942039398999952,44.224659300000042],[-72.942086599999982,44.224662900000055],[-72.942276699999979,44.222484800000075],[-72.942310193999958,44.222105901000077]]],[[[-72.943743499999982,44.219063300000073],[-72.945086299999957,44.219123600000046],[-72.945201199999985,44.219128200000057],[-72.946190610999963,44.219197465000036],[-72.947191699999962,44.219219400000043],[-72.947198399999934,44.21915510000008],[-72.943743499999982,44.219063300000073]]],[[[-72.955003799999986,44.208833900000059],[-72.954856998999958,44.208911900000032],[-72.955040999999937,44.208844900000031],[-72.955225499999983,44.208919700000081],[-72.955393700999934,44.209186700000032],[-72.955424299999947,44.209219500000074],[-72.955885299999977,44.209291500000063],[-72.956207599999971,44.209233500000039],[-72.956803099999945,44.208888800000068],[-72.956390599999963,44.20906720000005],[-72.955667699999935,44.209228000000053],[-72.955372499999953,44.209074500000042],[-72.955189699999949,44.208853600000054],[-72.955003799999986,44.208833900000059]]],[[[-72.958551999999941,44.208305600000074],[-72.957987599999967,44.208432300000027],[-72.957785298999966,44.208576900000025],[-72.958239300999935,44.208538700000076],[-72.958551999999941,44.208305600000074]]],[[[-72.948329199999989,44.206043500000078],[-72.948249029999943,44.207041147000041],[-72.94825210099998,44.207005800000047],[-72.948299498999972,44.206803900000068],[-72.948397699999987,44.206790399000056],[-72.948955599999977,44.206758600000057],[-72.948329199999989,44.206043500000078]]],[[[-72.935419299999978,44.195922400000029],[-72.934882998999967,44.197019200000057],[-72.931925906999936,44.203065004000052],[-72.934883099999979,44.197019200000057],[-72.935242099999982,44.197530000000029],[-72.935388799999942,44.197916400000054],[-72.93542290299996,44.198299700000064],[-72.935425899999984,44.198365300000034],[-72.935385399999973,44.198652200000026],[-72.935639799999933,44.198129400000028],[-72.935716099999979,44.197613000000047],[-72.935419299999978,44.195922400000029]]]]},"properties":{"OBJECTID":3,"OBJECTID_1":1024,"Jurisdiction_District_Name":"Buels Gore Forestry And Conservation Two","County":"Chittenden","Jurisdiction":"Buels Gore ","Abbreviated_District_Name":"Fc2","District_Name":"Forestry And Conservation Two","District_Mapped":"Yes","Overlay_District":"No","Extinct_District":null,"District_Type":"Nonresidential","Affordable_Housing_District":"No","Elderly_Housing_District":"No","F1F_Allowance":"Prohibited","F2F_Allowance":"Prohibited","F3F_Allowance":"Prohibited","F4F_Allowance":"Prohibited","F5F_Allowance":null,"ADU_Allowance":"Prohibited","Affordable_Housing_Allowance":"Prohibited","PRD_Allowance":"Prohibited","NOTES":"None","F1F_Min_Lot":null,"F1F_Front_Setback":null,"F1F_Side_Setback":null,"F1F_Rear_Setback":null,"F1F_Frontage":null,"F1F_Max_Lot_Building_Coverage":null,"F1F_Max_Lot_Impervious_Coverage":null,"F1F_Min_Parking_Spaces":null,"F1F_Max_Stories":null,"F1F_Max_Height":null,"F1F_Floor_to_Area_Ratio":null,"F1F_Min_Unit_Size":null,"F2F_Affordable_Housing_Only":"No","F2F_Elderly_Housing_Only":"No","F2F_Min_Lot_Size":null,"F2F_Max_Density":null,"F2F_Front_Setback":null,"F2F_Side_Setback":null,"F2F_Rear_Setback":null,"F2F_Frontage":null,"F2F_Max_Lot_Building_Coverage":null,"F2F_Max_Lot_Impervious_Coverage":null,"F2F_Min_Parking_Spaces_per_1BR":null,"F2F_Min_Parking_Spaces_per_mult_BR":null,"F2F_Max_Stories":null,"F2F_Max_Height":null,"F2F_Floor_to_Area_Ratio":null,"F2F_Min_Unit_Size":null,"F3F_Affordable_Housing_Only":"No","F3F_Elderly_Housing_Only":"No","F3F_Min_Lot_Size":null,"F3F_Max_Density":null,"F3F_Front_Setback":null,"F3F_Side_Setback":null,"F3F_Rear_Setback":null,"F3F_Frontage":null,"F3F_Max_Lot_Building_Coverage":null,"F3F_Max_Lot_Impervious_Coverage":null,"F3F_Min_Parking_Spaces_per_1BR":null,"F3F_Min_Parking_Spaces_per_mult_BR":null,"F3F_Connection_to_Sewage_Water_Required":"No","F3F_Proximity_to_Public_Transit_Required":"No","F3F_Max_Stories":null,"F3F_Max_Height":null,"F3F_Floor_to_Area_Ratio":null,"F3F_Min_Unit_Size":null,"F3F_Max_Bedrooms":null,"F4F_Affordable_Housing_Only":"No","F4F_Elderly_Housing_Only":"No","F4F_Min_Lot_Size":null,"F4F_Max_Density":null,"F4F_Front_Setback":null,"F4F_Side_Setback":null,"F4F_Rear_Setback":null,"F4F_Frontage":null,"F4F_Max_Lot_Building_Coverage":null,"F4F_Max_Lot_Impervious_Coverage":null,"F4F_Min_Parking_Spaces_per_1BR":null,"F4F_Min_Parking_Spaces_per__mult_BR":null,"F4F_Connection_to_Sewage_Water_Required":"No","F4F_Proximity_to_Public_Transit_Required":"No","F4F_Max_Stories":null,"F4F_Max_Height":null,"F4F_Floor_to_Area_Ratio":null,"F4F_Min_Unit_Size":null,"F4F_Max_Bedrooms":null,"F4F_Max_Units_per_Building":null,"F5F_Affordable_Housing_Only":"F","F5F_Elderly_Housing_Only":"F","F5F_Min_Lot_Size":null,"F5F_Max_Density":null,"F5F_Front_Setback":null,"F5F_Side_Setback":null,"F5F_Rear_Setback":null,"F5F_Frontage":null,"F5F_Max_Lot_Building_Coverage":null,"F5F_Max__Lot_Impervious_Coverage":null,"F5F_Min_Parking_Spaces_per_1BR":null,"F5F_Min_Parking_Spaces_per_mult_BR":null,"F5F_Connection_to_Sewage_Water_Required":"F","F5F_Proximity_to_Public_Transit_Required":"F","F5F_Max_Stories":null,"F5F_Max_Height":null,"F5F_Floor_to_Area_Ratio":null,"F5F_Min_Unit_Size":null,"F5F_Max_Bedrooms":null,"F5F_Max_Units_per_Building":null,"Affordable_Housing_Definition":null,"Affordable_Housing_Elderly_Only":"No","Affordable_Housing_Min_Lot_Size":null,"Affordable_Housing_Max_Density":null,"Affordable_Housing_Min_Parking_Spaces_per_1BR":null,"Affordable_Housing_Min_Parking_Spaces_per_mult_BR":null,"Affordable_Housing_Min_Unit_Size":null,"Affordable_Housing_Max_Bedrooms":null,"Affordable_Housing_Max_Units_per_Building":null,"ADU_Employee_or_Family_Occupancy_Required":"No","ADU_Renter_Occupancy_Prohibited":"No","ADU_Owner_Occupancy_Required":"No","ADU_Elderly_Housing_Only":"No","ADU_Min_Lot_Size":null,"ADU_Min_Parking_Spaces":null,"ADU_Restricted_to_Primary_Structure":"No","ADU_Max_Size_as_Percent_of_Primary_Strcture":null,"ADU_Max_Size_in_sq_ft":null,"ADU_Max_Bedrooms":null,"PRD_Mobile_or_Manufactured_Home_Park":"No","PRD_Min_Lot_Size":null,"PRD_Max_Density":null,"PRD_Max_Units":null,"PUD_Required_with_Subdivision":"F","PUD_Threshold_Number":null,"PUD_Allowance":"No","PUD_Requires_Land_Conservation":"F","Base_Density":null,"CONDITIONAL_1F_Min_Lot":null,"CONDITIONAL_1F_Front_Setback":null,"CONDITIONAL_1F_Side_Setback":null,"CONDITIONAL_1F_Rear_Setback":null,"CONDITIONAL_1F_Frontage":null,"CONDITIONAL_1F_Max_Lot_Building_Coverage":null,"CONDITIONAL_1F_Max_Lot_Impervious_Coverage":null,"CONDITIONAL_1F_Min_Parking_Spaces":null,"CONDITIONAL_1F_Max_Stories":null,"CONDITIONAL_1F_Max_Height":null,"CONDITIONAL_1F_Floor_to_Area_Ratio":null,"CONDITIONAL_1F_Min_Unit_Size":null,"CONDITIONAL_2F_Affordable_Housing_Only":null,"CONDITIONAL_2F_Elderly_Housing_Only":null,"CONDITIONAL_2F_Min_Lot_Size":null,"CONDITIONAL_2F_Max_Density":null,"CONDITIONAL_2F_Front_Setback":null,"CONDITIONAL_2F_Side_Setback":null,"CONDITIONAL_2F_Rear_Setback":null,"CONDITIONAL_2F_Frontage":null,"CONDITIONAL_2F_Max_Lot_Building_Coverage":null,"CONDITIONAL_2F_Max_Lot_Impervious_Coverage":null,"CONDITIONAL_2F_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_2F_Min_Parking_Spaces_per_mult_BR":null,"CONDITIONAL_2F_Max_Stories":null,"CONDITIONAL_2F_Max_Height":null,"CONDITIONAL_2F_Floor_to_Area_Ratio":null,"CONDITIONAL_2F_Min_Unit_Size":null,"CONDITIONAL_3F_Affordable_Housing_Only":null,"CONDITIONAL_3F_Elderly_Housing_Only":null,"CONDITIONAL_3F_Min_Lot_Size":null,"CONDITIONAL_3F_Max_Density":null,"CONDITIONAL_3F_Front_Setback":null,"CONDITIONAL_3F_Side_Setback":null,"CONDITIONAL_3F_Rear_Setback":null,"CONDITIONAL_3F_Frontage":null,"CONDITIONAL_3F_Max_Lot_Building_Coverage":null,"CONDITIONAL_3F_Max_Lot_Impervious_Coverage":null,"CONDITIONAL_3F_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_3F_Min_Parking_Spaces_per_mult_BR":null,"CONDITIONAL_3F_Connection_to_Sewage_Water_Required":null,"CONDITIONAL_3F_Proximity_to_Public_Transit_Required":null,"CONDITIONAL_3F_Max_Stories":null,"CONDITIONAL_3F_Max_Height":null,"CONDITIONAL_3F_Floor_to_Area_Ratio":null,"CONDITIONAL_3F_Min_Unit_Size":null,"CONDITIONAL_3F_Max_Bedrooms":null,"CONDITIONAL_4F_Affordable_Housing_Only":null,"CONDITIONAL_4F_Elderly_Housing_Only":null,"CONDITIONAL_4F_Min_Lot_Size":null,"CONDITIONAL_4F_Max_Density":null,"CONDITIONAL_4F_Front_Setback":null,"CONDITIONAL_4F_Side_Setback":null,"CONDITIONAL_4F_Rear_Setback":null,"CONDITIONAL_4F_Frontage":null,"CONDITIONAL_4F_Max_Lot_Building_Coverage":null,"CONDITIONAL_4F_Max_Lot_Impervious_Coverage":null,"CONDITIONAL_4F_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_4F_Min_Parking_Spaces_per__mult_BR":null,"CONDITIONAL_4F_Connection_to_Sewage_Water_Required":null,"CONDITIONAL_4F_Proximity_to_Public_Transit_Required":null,"CONDITIONAL_4F_Max_Stories":null,"CONDITIONAL_4F_Max_Height":null,"CONDITIONAL_4F_Floor_to_Area_Ratio":null,"CONDITIONAL_4F_Min_Unit_Size":null,"CONDITIONAL_4F_Max_Bedrooms":null,"CONDITIONAL_4F_Max_Units_per_Building":null,"CONDITIONAL_5F_Affordable_Housing_Only":null,"CONDITIONAL_5F_Elderly_Housing_Only":null,"CONDITIONAL_5F_Min_Lot_Size":null,"CONDITIONAL_5F_Max_Density":null,"CONDITIONAL_5F_Front_Setback":null,"CONDITIONAL_5F_Side_Setback":null,"CONDITIONAL_5F_Rear_Setback":null,"CONDITIONAL_5F_Frontage":null,"CONDITIONAL_5F_Max_Lot_Building_Coverage":null,"CONDITIONAL_5F_Max__Lot_Impervious_Coverage":null,"CONDITIONAL_5F_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_5F_Min_Parking_Spaces_per_mult_BR":null,"CONDITIONAL_5F_Connection_to_Sewage_Water_Required":null,"CONDITIONAL_5F_Proximity_to_Public_Transit_Required":null,"CONDITIONAL_5F_Max_Stories":null,"CONDITIONAL_5F_Max_Height":null,"CONDITIONAL_5F_Floor_to_Area_Ratio":null,"CONDITIONAL_5F_Min_Unit_Size":null,"CONDITIONAL_5F_Max_Bedrooms":null,"CONDITIONAL_5F_Max_Units_per_Building":null,"CONDITIONAL_Affordable_Housing_Definition":null,"CONDITIONAL_Affordable_Housing_Elderly_Only":null,"CONDITIONAL_Affordable_Housing_Min_Lot_Size":null,"CONDITIONAL_Affordable_Housing_Max_Density":null,"CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_mult_BR":null,"CONDITIONAL_Affordable_Housing_Min_Unit_Size":null,"CONDITIONAL_Affordable_Housing_Max_Bedrooms":null,"CONDITIONAL_Affordable_Housing_Max_Units_per_Building":null,"CONDITIONAL_ADU_Employee_or_Family_Occupancy_Required":null,"CONDITIONAL_ADU_Renter_Occupancy_Prohibited":null,"CONDITIONAL_ADU_Owner_Occupancy_Required":null,"CONDITIONAL_ADU_Elderly_Housing_Only":null,"CONDITIONAL_ADU_Min_Lot_Size":null,"CONDITIONAL_ADU_Min_Parking_Spaces":null,"CONDITIONAL_ADU_Restricted_to_Primary_Structure":null,"CONDITIONAL_ADU_Max_Size_as_Percent_of_Primary_Strcture":null,"CONDITIONAL_ADU_Max_Size_in_sq_ft":null,"CONDITIONAL_ADU_Max_Bedrooms":null,"CONDITIONAL_PRD_Mobile_or_Manufactured_Home_Park":null,"CONDITIONAL_PRD_Min_Lot_Size":null,"CONDITIONAL_PRD_Max_Density":null,"CONDITIONAL_PRD_Max_Units":null,"CONDITIONAL_PUD_Required_with_Subdivision":null,"CONDITIONAL_PUD_Threshold_Number":null,"CONDITIONAL_PUD_Allowance":null,"CONDITIONAL_PUD_Requires_Land_Conservation":null,"Bylaw_Date":"2023-08-02","RPC":"CCRPC","Version":1,"Acres":4.7064883403138369,"Shape_Length":0.08493277966564762,"Shape_Area":2.1446399412581508e-06}},{"type":"Feature","id":4,"geometry":{"type":"Polygon","coordinates":[[[-72.934882998999967,44.197019200000057],[-72.931925906999936,44.203065004000052],[-72.930714499999965,44.20554160000006],[-72.935905699999978,44.205707500000074],[-72.935908198999982,44.205239000000063],[-72.935740099999975,44.204893000000027],[-72.93550179999994,44.204000800000074],[-72.935315899999978,44.202999700000078],[-72.935308299999974,44.201992400000051],[-72.935152099999982,44.200990200000035],[-72.934800399999972,44.199737500000026],[-72.934829899999954,44.19928630000004],[-72.935223099999973,44.198907500000075],[-72.935385399999973,44.198652200000026],[-72.935425899999984,44.198365300000034],[-72.93542290299996,44.198299700000064],[-72.935388799999942,44.197916400000054],[-72.935242099999982,44.197530000000029],[-72.934883099999979,44.197019200000057],[-72.934882998999967,44.197019200000057]]]},"properties":{"OBJECTID":4,"OBJECTID_1":1025,"Jurisdiction_District_Name":"Buels Gore Ridgetop","County":"Chittenden","Jurisdiction":"Buels Gore ","Abbreviated_District_Name":"R","District_Name":"Ridgetop","District_Mapped":"Yes","Overlay_District":"No","Extinct_District":null,"District_Type":"Nonresidential","Affordable_Housing_District":"No","Elderly_Housing_District":"No","F1F_Allowance":"Prohibited","F2F_Allowance":"Prohibited","F3F_Allowance":"Prohibited","F4F_Allowance":"Prohibited","F5F_Allowance":null,"ADU_Allowance":"Prohibited","Affordable_Housing_Allowance":"Prohibited","PRD_Allowance":"Prohibited","NOTES":"None","F1F_Min_Lot":null,"F1F_Front_Setback":null,"F1F_Side_Setback":null,"F1F_Rear_Setback":null,"F1F_Frontage":null,"F1F_Max_Lot_Building_Coverage":null,"F1F_Max_Lot_Impervious_Coverage":null,"F1F_Min_Parking_Spaces":null,"F1F_Max_Stories":null,"F1F_Max_Height":null,"F1F_Floor_to_Area_Ratio":null,"F1F_Min_Unit_Size":null,"F2F_Affordable_Housing_Only":"No","F2F_Elderly_Housing_Only":"No","F2F_Min_Lot_Size":null,"F2F_Max_Density":null,"F2F_Front_Setback":null,"F2F_Side_Setback":null,"F2F_Rear_Setback":null,"F2F_Frontage":null,"F2F_Max_Lot_Building_Coverage":null,"F2F_Max_Lot_Impervious_Coverage":null,"F2F_Min_Parking_Spaces_per_1BR":null,"F2F_Min_Parking_Spaces_per_mult_BR":null,"F2F_Max_Stories":null,"F2F_Max_Height":null,"F2F_Floor_to_Area_Ratio":null,"F2F_Min_Unit_Size":null,"F3F_Affordable_Housing_Only":"No","F3F_Elderly_Housing_Only":"No","F3F_Min_Lot_Size":null,"F3F_Max_Density":null,"F3F_Front_Setback":null,"F3F_Side_Setback":null,"F3F_Rear_Setback":null,"F3F_Frontage":null,"F3F_Max_Lot_Building_Coverage":null,"F3F_Max_Lot_Impervious_Coverage":null,"F3F_Min_Parking_Spaces_per_1BR":null,"F3F_Min_Parking_Spaces_per_mult_BR":null,"F3F_Connection_to_Sewage_Water_Required":"No","F3F_Proximity_to_Public_Transit_Required":"No","F3F_Max_Stories":null,"F3F_Max_Height":null,"F3F_Floor_to_Area_Ratio":null,"F3F_Min_Unit_Size":null,"F3F_Max_Bedrooms":null,"F4F_Affordable_Housing_Only":"No","F4F_Elderly_Housing_Only":"No","F4F_Min_Lot_Size":null,"F4F_Max_Density":null,"F4F_Front_Setback":null,"F4F_Side_Setback":null,"F4F_Rear_Setback":null,"F4F_Frontage":null,"F4F_Max_Lot_Building_Coverage":null,"F4F_Max_Lot_Impervious_Coverage":null,"F4F_Min_Parking_Spaces_per_1BR":null,"F4F_Min_Parking_Spaces_per__mult_BR":null,"F4F_Connection_to_Sewage_Water_Required":"No","F4F_Proximity_to_Public_Transit_Required":"No","F4F_Max_Stories":null,"F4F_Max_Height":null,"F4F_Floor_to_Area_Ratio":null,"F4F_Min_Unit_Size":null,"F4F_Max_Bedrooms":null,"F4F_Max_Units_per_Building":null,"F5F_Affordable_Housing_Only":"F","F5F_Elderly_Housing_Only":"F","F5F_Min_Lot_Size":null,"F5F_Max_Density":null,"F5F_Front_Setback":null,"F5F_Side_Setback":null,"F5F_Rear_Setback":null,"F5F_Frontage":null,"F5F_Max_Lot_Building_Coverage":null,"F5F_Max__Lot_Impervious_Coverage":null,"F5F_Min_Parking_Spaces_per_1BR":null,"F5F_Min_Parking_Spaces_per_mult_BR":null,"F5F_Connection_to_Sewage_Water_Required":"F","F5F_Proximity_to_Public_Transit_Required":"F","F5F_Max_Stories":null,"F5F_Max_Height":null,"F5F_Floor_to_Area_Ratio":null,"F5F_Min_Unit_Size":null,"F5F_Max_Bedrooms":null,"F5F_Max_Units_per_Building":null,"Affordable_Housing_Definition":null,"Affordable_Housing_Elderly_Only":"No","Affordable_Housing_Min_Lot_Size":null,"Affordable_Housing_Max_Density":null,"Affordable_Housing_Min_Parking_Spaces_per_1BR":null,"Affordable_Housing_Min_Parking_Spaces_per_mult_BR":null,"Affordable_Housing_Min_Unit_Size":null,"Affordable_Housing_Max_Bedrooms":null,"Affordable_Housing_Max_Units_per_Building":null,"ADU_Employee_or_Family_Occupancy_Required":"No","ADU_Renter_Occupancy_Prohibited":"No","ADU_Owner_Occupancy_Required":"No","ADU_Elderly_Housing_Only":"No","ADU_Min_Lot_Size":null,"ADU_Min_Parking_Spaces":null,"ADU_Restricted_to_Primary_Structure":"No","ADU_Max_Size_as_Percent_of_Primary_Strcture":null,"ADU_Max_Size_in_sq_ft":null,"ADU_Max_Bedrooms":null,"PRD_Mobile_or_Manufactured_Home_Park":"No","PRD_Min_Lot_Size":null,"PRD_Max_Density":null,"PRD_Max_Units":null,"PUD_Required_with_Subdivision":"F","PUD_Threshold_Number":null,"PUD_Allowance":"No","PUD_Requires_Land_Conservation":"F","Base_Density":null,"CONDITIONAL_1F_Min_Lot":null,"CONDITIONAL_1F_Front_Setback":null,"CONDITIONAL_1F_Side_Setback":null,"CONDITIONAL_1F_Rear_Setback":null,"CONDITIONAL_1F_Frontage":null,"CONDITIONAL_1F_Max_Lot_Building_Coverage":null,"CONDITIONAL_1F_Max_Lot_Impervious_Coverage":null,"CONDITIONAL_1F_Min_Parking_Spaces":null,"CONDITIONAL_1F_Max_Stories":null,"CONDITIONAL_1F_Max_Height":null,"CONDITIONAL_1F_Floor_to_Area_Ratio":null,"CONDITIONAL_1F_Min_Unit_Size":null,"CONDITIONAL_2F_Affordable_Housing_Only":null,"CONDITIONAL_2F_Elderly_Housing_Only":null,"CONDITIONAL_2F_Min_Lot_Size":null,"CONDITIONAL_2F_Max_Density":null,"CONDITIONAL_2F_Front_Setback":null,"CONDITIONAL_2F_Side_Setback":null,"CONDITIONAL_2F_Rear_Setback":null,"CONDITIONAL_2F_Frontage":null,"CONDITIONAL_2F_Max_Lot_Building_Coverage":null,"CONDITIONAL_2F_Max_Lot_Impervious_Coverage":null,"CONDITIONAL_2F_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_2F_Min_Parking_Spaces_per_mult_BR":null,"CONDITIONAL_2F_Max_Stories":null,"CONDITIONAL_2F_Max_Height":null,"CONDITIONAL_2F_Floor_to_Area_Ratio":null,"CONDITIONAL_2F_Min_Unit_Size":null,"CONDITIONAL_3F_Affordable_Housing_Only":null,"CONDITIONAL_3F_Elderly_Housing_Only":null,"CONDITIONAL_3F_Min_Lot_Size":null,"CONDITIONAL_3F_Max_Density":null,"CONDITIONAL_3F_Front_Setback":null,"CONDITIONAL_3F_Side_Setback":null,"CONDITIONAL_3F_Rear_Setback":null,"CONDITIONAL_3F_Frontage":null,"CONDITIONAL_3F_Max_Lot_Building_Coverage":null,"CONDITIONAL_3F_Max_Lot_Impervious_Coverage":null,"CONDITIONAL_3F_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_3F_Min_Parking_Spaces_per_mult_BR":null,"CONDITIONAL_3F_Connection_to_Sewage_Water_Required":null,"CONDITIONAL_3F_Proximity_to_Public_Transit_Required":null,"CONDITIONAL_3F_Max_Stories":null,"CONDITIONAL_3F_Max_Height":null,"CONDITIONAL_3F_Floor_to_Area_Ratio":null,"CONDITIONAL_3F_Min_Unit_Size":null,"CONDITIONAL_3F_Max_Bedrooms":null,"CONDITIONAL_4F_Affordable_Housing_Only":null,"CONDITIONAL_4F_Elderly_Housing_Only":null,"CONDITIONAL_4F_Min_Lot_Size":null,"CONDITIONAL_4F_Max_Density":null,"CONDITIONAL_4F_Front_Setback":null,"CONDITIONAL_4F_Side_Setback":null,"CONDITIONAL_4F_Rear_Setback":null,"CONDITIONAL_4F_Frontage":null,"CONDITIONAL_4F_Max_Lot_Building_Coverage":null,"CONDITIONAL_4F_Max_Lot_Impervious_Coverage":null,"CONDITIONAL_4F_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_4F_Min_Parking_Spaces_per__mult_BR":null,"CONDITIONAL_4F_Connection_to_Sewage_Water_Required":null,"CONDITIONAL_4F_Proximity_to_Public_Transit_Required":null,"CONDITIONAL_4F_Max_Stories":null,"CONDITIONAL_4F_Max_Height":null,"CONDITIONAL_4F_Floor_to_Area_Ratio":null,"CONDITIONAL_4F_Min_Unit_Size":null,"CONDITIONAL_4F_Max_Bedrooms":null,"CONDITIONAL_4F_Max_Units_per_Building":null,"CONDITIONAL_5F_Affordable_Housing_Only":null,"CONDITIONAL_5F_Elderly_Housing_Only":null,"CONDITIONAL_5F_Min_Lot_Size":null,"CONDITIONAL_5F_Max_Density":null,"CONDITIONAL_5F_Front_Setback":null,"CONDITIONAL_5F_Side_Setback":null,"CONDITIONAL_5F_Rear_Setback":null,"CONDITIONAL_5F_Frontage":null,"CONDITIONAL_5F_Max_Lot_Building_Coverage":null,"CONDITIONAL_5F_Max__Lot_Impervious_Coverage":null,"CONDITIONAL_5F_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_5F_Min_Parking_Spaces_per_mult_BR":null,"CONDITIONAL_5F_Connection_to_Sewage_Water_Required":null,"CONDITIONAL_5F_Proximity_to_Public_Transit_Required":null,"CONDITIONAL_5F_Max_Stories":null,"CONDITIONAL_5F_Max_Height":null,"CONDITIONAL_5F_Floor_to_Area_Ratio":null,"CONDITIONAL_5F_Min_Unit_Size":null,"CONDITIONAL_5F_Max_Bedrooms":null,"CONDITIONAL_5F_Max_Units_per_Building":null,"CONDITIONAL_Affordable_Housing_Definition":null,"CONDITIONAL_Affordable_Housing_Elderly_Only":null,"CONDITIONAL_Affordable_Housing_Min_Lot_Size":null,"CONDITIONAL_Affordable_Housing_Max_Density":null,"CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_1BR":null,"CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_mult_BR":null,"CONDITIONAL_Affordable_Housing_Min_Unit_Size":null,"CONDITIONAL_Affordable_Housing_Max_Bedrooms":null,"CONDITIONAL_Affordable_Housing_Max_Units_per_Building":null,"CONDITIONAL_ADU_Employee_or_Family_Occupancy_Required":null,"CONDITIONAL_ADU_Renter_Occupancy_Prohibited":null,"CONDITIONAL_ADU_Owner_Occupancy_Required":null,"CONDITIONAL_ADU_Elderly_Housing_Only":null,"CONDITIONAL_ADU_Min_Lot_Size":null,"CONDITIONAL_ADU_Min_Parking_Spaces":null,"CONDITIONAL_ADU_Restricted_to_Primary_Structure":null,"CONDITIONAL_ADU_Max_Size_as_Percent_of_Primary_Strcture":null,"CONDITIONAL_ADU_Max_Size_in_sq_ft":null,"CONDITIONAL_ADU_Max_Bedrooms":null,"CONDITIONAL_PRD_Mobile_or_Manufactured_Home_Park":null,"CONDITIONAL_PRD_Min_Lot_Size":null,"CONDITIONAL_PRD_Max_Density":null,"CONDITIONAL_PRD_Max_Units":null,"CONDITIONAL_PUD_Required_with_Subdivision":null,"CONDITIONAL_PUD_Threshold_Number":null,"CONDITIONAL_PUD_Allowance":null,"CONDITIONAL_PUD_Requires_Land_Conservation":null,"Bylaw_Date":"2023-08-02","RPC":"CCRPC","Version":1,"Acres":47.594220024110548,"Shape_Length":0.023877363231126845,"Shape_Area":2.168675364383935e-05}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -72.96464059999994,
+                44.22940220000004
+              ],
+              [
+                -72.96136209999997,
+                44.22977780000008
+              ],
+              [
+                -72.95977189999996,
+                44.229912600000034
+              ],
+              [
+                -72.95944993499995,
+                44.229943787000025
+              ],
+              [
+                -72.95875642399994,
+                44.23001784400003
+              ],
+              [
+                -72.96509878799998,
+                44.23132706300004
+              ],
+              [
+                -72.96475419999996,
+                44.23032770000003
+              ],
+              [
+                -72.96464059999994,
+                44.22940220000004
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.96501459899997,
+                44.229360400000076
+              ],
+              [
+                -72.96482759999998,
+                44.22938130000006
+              ],
+              [
+                -72.96494059999998,
+                44.230304800000056
+              ],
+              [
+                -72.96523719999993,
+                44.23115000000007
+              ],
+              [
+                -72.96501459899997,
+                44.229360400000076
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.95951099999996,
+                44.216975500000046
+              ],
+              [
+                -72.95898489899997,
+                44.21739070000007
+              ],
+              [
+                -72.95909969999997,
+                44.21750990000004
+              ],
+              [
+                -72.95929209999997,
+                44.21794740000007
+              ],
+              [
+                -72.95952989999995,
+                44.21811390000005
+              ],
+              [
+                -72.96038359999994,
+                44.21846500000004
+              ],
+              [
+                -72.96026520099997,
+                44.21900550000004
+              ],
+              [
+                -72.96050339999994,
+                44.21954460000006
+              ],
+              [
+                -72.96039760099995,
+                44.219618800000035
+              ],
+              [
+                -72.96027499999997,
+                44.22010800000004
+              ],
+              [
+                -72.96030159999998,
+                44.22062530000005
+              ],
+              [
+                -72.96068789999998,
+                44.22170380000006
+              ],
+              [
+                -72.96090729999997,
+                44.222708200000056
+              ],
+              [
+                -72.96082279999996,
+                44.22279400000008
+              ],
+              [
+                -72.96059229999997,
+                44.223882100000026
+              ],
+              [
+                -72.96040250099998,
+                44.224268100000074
+              ],
+              [
+                -72.96016959999997,
+                44.22440670000003
+              ],
+              [
+                -72.96003399899996,
+                44.22483300000005
+              ],
+              [
+                -72.96019779999995,
+                44.22578180000005
+              ],
+              [
+                -72.96019489999998,
+                44.22604370000005
+              ],
+              [
+                -72.96003369999994,
+                44.22656630000006
+              ],
+              [
+                -72.95999279999995,
+                44.226616000000035
+              ],
+              [
+                -72.95909850099997,
+                44.22669520000005
+              ],
+              [
+                -72.95854889999998,
+                44.226518300000066
+              ],
+              [
+                -72.95849649999997,
+                44.22604960000007
+              ],
+              [
+                -72.95862379999994,
+                44.225845700000036
+              ],
+              [
+                -72.95841079899998,
+                44.22549290000006
+              ],
+              [
+                -72.95831929999997,
+                44.22547250000008
+              ],
+              [
+                -72.95754749999998,
+                44.22552510000003
+              ],
+              [
+                -72.95683699999995,
+                44.22573680000005
+              ],
+              [
+                -72.95656279999997,
+                44.22573250000005
+              ],
+              [
+                -72.95616499899995,
+                44.225917700000025
+              ],
+              [
+                -72.95629489999999,
+                44.22725020000007
+              ],
+              [
+                -72.96442589999998,
+                44.22646220000007
+              ],
+              [
+                -72.96443289999996,
+                44.22656040000004
+              ],
+              [
+                -72.96444560399993,
+                44.226559300000076
+              ],
+              [
+                -72.96437009999994,
+                44.225550500000054
+              ],
+              [
+                -72.96292319999998,
+                44.21771770000004
+              ],
+              [
+                -72.96264459999998,
+                44.21799620000007
+              ],
+              [
+                -72.96216009999995,
+                44.21822210000005
+              ],
+              [
+                -72.96164879999998,
+                44.21830600000004
+              ],
+              [
+                -72.96110889999994,
+                44.21823170000005
+              ],
+              [
+                -72.96062449999994,
+                44.218017100000054
+              ],
+              [
+                -72.96030659999997,
+                44.21773550000006
+              ],
+              [
+                -72.96006909899995,
+                44.21712260000004
+              ],
+              [
+                -72.95951099999996,
+                44.216975500000046
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.96217169999994,
+                44.213648800000044
+              ],
+              [
+                -72.96220059999996,
+                44.21397040000005
+              ],
+              [
+                -72.96210789999998,
+                44.214278500000034
+              ],
+              [
+                -72.96210609999997,
+                44.21468980000003
+              ],
+              [
+                -72.96254989999994,
+                44.21575720000004
+              ],
+              [
+                -72.96222629999994,
+                44.21629670000004
+              ],
+              [
+                -72.96210209999998,
+                44.21673910000004
+              ],
+              [
+                -72.96249469899993,
+                44.21669700000007
+              ],
+              [
+                -72.96266279999998,
+                44.216308000000026
+              ],
+              [
+                -72.96217169999994,
+                44.213648800000044
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.96085859899995,
+                44.20776130000007
+              ],
+              [
+                -72.96060249999994,
+                44.20785150000006
+              ],
+              [
+                -72.96078279999995,
+                44.20819190000003
+              ],
+              [
+                -72.96073479999995,
+                44.20845580000008
+              ],
+              [
+                -72.96061059999994,
+                44.20857330000007
+              ],
+              [
+                -72.96060019999999,
+                44.20901160000005
+              ],
+              [
+                -72.96106729999997,
+                44.20953440000005
+              ],
+              [
+                -72.96090379999998,
+                44.210074200000065
+              ],
+              [
+                -72.96105659899996,
+                44.21105360000007
+              ],
+              [
+                -72.96105049999994,
+                44.21171060000006
+              ],
+              [
+                -72.96141699999998,
+                44.212495800000056
+              ],
+              [
+                -72.96171319999996,
+                44.212770900000066
+              ],
+              [
+                -72.96210099999996,
+                44.213265800000045
+              ],
+              [
+                -72.96109679999995,
+                44.20783250000005
+              ],
+              [
+                -72.96085859899995,
+                44.20776130000007
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "OBJECTID_1": 1022,
+        "Jurisdiction_District_Name": "Buels Gore Design Review",
+        "County": "Chittenden",
+        "Jurisdiction": "Buels Gore ",
+        "Abbreviated_District_Name": "Dr",
+        "District_Name": "Design Review",
+        "District_Mapped": "Yes",
+        "Overlay_District": "No",
+        "Extinct_District": null,
+        "District_Type": "Mixed with Residential",
+        "Affordable_Housing_District": "No",
+        "Elderly_Housing_District": "No",
+        "F1F_Allowance": "Permitted",
+        "F2F_Allowance": "Prohibited",
+        "F3F_Allowance": "Prohibited",
+        "F4F_Allowance": "Prohibited",
+        "F5F_Allowance": null,
+        "ADU_Allowance": "Allowed/Conditional",
+        "Affordable_Housing_Allowance": "Not Mentioned",
+        "PRD_Allowance": "Not Mentioned",
+        "NOTES": "None",
+        "F1F_Min_Lot": 10,
+        "F1F_Front_Setback": 50,
+        "F1F_Side_Setback": 50,
+        "F1F_Rear_Setback": 50,
+        "F1F_Frontage": null,
+        "F1F_Max_Lot_Building_Coverage": null,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": null,
+        "F1F_Max_Stories": null,
+        "F1F_Max_Height": null,
+        "F1F_Floor_to_Area_Ratio": null,
+        "F1F_Min_Unit_Size": null,
+        "F2F_Affordable_Housing_Only": "No",
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Min_Lot_Size": null,
+        "F2F_Max_Density": null,
+        "F2F_Front_Setback": null,
+        "F2F_Side_Setback": null,
+        "F2F_Rear_Setback": null,
+        "F2F_Frontage": null,
+        "F2F_Max_Lot_Building_Coverage": null,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": null,
+        "F2F_Min_Parking_Spaces_per_mult_BR": null,
+        "F2F_Max_Stories": null,
+        "F2F_Max_Height": null,
+        "F2F_Floor_to_Area_Ratio": null,
+        "F2F_Min_Unit_Size": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Elderly_Housing_Only": "No",
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Density": null,
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Connection_to_Sewage_Water_Required": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Max_Stories": null,
+        "F3F_Max_Height": null,
+        "F3F_Floor_to_Area_Ratio": null,
+        "F3F_Min_Unit_Size": null,
+        "F3F_Max_Bedrooms": null,
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Density": null,
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per__mult_BR": null,
+        "F4F_Connection_to_Sewage_Water_Required": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Max_Stories": null,
+        "F4F_Max_Height": null,
+        "F4F_Floor_to_Area_Ratio": null,
+        "F4F_Min_Unit_Size": null,
+        "F4F_Max_Bedrooms": null,
+        "F4F_Max_Units_per_Building": null,
+        "F5F_Affordable_Housing_Only": "F",
+        "F5F_Elderly_Housing_Only": "F",
+        "F5F_Min_Lot_Size": null,
+        "F5F_Max_Density": null,
+        "F5F_Front_Setback": null,
+        "F5F_Side_Setback": null,
+        "F5F_Rear_Setback": null,
+        "F5F_Frontage": null,
+        "F5F_Max_Lot_Building_Coverage": null,
+        "F5F_Max__Lot_Impervious_Coverage": null,
+        "F5F_Min_Parking_Spaces_per_1BR": null,
+        "F5F_Min_Parking_Spaces_per_mult_BR": null,
+        "F5F_Connection_to_Sewage_Water_Required": "F",
+        "F5F_Proximity_to_Public_Transit_Required": "F",
+        "F5F_Max_Stories": null,
+        "F5F_Max_Height": null,
+        "F5F_Floor_to_Area_Ratio": null,
+        "F5F_Min_Unit_Size": null,
+        "F5F_Max_Bedrooms": null,
+        "F5F_Max_Units_per_Building": null,
+        "Affordable_Housing_Definition": null,
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Min_Unit_Size": null,
+        "Affordable_Housing_Max_Bedrooms": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Min_Lot_Size": null,
+        "ADU_Min_Parking_Spaces": null,
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Max_Bedrooms": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PRD_Min_Lot_Size": null,
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PUD_Required_with_Subdivision": "F",
+        "PUD_Threshold_Number": null,
+        "PUD_Allowance": "No",
+        "PUD_Requires_Land_Conservation": "T",
+        "Base_Density": 0.1,
+        "CONDITIONAL_1F_Min_Lot": null,
+        "CONDITIONAL_1F_Front_Setback": null,
+        "CONDITIONAL_1F_Side_Setback": null,
+        "CONDITIONAL_1F_Rear_Setback": null,
+        "CONDITIONAL_1F_Frontage": null,
+        "CONDITIONAL_1F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_1F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_1F_Min_Parking_Spaces": null,
+        "CONDITIONAL_1F_Max_Stories": null,
+        "CONDITIONAL_1F_Max_Height": null,
+        "CONDITIONAL_1F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_1F_Min_Unit_Size": null,
+        "CONDITIONAL_2F_Affordable_Housing_Only": null,
+        "CONDITIONAL_2F_Elderly_Housing_Only": null,
+        "CONDITIONAL_2F_Min_Lot_Size": null,
+        "CONDITIONAL_2F_Max_Density": null,
+        "CONDITIONAL_2F_Front_Setback": null,
+        "CONDITIONAL_2F_Side_Setback": null,
+        "CONDITIONAL_2F_Rear_Setback": null,
+        "CONDITIONAL_2F_Frontage": null,
+        "CONDITIONAL_2F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_2F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_2F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_2F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_2F_Max_Stories": null,
+        "CONDITIONAL_2F_Max_Height": null,
+        "CONDITIONAL_2F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_2F_Min_Unit_Size": null,
+        "CONDITIONAL_3F_Affordable_Housing_Only": null,
+        "CONDITIONAL_3F_Elderly_Housing_Only": null,
+        "CONDITIONAL_3F_Min_Lot_Size": null,
+        "CONDITIONAL_3F_Max_Density": null,
+        "CONDITIONAL_3F_Front_Setback": null,
+        "CONDITIONAL_3F_Side_Setback": null,
+        "CONDITIONAL_3F_Rear_Setback": null,
+        "CONDITIONAL_3F_Frontage": null,
+        "CONDITIONAL_3F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_3F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_3F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_3F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_3F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_3F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_3F_Max_Stories": null,
+        "CONDITIONAL_3F_Max_Height": null,
+        "CONDITIONAL_3F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_3F_Min_Unit_Size": null,
+        "CONDITIONAL_3F_Max_Bedrooms": null,
+        "CONDITIONAL_4F_Affordable_Housing_Only": null,
+        "CONDITIONAL_4F_Elderly_Housing_Only": null,
+        "CONDITIONAL_4F_Min_Lot_Size": null,
+        "CONDITIONAL_4F_Max_Density": null,
+        "CONDITIONAL_4F_Front_Setback": null,
+        "CONDITIONAL_4F_Side_Setback": null,
+        "CONDITIONAL_4F_Rear_Setback": null,
+        "CONDITIONAL_4F_Frontage": null,
+        "CONDITIONAL_4F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_4F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_4F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_4F_Min_Parking_Spaces_per__mult_BR": null,
+        "CONDITIONAL_4F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_4F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_4F_Max_Stories": null,
+        "CONDITIONAL_4F_Max_Height": null,
+        "CONDITIONAL_4F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_4F_Min_Unit_Size": null,
+        "CONDITIONAL_4F_Max_Bedrooms": null,
+        "CONDITIONAL_4F_Max_Units_per_Building": null,
+        "CONDITIONAL_5F_Affordable_Housing_Only": null,
+        "CONDITIONAL_5F_Elderly_Housing_Only": null,
+        "CONDITIONAL_5F_Min_Lot_Size": null,
+        "CONDITIONAL_5F_Max_Density": null,
+        "CONDITIONAL_5F_Front_Setback": null,
+        "CONDITIONAL_5F_Side_Setback": null,
+        "CONDITIONAL_5F_Rear_Setback": null,
+        "CONDITIONAL_5F_Frontage": null,
+        "CONDITIONAL_5F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_5F_Max__Lot_Impervious_Coverage": null,
+        "CONDITIONAL_5F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_5F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_5F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_5F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_5F_Max_Stories": null,
+        "CONDITIONAL_5F_Max_Height": null,
+        "CONDITIONAL_5F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_5F_Min_Unit_Size": null,
+        "CONDITIONAL_5F_Max_Bedrooms": null,
+        "CONDITIONAL_5F_Max_Units_per_Building": null,
+        "CONDITIONAL_Affordable_Housing_Definition": null,
+        "CONDITIONAL_Affordable_Housing_Elderly_Only": null,
+        "CONDITIONAL_Affordable_Housing_Min_Lot_Size": null,
+        "CONDITIONAL_Affordable_Housing_Max_Density": null,
+        "CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_Affordable_Housing_Min_Unit_Size": null,
+        "CONDITIONAL_Affordable_Housing_Max_Bedrooms": null,
+        "CONDITIONAL_Affordable_Housing_Max_Units_per_Building": null,
+        "CONDITIONAL_ADU_Employee_or_Family_Occupancy_Required": null,
+        "CONDITIONAL_ADU_Renter_Occupancy_Prohibited": null,
+        "CONDITIONAL_ADU_Owner_Occupancy_Required": null,
+        "CONDITIONAL_ADU_Elderly_Housing_Only": null,
+        "CONDITIONAL_ADU_Min_Lot_Size": null,
+        "CONDITIONAL_ADU_Min_Parking_Spaces": null,
+        "CONDITIONAL_ADU_Restricted_to_Primary_Structure": null,
+        "CONDITIONAL_ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "CONDITIONAL_ADU_Max_Size_in_sq_ft": null,
+        "CONDITIONAL_ADU_Max_Bedrooms": null,
+        "CONDITIONAL_PRD_Mobile_or_Manufactured_Home_Park": null,
+        "CONDITIONAL_PRD_Min_Lot_Size": null,
+        "CONDITIONAL_PRD_Max_Density": null,
+        "CONDITIONAL_PRD_Max_Units": null,
+        "CONDITIONAL_PUD_Required_with_Subdivision": null,
+        "CONDITIONAL_PUD_Threshold_Number": null,
+        "CONDITIONAL_PUD_Allowance": null,
+        "CONDITIONAL_PUD_Requires_Land_Conservation": null,
+        "Bylaw_Date": "2023-08-02",
+        "RPC": "CCRPC",
+        "Version": 1,
+        "Acres": 95.30291126184275,
+        "Shape_Length": 0.07605433019243023,
+        "Shape_Area": 4.3439563079874335e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -72.95344579999994,
+                44.22772770000006
+              ],
+              [
+                -72.95182859999994,
+                44.22792570000007
+              ],
+              [
+                -72.95080560099996,
+                44.227985500000045
+              ],
+              [
+                -72.94938139999994,
+                44.227892100000076
+              ],
+              [
+                -72.94851155899994,
+                44.22796775900008
+              ],
+              [
+                -72.95370549999996,
+                44.22898935400008
+              ],
+              [
+                -72.95344579999994,
+                44.22772770000006
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.95951099999996,
+                44.216975500000046
+              ],
+              [
+                -72.95917589999993,
+                44.21701010000004
+              ],
+              [
+                -72.95889819999996,
+                44.217187600000045
+              ],
+              [
+                -72.95832299999995,
+                44.217403200000035
+              ],
+              [
+                -72.95778279999996,
+                44.21745580000004
+              ],
+              [
+                -72.95748069999996,
+                44.21738950000008
+              ],
+              [
+                -72.95703009999994,
+                44.217697300000054
+              ],
+              [
+                -72.95624910099997,
+                44.21800280000008
+              ],
+              [
+                -72.95534289999995,
+                44.21846910000005
+              ],
+              [
+                -72.95533239999997,
+                44.218569900000034
+              ],
+              [
+                -72.95506249999994,
+                44.21878430000004
+              ],
+              [
+                -72.95406769999994,
+                44.21895650000005
+              ],
+              [
+                -72.95397539999993,
+                44.21916120000003
+              ],
+              [
+                -72.95391279999996,
+                44.22062440000008
+              ],
+              [
+                -72.95376599999997,
+                44.22133450000007
+              ],
+              [
+                -72.95344790099995,
+                44.221687700000075
+              ],
+              [
+                -72.95326769999997,
+                44.22212940000003
+              ],
+              [
+                -72.95290149999994,
+                44.222406300000046
+              ],
+              [
+                -72.95249530099994,
+                44.22289630000006
+              ],
+              [
+                -72.95249089999999,
+                44.22271930000005
+              ],
+              [
+                -72.95243309999995,
+                44.22269970000008
+              ],
+              [
+                -72.95279729999999,
+                44.222275800000034
+              ],
+              [
+                -72.95310279999995,
+                44.22205990000003
+              ],
+              [
+                -72.95327170099995,
+                44.22163270000004
+              ],
+              [
+                -72.95361199999996,
+                44.22122180000008
+              ],
+              [
+                -72.95372369899997,
+                44.22061300000007
+              ],
+              [
+                -72.95380659999995,
+                44.21934730000004
+              ],
+              [
+                -72.95332019999995,
+                44.21955890000004
+              ],
+              [
+                -72.95297879999998,
+                44.22024780000004
+              ],
+              [
+                -72.95248089999995,
+                44.220598100000075
+              ],
+              [
+                -72.95167580099996,
+                44.220827100000065
+              ],
+              [
+                -72.95075689999999,
+                44.22083890000005
+              ],
+              [
+                -72.95009649999997,
+                44.22071730000005
+              ],
+              [
+                -72.94921259999995,
+                44.22034730000007
+              ],
+              [
+                -72.94845849899997,
+                44.220437600000025
+              ],
+              [
+                -72.94781999999998,
+                44.22033580000004
+              ],
+              [
+                -72.94732009999996,
+                44.22004830000003
+              ],
+              [
+                -72.94701569999995,
+                44.21976730000006
+              ],
+              [
+                -72.94619061099996,
+                44.219197465000036
+              ],
+              [
+                -72.94520119999999,
+                44.21912820000006
+              ],
+              [
+                -72.94508629999996,
+                44.219123600000046
+              ],
+              [
+                -72.94374349999998,
+                44.21906330000007
+              ],
+              [
+                -72.94263590099996,
+                44.219033900000056
+              ],
+              [
+                -72.94231019399996,
+                44.22210590100008
+              ],
+              [
+                -72.94227669999998,
+                44.222484800000075
+              ],
+              [
+                -72.94208659999998,
+                44.224662900000055
+              ],
+              [
+                -72.94669099899994,
+                44.224999300000036
+              ],
+              [
+                -72.94666679899996,
+                44.225451700000065
+              ],
+              [
+                -72.94766369999996,
+                44.22535820000007
+              ],
+              [
+                -72.94799769999997,
+                44.22532630000006
+              ],
+              [
+                -72.95603059999996,
+                44.22455110000004
+              ],
+              [
+                -72.95616499899995,
+                44.225917700000025
+              ],
+              [
+                -72.95656279999997,
+                44.22573250000005
+              ],
+              [
+                -72.95683699999995,
+                44.22573680000005
+              ],
+              [
+                -72.95754749999998,
+                44.22552510000003
+              ],
+              [
+                -72.95831929999997,
+                44.22547250000008
+              ],
+              [
+                -72.95841079899998,
+                44.22549290000006
+              ],
+              [
+                -72.95862379999994,
+                44.225845700000036
+              ],
+              [
+                -72.95849649999997,
+                44.22604960000007
+              ],
+              [
+                -72.95854889999998,
+                44.226518300000066
+              ],
+              [
+                -72.95909850099997,
+                44.22669520000005
+              ],
+              [
+                -72.95999279999995,
+                44.226616000000035
+              ],
+              [
+                -72.96003369999994,
+                44.22656630000006
+              ],
+              [
+                -72.96019489999998,
+                44.22604370000005
+              ],
+              [
+                -72.96019779999995,
+                44.22578180000005
+              ],
+              [
+                -72.96003399899996,
+                44.22483300000005
+              ],
+              [
+                -72.96016959999997,
+                44.22440670000003
+              ],
+              [
+                -72.96040250099998,
+                44.224268100000074
+              ],
+              [
+                -72.96059229999997,
+                44.223882100000026
+              ],
+              [
+                -72.96082279999996,
+                44.22279400000008
+              ],
+              [
+                -72.96090729999997,
+                44.222708200000056
+              ],
+              [
+                -72.96068789999998,
+                44.22170380000006
+              ],
+              [
+                -72.96030159999998,
+                44.22062530000005
+              ],
+              [
+                -72.96027499999997,
+                44.22010800000004
+              ],
+              [
+                -72.96039760099995,
+                44.219618800000035
+              ],
+              [
+                -72.96050339999994,
+                44.21954460000006
+              ],
+              [
+                -72.96026520099997,
+                44.21900550000004
+              ],
+              [
+                -72.96038359999994,
+                44.21846500000004
+              ],
+              [
+                -72.95952989999995,
+                44.21811390000005
+              ],
+              [
+                -72.95929209999997,
+                44.21794740000007
+              ],
+              [
+                -72.95909969999997,
+                44.21750990000004
+              ],
+              [
+                -72.95898489899997,
+                44.21739070000007
+              ],
+              [
+                -72.95951099999996,
+                44.216975500000046
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.94895559999998,
+                44.20675860000006
+              ],
+              [
+                -72.94839769999999,
+                44.206790399000056
+              ],
+              [
+                -72.94829949899997,
+                44.20680390000007
+              ],
+              [
+                -72.94825210099998,
+                44.20700580000005
+              ],
+              [
+                -72.94824902999994,
+                44.20704114700004
+              ],
+              [
+                -72.94736239999997,
+                44.218071000000066
+              ],
+              [
+                -72.94867079999995,
+                44.21903450000008
+              ],
+              [
+                -72.94923689999996,
+                44.21896300000003
+              ],
+              [
+                -72.94965649899996,
+                44.218985700000076
+              ],
+              [
+                -72.95007409999994,
+                44.21910460000004
+              ],
+              [
+                -72.95091279999997,
+                44.21945770000008
+              ],
+              [
+                -72.95136839999998,
+                44.21945590000007
+              ],
+              [
+                -72.95152700099999,
+                44.219084500000065
+              ],
+              [
+                -72.95183789999999,
+                44.21870000000007
+              ],
+              [
+                -72.95232949999996,
+                44.21838500000007
+              ],
+              [
+                -72.95319069999994,
+                44.218019500000025
+              ],
+              [
+                -72.95376879899999,
+                44.21736110000006
+              ],
+              [
+                -72.95414699999998,
+                44.217067100000065
+              ],
+              [
+                -72.95464089999996,
+                44.21685820000005
+              ],
+              [
+                -72.95602839999998,
+                44.21649350000007
+              ],
+              [
+                -72.95614639999997,
+                44.21605750000003
+              ],
+              [
+                -72.95654159899993,
+                44.215691400000026
+              ],
+              [
+                -72.95693249999994,
+                44.21554750000007
+              ],
+              [
+                -72.95741969999995,
+                44.215493500000036
+              ],
+              [
+                -72.95789989899998,
+                44.21560860000005
+              ],
+              [
+                -72.95815260099994,
+                44.21576330000005
+              ],
+              [
+                -72.95956229999996,
+                44.21503850000005
+              ],
+              [
+                -72.96161039999998,
+                44.215634100000045
+              ],
+              [
+                -72.96193699999998,
+                44.21675600000003
+              ],
+              [
+                -72.96210209999998,
+                44.21673910000004
+              ],
+              [
+                -72.96222629999994,
+                44.21629670000004
+              ],
+              [
+                -72.96254989999994,
+                44.21575720000004
+              ],
+              [
+                -72.96210609999997,
+                44.21468980000003
+              ],
+              [
+                -72.96210789999998,
+                44.214278500000034
+              ],
+              [
+                -72.96220059999996,
+                44.21397040000005
+              ],
+              [
+                -72.96217169999994,
+                44.213648800000044
+              ],
+              [
+                -72.96210099999996,
+                44.213265800000045
+              ],
+              [
+                -72.96171319999996,
+                44.212770900000066
+              ],
+              [
+                -72.96141699999998,
+                44.212495800000056
+              ],
+              [
+                -72.96105049999994,
+                44.21171060000006
+              ],
+              [
+                -72.96105659899996,
+                44.21105360000007
+              ],
+              [
+                -72.96090379999998,
+                44.210074200000065
+              ],
+              [
+                -72.96106729999997,
+                44.20953440000005
+              ],
+              [
+                -72.96060019999999,
+                44.20901160000005
+              ],
+              [
+                -72.96061059999994,
+                44.20857330000007
+              ],
+              [
+                -72.96073479999995,
+                44.20845580000008
+              ],
+              [
+                -72.96078279999995,
+                44.20819190000003
+              ],
+              [
+                -72.96060249999994,
+                44.20785150000006
+              ],
+              [
+                -72.96062399899995,
+                44.20804220000008
+              ],
+              [
+                -72.96039889999997,
+                44.20806380000005
+              ],
+              [
+                -72.96015809899995,
+                44.20798830000007
+              ],
+              [
+                -72.95946539999994,
+                44.207992500000046
+              ],
+              [
+                -72.95906409999998,
+                44.20825190000005
+              ],
+              [
+                -72.95878639999995,
+                44.20823830000006
+              ],
+              [
+                -72.95855199999994,
+                44.208305600000074
+              ],
+              [
+                -72.95823930099994,
+                44.20853870000008
+              ],
+              [
+                -72.95778529899997,
+                44.208576900000025
+              ],
+              [
+                -72.95710749999995,
+                44.208632900000055
+              ],
+              [
+                -72.95707119999997,
+                44.208749400000045
+              ],
+              [
+                -72.95680309999995,
+                44.20888880000007
+              ],
+              [
+                -72.95620759999997,
+                44.20923350000004
+              ],
+              [
+                -72.95588529999998,
+                44.20929150000006
+              ],
+              [
+                -72.95542429999995,
+                44.209219500000074
+              ],
+              [
+                -72.95539370099993,
+                44.20918670000003
+              ],
+              [
+                -72.95522549999998,
+                44.20891970000008
+              ],
+              [
+                -72.95504099999994,
+                44.20884490000003
+              ],
+              [
+                -72.95485699899996,
+                44.20891190000003
+              ],
+              [
+                -72.95469769999994,
+                44.209115300000065
+              ],
+              [
+                -72.95441859999994,
+                44.20920870000003
+              ],
+              [
+                -72.95351139899998,
+                44.20899460000004
+              ],
+              [
+                -72.95319089999998,
+                44.20896370000003
+              ],
+              [
+                -72.95250539999995,
+                44.20858690000006
+              ],
+              [
+                -72.95102579999997,
+                44.20812820000003
+              ],
+              [
+                -72.94998469999996,
+                44.20768140000007
+              ],
+              [
+                -72.94927009999998,
+                44.207244900000035
+              ],
+              [
+                -72.94895559999998,
+                44.20675860000006
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.95220478199997,
+                44.161422412000036
+              ],
+              [
+                -72.95127769999993,
+                44.16331950000006
+              ],
+              [
+                -72.94988159999997,
+                44.166176300000075
+              ],
+              [
+                -72.94971719999995,
+                44.166512700000055
+              ],
+              [
+                -72.94948169999998,
+                44.166994600000066
+              ],
+              [
+                -72.94945190099997,
+                44.16705620000005
+              ],
+              [
+                -72.94939559999995,
+                44.16717260000007
+              ],
+              [
+                -72.93949799999996,
+                44.18757940000006
+              ],
+              [
+                -72.94065899999998,
+                44.18755730000004
+              ],
+              [
+                -72.94063559999995,
+                44.18830810000003
+              ],
+              [
+                -72.94982669999996,
+                44.188710300000025
+              ],
+              [
+                -72.95017150099994,
+                44.18451700000003
+              ],
+              [
+                -72.95564869999998,
+                44.18445360000004
+              ],
+              [
+                -72.95572899999996,
+                44.18476700000008
+              ],
+              [
+                -72.95634449899995,
+                44.184704400000044
+              ],
+              [
+                -72.95682799899998,
+                44.18472680000008
+              ],
+              [
+                -72.95472899999999,
+                44.17364470000007
+              ],
+              [
+                -72.95328529899996,
+                44.16637670000006
+              ],
+              [
+                -72.95220478199997,
+                44.161422412000036
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "OBJECTID_1": 1023,
+        "Jurisdiction_District_Name": "Buels Gore Forestry And Conservation One",
+        "County": "Chittenden",
+        "Jurisdiction": "Buels Gore ",
+        "Abbreviated_District_Name": "Fc1",
+        "District_Name": "Forestry And Conservation One",
+        "District_Mapped": "Yes",
+        "Overlay_District": "No",
+        "Extinct_District": null,
+        "District_Type": "Mixed with Residential",
+        "Affordable_Housing_District": "No",
+        "Elderly_Housing_District": "No",
+        "F1F_Allowance": "Permitted",
+        "F2F_Allowance": "Prohibited",
+        "F3F_Allowance": "Prohibited",
+        "F4F_Allowance": "Prohibited",
+        "F5F_Allowance": null,
+        "ADU_Allowance": "Allowed/Conditional",
+        "Affordable_Housing_Allowance": "Not Mentioned",
+        "PRD_Allowance": "Not Mentioned",
+        "NOTES": "None",
+        "F1F_Min_Lot": 10,
+        "F1F_Front_Setback": 100,
+        "F1F_Side_Setback": 50,
+        "F1F_Rear_Setback": 50,
+        "F1F_Frontage": null,
+        "F1F_Max_Lot_Building_Coverage": null,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": null,
+        "F1F_Max_Stories": null,
+        "F1F_Max_Height": null,
+        "F1F_Floor_to_Area_Ratio": null,
+        "F1F_Min_Unit_Size": null,
+        "F2F_Affordable_Housing_Only": "No",
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Min_Lot_Size": null,
+        "F2F_Max_Density": null,
+        "F2F_Front_Setback": null,
+        "F2F_Side_Setback": null,
+        "F2F_Rear_Setback": null,
+        "F2F_Frontage": null,
+        "F2F_Max_Lot_Building_Coverage": null,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": null,
+        "F2F_Min_Parking_Spaces_per_mult_BR": null,
+        "F2F_Max_Stories": null,
+        "F2F_Max_Height": null,
+        "F2F_Floor_to_Area_Ratio": null,
+        "F2F_Min_Unit_Size": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Elderly_Housing_Only": "No",
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Density": null,
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Connection_to_Sewage_Water_Required": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Max_Stories": null,
+        "F3F_Max_Height": null,
+        "F3F_Floor_to_Area_Ratio": null,
+        "F3F_Min_Unit_Size": null,
+        "F3F_Max_Bedrooms": null,
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Density": null,
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per__mult_BR": null,
+        "F4F_Connection_to_Sewage_Water_Required": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Max_Stories": null,
+        "F4F_Max_Height": null,
+        "F4F_Floor_to_Area_Ratio": null,
+        "F4F_Min_Unit_Size": null,
+        "F4F_Max_Bedrooms": null,
+        "F4F_Max_Units_per_Building": null,
+        "F5F_Affordable_Housing_Only": "F",
+        "F5F_Elderly_Housing_Only": "F",
+        "F5F_Min_Lot_Size": null,
+        "F5F_Max_Density": null,
+        "F5F_Front_Setback": null,
+        "F5F_Side_Setback": null,
+        "F5F_Rear_Setback": null,
+        "F5F_Frontage": null,
+        "F5F_Max_Lot_Building_Coverage": null,
+        "F5F_Max__Lot_Impervious_Coverage": null,
+        "F5F_Min_Parking_Spaces_per_1BR": null,
+        "F5F_Min_Parking_Spaces_per_mult_BR": null,
+        "F5F_Connection_to_Sewage_Water_Required": "F",
+        "F5F_Proximity_to_Public_Transit_Required": "F",
+        "F5F_Max_Stories": null,
+        "F5F_Max_Height": null,
+        "F5F_Floor_to_Area_Ratio": null,
+        "F5F_Min_Unit_Size": null,
+        "F5F_Max_Bedrooms": null,
+        "F5F_Max_Units_per_Building": null,
+        "Affordable_Housing_Definition": null,
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Min_Unit_Size": null,
+        "Affordable_Housing_Max_Bedrooms": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Min_Lot_Size": null,
+        "ADU_Min_Parking_Spaces": null,
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Max_Bedrooms": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PRD_Min_Lot_Size": null,
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PUD_Required_with_Subdivision": "F",
+        "PUD_Threshold_Number": null,
+        "PUD_Allowance": "No",
+        "PUD_Requires_Land_Conservation": "F",
+        "Base_Density": 0.1,
+        "CONDITIONAL_1F_Min_Lot": null,
+        "CONDITIONAL_1F_Front_Setback": null,
+        "CONDITIONAL_1F_Side_Setback": null,
+        "CONDITIONAL_1F_Rear_Setback": null,
+        "CONDITIONAL_1F_Frontage": null,
+        "CONDITIONAL_1F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_1F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_1F_Min_Parking_Spaces": null,
+        "CONDITIONAL_1F_Max_Stories": null,
+        "CONDITIONAL_1F_Max_Height": null,
+        "CONDITIONAL_1F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_1F_Min_Unit_Size": null,
+        "CONDITIONAL_2F_Affordable_Housing_Only": null,
+        "CONDITIONAL_2F_Elderly_Housing_Only": null,
+        "CONDITIONAL_2F_Min_Lot_Size": null,
+        "CONDITIONAL_2F_Max_Density": null,
+        "CONDITIONAL_2F_Front_Setback": null,
+        "CONDITIONAL_2F_Side_Setback": null,
+        "CONDITIONAL_2F_Rear_Setback": null,
+        "CONDITIONAL_2F_Frontage": null,
+        "CONDITIONAL_2F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_2F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_2F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_2F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_2F_Max_Stories": null,
+        "CONDITIONAL_2F_Max_Height": null,
+        "CONDITIONAL_2F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_2F_Min_Unit_Size": null,
+        "CONDITIONAL_3F_Affordable_Housing_Only": null,
+        "CONDITIONAL_3F_Elderly_Housing_Only": null,
+        "CONDITIONAL_3F_Min_Lot_Size": null,
+        "CONDITIONAL_3F_Max_Density": null,
+        "CONDITIONAL_3F_Front_Setback": null,
+        "CONDITIONAL_3F_Side_Setback": null,
+        "CONDITIONAL_3F_Rear_Setback": null,
+        "CONDITIONAL_3F_Frontage": null,
+        "CONDITIONAL_3F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_3F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_3F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_3F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_3F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_3F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_3F_Max_Stories": null,
+        "CONDITIONAL_3F_Max_Height": null,
+        "CONDITIONAL_3F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_3F_Min_Unit_Size": null,
+        "CONDITIONAL_3F_Max_Bedrooms": null,
+        "CONDITIONAL_4F_Affordable_Housing_Only": null,
+        "CONDITIONAL_4F_Elderly_Housing_Only": null,
+        "CONDITIONAL_4F_Min_Lot_Size": null,
+        "CONDITIONAL_4F_Max_Density": null,
+        "CONDITIONAL_4F_Front_Setback": null,
+        "CONDITIONAL_4F_Side_Setback": null,
+        "CONDITIONAL_4F_Rear_Setback": null,
+        "CONDITIONAL_4F_Frontage": null,
+        "CONDITIONAL_4F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_4F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_4F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_4F_Min_Parking_Spaces_per__mult_BR": null,
+        "CONDITIONAL_4F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_4F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_4F_Max_Stories": null,
+        "CONDITIONAL_4F_Max_Height": null,
+        "CONDITIONAL_4F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_4F_Min_Unit_Size": null,
+        "CONDITIONAL_4F_Max_Bedrooms": null,
+        "CONDITIONAL_4F_Max_Units_per_Building": null,
+        "CONDITIONAL_5F_Affordable_Housing_Only": null,
+        "CONDITIONAL_5F_Elderly_Housing_Only": null,
+        "CONDITIONAL_5F_Min_Lot_Size": null,
+        "CONDITIONAL_5F_Max_Density": null,
+        "CONDITIONAL_5F_Front_Setback": null,
+        "CONDITIONAL_5F_Side_Setback": null,
+        "CONDITIONAL_5F_Rear_Setback": null,
+        "CONDITIONAL_5F_Frontage": null,
+        "CONDITIONAL_5F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_5F_Max__Lot_Impervious_Coverage": null,
+        "CONDITIONAL_5F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_5F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_5F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_5F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_5F_Max_Stories": null,
+        "CONDITIONAL_5F_Max_Height": null,
+        "CONDITIONAL_5F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_5F_Min_Unit_Size": null,
+        "CONDITIONAL_5F_Max_Bedrooms": null,
+        "CONDITIONAL_5F_Max_Units_per_Building": null,
+        "CONDITIONAL_Affordable_Housing_Definition": null,
+        "CONDITIONAL_Affordable_Housing_Elderly_Only": null,
+        "CONDITIONAL_Affordable_Housing_Min_Lot_Size": null,
+        "CONDITIONAL_Affordable_Housing_Max_Density": null,
+        "CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_Affordable_Housing_Min_Unit_Size": null,
+        "CONDITIONAL_Affordable_Housing_Max_Bedrooms": null,
+        "CONDITIONAL_Affordable_Housing_Max_Units_per_Building": null,
+        "CONDITIONAL_ADU_Employee_or_Family_Occupancy_Required": null,
+        "CONDITIONAL_ADU_Renter_Occupancy_Prohibited": null,
+        "CONDITIONAL_ADU_Owner_Occupancy_Required": null,
+        "CONDITIONAL_ADU_Elderly_Housing_Only": null,
+        "CONDITIONAL_ADU_Min_Lot_Size": null,
+        "CONDITIONAL_ADU_Min_Parking_Spaces": null,
+        "CONDITIONAL_ADU_Restricted_to_Primary_Structure": null,
+        "CONDITIONAL_ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "CONDITIONAL_ADU_Max_Size_in_sq_ft": null,
+        "CONDITIONAL_ADU_Max_Bedrooms": null,
+        "CONDITIONAL_PRD_Mobile_or_Manufactured_Home_Park": null,
+        "CONDITIONAL_PRD_Min_Lot_Size": null,
+        "CONDITIONAL_PRD_Max_Density": null,
+        "CONDITIONAL_PRD_Max_Units": null,
+        "CONDITIONAL_PUD_Required_with_Subdivision": null,
+        "CONDITIONAL_PUD_Threshold_Number": null,
+        "CONDITIONAL_PUD_Allowance": null,
+        "CONDITIONAL_PUD_Requires_Land_Conservation": null,
+        "Bylaw_Date": "2023-08-02",
+        "RPC": "CCRPC",
+        "Version": 1,
+        "Acres": 996.6671217187305,
+        "Shape_Length": 0.20386504747330683,
+        "Shape_Area": 0.0004541135326156952
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -72.96470859999994,
+                44.22738300000003
+              ],
+              [
+                -72.96482759999998,
+                44.22938130000006
+              ],
+              [
+                -72.96501459899997,
+                44.229360400000076
+              ],
+              [
+                -72.96470859999994,
+                44.22738300000003
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.96444560399993,
+                44.226559300000076
+              ],
+              [
+                -72.96443289999996,
+                44.22656040000004
+              ],
+              [
+                -72.96463339999997,
+                44.22939040000006
+              ],
+              [
+                -72.95944993499995,
+                44.229943787000025
+              ],
+              [
+                -72.95977189999996,
+                44.229912600000034
+              ],
+              [
+                -72.96136209999997,
+                44.22977780000008
+              ],
+              [
+                -72.96464059999994,
+                44.22940220000004
+              ],
+              [
+                -72.96444560399993,
+                44.226559300000076
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.95603059999996,
+                44.22455110000004
+              ],
+              [
+                -72.94799769999997,
+                44.22532630000006
+              ],
+              [
+                -72.94766369999996,
+                44.22535820000007
+              ],
+              [
+                -72.94666679899996,
+                44.225451700000065
+              ],
+              [
+                -72.94666550099998,
+                44.22548400000005
+              ],
+              [
+                -72.95601679999999,
+                44.22456160000007
+              ],
+              [
+                -72.95629489999999,
+                44.22725020000007
+              ],
+              [
+                -72.95616499899995,
+                44.225917700000025
+              ],
+              [
+                -72.95603059999996,
+                44.22455110000004
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.94231019399996,
+                44.22210590100008
+              ],
+              [
+                -72.94203939899995,
+                44.22465930000004
+              ],
+              [
+                -72.94208659999998,
+                44.224662900000055
+              ],
+              [
+                -72.94227669999998,
+                44.222484800000075
+              ],
+              [
+                -72.94231019399996,
+                44.22210590100008
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.94374349999998,
+                44.21906330000007
+              ],
+              [
+                -72.94508629999996,
+                44.219123600000046
+              ],
+              [
+                -72.94520119999999,
+                44.21912820000006
+              ],
+              [
+                -72.94619061099996,
+                44.219197465000036
+              ],
+              [
+                -72.94719169999996,
+                44.21921940000004
+              ],
+              [
+                -72.94719839999993,
+                44.21915510000008
+              ],
+              [
+                -72.94374349999998,
+                44.21906330000007
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.95500379999999,
+                44.20883390000006
+              ],
+              [
+                -72.95485699899996,
+                44.20891190000003
+              ],
+              [
+                -72.95504099999994,
+                44.20884490000003
+              ],
+              [
+                -72.95522549999998,
+                44.20891970000008
+              ],
+              [
+                -72.95539370099993,
+                44.20918670000003
+              ],
+              [
+                -72.95542429999995,
+                44.209219500000074
+              ],
+              [
+                -72.95588529999998,
+                44.20929150000006
+              ],
+              [
+                -72.95620759999997,
+                44.20923350000004
+              ],
+              [
+                -72.95680309999995,
+                44.20888880000007
+              ],
+              [
+                -72.95639059999996,
+                44.20906720000005
+              ],
+              [
+                -72.95566769999994,
+                44.20922800000005
+              ],
+              [
+                -72.95537249999995,
+                44.20907450000004
+              ],
+              [
+                -72.95518969999995,
+                44.208853600000054
+              ],
+              [
+                -72.95500379999999,
+                44.20883390000006
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.95855199999994,
+                44.208305600000074
+              ],
+              [
+                -72.95798759999997,
+                44.20843230000003
+              ],
+              [
+                -72.95778529899997,
+                44.208576900000025
+              ],
+              [
+                -72.95823930099994,
+                44.20853870000008
+              ],
+              [
+                -72.95855199999994,
+                44.208305600000074
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.94832919999999,
+                44.20604350000008
+              ],
+              [
+                -72.94824902999994,
+                44.20704114700004
+              ],
+              [
+                -72.94825210099998,
+                44.20700580000005
+              ],
+              [
+                -72.94829949899997,
+                44.20680390000007
+              ],
+              [
+                -72.94839769999999,
+                44.206790399000056
+              ],
+              [
+                -72.94895559999998,
+                44.20675860000006
+              ],
+              [
+                -72.94832919999999,
+                44.20604350000008
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.93541929999998,
+                44.19592240000003
+              ],
+              [
+                -72.93488299899997,
+                44.19701920000006
+              ],
+              [
+                -72.93192590699994,
+                44.20306500400005
+              ],
+              [
+                -72.93488309999998,
+                44.19701920000006
+              ],
+              [
+                -72.93524209999998,
+                44.19753000000003
+              ],
+              [
+                -72.93538879999994,
+                44.197916400000054
+              ],
+              [
+                -72.93542290299996,
+                44.198299700000064
+              ],
+              [
+                -72.93542589999998,
+                44.198365300000034
+              ],
+              [
+                -72.93538539999997,
+                44.198652200000026
+              ],
+              [
+                -72.93563979999993,
+                44.19812940000003
+              ],
+              [
+                -72.93571609999998,
+                44.19761300000005
+              ],
+              [
+                -72.93541929999998,
+                44.19592240000003
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "OBJECTID_1": 1024,
+        "Jurisdiction_District_Name": "Buels Gore Forestry And Conservation Two",
+        "County": "Chittenden",
+        "Jurisdiction": "Buels Gore ",
+        "Abbreviated_District_Name": "Fc2",
+        "District_Name": "Forestry And Conservation Two",
+        "District_Mapped": "Yes",
+        "Overlay_District": "No",
+        "Extinct_District": null,
+        "District_Type": "Nonresidential",
+        "Affordable_Housing_District": "No",
+        "Elderly_Housing_District": "No",
+        "F1F_Allowance": "Prohibited",
+        "F2F_Allowance": "Prohibited",
+        "F3F_Allowance": "Prohibited",
+        "F4F_Allowance": "Prohibited",
+        "F5F_Allowance": null,
+        "ADU_Allowance": "Prohibited",
+        "Affordable_Housing_Allowance": "Prohibited",
+        "PRD_Allowance": "Prohibited",
+        "NOTES": "None",
+        "F1F_Min_Lot": null,
+        "F1F_Front_Setback": null,
+        "F1F_Side_Setback": null,
+        "F1F_Rear_Setback": null,
+        "F1F_Frontage": null,
+        "F1F_Max_Lot_Building_Coverage": null,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": null,
+        "F1F_Max_Stories": null,
+        "F1F_Max_Height": null,
+        "F1F_Floor_to_Area_Ratio": null,
+        "F1F_Min_Unit_Size": null,
+        "F2F_Affordable_Housing_Only": "No",
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Min_Lot_Size": null,
+        "F2F_Max_Density": null,
+        "F2F_Front_Setback": null,
+        "F2F_Side_Setback": null,
+        "F2F_Rear_Setback": null,
+        "F2F_Frontage": null,
+        "F2F_Max_Lot_Building_Coverage": null,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": null,
+        "F2F_Min_Parking_Spaces_per_mult_BR": null,
+        "F2F_Max_Stories": null,
+        "F2F_Max_Height": null,
+        "F2F_Floor_to_Area_Ratio": null,
+        "F2F_Min_Unit_Size": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Elderly_Housing_Only": "No",
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Density": null,
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Connection_to_Sewage_Water_Required": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Max_Stories": null,
+        "F3F_Max_Height": null,
+        "F3F_Floor_to_Area_Ratio": null,
+        "F3F_Min_Unit_Size": null,
+        "F3F_Max_Bedrooms": null,
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Density": null,
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per__mult_BR": null,
+        "F4F_Connection_to_Sewage_Water_Required": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Max_Stories": null,
+        "F4F_Max_Height": null,
+        "F4F_Floor_to_Area_Ratio": null,
+        "F4F_Min_Unit_Size": null,
+        "F4F_Max_Bedrooms": null,
+        "F4F_Max_Units_per_Building": null,
+        "F5F_Affordable_Housing_Only": "F",
+        "F5F_Elderly_Housing_Only": "F",
+        "F5F_Min_Lot_Size": null,
+        "F5F_Max_Density": null,
+        "F5F_Front_Setback": null,
+        "F5F_Side_Setback": null,
+        "F5F_Rear_Setback": null,
+        "F5F_Frontage": null,
+        "F5F_Max_Lot_Building_Coverage": null,
+        "F5F_Max__Lot_Impervious_Coverage": null,
+        "F5F_Min_Parking_Spaces_per_1BR": null,
+        "F5F_Min_Parking_Spaces_per_mult_BR": null,
+        "F5F_Connection_to_Sewage_Water_Required": "F",
+        "F5F_Proximity_to_Public_Transit_Required": "F",
+        "F5F_Max_Stories": null,
+        "F5F_Max_Height": null,
+        "F5F_Floor_to_Area_Ratio": null,
+        "F5F_Min_Unit_Size": null,
+        "F5F_Max_Bedrooms": null,
+        "F5F_Max_Units_per_Building": null,
+        "Affordable_Housing_Definition": null,
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Min_Unit_Size": null,
+        "Affordable_Housing_Max_Bedrooms": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Min_Lot_Size": null,
+        "ADU_Min_Parking_Spaces": null,
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Max_Bedrooms": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PRD_Min_Lot_Size": null,
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PUD_Required_with_Subdivision": "F",
+        "PUD_Threshold_Number": null,
+        "PUD_Allowance": "No",
+        "PUD_Requires_Land_Conservation": "F",
+        "Base_Density": null,
+        "CONDITIONAL_1F_Min_Lot": null,
+        "CONDITIONAL_1F_Front_Setback": null,
+        "CONDITIONAL_1F_Side_Setback": null,
+        "CONDITIONAL_1F_Rear_Setback": null,
+        "CONDITIONAL_1F_Frontage": null,
+        "CONDITIONAL_1F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_1F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_1F_Min_Parking_Spaces": null,
+        "CONDITIONAL_1F_Max_Stories": null,
+        "CONDITIONAL_1F_Max_Height": null,
+        "CONDITIONAL_1F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_1F_Min_Unit_Size": null,
+        "CONDITIONAL_2F_Affordable_Housing_Only": null,
+        "CONDITIONAL_2F_Elderly_Housing_Only": null,
+        "CONDITIONAL_2F_Min_Lot_Size": null,
+        "CONDITIONAL_2F_Max_Density": null,
+        "CONDITIONAL_2F_Front_Setback": null,
+        "CONDITIONAL_2F_Side_Setback": null,
+        "CONDITIONAL_2F_Rear_Setback": null,
+        "CONDITIONAL_2F_Frontage": null,
+        "CONDITIONAL_2F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_2F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_2F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_2F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_2F_Max_Stories": null,
+        "CONDITIONAL_2F_Max_Height": null,
+        "CONDITIONAL_2F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_2F_Min_Unit_Size": null,
+        "CONDITIONAL_3F_Affordable_Housing_Only": null,
+        "CONDITIONAL_3F_Elderly_Housing_Only": null,
+        "CONDITIONAL_3F_Min_Lot_Size": null,
+        "CONDITIONAL_3F_Max_Density": null,
+        "CONDITIONAL_3F_Front_Setback": null,
+        "CONDITIONAL_3F_Side_Setback": null,
+        "CONDITIONAL_3F_Rear_Setback": null,
+        "CONDITIONAL_3F_Frontage": null,
+        "CONDITIONAL_3F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_3F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_3F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_3F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_3F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_3F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_3F_Max_Stories": null,
+        "CONDITIONAL_3F_Max_Height": null,
+        "CONDITIONAL_3F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_3F_Min_Unit_Size": null,
+        "CONDITIONAL_3F_Max_Bedrooms": null,
+        "CONDITIONAL_4F_Affordable_Housing_Only": null,
+        "CONDITIONAL_4F_Elderly_Housing_Only": null,
+        "CONDITIONAL_4F_Min_Lot_Size": null,
+        "CONDITIONAL_4F_Max_Density": null,
+        "CONDITIONAL_4F_Front_Setback": null,
+        "CONDITIONAL_4F_Side_Setback": null,
+        "CONDITIONAL_4F_Rear_Setback": null,
+        "CONDITIONAL_4F_Frontage": null,
+        "CONDITIONAL_4F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_4F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_4F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_4F_Min_Parking_Spaces_per__mult_BR": null,
+        "CONDITIONAL_4F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_4F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_4F_Max_Stories": null,
+        "CONDITIONAL_4F_Max_Height": null,
+        "CONDITIONAL_4F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_4F_Min_Unit_Size": null,
+        "CONDITIONAL_4F_Max_Bedrooms": null,
+        "CONDITIONAL_4F_Max_Units_per_Building": null,
+        "CONDITIONAL_5F_Affordable_Housing_Only": null,
+        "CONDITIONAL_5F_Elderly_Housing_Only": null,
+        "CONDITIONAL_5F_Min_Lot_Size": null,
+        "CONDITIONAL_5F_Max_Density": null,
+        "CONDITIONAL_5F_Front_Setback": null,
+        "CONDITIONAL_5F_Side_Setback": null,
+        "CONDITIONAL_5F_Rear_Setback": null,
+        "CONDITIONAL_5F_Frontage": null,
+        "CONDITIONAL_5F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_5F_Max__Lot_Impervious_Coverage": null,
+        "CONDITIONAL_5F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_5F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_5F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_5F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_5F_Max_Stories": null,
+        "CONDITIONAL_5F_Max_Height": null,
+        "CONDITIONAL_5F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_5F_Min_Unit_Size": null,
+        "CONDITIONAL_5F_Max_Bedrooms": null,
+        "CONDITIONAL_5F_Max_Units_per_Building": null,
+        "CONDITIONAL_Affordable_Housing_Definition": null,
+        "CONDITIONAL_Affordable_Housing_Elderly_Only": null,
+        "CONDITIONAL_Affordable_Housing_Min_Lot_Size": null,
+        "CONDITIONAL_Affordable_Housing_Max_Density": null,
+        "CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_Affordable_Housing_Min_Unit_Size": null,
+        "CONDITIONAL_Affordable_Housing_Max_Bedrooms": null,
+        "CONDITIONAL_Affordable_Housing_Max_Units_per_Building": null,
+        "CONDITIONAL_ADU_Employee_or_Family_Occupancy_Required": null,
+        "CONDITIONAL_ADU_Renter_Occupancy_Prohibited": null,
+        "CONDITIONAL_ADU_Owner_Occupancy_Required": null,
+        "CONDITIONAL_ADU_Elderly_Housing_Only": null,
+        "CONDITIONAL_ADU_Min_Lot_Size": null,
+        "CONDITIONAL_ADU_Min_Parking_Spaces": null,
+        "CONDITIONAL_ADU_Restricted_to_Primary_Structure": null,
+        "CONDITIONAL_ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "CONDITIONAL_ADU_Max_Size_in_sq_ft": null,
+        "CONDITIONAL_ADU_Max_Bedrooms": null,
+        "CONDITIONAL_PRD_Mobile_or_Manufactured_Home_Park": null,
+        "CONDITIONAL_PRD_Min_Lot_Size": null,
+        "CONDITIONAL_PRD_Max_Density": null,
+        "CONDITIONAL_PRD_Max_Units": null,
+        "CONDITIONAL_PUD_Required_with_Subdivision": null,
+        "CONDITIONAL_PUD_Threshold_Number": null,
+        "CONDITIONAL_PUD_Allowance": null,
+        "CONDITIONAL_PUD_Requires_Land_Conservation": null,
+        "Bylaw_Date": "2023-08-02",
+        "RPC": "CCRPC",
+        "Version": 1,
+        "Acres": 4.706488340313837,
+        "Shape_Length": 0.08493277966564762,
+        "Shape_Area": 2.1446399412581508e-06
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.93488299899997,
+              44.19701920000006
+            ],
+            [
+              -72.93192590699994,
+              44.20306500400005
+            ],
+            [
+              -72.93071449999997,
+              44.20554160000006
+            ],
+            [
+              -72.93590569999998,
+              44.205707500000074
+            ],
+            [
+              -72.93590819899998,
+              44.20523900000006
+            ],
+            [
+              -72.93574009999998,
+              44.20489300000003
+            ],
+            [
+              -72.93550179999994,
+              44.204000800000074
+            ],
+            [
+              -72.93531589999998,
+              44.20299970000008
+            ],
+            [
+              -72.93530829999997,
+              44.20199240000005
+            ],
+            [
+              -72.93515209999998,
+              44.200990200000035
+            ],
+            [
+              -72.93480039999997,
+              44.199737500000026
+            ],
+            [
+              -72.93482989999995,
+              44.19928630000004
+            ],
+            [
+              -72.93522309999997,
+              44.198907500000075
+            ],
+            [
+              -72.93538539999997,
+              44.198652200000026
+            ],
+            [
+              -72.93542589999998,
+              44.198365300000034
+            ],
+            [
+              -72.93542290299996,
+              44.198299700000064
+            ],
+            [
+              -72.93538879999994,
+              44.197916400000054
+            ],
+            [
+              -72.93524209999998,
+              44.19753000000003
+            ],
+            [
+              -72.93488309999998,
+              44.19701920000006
+            ],
+            [
+              -72.93488299899997,
+              44.19701920000006
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "OBJECTID_1": 1025,
+        "Jurisdiction_District_Name": "Buels Gore Ridgetop",
+        "County": "Chittenden",
+        "Jurisdiction": "Buels Gore ",
+        "Abbreviated_District_Name": "R",
+        "District_Name": "Ridgetop",
+        "District_Mapped": "Yes",
+        "Overlay_District": "No",
+        "Extinct_District": null,
+        "District_Type": "Nonresidential",
+        "Affordable_Housing_District": "No",
+        "Elderly_Housing_District": "No",
+        "F1F_Allowance": "Prohibited",
+        "F2F_Allowance": "Prohibited",
+        "F3F_Allowance": "Prohibited",
+        "F4F_Allowance": "Prohibited",
+        "F5F_Allowance": null,
+        "ADU_Allowance": "Prohibited",
+        "Affordable_Housing_Allowance": "Prohibited",
+        "PRD_Allowance": "Prohibited",
+        "NOTES": "None",
+        "F1F_Min_Lot": null,
+        "F1F_Front_Setback": null,
+        "F1F_Side_Setback": null,
+        "F1F_Rear_Setback": null,
+        "F1F_Frontage": null,
+        "F1F_Max_Lot_Building_Coverage": null,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": null,
+        "F1F_Max_Stories": null,
+        "F1F_Max_Height": null,
+        "F1F_Floor_to_Area_Ratio": null,
+        "F1F_Min_Unit_Size": null,
+        "F2F_Affordable_Housing_Only": "No",
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Min_Lot_Size": null,
+        "F2F_Max_Density": null,
+        "F2F_Front_Setback": null,
+        "F2F_Side_Setback": null,
+        "F2F_Rear_Setback": null,
+        "F2F_Frontage": null,
+        "F2F_Max_Lot_Building_Coverage": null,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": null,
+        "F2F_Min_Parking_Spaces_per_mult_BR": null,
+        "F2F_Max_Stories": null,
+        "F2F_Max_Height": null,
+        "F2F_Floor_to_Area_Ratio": null,
+        "F2F_Min_Unit_Size": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Elderly_Housing_Only": "No",
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Density": null,
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Connection_to_Sewage_Water_Required": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Max_Stories": null,
+        "F3F_Max_Height": null,
+        "F3F_Floor_to_Area_Ratio": null,
+        "F3F_Min_Unit_Size": null,
+        "F3F_Max_Bedrooms": null,
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Density": null,
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per__mult_BR": null,
+        "F4F_Connection_to_Sewage_Water_Required": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Max_Stories": null,
+        "F4F_Max_Height": null,
+        "F4F_Floor_to_Area_Ratio": null,
+        "F4F_Min_Unit_Size": null,
+        "F4F_Max_Bedrooms": null,
+        "F4F_Max_Units_per_Building": null,
+        "F5F_Affordable_Housing_Only": "F",
+        "F5F_Elderly_Housing_Only": "F",
+        "F5F_Min_Lot_Size": null,
+        "F5F_Max_Density": null,
+        "F5F_Front_Setback": null,
+        "F5F_Side_Setback": null,
+        "F5F_Rear_Setback": null,
+        "F5F_Frontage": null,
+        "F5F_Max_Lot_Building_Coverage": null,
+        "F5F_Max__Lot_Impervious_Coverage": null,
+        "F5F_Min_Parking_Spaces_per_1BR": null,
+        "F5F_Min_Parking_Spaces_per_mult_BR": null,
+        "F5F_Connection_to_Sewage_Water_Required": "F",
+        "F5F_Proximity_to_Public_Transit_Required": "F",
+        "F5F_Max_Stories": null,
+        "F5F_Max_Height": null,
+        "F5F_Floor_to_Area_Ratio": null,
+        "F5F_Min_Unit_Size": null,
+        "F5F_Max_Bedrooms": null,
+        "F5F_Max_Units_per_Building": null,
+        "Affordable_Housing_Definition": null,
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Min_Unit_Size": null,
+        "Affordable_Housing_Max_Bedrooms": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Min_Lot_Size": null,
+        "ADU_Min_Parking_Spaces": null,
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Max_Bedrooms": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PRD_Min_Lot_Size": null,
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PUD_Required_with_Subdivision": "F",
+        "PUD_Threshold_Number": null,
+        "PUD_Allowance": "No",
+        "PUD_Requires_Land_Conservation": "F",
+        "Base_Density": null,
+        "CONDITIONAL_1F_Min_Lot": null,
+        "CONDITIONAL_1F_Front_Setback": null,
+        "CONDITIONAL_1F_Side_Setback": null,
+        "CONDITIONAL_1F_Rear_Setback": null,
+        "CONDITIONAL_1F_Frontage": null,
+        "CONDITIONAL_1F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_1F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_1F_Min_Parking_Spaces": null,
+        "CONDITIONAL_1F_Max_Stories": null,
+        "CONDITIONAL_1F_Max_Height": null,
+        "CONDITIONAL_1F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_1F_Min_Unit_Size": null,
+        "CONDITIONAL_2F_Affordable_Housing_Only": null,
+        "CONDITIONAL_2F_Elderly_Housing_Only": null,
+        "CONDITIONAL_2F_Min_Lot_Size": null,
+        "CONDITIONAL_2F_Max_Density": null,
+        "CONDITIONAL_2F_Front_Setback": null,
+        "CONDITIONAL_2F_Side_Setback": null,
+        "CONDITIONAL_2F_Rear_Setback": null,
+        "CONDITIONAL_2F_Frontage": null,
+        "CONDITIONAL_2F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_2F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_2F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_2F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_2F_Max_Stories": null,
+        "CONDITIONAL_2F_Max_Height": null,
+        "CONDITIONAL_2F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_2F_Min_Unit_Size": null,
+        "CONDITIONAL_3F_Affordable_Housing_Only": null,
+        "CONDITIONAL_3F_Elderly_Housing_Only": null,
+        "CONDITIONAL_3F_Min_Lot_Size": null,
+        "CONDITIONAL_3F_Max_Density": null,
+        "CONDITIONAL_3F_Front_Setback": null,
+        "CONDITIONAL_3F_Side_Setback": null,
+        "CONDITIONAL_3F_Rear_Setback": null,
+        "CONDITIONAL_3F_Frontage": null,
+        "CONDITIONAL_3F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_3F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_3F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_3F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_3F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_3F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_3F_Max_Stories": null,
+        "CONDITIONAL_3F_Max_Height": null,
+        "CONDITIONAL_3F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_3F_Min_Unit_Size": null,
+        "CONDITIONAL_3F_Max_Bedrooms": null,
+        "CONDITIONAL_4F_Affordable_Housing_Only": null,
+        "CONDITIONAL_4F_Elderly_Housing_Only": null,
+        "CONDITIONAL_4F_Min_Lot_Size": null,
+        "CONDITIONAL_4F_Max_Density": null,
+        "CONDITIONAL_4F_Front_Setback": null,
+        "CONDITIONAL_4F_Side_Setback": null,
+        "CONDITIONAL_4F_Rear_Setback": null,
+        "CONDITIONAL_4F_Frontage": null,
+        "CONDITIONAL_4F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_4F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_4F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_4F_Min_Parking_Spaces_per__mult_BR": null,
+        "CONDITIONAL_4F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_4F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_4F_Max_Stories": null,
+        "CONDITIONAL_4F_Max_Height": null,
+        "CONDITIONAL_4F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_4F_Min_Unit_Size": null,
+        "CONDITIONAL_4F_Max_Bedrooms": null,
+        "CONDITIONAL_4F_Max_Units_per_Building": null,
+        "CONDITIONAL_5F_Affordable_Housing_Only": null,
+        "CONDITIONAL_5F_Elderly_Housing_Only": null,
+        "CONDITIONAL_5F_Min_Lot_Size": null,
+        "CONDITIONAL_5F_Max_Density": null,
+        "CONDITIONAL_5F_Front_Setback": null,
+        "CONDITIONAL_5F_Side_Setback": null,
+        "CONDITIONAL_5F_Rear_Setback": null,
+        "CONDITIONAL_5F_Frontage": null,
+        "CONDITIONAL_5F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_5F_Max__Lot_Impervious_Coverage": null,
+        "CONDITIONAL_5F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_5F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_5F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_5F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_5F_Max_Stories": null,
+        "CONDITIONAL_5F_Max_Height": null,
+        "CONDITIONAL_5F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_5F_Min_Unit_Size": null,
+        "CONDITIONAL_5F_Max_Bedrooms": null,
+        "CONDITIONAL_5F_Max_Units_per_Building": null,
+        "CONDITIONAL_Affordable_Housing_Definition": null,
+        "CONDITIONAL_Affordable_Housing_Elderly_Only": null,
+        "CONDITIONAL_Affordable_Housing_Min_Lot_Size": null,
+        "CONDITIONAL_Affordable_Housing_Max_Density": null,
+        "CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_Affordable_Housing_Min_Unit_Size": null,
+        "CONDITIONAL_Affordable_Housing_Max_Bedrooms": null,
+        "CONDITIONAL_Affordable_Housing_Max_Units_per_Building": null,
+        "CONDITIONAL_ADU_Employee_or_Family_Occupancy_Required": null,
+        "CONDITIONAL_ADU_Renter_Occupancy_Prohibited": null,
+        "CONDITIONAL_ADU_Owner_Occupancy_Required": null,
+        "CONDITIONAL_ADU_Elderly_Housing_Only": null,
+        "CONDITIONAL_ADU_Min_Lot_Size": null,
+        "CONDITIONAL_ADU_Min_Parking_Spaces": null,
+        "CONDITIONAL_ADU_Restricted_to_Primary_Structure": null,
+        "CONDITIONAL_ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "CONDITIONAL_ADU_Max_Size_in_sq_ft": null,
+        "CONDITIONAL_ADU_Max_Bedrooms": null,
+        "CONDITIONAL_PRD_Mobile_or_Manufactured_Home_Park": null,
+        "CONDITIONAL_PRD_Min_Lot_Size": null,
+        "CONDITIONAL_PRD_Max_Density": null,
+        "CONDITIONAL_PRD_Max_Units": null,
+        "CONDITIONAL_PUD_Required_with_Subdivision": null,
+        "CONDITIONAL_PUD_Threshold_Number": null,
+        "CONDITIONAL_PUD_Allowance": null,
+        "CONDITIONAL_PUD_Requires_Land_Conservation": null,
+        "Bylaw_Date": "2023-08-02",
+        "RPC": "CCRPC",
+        "Version": 1,
+        "Acres": 47.59422002411055,
+        "Shape_Length": 0.023877363231126845,
+        "Shape_Area": 2.168675364383935e-05
+      }
+    }
+  ]
+}
