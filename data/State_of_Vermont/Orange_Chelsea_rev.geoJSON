@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IND",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "IND",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Chelsea"
       },
       "geometry": {
@@ -125,8 +125,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MU",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "MU",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Chelsea"
       },
       "geometry": {
@@ -304,8 +304,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "RR",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Chelsea"
       },
       "geometry": {
@@ -1001,8 +1001,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VIL",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "VIL",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Chelsea"
       },
       "geometry": {

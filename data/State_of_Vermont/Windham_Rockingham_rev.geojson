@@ -9243,10 +9243,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "AF",
+        "Abbreviated_District_Name": "AF",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Rockingham"
       }
     },
@@ -10306,10 +10306,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "WD",
+        "Abbreviated_District_Name": "WD",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Rockingham"
       }
     },
@@ -10677,10 +10677,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "CB-7",
+        "Abbreviated_District_Name": "CB-7",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Rockingham"
       }
     },
@@ -11234,10 +11234,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "CBE-14",
+        "Abbreviated_District_Name": "CBE-14",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Rockingham"
       }
     },
@@ -13147,10 +13147,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "C-I 1",
+        "Abbreviated_District_Name": "C-I 1",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Rockingham"
       }
     },
@@ -15348,10 +15348,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "C-I 2",
+        "Abbreviated_District_Name": "C-I 2",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Rockingham"
       }
     },
@@ -16753,10 +16753,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "IND-14",
+        "Abbreviated_District_Name": "IND-14",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Rockingham"
       }
     },
@@ -17028,10 +17028,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "MHHD",
+        "Abbreviated_District_Name": "MHHD",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Rockingham"
       }
     },
@@ -24807,10 +24807,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RC",
+        "Abbreviated_District_Name": "RC",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Rockingham"
       }
     },
@@ -26606,10 +26606,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "R14",
+        "Abbreviated_District_Name": "R14",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Rockingham"
       }
     },
@@ -27837,10 +27837,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "R-7",
+        "Abbreviated_District_Name": "R-7",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Rockingham"
       }
     },
@@ -28356,10 +28356,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "R-14",
+        "Abbreviated_District_Name": "R-14",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Rockingham"
       }
     },
@@ -28703,10 +28703,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RB-14",
+        "Abbreviated_District_Name": "RB-14",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Rockingham"
       }
     },
@@ -46572,10 +46572,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RR-1",
+        "Abbreviated_District_Name": "RR-1",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Rockingham"
       }
     },
@@ -50357,10 +50357,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RR-5",
+        "Abbreviated_District_Name": "RR-5",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Rockingham"
       }
     },
@@ -51212,10 +51212,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "SR",
+        "Abbreviated_District_Name": "SR",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Rockingham"
       }
     }

@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "AR",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "AR",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Woodbury"
       },
       "geometry": {
@@ -5543,8 +5543,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "S",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "S",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Woodbury"
       },
       "geometry": {
@@ -9704,8 +9704,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "V",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "V",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Woodbury"
       },
       "geometry": {

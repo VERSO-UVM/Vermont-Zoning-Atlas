@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IHO",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "IHO",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Sunderland"
       },
       "geometry": {
@@ -26331,8 +26331,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RCO",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "RCO",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Sunderland"
       },
       "geometry": {

@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "AG_RES",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "AG_RES",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Moretown"
       },
       "geometry": {
@@ -3737,8 +3737,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "COM",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "COM",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Moretown"
       },
       "geometry": {
@@ -4748,8 +4748,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "PRES",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "PRES",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Moretown"
       },
       "geometry": {
@@ -6917,8 +6917,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VLG",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "VLG",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Moretown"
       },
       "geometry": {

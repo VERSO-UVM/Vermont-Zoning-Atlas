@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FHD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "FHD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Bethel"
       },
       "geometry": {
@@ -1835,8 +1835,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RCOD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RCOD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Bethel"
       },
       "geometry": {
@@ -4448,8 +4448,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "WHPD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "WHPD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Bethel"
       },
       "geometry": {

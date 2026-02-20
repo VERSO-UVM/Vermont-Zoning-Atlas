@@ -145,10 +145,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "VB",
+        "Abbreviated_District_Name": "VB",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Norwich"
       }
     },
@@ -428,10 +428,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "CI",
+        "Abbreviated_District_Name": "CI",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Norwich"
       }
     },
@@ -6913,10 +6913,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RR",
+        "Abbreviated_District_Name": "RR",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Norwich"
       }
     },
@@ -9730,10 +9730,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "VRI",
+        "Abbreviated_District_Name": "VRI",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Norwich"
       }
     },
@@ -9857,10 +9857,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "VRII",
+        "Abbreviated_District_Name": "VRII",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Norwich"
       }
     }

@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "COM/IND",
-        "Jurisdiction_County": "Windham",
+        "Abbreviated_District_Name": "COM/IND",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Westminster"
       },
       "geometry": {
@@ -3131,8 +3131,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CR",
-        "Jurisdiction_County": "Windham",
+        "Abbreviated_District_Name": "CR",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Westminster"
       },
       "geometry": {
@@ -4532,8 +4532,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R",
-        "Jurisdiction_County": "Windham",
+        "Abbreviated_District_Name": "R",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Westminster"
       },
       "geometry": {
@@ -15941,8 +15941,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RC",
-        "Jurisdiction_County": "Windham",
+        "Abbreviated_District_Name": "RC",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Westminster"
       },
       "geometry": {
@@ -18038,8 +18038,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "Ru",
-        "Jurisdiction_County": "Windham",
+        "Abbreviated_District_Name": "Ru",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Westminster"
       },
       "geometry": {
@@ -24111,8 +24111,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "V",
-        "Jurisdiction_County": "Windham",
+        "Abbreviated_District_Name": "V",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Westminster"
       },
       "geometry": {

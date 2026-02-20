@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CON",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "CON",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Danville"
       },
       "geometry": {
@@ -61221,8 +61221,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "DCO",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "DCO",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Danville"
       },
       "geometry": {
@@ -61474,8 +61474,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "DSO",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "DSO",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Danville"
       },
       "geometry": {
@@ -62271,8 +62271,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "HN",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "HN",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Danville"
       },
       "geometry": {
@@ -63492,8 +63492,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LDR",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "LDR",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Danville"
       },
       "geometry": {
@@ -128333,8 +128333,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MDR I",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "MDR I",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Danville"
       },
       "geometry": {
@@ -131446,8 +131446,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MDR II",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "MDR II",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Danville"
       },
       "geometry": {
@@ -138765,8 +138765,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R2",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "R2",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Danville"
       },
       "geometry": {
@@ -139694,8 +139694,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VC",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "VC",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Danville"
       },
       "geometry": {
@@ -141033,8 +141033,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VR",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "VR",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Danville"
       },
       "geometry": {

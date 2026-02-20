@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RVC",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "RVC",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Strafford"
       },
       "geometry": {
@@ -20765,8 +20765,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "EM",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "EM",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Strafford"
       },
       "geometry": {

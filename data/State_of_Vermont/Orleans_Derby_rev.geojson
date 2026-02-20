@@ -1240,13 +1240,11 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "COM/IND",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "COM/IND",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Derby"
       }
     },
@@ -1533,13 +1531,11 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "VC/DL",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "VC/DL",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Derby"
       }
     },
@@ -4414,13 +4410,11 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "VR-1/DL",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "VR-1/DL",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Derby"
       }
     },
@@ -6611,13 +6605,11 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "VR-2/DL",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "VR-2/DL",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Derby"
       }
     },
@@ -7120,13 +7112,11 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "R-HD",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "R-HD",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Derby"
       }
     },
@@ -8333,13 +8323,11 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "VR-MF/DC",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "VR-MF/DC",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Derby"
       }
     },
@@ -8854,13 +8842,11 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "IND",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "IND",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Derby"
       }
     },
@@ -11343,13 +11329,11 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "SL",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "SL",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Derby"
       }
     },
@@ -12308,13 +12292,11 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "VC/DC",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "VC/DC",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Derby"
       }
     },
@@ -15369,13 +15351,11 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "VR/DC",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "VR/DC",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Derby"
       }
     },
@@ -20550,13 +20530,11 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "COM",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "COM",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Derby"
       }
     },
@@ -34191,13 +34169,11 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "R-2",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "R-2",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Derby"
       }
     },
@@ -50140,13 +50116,11 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "R-1",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "R-1",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Derby"
       }
     },
@@ -72045,13 +72019,11 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "SD",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "SD",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Derby"
       }
     },
@@ -97764,13 +97736,11 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "RR",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "RR",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Derby"
       }
     },
@@ -100033,13 +100003,11 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "R-MD",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "R-MD",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Derby"
       }
     }

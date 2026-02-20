@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL-3",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "RL-3",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Morgan"
       },
       "geometry": {
@@ -4523,8 +4523,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IND/RES",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "IND/RES",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Morgan"
       },
       "geometry": {
@@ -6152,8 +6152,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL-1",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "RL-1",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Morgan"
       },
       "geometry": {
@@ -9425,8 +9425,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-C",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "R-C",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Morgan"
       },
       "geometry": {
@@ -10774,8 +10774,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LS",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "LS",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Morgan"
       },
       "geometry": {
@@ -16287,8 +16287,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL-2",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "RL-2",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Morgan"
       },
       "geometry": {

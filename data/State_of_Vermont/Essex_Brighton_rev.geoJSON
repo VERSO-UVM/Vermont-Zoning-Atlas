@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "RL",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Brighton"
       },
       "geometry": {
@@ -61683,8 +61683,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CL",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "CL",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Brighton"
       },
       "geometry": {
@@ -67898,8 +67898,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "RR",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Brighton"
       },
       "geometry": {
@@ -105719,8 +105719,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "NR",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "NR",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Brighton"
       },
       "geometry": {
@@ -109932,8 +109932,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "L",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "L",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Brighton"
       },
       "geometry": {
@@ -118325,8 +118325,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "V",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "V",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Brighton"
       },
       "geometry": {
@@ -119584,8 +119584,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "I",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "I",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Brighton"
       },
       "geometry": {

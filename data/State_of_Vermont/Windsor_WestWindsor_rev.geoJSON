@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IND/COM",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "IND/COM",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "West Windsor"
       },
       "geometry": {
@@ -527,8 +527,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CON-30",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "CON-30",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "West Windsor"
       },
       "geometry": {
@@ -4440,8 +4440,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "PGV-1",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "PGV-1",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "West Windsor"
       },
       "geometry": {
@@ -8657,8 +8657,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R/C PUD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "R/C PUD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "West Windsor"
       },
       "geometry": {
@@ -9268,8 +9268,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R/R",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "R/R",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "West Windsor"
       },
       "geometry": {
@@ -13985,8 +13985,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR-5",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RR-5",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "West Windsor"
       },
       "geometry": {
@@ -30386,8 +30386,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SGR-5/4",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "SGR-5/4",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "West Windsor"
       },
       "geometry": {

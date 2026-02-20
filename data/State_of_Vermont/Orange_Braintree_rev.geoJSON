@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CON",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "CON",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Braintree"
       },
       "geometry": {
@@ -6763,8 +6763,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RS",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "RS",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Braintree"
       },
       "geometry": {
@@ -18364,8 +18364,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR-I",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "RR-I",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Braintree"
       },
       "geometry": {
@@ -34525,8 +34525,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR-II",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "RR-II",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Braintree"
       },
       "geometry": {
@@ -38714,8 +38714,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VIL",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "VIL",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Braintree"
       },
       "geometry": {

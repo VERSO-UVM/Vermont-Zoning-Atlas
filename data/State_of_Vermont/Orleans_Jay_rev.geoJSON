@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RDII",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "RDII",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Jay"
       },
       "geometry": {
@@ -2931,8 +2931,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "REC",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "REC",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Jay"
       },
       "geometry": {
@@ -8338,8 +8338,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "HD",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "HD",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Jay"
       },
       "geometry": {
@@ -22983,8 +22983,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CR",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "CR",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Jay"
       },
       "geometry": {
@@ -23256,8 +23256,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VC",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "VC",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Jay"
       },
       "geometry": {
@@ -24905,8 +24905,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RDI",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "RDI",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Jay"
       },
       "geometry": {

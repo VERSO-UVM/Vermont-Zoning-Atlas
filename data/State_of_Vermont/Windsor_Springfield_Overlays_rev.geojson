@@ -829,10 +829,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "Airport Protection Overlay District",
+        "Abbreviated_District_Name": "Airport Protection Overlay District",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     },
@@ -4108,10 +4108,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "ARPA-P",
+        "Abbreviated_District_Name": "ARPA-P",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     },
@@ -6563,10 +6563,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "ARPA-S",
+        "Abbreviated_District_Name": "ARPA-S",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     },
@@ -9926,10 +9926,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "Downtown Design Control Overlay District",
+        "Abbreviated_District_Name": "Downtown Design Control Overlay District",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     },
@@ -11401,10 +11401,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "Observatory protection overlay district",
+        "Abbreviated_District_Name": "Observatory protection overlay district",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     },
@@ -20858,10 +20858,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RPD",
+        "Abbreviated_District_Name": "RPD",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     }

@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "NT",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "NT",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Newport Town"
       },
       "geometry": {

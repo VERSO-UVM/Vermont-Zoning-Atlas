@@ -189,10 +189,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "I",
+        "Abbreviated_District_Name": "I",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Fairlee"
       }
     },
@@ -1106,10 +1106,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "LR",
+        "Abbreviated_District_Name": "LR",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Fairlee"
       }
     },
@@ -2303,10 +2303,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "MU",
+        "Abbreviated_District_Name": "MU",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Fairlee"
       }
     },
@@ -6792,10 +6792,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "R",
+        "Abbreviated_District_Name": "R",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Fairlee"
       }
     },
@@ -10629,10 +10629,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RR",
+        "Abbreviated_District_Name": "RR",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Fairlee"
       }
     },
@@ -10990,10 +10990,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "V",
+        "Abbreviated_District_Name": "V",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Fairlee"
       }
     },
@@ -12389,10 +12389,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "LF",
+        "Abbreviated_District_Name": "LF",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Fairlee"
       }
     },
@@ -19954,10 +19954,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "LM",
+        "Abbreviated_District_Name": "LM",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Fairlee"
       }
     }

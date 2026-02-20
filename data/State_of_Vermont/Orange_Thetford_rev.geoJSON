@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CB",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "CB",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Thetford"
       },
       "geometry": {
@@ -169,8 +169,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "NR",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "NR",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Thetford"
       },
       "geometry": {
@@ -590,8 +590,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "RR",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Thetford"
       },
       "geometry": {
@@ -4779,8 +4779,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VR",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "VR",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Thetford"
       },
       "geometry": {

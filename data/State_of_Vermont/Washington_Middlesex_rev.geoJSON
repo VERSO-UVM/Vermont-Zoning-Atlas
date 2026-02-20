@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "C",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "C",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Middlesex"
       },
       "geometry": {
@@ -6447,8 +6447,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "I",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "I",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Middlesex"
       },
       "geometry": {
@@ -7084,8 +7084,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MDR",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "MDR",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Middlesex"
       },
       "geometry": {
@@ -8393,8 +8393,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MU",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "MU",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Middlesex"
       },
       "geometry": {
@@ -8652,8 +8652,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "RR",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Middlesex"
       },
       "geometry": {
@@ -14045,8 +14045,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "V",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "V",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Middlesex"
       },
       "geometry": {
@@ -14244,8 +14244,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "P",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "P",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Middlesex"
       },
       "geometry": {

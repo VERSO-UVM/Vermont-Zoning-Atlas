@@ -1237,10 +1237,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "CB",
+        "Abbreviated_District_Name": "CB",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       }
     },
@@ -3180,10 +3180,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "ERV",
+        "Abbreviated_District_Name": "ERV",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       }
     },
@@ -4593,10 +4593,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "GCR",
+        "Abbreviated_District_Name": "GCR",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       }
     },
@@ -5862,10 +5862,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "GC",
+        "Abbreviated_District_Name": "GC",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       }
     },
@@ -7887,10 +7887,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "IND",
+        "Abbreviated_District_Name": "IND",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       }
     },
@@ -8070,10 +8070,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "INT_NE",
+        "Abbreviated_District_Name": "INT_NE",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       }
     },
@@ -8193,10 +8193,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "INT_NW",
+        "Abbreviated_District_Name": "INT_NW",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       }
     },
@@ -8316,10 +8316,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "INT_SE",
+        "Abbreviated_District_Name": "INT_SE",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       }
     },
@@ -8415,10 +8415,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "INT_SW",
+        "Abbreviated_District_Name": "INT_SW",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       }
     },
@@ -10620,10 +10620,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "NSV",
+        "Abbreviated_District_Name": "NSV",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       }
     },
@@ -11979,10 +11979,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RCV",
+        "Abbreviated_District_Name": "RCV",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       }
     },
@@ -13758,10 +13758,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RES",
+        "Abbreviated_District_Name": "RES",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       }
     },
@@ -24587,10 +24587,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RA",
+        "Abbreviated_District_Name": "RA",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       }
     },
@@ -36312,10 +36312,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RR",
+        "Abbreviated_District_Name": "RR",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       }
     },
@@ -39455,10 +39455,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RVHD",
+        "Abbreviated_District_Name": "RVHD",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       }
     },
@@ -39858,10 +39858,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RVMD",
+        "Abbreviated_District_Name": "RVMD",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       }
     }

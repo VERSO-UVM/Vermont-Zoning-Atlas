@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SLO",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "SLO",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Brookfield"
       },
       "geometry": {
@@ -1231,8 +1231,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FHO",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "FHO",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Brookfield"
       },
       "geometry": {

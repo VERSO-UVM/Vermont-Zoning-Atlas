@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RRD",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "RRD",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Norton"
       },
       "geometry": {
@@ -19409,8 +19409,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "AFD",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "AFD",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Norton"
       },
       "geometry": {

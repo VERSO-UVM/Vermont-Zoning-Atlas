@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FHO",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "FHO",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Calais"
       },
       "geometry": {
@@ -84005,8 +84005,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "KCO",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "KCO",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Calais"
       },
       "geometry": {
@@ -84598,8 +84598,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SHROD",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "SHROD",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Calais"
       },
       "geometry": {
@@ -86443,8 +86443,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "UPL",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "UPL",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Calais"
       },
       "geometry": {

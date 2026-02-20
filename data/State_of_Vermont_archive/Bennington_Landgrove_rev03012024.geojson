@@ -1,0 +1,5859 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.85797988099348,
+              43.237846426634384
+            ],
+            [
+              -72.85885872086315,
+              43.23776009579632
+            ],
+            [
+              -72.85981754958475,
+              43.23782912057893
+            ],
+            [
+              -72.8627224273037,
+              43.23829146218949
+            ],
+            [
+              -72.86454103243085,
+              43.238338070607426
+            ],
+            [
+              -72.86488120639379,
+              43.23830424341294
+            ],
+            [
+              -72.8652429982733,
+              43.2381900048782
+            ],
+            [
+              -72.86546488451862,
+              43.23480129873971
+            ],
+            [
+              -72.86386565604361,
+              43.23478578511967
+            ],
+            [
+              -72.86065788256356,
+              43.23420916780031
+            ],
+            [
+              -72.86021045189008,
+              43.23415609186245
+            ],
+            [
+              -72.85815647000567,
+              43.23408840781178
+            ],
+            [
+              -72.85721726118184,
+              43.23430090673672
+            ],
+            [
+              -72.85533825430073,
+              43.23462765156053
+            ],
+            [
+              -72.85421143090952,
+              43.2349258430265
+            ],
+            [
+              -72.85337045438487,
+              43.235092164567554
+            ],
+            [
+              -72.85114924251532,
+              43.23510555278358
+            ],
+            [
+              -72.85098551548893,
+              43.235051744206935
+            ],
+            [
+              -72.84992998481421,
+              43.234684665287006
+            ],
+            [
+              -72.84989403340613,
+              43.23467147563894
+            ],
+            [
+              -72.84987882835131,
+              43.234906328055345
+            ],
+            [
+              -72.84977469373092,
+              43.23651463025493
+            ],
+            [
+              -72.84976578870992,
+              43.236652160588825
+            ],
+            [
+              -72.84964690951729,
+              43.238518994876294
+            ],
+            [
+              -72.85095599872066,
+              43.23870301879318
+            ],
+            [
+              -72.85412587109968,
+              43.2387113249494
+            ],
+            [
+              -72.85498549432954,
+              43.238662819127825
+            ],
+            [
+              -72.8558174824468,
+              43.23848341578428
+            ],
+            [
+              -72.85708485687114,
+              43.23810621458968
+            ],
+            [
+              -72.85723438530223,
+              43.2380659317442
+            ],
+            [
+              -72.85726154801968,
+              43.23805861427358
+            ],
+            [
+              -72.85797988099348,
+              43.237846426634384
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "OBJECTID_1": 895,
+        "Jurisdiction_District_Name": "Bennington Landgrove Mixed Use",
+        "County": "Bennington",
+        "Jurisdiction": "Bennington Landgrove ",
+        "Abbreviated_District_Name": "Mu",
+        "District_Name": "Mixed Use",
+        "District_Mapped": "Yes",
+        "Overlay_District": "No",
+        "Extinct_District": null,
+        "District_Type": "Mixed with Residential",
+        "Affordable_Housing_District": "No",
+        "Elderly_Housing_District": "No",
+        "F1F_Allowance": "Permitted",
+        "F2F_Allowance": "Permitted",
+        "F3F_Allowance": "Permitted",
+        "F4F_Allowance": "Public Hearing",
+        "F5F_Allowance": null,
+        "ADU_Allowance": "Allowed/Conditional",
+        "Affordable_Housing_Allowance": "Not Mentioned",
+        "PRD_Allowance": "Public Hearing",
+        "NOTES": " Neighborhood And Mixed-Use Puds Permitted With Conditional Use (Public Hearing). ",
+        "F1F_Min_Lot": 4,
+        "F1F_Front_Setback": 50,
+        "F1F_Side_Setback": 50,
+        "F1F_Rear_Setback": 50,
+        "F1F_Frontage": 200,
+        "F1F_Max_Lot_Building_Coverage": 20,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": 1,
+        "F1F_Max_Stories": 3,
+        "F1F_Max_Height": 35,
+        "F1F_Floor_to_Area_Ratio": null,
+        "F1F_Min_Unit_Size": null,
+        "F2F_Affordable_Housing_Only": "No",
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Min_Lot_Size": 4,
+        "F2F_Max_Density": 0.25,
+        "F2F_Front_Setback": 50,
+        "F2F_Side_Setback": 50,
+        "F2F_Rear_Setback": 50,
+        "F2F_Frontage": 200,
+        "F2F_Max_Lot_Building_Coverage": 20,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": 1,
+        "F2F_Min_Parking_Spaces_per_mult_BR": 1,
+        "F2F_Max_Stories": 3,
+        "F2F_Max_Height": 35,
+        "F2F_Floor_to_Area_Ratio": null,
+        "F2F_Min_Unit_Size": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Elderly_Housing_Only": "No",
+        "F3F_Min_Lot_Size": 4,
+        "F3F_Max_Density": 0.25,
+        "F3F_Front_Setback": 50,
+        "F3F_Side_Setback": 50,
+        "F3F_Rear_Setback": 50,
+        "F3F_Frontage": 200,
+        "F3F_Max_Lot_Building_Coverage": 20,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Connection_to_Sewage_Water_Required": "Yes",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Max_Stories": 3,
+        "F3F_Max_Height": 35,
+        "F3F_Floor_to_Area_Ratio": null,
+        "F3F_Min_Unit_Size": null,
+        "F3F_Max_Bedrooms": null,
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Min_Lot_Size": 4,
+        "F4F_Max_Density": 0.25,
+        "F4F_Front_Setback": 50,
+        "F4F_Side_Setback": 50,
+        "F4F_Rear_Setback": 50,
+        "F4F_Frontage": 200,
+        "F4F_Max_Lot_Building_Coverage": 20,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per__mult_BR": null,
+        "F4F_Connection_to_Sewage_Water_Required": "Yes",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Max_Stories": 3,
+        "F4F_Max_Height": 35,
+        "F4F_Floor_to_Area_Ratio": null,
+        "F4F_Min_Unit_Size": null,
+        "F4F_Max_Bedrooms": null,
+        "F4F_Max_Units_per_Building": 4,
+        "F5F_Affordable_Housing_Only": null,
+        "F5F_Elderly_Housing_Only": null,
+        "F5F_Min_Lot_Size": null,
+        "F5F_Max_Density": null,
+        "F5F_Front_Setback": null,
+        "F5F_Side_Setback": null,
+        "F5F_Rear_Setback": null,
+        "F5F_Frontage": null,
+        "F5F_Max_Lot_Building_Coverage": null,
+        "F5F_Max__Lot_Impervious_Coverage": null,
+        "F5F_Min_Parking_Spaces_per_1BR": null,
+        "F5F_Min_Parking_Spaces_per_mult_BR": null,
+        "F5F_Connection_to_Sewage_Water_Required": null,
+        "F5F_Proximity_to_Public_Transit_Required": null,
+        "F5F_Max_Stories": null,
+        "F5F_Max_Height": null,
+        "F5F_Floor_to_Area_Ratio": null,
+        "F5F_Min_Unit_Size": null,
+        "F5F_Max_Bedrooms": null,
+        "F5F_Max_Units_per_Building": null,
+        "Affordable_Housing_Definition": null,
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Min_Unit_Size": null,
+        "Affordable_Housing_Max_Bedrooms": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Min_Lot_Size": null,
+        "ADU_Min_Parking_Spaces": 1,
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": 40,
+        "ADU_Max_Size_in_sq_ft": 1000,
+        "ADU_Max_Bedrooms": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PRD_Min_Lot_Size": null,
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PUD_Required_with_Subdivision": "F",
+        "PUD_Threshold_Number": null,
+        "PUD_Allowance": "Yes",
+        "PUD_Requires_Land_Conservation": "F",
+        "Base_Density": 0.25,
+        "CONDITIONAL_1F_Min_Lot": null,
+        "CONDITIONAL_1F_Front_Setback": null,
+        "CONDITIONAL_1F_Side_Setback": null,
+        "CONDITIONAL_1F_Rear_Setback": null,
+        "CONDITIONAL_1F_Frontage": null,
+        "CONDITIONAL_1F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_1F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_1F_Min_Parking_Spaces": null,
+        "CONDITIONAL_1F_Max_Stories": null,
+        "CONDITIONAL_1F_Max_Height": null,
+        "CONDITIONAL_1F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_1F_Min_Unit_Size": null,
+        "CONDITIONAL_2F_Affordable_Housing_Only": null,
+        "CONDITIONAL_2F_Elderly_Housing_Only": null,
+        "CONDITIONAL_2F_Min_Lot_Size": null,
+        "CONDITIONAL_2F_Max_Density": null,
+        "CONDITIONAL_2F_Front_Setback": null,
+        "CONDITIONAL_2F_Side_Setback": null,
+        "CONDITIONAL_2F_Rear_Setback": null,
+        "CONDITIONAL_2F_Frontage": null,
+        "CONDITIONAL_2F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_2F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_2F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_2F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_2F_Max_Stories": null,
+        "CONDITIONAL_2F_Max_Height": null,
+        "CONDITIONAL_2F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_2F_Min_Unit_Size": null,
+        "CONDITIONAL_3F_Affordable_Housing_Only": null,
+        "CONDITIONAL_3F_Elderly_Housing_Only": null,
+        "CONDITIONAL_3F_Min_Lot_Size": null,
+        "CONDITIONAL_3F_Max_Density": null,
+        "CONDITIONAL_3F_Front_Setback": null,
+        "CONDITIONAL_3F_Side_Setback": null,
+        "CONDITIONAL_3F_Rear_Setback": null,
+        "CONDITIONAL_3F_Frontage": null,
+        "CONDITIONAL_3F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_3F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_3F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_3F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_3F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_3F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_3F_Max_Stories": null,
+        "CONDITIONAL_3F_Max_Height": null,
+        "CONDITIONAL_3F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_3F_Min_Unit_Size": null,
+        "CONDITIONAL_3F_Max_Bedrooms": null,
+        "CONDITIONAL_4F_Affordable_Housing_Only": null,
+        "CONDITIONAL_4F_Elderly_Housing_Only": null,
+        "CONDITIONAL_4F_Min_Lot_Size": null,
+        "CONDITIONAL_4F_Max_Density": null,
+        "CONDITIONAL_4F_Front_Setback": null,
+        "CONDITIONAL_4F_Side_Setback": null,
+        "CONDITIONAL_4F_Rear_Setback": null,
+        "CONDITIONAL_4F_Frontage": null,
+        "CONDITIONAL_4F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_4F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_4F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_4F_Min_Parking_Spaces_per__mult_BR": null,
+        "CONDITIONAL_4F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_4F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_4F_Max_Stories": null,
+        "CONDITIONAL_4F_Max_Height": null,
+        "CONDITIONAL_4F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_4F_Min_Unit_Size": null,
+        "CONDITIONAL_4F_Max_Bedrooms": null,
+        "CONDITIONAL_4F_Max_Units_per_Building": null,
+        "CONDITIONAL_5F_Affordable_Housing_Only": null,
+        "CONDITIONAL_5F_Elderly_Housing_Only": null,
+        "CONDITIONAL_5F_Min_Lot_Size": null,
+        "CONDITIONAL_5F_Max_Density": null,
+        "CONDITIONAL_5F_Front_Setback": null,
+        "CONDITIONAL_5F_Side_Setback": null,
+        "CONDITIONAL_5F_Rear_Setback": null,
+        "CONDITIONAL_5F_Frontage": null,
+        "CONDITIONAL_5F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_5F_Max__Lot_Impervious_Coverage": null,
+        "CONDITIONAL_5F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_5F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_5F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_5F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_5F_Max_Stories": null,
+        "CONDITIONAL_5F_Max_Height": null,
+        "CONDITIONAL_5F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_5F_Min_Unit_Size": null,
+        "CONDITIONAL_5F_Max_Bedrooms": null,
+        "CONDITIONAL_5F_Max_Units_per_Building": null,
+        "CONDITIONAL_Affordable_Housing_Definition": null,
+        "CONDITIONAL_Affordable_Housing_Elderly_Only": null,
+        "CONDITIONAL_Affordable_Housing_Min_Lot_Size": null,
+        "CONDITIONAL_Affordable_Housing_Max_Density": null,
+        "CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_Affordable_Housing_Min_Unit_Size": null,
+        "CONDITIONAL_Affordable_Housing_Max_Bedrooms": null,
+        "CONDITIONAL_Affordable_Housing_Max_Units_per_Building": null,
+        "CONDITIONAL_ADU_Employee_or_Family_Occupancy_Required": null,
+        "CONDITIONAL_ADU_Renter_Occupancy_Prohibited": null,
+        "CONDITIONAL_ADU_Owner_Occupancy_Required": null,
+        "CONDITIONAL_ADU_Elderly_Housing_Only": null,
+        "CONDITIONAL_ADU_Min_Lot_Size": null,
+        "CONDITIONAL_ADU_Min_Parking_Spaces": null,
+        "CONDITIONAL_ADU_Restricted_to_Primary_Structure": null,
+        "CONDITIONAL_ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "CONDITIONAL_ADU_Max_Size_in_sq_ft": null,
+        "CONDITIONAL_ADU_Max_Bedrooms": null,
+        "CONDITIONAL_PRD_Mobile_or_Manufactured_Home_Park": null,
+        "CONDITIONAL_PRD_Min_Lot_Size": null,
+        "CONDITIONAL_PRD_Max_Density": null,
+        "CONDITIONAL_PRD_Max_Units": "(Lot Area * Lot Coverage %)/4000 And Rounding Down to a Whole Number",
+        "CONDITIONAL_PUD_Required_with_Subdivision": null,
+        "CONDITIONAL_PUD_Threshold_Number": null,
+        "CONDITIONAL_PUD_Allowance": null,
+        "CONDITIONAL_PUD_Requires_Land_Conservation": null,
+        "Bylaw_Date": "2024-05-20",
+        "RPC": "BCRC",
+        "Version": 1,
+        "Acres": 128.89002872888395,
+        "Shape_Length": 3399.978594360004,
+        "Shape_Area": 521600.24576145335
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -72.86246994965748,
+                43.27411171066788
+              ],
+              [
+                -72.862467709451,
+                43.27411617704409
+              ],
+              [
+                -72.86245763955587,
+                43.27423008885481
+              ],
+              [
+                -72.86245916752544,
+                43.2742336845602
+              ],
+              [
+                -72.86246994965748,
+                43.27411171066788
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.8625772072725,
+                43.27289845701998
+              ],
+              [
+                -72.86257420464987,
+                43.27291144291175
+              ],
+              [
+                -72.8624967605983,
+                43.27314301905023
+              ],
+              [
+                -72.86253508492604,
+                43.27320842576204
+              ],
+              [
+                -72.86239272890333,
+                43.273507415346145
+              ],
+              [
+                -72.86248349816088,
+                43.2739375641783
+              ],
+              [
+                -72.86248519416412,
+                43.273939376180074
+              ],
+              [
+                -72.8625772072725,
+                43.27289845701998
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.85712557656365,
+                43.25862884621078
+              ],
+              [
+                -72.85715581505242,
+                43.25872814157767
+              ],
+              [
+                -72.85708824541338,
+                43.25878940806694
+              ],
+              [
+                -72.85667278658428,
+                43.25942572089178
+              ],
+              [
+                -72.85684450586433,
+                43.25956769356798
+              ],
+              [
+                -72.85683740177139,
+                43.25963431521984
+              ],
+              [
+                -72.85628768750387,
+                43.259404102449395
+              ],
+              [
+                -72.85590695203156,
+                43.25945052415253
+              ],
+              [
+                -72.85537502826028,
+                43.259393476211216
+              ],
+              [
+                -72.85536583599479,
+                43.259277935003546
+              ],
+              [
+                -72.85517525570094,
+                43.25923902608691
+              ],
+              [
+                -72.85489343788505,
+                43.25935786308866
+              ],
+              [
+                -72.85476557145397,
+                43.259498225047246
+              ],
+              [
+                -72.85444627286975,
+                43.2595381809681
+              ],
+              [
+                -72.85444616824691,
+                43.25953819209395
+              ],
+              [
+                -72.85363292277366,
+                43.25962769490298
+              ],
+              [
+                -72.85288918348567,
+                43.259873662940606
+              ],
+              [
+                -72.85224323436574,
+                43.26047170787289
+              ],
+              [
+                -72.85190201496238,
+                43.26066549492505
+              ],
+              [
+                -72.85158996451267,
+                43.26055442856112
+              ],
+              [
+                -72.85161494224414,
+                43.2604313874023
+              ],
+              [
+                -72.8513243555196,
+                43.260430562765926
+              ],
+              [
+                -72.85123842024151,
+                43.26038334882958
+              ],
+              [
+                -72.85091827396879,
+                43.260515168387755
+              ],
+              [
+                -72.85081614912235,
+                43.26079745915957
+              ],
+              [
+                -72.85068889509502,
+                43.260932297701416
+              ],
+              [
+                -72.84994584729864,
+                43.260892888702536
+              ],
+              [
+                -72.84954222861955,
+                43.26099573041644
+              ],
+              [
+                -72.84941289421302,
+                43.26097970431076
+              ],
+              [
+                -72.84921826539323,
+                43.26112938415066
+              ],
+              [
+                -72.84896374898648,
+                43.26114061057438
+              ],
+              [
+                -72.84885841580143,
+                43.261102408611
+              ],
+              [
+                -72.84881777479244,
+                43.26097830257443
+              ],
+              [
+                -72.84860137092197,
+                43.260998584383664
+              ],
+              [
+                -72.84850940751787,
+                43.26092040038895
+              ],
+              [
+                -72.84834453837838,
+                43.26093141888828
+              ],
+              [
+                -72.84834437830328,
+                43.260931425676716
+              ],
+              [
+                -72.84824204200488,
+                43.26091821177635
+              ],
+              [
+                -72.84823161428329,
+                43.261025505875594
+              ],
+              [
+                -72.8483931811512,
+                43.26118655284723
+              ],
+              [
+                -72.84841825109727,
+                43.26131955032279
+              ],
+              [
+                -72.84861150041431,
+                43.261428018778005
+              ],
+              [
+                -72.84862258835521,
+                43.26150885256042
+              ],
+              [
+                -72.84854516778213,
+                43.26150930271587
+              ],
+              [
+                -72.84875512748258,
+                43.261669711125606
+              ],
+              [
+                -72.84908641265251,
+                43.26214927842001
+              ],
+              [
+                -72.84942125945453,
+                43.26240389007841
+              ],
+              [
+                -72.84988268263338,
+                43.26249311644477
+              ],
+              [
+                -72.85121658905157,
+                43.262515834853104
+              ],
+              [
+                -72.85192479233581,
+                43.262586465976284
+              ],
+              [
+                -72.85221547636776,
+                43.262661144258644
+              ],
+              [
+                -72.85230681173057,
+                43.26260029986918
+              ],
+              [
+                -72.85263777258578,
+                43.262588616142786
+              ],
+              [
+                -72.85302227386083,
+                43.2626819384391
+              ],
+              [
+                -72.85313966854751,
+                43.26279288812991
+              ],
+              [
+                -72.85350080796319,
+                43.262719725585285
+              ],
+              [
+                -72.85369619725017,
+                43.26279957960155
+              ],
+              [
+                -72.85386937688257,
+                43.26320747827858
+              ],
+              [
+                -72.85374416135453,
+                43.26278425225001
+              ],
+              [
+                -72.8539041836005,
+                43.26246269583766
+              ],
+              [
+                -72.85363938544386,
+                43.2622796488376
+              ],
+              [
+                -72.8529763065386,
+                43.26228202536371
+              ],
+              [
+                -72.85231845844984,
+                43.26243177244396
+              ],
+              [
+                -72.85174900086739,
+                43.26242404735961
+              ],
+              [
+                -72.85157941241745,
+                43.262381597890965
+              ],
+              [
+                -72.85200683689729,
+                43.26217109838148
+              ],
+              [
+                -72.85217854671826,
+                43.26200897156032
+              ],
+              [
+                -72.85209810659941,
+                43.2617281364534
+              ],
+              [
+                -72.85217611230472,
+                43.26165180309224
+              ],
+              [
+                -72.85222674894035,
+                43.261348109575295
+              ],
+              [
+                -72.85236079143377,
+                43.26124994978495
+              ],
+              [
+                -72.85263470859208,
+                43.261233595417494
+              ],
+              [
+                -72.85271859689402,
+                43.261287886999604
+              ],
+              [
+                -72.85308441706819,
+                43.26130961025956
+              ],
+              [
+                -72.85415934358568,
+                43.26114614721097
+              ],
+              [
+                -72.8546299377949,
+                43.26117537230632
+              ],
+              [
+                -72.85522333594169,
+                43.260934591989546
+              ],
+              [
+                -72.85542421190438,
+                43.26093262772183
+              ],
+              [
+                -72.8554679114144,
+                43.26111228297404
+              ],
+              [
+                -72.85541348104445,
+                43.261214102981675
+              ],
+              [
+                -72.85524313839505,
+                43.261307013355996
+              ],
+              [
+                -72.85523509443884,
+                43.261505077876954
+              ],
+              [
+                -72.85552918267781,
+                43.26172365136891
+              ],
+              [
+                -72.85567654940246,
+                43.26194026711746
+              ],
+              [
+                -72.85583111754282,
+                43.262001236186045
+              ],
+              [
+                -72.85589606058161,
+                43.26221813500571
+              ],
+              [
+                -72.85577167658688,
+                43.26245142830203
+              ],
+              [
+                -72.8559306427213,
+                43.262612740007455
+              ],
+              [
+                -72.85587339423174,
+                43.26278612009319
+              ],
+              [
+                -72.85601556455555,
+                43.2627590210063
+              ],
+              [
+                -72.85640453945325,
+                43.26284454530848
+              ],
+              [
+                -72.85632320049379,
+                43.26305153622898
+              ],
+              [
+                -72.856111207388,
+                43.26329940142538
+              ],
+              [
+                -72.85637014341617,
+                43.26361906504296
+              ],
+              [
+                -72.85647393510223,
+                43.26365497402015
+              ],
+              [
+                -72.85646644589504,
+                43.26408025695337
+              ],
+              [
+                -72.85680672853191,
+                43.26449127669293
+              ],
+              [
+                -72.85674753401638,
+                43.26461518442701
+              ],
+              [
+                -72.85687167781839,
+                43.26475605319748
+              ],
+              [
+                -72.85701569987124,
+                43.26478080586467
+              ],
+              [
+                -72.85709188754566,
+                43.264586431631244
+              ],
+              [
+                -72.85706564753085,
+                43.264795574258905
+              ],
+              [
+                -72.85742515602715,
+                43.26498244177942
+              ],
+              [
+                -72.85742642874933,
+                43.26517471272815
+              ],
+              [
+                -72.85730323139535,
+                43.26547718127998
+              ],
+              [
+                -72.85765592590846,
+                43.266021319745064
+              ],
+              [
+                -72.85769594189716,
+                43.26632070565809
+              ],
+              [
+                -72.85788974306357,
+                43.26681093572632
+              ],
+              [
+                -72.85827960947472,
+                43.26725720085898
+              ],
+              [
+                -72.85876312307934,
+                43.26760556361383
+              ],
+              [
+                -72.85898150736524,
+                43.26769061481099
+              ],
+              [
+                -72.85907467137034,
+                43.26766265936904
+              ],
+              [
+                -72.85929472702149,
+                43.26738527322833
+              ],
+              [
+                -72.85948275141618,
+                43.267521982322364
+              ],
+              [
+                -72.8596189275381,
+                43.26793407664354
+              ],
+              [
+                -72.85954766811498,
+                43.267960967227296
+              ],
+              [
+                -72.85949508828608,
+                43.26788460457011
+              ],
+              [
+                -72.85948585879243,
+                43.267972351100234
+              ],
+              [
+                -72.85955725170983,
+                43.267971062753645
+              ],
+              [
+                -72.8596366347942,
+                43.26807640476352
+              ],
+              [
+                -72.8597568835666,
+                43.26844896089826
+              ],
+              [
+                -72.85968202155087,
+                43.26860173814479
+              ],
+              [
+                -72.85937736404145,
+                43.268729607895565
+              ],
+              [
+                -72.8593039026844,
+                43.268716765965515
+              ],
+              [
+                -72.85939343857842,
+                43.268960241961956
+              ],
+              [
+                -72.85946895964364,
+                43.26898184380129
+              ],
+              [
+                -72.85959505558635,
+                43.268794918260596
+              ],
+              [
+                -72.85976602976571,
+                43.26871814890445
+              ],
+              [
+                -72.85983924334315,
+                43.26870961394838
+              ],
+              [
+                -72.85983589047758,
+                43.268800799436136
+              ],
+              [
+                -72.85993649173963,
+                43.26884447265651
+              ],
+              [
+                -72.86005551575805,
+                43.26877755360283
+              ],
+              [
+                -72.86013582243221,
+                43.26882256332036
+              ],
+              [
+                -72.8600214461802,
+                43.26889828827762
+              ],
+              [
+                -72.86014512307574,
+                43.26906751008671
+              ],
+              [
+                -72.86030091561183,
+                43.26912611621564
+              ],
+              [
+                -72.8606517092414,
+                43.269598882763304
+              ],
+              [
+                -72.86094211363955,
+                43.26974739862153
+              ],
+              [
+                -72.86104386591315,
+                43.27014565926683
+              ],
+              [
+                -72.86119158246434,
+                43.270165307409506
+              ],
+              [
+                -72.86115898269854,
+                43.27033187094721
+              ],
+              [
+                -72.86124093548513,
+                43.27029106458243
+              ],
+              [
+                -72.86121908754235,
+                43.270185016379074
+              ],
+              [
+                -72.86134153247201,
+                43.27016664041161
+              ],
+              [
+                -72.86123156983992,
+                43.26993405285523
+              ],
+              [
+                -72.86134066112508,
+                43.269881294200516
+              ],
+              [
+                -72.86149851049986,
+                43.269910995979416
+              ],
+              [
+                -72.86152541049891,
+                43.26979580228924
+              ],
+              [
+                -72.861730292881,
+                43.26984749217292
+              ],
+              [
+                -72.86179950150782,
+                43.26993355777076
+              ],
+              [
+                -72.86197992493352,
+                43.270000753819176
+              ],
+              [
+                -72.86210306098101,
+                43.270005138424466
+              ],
+              [
+                -72.86226026473717,
+                43.27014706492585
+              ],
+              [
+                -72.86231375576511,
+                43.2701476930345
+              ],
+              [
+                -72.86230393587914,
+                43.270097896131304
+              ],
+              [
+                -72.86262740448869,
+                43.27015289661046
+              ],
+              [
+                -72.86265120619603,
+                43.27035336366055
+              ],
+              [
+                -72.86224869259074,
+                43.270448595385105
+              ],
+              [
+                -72.86238519952637,
+                43.27085093125649
+              ],
+              [
+                -72.86236491739639,
+                43.27098904056079
+              ],
+              [
+                -72.86191093843095,
+                43.271175083330846
+              ],
+              [
+                -72.86189384294127,
+                43.271317521123535
+              ],
+              [
+                -72.86177289261924,
+                43.27140952687647
+              ],
+              [
+                -72.86180326478235,
+                43.271526110199424
+              ],
+              [
+                -72.86188679021187,
+                43.27153181209469
+              ],
+              [
+                -72.86221147122723,
+                43.2718153754238
+              ],
+              [
+                -72.86221102957626,
+                43.27221990383709
+              ],
+              [
+                -72.86228901716927,
+                43.272287645117025
+              ],
+              [
+                -72.86240933175065,
+                43.27225795193468
+              ],
+              [
+                -72.86246178189738,
+                43.27239610620971
+              ],
+              [
+                -72.8626161331275,
+                43.27243713403753
+              ],
+              [
+                -72.86261788717957,
+                43.2724383553639
+              ],
+              [
+                -72.86267454754304,
+                43.27179735914278
+              ],
+              [
+                -72.86267926364093,
+                43.27172297215922
+              ],
+              [
+                -72.8627070595991,
+                43.271408535423596
+              ],
+              [
+                -72.8627090344014,
+                43.271407313976646
+              ],
+              [
+                -72.86278298943047,
+                43.27057077632692
+              ],
+              [
+                -72.86278119778049,
+                43.27056985306736
+              ],
+              [
+                -72.86294859974399,
+                43.268458018944635
+              ],
+              [
+                -72.862887940423,
+                43.26840190958421
+              ],
+              [
+                -72.86294130252223,
+                43.26829692465578
+              ],
+              [
+                -72.86241151330334,
+                43.267992970706594
+              ],
+              [
+                -72.86230892201502,
+                43.26802359072646
+              ],
+              [
+                -72.86231077978583,
+                43.26807845723809
+              ],
+              [
+                -72.86211254651532,
+                43.26780536744977
+              ],
+              [
+                -72.86226088121101,
+                43.26772036224788
+              ],
+              [
+                -72.86224141313296,
+                43.26776755241291
+              ],
+              [
+                -72.86236032347998,
+                43.267796872240744
+              ],
+              [
+                -72.86243782017654,
+                43.267748552165806
+              ],
+              [
+                -72.86257061047706,
+                43.26792835963371
+              ],
+              [
+                -72.86260403701829,
+                43.26755559934255
+              ],
+              [
+                -72.86273727259783,
+                43.26753179674401
+              ],
+              [
+                -72.86279866918746,
+                43.26736212138697
+              ],
+              [
+                -72.86264346902217,
+                43.26733198092179
+              ],
+              [
+                -72.86254382118696,
+                43.26723653922076
+              ],
+              [
+                -72.86251388962808,
+                43.26715650200814
+              ],
+              [
+                -72.86264592142709,
+                43.267012853571664
+              ],
+              [
+                -72.86260525555238,
+                43.26693498283647
+              ],
+              [
+                -72.86251489990276,
+                43.266955409804
+              ],
+              [
+                -72.86257491645615,
+                43.267039458093954
+              ],
+              [
+                -72.86244595403996,
+                43.26709571133829
+              ],
+              [
+                -72.86242423620541,
+                43.267160815110365
+              ],
+              [
+                -72.8625064576612,
+                43.26737536887453
+              ],
+              [
+                -72.8625377046095,
+                43.26732543821712
+              ],
+              [
+                -72.86256053798901,
+                43.2673532476184
+              ],
+              [
+                -72.86254022220857,
+                43.26743001815275
+              ],
+              [
+                -72.86247444850974,
+                43.267433241153824
+              ],
+              [
+                -72.8624026855029,
+                43.267348361398874
+              ],
+              [
+                -72.86183064690336,
+                43.267207305078884
+              ],
+              [
+                -72.8616398154698,
+                43.26689948259686
+              ],
+              [
+                -72.86135695102885,
+                43.26681502363184
+              ],
+              [
+                -72.86089707555166,
+                43.26640337963047
+              ],
+              [
+                -72.86085681921524,
+                43.266241128934965
+              ],
+              [
+                -72.8609186084156,
+                43.26603966673367
+              ],
+              [
+                -72.8612909994966,
+                43.266042053927016
+              ],
+              [
+                -72.86111364373974,
+                43.26621685726974
+              ],
+              [
+                -72.86134843151477,
+                43.26637033108357
+              ],
+              [
+                -72.86146897779068,
+                43.266368152650585
+              ],
+              [
+                -72.86157819166367,
+                43.26629871289447
+              ],
+              [
+                -72.86159759386997,
+                43.26614944828687
+              ],
+              [
+                -72.86147104960867,
+                43.26598928971034
+              ],
+              [
+                -72.86144356137704,
+                43.26570189767063
+              ],
+              [
+                -72.86115173848587,
+                43.265322463311364
+              ],
+              [
+                -72.86115899181813,
+                43.26525344121993
+              ],
+              [
+                -72.86132216101507,
+                43.265190212412435
+              ],
+              [
+                -72.86104559593058,
+                43.265021020744626
+              ],
+              [
+                -72.86081278657191,
+                43.26497127466004
+              ],
+              [
+                -72.86033610755968,
+                43.264551763647624
+              ],
+              [
+                -72.86020469883032,
+                43.264507810598644
+              ],
+              [
+                -72.85992699118508,
+                43.264530406870215
+              ],
+              [
+                -72.85979736763527,
+                43.26456824240282
+              ],
+              [
+                -72.85918599145758,
+                43.2649724472404
+              ],
+              [
+                -72.85808354842489,
+                43.26580917769384
+              ],
+              [
+                -72.85797054381105,
+                43.26586978482695
+              ],
+              [
+                -72.85782869986994,
+                43.26578230673159
+              ],
+              [
+                -72.85823850274404,
+                43.26555100188452
+              ],
+              [
+                -72.8583247083979,
+                43.26544054867008
+              ],
+              [
+                -72.85833351989457,
+                43.26521558823886
+              ],
+              [
+                -72.85823577649738,
+                43.26487855858118
+              ],
+              [
+                -72.85836657774176,
+                43.26474052583977
+              ],
+              [
+                -72.8585886472734,
+                43.264827828336195
+              ],
+              [
+                -72.85865976327003,
+                43.26496650931522
+              ],
+              [
+                -72.85859487882043,
+                43.26511640482108
+              ],
+              [
+                -72.85880813437379,
+                43.26518144709311
+              ],
+              [
+                -72.85897253552383,
+                43.265060019335095
+              ],
+              [
+                -72.85898118581194,
+                43.26493779032355
+              ],
+              [
+                -72.85916693893584,
+                43.26489489804496
+              ],
+              [
+                -72.85945836826596,
+                43.2647164816747
+              ],
+              [
+                -72.8601337333818,
+                43.26418747767991
+              ],
+              [
+                -72.85985106751535,
+                43.26410705774126
+              ],
+              [
+                -72.85934763444841,
+                43.26374196985745
+              ],
+              [
+                -72.8594580485357,
+                43.263655002628994
+              ],
+              [
+                -72.85939989266465,
+                43.26343683967639
+              ],
+              [
+                -72.85950930668828,
+                43.26339352775171
+              ],
+              [
+                -72.85943005765294,
+                43.26332412677319
+              ],
+              [
+                -72.85925884361359,
+                43.263288705886346
+              ],
+              [
+                -72.85927643586045,
+                43.2631110902125
+              ],
+              [
+                -72.85942605597,
+                43.26301784291445
+              ],
+              [
+                -72.85918572662032,
+                43.26297318310512
+              ],
+              [
+                -72.85923609086468,
+                43.26286813180606
+              ],
+              [
+                -72.85940132601472,
+                43.26279964421709
+              ],
+              [
+                -72.85951413289553,
+                43.262665820790154
+              ],
+              [
+                -72.85963340113616,
+                43.26272583888473
+              ],
+              [
+                -72.85984270486802,
+                43.26272864980023
+              ],
+              [
+                -72.85998575443979,
+                43.26266463463114
+              ],
+              [
+                -72.86023751631892,
+                43.26267390201684
+              ],
+              [
+                -72.86041664239237,
+                43.26280572385914
+              ],
+              [
+                -72.86053253654794,
+                43.26281077478252
+              ],
+              [
+                -72.86063201228954,
+                43.262943093031815
+              ],
+              [
+                -72.8610735737505,
+                43.263091882817456
+              ],
+              [
+                -72.86129651567647,
+                43.263110043091565
+              ],
+              [
+                -72.86165538836941,
+                43.2632526701745
+              ],
+              [
+                -72.86174601344436,
+                43.263339155170485
+              ],
+              [
+                -72.86218867724767,
+                43.26346954732449
+              ],
+              [
+                -72.86225583050212,
+                43.26353871645315
+              ],
+              [
+                -72.86254857837835,
+                43.26358800772274
+              ],
+              [
+                -72.86272211339354,
+                43.26372863980302
+              ],
+              [
+                -72.862988024823,
+                43.26378557079986
+              ],
+              [
+                -72.86336088937665,
+                43.26401213642182
+              ],
+              [
+                -72.86336273271793,
+                43.26401287678116
+              ],
+              [
+                -72.86338847969515,
+                43.26372162183118
+              ],
+              [
+                -72.86338670444304,
+                43.26372010983729
+              ],
+              [
+                -72.86293435627023,
+                43.263631586086426
+              ],
+              [
+                -72.86267927972705,
+                43.263424877180974
+              ],
+              [
+                -72.86252985845475,
+                43.263375981832404
+              ],
+              [
+                -72.86226520154064,
+                43.263356593268504
+              ],
+              [
+                -72.86204401918458,
+                43.2631629131121
+              ],
+              [
+                -72.86166140958814,
+                43.263186208315325
+              ],
+              [
+                -72.8615225950639,
+                43.26308307177243
+              ],
+              [
+                -72.86170058254518,
+                43.263065382186156
+              ],
+              [
+                -72.8617756844678,
+                43.26298671922353
+              ],
+              [
+                -72.86174559388208,
+                43.2629082106873
+              ],
+              [
+                -72.86148865782198,
+                43.26286273599684
+              ],
+              [
+                -72.86137681697815,
+                43.26255595578916
+              ],
+              [
+                -72.86098193853724,
+                43.26257092069063
+              ],
+              [
+                -72.8609726386122,
+                43.262309997152194
+              ],
+              [
+                -72.86062179057755,
+                43.26231395628646
+              ],
+              [
+                -72.86056170273727,
+                43.262251850704004
+              ],
+              [
+                -72.86030680173106,
+                43.262222732358595
+              ],
+              [
+                -72.8602378953954,
+                43.262023565060595
+              ],
+              [
+                -72.86015269426981,
+                43.26197269016131
+              ],
+              [
+                -72.85997445316984,
+                43.2619730009619
+              ],
+              [
+                -72.859809976717,
+                43.26187472910569
+              ],
+              [
+                -72.85988944062568,
+                43.261893871718776
+              ],
+              [
+                -72.86008720017003,
+                43.26182447157384
+              ],
+              [
+                -72.86034270374077,
+                43.26165261903984
+              ],
+              [
+                -72.86050187254126,
+                43.26169316206094
+              ],
+              [
+                -72.86055278833464,
+                43.261526851278916
+              ],
+              [
+                -72.86080784107034,
+                43.261750866642785
+              ],
+              [
+                -72.86024501598035,
+                43.261001292843645
+              ],
+              [
+                -72.85999560913662,
+                43.26088008579025
+              ],
+              [
+                -72.85979496763767,
+                43.260680652172525
+              ],
+              [
+                -72.85920167053229,
+                43.26041430682771
+              ],
+              [
+                -72.85912017366033,
+                43.26031420081383
+              ],
+              [
+                -72.85878840726382,
+                43.26011004169201
+              ],
+              [
+                -72.85871012080183,
+                43.25998513008145
+              ],
+              [
+                -72.85829171727379,
+                43.25984723034315
+              ],
+              [
+                -72.85786432942477,
+                43.25950045829981
+              ],
+              [
+                -72.85737665018769,
+                43.259593098595936
+              ],
+              [
+                -72.85733133639796,
+                43.259581705771204
+              ],
+              [
+                -72.85735848578122,
+                43.25951404031735
+              ],
+              [
+                -72.85746059054692,
+                43.259463532242705
+              ],
+              [
+                -72.85734414053634,
+                43.25945159837417
+              ],
+              [
+                -72.8572278760533,
+                43.25944316174826
+              ],
+              [
+                -72.85731665454881,
+                43.25933196212958
+              ],
+              [
+                -72.8574819809428,
+                43.25926980676725
+              ],
+              [
+                -72.85751282963719,
+                43.25897519832788
+              ],
+              [
+                -72.85734397946969,
+                43.25875477234539
+              ],
+              [
+                -72.85712557656365,
+                43.25862884621078
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.84990690334607,
+                43.23447327517848
+              ],
+              [
+                -72.84992998481421,
+                43.234684665287006
+              ],
+              [
+                -72.849915344532,
+                43.23494741141207
+              ],
+              [
+                -72.85073820568206,
+                43.235281552194785
+              ],
+              [
+                -72.85085071446599,
+                43.235418410580586
+              ],
+              [
+                -72.8515850707192,
+                43.2358184991695
+              ],
+              [
+                -72.85191162571874,
+                43.23586670589241
+              ],
+              [
+                -72.85215423424371,
+                43.23608095573517
+              ],
+              [
+                -72.8525033619982,
+                43.23609931725332
+              ],
+              [
+                -72.85353213547243,
+                43.235788777103885
+              ],
+              [
+                -72.8537404939191,
+                43.23579846664727
+              ],
+              [
+                -72.85414675445155,
+                43.235945315588715
+              ],
+              [
+                -72.85480174948339,
+                43.23590556732513
+              ],
+              [
+                -72.85496457931497,
+                43.23595930480252
+              ],
+              [
+                -72.85510713768211,
+                43.23592255240768
+              ],
+              [
+                -72.8548757551686,
+                43.2358010787298
+              ],
+              [
+                -72.85502612040088,
+                43.23576781187387
+              ],
+              [
+                -72.85518508213671,
+                43.235834745435305
+              ],
+              [
+                -72.85532762103023,
+                43.23601973761007
+              ],
+              [
+                -72.8553195303277,
+                43.23653956638446
+              ],
+              [
+                -72.85547962897459,
+                43.2368986796131
+              ],
+              [
+                -72.85609068653956,
+                43.23736076399353
+              ],
+              [
+                -72.85623266358273,
+                43.23740447575984
+              ],
+              [
+                -72.85644762462869,
+                43.23730075244482
+              ],
+              [
+                -72.85664878552417,
+                43.237392205562095
+              ],
+              [
+                -72.85680029089258,
+                43.2376827627156
+              ],
+              [
+                -72.85708745522624,
+                43.2378748140506
+              ],
+              [
+                -72.85708485687114,
+                43.23810621458968
+              ],
+              [
+                -72.8570847886094,
+                43.23810633182126
+              ],
+              [
+                -72.85706568957895,
+                43.238186721950136
+              ],
+              [
+                -72.85728797051065,
+                43.2382710247831
+              ],
+              [
+                -72.85730227757858,
+                43.23814682164919
+              ],
+              [
+                -72.85723445348412,
+                43.238066011643966
+              ],
+              [
+                -72.85723438530223,
+                43.2380659317442
+              ],
+              [
+                -72.85714744278374,
+                43.23797086011976
+              ],
+              [
+                -72.85726154801968,
+                43.23805861427358
+              ],
+              [
+                -72.85726162112098,
+                43.23805869325782
+              ],
+              [
+                -72.85762281101827,
+                43.23840436257356
+              ],
+              [
+                -72.85765510842623,
+                43.238609105208795
+              ],
+              [
+                -72.85757205960108,
+                43.23909549570324
+              ],
+              [
+                -72.85767535504881,
+                43.23954000779471
+              ],
+              [
+                -72.857832688888,
+                43.23967036763864
+              ],
+              [
+                -72.85817419388817,
+                43.240306831792914
+              ],
+              [
+                -72.85835376107663,
+                43.24051268101424
+              ],
+              [
+                -72.8583785915106,
+                43.24065723175592
+              ],
+              [
+                -72.85851486983483,
+                43.24075616782567
+              ],
+              [
+                -72.85872468613026,
+                43.24076033033614
+              ],
+              [
+                -72.85892068947518,
+                43.240842356680396
+              ],
+              [
+                -72.85912775837521,
+                43.24074282440795
+              ],
+              [
+                -72.85925743116292,
+                43.24079312675094
+              ],
+              [
+                -72.85916319524723,
+                43.24126400429061
+              ],
+              [
+                -72.85899226803798,
+                43.241548710222105
+              ],
+              [
+                -72.85912281760952,
+                43.2420817353401
+              ],
+              [
+                -72.85943615536532,
+                43.24237044389018
+              ],
+              [
+                -72.85960177247229,
+                43.24242510658768
+              ],
+              [
+                -72.85968962342936,
+                43.24252970591334
+              ],
+              [
+                -72.85974786024651,
+                43.242520504267155
+              ],
+              [
+                -72.85992173187027,
+                43.242644080596826
+              ],
+              [
+                -72.85972632793893,
+                43.24278693832167
+              ],
+              [
+                -72.85968335641415,
+                43.24311366284934
+              ],
+              [
+                -72.85983554542635,
+                43.2432535631269
+              ],
+              [
+                -72.85986520579037,
+                43.24343009201542
+              ],
+              [
+                -72.85980709053956,
+                43.24348143436755
+              ],
+              [
+                -72.85995221152726,
+                43.24373985224822
+              ],
+              [
+                -72.85988200160668,
+                43.24391052575067
+              ],
+              [
+                -72.85966399850784,
+                43.2440557912
+              ],
+              [
+                -72.85963831225268,
+                43.24417635409627
+              ],
+              [
+                -72.85950612640863,
+                43.24428689109708
+              ],
+              [
+                -72.85944579914032,
+                43.24460722497998
+              ],
+              [
+                -72.85954043246471,
+                43.244799313015285
+              ],
+              [
+                -72.85946161483925,
+                43.24499412987012
+              ],
+              [
+                -72.85956564848009,
+                43.24568609980719
+              ],
+              [
+                -72.85945168356533,
+                43.24587106163101
+              ],
+              [
+                -72.85954596611074,
+                43.24628978196726
+              ],
+              [
+                -72.85950218762814,
+                43.24661301801733
+              ],
+              [
+                -72.85965930662752,
+                43.24693142612705
+              ],
+              [
+                -72.8595584014994,
+                43.24708636055842
+              ],
+              [
+                -72.85943728659753,
+                43.24703144911044
+              ],
+              [
+                -72.85944939957947,
+                43.24712736878559
+              ],
+              [
+                -72.85930959339436,
+                43.247259466223326
+              ],
+              [
+                -72.85924938908968,
+                43.247480482397286
+              ],
+              [
+                -72.85929029388323,
+                43.2475906473045
+              ],
+              [
+                -72.85915782224335,
+                43.24780479636084
+              ],
+              [
+                -72.85903742117063,
+                43.2484888070061
+              ],
+              [
+                -72.85887061873197,
+                43.24890404867519
+              ],
+              [
+                -72.85868333077349,
+                43.249095799859106
+              ],
+              [
+                -72.85857175151396,
+                43.24934974270304
+              ],
+              [
+                -72.85872486002573,
+                43.250659219273686
+              ],
+              [
+                -72.8588970575356,
+                43.25095546086621
+              ],
+              [
+                -72.85942469360411,
+                43.251249808230305
+              ],
+              [
+                -72.859494358123,
+                43.25154547176256
+              ],
+              [
+                -72.85930790268182,
+                43.25200513902292
+              ],
+              [
+                -72.85907827479812,
+                43.25212895422814
+              ],
+              [
+                -72.85897384646046,
+                43.25210862825937
+              ],
+              [
+                -72.85861855014603,
+                43.25219640724956
+              ],
+              [
+                -72.85851879058755,
+                43.252324338228924
+              ],
+              [
+                -72.8585944134825,
+                43.25243507408226
+              ],
+              [
+                -72.85875212450934,
+                43.2524455541001
+              ],
+              [
+                -72.8587031921352,
+                43.25239796141026
+              ],
+              [
+                -72.85874700656592,
+                43.25227268742004
+              ],
+              [
+                -72.85885069544818,
+                43.25221359834235
+              ],
+              [
+                -72.85928482334398,
+                43.25211546159148
+              ],
+              [
+                -72.85951786287333,
+                43.2518322816149
+              ],
+              [
+                -72.85950723604162,
+                43.25170971140221
+              ],
+              [
+                -72.85964396078079,
+                43.2514206219302
+              ],
+              [
+                -72.85954371588839,
+                43.251261362862074
+              ],
+              [
+                -72.85940474330815,
+                43.251183491859194
+              ],
+              [
+                -72.85938356243025,
+                43.25108359601121
+              ],
+              [
+                -72.85895336557921,
+                43.2508999435586
+              ],
+              [
+                -72.85885092176156,
+                43.25076903889143
+              ],
+              [
+                -72.85869673196905,
+                43.25000648325243
+              ],
+              [
+                -72.85872844375136,
+                43.249591058029644
+              ],
+              [
+                -72.85865563739962,
+                43.24941118257404
+              ],
+              [
+                -72.85871482633927,
+                43.24921601660986
+              ],
+              [
+                -72.85898111791438,
+                43.24884228626727
+              ],
+              [
+                -72.85921168160651,
+                43.248227250602106
+              ],
+              [
+                -72.85915875096973,
+                43.24810935972156
+              ],
+              [
+                -72.85920442054116,
+                43.24805716837985
+              ],
+              [
+                -72.8593033035992,
+                43.248116519177955
+              ],
+              [
+                -72.85938248919962,
+                43.24796216901538
+              ],
+              [
+                -72.85935022205787,
+                43.24774286013122
+              ],
+              [
+                -72.8595703906055,
+                43.24745698564108
+              ],
+              [
+                -72.85991825156746,
+                43.2471511111588
+              ],
+              [
+                -72.86000896681831,
+                43.24694962888153
+              ],
+              [
+                -72.85994271361295,
+                43.24683716400765
+              ],
+              [
+                -72.85967717643639,
+                43.246670708887336
+              ],
+              [
+                -72.85978037986249,
+                43.246590106166984
+              ],
+              [
+                -72.8597201719796,
+                43.2465412207152
+              ],
+              [
+                -72.85988145983859,
+                43.24624276400418
+              ],
+              [
+                -72.85985647876733,
+                43.24620854811203
+              ],
+              [
+                -72.85969777553542,
+                43.24624688917478
+              ],
+              [
+                -72.85969088453979,
+                43.24625352327927
+              ],
+              [
+                -72.85975966149353,
+                43.24635416062057
+              ],
+              [
+                -72.8596730815726,
+                43.24627066303477
+              ],
+              [
+                -72.85969088453979,
+                43.24625352327927
+              ],
+              [
+                -72.85968796946634,
+                43.24624925767462
+              ],
+              [
+                -72.85969777553542,
+                43.24624688917478
+              ],
+              [
+                -72.85983842100032,
+                43.24611147518082
+              ],
+              [
+                -72.85969287932741,
+                43.24589001298599
+              ],
+              [
+                -72.85977793601303,
+                43.245858722143126
+              ],
+              [
+                -72.85976663688841,
+                43.24591515692767
+              ],
+              [
+                -72.85988410274825,
+                43.24592407240047
+              ],
+              [
+                -72.85988918319133,
+                43.24582575379392
+              ],
+              [
+                -72.85953428630005,
+                43.24501004012818
+              ],
+              [
+                -72.85962535279096,
+                43.24479720619355
+              ],
+              [
+                -72.85962388593593,
+                43.2444593022134
+              ],
+              [
+                -72.85969955911669,
+                43.2443735670593
+              ],
+              [
+                -72.85965157946261,
+                43.24431866166095
+              ],
+              [
+                -72.85974353409134,
+                43.24425993263985
+              ],
+              [
+                -72.85971775119873,
+                43.244143281567894
+              ],
+              [
+                -72.85992233808555,
+                43.24398335621886
+              ],
+              [
+                -72.86004666661687,
+                43.243693603674345
+              ],
+              [
+                -72.859978539179,
+                43.24332998534214
+              ],
+              [
+                -72.85978929175063,
+                43.24308821486588
+              ],
+              [
+                -72.85980348637638,
+                43.242900396165105
+              ],
+              [
+                -72.85995051521274,
+                43.24271766393318
+              ],
+              [
+                -72.8600991207455,
+                43.24269762716351
+              ],
+              [
+                -72.86081115747606,
+                43.24295179614236
+              ],
+              [
+                -72.86117615623095,
+                43.242903636234075
+              ],
+              [
+                -72.86130343981932,
+                43.243036131215014
+              ],
+              [
+                -72.86145910146384,
+                43.24310323831206
+              ],
+              [
+                -72.86128946185923,
+                43.24289854009825
+              ],
+              [
+                -72.86132667503851,
+                43.24286481757435
+              ],
+              [
+                -72.86164994887639,
+                43.24299552637141
+              ],
+              [
+                -72.86184374123,
+                43.242951125262266
+              ],
+              [
+                -72.86193501149599,
+                43.242978829136256
+              ],
+              [
+                -72.86211548360716,
+                43.24286167165101
+              ],
+              [
+                -72.86230974789262,
+                43.24284779386295
+              ],
+              [
+                -72.86190400535382,
+                43.24277539979496
+              ],
+              [
+                -72.8618361505153,
+                43.242682350758066
+              ],
+              [
+                -72.8616189609756,
+                43.24276004915015
+              ],
+              [
+                -72.86152837215093,
+                43.24267051483488
+              ],
+              [
+                -72.86153586240282,
+                43.24260644967951
+              ],
+              [
+                -72.8619114800941,
+                43.24259437565053
+              ],
+              [
+                -72.86205681208013,
+                43.242535062708235
+              ],
+              [
+                -72.86219440228436,
+                43.24257044380011
+              ],
+              [
+                -72.86237581760706,
+                43.242735276611285
+              ],
+              [
+                -72.86228930458695,
+                43.24265261967227
+              ],
+              [
+                -72.86228507495431,
+                43.242582352701646
+              ],
+              [
+                -72.86235614497323,
+                43.2425851952882
+              ],
+              [
+                -72.86278503891211,
+                43.24325548115018
+              ],
+              [
+                -72.86288121816577,
+                43.243309562651824
+              ],
+              [
+                -72.86327330353156,
+                43.243286929959545
+              ],
+              [
+                -72.86336423801173,
+                43.24325959999913
+              ],
+              [
+                -72.86333679040307,
+                43.24311150676447
+              ],
+              [
+                -72.86359254579268,
+                43.242819399320425
+              ],
+              [
+                -72.86369787413379,
+                43.242775686671415
+              ],
+              [
+                -72.86386948618204,
+                43.24255454680974
+              ],
+              [
+                -72.8643617060585,
+                43.24223898275644
+              ],
+              [
+                -72.86457295392485,
+                43.241945642115006
+              ],
+              [
+                -72.8649998931918,
+                43.241900546400274
+              ],
+              [
+                -72.86501087025633,
+                43.24173293377012
+              ],
+              [
+                -72.86432303089555,
+                43.24181232169817
+              ],
+              [
+                -72.8637873834134,
+                43.24203614714455
+              ],
+              [
+                -72.8635504731824,
+                43.24223343184875
+              ],
+              [
+                -72.8634557178696,
+                43.242402128763224
+              ],
+              [
+                -72.86353337594885,
+                43.24271429239366
+              ],
+              [
+                -72.86297095570698,
+                43.243199632604245
+              ],
+              [
+                -72.8628698644901,
+                43.2431880021353
+              ],
+              [
+                -72.8628179846947,
+                43.24310612687977
+              ],
+              [
+                -72.86281407152174,
+                43.24283325684296
+              ],
+              [
+                -72.86269505698567,
+                43.242807268193005
+              ],
+              [
+                -72.8626547793734,
+                43.242742502871536
+              ],
+              [
+                -72.86283504932148,
+                43.24273935233685
+              ],
+              [
+                -72.86264849373651,
+                43.24273441342129
+              ],
+              [
+                -72.86248199390033,
+                43.24248722662122
+              ],
+              [
+                -72.86252730851434,
+                43.24244820140279
+              ],
+              [
+                -72.8624780771805,
+                43.242346411853795
+              ],
+              [
+                -72.86204226325738,
+                43.24221774397026
+              ],
+              [
+                -72.86176849144974,
+                43.24204865160437
+              ],
+              [
+                -72.86182185401096,
+                43.242016747437006
+              ],
+              [
+                -72.86191876551949,
+                43.24207561259863
+              ],
+              [
+                -72.86175741996544,
+                43.24193670267191
+              ],
+              [
+                -72.86119874721561,
+                43.242067373721916
+              ],
+              [
+                -72.86112082386133,
+                43.24215737467427
+              ],
+              [
+                -72.86108232984995,
+                43.242392595216664
+              ],
+              [
+                -72.86065574394783,
+                43.24254792905824
+              ],
+              [
+                -72.86008621057212,
+                43.242470757369794
+              ],
+              [
+                -72.86011170649282,
+                43.24240824598029
+              ],
+              [
+                -72.86025806762646,
+                43.24241157564783
+              ],
+              [
+                -72.85965957200851,
+                43.2422371391015
+              ],
+              [
+                -72.85923765964023,
+                43.241948374301934
+              ],
+              [
+                -72.85913088179619,
+                43.24163828933862
+              ],
+              [
+                -72.85926904994186,
+                43.2413347201005
+              ],
+              [
+                -72.85954036196223,
+                43.24119317821794
+              ],
+              [
+                -72.85945909998252,
+                43.24111825463263
+              ],
+              [
+                -72.859541784431,
+                43.24106991640587
+              ],
+              [
+                -72.85953207392166,
+                43.2407592368051
+              ],
+              [
+                -72.85930850272815,
+                43.24061080730546
+              ],
+              [
+                -72.85912437043106,
+                43.24067329997068
+              ],
+              [
+                -72.85869044935974,
+                43.24063360767557
+              ],
+              [
+                -72.85831650548641,
+                43.24021963943208
+              ],
+              [
+                -72.8584726371809,
+                43.24035505734253
+              ],
+              [
+                -72.85852003659852,
+                43.24033859822703
+              ],
+              [
+                -72.85810993298301,
+                43.239703806303616
+              ],
+              [
+                -72.85808364846784,
+                43.239463415585064
+              ],
+              [
+                -72.85816736870404,
+                43.239390527316466
+              ],
+              [
+                -72.85824894211015,
+                43.23941608886747
+              ],
+              [
+                -72.85840613872637,
+                43.23924162328003
+              ],
+              [
+                -72.8584835359493,
+                43.239313626186835
+              ],
+              [
+                -72.85844289217106,
+                43.239397790826324
+              ],
+              [
+                -72.85855165986226,
+                43.23941166231551
+              ],
+              [
+                -72.85852572969269,
+                43.239343060030095
+              ],
+              [
+                -72.85860332361334,
+                43.23937276905399
+              ],
+              [
+                -72.8584706695688,
+                43.239713241446054
+              ],
+              [
+                -72.85850228011309,
+                43.23974583825297
+              ],
+              [
+                -72.85857531860255,
+                43.23961801057854
+              ],
+              [
+                -72.85868612157222,
+                43.23991831970991
+              ],
+              [
+                -72.85871747596848,
+                43.23961948670296
+              ],
+              [
+                -72.85878657790812,
+                43.239552339921595
+              ],
+              [
+                -72.85882026487312,
+                43.23979986788637
+              ],
+              [
+                -72.85889183992116,
+                43.239701381136335
+              ],
+              [
+                -72.85918229301944,
+                43.23987521324511
+              ],
+              [
+                -72.8591011475462,
+                43.23961262377387
+              ],
+              [
+                -72.858898315403,
+                43.23940968683363
+              ],
+              [
+                -72.85871495604505,
+                43.239037575132166
+              ],
+              [
+                -72.85818134704616,
+                43.23854186536918
+              ],
+              [
+                -72.85797987797976,
+                43.2378465427622
+              ],
+              [
+                -72.85797988099348,
+                43.237846426634384
+              ],
+              [
+                -72.85782544465236,
+                43.23768847481883
+              ],
+              [
+                -72.85771431651253,
+                43.23736756328667
+              ],
+              [
+                -72.8577485078928,
+                43.23720793039573
+              ],
+              [
+                -72.8576268510253,
+                43.237208287378444
+              ],
+              [
+                -72.85710246612922,
+                43.236770559573635
+              ],
+              [
+                -72.8568381798817,
+                43.23669126886384
+              ],
+              [
+                -72.85658306564208,
+                43.23670347816305
+              ],
+              [
+                -72.85616615220358,
+                43.23688344266638
+              ],
+              [
+                -72.8559849617689,
+                43.23685119104224
+              ],
+              [
+                -72.85592471625321,
+                43.23679091231575
+              ],
+              [
+                -72.8555265130841,
+                43.23674287134112
+              ],
+              [
+                -72.85549976948705,
+                43.236060864983756
+              ],
+              [
+                -72.85534705035974,
+                43.23582556325958
+              ],
+              [
+                -72.85513487741245,
+                43.23567996511316
+              ],
+              [
+                -72.85483630886897,
+                43.23568596840254
+              ],
+              [
+                -72.85453065641472,
+                43.23582960130556
+              ],
+              [
+                -72.85418256964455,
+                43.23582777477391
+              ],
+              [
+                -72.85372671312625,
+                43.235678306881866
+              ],
+              [
+                -72.8530292860475,
+                43.23577389788675
+              ],
+              [
+                -72.8526785999084,
+                43.2357747086182
+              ],
+              [
+                -72.85236791342815,
+                43.235667190699886
+              ],
+              [
+                -72.8519852917034,
+                43.235683951885946
+              ],
+              [
+                -72.85165076364441,
+                43.23557174271607
+              ],
+              [
+                -72.85164288111896,
+                43.23547354065133
+              ],
+              [
+                -72.85171401520984,
+                43.235469994144374
+              ],
+              [
+                -72.85156205830879,
+                43.23533815012361
+              ],
+              [
+                -72.85117953658857,
+                43.23518698663967
+              ],
+              [
+                -72.85098551548893,
+                43.235051744206935
+              ],
+              [
+                -72.85048987224027,
+                43.23461946059547
+              ],
+              [
+                -72.84990690334607,
+                43.23447327517848
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.86595629906176,
+                43.22729450928549
+              ],
+              [
+                -72.86568196244957,
+                43.22729477804328
+              ],
+              [
+                -72.86521498867975,
+                43.22761554819764
+              ],
+              [
+                -72.86486681804506,
+                43.22763541908912
+              ],
+              [
+                -72.8647551058297,
+                43.22754477256482
+              ],
+              [
+                -72.86456812113754,
+                43.22750923861686
+              ],
+              [
+                -72.86434957071793,
+                43.2276944023102
+              ],
+              [
+                -72.86442699973823,
+                43.227736257219064
+              ],
+              [
+                -72.86459559639138,
+                43.22764533925413
+              ],
+              [
+                -72.8646653965828,
+                43.22791155311394
+              ],
+              [
+                -72.86442506661336,
+                43.22806120006957
+              ],
+              [
+                -72.86432976995562,
+                43.22794729242966
+              ],
+              [
+                -72.86434033815459,
+                43.22779480497779
+              ],
+              [
+                -72.86423935062243,
+                43.227801313249294
+              ],
+              [
+                -72.86429080659946,
+                43.22794123522132
+              ],
+              [
+                -72.86416450942261,
+                43.227965864705844
+              ],
+              [
+                -72.86410884418576,
+                43.227914112581146
+              ],
+              [
+                -72.86417794398342,
+                43.22814465804979
+              ],
+              [
+                -72.86407883501757,
+                43.22802739309931
+              ],
+              [
+                -72.86391111391666,
+                43.228074183353336
+              ],
+              [
+                -72.86377627029917,
+                43.22839017299468
+              ],
+              [
+                -72.86388774971857,
+                43.22850995616076
+              ],
+              [
+                -72.8640119247144,
+                43.22847188828619
+              ],
+              [
+                -72.8640523727354,
+                43.22851865527467
+              ],
+              [
+                -72.86417584343202,
+                43.228500422334974
+              ],
+              [
+                -72.86401815094844,
+                43.22846049155521
+              ],
+              [
+                -72.86408249992174,
+                43.228441287440575
+              ],
+              [
+                -72.86419826298943,
+                43.22850075422737
+              ],
+              [
+                -72.86415610593248,
+                43.228527546192254
+              ],
+              [
+                -72.8642428237168,
+                43.22861426092814
+              ],
+              [
+                -72.86452389426488,
+                43.22876200102706
+              ],
+              [
+                -72.86490546960958,
+                43.22883499419351
+              ],
+              [
+                -72.86495816840056,
+                43.228906961814836
+              ],
+              [
+                -72.86517263246517,
+                43.22899737468585
+              ],
+              [
+                -72.86545592013104,
+                43.229272819611005
+              ],
+              [
+                -72.86566693892729,
+                43.229939522682585
+              ],
+              [
+                -72.86562363715656,
+                43.23003291417147
+              ],
+              [
+                -72.86577473844343,
+                43.23006823526079
+              ],
+              [
+                -72.86595629906176,
+                43.22729450928549
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.85146293541465,
+                43.2152589101819
+              ],
+              [
+                -72.85109566617209,
+                43.215361024393545
+              ],
+              [
+                -72.85103143117185,
+                43.21572047340227
+              ],
+              [
+                -72.85129810994017,
+                43.215989254846164
+              ],
+              [
+                -72.85116981611962,
+                43.215984057022666
+              ],
+              [
+                -72.8511004778527,
+                43.21608601694351
+              ],
+              [
+                -72.85117731895315,
+                43.21625797811403
+              ],
+              [
+                -72.85134406173937,
+                43.21633261573051
+              ],
+              [
+                -72.85117081682839,
+                43.216386859364675
+              ],
+              [
+                -72.85121071767287,
+                43.216480574388825
+              ],
+              [
+                -72.85147931250924,
+                43.21654867366825
+              ],
+              [
+                -72.85159680936867,
+                43.21673517120378
+              ],
+              [
+                -72.85154376646972,
+                43.2168243253307
+              ],
+              [
+                -72.85180661263472,
+                43.21700024386666
+              ],
+              [
+                -72.85192722587409,
+                43.21696065084176
+              ],
+              [
+                -72.85207904589838,
+                43.217243615317884
+              ],
+              [
+                -72.85213267324374,
+                43.21723706462967
+              ],
+              [
+                -72.85204083215233,
+                43.21752884328497
+              ],
+              [
+                -72.85196715619045,
+                43.21748740493304
+              ],
+              [
+                -72.85178564148934,
+                43.21753908071086
+              ],
+              [
+                -72.85173485776866,
+                43.217670184659276
+              ],
+              [
+                -72.85179219852839,
+                43.21777363402194
+              ],
+              [
+                -72.85194272646723,
+                43.21781949883954
+              ],
+              [
+                -72.85191349234638,
+                43.217847623808446
+              ],
+              [
+                -72.85179569908298,
+                43.21778694721414
+              ],
+              [
+                -72.85179883692562,
+                43.21783928733823
+              ],
+              [
+                -72.8519512056433,
+                43.21788846622071
+              ],
+              [
+                -72.8518401702153,
+                43.218087400599345
+              ],
+              [
+                -72.85185135292295,
+                43.218314049881855
+              ],
+              [
+                -72.85198708157269,
+                43.21835405969711
+              ],
+              [
+                -72.85180342541344,
+                43.21836916286816
+              ],
+              [
+                -72.85177806357586,
+                43.21855452862645
+              ],
+              [
+                -72.85190665460432,
+                43.21843988936708
+              ],
+              [
+                -72.85194589561291,
+                43.21847066344967
+              ],
+              [
+                -72.851801966493,
+                43.21861613489903
+              ],
+              [
+                -72.85194296396602,
+                43.2186450846758
+              ],
+              [
+                -72.8520034274787,
+                43.21857376284709
+              ],
+              [
+                -72.85203244145585,
+                43.21868189357081
+              ],
+              [
+                -72.85185412620415,
+                43.21866129141669
+              ],
+              [
+                -72.85177126487964,
+                43.21872840994744
+              ],
+              [
+                -72.85182592565626,
+                43.21878876764567
+              ],
+              [
+                -72.85193509830725,
+                43.21875642267299
+              ],
+              [
+                -72.85194457881857,
+                43.218802805911935
+              ],
+              [
+                -72.85174906774219,
+                43.218929930769946
+              ],
+              [
+                -72.85188576855701,
+                43.219122928241205
+              ],
+              [
+                -72.85187798139508,
+                43.21930509032924
+              ],
+              [
+                -72.85194257557315,
+                43.219324389681944
+              ],
+              [
+                -72.85186256949132,
+                43.21952131396181
+              ],
+              [
+                -72.85203564209682,
+                43.219510137294684
+              ],
+              [
+                -72.85211656117096,
+                43.21955110592117
+              ],
+              [
+                -72.85232853849053,
+                43.21965706200077
+              ],
+              [
+                -72.85252350865512,
+                43.21941897870803
+              ],
+              [
+                -72.85259281628096,
+                43.21922517083558
+              ],
+              [
+                -72.85252089403551,
+                43.21881452286795
+              ],
+              [
+                -72.85224239358598,
+                43.21845561683151
+              ],
+              [
+                -72.85224206688211,
+                43.218357809816816
+              ],
+              [
+                -72.8521387549302,
+                43.218370058396836
+              ],
+              [
+                -72.85215466387719,
+                43.21812664155453
+              ],
+              [
+                -72.85210605279312,
+                43.21817881599764
+              ],
+              [
+                -72.85202253950646,
+                43.218135438444676
+              ],
+              [
+                -72.8521542640577,
+                43.21802465898323
+              ],
+              [
+                -72.85207737897217,
+                43.217934909864724
+              ],
+              [
+                -72.85212965045956,
+                43.21785732475414
+              ],
+              [
+                -72.85206629352646,
+                43.21775075436885
+              ],
+              [
+                -72.85212972953745,
+                43.21775150608319
+              ],
+              [
+                -72.85220843915637,
+                43.2178982530781
+              ],
+              [
+                -72.8522526004943,
+                43.21788367787337
+              ],
+              [
+                -72.85227077618231,
+                43.217668093721684
+              ],
+              [
+                -72.85238872894347,
+                43.21758266578515
+              ],
+              [
+                -72.85223476099927,
+                43.21726969479042
+              ],
+              [
+                -72.85222477032417,
+                43.217199677105704
+              ],
+              [
+                -72.8523001763899,
+                43.217138469041906
+              ],
+              [
+                -72.85217904723827,
+                43.21710319261984
+              ],
+              [
+                -72.8521010843115,
+                43.21688452973485
+              ],
+              [
+                -72.8521770814338,
+                43.216873674988555
+              ],
+              [
+                -72.85203426289162,
+                43.21676067367335
+              ],
+              [
+                -72.85179030450199,
+                43.21668414389066
+              ],
+              [
+                -72.85183348575204,
+                43.216484677392096
+              ],
+              [
+                -72.85172908559473,
+                43.216479007046566
+              ],
+              [
+                -72.85177099960099,
+                43.2163419092712
+              ],
+              [
+                -72.85167425309481,
+                43.216478981184295
+              ],
+              [
+                -72.85160588643382,
+                43.21628259495394
+              ],
+              [
+                -72.85155529471349,
+                43.21628054597489
+              ],
+              [
+                -72.85159872927252,
+                43.216409557329776
+              ],
+              [
+                -72.85152263634434,
+                43.216429790607215
+              ],
+              [
+                -72.85151538761227,
+                43.21634672221033
+              ],
+              [
+                -72.85141680389287,
+                43.21629469959586
+              ],
+              [
+                -72.8515852469739,
+                43.216130951387896
+              ],
+              [
+                -72.85160888552474,
+                43.21623242960452
+              ],
+              [
+                -72.85162710318347,
+                43.21614228430468
+              ],
+              [
+                -72.85155301988665,
+                43.216082087885155
+              ],
+              [
+                -72.85142245745098,
+                43.21616152183895
+              ],
+              [
+                -72.85156616780138,
+                43.21564653344075
+              ],
+              [
+                -72.85140068358275,
+                43.21536362817729
+              ],
+              [
+                -72.85146293541465,
+                43.2152589101819
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "OBJECTID_1": 896,
+        "Jurisdiction_District_Name": "Bennington Landgrove Regulated Flood Hazard Area Overlay",
+        "County": "Bennington",
+        "Jurisdiction": "Bennington Landgrove ",
+        "Abbreviated_District_Name": "Rfha",
+        "District_Name": "Regulated Flood Hazard Area Overlay",
+        "District_Mapped": "Yes",
+        "Overlay_District": "Yes",
+        "Extinct_District": null,
+        "District_Type": "Overlay not Affecting Use",
+        "Affordable_Housing_District": "No",
+        "Elderly_Housing_District": "No",
+        "F1F_Allowance": "Overlay",
+        "F2F_Allowance": "Overlay",
+        "F3F_Allowance": "Overlay",
+        "F4F_Allowance": "Overlay",
+        "F5F_Allowance": null,
+        "ADU_Allowance": "Not Mentioned",
+        "Affordable_Housing_Allowance": "Not Mentioned",
+        "PRD_Allowance": "Not Mentioned",
+        "NOTES": " \"The Uses Allowed In The Underlying District Are Allowed to The Same Extent Within This Overlay District Provided That The Applicant Demonstrates Compliance With Section 813 Or Sections 813-826 As Applicable\" (Page 80 Of Landgrove Bylaws) ",
+        "F1F_Min_Lot": null,
+        "F1F_Front_Setback": null,
+        "F1F_Side_Setback": null,
+        "F1F_Rear_Setback": null,
+        "F1F_Frontage": null,
+        "F1F_Max_Lot_Building_Coverage": null,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": null,
+        "F1F_Max_Stories": null,
+        "F1F_Max_Height": null,
+        "F1F_Floor_to_Area_Ratio": null,
+        "F1F_Min_Unit_Size": null,
+        "F2F_Affordable_Housing_Only": "No",
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Min_Lot_Size": null,
+        "F2F_Max_Density": null,
+        "F2F_Front_Setback": null,
+        "F2F_Side_Setback": null,
+        "F2F_Rear_Setback": null,
+        "F2F_Frontage": null,
+        "F2F_Max_Lot_Building_Coverage": null,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": null,
+        "F2F_Min_Parking_Spaces_per_mult_BR": null,
+        "F2F_Max_Stories": null,
+        "F2F_Max_Height": null,
+        "F2F_Floor_to_Area_Ratio": null,
+        "F2F_Min_Unit_Size": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Elderly_Housing_Only": "No",
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Density": null,
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Connection_to_Sewage_Water_Required": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Max_Stories": null,
+        "F3F_Max_Height": null,
+        "F3F_Floor_to_Area_Ratio": null,
+        "F3F_Min_Unit_Size": null,
+        "F3F_Max_Bedrooms": null,
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Density": null,
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per__mult_BR": null,
+        "F4F_Connection_to_Sewage_Water_Required": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Max_Stories": null,
+        "F4F_Max_Height": null,
+        "F4F_Floor_to_Area_Ratio": null,
+        "F4F_Min_Unit_Size": null,
+        "F4F_Max_Bedrooms": null,
+        "F4F_Max_Units_per_Building": null,
+        "F5F_Affordable_Housing_Only": null,
+        "F5F_Elderly_Housing_Only": null,
+        "F5F_Min_Lot_Size": null,
+        "F5F_Max_Density": null,
+        "F5F_Front_Setback": null,
+        "F5F_Side_Setback": null,
+        "F5F_Rear_Setback": null,
+        "F5F_Frontage": null,
+        "F5F_Max_Lot_Building_Coverage": null,
+        "F5F_Max__Lot_Impervious_Coverage": null,
+        "F5F_Min_Parking_Spaces_per_1BR": null,
+        "F5F_Min_Parking_Spaces_per_mult_BR": null,
+        "F5F_Connection_to_Sewage_Water_Required": null,
+        "F5F_Proximity_to_Public_Transit_Required": null,
+        "F5F_Max_Stories": null,
+        "F5F_Max_Height": null,
+        "F5F_Floor_to_Area_Ratio": null,
+        "F5F_Min_Unit_Size": null,
+        "F5F_Max_Bedrooms": null,
+        "F5F_Max_Units_per_Building": null,
+        "Affordable_Housing_Definition": null,
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Min_Unit_Size": null,
+        "Affordable_Housing_Max_Bedrooms": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Min_Lot_Size": null,
+        "ADU_Min_Parking_Spaces": null,
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Max_Bedrooms": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PRD_Min_Lot_Size": null,
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PUD_Required_with_Subdivision": null,
+        "PUD_Threshold_Number": null,
+        "PUD_Allowance": null,
+        "PUD_Requires_Land_Conservation": null,
+        "Base_Density": null,
+        "CONDITIONAL_1F_Min_Lot": null,
+        "CONDITIONAL_1F_Front_Setback": null,
+        "CONDITIONAL_1F_Side_Setback": null,
+        "CONDITIONAL_1F_Rear_Setback": null,
+        "CONDITIONAL_1F_Frontage": null,
+        "CONDITIONAL_1F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_1F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_1F_Min_Parking_Spaces": null,
+        "CONDITIONAL_1F_Max_Stories": null,
+        "CONDITIONAL_1F_Max_Height": null,
+        "CONDITIONAL_1F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_1F_Min_Unit_Size": null,
+        "CONDITIONAL_2F_Affordable_Housing_Only": null,
+        "CONDITIONAL_2F_Elderly_Housing_Only": null,
+        "CONDITIONAL_2F_Min_Lot_Size": null,
+        "CONDITIONAL_2F_Max_Density": null,
+        "CONDITIONAL_2F_Front_Setback": null,
+        "CONDITIONAL_2F_Side_Setback": null,
+        "CONDITIONAL_2F_Rear_Setback": null,
+        "CONDITIONAL_2F_Frontage": null,
+        "CONDITIONAL_2F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_2F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_2F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_2F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_2F_Max_Stories": null,
+        "CONDITIONAL_2F_Max_Height": null,
+        "CONDITIONAL_2F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_2F_Min_Unit_Size": null,
+        "CONDITIONAL_3F_Affordable_Housing_Only": null,
+        "CONDITIONAL_3F_Elderly_Housing_Only": null,
+        "CONDITIONAL_3F_Min_Lot_Size": null,
+        "CONDITIONAL_3F_Max_Density": null,
+        "CONDITIONAL_3F_Front_Setback": null,
+        "CONDITIONAL_3F_Side_Setback": null,
+        "CONDITIONAL_3F_Rear_Setback": null,
+        "CONDITIONAL_3F_Frontage": null,
+        "CONDITIONAL_3F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_3F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_3F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_3F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_3F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_3F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_3F_Max_Stories": null,
+        "CONDITIONAL_3F_Max_Height": null,
+        "CONDITIONAL_3F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_3F_Min_Unit_Size": null,
+        "CONDITIONAL_3F_Max_Bedrooms": null,
+        "CONDITIONAL_4F_Affordable_Housing_Only": null,
+        "CONDITIONAL_4F_Elderly_Housing_Only": null,
+        "CONDITIONAL_4F_Min_Lot_Size": null,
+        "CONDITIONAL_4F_Max_Density": null,
+        "CONDITIONAL_4F_Front_Setback": null,
+        "CONDITIONAL_4F_Side_Setback": null,
+        "CONDITIONAL_4F_Rear_Setback": null,
+        "CONDITIONAL_4F_Frontage": null,
+        "CONDITIONAL_4F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_4F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_4F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_4F_Min_Parking_Spaces_per__mult_BR": null,
+        "CONDITIONAL_4F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_4F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_4F_Max_Stories": null,
+        "CONDITIONAL_4F_Max_Height": null,
+        "CONDITIONAL_4F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_4F_Min_Unit_Size": null,
+        "CONDITIONAL_4F_Max_Bedrooms": null,
+        "CONDITIONAL_4F_Max_Units_per_Building": null,
+        "CONDITIONAL_5F_Affordable_Housing_Only": null,
+        "CONDITIONAL_5F_Elderly_Housing_Only": null,
+        "CONDITIONAL_5F_Min_Lot_Size": null,
+        "CONDITIONAL_5F_Max_Density": null,
+        "CONDITIONAL_5F_Front_Setback": null,
+        "CONDITIONAL_5F_Side_Setback": null,
+        "CONDITIONAL_5F_Rear_Setback": null,
+        "CONDITIONAL_5F_Frontage": null,
+        "CONDITIONAL_5F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_5F_Max__Lot_Impervious_Coverage": null,
+        "CONDITIONAL_5F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_5F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_5F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_5F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_5F_Max_Stories": null,
+        "CONDITIONAL_5F_Max_Height": null,
+        "CONDITIONAL_5F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_5F_Min_Unit_Size": null,
+        "CONDITIONAL_5F_Max_Bedrooms": null,
+        "CONDITIONAL_5F_Max_Units_per_Building": null,
+        "CONDITIONAL_Affordable_Housing_Definition": null,
+        "CONDITIONAL_Affordable_Housing_Elderly_Only": null,
+        "CONDITIONAL_Affordable_Housing_Min_Lot_Size": null,
+        "CONDITIONAL_Affordable_Housing_Max_Density": null,
+        "CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_Affordable_Housing_Min_Unit_Size": null,
+        "CONDITIONAL_Affordable_Housing_Max_Bedrooms": null,
+        "CONDITIONAL_Affordable_Housing_Max_Units_per_Building": null,
+        "CONDITIONAL_ADU_Employee_or_Family_Occupancy_Required": null,
+        "CONDITIONAL_ADU_Renter_Occupancy_Prohibited": null,
+        "CONDITIONAL_ADU_Owner_Occupancy_Required": null,
+        "CONDITIONAL_ADU_Elderly_Housing_Only": null,
+        "CONDITIONAL_ADU_Min_Lot_Size": null,
+        "CONDITIONAL_ADU_Min_Parking_Spaces": null,
+        "CONDITIONAL_ADU_Restricted_to_Primary_Structure": null,
+        "CONDITIONAL_ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "CONDITIONAL_ADU_Max_Size_in_sq_ft": null,
+        "CONDITIONAL_ADU_Max_Bedrooms": null,
+        "CONDITIONAL_PRD_Mobile_or_Manufactured_Home_Park": null,
+        "CONDITIONAL_PRD_Min_Lot_Size": null,
+        "CONDITIONAL_PRD_Max_Density": null,
+        "CONDITIONAL_PRD_Max_Units": null,
+        "CONDITIONAL_PUD_Required_with_Subdivision": null,
+        "CONDITIONAL_PUD_Threshold_Number": null,
+        "CONDITIONAL_PUD_Allowance": null,
+        "CONDITIONAL_PUD_Requires_Land_Conservation": null,
+        "Bylaw_Date": "2023-09-05",
+        "RPC": "BCRC",
+        "Version": 1,
+        "Acres": 143.8887193255014,
+        "Shape_Length": 18833.927732861168,
+        "Shape_Area": 582297.8868299895
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -72.85885862186858,
+                43.237760220326535
+              ],
+              [
+                -72.85797987797976,
+                43.2378465427622
+              ],
+              [
+                -72.85726162112098,
+                43.23805869325782
+              ],
+              [
+                -72.85723445348412,
+                43.238066011643966
+              ],
+              [
+                -72.8570847886094,
+                43.23810633182126
+              ],
+              [
+                -72.85581738345009,
+                43.238483541212
+              ],
+              [
+                -72.85498539532037,
+                43.238662942754594
+              ],
+              [
+                -72.85412577209911,
+                43.238711450375675
+              ],
+              [
+                -72.8509558997136,
+                43.2387031442167
+              ],
+              [
+                -72.84964690045543,
+                43.2385191326258
+              ],
+              [
+                -72.84845365304285,
+                43.257414020342665
+              ],
+              [
+                -72.84845332246071,
+                43.25741932857206
+              ],
+              [
+                -72.84844865898044,
+                43.257493928334604
+              ],
+              [
+                -72.84844865106272,
+                43.257494051677824
+              ],
+              [
+                -72.85433820445857,
+                43.25749879117033
+              ],
+              [
+                -72.85444616824691,
+                43.25953819209395
+              ],
+              [
+                -72.85444897049402,
+                43.25959111429118
+              ],
+              [
+                -72.85318848745104,
+                43.25994650291905
+              ],
+              [
+                -72.85250386476358,
+                43.2602409924229
+              ],
+              [
+                -72.85208908655409,
+                43.26075255141332
+              ],
+              [
+                -72.85042972961442,
+                43.26182557509432
+              ],
+              [
+                -72.84952364008822,
+                43.26193478414924
+              ],
+              [
+                -72.84925099312268,
+                43.26190643169804
+              ],
+              [
+                -72.84910957436857,
+                43.26182274360939
+              ],
+              [
+                -72.84887288442164,
+                43.26150930556651
+              ],
+              [
+                -72.84887619974953,
+                43.26126723731517
+              ],
+              [
+                -72.84873913871054,
+                43.261123450296665
+              ],
+              [
+                -72.84834437830328,
+                43.260931425676716
+              ],
+              [
+                -72.84824553052546,
+                43.2607436957191
+              ],
+              [
+                -72.84823615078497,
+                43.26089374593173
+              ],
+              [
+                -72.84823403664433,
+                43.26092756158608
+              ],
+              [
+                -72.84822095687628,
+                43.26113680718931
+              ],
+              [
+                -72.84819928621393,
+                43.261483500432504
+              ],
+              [
+                -72.84811353364823,
+                43.26285536312888
+              ],
+              [
+                -72.84641709549058,
+                43.262448058774055
+              ],
+              [
+                -72.84624192355346,
+                43.26240600085853
+              ],
+              [
+                -72.837886696677,
+                43.26039996420053
+              ],
+              [
+                -72.83521338939755,
+                43.260955779018474
+              ],
+              [
+                -72.83428372353895,
+                43.26136452611728
+              ],
+              [
+                -72.8304124589571,
+                43.26131683419065
+              ],
+              [
+                -72.82940905753055,
+                43.26135247059689
+              ],
+              [
+                -72.8280665962969,
+                43.26165757444991
+              ],
+              [
+                -72.8274470554713,
+                43.26142359237215
+              ],
+              [
+                -72.82605631951336,
+                43.261080479404356
+              ],
+              [
+                -72.81967674508161,
+                43.26090866776323
+              ],
+              [
+                -72.82000177698312,
+                43.2892249081688
+              ],
+              [
+                -72.82003170718342,
+                43.29183069561376
+              ],
+              [
+                -72.82002985225495,
+                43.2919373208017
+              ],
+              [
+                -72.81997725862436,
+                43.29487434767618
+              ],
+              [
+                -72.81997725703755,
+                43.29487451510549
+              ],
+              [
+                -72.82039217979688,
+                43.295050768211134
+              ],
+              [
+                -72.82128195478107,
+                43.29525481535352
+              ],
+              [
+                -72.82224026426064,
+                43.29537820766584
+              ],
+              [
+                -72.82448169781293,
+                43.29538210391102
+              ],
+              [
+                -72.82603386743227,
+                43.29485583682869
+              ],
+              [
+                -72.82865180511378,
+                43.294541372254216
+              ],
+              [
+                -72.82995403591241,
+                43.294435298734825
+              ],
+              [
+                -72.83169391423513,
+                43.29495212005411
+              ],
+              [
+                -72.83133396861659,
+                43.29574106011844
+              ],
+              [
+                -72.83131661787829,
+                43.297705736124776
+              ],
+              [
+                -72.832149896,
+                43.29894144179737
+              ],
+              [
+                -72.83284123336666,
+                43.299724982729494
+              ],
+              [
+                -72.85038434139004,
+                43.30019400807114
+              ],
+              [
+                -72.85024581716854,
+                43.29941750159744
+              ],
+              [
+                -72.84923344414904,
+                43.29799297083575
+              ],
+              [
+                -72.84788370575184,
+                43.296653771879434
+              ],
+              [
+                -72.84722290069875,
+                43.29623625097569
+              ],
+              [
+                -72.84581784597111,
+                43.295503771699146
+              ],
+              [
+                -72.84395129354992,
+                43.29487489367857
+              ],
+              [
+                -72.84430026372898,
+                43.29467618435521
+              ],
+              [
+                -72.84551946140313,
+                43.29414860772733
+              ],
+              [
+                -72.84648162863874,
+                43.29383135706837
+              ],
+              [
+                -72.84744428565574,
+                43.29360211189756
+              ],
+              [
+                -72.84930129830254,
+                43.29424609343839
+              ],
+              [
+                -72.85015442035554,
+                43.29442763527783
+              ],
+              [
+                -72.85150894344714,
+                43.29455445561866
+              ],
+              [
+                -72.85380434370852,
+                43.29459322069883
+              ],
+              [
+                -72.85430796431385,
+                43.29486015997377
+              ],
+              [
+                -72.85642368689317,
+                43.2948339405817
+              ],
+              [
+                -72.85715804626126,
+                43.294694126637644
+              ],
+              [
+                -72.8581066085778,
+                43.29438991766571
+              ],
+              [
+                -72.85881283057269,
+                43.294040621064504
+              ],
+              [
+                -72.85945543946778,
+                43.29354744730532
+              ],
+              [
+                -72.85988436308207,
+                43.29329057493112
+              ],
+              [
+                -72.86032050071013,
+                43.292771972404616
+              ],
+              [
+                -72.8608757413957,
+                43.29227293313802
+              ],
+              [
+                -72.86106552912912,
+                43.2899755277312
+              ],
+              [
+                -72.86056833271829,
+                43.289195570643585
+              ],
+              [
+                -72.86008961790024,
+                43.28858804408215
+              ],
+              [
+                -72.85966585553038,
+                43.28817680604934
+              ],
+              [
+                -72.85882833479212,
+                43.287511336696234
+              ],
+              [
+                -72.8600206027274,
+                43.285988284313284
+              ],
+              [
+                -72.86111621828498,
+                43.28482581237706
+              ],
+              [
+                -72.86154780421415,
+                43.28452253833278
+              ],
+              [
+                -72.86224842017945,
+                43.27659686859196
+              ],
+              [
+                -72.86245763955587,
+                43.27423008885481
+              ],
+              [
+                -72.862467709451,
+                43.27411617704409
+              ],
+              [
+                -72.86248349816088,
+                43.2739375641783
+              ],
+              [
+                -72.86257420464987,
+                43.27291144291175
+              ],
+              [
+                -72.8626161331275,
+                43.27243713403753
+              ],
+              [
+                -72.86267926364093,
+                43.27172297215922
+              ],
+              [
+                -72.8627070595991,
+                43.271408535423596
+              ],
+              [
+                -72.86278119778049,
+                43.27056985306736
+              ],
+              [
+                -72.86336088937665,
+                43.26401213642182
+              ],
+              [
+                -72.86338670444304,
+                43.26372010983729
+              ],
+              [
+                -72.86350413583934,
+                43.262391665181106
+              ],
+              [
+                -72.86383147202983,
+                43.258688700692815
+              ],
+              [
+                -72.86214409917366,
+                43.25871873055446
+              ],
+              [
+                -72.86237557900749,
+                43.25760256560407
+              ],
+              [
+                -72.8640765814382,
+                43.255914666944996
+              ],
+              [
+                -72.86448515557548,
+                43.24975977404825
+              ],
+              [
+                -72.86246261166801,
+                43.248687316109226
+              ],
+              [
+                -72.86014270896314,
+                43.24843883045039
+              ],
+              [
+                -72.86009304278029,
+                43.247415740824145
+              ],
+              [
+                -72.86298079243052,
+                43.247550503627735
+              ],
+              [
+                -72.86455752147683,
+                43.248655004230756
+              ],
+              [
+                -72.8649998931918,
+                43.241900546400274
+              ],
+              [
+                -72.86501087025633,
+                43.24173293377012
+              ],
+              [
+                -72.86524289929108,
+                43.23819012941386
+              ],
+              [
+                -72.86488110741062,
+                43.238304367948324
+              ],
+              [
+                -72.86454093345232,
+                43.2383381960426
+              ],
+              [
+                -72.86272232831615,
+                43.23829158672301
+              ],
+              [
+                -72.859817450592,
+                43.237829245109964
+              ],
+              [
+                -72.85885862186858,
+                43.237760220326535
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.82739780635193,
+                43.2689548383297
+              ],
+              [
+                -72.82610029046477,
+                43.269318726639085
+              ],
+              [
+                -72.82368986392947,
+                43.26935831623838
+              ],
+              [
+                -72.82362737363,
+                43.27111356785797
+              ],
+              [
+                -72.8232687502211,
+                43.273666534075744
+              ],
+              [
+                -72.82329900865017,
+                43.275249281770485
+              ],
+              [
+                -72.82305157259856,
+                43.27811187243274
+              ],
+              [
+                -72.8223152301254,
+                43.28370982198698
+              ],
+              [
+                -72.82213335256488,
+                43.28690687300435
+              ],
+              [
+                -72.8228693924888,
+                43.287088163400135
+              ],
+              [
+                -72.82397033444079,
+                43.2867707099135
+              ],
+              [
+                -72.8251703590209,
+                43.286544647447926
+              ],
+              [
+                -72.8290953098837,
+                43.286278019967526
+              ],
+              [
+                -72.83020686729836,
+                43.286274816554545
+              ],
+              [
+                -72.83186581012747,
+                43.28637479575151
+              ],
+              [
+                -72.83352568849585,
+                43.28664501588993
+              ],
+              [
+                -72.8344051867431,
+                43.28682581366756
+              ],
+              [
+                -72.83511483607032,
+                43.28709223626334
+              ],
+              [
+                -72.83603064891817,
+                43.28735135017872
+              ],
+              [
+                -72.8362910517936,
+                43.28255049141407
+              ],
+              [
+                -72.8360972426784,
+                43.282122267926304
+              ],
+              [
+                -72.83614938200445,
+                43.27981556791181
+              ],
+              [
+                -72.83625967498747,
+                43.27949803759666
+              ],
+              [
+                -72.83637529161012,
+                43.2776046940758
+              ],
+              [
+                -72.83656543538166,
+                43.27652972739151
+              ],
+              [
+                -72.836786510863,
+                43.275986756114555
+              ],
+              [
+                -72.83678872160911,
+                43.27384816409545
+              ],
+              [
+                -72.83609460676826,
+                43.272721883828666
+              ],
+              [
+                -72.83591974356682,
+                43.27221526018053
+              ],
+              [
+                -72.83572928190323,
+                43.27004398222187
+              ],
+              [
+                -72.83412440440213,
+                43.26991770489108
+              ],
+              [
+                -72.83272419104645,
+                43.26952231055886
+              ],
+              [
+                -72.83232134257182,
+                43.2696020681273
+              ],
+              [
+                -72.82889704437555,
+                43.269441695870164
+              ],
+              [
+                -72.82739780635193,
+                43.2689548383297
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.85482014598465,
+                43.27190509185724
+              ],
+              [
+                -72.85473730553302,
+                43.27307755589214
+              ],
+              [
+                -72.85537480532668,
+                43.27327859042429
+              ],
+              [
+                -72.85580518382389,
+                43.27323300091558
+              ],
+              [
+                -72.85594802944811,
+                43.27321783206701
+              ],
+              [
+                -72.85579827198124,
+                43.272862577341456
+              ],
+              [
+                -72.85570267129857,
+                43.27263578989096
+              ],
+              [
+                -72.85482014598465,
+                43.27190509185724
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.8474087562554,
+                43.27984533696044
+              ],
+              [
+                -72.84731714122728,
+                43.28108332088461
+              ],
+              [
+                -72.84742069528444,
+                43.281953993016266
+              ],
+              [
+                -72.84750831764804,
+                43.284750049704776
+              ],
+              [
+                -72.84886368940793,
+                43.283495111345935
+              ],
+              [
+                -72.84970241120013,
+                43.28281142410871
+              ],
+              [
+                -72.84999524613472,
+                43.28228660010177
+              ],
+              [
+                -72.85033353779849,
+                43.2818927183389
+              ],
+              [
+                -72.85076145645209,
+                43.28148536926096
+              ],
+              [
+                -72.85076789894867,
+                43.28104659725294
+              ],
+              [
+                -72.8500118208592,
+                43.28049881687379
+              ],
+              [
+                -72.8489341655148,
+                43.28014192712563
+              ],
+              [
+                -72.8474087562554,
+                43.27984533696044
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.85540845078873,
+                43.22715194959801
+              ],
+              [
+                -72.85461186165703,
+                43.22732837537583
+              ],
+              [
+                -72.85401128943363,
+                43.2275246530708
+              ],
+              [
+                -72.85272699702624,
+                43.22806071331811
+              ],
+              [
+                -72.85177916913534,
+                43.2287082807738
+              ],
+              [
+                -72.85129193090941,
+                43.22914977826401
+              ],
+              [
+                -72.85073729892873,
+                43.230041710623134
+              ],
+              [
+                -72.85053063371781,
+                43.230502055565104
+              ],
+              [
+                -72.85034002437602,
+                43.231248682111534
+              ],
+              [
+                -72.85008975352468,
+                43.23107506435855
+              ],
+              [
+                -72.84991601859284,
+                43.23433192573138
+              ],
+              [
+                -72.84989403340613,
+                43.23467147563894
+              ],
+              [
+                -72.84992998481421,
+                43.234684665287006
+              ],
+              [
+                -72.85098551548893,
+                43.235051744206935
+              ],
+              [
+                -72.85114924251532,
+                43.23510555278358
+              ],
+              [
+                -72.85337045438487,
+                43.235092164567554
+              ],
+              [
+                -72.85421143090952,
+                43.2349258430265
+              ],
+              [
+                -72.85533825430073,
+                43.23462765156053
+              ],
+              [
+                -72.85721726118184,
+                43.23430090673672
+              ],
+              [
+                -72.85815647000567,
+                43.23408840781178
+              ],
+              [
+                -72.86021045189008,
+                43.23415609186245
+              ],
+              [
+                -72.86065788256356,
+                43.23420916780031
+              ],
+              [
+                -72.86386565604361,
+                43.23478578511967
+              ],
+              [
+                -72.86546488451862,
+                43.23480129873971
+              ],
+              [
+                -72.86563034314273,
+                43.2322741969712
+              ],
+              [
+                -72.86403075294587,
+                43.23236717295521
+              ],
+              [
+                -72.86181615898501,
+                43.23196817187954
+              ],
+              [
+                -72.86183655651857,
+                43.2308744528249
+              ],
+              [
+                -72.86123849783192,
+                43.22969755523706
+              ],
+              [
+                -72.86085007293173,
+                43.22913558182861
+              ],
+              [
+                -72.8599501040464,
+                43.22839185030057
+              ],
+              [
+                -72.85874189234156,
+                43.22767363724259
+              ],
+              [
+                -72.85827874321349,
+                43.22743974059878
+              ],
+              [
+                -72.8571579282752,
+                43.22720789630542
+              ],
+              [
+                -72.85540845078873,
+                43.22715194959801
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -72.85163044031616,
+                43.20484225987183
+              ],
+              [
+                -72.85162458987494,
+                43.2049297857151
+              ],
+              [
+                -72.85119999140011,
+                43.21128102732624
+              ],
+              [
+                -72.85118841751755,
+                43.21145417277069
+              ],
+              [
+                -72.85112171631451,
+                43.21245189929027
+              ],
+              [
+                -72.85199123792785,
+                43.21205925678418
+              ],
+              [
+                -72.85256280387003,
+                43.21170958921419
+              ],
+              [
+                -72.85362026503898,
+                43.210713766103765
+              ],
+              [
+                -72.85393935442103,
+                43.21025231284255
+              ],
+              [
+                -72.85431243948925,
+                43.20945301660913
+              ],
+              [
+                -72.85436235330229,
+                43.2084091396763
+              ],
+              [
+                -72.85550615481155,
+                43.2078427992435
+              ],
+              [
+                -72.856301655503,
+                43.207523114397695
+              ],
+              [
+                -72.85729143191249,
+                43.20693677078505
+              ],
+              [
+                -72.8588088425833,
+                43.20568364595126
+              ],
+              [
+                -72.85931365423738,
+                43.20512206626463
+              ],
+              [
+                -72.85163044031616,
+                43.20484225987183
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "OBJECTID_1": 897,
+        "Jurisdiction_District_Name": "Bennington Landgrove Rural Residential District",
+        "County": "Bennington",
+        "Jurisdiction": "Bennington Landgrove ",
+        "Abbreviated_District_Name": "Rr",
+        "District_Name": "Rural Residential District",
+        "District_Mapped": "Yes",
+        "Overlay_District": "No",
+        "Extinct_District": null,
+        "District_Type": "Primarily Residential",
+        "Affordable_Housing_District": "No",
+        "Elderly_Housing_District": "No",
+        "F1F_Allowance": "Permitted",
+        "F2F_Allowance": "Permitted",
+        "F3F_Allowance": "Prohibited",
+        "F4F_Allowance": "Prohibited",
+        "F5F_Allowance": null,
+        "ADU_Allowance": "Allowed/Conditional",
+        "Affordable_Housing_Allowance": "Not Mentioned",
+        "PRD_Allowance": "Public Hearing",
+        "NOTES": "Dwelling, Multi-Family: A Building Used As Living Quarters By More Than Two Families Living Independently Of One Another. At A Minimum, Units In Multi-Family Dwellings Must Be Attached By A Common Vertical Wall Or Horizontal Floor.\r\n\r\nDensity, Buildings And Uses On Lots\r\nThere Shall Be Only One Principal Building And One Principal Use On A Lot Except As Allowed In 204.2 Below. (If Lots For Rr District Must Be At Least 4 Acres, And There Can Only Be One Principal Building/Use, Then Presumably The Density Per Acre Is 0.25).  ",
+        "F1F_Min_Lot": 4,
+        "F1F_Front_Setback": 75,
+        "F1F_Side_Setback": 50,
+        "F1F_Rear_Setback": 50,
+        "F1F_Frontage": 400,
+        "F1F_Max_Lot_Building_Coverage": 15,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": 1,
+        "F1F_Max_Stories": 3,
+        "F1F_Max_Height": 35,
+        "F1F_Floor_to_Area_Ratio": null,
+        "F1F_Min_Unit_Size": null,
+        "F2F_Affordable_Housing_Only": "No",
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Min_Lot_Size": 4,
+        "F2F_Max_Density": 0.25,
+        "F2F_Front_Setback": 75,
+        "F2F_Side_Setback": 50,
+        "F2F_Rear_Setback": 50,
+        "F2F_Frontage": 400,
+        "F2F_Max_Lot_Building_Coverage": 15,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": 1,
+        "F2F_Min_Parking_Spaces_per_mult_BR": 1,
+        "F2F_Max_Stories": 3,
+        "F2F_Max_Height": 35,
+        "F2F_Floor_to_Area_Ratio": null,
+        "F2F_Min_Unit_Size": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Elderly_Housing_Only": "No",
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Density": null,
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Connection_to_Sewage_Water_Required": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Max_Stories": null,
+        "F3F_Max_Height": null,
+        "F3F_Floor_to_Area_Ratio": null,
+        "F3F_Min_Unit_Size": null,
+        "F3F_Max_Bedrooms": null,
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Density": null,
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per__mult_BR": null,
+        "F4F_Connection_to_Sewage_Water_Required": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Max_Stories": null,
+        "F4F_Max_Height": null,
+        "F4F_Floor_to_Area_Ratio": null,
+        "F4F_Min_Unit_Size": null,
+        "F4F_Max_Bedrooms": null,
+        "F4F_Max_Units_per_Building": null,
+        "F5F_Affordable_Housing_Only": null,
+        "F5F_Elderly_Housing_Only": null,
+        "F5F_Min_Lot_Size": null,
+        "F5F_Max_Density": null,
+        "F5F_Front_Setback": null,
+        "F5F_Side_Setback": null,
+        "F5F_Rear_Setback": null,
+        "F5F_Frontage": null,
+        "F5F_Max_Lot_Building_Coverage": null,
+        "F5F_Max__Lot_Impervious_Coverage": null,
+        "F5F_Min_Parking_Spaces_per_1BR": null,
+        "F5F_Min_Parking_Spaces_per_mult_BR": null,
+        "F5F_Connection_to_Sewage_Water_Required": null,
+        "F5F_Proximity_to_Public_Transit_Required": null,
+        "F5F_Max_Stories": null,
+        "F5F_Max_Height": null,
+        "F5F_Floor_to_Area_Ratio": null,
+        "F5F_Min_Unit_Size": null,
+        "F5F_Max_Bedrooms": null,
+        "F5F_Max_Units_per_Building": null,
+        "Affordable_Housing_Definition": null,
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Min_Unit_Size": null,
+        "Affordable_Housing_Max_Bedrooms": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Min_Lot_Size": null,
+        "ADU_Min_Parking_Spaces": 1,
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": 40,
+        "ADU_Max_Size_in_sq_ft": 1000,
+        "ADU_Max_Bedrooms": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PRD_Min_Lot_Size": null,
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PUD_Required_with_Subdivision": "F",
+        "PUD_Threshold_Number": null,
+        "PUD_Allowance": "Yes",
+        "PUD_Requires_Land_Conservation": "F",
+        "Base_Density": 0.25,
+        "CONDITIONAL_1F_Min_Lot": null,
+        "CONDITIONAL_1F_Front_Setback": null,
+        "CONDITIONAL_1F_Side_Setback": null,
+        "CONDITIONAL_1F_Rear_Setback": null,
+        "CONDITIONAL_1F_Frontage": null,
+        "CONDITIONAL_1F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_1F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_1F_Min_Parking_Spaces": null,
+        "CONDITIONAL_1F_Max_Stories": null,
+        "CONDITIONAL_1F_Max_Height": null,
+        "CONDITIONAL_1F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_1F_Min_Unit_Size": null,
+        "CONDITIONAL_2F_Affordable_Housing_Only": null,
+        "CONDITIONAL_2F_Elderly_Housing_Only": null,
+        "CONDITIONAL_2F_Min_Lot_Size": null,
+        "CONDITIONAL_2F_Max_Density": null,
+        "CONDITIONAL_2F_Front_Setback": null,
+        "CONDITIONAL_2F_Side_Setback": null,
+        "CONDITIONAL_2F_Rear_Setback": null,
+        "CONDITIONAL_2F_Frontage": null,
+        "CONDITIONAL_2F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_2F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_2F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_2F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_2F_Max_Stories": null,
+        "CONDITIONAL_2F_Max_Height": null,
+        "CONDITIONAL_2F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_2F_Min_Unit_Size": null,
+        "CONDITIONAL_3F_Affordable_Housing_Only": null,
+        "CONDITIONAL_3F_Elderly_Housing_Only": null,
+        "CONDITIONAL_3F_Min_Lot_Size": null,
+        "CONDITIONAL_3F_Max_Density": null,
+        "CONDITIONAL_3F_Front_Setback": null,
+        "CONDITIONAL_3F_Side_Setback": null,
+        "CONDITIONAL_3F_Rear_Setback": null,
+        "CONDITIONAL_3F_Frontage": null,
+        "CONDITIONAL_3F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_3F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_3F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_3F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_3F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_3F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_3F_Max_Stories": null,
+        "CONDITIONAL_3F_Max_Height": null,
+        "CONDITIONAL_3F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_3F_Min_Unit_Size": null,
+        "CONDITIONAL_3F_Max_Bedrooms": null,
+        "CONDITIONAL_4F_Affordable_Housing_Only": null,
+        "CONDITIONAL_4F_Elderly_Housing_Only": null,
+        "CONDITIONAL_4F_Min_Lot_Size": null,
+        "CONDITIONAL_4F_Max_Density": null,
+        "CONDITIONAL_4F_Front_Setback": null,
+        "CONDITIONAL_4F_Side_Setback": null,
+        "CONDITIONAL_4F_Rear_Setback": null,
+        "CONDITIONAL_4F_Frontage": null,
+        "CONDITIONAL_4F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_4F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_4F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_4F_Min_Parking_Spaces_per__mult_BR": null,
+        "CONDITIONAL_4F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_4F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_4F_Max_Stories": null,
+        "CONDITIONAL_4F_Max_Height": null,
+        "CONDITIONAL_4F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_4F_Min_Unit_Size": null,
+        "CONDITIONAL_4F_Max_Bedrooms": null,
+        "CONDITIONAL_4F_Max_Units_per_Building": null,
+        "CONDITIONAL_5F_Affordable_Housing_Only": null,
+        "CONDITIONAL_5F_Elderly_Housing_Only": null,
+        "CONDITIONAL_5F_Min_Lot_Size": null,
+        "CONDITIONAL_5F_Max_Density": null,
+        "CONDITIONAL_5F_Front_Setback": null,
+        "CONDITIONAL_5F_Side_Setback": null,
+        "CONDITIONAL_5F_Rear_Setback": null,
+        "CONDITIONAL_5F_Frontage": null,
+        "CONDITIONAL_5F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_5F_Max__Lot_Impervious_Coverage": null,
+        "CONDITIONAL_5F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_5F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_5F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_5F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_5F_Max_Stories": null,
+        "CONDITIONAL_5F_Max_Height": null,
+        "CONDITIONAL_5F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_5F_Min_Unit_Size": null,
+        "CONDITIONAL_5F_Max_Bedrooms": null,
+        "CONDITIONAL_5F_Max_Units_per_Building": null,
+        "CONDITIONAL_Affordable_Housing_Definition": null,
+        "CONDITIONAL_Affordable_Housing_Elderly_Only": null,
+        "CONDITIONAL_Affordable_Housing_Min_Lot_Size": null,
+        "CONDITIONAL_Affordable_Housing_Max_Density": null,
+        "CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_Affordable_Housing_Min_Unit_Size": null,
+        "CONDITIONAL_Affordable_Housing_Max_Bedrooms": null,
+        "CONDITIONAL_Affordable_Housing_Max_Units_per_Building": null,
+        "CONDITIONAL_ADU_Employee_or_Family_Occupancy_Required": null,
+        "CONDITIONAL_ADU_Renter_Occupancy_Prohibited": null,
+        "CONDITIONAL_ADU_Owner_Occupancy_Required": null,
+        "CONDITIONAL_ADU_Elderly_Housing_Only": null,
+        "CONDITIONAL_ADU_Min_Lot_Size": null,
+        "CONDITIONAL_ADU_Min_Parking_Spaces": null,
+        "CONDITIONAL_ADU_Restricted_to_Primary_Structure": null,
+        "CONDITIONAL_ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "CONDITIONAL_ADU_Max_Size_in_sq_ft": null,
+        "CONDITIONAL_ADU_Max_Bedrooms": null,
+        "CONDITIONAL_PRD_Mobile_or_Manufactured_Home_Park": null,
+        "CONDITIONAL_PRD_Min_Lot_Size": null,
+        "CONDITIONAL_PRD_Max_Density": null,
+        "CONDITIONAL_PRD_Max_Units": "(Lot Area * Lot Coverage %)/4000 And Rounding Down to a Whole Number",
+        "CONDITIONAL_PUD_Required_with_Subdivision": null,
+        "CONDITIONAL_PUD_Threshold_Number": null,
+        "CONDITIONAL_PUD_Allowance": null,
+        "CONDITIONAL_PUD_Requires_Land_Conservation": null,
+        "Bylaw_Date": "2023-09-05",
+        "RPC": "BCRC",
+        "Version": 1,
+        "Acres": 4826.958099819514,
+        "Shape_Length": 37920.00614904302,
+        "Shape_Area": 19534036.542439505
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.85708824541338,
+              43.25878940806694
+            ],
+            [
+              -72.8568672752111,
+              43.258541412569215
+            ],
+            [
+              -72.85546027637034,
+              43.258499951907375
+            ],
+            [
+              -72.85543603252505,
+              43.25741292713796
+            ],
+            [
+              -72.84845365304285,
+              43.257414020342665
+            ],
+            [
+              -72.84845332246071,
+              43.25741932857206
+            ],
+            [
+              -72.84844865898044,
+              43.257493928334604
+            ],
+            [
+              -72.84844865106272,
+              43.257494051677824
+            ],
+            [
+              -72.84844462185059,
+              43.257558503135186
+            ],
+            [
+              -72.84826735863228,
+              43.26039446085071
+            ],
+            [
+              -72.8482484978385,
+              43.26069620615546
+            ],
+            [
+              -72.84824554733753,
+              43.26074340402288
+            ],
+            [
+              -72.84824553052546,
+              43.2607436957191
+            ],
+            [
+              -72.84823615078497,
+              43.26089374593173
+            ],
+            [
+              -72.84823403664433,
+              43.26092756158608
+            ],
+            [
+              -72.84822095687628,
+              43.26113680718931
+            ],
+            [
+              -72.84819928621393,
+              43.261483500432504
+            ],
+            [
+              -72.84811353364823,
+              43.26285536312888
+            ],
+            [
+              -72.84823840067592,
+              43.263230746826636
+            ],
+            [
+              -72.85013819946012,
+              43.26324459396805
+            ],
+            [
+              -72.85010071276999,
+              43.26452172163037
+            ],
+            [
+              -72.84876489348324,
+              43.264414473974206
+            ],
+            [
+              -72.84897413741933,
+              43.26496393376351
+            ],
+            [
+              -72.85022913170161,
+              43.26503868392068
+            ],
+            [
+              -72.85034364983159,
+              43.26625640742738
+            ],
+            [
+              -72.85158286117277,
+              43.26669792257843
+            ],
+            [
+              -72.85281789204349,
+              43.2664125217262
+            ],
+            [
+              -72.85416317956054,
+              43.26659828012872
+            ],
+            [
+              -72.85443783058233,
+              43.26759939278162
+            ],
+            [
+              -72.85352280173467,
+              43.26898401768161
+            ],
+            [
+              -72.85611877948845,
+              43.27001722284035
+            ],
+            [
+              -72.85579828251743,
+              43.272862482794274
+            ],
+            [
+              -72.85579827198124,
+              43.272862577341456
+            ],
+            [
+              -72.85576088486566,
+              43.27319449401854
+            ],
+            [
+              -72.85580514543662,
+              43.27323296682979
+            ],
+            [
+              -72.85580518382389,
+              43.27323300091558
+            ],
+            [
+              -72.85882385741111,
+              43.275876474305264
+            ],
+            [
+              -72.85978745150227,
+              43.2766527505895
+            ],
+            [
+              -72.86224842017945,
+              43.27659686859196
+            ],
+            [
+              -72.86225026171205,
+              43.27659682675467
+            ],
+            [
+              -72.86245916752544,
+              43.2742336845602
+            ],
+            [
+              -72.86246994965748,
+              43.27411171066788
+            ],
+            [
+              -72.86248519416412,
+              43.273939376180074
+            ],
+            [
+              -72.8625772072725,
+              43.27289845701998
+            ],
+            [
+              -72.86261788717957,
+              43.2724383553639
+            ],
+            [
+              -72.86267454754304,
+              43.27179735914278
+            ],
+            [
+              -72.8627090344014,
+              43.271407313976646
+            ],
+            [
+              -72.86278298943047,
+              43.27057077632692
+            ],
+            [
+              -72.86336273271793,
+              43.26401287678116
+            ],
+            [
+              -72.86338847969515,
+              43.26372162183118
+            ],
+            [
+              -72.86350601540795,
+              43.2623920849739
+            ],
+            [
+              -72.86350413583934,
+              43.262391665181106
+            ],
+            [
+              -72.8625786493406,
+              43.26218422827636
+            ],
+            [
+              -72.86187778253891,
+              43.26185900687158
+            ],
+            [
+              -72.86066323423182,
+              43.26103769623536
+            ],
+            [
+              -72.86016570161765,
+              43.26024031042203
+            ],
+            [
+              -72.85912017366033,
+              43.26031420081383
+            ],
+            [
+              -72.85835571345726,
+              43.260245994893225
+            ],
+            [
+              -72.85746710783351,
+              43.25998682392546
+            ],
+            [
+              -72.85737665018769,
+              43.259593098595936
+            ],
+            [
+              -72.85735848578122,
+              43.25951404031735
+            ],
+            [
+              -72.85734414053634,
+              43.25945159837417
+            ],
+            [
+              -72.85731665454881,
+              43.25933196212958
+            ],
+            [
+              -72.85722805161275,
+              43.258946312292906
+            ],
+            [
+              -72.85708824541338,
+              43.25878940806694
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "OBJECTID_1": 898,
+        "Jurisdiction_District_Name": "Bennington Landgrove Utley Flats Scenic Overlay District",
+        "County": "Bennington",
+        "Jurisdiction": "Bennington Landgrove ",
+        "Abbreviated_District_Name": "Ufo",
+        "District_Name": "Utley Flats Scenic Overlay District",
+        "District_Mapped": "Yes",
+        "Overlay_District": "Yes",
+        "Extinct_District": null,
+        "District_Type": "Primarily Residential",
+        "Affordable_Housing_District": "No",
+        "Elderly_Housing_District": "No",
+        "F1F_Allowance": "Public Hearing",
+        "F2F_Allowance": "Public Hearing",
+        "F3F_Allowance": "Prohibited",
+        "F4F_Allowance": "Prohibited",
+        "F5F_Allowance": null,
+        "ADU_Allowance": "Public Hearing",
+        "Affordable_Housing_Allowance": "Not Mentioned",
+        "PRD_Allowance": "Not Mentioned",
+        "NOTES": "Districts And Overlays, Ufso, Permitted Uses:\r\n1. Agricultural And Forestry Uses.\r\n2. Home Occupations.\r\n3. Wildlife Refuge.\r\n4. Installation Of Underground Utility Lines.\r\n5. Landscaping Other Than The Removal Of Trees And Brush Requiring A Permit Under\r\nSection 222 Below.\r\n\r\nDistricts And Overlays, Ufso, Conditionally Permitted Uses:\r\n1. Subdivision Of Land.\r\n2. Construction Of A New Or Addition to An Existing One- Or Two-Family Home, Primitive\r\nCamp, Or Accessory Structure (Note: All Accessory Structures, Regardless Of Size,\r\nRequire Review Under This Section).\r\n3. The Installation Of Above-Ground Power Or Telephone Utility Lines.\r\n4. Removal Of Trees Or Other Vegetation Which Provide Screening Of An Existing\r\nStructure That Has Been Permitted Pursuant to This Section With Conditions That Limit\r\nRemoval Of Such Vegetation.\r\n5. Removal Of Trees Located Within 25 Feet Of The Edge Of A Town Highway Which Have A\r\nDiameter At Breast Height Of Eight Inches Or More And Which Contribute to The Scenic\r\nQualities Afforded By Rural Roadways And Village Streets.  ",
+        "F1F_Min_Lot": null,
+        "F1F_Front_Setback": null,
+        "F1F_Side_Setback": null,
+        "F1F_Rear_Setback": null,
+        "F1F_Frontage": null,
+        "F1F_Max_Lot_Building_Coverage": null,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": null,
+        "F1F_Max_Stories": null,
+        "F1F_Max_Height": null,
+        "F1F_Floor_to_Area_Ratio": null,
+        "F1F_Min_Unit_Size": null,
+        "F2F_Affordable_Housing_Only": "No",
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Min_Lot_Size": null,
+        "F2F_Max_Density": null,
+        "F2F_Front_Setback": null,
+        "F2F_Side_Setback": null,
+        "F2F_Rear_Setback": null,
+        "F2F_Frontage": null,
+        "F2F_Max_Lot_Building_Coverage": null,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": null,
+        "F2F_Min_Parking_Spaces_per_mult_BR": null,
+        "F2F_Max_Stories": null,
+        "F2F_Max_Height": null,
+        "F2F_Floor_to_Area_Ratio": null,
+        "F2F_Min_Unit_Size": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Elderly_Housing_Only": "No",
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Density": null,
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Connection_to_Sewage_Water_Required": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Max_Stories": null,
+        "F3F_Max_Height": null,
+        "F3F_Floor_to_Area_Ratio": null,
+        "F3F_Min_Unit_Size": null,
+        "F3F_Max_Bedrooms": null,
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Density": null,
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per__mult_BR": null,
+        "F4F_Connection_to_Sewage_Water_Required": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Max_Stories": null,
+        "F4F_Max_Height": null,
+        "F4F_Floor_to_Area_Ratio": null,
+        "F4F_Min_Unit_Size": null,
+        "F4F_Max_Bedrooms": null,
+        "F4F_Max_Units_per_Building": null,
+        "F5F_Affordable_Housing_Only": null,
+        "F5F_Elderly_Housing_Only": null,
+        "F5F_Min_Lot_Size": null,
+        "F5F_Max_Density": null,
+        "F5F_Front_Setback": null,
+        "F5F_Side_Setback": null,
+        "F5F_Rear_Setback": null,
+        "F5F_Frontage": null,
+        "F5F_Max_Lot_Building_Coverage": null,
+        "F5F_Max__Lot_Impervious_Coverage": null,
+        "F5F_Min_Parking_Spaces_per_1BR": null,
+        "F5F_Min_Parking_Spaces_per_mult_BR": null,
+        "F5F_Connection_to_Sewage_Water_Required": null,
+        "F5F_Proximity_to_Public_Transit_Required": null,
+        "F5F_Max_Stories": null,
+        "F5F_Max_Height": null,
+        "F5F_Floor_to_Area_Ratio": null,
+        "F5F_Min_Unit_Size": null,
+        "F5F_Max_Bedrooms": null,
+        "F5F_Max_Units_per_Building": null,
+        "Affordable_Housing_Definition": null,
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Min_Unit_Size": null,
+        "Affordable_Housing_Max_Bedrooms": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Min_Lot_Size": null,
+        "ADU_Min_Parking_Spaces": null,
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Max_Bedrooms": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PRD_Min_Lot_Size": null,
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PUD_Required_with_Subdivision": null,
+        "PUD_Threshold_Number": null,
+        "PUD_Allowance": null,
+        "PUD_Requires_Land_Conservation": null,
+        "Base_Density": null,
+        "CONDITIONAL_1F_Min_Lot": null,
+        "CONDITIONAL_1F_Front_Setback": null,
+        "CONDITIONAL_1F_Side_Setback": null,
+        "CONDITIONAL_1F_Rear_Setback": null,
+        "CONDITIONAL_1F_Frontage": null,
+        "CONDITIONAL_1F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_1F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_1F_Min_Parking_Spaces": null,
+        "CONDITIONAL_1F_Max_Stories": null,
+        "CONDITIONAL_1F_Max_Height": null,
+        "CONDITIONAL_1F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_1F_Min_Unit_Size": null,
+        "CONDITIONAL_2F_Affordable_Housing_Only": null,
+        "CONDITIONAL_2F_Elderly_Housing_Only": null,
+        "CONDITIONAL_2F_Min_Lot_Size": null,
+        "CONDITIONAL_2F_Max_Density": null,
+        "CONDITIONAL_2F_Front_Setback": null,
+        "CONDITIONAL_2F_Side_Setback": null,
+        "CONDITIONAL_2F_Rear_Setback": null,
+        "CONDITIONAL_2F_Frontage": null,
+        "CONDITIONAL_2F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_2F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_2F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_2F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_2F_Max_Stories": null,
+        "CONDITIONAL_2F_Max_Height": null,
+        "CONDITIONAL_2F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_2F_Min_Unit_Size": null,
+        "CONDITIONAL_3F_Affordable_Housing_Only": null,
+        "CONDITIONAL_3F_Elderly_Housing_Only": null,
+        "CONDITIONAL_3F_Min_Lot_Size": null,
+        "CONDITIONAL_3F_Max_Density": null,
+        "CONDITIONAL_3F_Front_Setback": null,
+        "CONDITIONAL_3F_Side_Setback": null,
+        "CONDITIONAL_3F_Rear_Setback": null,
+        "CONDITIONAL_3F_Frontage": null,
+        "CONDITIONAL_3F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_3F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_3F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_3F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_3F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_3F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_3F_Max_Stories": null,
+        "CONDITIONAL_3F_Max_Height": null,
+        "CONDITIONAL_3F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_3F_Min_Unit_Size": null,
+        "CONDITIONAL_3F_Max_Bedrooms": null,
+        "CONDITIONAL_4F_Affordable_Housing_Only": null,
+        "CONDITIONAL_4F_Elderly_Housing_Only": null,
+        "CONDITIONAL_4F_Min_Lot_Size": null,
+        "CONDITIONAL_4F_Max_Density": null,
+        "CONDITIONAL_4F_Front_Setback": null,
+        "CONDITIONAL_4F_Side_Setback": null,
+        "CONDITIONAL_4F_Rear_Setback": null,
+        "CONDITIONAL_4F_Frontage": null,
+        "CONDITIONAL_4F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_4F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_4F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_4F_Min_Parking_Spaces_per__mult_BR": null,
+        "CONDITIONAL_4F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_4F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_4F_Max_Stories": null,
+        "CONDITIONAL_4F_Max_Height": null,
+        "CONDITIONAL_4F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_4F_Min_Unit_Size": null,
+        "CONDITIONAL_4F_Max_Bedrooms": null,
+        "CONDITIONAL_4F_Max_Units_per_Building": null,
+        "CONDITIONAL_5F_Affordable_Housing_Only": null,
+        "CONDITIONAL_5F_Elderly_Housing_Only": null,
+        "CONDITIONAL_5F_Min_Lot_Size": null,
+        "CONDITIONAL_5F_Max_Density": null,
+        "CONDITIONAL_5F_Front_Setback": null,
+        "CONDITIONAL_5F_Side_Setback": null,
+        "CONDITIONAL_5F_Rear_Setback": null,
+        "CONDITIONAL_5F_Frontage": null,
+        "CONDITIONAL_5F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_5F_Max__Lot_Impervious_Coverage": null,
+        "CONDITIONAL_5F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_5F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_5F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_5F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_5F_Max_Stories": null,
+        "CONDITIONAL_5F_Max_Height": null,
+        "CONDITIONAL_5F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_5F_Min_Unit_Size": null,
+        "CONDITIONAL_5F_Max_Bedrooms": null,
+        "CONDITIONAL_5F_Max_Units_per_Building": null,
+        "CONDITIONAL_Affordable_Housing_Definition": null,
+        "CONDITIONAL_Affordable_Housing_Elderly_Only": null,
+        "CONDITIONAL_Affordable_Housing_Min_Lot_Size": null,
+        "CONDITIONAL_Affordable_Housing_Max_Density": null,
+        "CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_Affordable_Housing_Min_Unit_Size": null,
+        "CONDITIONAL_Affordable_Housing_Max_Bedrooms": null,
+        "CONDITIONAL_Affordable_Housing_Max_Units_per_Building": null,
+        "CONDITIONAL_ADU_Employee_or_Family_Occupancy_Required": null,
+        "CONDITIONAL_ADU_Renter_Occupancy_Prohibited": null,
+        "CONDITIONAL_ADU_Owner_Occupancy_Required": null,
+        "CONDITIONAL_ADU_Elderly_Housing_Only": null,
+        "CONDITIONAL_ADU_Min_Lot_Size": null,
+        "CONDITIONAL_ADU_Min_Parking_Spaces": null,
+        "CONDITIONAL_ADU_Restricted_to_Primary_Structure": null,
+        "CONDITIONAL_ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "CONDITIONAL_ADU_Max_Size_in_sq_ft": null,
+        "CONDITIONAL_ADU_Max_Bedrooms": null,
+        "CONDITIONAL_PRD_Mobile_or_Manufactured_Home_Park": null,
+        "CONDITIONAL_PRD_Min_Lot_Size": null,
+        "CONDITIONAL_PRD_Max_Density": null,
+        "CONDITIONAL_PRD_Max_Units": null,
+        "CONDITIONAL_PUD_Required_with_Subdivision": null,
+        "CONDITIONAL_PUD_Threshold_Number": null,
+        "CONDITIONAL_PUD_Allowance": null,
+        "CONDITIONAL_PUD_Requires_Land_Conservation": null,
+        "Bylaw_Date": "2023-09-05",
+        "RPC": "BCRC",
+        "Version": 1,
+        "Acres": 391.4363775743352,
+        "Shape_Length": 6423.365621145406,
+        "Shape_Area": 1584089.2639741616
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.84844865106272,
+              43.257494051677824
+            ],
+            [
+              -72.84844462185059,
+              43.257558503135186
+            ],
+            [
+              -72.84826735863228,
+              43.26039446085071
+            ],
+            [
+              -72.8482484978385,
+              43.26069620615546
+            ],
+            [
+              -72.84824554733753,
+              43.26074340402288
+            ],
+            [
+              -72.84834453837838,
+              43.26093141888828
+            ],
+            [
+              -72.84873923776331,
+              43.261123325775536
+            ],
+            [
+              -72.84887629880228,
+              43.261267112793924
+            ],
+            [
+              -72.84887298347991,
+              43.26150918194539
+            ],
+            [
+              -72.84910967342688,
+              43.26182261998808
+            ],
+            [
+              -72.84925109218084,
+              43.26190630807659
+            ],
+            [
+              -72.84952373913558,
+              43.261934658727306
+            ],
+            [
+              -72.85042982742809,
+              43.261825449675385
+            ],
+            [
+              -72.85208908655409,
+              43.26075255141332
+            ],
+            [
+              -72.85250386476358,
+              43.2602409924229
+            ],
+            [
+              -72.85318858649805,
+              43.259946379294185
+            ],
+            [
+              -72.85444897049402,
+              43.25959111429118
+            ],
+            [
+              -72.85444627286975,
+              43.2595381809681
+            ],
+            [
+              -72.85433830348889,
+              43.25749866574419
+            ],
+            [
+              -72.84844865898044,
+              43.257493928334604
+            ],
+            [
+              -72.84844865106272,
+              43.257494051677824
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "OBJECTID_1": 899,
+        "Jurisdiction_District_Name": "Bennington Landgrove Village District",
+        "County": "Bennington",
+        "Jurisdiction": "Bennington Landgrove ",
+        "Abbreviated_District_Name": "V",
+        "District_Name": "Village District",
+        "District_Mapped": "Yes",
+        "Overlay_District": "No",
+        "Extinct_District": null,
+        "District_Type": "Primarily Residential",
+        "Affordable_Housing_District": "No",
+        "Elderly_Housing_District": "No",
+        "F1F_Allowance": "Permitted",
+        "F2F_Allowance": "Permitted",
+        "F3F_Allowance": "Prohibited",
+        "F4F_Allowance": "Prohibited",
+        "F5F_Allowance": null,
+        "ADU_Allowance": "Allowed/Conditional",
+        "Affordable_Housing_Allowance": "Not Mentioned",
+        "PRD_Allowance": "Public Hearing",
+        "NOTES": " Neighborhood And Mixed-Use Puds Permitted With Conditional Use (Public Hearing). ",
+        "F1F_Min_Lot": 2,
+        "F1F_Front_Setback": 30,
+        "F1F_Side_Setback": 15,
+        "F1F_Rear_Setback": 15,
+        "F1F_Frontage": 100,
+        "F1F_Max_Lot_Building_Coverage": 25,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": 1,
+        "F1F_Max_Stories": 3,
+        "F1F_Max_Height": 35,
+        "F1F_Floor_to_Area_Ratio": null,
+        "F1F_Min_Unit_Size": null,
+        "F2F_Affordable_Housing_Only": "No",
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Min_Lot_Size": 2,
+        "F2F_Max_Density": 0.5,
+        "F2F_Front_Setback": 30,
+        "F2F_Side_Setback": 15,
+        "F2F_Rear_Setback": 15,
+        "F2F_Frontage": 100,
+        "F2F_Max_Lot_Building_Coverage": 25,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": 1,
+        "F2F_Min_Parking_Spaces_per_mult_BR": 1,
+        "F2F_Max_Stories": 3,
+        "F2F_Max_Height": 35,
+        "F2F_Floor_to_Area_Ratio": null,
+        "F2F_Min_Unit_Size": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Elderly_Housing_Only": "No",
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Density": null,
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Connection_to_Sewage_Water_Required": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Max_Stories": null,
+        "F3F_Max_Height": null,
+        "F3F_Floor_to_Area_Ratio": null,
+        "F3F_Min_Unit_Size": null,
+        "F3F_Max_Bedrooms": null,
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Density": null,
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per__mult_BR": null,
+        "F4F_Connection_to_Sewage_Water_Required": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Max_Stories": null,
+        "F4F_Max_Height": null,
+        "F4F_Floor_to_Area_Ratio": null,
+        "F4F_Min_Unit_Size": null,
+        "F4F_Max_Bedrooms": null,
+        "F4F_Max_Units_per_Building": null,
+        "F5F_Affordable_Housing_Only": null,
+        "F5F_Elderly_Housing_Only": null,
+        "F5F_Min_Lot_Size": null,
+        "F5F_Max_Density": null,
+        "F5F_Front_Setback": null,
+        "F5F_Side_Setback": null,
+        "F5F_Rear_Setback": null,
+        "F5F_Frontage": null,
+        "F5F_Max_Lot_Building_Coverage": null,
+        "F5F_Max__Lot_Impervious_Coverage": null,
+        "F5F_Min_Parking_Spaces_per_1BR": null,
+        "F5F_Min_Parking_Spaces_per_mult_BR": null,
+        "F5F_Connection_to_Sewage_Water_Required": null,
+        "F5F_Proximity_to_Public_Transit_Required": null,
+        "F5F_Max_Stories": null,
+        "F5F_Max_Height": null,
+        "F5F_Floor_to_Area_Ratio": null,
+        "F5F_Min_Unit_Size": null,
+        "F5F_Max_Bedrooms": null,
+        "F5F_Max_Units_per_Building": null,
+        "Affordable_Housing_Definition": null,
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Min_Unit_Size": null,
+        "Affordable_Housing_Max_Bedrooms": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Min_Lot_Size": null,
+        "ADU_Min_Parking_Spaces": 1,
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": 40,
+        "ADU_Max_Size_in_sq_ft": 1000,
+        "ADU_Max_Bedrooms": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PRD_Min_Lot_Size": null,
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PUD_Required_with_Subdivision": "F",
+        "PUD_Threshold_Number": null,
+        "PUD_Allowance": "Yes",
+        "PUD_Requires_Land_Conservation": "F",
+        "Base_Density": 0.25,
+        "CONDITIONAL_1F_Min_Lot": null,
+        "CONDITIONAL_1F_Front_Setback": null,
+        "CONDITIONAL_1F_Side_Setback": null,
+        "CONDITIONAL_1F_Rear_Setback": null,
+        "CONDITIONAL_1F_Frontage": null,
+        "CONDITIONAL_1F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_1F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_1F_Min_Parking_Spaces": null,
+        "CONDITIONAL_1F_Max_Stories": null,
+        "CONDITIONAL_1F_Max_Height": null,
+        "CONDITIONAL_1F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_1F_Min_Unit_Size": null,
+        "CONDITIONAL_2F_Affordable_Housing_Only": null,
+        "CONDITIONAL_2F_Elderly_Housing_Only": null,
+        "CONDITIONAL_2F_Min_Lot_Size": null,
+        "CONDITIONAL_2F_Max_Density": null,
+        "CONDITIONAL_2F_Front_Setback": null,
+        "CONDITIONAL_2F_Side_Setback": null,
+        "CONDITIONAL_2F_Rear_Setback": null,
+        "CONDITIONAL_2F_Frontage": null,
+        "CONDITIONAL_2F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_2F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_2F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_2F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_2F_Max_Stories": null,
+        "CONDITIONAL_2F_Max_Height": null,
+        "CONDITIONAL_2F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_2F_Min_Unit_Size": null,
+        "CONDITIONAL_3F_Affordable_Housing_Only": null,
+        "CONDITIONAL_3F_Elderly_Housing_Only": null,
+        "CONDITIONAL_3F_Min_Lot_Size": null,
+        "CONDITIONAL_3F_Max_Density": null,
+        "CONDITIONAL_3F_Front_Setback": null,
+        "CONDITIONAL_3F_Side_Setback": null,
+        "CONDITIONAL_3F_Rear_Setback": null,
+        "CONDITIONAL_3F_Frontage": null,
+        "CONDITIONAL_3F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_3F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_3F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_3F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_3F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_3F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_3F_Max_Stories": null,
+        "CONDITIONAL_3F_Max_Height": null,
+        "CONDITIONAL_3F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_3F_Min_Unit_Size": null,
+        "CONDITIONAL_3F_Max_Bedrooms": null,
+        "CONDITIONAL_4F_Affordable_Housing_Only": null,
+        "CONDITIONAL_4F_Elderly_Housing_Only": null,
+        "CONDITIONAL_4F_Min_Lot_Size": null,
+        "CONDITIONAL_4F_Max_Density": null,
+        "CONDITIONAL_4F_Front_Setback": null,
+        "CONDITIONAL_4F_Side_Setback": null,
+        "CONDITIONAL_4F_Rear_Setback": null,
+        "CONDITIONAL_4F_Frontage": null,
+        "CONDITIONAL_4F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_4F_Max_Lot_Impervious_Coverage": null,
+        "CONDITIONAL_4F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_4F_Min_Parking_Spaces_per__mult_BR": null,
+        "CONDITIONAL_4F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_4F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_4F_Max_Stories": null,
+        "CONDITIONAL_4F_Max_Height": null,
+        "CONDITIONAL_4F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_4F_Min_Unit_Size": null,
+        "CONDITIONAL_4F_Max_Bedrooms": null,
+        "CONDITIONAL_4F_Max_Units_per_Building": null,
+        "CONDITIONAL_5F_Affordable_Housing_Only": null,
+        "CONDITIONAL_5F_Elderly_Housing_Only": null,
+        "CONDITIONAL_5F_Min_Lot_Size": null,
+        "CONDITIONAL_5F_Max_Density": null,
+        "CONDITIONAL_5F_Front_Setback": null,
+        "CONDITIONAL_5F_Side_Setback": null,
+        "CONDITIONAL_5F_Rear_Setback": null,
+        "CONDITIONAL_5F_Frontage": null,
+        "CONDITIONAL_5F_Max_Lot_Building_Coverage": null,
+        "CONDITIONAL_5F_Max__Lot_Impervious_Coverage": null,
+        "CONDITIONAL_5F_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_5F_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_5F_Connection_to_Sewage_Water_Required": null,
+        "CONDITIONAL_5F_Proximity_to_Public_Transit_Required": null,
+        "CONDITIONAL_5F_Max_Stories": null,
+        "CONDITIONAL_5F_Max_Height": null,
+        "CONDITIONAL_5F_Floor_to_Area_Ratio": null,
+        "CONDITIONAL_5F_Min_Unit_Size": null,
+        "CONDITIONAL_5F_Max_Bedrooms": null,
+        "CONDITIONAL_5F_Max_Units_per_Building": null,
+        "CONDITIONAL_Affordable_Housing_Definition": null,
+        "CONDITIONAL_Affordable_Housing_Elderly_Only": null,
+        "CONDITIONAL_Affordable_Housing_Min_Lot_Size": null,
+        "CONDITIONAL_Affordable_Housing_Max_Density": null,
+        "CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "CONDITIONAL_Affordable_Housing_Min_Unit_Size": null,
+        "CONDITIONAL_Affordable_Housing_Max_Bedrooms": null,
+        "CONDITIONAL_Affordable_Housing_Max_Units_per_Building": null,
+        "CONDITIONAL_ADU_Employee_or_Family_Occupancy_Required": null,
+        "CONDITIONAL_ADU_Renter_Occupancy_Prohibited": null,
+        "CONDITIONAL_ADU_Owner_Occupancy_Required": null,
+        "CONDITIONAL_ADU_Elderly_Housing_Only": null,
+        "CONDITIONAL_ADU_Min_Lot_Size": null,
+        "CONDITIONAL_ADU_Min_Parking_Spaces": null,
+        "CONDITIONAL_ADU_Restricted_to_Primary_Structure": null,
+        "CONDITIONAL_ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "CONDITIONAL_ADU_Max_Size_in_sq_ft": null,
+        "CONDITIONAL_ADU_Max_Bedrooms": null,
+        "CONDITIONAL_PRD_Mobile_or_Manufactured_Home_Park": null,
+        "CONDITIONAL_PRD_Min_Lot_Size": null,
+        "CONDITIONAL_PRD_Max_Density": null,
+        "CONDITIONAL_PRD_Max_Units": "(Lot Area * Lot Coverage %)/4000 And Rounding Down to a Whole Number",
+        "CONDITIONAL_PUD_Required_with_Subdivision": null,
+        "CONDITIONAL_PUD_Threshold_Number": null,
+        "CONDITIONAL_PUD_Allowance": null,
+        "CONDITIONAL_PUD_Requires_Land_Conservation": null,
+        "Bylaw_Date": "2023-09-05",
+        "RPC": "BCRC",
+        "Version": 1,
+        "Acres": 46.22038554501689,
+        "Shape_Length": 1751.0727988300857,
+        "Shape_Area": 187047.55284197765
+      }
+    }
+  ]
+}

@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "AG",
-        "Jurisdiction_County": "Caledonia",
+        "Abbreviated_District_Name": "AG",
+        "County": "Caledonia",
         "Jurisdiction_District_Name": "Barnet"
       },
       "geometry": {
@@ -11411,8 +11411,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LD",
-        "Jurisdiction_County": "Caledonia",
+        "Abbreviated_District_Name": "LD",
+        "County": "Caledonia",
         "Jurisdiction_District_Name": "Barnet"
       },
       "geometry": {
@@ -20632,8 +20632,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR",
-        "Jurisdiction_County": "Caledonia",
+        "Abbreviated_District_Name": "RR",
+        "County": "Caledonia",
         "Jurisdiction_District_Name": "Barnet"
       },
       "geometry": {
@@ -27553,8 +27553,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VIL",
-        "Jurisdiction_County": "Caledonia",
+        "Abbreviated_District_Name": "VIL",
+        "County": "Caledonia",
         "Jurisdiction_District_Name": "Barnet"
       },
       "geometry": {

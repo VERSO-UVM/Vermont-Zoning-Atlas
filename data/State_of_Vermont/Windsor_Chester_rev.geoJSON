@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "A3",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "A3",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Chester"
       },
       "geometry": {
@@ -1235,8 +1235,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CR",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "CR",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Chester"
       },
       "geometry": {
@@ -8634,8 +8634,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "F",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "F",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Chester"
       },
       "geometry": {
@@ -11323,8 +11323,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "GB",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "GB",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Chester"
       },
       "geometry": {
@@ -11808,8 +11808,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MU",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "MU",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Chester"
       },
       "geometry": {
@@ -14795,8 +14795,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "N",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "N",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Chester"
       },
       "geometry": {
@@ -16832,8 +16832,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "OS",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "OS",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Chester"
       },
       "geometry": {
@@ -17891,8 +17891,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R120",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "R120",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Chester"
       },
       "geometry": {
@@ -35076,8 +35076,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R40",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "R40",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Chester"
       },
       "geometry": {
@@ -42307,8 +42307,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SV",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "SV",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Chester"
       },
       "geometry": {
@@ -42718,8 +42718,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VC",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "VC",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Chester"
       },
       "geometry": {
@@ -43601,8 +43601,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VG",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "VG",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Chester"
       },
       "geometry": {

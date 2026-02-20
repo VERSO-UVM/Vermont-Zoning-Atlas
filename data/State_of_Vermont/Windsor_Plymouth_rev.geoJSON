@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CON",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "CON",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Plymouth"
       },
       "geometry": {
@@ -14659,8 +14659,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MR",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "MR",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Plymouth"
       },
       "geometry": {
@@ -14958,8 +14958,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RD10",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RD10",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Plymouth"
       },
       "geometry": {
@@ -33449,8 +33449,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RD2",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RD2",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Plymouth"
       },
       "geometry": {
@@ -34446,8 +34446,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RD5",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RD5",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Plymouth"
       },
       "geometry": {
@@ -47541,8 +47541,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VIL",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "VIL",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Plymouth"
       },
       "geometry": {
@@ -48234,8 +48234,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VR",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "VR",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Plymouth"
       },
       "geometry": {

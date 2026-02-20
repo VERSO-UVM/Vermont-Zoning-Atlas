@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "A",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "A",
+        "County": "Washington",
         "Jurisdiction_District_Name": "East Montpelier"
       },
       "geometry": {
@@ -1737,8 +1737,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "B",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "B",
+        "County": "Washington",
         "Jurisdiction_District_Name": "East Montpelier"
       },
       "geometry": {
@@ -2388,8 +2388,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "C",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "C",
+        "County": "Washington",
         "Jurisdiction_District_Name": "East Montpelier"
       },
       "geometry": {
@@ -4005,8 +4005,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "D",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "D",
+        "County": "Washington",
         "Jurisdiction_District_Name": "East Montpelier"
       },
       "geometry": {
@@ -7274,8 +7274,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "E",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "E",
+        "County": "Washington",
         "Jurisdiction_District_Name": "East Montpelier"
       },
       "geometry": {
@@ -8389,8 +8389,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VMU",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "VMU",
+        "County": "Washington",
         "Jurisdiction_District_Name": "East Montpelier"
       },
       "geometry": {
@@ -8816,8 +8816,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VR",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "VR",
+        "County": "Washington",
         "Jurisdiction_District_Name": "East Montpelier"
       },
       "geometry": {
@@ -9151,8 +9151,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VRMD",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "VRMD",
+        "County": "Washington",
         "Jurisdiction_District_Name": "East Montpelier"
       },
       "geometry": {

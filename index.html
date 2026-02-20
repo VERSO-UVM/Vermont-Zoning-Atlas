@@ -5,11 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vermont Zoning Atlas</title>
   <meta name="description" content="The Vermont Zoning Atlas is a web-based geospatial interface that visualizes zoning code distributions across all of Vermont.">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
   <link rel="stylesheet" href="styles.css">
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/proj4@2.9.0/dist/proj4.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/proj4leaflet@1.0.2/src/proj4leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <style>
     /* Story-specific styles */
@@ -42,9 +40,9 @@
 
     .hero-stats {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
       gap: 2rem;
-      max-width: 1000px;
+      max-width: 900px;
       width: 100%;
       margin-top: 3rem;
       animation: fadeInUp 1s ease-out 0.6s both;
@@ -209,19 +207,15 @@
     }
 
     .process-steps {
-      display: flex;
-      flex-direction: row;
-      justify-content: space-between;
-      gap: 1.5rem;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 2rem;
       margin: 2rem 0;
-      flex-wrap: nowrap;
     }
 
     .process-step {
       text-align: center;
-      padding: 1rem;
-      flex: 1;
-      min-width: 0;
+      padding: 1.5rem;
     }
 
     .process-number {
@@ -270,18 +264,6 @@
       font-weight: 600;
     }
 
-    /* Custom tooltip styling */
-    .custom-tooltip {
-      background: rgba(0, 0, 0, 0.85);
-      color: white;
-      border: none;
-      border-radius: 4px;
-      padding: 8px 12px;
-      font-size: 14px;
-      font-weight: 500;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
-    }
-
     @media (max-width: 768px) {
       .hero-section h1 {
         font-size: 2rem;
@@ -302,15 +284,6 @@
       .story-section p {
         font-size: 1.1rem;
       }
-      
-      .process-steps {
-        flex-wrap: wrap;
-      }
-      
-      .process-step {
-        flex: 0 0 calc(50% - 0.75rem);
-        min-width: 140px;
-      }
     }
   </style>
 </head>
@@ -330,7 +303,7 @@
   <!-- Hero Section -->
   <section class="hero-section">
     <h1>Vermont Zoning Atlas</h1>
-    <p>Mapping zoning regulations across all 255 Vermont towns to document where different types of housing can be built.</p>
+    <p>Mapping zoning regulations across all 255 Vermont towns to build <strong>better places</strong> and create homes for the next generation of Vermonters.</p>
     
     <div class="hero-stats">
       <div class="stat-box">
@@ -345,6 +318,10 @@
         <span class="stat-number">1,755</span>
         <span class="stat-label">Zoning Districts Mapped</span>
       </div>
+      <div class="stat-box">
+        <span class="stat-number">11</span>
+        <span class="stat-label">Regional Planning Commissions</span>
+      </div>
     </div>
 
     <div class="scroll-indicator">
@@ -358,26 +335,30 @@
   <!-- Vermont Story Section -->
   <section class="story-section" data-section="vermont">
     <div class="story-content">
-      <h2>Understanding Vermont's Zoning Landscape</h2>
-      <p>Vermont's housing regulations vary significantly. Many towns restrict housing to single-family homes on large lots, which affects the availability of <strong>homes in walkable places</strong>—apartments near downtown, duplexes in village centers, or accessory dwelling units.</p>
+      <h2>The Homes We Need vs. What We Have</h2>
+      <p>Vermont faces a housing challenge: the types of homes our zoning allows don't match what Vermonters need. Many towns restrict housing to single-family homes on large lots, making it difficult to build <strong>homes in walkable places</strong>—apartments near downtown, duplexes in village centers, or accessory dwelling units that help families age in place.</p>
       <p>Vermont is unique. Unlike most states where counties control zoning, Vermont grants <strong>each of its 255 towns</strong> the authority to create its own bylaws. Each municipality crafts rules about what can be built, where, and how—dividing their land into <strong>zoning districts</strong> with specific regulations.</p>
       
       <div class="process-steps">
         <div class="process-step">
           <div class="process-number">1</div>
           <h3>Planning Commission</h3>
+          <p>Drafts zoning bylaws with community input</p>
         </div>
         <div class="process-step">
           <div class="process-number">2</div>
           <h3>Public Hearing</h3>
+          <p>Citizens review and comment on proposals</p>
         </div>
         <div class="process-step">
           <div class="process-number">3</div>
           <h3>Australian Ballot</h3>
+          <p>Voters approve or reject changes at Town Meeting</p>
         </div>
         <div class="process-step">
           <div class="process-number">4</div>
           <h3>Implementation</h3>
+          <p>Zoning Administrator enforces adopted regulations</p>
         </div>
       </div>
       <p style="margin-top: 2rem; padding: 1.5rem; background: #fff3cd; border-left: 4px solid #ffc107; border-radius: 4px;"><strong>Fair Housing Requirement:</strong> Vermont law (<a href="https://legislature.vermont.gov/statutes/section/24/117/04412">24 VSA § 4412</a>) requires municipalities to ensure zoning regulations provide reasonable opportunity for all housing types and don't have discriminatory effects.</p>
@@ -387,109 +368,14 @@
   <!-- Growth Section -->
   <section class="story-section" data-section="growth">
     <div class="story-content">
-      <h2>Vermont's Housing Data</h2>
-      <p>The state's <a href="https://accd.vermont.gov/housing/plans-data-rules/needs-assessment">2025 Housing Needs Assessment</a> documents Vermont's housing market conditions. Population has grown slowly over decades, while housing production has grown at a different rate, affecting housing costs and availability.</p>
+      <h2>Vermont's Housing Shortage</h2>
+      <p>Vermont needs more homes. The state's <a href="https://accd.vermont.gov/housing/plans-data-rules/needs-assessment" target="_blank">Housing Needs Assessment</a> shows a significant gap between available housing and what Vermonters can afford. Population has grown slowly over decades, but housing production hasn't kept pace, driving up costs and limiting opportunities.</p>
       
       <div class="chart-container">
         <canvas id="growthChart"></canvas>
       </div>
       
-      <div style="background: #f8f9fa; padding: 2rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #2a7ae2;">
-        <h3 style="margin-top: 0; color: #2a7ae2; font-size: 1.3rem;">Key Findings from the 2025 Housing Needs Assessment</h3>
-        <ul style="font-size: 1.1rem; line-height: 1.8; margin: 0.5rem 0 0 1.5rem;">
-          <li>Vermont needs an estimated <strong>24,000-36,000 additional year-round homes</strong> by 2029 to meet demand, normalize vacancy rates, house the homeless, and replace homes lost from the stock</li>
-          <li>Vacancy rates declined to near record levels following the COVID-19 pandemic</li>
-          <li>Home prices and rents increased significantly between 2020-2025</li>
-          <li>Homelessness increased dramatically during this period</li>
-          <li>Vermont maintains a long-standing shortage of affordable homes available to lower-income households</li>
-        </ul>
-        <p style="margin: 1rem 0 0 0; font-size: 0.95rem; font-style: italic;">Source: <a href="https://outside.vermont.gov/agency/ACCD/ACCD_Web_Docs/Housing/Housing-Needs-Assessment/2025-2029/VT-HNA-2025.pdf">Vermont Department of Housing and Community Development, 2025 Statewide Housing Needs Assessment</a></p>
-      </div>
-      
-      <p><strong>Zoning regulations affect housing production.</strong> Regulations that require large lot sizes, prohibit apartments and multi-family homes, or restrict accessory dwelling units affect what housing can be built. When only certain housing types are allowed, this affects the range of housing options available.</p>
-    </div>
-  </section>
-
-  <!-- Act 250 Section -->
-  <section class="story-section" data-section="act250">
-    <div class="story-content">
-      <h2>Act 250: Vermont's State-Level Development Review</h2>
-      <p>While local zoning controls what can be built in each district, Vermont also has a unique state-level land use review process called <strong><a href="https://act250.vermont.gov/act250-program">Act 250</a></strong>. Enacted in 1970 during a period of rapid development pressure, Act 250 reviews the environmental, social, and fiscal impacts of major developments.</p>
-
-      <h3 style="margin-top: 2rem; font-size: 1.5rem;">How Act 250 Works</h3>
-      <p>Act 250 permits are required for larger projects—typically developments over 10 acres, commercial projects on more than 1 acre (or 10 acres in municipalities without zoning), and housing projects with 10 or more units. Nine District Environmental Commissions, staffed by citizen volunteers appointed by the Governor, review applications against <strong>10 statutory criteria</strong> covering:</p>
-      
-      <ul style="font-size: 1.1rem; line-height: 1.8; margin: 1.5rem 0 1.5rem 2rem;">
-        <li>Water and air quality impacts</li>
-        <li>Effect on water supplies and soil erosion</li>
-        <li>Traffic and transportation</li>
-        <li>Educational services burden</li>
-        <li>Municipal and governmental services</li>
-        <li>Scenic and natural beauty</li>
-        <li>Historic sites and conformance with local plans</li>
-        <li>Primary agricultural soils and forests</li>
-        <li>Energy efficiency and renewable energy impacts</li>
-        <li>Wildlife habitat and natural areas (new criterion effective 12/31/2026)</li>
-      </ul>
-
-      <div style="background: #e3f2fd; padding: 2rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #2196f3;">
-        <h4 style="margin-top: 0; color: #1976d2;">Act 250 & Local Zoning: Two Layers of Review</h4>
-        <p style="margin: 0;">A project may comply with local zoning yet still need an Act 250 permit if it exceeds size thresholds. Conversely, receiving an Act 250 permit doesn't replace the need for local zoning approval. The two systems work in parallel—local zoning ensures projects fit community plans, while Act 250 addresses broader environmental and regional impacts. <strong>The Vermont Zoning Atlas focuses on local zoning regulations, which apply to all projects regardless of size.</strong></p>
-      </div>
-    </div>
-  </section>
-
-  <!-- Act 181 Section -->
-  <section class="story-section" data-section="act181">
-    <div class="story-content">
-      <h2>Act 181: Vermont's 2024 Housing and Land Use Reforms</h2>
-      <p>In 2024, Vermont enacted <strong><a href="https://legislature.vermont.gov/Documents/2024/Docs/ACTS/ACT181/ACT181%20As%20Enacted.pdf">Act 181</a></strong>, a comprehensive housing and land use reform law. The act updates Act 250 governance, shifts Act 250 jurisdiction to designated locations, and sets minimum zoning standards for municipalities. The summary below focuses on provisions most relevant to local zoning and state review.</p>
-
-      <h3 style="margin-top: 2rem; font-size: 1.5rem;">Key Provisions Affecting Local Zoning</h3>
-      
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 2rem 0;">
-        <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #1976d2;">
-          <h4 style="color: #1976d2; margin-top: 0;">Act 250 Governance Update</h4>
-          <p style="margin: 0; font-size: 1.05rem;">Creates a five-member Land Use Review Board and reorganizes Act 250 administration under a professional board structure.</p>
-        </div>
-
-        <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #ff9800;">
-          <h4 style="color: #ff9800; margin-top: 0;">Act 250 Location-Based Jurisdiction</h4>
-          <p style="margin: 0; font-size: 1.05rem;">Shifts Act 250 review to a location-based system that exempts development in designated downtowns, village centers, and neighborhood development areas while strengthening protections for forests, agricultural lands, and wildlife habitat outside these areas.</p>
-        </div>
-
-        <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #27ae60;">
-          <h4 style="color: #27ae60; margin-top: 0;">Parking Requirement Reforms</h4>
-          <p style="margin: 0; font-size: 1.05rem;">Requires municipalities to eliminate or significantly reduce parking minimums for housing in designated areas (downtowns, village centers, neighborhood development areas). Municipalities may set maximum parking limits instead.</p>
-        </div>
-
-        <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #f39c12;">
-          <h4 style="color: #f39c12; margin-top: 0;">Accessory Dwelling Unit (ADU) Standards</h4>
-          <p style="margin: 0; font-size: 1.05rem;">Requires municipalities to allow one ADU by right on lots with an existing single-family home, subject to applicable health and safety, wastewater, historic district, and dimensional standards. Limits certain local restrictions, including some owner-occupancy and parking requirements.</p>
-        </div>
-
-        <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #667eea;">
-          <h4 style="color: #667eea; margin-top: 0;">Missing Middle Housing in Villages</h4>
-          <p style="margin: 0; font-size: 1.05rem;">Requires municipalities with designated village centers to allow duplexes and small multi-family housing within those areas.</p>
-        </div>
-
-        <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #e74c3c;">
-          <h4 style="color: #e74c3c; margin-top: 0;">Neighborhood Development Areas</h4>
-          <p style="margin: 0; font-size: 1.05rem;">Creates a state designation for multi-acre sites intended for neighborhood-scale housing. Projects in these areas receive streamlined permitting and Act 250 exemptions.</p>
-        </div>
-
-        <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #9c27b0;">
-          <h4 style="color: #9c27b0; margin-top: 0;">Local Option Tax for Housing</h4>
-          <p style="margin: 0; font-size: 1.05rem;">Authorizes municipalities to adopt up to 3% local option tax on meals, alcohol, and lodging, with revenues dedicated to affordable housing, childcare, and municipal services.</p>
-        </div>
-      </div>
-
-      <h3 style="margin-top: 2.5rem; font-size: 1.5rem;">Implementation Timeline</h3>
-      <p>Act 181 provisions are being implemented in phases from 2024-2027. Many requirements took effect in 2025, with municipalities required to update their zoning bylaws to comply. The <strong>Vermont Zoning Atlas will be updated annually</strong> to reflect how communities implement these reforms.</p>
-
-      <div style="background: #fff3cd; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #ffc107; margin-top: 2rem;">
-        <p style="margin: 0;"><strong>Why Act 181 Matters for the Atlas:</strong> This legislation will fundamentally reshape Vermont's zoning landscape over the next few years. The atlas provides a baseline to measure how Act 181's requirements change local regulations, track which communities embrace reform, and identify where barriers to housing persist despite new state mandates.</p>
-      </div>
+      <p><strong>Zoning is a major factor.</strong> Regulations that require large lot sizes, prohibit apartments and multi-family homes, or make accessory dwelling units difficult to build all limit housing production. When only expensive housing types are allowed, working families, young people, and seniors have fewer options to stay in Vermont.</p>
     </div>
   </section>
 
@@ -502,10 +388,127 @@
       <h3 style="margin-top: 2rem; font-size: 1.5rem;">Data Fields in the Atlas</h3>
       <p style="margin-bottom: 2rem;">For each of Vermont's 1,755 zoning districts, the atlas documents regulations for these key housing types:</p>
       
+      <div class="rpc-grid">
+        <div class="rpc-card">
+          <div class="rpc-name">1-Family Homes</div>
+          <p><strong>One dwelling unit on one lot.</strong> The most common housing type in Vermont. The atlas tracks whether single-family homes are permitted by right, require a conditional use permit (public hearing), or are prohibited. We also document minimum lot size, frontage, and setback requirements.</p>
+        </div>
+        
+        <div class="rpc-card">
+          <div class="rpc-name">2-Family (Duplexes)</div>
+          <p><strong>Two units in one building or on one lot.</strong> Traditional Vermont housing found in villages and mill towns. Duplexes can look like large single homes (side-by-side or up-down units) but provide naturally affordable rentals. Often face more restrictions than single-family homes.</p>
+        </div>
+        
+        <div class="rpc-card">
+          <div class="rpc-name">3-Family (Triplexes)</div>
+          <p><strong>Three units in one building.</strong> Part of the "missing middle" housing spectrum. Triplexes fit residential neighborhoods but provide density. Many towns require conditional use permits or prohibit them entirely, even in village centers.</p>
+        </div>
+        
+        <div class="rpc-card">
+          <div class="rpc-name">4+ Family (Multi-Family)</div>
+          <p><strong>Four or more units—apartments.</strong> Essential for workforce and affordable housing but heavily restricted. The atlas shows where apartments require large lot sizes, connection to municipal utilities, or are prohibited. Many towns allow only in limited mixed-use or commercial zones.</p>
+        </div>
+        
+        <div class="rpc-card">
+          <div class="rpc-name">Accessory Dwelling Units</div>
+          <p><strong>Secondary units on the same lot as a primary residence.</strong> Can be attached (garage apartment) or detached (backyard cottage). Vermont law encourages ADUs, but towns regulate size limits, parking requirements, and owner-occupancy rules. Atlas documents ADU-specific provisions.</p>
+        </div>
+        
+        <div class="rpc-card">
+          <div class="rpc-name">Elderly & Affordable Housing</div>
+          <p><strong>Housing with use restrictions.</strong> Some districts allow higher density or smaller lots if restricted to seniors (62+) or income-qualified residents. The atlas indicates where these special provisions exist and what additional allowances they provide.</p>
+        </div>
+      </div>
+
+      <h3 style="margin-top: 3rem; font-size: 1.5rem;">Three Levels of Permission</h3>
+      <p>For each housing type in each district, zoning regulations fall into three categories:</p>
+      
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+        <div style="background: #e8f5e9; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #27ae60;">
+          <h4 style="color: #27ae60; margin-top: 0; font-size: 1.3rem;">Permitted</h4>
+          <p style="margin: 0;">Allowed "by right"—no special approval needed beyond building permits. Property owners can build if they meet dimensional requirements (lot size, setbacks, etc.).</p>
+        </div>
+        
+        <div style="background: #fff3e0; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #f39c12;">
+          <h4 style="color: #f39c12; margin-top: 0; font-size: 1.3rem;">Public Hearing Required</h4>
+          <p style="margin: 0;">Requires conditional use permit or special exception. Project goes before planning board or zoning board for discretionary review. Adds time, cost, and uncertainty.</p>
+        </div>
+        
+        <div style="background: #ffebee; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #e74c3c;">
+          <h4 style="color: #e74c3c; margin-top: 0; font-size: 1.3rem;">Prohibited</h4>
+          <p style="margin: 0;">Not allowed in this district. Would require zoning amendment (citizen vote at Town Meeting) to permit. Represents the strongest barrier to housing.</p>
+        </div>
+      </div>
+
+      <p style="margin-top: 2rem; background: #e3f2fd; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #2196f3;"><strong>How to Use the Interactive Map:</strong> Below, you can select a housing type (1-family through 4+ family) and the map will color-code all 1,755 districts based on whether that housing type is <span style="color: #27ae60; font-weight: 600;">permitted</span>, <span style="color: #f39c12; font-weight: 600;">requires a public hearing</span>, or is <span style="color: #e74c3c; font-weight: 600;">prohibited</span>. Click any district for details.</p>
+    </div>
+  </section>
+
+  <!-- Methodology Section -->
+  <section class="story-section" data-section="methodology">
+    <div class="story-content">
+      <h2>How We Built the Atlas</h2>
+      <p>Creating a comprehensive statewide zoning atlas requires meticulous work. Throughout 2023-2024, zoning bylaws and maps from across Vermont were collected, interpreted, and synthesized into a unified database cataloging all 1,755 zoning districts.</p>
+      
+      <h3 style="margin-top: 2rem; font-size: 1.5rem;">Data Collection Process</h3>
+      <div class="process-steps" style="grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));">
+        <div class="process-step">
+          <div class="process-number" style="background: #27ae60;">1</div>
+          <h4 style="font-size: 1.1rem;">GIS Mapping</h4>
+          <p style="font-size: 1rem;">Collected GIS files from all 11 Regional Planning Commissions covering their member municipalities</p>
+        </div>
+        <div class="process-step">
+          <div class="process-number" style="background: #27ae60;">2</div>
+          <h4 style="font-size: 1.1rem;">Bylaw Review</h4>
+          <p style="font-size: 1rem;">Read and coded zoning regulations for each district, documenting housing allowances and dimensional requirements</p>
+        </div>
+        <div class="process-step">
+          <div class="process-number" style="background: #27ae60;">3</div>
+          <h4 style="font-size: 1.1rem;">Database Creation</h4>
+          <p style="font-size: 1rem;">Synthesized regulations into standardized fields suitable for analysis and mapping</p>
+        </div>
+        <div class="process-step">
+          <div class="process-number" style="background: #27ae60;">4</div>
+          <h4 style="font-size: 1.1rem;">Verification</h4>
+          <p style="font-size: 1rem;">Cross-checked data with RPCs and municipal officials for accuracy</p>
+        </div>
+      </div>
+
+      <p style="margin-top: 2rem;"><strong>What's Included:</strong> For each district, the atlas documents whether 1-family through 4+-family housing is permitted, requires a public hearing (conditional use), or is prohibited. Additional fields capture minimum lot sizes, setbacks, accessory dwelling unit rules, affordable and elderly housing provisions, and other key regulations.</p>
+
+      <p><strong>Data Sources:</strong> GIS shapefiles provided by Vermont's 11 Regional Planning Commissions; municipal zoning bylaws accessed through town websites, clerks' offices, and RPC archives; Vermont State Statute Title 24 provisions.</p>
+
+      <p style="background: #e8f5e9; padding: 1.5rem; border-left: 4px solid #27ae60; border-radius: 4px; margin-top: 2rem;"><strong>Data Transparency:</strong> This is a community-built, open-source dataset. All data and methodology are available on our <a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas" style="color: #27ae60;" target="_blank">GitHub repository</a>. We welcome corrections and updates from municipal officials and community members.</p>
+    </div>
+  </section>
+
+  <!-- Statewide Findings Section -->
+  <section class="story-section" data-section="findings">
+    <div class="story-content">
+      <h2>What We Found: Vermont's Zoning Patterns</h2>
+      <p>The Vermont Zoning Atlas reveals clear patterns in how our communities regulate housing. These findings help identify where reforms could create more housing opportunities while maintaining community character.</p>
+
+      <h3 style="margin-top: 2rem; font-size: 1.8rem; color: #27ae60;">Single-Family Housing</h3>
+      <p style="font-size: 1.3rem; line-height: 1.8;"><strong>Single-family homes are widely permitted across Vermont.</strong> The vast majority of Vermont's zoned land allows single-family housing by right, reflecting the state's traditional settlement patterns. However, many districts require large lot sizes (1+ acres) that increase land costs and limit development in village centers and near existing infrastructure.</p>
+      
+      <div style="background: #f8f9fa; padding: 2rem; border-radius: 8px; margin: 2rem 0;">
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; text-align: center;">
+          <div>
+            <div style="font-size: 3rem; font-weight: bold; color: #27ae60;">~90%</div>
+            <div style="font-size: 1.1rem; margin-top: 0.5rem;">of districts permit single-family homes</div>
+          </div>
+          <div>
+            <div style="font-size: 3rem; font-weight: bold; color: #f39c12;">~60%</div>
+            <div style="font-size: 1.1rem; margin-top: 0.5rem;">require lots of 1 acre or larger</div>
+          </div>
+        </div>
+      </div>
+
+      <h3 style="margin-top: 3rem; font-size: 1.8rem; color: #f39c12;">Duplexes and Triplexes: The "Missing Middle"</h3>
       <p style="font-size: 1.3rem; line-height: 1.8;"><strong>Two- and three-family homes face significant barriers.</strong> These traditional Vermont housing types—common in village centers and mill towns—are often prohibited or require conditional use permits in many districts. This "missing middle" housing provides naturally affordable options between single-family homes and larger apartments.</p>
       
       <div style="background: #fff3e0; padding: 2rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #f39c12;">
-        <p style="font-size: 1.2rem; margin: 0;"><strong>Key Finding:</strong> Duplexes require public hearings or are prohibited in many residential districts. This affects where 2-3 family homes can be built, including in village centers and walkable neighborhoods.</p>
+        <p style="font-size: 1.2rem; margin: 0;"><strong>Key Finding:</strong> Duplexes require public hearings or are prohibited in many residential districts, making them difficult to build even where they would fit the neighborhood character. Streamlining approval for 2-3 family homes in village zoning districts could help communities grow while preserving walkability.</p>
       </div>
 
       <h3 style="margin-top: 3rem; font-size: 1.8rem; color: #e74c3c;">Multi-Family Housing: Four Units and Above</h3>
@@ -529,16 +532,16 @@
       </div>
 
       <h3 style="margin-top: 3rem; font-size: 1.8rem; color: #667eea;">Accessory Dwelling Units (ADUs)</h3>
-      <p style="font-size: 1.3rem; line-height: 1.8;"><strong>ADU regulations now follow statewide requirements.</strong> Vermont law requires by-right ADUs on lots with an existing single-family home, subject to applicable health and safety, wastewater, historic district, and dimensional standards. Municipal rules still shape size, placement, and parking where allowed by statute.</p>
+      <p style="font-size: 1.3rem; line-height: 1.8;"><strong>ADU regulations vary widely.</strong> Vermont law encourages but does not mandate ADUs. Some towns embrace them as "granny flats" helping families age in place, while others restrict them with owner-occupancy requirements, size limits, or prohibitions on detached ADUs.</p>
       
       <div style="background: #e8eaf6; padding: 2rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #667eea;">
-        <p style="font-size: 1.2rem; margin: 0;"><strong>ADU Context:</strong> Changes to ADU regulations affect how many rental units can be built. ADUs can provide income for homeowners and create rental units at various price points.</p>
+        <p style="font-size: 1.2rem; margin: 0;"><strong>Opportunity:</strong> Standardizing ADU allowances and reducing permitting barriers could create hundreds of new rental units annually without changing neighborhood character. ADUs provide income for homeowners and naturally affordable rentals.</p>
       </div>
 
-      <h3 style="margin-top: 3rem; font-size: 1.8rem;">Lot Size Requirements and Land Costs</h3>
-      <p style="font-size: 1.3rem; line-height: 1.8;">Large minimum lot sizes increase the land cost component of housing. Many Vermont towns require 1-3 acre minimums even in areas with municipal water and sewer service.</p>
+      <h3 style="margin-top: 3rem; font-size: 1.8rem;">Lot Size Requirements: A Major Cost Driver</h3>
+      <p style="font-size: 1.3rem; line-height: 1.8;">Large minimum lot sizes increase land costs, promote sprawl, and make infrastructure more expensive. Many Vermont towns require 1-3 acre minimums even in areas with municipal water and sewer service where smaller lots would be appropriate.</p>
       
-      <p style="background: #fff3cd; padding: 1.5rem; border-radius: 8px; margin-top: 1.5rem;"><strong>Context:</strong> Requiring a $100,000 lot instead of a $50,000 lot directly increases the minimum price of a home. Lot size requirements affect the economics of housing development.</p>
+      <p style="background: #fff3cd; padding: 1.5rem; border-radius: 8px; margin-top: 1.5rem;"><strong>Why It Matters:</strong> Requiring a $100,000 lot instead of a $50,000 lot directly increases the minimum price of a home. Smaller lots in walkable areas support local businesses, reduce driving, and make homeownership more accessible.</p>
 
       <p style="margin-top: 3rem; font-size: 1.1rem; font-style: italic; color: #666;">Note: Specific percentages shown are illustrative. Detailed statistical analysis of the Vermont Zoning Atlas dataset is ongoing. Use the interactive map to explore actual regulations in specific districts.</p>
     </div>
@@ -548,15 +551,15 @@
   <section class="story-section" data-section="case-study">
     <div class="story-content">
       <h2>Regional Focus: Chittenden County</h2>
-      <p>Vermont's most populous region contains 19 municipalities with 168,000 residents. The Burlington metropolitan area provides a case study of how zoning regulations vary across an economically integrated region.</p>
+      <p>Vermont's most populous region faces the state's most acute housing shortage. Let's examine how zoning affects housing availability in the Burlington metropolitan area—home to 168,000 residents across 19 municipalities.</p>
 
-      <h3 style="margin-top: 2rem; font-size: 1.5rem;">Regional Context</h3>
-      <p>This region contains Vermont's largest job market, the University of Vermont, the state's main hospital complex, and tech sector employers. Housing market indicators include:</p>
+      <h3 style="margin-top: 2rem; font-size: 1.5rem;">Why Chittenden County?</h3>
+      <p>This region contains Vermont's largest job market, the University of Vermont, the state's main hospital complex, and growing tech sector. Yet housing production hasn't kept pace with demand, creating:</p>
       <ul style="font-size: 1.2rem; line-height: 1.8; margin: 1.5rem 0 1.5rem 2rem;">
-        <li>Rental vacancy rates below 1% (compared to 3-5% in balanced markets)</li>
+        <li>Less than 1% rental vacancy rates (3-5% is healthy)</li>
         <li>Median home prices exceeding $450,000 in many towns</li>
-        <li>Significant commuting distances for many workers</li>
-        <li>Documentation of outmigration in some age groups</li>
+        <li>Workers commuting 30+ miles due to lack of nearby housing</li>
+        <li>Young people and families leaving the area</li>
       </ul>
 
       <h3 style="margin-top: 2rem; font-size: 1.5rem;">What Zoning Shows</h3>
@@ -566,24 +569,25 @@
       
       <div style="background: #e3f2fd; padding: 2rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #2196f3;">
         <h4 style="margin-top: 0; color: #1976d2;">Example: South Burlington</h4>
-        <p style="margin: 0;">Vermont's second-largest city has significant commercial development. Residential zoning includes 1-acre minimum lots in many areas. Multi-family housing is restricted to specific zones. The city contains major employers with thousands of jobs.</p>
+        <p style="margin: 0;">Vermont's second-largest city has significant commercial development but residential zoning that limits density. Much of the city requires 1-acre minimum lots, and multi-family housing is restricted to specific zones. Allowing duplexes and triplexes by right in more residential districts could create hundreds of units near jobs at the city's major employers.</p>
       </div>
 
       <div style="background: #f3e5f5; padding: 2rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #9c27b0;">
         <h4 style="margin-top: 0; color: #7b1fa2;">Example: Williston</h4>
-        <p style="margin: 0;">A major commercial corridor along Route 2 includes big-box retail and office parks. Residential zoning emphasizes large-lot single-family homes. The town has significant employment but limited housing near job centers.</p>
+        <p style="margin: 0;">A major commercial corridor along Route 2 with big-box retail and office parks, but residential zoning heavily favors large-lot single-family homes. Workers at Williston's businesses struggle to find housing nearby, increasing traffic and sprawl. Mixed-use zoning allowing residential above retail could add workforce housing.</p>
       </div>
 
-      <h3 style="margin-top: 2rem; font-size: 1.5rem;">Regulatory Variations in Chittenden County</h3>
-      <p>The atlas reveals several common patterns in Chittenden County zoning:</p>
+      <h3 style="margin-top: 2rem; font-size: 1.5rem;">Reform Opportunities</h3>
+      <p>Chittenden County towns could take several incremental steps based on the atlas findings:</p>
       <ul style="font-size: 1.1rem; line-height: 1.8; margin: 1rem 0 1rem 2rem;">
-        <li>Duplexes often require public hearings or are prohibited in residential zones</li>
-        <li>Lot size minimums typically range from ½ acre to 2+ acres, even where municipal water/sewer exists</li>
-        <li>Historic village centers have varying approaches to mixed-use and multi-family housing</li>
-        <li>ADU rules follow statewide by-right requirements, with remaining variation in dimensional limits, parking, and wastewater constraints</li>
-        <li>Small multi-family (4-8 units) allowances differ significantly near transit and commercial areas</li>
+        <li><strong>Allow duplexes by right</strong> in all residential zones—these fit existing neighborhood character</li>
+        <li><strong>Reduce lot size minimums</strong> in areas with municipal water/sewer to ¼-½ acre</li>
+        <li><strong>Create village zoning</strong> in historic centers allowing mixed-use and missing middle housing</li>
+        <li><strong>Streamline ADU approvals</strong> by removing owner-occupancy and parking requirements</li>
+        <li><strong>Allow small multi-family</strong> (4-8 units) by right near transit and commercial areas</li>
       </ul>
 
+      <p style="margin-top: 2rem; background: #e8f5e9; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #27ae60;"><strong>Policy Note:</strong> These reforms don't force development—they remove barriers for property owners who want to build housing. Market forces and local review processes still shape what gets built.</p>
     </div>
   </section>
 
@@ -592,154 +596,84 @@
     <div class="story-content">
       <h2>Regional Planning Commissions: Partners in This Work</h2>
       <p>Many Vermont towns don't have professional planning staff. To support local planning efforts, the state created 11 <strong>Regional Planning Commissions (RPCs)</strong>. These organizations provide technical assistance, coordinate regional planning, help towns update their bylaws, and offer GIS mapping services.</p>
-      <p>RPCs have been essential partners in creating this atlas, providing zoning maps and local expertise for their member municipalities. Hover over each region on the map below to see details.</p>
+      <p>RPCs have been essential partners in creating this atlas, providing zoning maps and local expertise for their member municipalities.</p>
       
-      <div id="rpc-map" style="width: 100%; height: 600px; margin: 2rem 0; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);"></div>
-      
-      <script>
-        // Initialize RPC map
-        var rpcMap = L.map('rpc-map').setView([43.951, -72.756], 7);
-
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-          attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        }).addTo(rpcMap);
-
-        // RPC data
-        var rpcDataInfo = {
-          "ACRPC": {name: "Addison County RPC", municipalities: 23, population: "~37,000"},
-          "BCRC": {name: "Bennington County RPC", municipalities: 19, population: "~36,000"},
-          "CCRPC": {name: "Chittenden County RPC", municipalities: 19, population: "~168,000"},
-          "CVRPC": {name: "Central Vermont RPC", municipalities: 23, population: "~59,000"},
-          "LCPC": {name: "Lamoille County PC", municipalities: 13, population: "~26,000"},
-          "MARC": {name: "Mount Ascutney RPC", municipalities: 24, population: "~32,000"},
-          "NVDA": {name: "Northeastern Vermont Dev. Assoc.", municipalities: 51, population: "~62,000"},
-          "NWRPC": {name: "Northwest RPC", municipalities: 20, population: "~49,000"},
-          "RRPC": {name: "Rutland RPC", municipalities: 27, population: "~59,000"},
-          "TRORC": {name: "Two Rivers-Ottauquechee RPC", municipalities: 30, population: "~47,000"},
-          "WRC": {name: "Windham RPC", municipalities: 27, population: "~45,000"}
-        };
-
-        // Load RPC boundaries from the statewide RPC boundary file
-        fetch('data/RPC/FS_VCGI_OPENDATA_Boundary_BNDHASH_poly_rpcs_SP_v1_-2506779440143601783.geojson?v=20260212')
-          .then(response => response.json())
-          .then(data => {
-            var layer = L.geoJSON(data, {
-              style: {
-                fillColor: '#667eea',
-                weight: 2,
-                opacity: 1,
-                color: '#fff',
-                fillOpacity: 0.3
-              },
-              onEachFeature: function(feature, layer) {
-                var props = feature.properties || {};
-                var rpcAbbrev = props.INITIALS || props.RPC || '';
-                var rpcInfo = rpcDataInfo[rpcAbbrev] || {};
-                var displayName = rpcInfo.name || props.SHORTNAME || props.LONGNAME || rpcAbbrev;
-                var longName = props.LONGNAME || '';
-                var longNameLine = (longName && longName !== displayName) ? longName : '';
-                var municipalities = rpcInfo.municipalities ? (rpcInfo.municipalities + " municipalities") : '';
-                var population = rpcInfo.population ? (rpcInfo.population + " residents") : '';
-                var metaLine = [municipalities, population].filter(Boolean).join(' • ');
-
-                var tooltipContent = "<div style='padding: 0.5rem;'>" +
-                  "<strong style='font-size: 1.1rem; color: #667eea;'>" + displayName + "</strong>" +
-                  (rpcAbbrev ? "<div style='font-size: 0.9rem; font-weight: 600; color: #666; margin-top: 0.25rem;'>" + rpcAbbrev + "</div>" : "") +
-                  (longNameLine ? "<div style='font-size: 0.9rem; color: #555; margin-top: 0.25rem;'>" + longNameLine + "</div>" : "") +
-                  (metaLine ? "<div style='margin-top: 0.5rem; font-size: 0.95rem;'>" + metaLine + "</div>" : "") +
-                  "</div>";
-
-                layer.bindTooltip(tooltipContent, {
-                  sticky: true,
-                  className: 'custom-tooltip'
-                });
-
-                layer.on('mouseover', function(e) {
-                  e.target.setStyle({
-                    fillOpacity: 0.6
-                  });
-                });
-
-                layer.on('mouseout', function(e) {
-                  e.target.setStyle({
-                    fillOpacity: 0.3
-                  });
-                });
-              }
-            }).addTo(rpcMap);
-
-            if (layer.getBounds().isValid()) {
-              rpcMap.fitBounds(layer.getBounds());
-            }
-          })
-          .catch(error => console.error('Error loading RPC boundaries:', error));
-      </script>
-      
-      <div class="rpc-grid" style="margin-top: 3rem;">
+      <div class="rpc-grid">
         <div class="rpc-card">
           <div class="rpc-name">Addison County RPC</div>
           <div class="rpc-abbrev">ACRPC</div>
-          <p><a href="http://www.acrpc.org/">www.acrpc.org</a></p>
+          <div class="rpc-pop">23 municipalities • ~37,000 residents</div>
+          <p><a href="http://www.acrpc.org/" target="_blank">www.acrpc.org</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Bennington County RPC</div>
           <div class="rpc-abbrev">BCRC</div>
-          <p><a href="http://www.bcrcvt.org/">www.bcrcvt.org</a></p>
+          <div class="rpc-pop">19 municipalities • ~36,000 residents</div>
+          <p><a href="http://www.bcrcvt.org/" target="_blank">www.bcrcvt.org</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Chittenden County RPC</div>
           <div class="rpc-abbrev">CCRPC</div>
-          <p><a href="http://www.ccrpcvt.org">www.ccrpcvt.org</a></p>
+          <div class="rpc-pop">19 municipalities • ~168,000 residents</div>
+          <p><a href="http://www.ccrpcvt.org" target="_blank">www.ccrpcvt.org</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Central Vermont RPC</div>
           <div class="rpc-abbrev">CVRPC</div>
-          <p><a href="http://www.centralvtplanning.org">centralvtplanning.org</a></p>
+          <div class="rpc-pop">23 municipalities • ~59,000 residents</div>
+          <p><a href="http://www.centralvtplanning.org" target="_blank">centralvtplanning.org</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Lamoille County PC</div>
           <div class="rpc-abbrev">LCPC</div>
-          <p><a href="http://www.lcpcvt.org">www.lcpcvt.org</a></p>
+          <div class="rpc-pop">13 municipalities • ~26,000 residents</div>
+          <p><a href="http://www.lcpcvt.org" target="_blank">www.lcpcvt.org</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Mount Ascutney RPC</div>
           <div class="rpc-abbrev">MARC</div>
-          <p><a href="https://marcvt.org/">marcvt.org</a></p>
+          <div class="rpc-pop">24 municipalities • ~32,000 residents</div>
+          <p><a href="https://marcvt.org/" target="_blank">marcvt.org</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Northeastern Vermont Dev. Assoc.</div>
           <div class="rpc-abbrev">NVDA</div>
-          <p><a href="http://www.nvda.net">www.nvda.net</a></p>
+          <div class="rpc-pop">51 municipalities • ~62,000 residents</div>
+          <p><a href="http://www.nvda.net" target="_blank">www.nvda.net</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Northwest RPC</div>
           <div class="rpc-abbrev">NWRPC</div>
-          <p><a href="http://www.nrpcvt.com">www.nrpcvt.com</a></p>
+          <div class="rpc-pop">20 municipalities • ~49,000 residents</div>
+          <p><a href="http://www.nrpcvt.com" target="_blank">www.nrpcvt.com</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Rutland RPC</div>
           <div class="rpc-abbrev">RRPC</div>
-          <p><a href="http://www.rutlandrpc.org">www.rutlandrpc.org</a></p>
+          <div class="rpc-pop">27 municipalities • ~59,000 residents</div>
+          <p><a href="http://www.rutlandrpc.org" target="_blank">www.rutlandrpc.org</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Two Rivers-Ottauquechee RPC</div>
           <div class="rpc-abbrev">TRORC</div>
-          <p><a href="http://www.trorc.org">www.trorc.org</a></p>
+          <div class="rpc-pop">30 municipalities • ~47,000 residents</div>
+          <p><a href="http://www.trorc.org" target="_blank">www.trorc.org</a></p>
         </div>
         
         <div class="rpc-card">
           <div class="rpc-name">Windham RPC</div>
           <div class="rpc-abbrev">WRC</div>
-          <p><a href="http://www.windhamregional.org">windhamregional.org</a></p>
+          <div class="rpc-pop">27 municipalities • ~45,000 residents</div>
+          <p><a href="http://www.windhamregional.org" target="_blank">windhamregional.org</a></p>
         </div>
       </div>
     </div>
@@ -800,9 +734,6 @@
       // Store all GeoJSON layers for re-styling
       var geoJsonLayers = [];
       var currentHousingType = 'F1F_Allowance';
-      var loadedCount = 0;
-      var failedCount = 0;
-      var failedFiles = [];
 
       // Function to determine color based on allowance value
       function getColor(allowance) {
@@ -835,7 +766,7 @@
 
       // List of fields to display in the popup
       var fieldsToDisplay = [
-        "Jurisdiction_County","Jurisdiction_District_Name", "District_Type", "District_Name",
+        "County","Jurisdiction_District_Name", "District_Type", "District_Name",
         "Overlay_District","F1F_Allowance","F2F_Allowance","F3F_Allowance",
         "F4F_Allowance", "Affordable_Housing_District",
         "ADU_Owner_Occupancy_Required","F1F_Elderly_Housing_Only",
@@ -872,18 +803,6 @@
           
           popupContent += "</div>";
           layer.bindPopup(popupContent);
-          
-          // Bind tooltip for hover display
-          var tooltipText = (feature.properties.Jurisdiction || "") + 
-                           (feature.properties.Jurisdiction && feature.properties.Jurisdiction_District_Name ? " - " : "") +
-                           (feature.properties.Jurisdiction_District_Name || "");
-          if (tooltipText) {
-            layer.bindTooltip(tooltipText, {
-              permanent: false,
-              sticky: true,
-              className: 'custom-tooltip'
-            });
-          }
         }
         
         // Add hover effect
@@ -909,273 +828,15 @@
         });
       }
 
-      // List of all Vermont municipality GeoJSON files (preserve file extension casing)
-      var vtMunicipalities = [
-        { name: "Addison_Addison_rev12262017", ext: "geojson" },
-        { name: "Addison_Bridport_rev03132025", ext: "geojson" },
-        { name: "Addison_Bristol_rev", ext: "geojson" },
-        { name: "Addison_Cornwall_rev02052008", ext: "geojson" },
-        { name: "Addison_Ferrisburgh_rev", ext: "geojson" },
-        { name: "Addison_Goshen_rev05082017", ext: "geojson" },
-        { name: "Addison_Leicester_rev", ext: "geojson" },
-        { name: "Addison_Lincoln_rev", ext: "geojson" },
-        { name: "Addison_Middlebury_rev09132022", ext: "geojson" },
-        { name: "Addison_Monkton_rev03072023", ext: "geojson" },
-        { name: "Addison_NewHaven_rev04012024", ext: "geojson" },
-        { name: "Addison_Orwell_rev03052019", ext: "geojson" },
-        { name: "Addison_Panton_rev02012022", ext: "geojson" },
-        { name: "Addison_Ripton_rev01282022", ext: "geojson" },
-        { name: "Addison_Salisbury_rev", ext: "geojson" },
-        { name: "Addison_Shoreham_rev01312024", ext: "geojson" },
-        { name: "Addison_Starksboro_rev01282020", ext: "geojson" },
-        { name: "Addison_Vergennes_rev06142022", ext: "geojson" },
-        { name: "Addison_Weybridge_rev01032017", ext: "geojson" },
-        { name: "Addison_waltham_rev06012019", ext: "geojson" },
-        { name: "Addison_whiting_rev12292005", ext: "geojson" },
-        { name: "Bennignton_Readsboro_rev05292013", ext: "geojson" },
-        { name: "Bennington_Arlington_rev02212022", ext: "geojson" },
-        { name: "Bennington_Bennington_rev06242024", ext: "geojson" },
-        { name: "Bennington_Dorset_rev09122023", ext: "geojson" },
-        { name: "Bennington_Landgrove_rev03012024", ext: "geojson" },
-        { name: "Bennington_ManchesterVillage_rev07072015", ext: "geojson" },
-        { name: "Bennington_Manchester_rev11022021", ext: "geojson" },
-        { name: "Bennington_OldBennington_rev", ext: "geojson" },
-        { name: "Bennington_Pownal_rev08122021", ext: "geojson" },
-        { name: "Bennington_Rupert_rev", ext: "geojson" },
-        { name: "Bennington_Sandgate_rev05062024", ext: "geojson" },
-        { name: "Bennington_Shaftsbury_rev", ext: "geojson" },
-        { name: "Bennington_Stamford_rev10232020", ext: "geojson" },
-        { name: "Bennington_winhall_rev03062018", ext: "geojson" },
-        { name: "Caledonia_Hardwick_rev09052024", ext: "geojson" },
-        { name: "Caledonia_Peacham_rev01092025", ext: "geojson" },
-        { name: "Caledonia_Waterford_rev03052024", ext: "geojson" },
-        { name: "Chittenden_Bolton_rev06162025", ext: "geojson" },
-        { name: "Chittenden_BuelsGore_rev08232010", ext: "geojson" },
-        { name: "Chittenden_Burlington_rev11272024", ext: "geojson" },
-        { name: "Chittenden_Charlotte_rev", ext: "geojson" },
-        { name: "Chittenden_Colchester_rev", ext: "geojson" },
-        { name: "Chittenden_EssexJunction_rev07122016", ext: "geojson" },
-        { name: "Chittenden_Essex_rev", ext: "geojson" },
-        { name: "Chittenden_Hinesburg_rev10102016", ext: "geojson" },
-        { name: "Chittenden_Jericho_rev", ext: "geojson" },
-        { name: "Chittenden_Milton_rev", ext: "geojson" },
-        { name: "Chittenden_Richmond_rev01292025", ext: "geojson" },
-        { name: "Chittenden_Shelburne_rev", ext: "geojson" },
-        { name: "Chittenden_StGeorge_rev06162013", ext: "geojson" },
-        { name: "Chittenden_Underhill_rev", ext: "geojson" },
-        { name: "Chittenden_Westford_rev06222020", ext: "geojson" },
-        { name: "Chittenden_Williston_rev", ext: "geojson" },
-        { name: "Chittenden_Winooski_rev07072025", ext: "geojson" },
-        { name: "Franklin_Bakersfield_rev", ext: "geojson" },
-        { name: "Franklin_Berkshire_rev08012024", ext: "geojson" },
-        { name: "Franklin_Enosburgh_rev05012013", ext: "geojson" },
-        { name: "Franklin_Enosburghfalls_rev11012013", ext: "geojson" },
-        { name: "Franklin_Fairfax_rev02012011", ext: "geojson" },
-        { name: "Franklin_Fairfield_rev02012020", ext: "geojson" },
-        { name: "Franklin_Fletcher_rev", ext: "geojson" },
-        { name: "Franklin_Franklin_rev08152018", ext: "geojson" },
-        { name: "Franklin_Georgia_rev", ext: "geojson" },
-        { name: "Franklin_Highgate_rev03012015", ext: "geojson" },
-        { name: "Franklin_Montgomery_rev", ext: "geojson" },
-        { name: "Franklin_Richford_rev", ext: "geojson" },
-        { name: "Franklin_SaintAlbansCity_rev", ext: "geojson" },
-        { name: "Franklin_SaintAlbansTown_rev", ext: "geojson" },
-        { name: "Franklin_Sheldon_rev", ext: "geojson" },
-        { name: "Franklin_Swanton_rev05012008", ext: "geojson" },
-        { name: "GrandIsle_GrandIsle_rev02172025", ext: "geojson" },
-        { name: "GrandIsle_NorthHero_rev08012014", ext: "geojson" },
-        { name: "GrandIsle_SouthHero_rev03012020", ext: "geojson" },
-        { name: "Lamoille_Elmore_rev", ext: "geojson" },
-        { name: "Lamoille_HydeParkTown_rev", ext: "geojson" },
-        { name: "Lamoille_HydeParkVillage_rev02012020", ext: "geojson" },
-        { name: "Lamoille_JohnsonTownJohnsonVillage_rev", ext: "geojson" },
-        { name: "Lamoille_JohnsonTown_rev", ext: "geojson" },
-        { name: "Lamoille_Morristown_Morrisville_rev03312023", ext: "geojson" },
-        { name: "Lamoille_Wolcott_rev12012016", ext: "geojson" },
-        { name: "Orange_Fairlee_Overlay_rev", ext: "geojson" },
-        { name: "Orange_Fairlee_rev", ext: "geojson" },
-        { name: "Orange_Newbury_Overlay_rev", ext: "geojson" },
-        { name: "Orange_Randolph_rev", ext: "geojson" },
-        { name: "Orleans_Derby_rev", ext: "geojson" },
-        { name: "Orleans_NewportCity_rev04172023", ext: "geojson" },
-        { name: "Orleans_Troy_rev", ext: "geojson" },
-        { name: "Orleans_Westfield_rev", ext: "geojson" },
-        { name: "Rutland_Benson_rev", ext: "geojson" },
-        { name: "Rutland_Brandon_rev11052024", ext: "geojson" },
-        { name: "Rutland_Castleton_rev", ext: "geojson" },
-        { name: "Rutland_Clarendon_rev06132016", ext: "geojson" },
-        { name: "Rutland_FairHaven_rev07162020", ext: "geojson" },
-        { name: "Rutland_Hubbardton_rev06202019", ext: "geojson" },
-        { name: "Rutland_Killington_rev02222024", ext: "geojson" },
-        { name: "Rutland_Mendon_rev", ext: "geojson" },
-        { name: "Rutland_Pawlet_rev", ext: "geojson" },
-        { name: "Rutland_Pittsford_rev05082019", ext: "geojson" },
-        { name: "Rutland_Poultney_rev", ext: "geojson" },
-        { name: "Rutland_Proctor_rev", ext: "geojson" },
-        { name: "Rutland_RutlandCity_rev", ext: "geojson" },
-        { name: "Rutland_Shrewsbury_rev", ext: "geojson" },
-        { name: "Rutland_Sudbury_rev12202017", ext: "geojson" },
-        { name: "Rutland_Tinmouth_rev", ext: "geojson" },
-        { name: "Rutland_Wallingford_rev", ext: "geojson" },
-        { name: "Rutland_WestHaven_rev03012019", ext: "geojson" },
-        { name: "Rutland_WestRutland_rev10282021", ext: "geojson" },
-        { name: "Washington_BarreTown_rev09092007", ext: "geojson" },
-        { name: "Washington_Northfield_rev", ext: "geojson" },
-        { name: "Washington_Waterbury_rev02072013", ext: "geojson" },
-        { name: "Windham_Brattleboro_rev", ext: "geojson" },
-        { name: "Windham_Halifax_rev03062007", ext: "geojson" },
-        { name: "Windham_Londonderry_Overlay_rev", ext: "geojson" },
-        { name: "Windham_Londonderry_rev", ext: "geojson" },
-        { name: "Windham_Newfane_rev09012008", ext: "geojson" },
-        { name: "Windham_Putney_rev", ext: "geojson" },
-        { name: "Windham_Rockingham_rev", ext: "geojson" },
-        { name: "Windsor_Andover_rev", ext: "geojson" },
-        { name: "Windsor_Baltimore_rev06092024", ext: "geojson" },
-        { name: "Windsor_LudlowTown_Overlay_rev", ext: "geojson" },
-        { name: "Windsor_LudlowTown_rev", ext: "geojson" },
-        { name: "Windsor_LudlowVillage_rev", ext: "geojson" },
-        { name: "Windsor_Norwich_rev", ext: "geojson" },
-        { name: "Windsor_Springfield_Overlays_rev", ext: "geojson" },
-        { name: "Windsor_Springfield_rev", ext: "geojson" },
-        { name: "Windsor_Stockbridge_rev", ext: "geojson" },
-        { name: "Windsor_Weston_rev", ext: "geojson" },
-        { name: "Windsor_WoodstockVillage_rev", ext: "geojson" },
-        { name: "Bennington_Glastenbury_rev", ext: "geoJSON" },
-        { name: "Bennington_Peru_rev", ext: "geoJSON" },
-        { name: "Bennington_Sunderland_Overlay_rev", ext: "geoJSON" },
-        { name: "Bennington_Sunderland_rev", ext: "geoJSON" },
-        { name: "Bennington_Woodford_Overlay_rev", ext: "geoJSON" },
-        { name: "Bennington_Woodford_rev", ext: "geoJSON" },
-        { name: "Caledonia_Barnet_rev", ext: "geoJSON" },
-        { name: "Caledonia_Burke_rev", ext: "geoJSON" },
-        { name: "Caledonia_Danville_rev", ext: "geoJSON" },
-        { name: "Caledonia_Groton_rev", ext: "geoJSON" },
-        { name: "Caledonia_Hardwick_rev", ext: "geoJSON" },
-        { name: "Caledonia_Kirby_rev", ext: "geoJSON" },
-        { name: "Caledonia_Lyndon_rev", ext: "geoJSON" },
-        { name: "Caledonia_Peacham_rev", ext: "geoJSON" },
-        { name: "Caledonia_Ryegate_rev", ext: "geoJSON" },
-        { name: "Caledonia_SaintJohnsbury_rev", ext: "geoJSON" },
-        { name: "Caledonia_Stannard_rev", ext: "geoJSON" },
-        { name: "Caledonia_Sutton_rev", ext: "geoJSON" },
-        { name: "Caledonia_Waterford_rev", ext: "geoJSON" },
-        { name: "Essex_Averill_rev", ext: "geoJSON" },
-        { name: "Essex_AverysGore_rev", ext: "geoJSON" },
-        { name: "Essex_Brighton_rev", ext: "geoJSON" },
-        { name: "Essex_Brunswick_rev", ext: "geoJSON" },
-        { name: "Essex_Canaan_Overlay_rev", ext: "geoJSON" },
-        { name: "Essex_Canaan_rev", ext: "geoJSON" },
-        { name: "Essex_Concord_rev", ext: "geoJSON" },
-        { name: "Essex_Ferdinand_rev", ext: "geoJSON" },
-        { name: "Essex_Granby_rev", ext: "geoJSON" },
-        { name: "Essex_Guildhall_rev", ext: "geoJSON" },
-        { name: "Essex_Lemington_rev", ext: "geoJSON" },
-        { name: "Essex_Lewis_rev", ext: "geoJSON" },
-        { name: "Essex_Maidstone_Overlay_rev", ext: "geoJSON" },
-        { name: "Essex_Maidstone_rev", ext: "geoJSON" },
-        { name: "Essex_Norton_Overlay_rev", ext: "geoJSON" },
-        { name: "Essex_Norton_rev", ext: "geoJSON" },
-        { name: "Essex_WarnersGrant_rev", ext: "geoJSON" },
-        { name: "Essex_WarrensGore_rev", ext: "geoJSON" },
-        { name: "Orange_BradfordTown_Overlay_rev", ext: "geoJSON" },
-        { name: "Orange_BradfordTown_rev", ext: "geoJSON" },
-        { name: "Orange_Braintree_Overlay_rev", ext: "geoJSON" },
-        { name: "Orange_Braintree_rev", ext: "geoJSON" },
-        { name: "Orange_Brookfield_Overlay_rev", ext: "geoJSON" },
-        { name: "Orange_Brookfield_rev", ext: "geoJSON" },
-        { name: "Orange_Chelsea_Overlay_rev", ext: "geoJSON" },
-        { name: "Orange_Chelsea_rev", ext: "geoJSON" },
-        { name: "Orange_Newbury_rev", ext: "geoJSON" },
-        { name: "Orange_Randolph_Overlay_rev", ext: "geoJSON" },
-        { name: "Orange_Strafford_Overlay_rev", ext: "geoJSON" },
-        { name: "Orange_Strafford_rev", ext: "geoJSON" },
-        { name: "Orange_Thetford_Overlay_rev", ext: "geoJSON" },
-        { name: "Orange_Thetford_rev", ext: "geoJSON" },
-        { name: "Orange_Vershire_Overlay_rev", ext: "geoJSON" },
-        { name: "Orange_Vershire_rev", ext: "geoJSON" },
-        { name: "Orange_Washington_rev", ext: "geoJSON" },
-        { name: "Orleans_Barton_rev", ext: "geoJSON" },
-        { name: "Orleans_Greensboro_rev", ext: "geoJSON" },
-        { name: "Orleans_Jay_rev", ext: "geoJSON" },
-        { name: "Orleans_Lowell_rev", ext: "geoJSON" },
-        { name: "Orleans_Morgan_rev", ext: "geoJSON" },
-        { name: "Orleans_NewportCity_FBCOoverlay_rev", ext: "geoJSON" },
-        { name: "Orleans_NewportCity_rev", ext: "geoJSON" },
-        { name: "Orleans_NewportTown_rev", ext: "geoJSON" },
-        { name: "Orleans_Troy_Overlay_rev", ext: "geoJSON" },
-        { name: "Orleans_Westmore_rev", ext: "geoJSON" },
-        { name: "Washington_BarreCity_Overlay_rev", ext: "geoJSON" },
-        { name: "Washington_BarreCity_rev", ext: "geoJSON" },
-        { name: "Washington_Berlin_rev", ext: "geoJSON" },
-        { name: "Washington_Cabot_rev", ext: "geoJSON" },
-        { name: "Washington_Calais_Overlay_rev", ext: "geoJSON" },
-        { name: "Washington_Calais_Overlays_rev", ext: "geoJSON" },
-        { name: "Washington_Calais_rev", ext: "geoJSON" },
-        { name: "Washington_Duxbury_Overlay_rev", ext: "geoJSON" },
-        { name: "Washington_Duxbury_rev", ext: "geoJSON" },
-        { name: "Washington_EastMontpelier_rev", ext: "geoJSON" },
-        { name: "Washington_Fayston_Overlay_rev", ext: "geoJSON" },
-        { name: "Washington_Fayston_rev", ext: "geoJSON" },
-        { name: "Washington_Marshfield_rev", ext: "geoJSON" },
-        { name: "Washington_Middlesex_Overlay_rev", ext: "geoJSON" },
-        { name: "Washington_Middlesex_rev", ext: "geoJSON" },
-        { name: "Washington_Montpelier_rev", ext: "geoJSON" },
-        { name: "Washington_Moretown_Overlay_rev", ext: "geoJSON" },
-        { name: "Washington_Moretown_rev", ext: "geoJSON" },
-        { name: "Washington_Plainfield_rev", ext: "geoJSON" },
-        { name: "Washington_Waitsfield_ARO_rev", ext: "geoJSON" },
-        { name: "Washington_Waitsfield_FEHO_rev", ext: "geoJSON" },
-        { name: "Washington_Waitsfield_FHO_rev", ext: "geoJSON" },
-        { name: "Washington_Waitsfield_HCVO_rev", ext: "geoJSON" },
-        { name: "Washington_Waitsfield_rev", ext: "geoJSON" },
-        { name: "Washington_Warren_Flood_rev", ext: "geoJSON" },
-        { name: "Washington_Warren_Meadow_rev", ext: "geoJSON" },
-        { name: "Washington_Warren_rev", ext: "geoJSON" },
-        { name: "Washington_Woodbury_rev", ext: "geoJSON" },
-        { name: "Windham_Dover_rev", ext: "geoJSON" },
-        { name: "Windham_Dummerston_rev", ext: "geoJSON" },
-        { name: "Windham_Marlboro_rev", ext: "geoJSON" },
-        { name: "Windham_Stratton_rev", ext: "geoJSON" },
-        { name: "Windham_Wardsboro_rev", ext: "geoJSON" },
-        { name: "Windham_Westminster_rev", ext: "geoJSON" },
-        { name: "Windham_Whitingham_rev", ext: "geoJSON" },
-        { name: "Windham_Wilmington_rev", ext: "geoJSON" },
-        { name: "Windham_Windham_rev", ext: "geoJSON" },
-        { name: "Windsor_Barnard_Overlay_rev", ext: "geoJSON" },
-        { name: "Windsor_Barnard_rev", ext: "geoJSON" },
-        { name: "Windsor_Bethel_Overlay_rev", ext: "geoJSON" },
-        { name: "Windsor_Bethel_rev", ext: "geoJSON" },
-        { name: "Windsor_Chester_Overlay_rev", ext: "geoJSON" },
-        { name: "Windsor_Chester_rev", ext: "geoJSON" },
-        { name: "Windsor_Hartford_Overlay_rev", ext: "geoJSON" },
-        { name: "Windsor_Hartford_rev", ext: "geoJSON" },
-        { name: "Windsor_Norwich_Overlay_rev", ext: "geoJSON" },
-        { name: "Windsor_Plymouth_Overlay_rev", ext: "geoJSON" },
-        { name: "Windsor_Plymouth_rev", ext: "geoJSON" },
-        { name: "Windsor_Pomfret_Overlays_rev", ext: "geoJSON" },
-        { name: "Windsor_Pomfret_rev", ext: "geoJSON" },
-        { name: "Windsor_Reading_Overlays_rev", ext: "geoJSON" },
-        { name: "Windsor_Reading_rev", ext: "geoJSON" },
-        { name: "Windsor_Rochester_rev", ext: "geoJSON" },
-        { name: "Windsor_Stockbridge_Overlay_rev", ext: "geoJSON" },
-        { name: "Windsor_Weathersfield_rev", ext: "geoJSON" },
-        { name: "Windsor_WestWindsor_rev", ext: "geoJSON" },
-        { name: "Windsor_Windsor_Overlay_rev", ext: "geoJSON" },
-        { name: "Windsor_Windsor_rev", ext: "geoJSON" },
-        { name: "Windsor_WoodstockTown_Overlays_rev", ext: "geoJSON" },
-        { name: "Windsor_WoodstockTown_rev", ext: "geoJSON" },
-        { name: "Windsor_WoodstockVillage_Overlay_rev", ext: "geoJSON" }
-      ];
+      // List of RPCs to load
+      var rpcs = ['ACRPC', 'BCRC', 'CCRPC', 'CVRPC', 'LCPC', 'MARC', 'NVDA', 'NWRPC', 'RRPC', 'TRORC', 'WRC'];
 
-      // Load each municipality's GeoJSON data
-      var filteredMunicipalities = vtMunicipalities.filter(municipality => !municipality.name.includes('Overlay'));
-      console.log('Starting to load ' + filteredMunicipalities.length + ' GeoJSON files...');
-      
-      filteredMunicipalities.forEach(municipality => {
-        fetch('data/State_of_Vermont/' + municipality.name + '.' + municipality.ext)
+      // Load each RPC's GeoJSON data
+      rpcs.forEach(rpc => {
+        fetch('data/RPC/' + rpc + '/' + rpc + '_Zoning.geojson')
           .then(response => {
             if (!response.ok) {
-              throw new Error('HTTP ' + response.status + ': ' + response.statusText);
+              throw new Error('Network response was not ok ' + response.statusText);
             }
             return response.json();
           })
@@ -1186,38 +847,8 @@
             }).addTo(map);
             
             geoJsonLayers.push(layer);
-            loadedCount++;
-            
-            if (loadedCount === 1) {
-              console.log('First file loaded successfully: ' + municipality.name);
-              console.log('Sample coordinates from first feature:', 
-                data.features[0] ? data.features[0].geometry.coordinates : 'No features');
-            }
-            
-            if (loadedCount + failedCount === filteredMunicipalities.length) {
-              console.log('Loading complete: ' + loadedCount + ' succeeded, ' + failedCount + ' failed');
-              if (failedFiles.length > 0) {
-                console.log('Failed files:', failedFiles);
-              }
-              // Fit map to all loaded data
-              if (geoJsonLayers.length > 0) {
-                var group = L.featureGroup(geoJsonLayers);
-                map.fitBounds(group.getBounds(), { padding: [20, 20] });
-              }
-            }
           })
-          .catch(error => {
-            failedCount++;
-            failedFiles.push(municipality.name);
-            console.error('Error loading ' + municipality.name + ':', error.message);
-            
-            if (loadedCount + failedCount === filteredMunicipalities.length) {
-              console.log('Loading complete: ' + loadedCount + ' succeeded, ' + failedCount + ' failed');
-              if (failedFiles.length > 0) {
-                console.log('Failed files:', failedFiles);
-              }
-            }
-          });
+          .catch(error => console.error('Error loading GeoJSON data for ' + rpc + ':', error));
       });
 
       // Add event listener for housing type selector
@@ -1232,23 +863,23 @@
   <section class="story-section" data-section="context">
     <div class="story-content">
       <h2>Zoning for Great Neighborhoods</h2>
-      <p>This atlas supports Vermont's <strong>"Zoning for Great Neighborhoods"</strong> initiative, led by the <a href="https://accd.vermont.gov/housing">Department of Housing and Community Development (DHCD)</a> in partnership with the <a href="https://www.cnu.org/">Congress for the New Urbanism</a>. The initiative provides resources for municipalities considering zoning changes.</p>
+      <p>This atlas supports Vermont's <strong>"Zoning for Great Neighborhoods"</strong> initiative, led by the Department of Housing and Community Development (DHCD) in partnership with the Congress for the New Urbanism. The initiative helps municipalities make incremental reforms to remove unnecessary barriers to creating more homes.</p>
 
-      <p>Zoning rules affect planning outcomes related to community integration, climate resilience, transportation access, and housing development. By mapping what's currently allowed across all 255 towns, the Vermont Zoning Atlas enables:</p>
+      <p>Zoning rules can present barriers to effective planning, impairing our ability to achieve important policy objectives like community integration, climate resilience, transportation access, and affordable housing development. By mapping what's currently allowed across all 255 towns, the Vermont Zoning Atlas helps:</p>
 
       <ul style="margin: 2rem 0; font-size: 1.1rem;">
-        <li><strong>Researchers and advocates</strong> to identify patterns in housing regulations</li>
-        <li><strong>Town officials and planning commissions</strong> to compare their bylaws to other communities</li>
-        <li><strong>Policy makers</strong> to understand statewide patterns in zoning regulations</li>
-        <li><strong>Citizens</strong> to see what's allowed in their community</li>
+        <li><strong>Researchers and advocates</strong> identify where housing barriers exist</li>
+        <li><strong>Town officials and planning commissions</strong> compare their bylaws to neighbors</li>
+        <li><strong>Policy makers</strong> understand statewide patterns and develop evidence-based solutions</li>
+        <li><strong>Citizens</strong> see what's allowed in their community and advocate for change</li>
       </ul>
 
       <h3 style="margin-top: 2.5rem;">Resources for Towns</h3>
       <p>Vermont provides extensive resources for municipalities looking to update their zoning:</p>
       <ul style="font-size: 1.1rem;">
-        <li><a href="https://outside.vermont.gov/agency/ACCD/ACCD_Web_Docs/CD/CPR/Planning-Your-Towns-Future/CPR-Z4GN-Guide-Final-web.pdf"><strong>Enabling Better Places: A Zoning Guide for Vermont Neighborhoods</strong></a> - Comprehensive guide with sample bylaw language</li>
-        <li><a href="https://accd.vermont.gov/town-future/zoning-for-great-neighborhoods"><strong>Training Videos & Resources</strong></a> - Free educational materials from AARP Vermont and DHCD</li>
-        <li><a href="https://www.housingdata.org/toolbox"><strong>Housing-Ready Toolbox</strong></a> - Collection of resources for Vermont communities</li>
+        <li><a href="https://outside.vermont.gov/agency/ACCD/ACCD_Web_Docs/CD/CPR/Planning-Your-Towns-Future/CPR-Z4GN-Guide-Final-web.pdf" target="_blank"><strong>Enabling Better Places: A Zoning Guide for Vermont Neighborhoods</strong></a> - Comprehensive guide with sample bylaw language</li>
+        <li><a href="https://accd.vermont.gov/town-future/zoning-for-great-neighborhoods" target="_blank"><strong>Training Videos & Resources</strong></a> - Free educational materials from AARP Vermont and DHCD</li>
+        <li><a href="https://www.housingdata.org/toolbox" target="_blank"><strong>Housing-Ready Toolbox</strong></a> - Collection of resources for Vermont communities</li>
         <li><strong>Regional Planning Commissions</strong> - Free technical assistance for member towns</li>
       </ul>
     </div>
@@ -1258,23 +889,18 @@
   <section class="story-section" data-section="conclusions">
     <div class="story-content">
       <h2>Next Steps: Using This Atlas</h2>
-      
-      <div style="background: #e8f5e9; padding: 2rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #27ae60;">
-        <p style="margin: 0; font-size: 1.15rem; line-height: 1.8;"><strong>Our Position on Local Control:</strong> The Vermont Zoning Atlas does not take a position in the debate between those who advocate for local control and those who argue for stronger state limits on local governance. We provide data to inform policy discussions at the local and state levels. How communities approach zoning is for local decision-makers and citizens to determine.</p>
-      </div>
-
-      <p>Instead, we provide <strong>transparent data</strong> to inform conversations about housing in Vermont. This atlas is a tool for understanding current regulations—what they allow, where barriers exist, and how communities compare to one another.</p>
+      <p>The Vermont Zoning Atlas does not prescribe specific policy solutions or take a position on local versus state authority over land use. Instead, we provide <strong>transparent data</strong> to inform conversations about housing in Vermont.</p>
 
       <h3 style="margin-top: 2rem; font-size: 1.5rem;">How Communities Can Use This Data</h3>
       
       <div style="background: #f8f9fa; padding: 2rem; border-radius: 8px; margin: 2rem 0;">
         <h4 style="color: #27ae60; margin-top: 0;">For Municipal Officials</h4>
-        <p>The atlas enables comparison of your town's zoning to similar communities and neighboring towns. Users can review regulations across Vermont to understand the range of approaches to housing regulation.</p>
+        <p>Compare your town's zoning to similar communities. See what neighboring towns allow. Use the atlas to identify quick wins—small changes that could meaningfully expand housing opportunities while maintaining community character.</p>
       </div>
 
       <div style="background: #f8f9fa; padding: 2rem; border-radius: 8px; margin: 2rem 0;">
         <h4 style="color: #f39c12; margin-top: 0;">For Planning Commissions</h4>
-        <p>Statewide data provides context for bylaw review and updates. When considering changes to multi-family allowances or lot size requirements, the atlas shows how proposals compare to regulations elsewhere in Vermont. RPCs can assist with local data analysis.</p>
+        <p>Ground bylaw updates in statewide data. When considering changes to multi-family allowances or lot size requirements, see how your proposals compare to the rest of Vermont. RPCs can help analyze your local data.</p>
       </div>
 
       <div style="background: #f8f9fa; padding: 2rem; border-radius: 8px; margin: 2rem 0;">
@@ -1284,24 +910,24 @@
 
       <div style="background: #f8f9fa; padding: 2rem; border-radius: 8px; margin: 2rem 0;">
         <h4 style="color: #e74c3c; margin-top: 0;">For Citizens</h4>
-        <p>The atlas shows what types of housing are allowed in your town. Data from the atlas can inform participation in planning commission meetings and local policy discussions.</p>
+        <p>Understand what's allowed in your town. Attend planning commission meetings informed by data. Advocate for specific reforms grounded in evidence about what works elsewhere in Vermont.</p>
       </div>
 
-      <h3 style="margin-top: 2.5rem; font-size: 1.5rem;">Common Zoning Reform Topics in Vermont</h3>
-      <p>Based on atlas findings and documented zoning changes in Vermont communities, discussions at the local level have included:</p>
+      <h3 style="margin-top: 2.5rem; font-size: 1.5rem;">Common-Sense Reforms Worth Discussing</h3>
+      <p>Based on atlas findings and national research on housing policy, communities may want to consider:</p>
       <ul style="font-size: 1.1rem; line-height: 1.8; margin: 1rem 0 1rem 2rem;">
-        <li>Duplex allowances in single-family zones</li>
-        <li>Minimum lot sizes where municipal water/sewer exists</li>
-        <li>ADU approval processes and restrictions</li>
-        <li>Small multi-family (4-8 units) allowances in village centers and near transit</li>
-        <li>Parking minimum requirements near downtowns</li>
-        <li>"Missing middle" housing districts for traditional neighborhood development</li>
+        <li><strong>Allowing duplexes by right</strong> in all single-family zones—they look and feel like single homes</li>
+        <li><strong>Reducing minimum lot sizes</strong> where municipal water/sewer exists</li>
+        <li><strong>Streamlining ADU approvals</strong> by removing unnecessary restrictions</li>
+        <li><strong>Allowing small multi-family</strong> (4-8 units) by right in village centers and near transit</li>
+        <li><strong>Reducing parking minimums</strong>, especially near downtowns and for affordable housing</li>
+        <li><strong>Creating "missing middle" zoning</strong> districts for traditional neighborhood development</li>
       </ul>
 
-      <p style="margin-top: 2rem; background: #fff3cd; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #ffc107;"><strong>Note:</strong> Vermont towns have different priorities and approaches to zoning. The atlas documents current regulations to inform local decision-making processes.</p>
+      <p style="margin-top: 2rem; background: #fff3cd; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #ffc107;"><strong>Important:</strong> These are conversation starters, not mandates. Every Vermont town has unique character, needs, and priorities. Local decision-making remains paramount—but should be informed by data.</p>
 
       <h3 style="margin-top: 2.5rem; font-size: 1.5rem;">Keeping the Atlas Current</h3>
-      <p>Zoning regulations change regularly. Our goal is to update the atlas annually, but we need community help. If your town has updated its bylaws, please <a href="contribute.html">let us know</a>. Municipal clerks, planning staff, and RPC representatives can submit updates through our GitHub repository or contact form.</p>
+      <p>Zoning regulations change regularly. Our goal is to update the atlas annually, but we need community help. If your town has updated its bylaws, please <a href="contribute.html" target="_blank">let us know</a>. Municipal clerks, planning staff, and RPC representatives can submit updates through our GitHub repository or contact form.</p>
 
       <p style="margin-top: 2rem;"><strong>The Vermont Zoning Atlas is part of the <a href="https://www.zoningatlas.org/">National Zoning Atlas Project</a>, led by Professor Sara Bronin.</strong></p>
     </div>
@@ -1327,14 +953,14 @@
       <li><a href="data.html">Data Structure & Fields</a> - Understand the dataset and field definitions</li>
       <li><a href="contribute.html">How to Contribute</a> - Help keep the atlas current</li>
       <li><a href="resources.html">Visualizations & Analysis</a> - Maps and charts using VT Zoning Atlas data</li>
-      <li><a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas">GitHub Repository</a> - Download raw data (MIT License)</li>
+      <li><a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas" target="_blank">GitHub Repository</a> - Download raw data (MIT License)</li>
     </ul>
   </main>
 
   <footer>
     <div class="container">
       <p>&copy; 2026 Vermont Zoning Atlas. Licensed under <a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/LICENSE">MIT License</a>.</p>
-      <p>Repository: <a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas">VERSO-UVM/Vermont-Zoning-Atlas</a></p>
+      <p>Repository: <a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas" target="_blank">VERSO-UVM/Vermont-Zoning-Atlas</a></p>
     </div>
   </footer>
 
@@ -1356,10 +982,14 @@
     document.querySelectorAll('.story-section').forEach(section => {
       observer.observe(section);
     });
+  </script>
 
-    // Population and Housing Growth Chart
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.min.js"></script>
+
+  <script>
     // Data from U.S. Census Bureau and Vermont Housing Data
     const ctx = document.getElementById('growthChart').getContext('2d');
+    Chart.register(ChartDataLabels);
     const growthChart = new Chart(ctx, {
       type: 'line',
       data: {
@@ -1380,7 +1010,7 @@
             borderColor: '#764ba2',
             backgroundColor: 'rgba(118, 75, 162, 0.1)',
             tension: 0.4,
-            yAxisID: 'y1',
+            yAxisID: 'y',
             fill: true
           }
         ]
@@ -1393,6 +1023,23 @@
           intersect: false,
         },
         plugins: {
+          datalabels: {
+            display: true,
+            anchor: 'end',
+            align: 'top',
+            offset: 10,
+            font: {
+              size: 11,
+              weight: 'bold'
+            },
+            formatter: function(value, context) {
+              if (value === null) return '';
+              return (value / 1000).toFixed(0) + 'K';
+            },
+            color: function(context) {
+              return context.dataset.borderColor;
+            }
+          },
           title: {
             display: true,
             text: 'Vermont Population & Housing Units (1970-2023)',
@@ -1419,33 +1066,17 @@
             type: 'linear',
             display: true,
             position: 'left',
+            beginAtZero: true,
             title: {
               display: true,
-              text: 'Population',
+              text: 'Count',
               font: { size: 14, weight: 'bold' }
             },
             ticks: {
+              beginAtZero: true,
               callback: function(value) {
                 return (value/1000).toFixed(0) + 'K';
               }
-            }
-          },
-          y1: {
-            type: 'linear',
-            display: true,
-            position: 'right',
-            title: {
-              display: true,
-              text: 'Housing Units',
-              font: { size: 14, weight: 'bold' }
-            },
-            ticks: {
-              callback: function(value) {
-                return (value/1000).toFixed(0) + 'K';
-              }
-            },
-            grid: {
-              drawOnChartArea: false,
             }
           }
         }

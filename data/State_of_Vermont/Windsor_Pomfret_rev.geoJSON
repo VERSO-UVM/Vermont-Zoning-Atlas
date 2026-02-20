@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Pomfret"
       },
       "geometry": {
@@ -867,8 +867,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "VD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Pomfret"
       },
       "geometry": {

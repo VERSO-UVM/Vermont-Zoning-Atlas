@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "APO",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "APO",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Chester"
       },
       "geometry": {

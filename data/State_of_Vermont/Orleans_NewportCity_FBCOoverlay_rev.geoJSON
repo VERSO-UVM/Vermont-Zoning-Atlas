@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FBCO",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "FBCO",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Newport City"
       },
       "geometry": {

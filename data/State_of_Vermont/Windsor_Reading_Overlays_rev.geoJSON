@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RPO",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RPO",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Reading"
       },
       "geometry": {
@@ -21651,8 +21651,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SWHOD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "SWHOD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Reading"
       },
       "geometry": {

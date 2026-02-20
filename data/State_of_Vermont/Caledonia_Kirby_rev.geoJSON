@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "C/LI",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "C/LI",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Kirby"
       },
       "geometry": {
@@ -1115,8 +1115,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FHA",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "FHA",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Kirby"
       },
       "geometry": {
@@ -1892,8 +1892,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "H",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "H",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Kirby"
       },
       "geometry": {
@@ -11721,8 +11721,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "R",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Kirby"
       },
       "geometry": {

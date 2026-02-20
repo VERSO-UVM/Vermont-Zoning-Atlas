@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FHAO",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "FHAO",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Moretown"
       },
       "geometry": {

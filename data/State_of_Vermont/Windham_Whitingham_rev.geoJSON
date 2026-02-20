@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "C",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "C",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Whitingham"
       },
       "geometry": {
@@ -5535,8 +5535,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "RR",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Whitingham"
       },
       "geometry": {
@@ -11222,8 +11222,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "Ru",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "Ru",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Whitingham"
       },
       "geometry": {
@@ -19355,8 +19355,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "V",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "V",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Whitingham"
       },
       "geometry": {

@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CN",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "CN",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Stratton"
       },
       "geometry": {
@@ -3027,8 +3027,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "C/R",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "C/R",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Stratton"
       },
       "geometry": {
@@ -5752,8 +5752,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FH",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "FH",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Stratton"
       },
       "geometry": {
@@ -6641,8 +6641,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "G",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "G",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Stratton"
       },
       "geometry": {
@@ -11682,8 +11682,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "P",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "P",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Stratton"
       },
       "geometry": {
@@ -15335,8 +15335,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "REC",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "REC",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Stratton"
       },
       "geometry": {
@@ -16504,8 +16504,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RES",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "RES",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Stratton"
       },
       "geometry": {

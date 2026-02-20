@@ -2415,10 +2415,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RecRes",
+        "Abbreviated_District_Name": "RecRes",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Westfield"
       }
     },
@@ -5920,10 +5920,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RuRes",
+        "Abbreviated_District_Name": "RuRes",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Westfield"
       }
     },
@@ -6435,10 +6435,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "Vil",
+        "Abbreviated_District_Name": "Vil",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Westfield"
       }
     }

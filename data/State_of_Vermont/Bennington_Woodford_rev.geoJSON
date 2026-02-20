@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "F",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "F",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Woodford"
       },
       "geometry": {
@@ -2547,8 +2547,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "I/C",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "I/C",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Woodford"
       },
       "geometry": {
@@ -2662,8 +2662,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "R",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Woodford"
       },
       "geometry": {
@@ -2869,8 +2869,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RC",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "RC",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Woodford"
       },
       "geometry": {
@@ -3278,8 +3278,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR/RC",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "RR/RC",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Woodford"
       },
       "geometry": {
@@ -4263,8 +4263,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR-1",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "RR-1",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Woodford"
       },
       "geometry": {
@@ -4640,8 +4640,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR-10",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "RR-10",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Woodford"
       },
       "geometry": {
@@ -5661,8 +5661,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR-5",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "RR-5",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Woodford"
       },
       "geometry": {
@@ -6836,8 +6836,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "WLE",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "WLE",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Woodford"
       },
       "geometry": {

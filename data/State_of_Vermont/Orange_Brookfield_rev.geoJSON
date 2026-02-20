@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "A/R",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "A/R",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Brookfield"
       },
       "geometry": {
@@ -7153,8 +7153,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "PL",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "PL",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Brookfield"
       },
       "geometry": {
@@ -10062,8 +10062,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SP",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "SP",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Brookfield"
       },
       "geometry": {
@@ -15227,8 +15227,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VIL",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "VIL",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Brookfield"
       },
       "geometry": {

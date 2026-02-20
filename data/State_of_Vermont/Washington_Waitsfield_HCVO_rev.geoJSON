@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "HWVO",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "HWVO",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Waitsfield"
       },
       "geometry": {

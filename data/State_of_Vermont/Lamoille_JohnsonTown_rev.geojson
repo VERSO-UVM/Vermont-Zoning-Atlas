@@ -9061,8 +9061,8 @@
         "OBJECTID": 0,
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "ABB_DIST_NAME": "FHO",
-        "Jurisdiction_County": "Lamoille",
+        "Abbreviated_District_Name": "FHO",
+        "County": "Lamoille",
         "Jurisdiction_District_Name": "Johnson Town"
       }
     }

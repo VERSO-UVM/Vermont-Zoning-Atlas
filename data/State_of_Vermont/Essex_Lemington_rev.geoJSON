@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "AGR",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "AGR",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Lemington"
       },
       "geometry": {
@@ -3405,8 +3405,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "RR",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Lemington"
       },
       "geometry": {
@@ -7960,8 +7960,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "RL",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Lemington"
       },
       "geometry": {
@@ -13277,8 +13277,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RES",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "RES",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Lemington"
       },
       "geometry": {

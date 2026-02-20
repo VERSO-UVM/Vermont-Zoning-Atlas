@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FEHO",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "FEHO",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Waitsfield"
       },
       "geometry": {

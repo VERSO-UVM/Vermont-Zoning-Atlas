@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FPO",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "FPO",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       },
       "geometry": {
@@ -6483,8 +6483,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RCO",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "RCO",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       },
       "geometry": {
@@ -6702,8 +6702,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "WCO",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "WCO",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Randolph"
       },
       "geometry": {

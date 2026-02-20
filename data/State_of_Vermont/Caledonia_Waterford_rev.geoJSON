@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IND-COM",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "IND-COM",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Waterford"
       },
       "geometry": {
@@ -735,8 +735,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "RR",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Waterford"
       },
       "geometry": {
@@ -3128,8 +3128,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "WVD",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "WVD",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Waterford"
       },
       "geometry": {

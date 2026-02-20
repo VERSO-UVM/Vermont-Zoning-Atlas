@@ -1199,10 +1199,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "Aquifer",
+        "Abbreviated_District_Name": "Aquifer",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Ludlow Town"
       }
     },
@@ -2936,10 +2936,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "Ind",
+        "Abbreviated_District_Name": "Ind",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Ludlow Town"
       }
     },
@@ -3999,10 +3999,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "JacG",
+        "Abbreviated_District_Name": "JacG",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Ludlow Town"
       }
     },
@@ -5654,10 +5654,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "Lakes",
+        "Abbreviated_District_Name": "Lakes",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Ludlow Town"
       }
     },
@@ -8947,10 +8947,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "MtRec",
+        "Abbreviated_District_Name": "MtRec",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Ludlow Town"
       }
     },
@@ -11544,10 +11544,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "PropMuni",
+        "Abbreviated_District_Name": "PropMuni",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Ludlow Town"
       }
     },
@@ -20355,10 +20355,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "Res",
+        "Abbreviated_District_Name": "Res",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Ludlow Town"
       }
     },
@@ -23848,10 +23848,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "R-C1",
+        "Abbreviated_District_Name": "R-C1",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Ludlow Town"
       }
     },
@@ -26845,10 +26845,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "R-C2",
+        "Abbreviated_District_Name": "R-C2",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Ludlow Town"
       }
     }

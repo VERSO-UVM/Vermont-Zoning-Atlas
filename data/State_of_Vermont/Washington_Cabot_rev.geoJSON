@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LDRA",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "LDRA",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Cabot"
       },
       "geometry": {
@@ -3371,8 +3371,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LV",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "LV",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Cabot"
       },
       "geometry": {
@@ -3610,8 +3610,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SD",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "SD",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Cabot"
       },
       "geometry": {
@@ -6991,8 +6991,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "V",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "V",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Cabot"
       },
       "geometry": {

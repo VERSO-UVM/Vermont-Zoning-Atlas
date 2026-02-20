@@ -10471,10 +10471,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "FHO",
+        "Abbreviated_District_Name": "FHO",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Newbury"
       }
     },
@@ -12172,10 +12172,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "WSPA",
+        "Abbreviated_District_Name": "WSPA",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Newbury"
       }
     }

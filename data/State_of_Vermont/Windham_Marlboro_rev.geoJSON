@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "AGR/F",
-        "Jurisdiction_County": "Windham",
+        "Abbreviated_District_Name": "AGR/F",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Marlboro"
       },
       "geometry": {
@@ -925,8 +925,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "COM-E",
-        "Jurisdiction_County": "Windham",
+        "Abbreviated_District_Name": "COM-E",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Marlboro"
       },
       "geometry": {
@@ -1648,8 +1648,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CONS",
-        "Jurisdiction_County": "Windham",
+        "Abbreviated_District_Name": "CONS",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Marlboro"
       },
       "geometry": {
@@ -5505,8 +5505,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "EDU",
-        "Jurisdiction_County": "Windham",
+        "Abbreviated_District_Name": "EDU",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Marlboro"
       },
       "geometry": {
@@ -6412,8 +6412,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RUR",
-        "Jurisdiction_County": "Windham",
+        "Abbreviated_District_Name": "RUR",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Marlboro"
       },
       "geometry": {
@@ -12217,8 +12217,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VIL",
-        "Jurisdiction_County": "Windham",
+        "Abbreviated_District_Name": "VIL",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Marlboro"
       },
       "geometry": {
@@ -12608,8 +12608,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "COM-W",
-        "Jurisdiction_County": "Windham",
+        "Abbreviated_District_Name": "COM-W",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Marlboro"
       },
       "geometry": {

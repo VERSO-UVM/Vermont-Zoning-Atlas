@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FOR",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "FOR",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Stannard"
       },
       "geometry": {
@@ -2351,8 +2351,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FPO",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "FPO",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Stannard"
       },
       "geometry": {
@@ -15332,8 +15332,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RUR",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "RUR",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Stannard"
       },
       "geometry": {
@@ -27833,8 +27833,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VIL",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "VIL",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Stannard"
       },
       "geometry": {

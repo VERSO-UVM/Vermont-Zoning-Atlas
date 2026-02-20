@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "COM/RES",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "COM/RES",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Wilmington"
       },
       "geometry": {
@@ -6667,8 +6667,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CON",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "CON",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Wilmington"
       },
       "geometry": {
@@ -9856,8 +9856,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "HDRD",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "HDRD",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Wilmington"
       },
       "geometry": {
@@ -10297,8 +10297,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-COM/RES",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "R-COM/RES",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Wilmington"
       },
       "geometry": {
@@ -10602,8 +10602,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RES",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "RES",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Wilmington"
       },
       "geometry": {
@@ -20881,8 +20881,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-RES",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "R-RES",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Wilmington"
       },
       "geometry": {
@@ -22542,8 +22542,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VIL",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "VIL",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Wilmington"
       },
       "geometry": {

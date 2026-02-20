@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "C-B",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "C-B",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Newport City"
       },
       "geometry": {
@@ -3239,8 +3239,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CON",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "CON",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Newport City"
       },
       "geometry": {
@@ -16948,8 +16948,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "GR",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "GR",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Newport City"
       },
       "geometry": {
@@ -31879,8 +31879,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IND",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "IND",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Newport City"
       },
       "geometry": {
@@ -35396,8 +35396,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LI",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "LI",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Newport City"
       },
       "geometry": {
@@ -35617,8 +35617,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "UR",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "UR",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Newport City"
       },
       "geometry": {
@@ -38406,8 +38406,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "U-REC",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "U-REC",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Newport City"
       },
       "geometry": {
@@ -44899,8 +44899,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "PHO",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "PHO",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Newport City"
       },
       "geometry": {

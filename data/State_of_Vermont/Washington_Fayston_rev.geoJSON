@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FR",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "FR",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Fayston"
       },
       "geometry": {
@@ -3027,8 +3027,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "ID",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "ID",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Fayston"
       },
       "geometry": {
@@ -3134,8 +3134,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IC",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "IC",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Fayston"
       },
       "geometry": {
@@ -3405,8 +3405,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "REC",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "REC",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Fayston"
       },
       "geometry": {
@@ -5488,8 +5488,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RD",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "RD",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Fayston"
       },
       "geometry": {
@@ -6097,8 +6097,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "RR",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Fayston"
       },
       "geometry": {
@@ -10618,8 +10618,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SW",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "SW",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Fayston"
       },
       "geometry": {

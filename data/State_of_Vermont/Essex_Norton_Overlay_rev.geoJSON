@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LSOD",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "LSOD",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Norton"
       },
       "geometry": {
@@ -192403,8 +192403,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FHO",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "FHO",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Norton"
       },
       "geometry": {

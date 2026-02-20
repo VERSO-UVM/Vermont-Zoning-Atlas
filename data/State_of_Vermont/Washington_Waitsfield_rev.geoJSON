@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "AR",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "AR",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Waitsfield"
       },
       "geometry": {
@@ -7335,8 +7335,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FR",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "FR",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Waitsfield"
       },
       "geometry": {
@@ -13076,8 +13076,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IN",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "IN",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Waitsfield"
       },
       "geometry": {
@@ -13243,8 +13243,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IV",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "IV",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Waitsfield"
       },
       "geometry": {
@@ -14422,8 +14422,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LB",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "LB",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Waitsfield"
       },
       "geometry": {
@@ -14657,8 +14657,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VB",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "VB",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Waitsfield"
       },
       "geometry": {
@@ -14942,8 +14942,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VR",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "VR",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Waitsfield"
       },
       "geometry": {

@@ -425,10 +425,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "SSH",
+        "Abbreviated_District_Name": "SSH",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Stockbridge"
       }
     },
@@ -572,10 +572,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "MULI",
+        "Abbreviated_District_Name": "MULI",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Stockbridge"
       }
     },
@@ -5289,10 +5289,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RR",
+        "Abbreviated_District_Name": "RR",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Stockbridge"
       }
     },
@@ -8430,10 +8430,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "UC",
+        "Abbreviated_District_Name": "UC",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Stockbridge"
       }
     },
@@ -8879,10 +8879,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "VR",
+        "Abbreviated_District_Name": "VR",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Stockbridge"
       }
     }

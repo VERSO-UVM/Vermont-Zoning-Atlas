@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "AOD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "AOD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -655,8 +655,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RLOD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RLOD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -2090,8 +2090,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "WCOD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "WCOD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {

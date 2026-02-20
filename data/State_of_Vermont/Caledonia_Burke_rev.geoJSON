@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "AR I",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "AR I",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Burke"
       },
       "geometry": {
@@ -4521,8 +4521,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "AR II",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "AR II",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Burke"
       },
       "geometry": {
@@ -8768,8 +8768,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "R",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Burke"
       },
       "geometry": {
@@ -10325,8 +10325,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SCO",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "SCO",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Burke"
       },
       "geometry": {
@@ -15842,8 +15842,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VMU",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "VMU",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Burke"
       },
       "geometry": {
@@ -17967,8 +17967,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VR",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "VR",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Burke"
       },
       "geometry": {

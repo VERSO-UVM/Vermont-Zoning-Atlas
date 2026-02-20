@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "ARO",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "ARO",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Barre City"
       },
       "geometry": {
@@ -347,8 +347,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "DRO",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "DRO",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Barre City"
       },
       "geometry": {
@@ -1014,8 +1014,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "HSO",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "HSO",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Barre City"
       },
       "geometry": {

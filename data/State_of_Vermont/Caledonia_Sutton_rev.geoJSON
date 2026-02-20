@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IND",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "IND",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Sutton"
       },
       "geometry": {
@@ -5043,8 +5043,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RES",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "RES",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Sutton"
       },
       "geometry": {
@@ -16740,8 +16740,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SCE",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "SCE",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Sutton"
       },
       "geometry": {
@@ -19909,8 +19909,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VIL",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "VIL",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Sutton"
       },
       "geometry": {
@@ -20110,8 +20110,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "WL",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "WL",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Sutton"
       },
       "geometry": {

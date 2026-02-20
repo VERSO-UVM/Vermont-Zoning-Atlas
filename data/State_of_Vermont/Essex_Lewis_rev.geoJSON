@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FASF",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "FASF",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Lewis"
       },
       "geometry": {
@@ -2591,8 +2591,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SL",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "SL",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Lewis"
       },
       "geometry": {

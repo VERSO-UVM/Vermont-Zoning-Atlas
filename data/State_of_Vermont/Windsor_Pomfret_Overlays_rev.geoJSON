@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FHO",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "FHO",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Pomfret"
       },
       "geometry": {
@@ -1311,8 +1311,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RHO",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RHO",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Pomfret"
       },
       "geometry": {

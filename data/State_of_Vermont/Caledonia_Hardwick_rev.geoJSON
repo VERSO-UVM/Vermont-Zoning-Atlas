@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CB",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "CB",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Hardwick"
       },
       "geometry": {
@@ -619,8 +619,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CR",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "CR",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Hardwick"
       },
       "geometry": {
@@ -2076,8 +2076,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FHO",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "FHO",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Hardwick"
       },
       "geometry": {
@@ -79293,8 +79293,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FR",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "FR",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Hardwick"
       },
       "geometry": {
@@ -80598,8 +80598,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "HM",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "HM",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Hardwick"
       },
       "geometry": {
@@ -81835,8 +81835,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "I",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "I",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Hardwick"
       },
       "geometry": {
@@ -82236,8 +82236,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "RR",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Hardwick"
       },
       "geometry": {
@@ -83871,8 +83871,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VN",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "VN",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Hardwick"
       },
       "geometry": {

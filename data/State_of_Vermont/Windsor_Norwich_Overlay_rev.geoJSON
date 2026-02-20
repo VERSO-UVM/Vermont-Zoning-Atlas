@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "APO",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "APO",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Norwich"
       },
       "geometry": {
@@ -661,8 +661,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FHO",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "FHO",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Norwich"
       },
       "geometry": {
@@ -4380,8 +4380,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RLO",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RLO",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Norwich"
       },
       "geometry": {

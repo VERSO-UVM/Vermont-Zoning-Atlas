@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CB",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "CB",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Windsor"
       },
       "geometry": {
@@ -3353,8 +3353,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "HDR",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "HDR",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Windsor"
       },
       "geometry": {
@@ -12826,8 +12826,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IND",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "IND",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Windsor"
       },
       "geometry": {
@@ -14343,8 +14343,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LDR",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "LDR",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Windsor"
       },
       "geometry": {
@@ -18568,8 +18568,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MDR",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "MDR",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Windsor"
       },
       "geometry": {
@@ -34963,8 +34963,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RES",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RES",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Windsor"
       },
       "geometry": {
@@ -46378,8 +46378,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RB",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RB",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Windsor"
       },
       "geometry": {
@@ -48351,8 +48351,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RUR",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RUR",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Windsor"
       },
       "geometry": {
@@ -63612,8 +63612,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VMU",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "VMU",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Windsor"
       },
       "geometry": {

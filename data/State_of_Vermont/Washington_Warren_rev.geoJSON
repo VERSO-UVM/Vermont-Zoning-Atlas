@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "AC",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "AC",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Warren"
       },
       "geometry": {
@@ -461,8 +461,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "ARC",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "ARC",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Warren"
       },
       "geometry": {
@@ -848,8 +848,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "AVR",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "AVR",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Warren"
       },
       "geometry": {
@@ -1727,8 +1727,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "BMC",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "BMC",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Warren"
       },
       "geometry": {
@@ -2614,8 +2614,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FR",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "FR",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Warren"
       },
       "geometry": {
@@ -26551,8 +26551,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "GFC",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "GFC",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Warren"
       },
       "geometry": {
@@ -26698,8 +26698,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "RR",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Warren"
       },
       "geometry": {
@@ -57003,8 +57003,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SVC",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "SVC",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Warren"
       },
       "geometry": {
@@ -58310,8 +58310,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SVR",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "SVR",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Warren"
       },
       "geometry": {
@@ -59105,8 +59105,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VR",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "VR",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Warren"
       },
       "geometry": {
@@ -63734,8 +63734,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "WVC",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "WVC",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Warren"
       },
       "geometry": {
@@ -64825,8 +64825,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "WVR",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "WVR",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Warren"
       },
       "geometry": {
@@ -67328,8 +67328,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "WVMU",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "WVMU",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Warren"
       },
       "geometry": {

@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "C-D",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "C-D",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Saint Johnsbury"
       },
       "geometry": {
@@ -2463,8 +2463,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "COM",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "COM",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Saint Johnsbury"
       },
       "geometry": {
@@ -4976,8 +4976,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "HS",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "HS",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Saint Johnsbury"
       },
       "geometry": {
@@ -5277,8 +5277,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IND",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "IND",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Saint Johnsbury"
       },
       "geometry": {
@@ -6546,8 +6546,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MU",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "MU",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Saint Johnsbury"
       },
       "geometry": {
@@ -10949,8 +10949,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-A",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "R-A",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Saint Johnsbury"
       },
       "geometry": {
@@ -15082,8 +15082,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-B",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "R-B",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Saint Johnsbury"
       },
       "geometry": {
@@ -19845,8 +19845,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL-1",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "RL-1",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Saint Johnsbury"
       },
       "geometry": {
@@ -43754,8 +43754,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL-2",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "RL-2",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Saint Johnsbury"
       },
       "geometry": {
@@ -66243,8 +66243,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-T",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "R-T",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Saint Johnsbury"
       },
       "geometry": {

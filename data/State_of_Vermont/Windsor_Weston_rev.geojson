@@ -193,10 +193,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "Com",
+        "Abbreviated_District_Name": "Com",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Weston"
       }
     },
@@ -10060,10 +10060,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "C",
+        "Abbreviated_District_Name": "C",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Weston"
       }
     },
@@ -10287,10 +10287,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "I",
+        "Abbreviated_District_Name": "I",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Weston"
       }
     },
@@ -22644,10 +22644,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "Re",
+        "Abbreviated_District_Name": "Re",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Weston"
       }
     },
@@ -29989,10 +29989,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "R",
+        "Abbreviated_District_Name": "R",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Weston"
       }
     },
@@ -35972,10 +35972,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RR",
+        "Abbreviated_District_Name": "RR",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Weston"
       }
     },
@@ -36947,10 +36947,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "V",
+        "Abbreviated_District_Name": "V",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Weston"
       }
     }

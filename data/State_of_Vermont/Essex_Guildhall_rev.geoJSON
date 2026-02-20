@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "AGR",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "AGR",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Guildhall"
       },
       "geometry": {
@@ -3287,8 +3287,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FC",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "FC",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Guildhall"
       },
       "geometry": {
@@ -8276,8 +8276,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "Ind",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "Ind",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Guildhall"
       },
       "geometry": {
@@ -8651,8 +8651,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL-1",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "RL-1",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Guildhall"
       },
       "geometry": {
@@ -9234,8 +9234,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL-3",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "RL-3",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Guildhall"
       },
       "geometry": {
@@ -12089,8 +12089,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL-2",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "RL-2",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Guildhall"
       },
       "geometry": {
@@ -14950,8 +14950,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "Vil",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "Vil",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Guildhall"
       },
       "geometry": {

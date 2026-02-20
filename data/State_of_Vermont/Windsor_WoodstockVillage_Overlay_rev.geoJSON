@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "DRO",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "DRO",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Woodstock Village"
       },
       "geometry": {
@@ -1553,8 +1553,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SRO",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "SRO",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Woodstock Village"
       },
       "geometry": {

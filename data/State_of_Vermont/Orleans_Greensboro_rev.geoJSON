@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "GBV",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "GBV",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Greensboro"
       },
       "geometry": {
@@ -3681,8 +3681,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "GV",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "GV",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Greensboro"
       },
       "geometry": {
@@ -6204,8 +6204,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RE",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "RE",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Greensboro"
       },
       "geometry": {
@@ -15621,8 +15621,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "RL",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Greensboro"
       },
       "geometry": {
@@ -48002,8 +48002,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SP",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "SP",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Greensboro"
       },
       "geometry": {

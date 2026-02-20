@@ -109,10 +109,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "CBD",
+        "Abbreviated_District_Name": "CBD",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Troy"
       }
     },
@@ -336,10 +336,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "C-R",
+        "Abbreviated_District_Name": "C-R",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Troy"
       }
     },
@@ -511,10 +511,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "IND",
+        "Abbreviated_District_Name": "IND",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Troy"
       }
     },
@@ -5506,10 +5506,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RU",
+        "Abbreviated_District_Name": "RU",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Troy"
       }
     },
@@ -9427,10 +9427,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "VIL",
+        "Abbreviated_District_Name": "VIL",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Troy"
       }
     },
@@ -9658,10 +9658,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "VC",
+        "Abbreviated_District_Name": "VC",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orleans",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Troy"
       }
     }

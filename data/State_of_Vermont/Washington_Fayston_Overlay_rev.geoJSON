@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FHO",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "FHO",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Fayston"
       },
       "geometry": {

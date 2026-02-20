@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "F",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "F",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Brunswick"
       },
       "geometry": {
@@ -74659,8 +74659,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "R",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Brunswick"
       },
       "geometry": {
@@ -164178,8 +164178,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "S",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "S",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Brunswick"
       },
       "geometry": {

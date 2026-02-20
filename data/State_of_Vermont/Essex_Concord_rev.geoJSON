@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "RL",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Concord"
       },
       "geometry": {
@@ -22027,8 +22027,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LD",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "LD",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Concord"
       },
       "geometry": {
@@ -35376,8 +35376,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "HD",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "HD",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Concord"
       },
       "geometry": {
@@ -37565,8 +37565,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MD",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "MD",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Concord"
       },
       "geometry": {
@@ -70162,8 +70162,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LAKE",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "LAKE",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Concord"
       },
       "geometry": {

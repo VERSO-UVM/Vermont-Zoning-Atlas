@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "C/I",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "C/I",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Groton"
       },
       "geometry": {
@@ -339,8 +339,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CON",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "CON",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Groton"
       },
       "geometry": {
@@ -11244,8 +11244,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "RR",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Groton"
       },
       "geometry": {
@@ -20553,8 +20553,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SL",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "SL",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Groton"
       },
       "geometry": {
@@ -42278,8 +42278,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "V",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "V",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Groton"
       },
       "geometry": {

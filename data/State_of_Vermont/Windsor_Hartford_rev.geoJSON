@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CB",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "CB",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -705,8 +705,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CB-2",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "CB-2",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -920,8 +920,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FC",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "FC",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -2467,8 +2467,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "HC",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "HC",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -3244,8 +3244,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "I-C",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "I-C",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -7249,8 +7249,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "I-C2",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "I-C2",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -7672,8 +7672,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "QG",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "QG",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -7983,8 +7983,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "QII",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "QII",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -8374,8 +8374,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-1",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "R-1",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -12233,8 +12233,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-1M",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "R-1M",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -13142,8 +13142,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-2",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "R-2",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -16867,8 +16867,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-3",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "R-3",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -20424,8 +20424,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RC-2",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RC-2",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -22949,8 +22949,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL-1",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RL-1",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -29766,8 +29766,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL-10",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RL-10",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -38887,8 +38887,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL-3",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RL-3",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -47496,8 +47496,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL-5",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RL-5",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -55005,8 +55005,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VB",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "VB",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -55146,8 +55146,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VR-1",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "VR-1",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -55867,8 +55867,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VR-2",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "VR-2",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {
@@ -56394,8 +56394,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VR-C",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "VR-C",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Hartford"
       },
       "geometry": {

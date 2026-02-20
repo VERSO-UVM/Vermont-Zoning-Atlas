@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CD10",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "CD10",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Newbury"
       },
       "geometry": {
@@ -25849,8 +25849,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "HAM",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "HAM",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Newbury"
       },
       "geometry": {
@@ -26154,8 +26154,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IND",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "IND",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Newbury"
       },
       "geometry": {
@@ -26473,8 +26473,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MXU",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "MXU",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Newbury"
       },
       "geometry": {
@@ -27994,8 +27994,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "NV",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "NV",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Newbury"
       },
       "geometry": {
@@ -28097,8 +28097,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R1",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "R1",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Newbury"
       },
       "geometry": {
@@ -43678,8 +43678,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R2",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "R2",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Newbury"
       },
       "geometry": {
@@ -54479,8 +54479,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R5",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "R5",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Newbury"
       },
       "geometry": {
@@ -57058,8 +57058,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SH",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "SH",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Newbury"
       },
       "geometry": {
@@ -58403,8 +58403,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "WRC",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "WRC",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Newbury"
       },
       "geometry": {
@@ -58870,8 +58870,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "WRR",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "WRR",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Newbury"
       },
       "geometry": {

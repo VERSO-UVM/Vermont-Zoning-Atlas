@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "F",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "F",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Maidstone"
       },
       "geometry": {
@@ -13635,8 +13635,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL2",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "RL2",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Maidstone"
       },
       "geometry": {
@@ -18532,8 +18532,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL1",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "RL1",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Maidstone"
       },
       "geometry": {
@@ -33131,8 +33131,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "AZ",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "AZ",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Maidstone"
       },
       "geometry": {
@@ -48004,8 +48004,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "L",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "L",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Maidstone"
       },
       "geometry": {
@@ -53041,8 +53041,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "P",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "P",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Maidstone"
       },
       "geometry": {

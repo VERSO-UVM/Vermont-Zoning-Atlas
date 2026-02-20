@@ -2801,10 +2801,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "IN",
+        "Abbreviated_District_Name": "IN",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Brattleboro"
       }
     },
@@ -5462,10 +5462,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "IT",
+        "Abbreviated_District_Name": "IT",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Brattleboro"
       }
     },
@@ -10095,10 +10095,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "MU",
+        "Abbreviated_District_Name": "MU",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Brattleboro"
       }
     },
@@ -12308,10 +12308,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "NC",
+        "Abbreviated_District_Name": "NC",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Brattleboro"
       }
     },
@@ -16715,10 +16715,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RN-36",
+        "Abbreviated_District_Name": "RN-36",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Brattleboro"
       }
     },
@@ -25290,10 +25290,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RN-54",
+        "Abbreviated_District_Name": "RN-54",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Brattleboro"
       }
     },
@@ -28109,10 +28109,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RL",
+        "Abbreviated_District_Name": "RL",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Brattleboro"
       }
     },
@@ -35638,10 +35638,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RR",
+        "Abbreviated_District_Name": "RR",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Brattleboro"
       }
     },
@@ -36473,10 +36473,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "SC",
+        "Abbreviated_District_Name": "SC",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Brattleboro"
       }
     },
@@ -37712,10 +37712,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "UC",
+        "Abbreviated_District_Name": "UC",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Brattleboro"
       }
     },
@@ -38859,10 +38859,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "VC",
+        "Abbreviated_District_Name": "VC",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Brattleboro"
       }
     },
@@ -45468,10 +45468,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "WF",
+        "Abbreviated_District_Name": "WF",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Brattleboro"
       }
     }

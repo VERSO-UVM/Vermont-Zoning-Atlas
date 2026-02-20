@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CIV",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "CIV",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Barre City"
       },
       "geometry": {
@@ -3715,8 +3715,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CON",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "CON",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Barre City"
       },
       "geometry": {
@@ -7012,8 +7012,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "GB",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "GB",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Barre City"
       },
       "geometry": {
@@ -8501,8 +8501,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IN",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "IN",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Barre City"
       },
       "geometry": {
@@ -10538,8 +10538,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MU-1",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "MU-1",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Barre City"
       },
       "geometry": {
@@ -13459,8 +13459,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MU-2",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "MU-2",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Barre City"
       },
       "geometry": {
@@ -14412,8 +14412,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MU-3",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "MU-3",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Barre City"
       },
       "geometry": {
@@ -15697,8 +15697,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-12",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "R-12",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Barre City"
       },
       "geometry": {
@@ -19064,8 +19064,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-16",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "R-16",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Barre City"
       },
       "geometry": {
@@ -20379,8 +20379,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-4",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "R-4",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Barre City"
       },
       "geometry": {
@@ -28534,8 +28534,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-8",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "R-8",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Barre City"
       },
       "geometry": {
@@ -29685,8 +29685,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "UC-1",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "UC-1",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Barre City"
       },
       "geometry": {
@@ -30206,8 +30206,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "UC-2",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "UC-2",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Barre City"
       },
       "geometry": {
@@ -31997,8 +31997,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "UC-3",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "UC-3",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Barre City"
       },
       "geometry": {

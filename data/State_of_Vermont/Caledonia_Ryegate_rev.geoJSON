@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "C1",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "C1",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Ryegate"
       },
       "geometry": {
@@ -195,8 +195,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "C2",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "C2",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Ryegate"
       },
       "geometry": {
@@ -1988,8 +1988,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "I",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "I",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Ryegate"
       },
       "geometry": {
@@ -2729,8 +2729,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LD",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "LD",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Ryegate"
       },
       "geometry": {
@@ -12488,8 +12488,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MDR",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "MDR",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Ryegate"
       },
       "geometry": {
@@ -15657,8 +15657,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "RL",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Ryegate"
       },
       "geometry": {
@@ -19118,8 +19118,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "S",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "S",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Ryegate"
       },
       "geometry": {

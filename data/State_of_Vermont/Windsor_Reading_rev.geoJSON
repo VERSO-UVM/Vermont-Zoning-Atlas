@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IM",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "IM",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Reading"
       },
       "geometry": {
@@ -259,8 +259,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-1",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "R-1",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Reading"
       },
       "geometry": {
@@ -3668,8 +3668,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RC-B",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RC-B",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Reading"
       },
       "geometry": {
@@ -5205,8 +5205,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RC-A",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RC-A",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Reading"
       },
       "geometry": {
@@ -6182,8 +6182,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR-10",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RR-10",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Reading"
       },
       "geometry": {
@@ -29347,8 +29347,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR-5",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RR-5",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Reading"
       },
       "geometry": {
@@ -38896,8 +38896,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RC-25",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RC-25",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Reading"
       },
       "geometry": {

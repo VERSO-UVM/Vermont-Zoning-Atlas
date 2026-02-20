@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FHO",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "FHO",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Barnard"
       },
       "geometry": {
@@ -2271,8 +2271,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "PVO",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "PVO",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Barnard"
       },
       "geometry": {
@@ -2818,8 +2818,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SLO",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "SLO",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Barnard"
       },
       "geometry": {

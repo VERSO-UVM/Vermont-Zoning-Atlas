@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "COM",
-        "Jurisdiction_County": "Caledonia",
+        "Abbreviated_District_Name": "COM",
+        "County": "Caledonia",
         "Jurisdiction_District_Name": "Lyndon"
       },
       "geometry": {
@@ -11101,8 +11101,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "I/C",
-        "Jurisdiction_County": "Caledonia",
+        "Abbreviated_District_Name": "I/C",
+        "County": "Caledonia",
         "Jurisdiction_District_Name": "Lyndon"
       },
       "geometry": {
@@ -14100,8 +14100,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "I/C",
-        "Jurisdiction_County": "Caledonia",
+        "Abbreviated_District_Name": "I/C",
+        "County": "Caledonia",
         "Jurisdiction_District_Name": "Lyndon"
       },
       "geometry": {
@@ -15465,8 +15465,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IND",
-        "Jurisdiction_County": "Caledonia",
+        "Abbreviated_District_Name": "IND",
+        "County": "Caledonia",
         "Jurisdiction_District_Name": "Lyndon"
       },
       "geometry": {
@@ -16734,8 +16734,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LCI",
-        "Jurisdiction_County": "Caledonia",
+        "Abbreviated_District_Name": "LCI",
+        "County": "Caledonia",
         "Jurisdiction_District_Name": "Lyndon"
       },
       "geometry": {
@@ -16867,8 +16867,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MS",
-        "Jurisdiction_County": "Caledonia",
+        "Abbreviated_District_Name": "MS",
+        "County": "Caledonia",
         "Jurisdiction_District_Name": "Lyndon"
       },
       "geometry": {
@@ -17316,8 +17316,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "P",
-        "Jurisdiction_County": "Caledonia",
+        "Abbreviated_District_Name": "P",
+        "County": "Caledonia",
         "Jurisdiction_District_Name": "Lyndon"
       },
       "geometry": {
@@ -18053,8 +18053,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RN",
-        "Jurisdiction_County": "Caledonia",
+        "Abbreviated_District_Name": "RN",
+        "County": "Caledonia",
         "Jurisdiction_District_Name": "Lyndon"
       },
       "geometry": {
@@ -33134,8 +33134,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR",
-        "Jurisdiction_County": "Caledonia",
+        "Abbreviated_District_Name": "RR",
+        "County": "Caledonia",
         "Jurisdiction_District_Name": "Lyndon"
       },
       "geometry": {
@@ -75005,8 +75005,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VC",
-        "Jurisdiction_County": "Caledonia",
+        "Abbreviated_District_Name": "VC",
+        "County": "Caledonia",
         "Jurisdiction_District_Name": "Lyndon"
       },
       "geometry": {

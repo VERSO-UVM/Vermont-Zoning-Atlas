@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "BR",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "BR",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Peru"
       },
       "geometry": {
@@ -323,8 +323,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "BV",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "BV",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Peru"
       },
       "geometry": {
@@ -540,8 +540,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FR",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "FR",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Peru"
       },
       "geometry": {
@@ -3985,8 +3985,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "PVHD",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "PVHD",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Peru"
       },
       "geometry": {
@@ -4162,8 +4162,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R11",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "R11",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Peru"
       },
       "geometry": {
@@ -4651,8 +4651,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR2",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "RR2",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Peru"
       },
       "geometry": {
@@ -5170,8 +5170,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR5",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "RR5",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Peru"
       },
       "geometry": {

@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "RL",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Canaan"
       },
       "geometry": {
@@ -21489,8 +21489,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-2",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "R-2",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Canaan"
       },
       "geometry": {
@@ -47708,8 +47708,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "AGR",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "AGR",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Canaan"
       },
       "geometry": {
@@ -63303,8 +63303,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-C",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "R-C",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Canaan"
       },
       "geometry": {
@@ -66808,8 +66808,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-1/2",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "R-1/2",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Canaan"
       },
       "geometry": {
@@ -72191,8 +72191,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IND",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "IND",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Canaan"
       },
       "geometry": {
@@ -75436,8 +75436,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "WP",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "WP",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Canaan"
       },
       "geometry": {
@@ -78269,8 +78269,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-1",
-        "Jurisdiction_County": "Essex",
+        "Abbreviated_District_Name": "R-1",
+        "County": "Essex",
         "Jurisdiction_District_Name": "Canaan"
       },
       "geometry": {

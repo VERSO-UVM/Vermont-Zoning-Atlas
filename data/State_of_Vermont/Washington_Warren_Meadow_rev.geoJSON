@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MO",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "MO",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Warren"
       },
       "geometry": {

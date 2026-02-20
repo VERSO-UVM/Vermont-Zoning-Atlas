@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "C-10",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "C-10",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Weathersfield"
       },
       "geometry": {
@@ -12131,8 +12131,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "H",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "H",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Weathersfield"
       },
       "geometry": {
@@ -12924,8 +12924,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "HC",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "HC",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Weathersfield"
       },
       "geometry": {
@@ -14881,8 +14881,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "I",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "I",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Weathersfield"
       },
       "geometry": {
@@ -17010,8 +17010,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR-1",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RR-1",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Weathersfield"
       },
       "geometry": {
@@ -21479,8 +21479,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RRR 3-5",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RRR 3-5",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Weathersfield"
       },
       "geometry": {
@@ -31924,8 +31924,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "V",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "V",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Weathersfield"
       },
       "geometry": {

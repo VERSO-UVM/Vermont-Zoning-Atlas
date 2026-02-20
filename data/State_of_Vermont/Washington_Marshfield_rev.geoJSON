@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "ARRD",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "ARRD",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Marshfield"
       },
       "geometry": {
@@ -25537,8 +25537,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FHOD",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "FHOD",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Marshfield"
       },
       "geometry": {
@@ -63492,8 +63492,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FCD",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "FCD",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Marshfield"
       },
       "geometry": {
@@ -88153,8 +88153,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VRD",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "VRD",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Marshfield"
       },
       "geometry": {

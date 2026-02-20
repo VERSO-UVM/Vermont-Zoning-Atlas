@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LFC",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "LFC",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Strafford"
       },
       "geometry": {
@@ -4677,8 +4677,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MP",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "MP",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Strafford"
       },
       "geometry": {
@@ -5184,8 +5184,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR-I",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "RR-I",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Strafford"
       },
       "geometry": {
@@ -9423,8 +9423,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR-II",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "RR-II",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Strafford"
       },
       "geometry": {
@@ -13308,8 +13308,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VC",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "VC",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Strafford"
       },
       "geometry": {

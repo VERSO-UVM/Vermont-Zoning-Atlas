@@ -155,6 +155,128 @@
 
       <h3>Pull Requests</h3>
       <p>All changes should be submitted as a pull request in GitHub. Pull requests updating the data should include a description of what has changed and links to supporting documents. We recommend a limited number of changes at a time to make this a reasonable process for everyone.</p>
+
+      <h3>Updating a Jurisdiction</h3>
+      <p>Updating a jurisdiction's zoning data will require using ArcGIS Pro or another GIS software. This guide will show you how to use ArcGIS Pro for this process.</p>
+
+      <h4>Step 1: Downloading the Data</h4>
+      <p>The first step is to download the data from this repository. From the main Vermont Zoning Atlas page, open the "Data" folder and find the "RPC" folder. Download the regional file (.geojson) that contains your jurisdiction. If you're unsure which RPC your jurisdiction belongs to, you can check <a href="https://github.com/VERSO-UVM/Vermont-Livability-Map/blob/main/Visualization%20Guide%20by%20Layer.pdf">the RPC guide</a> or search online.</p>
+
+      <h4>Step 2: Opening the Data in ArcGIS Pro</h4>
+      <p>After downloading the RPC .geojson file:</p>
+      <ol style="margin: 1rem 0 1rem 2rem;">
+        <li>Open ArcGIS Pro and create a new project</li>
+        <li>Open the geoprocessing window</li>
+        <li>Search for "JSON to Features" tool</li>
+        <li>Use this tool to convert your downloaded .geojson file, naming the output feature class something like "VT_Zoning"</li>
+      </ol>
+      <p><strong>Note:</strong> The resulting feature class will be in the coordinate system "WGS 1984". If you plan to change geometries, you should project this to "NAD 1983 StatePlane Vermont FIPS 4400 (Meters)" using the "Project" tool. Search for coordinate system code "32145" for easy access. Skip this step if you're only modifying the attribute table.</p>
+
+      <h4>Step 3: Exporting Your Jurisdiction</h4>
+      <p>To isolate your jurisdiction for editing:</p>
+      <ol style="margin: 1rem 0 1rem 2rem;">
+        <li>Use "Select by Attributes" to filter where Jurisdiction equals your target jurisdiction</li>
+        <li>Right-click the layer, hover "Data", and click "Export Features"</li>
+        <li>Name the output feature class after your jurisdiction</li>
+        <li>Verify your selection shows the correct number of districts at the bottom of the screen</li>
+      </ol>
+
+      <h4>Step 4: Editing Jurisdiction Data</h4>
+
+      <p><strong>Coordinate System:</strong> Set your map's coordinate system to "NAD 1983 StatePlane Vermont FIPS 4400 (Meters)" by right-clicking the map in the contents pane, selecting Properties, then Coordinate Systems. This prevents distorting Vermont's shape during editing.</p>
+
+      <p><strong>Editing the Attribute Table:</strong> If you're only changing zoning values (not geometry), open the attribute table and double-click cells to modify values. Be sure to follow the data documentation for standardized values across the state.</p>
+
+      <p><strong>Editing Geometries:</strong> When modifying district boundaries:</p>
+      <ul style="margin: 1rem 0 1rem 2rem;">
+        <li>All jurisdictions must be bound to <strong>US CENSUS TIGER Boundaries</strong> - clip geometries to fit within TIGER boundaries</li>
+        <li>Avoid overlapping districts (except overlay districts), as overlaps make statistics inaccurate</li>
+        <li>Use topologies to prevent unintended overlaps</li>
+      </ul>
+
+      <p><strong>Updating from new GIS files:</strong></p>
+      <ul style="margin: 1rem 0 1rem 2rem;">
+        <li>If you have a new .shp file or GIS file: Ensure the new file shares a unique identifier field with your original feature class, then use the "Join Field" geoprocessing tool to merge attributes</li>
+        <li>If updating from a scanned map (.jpg/.png): Georeference the image in ArcGIS Pro. See the <a href="https://www.youtube.com/watch?v=fDVrvpTZVPw&t=2132s">Maine Zoning Atlas georeferencing video</a> starting at timestamp 35:30</li>
+      </ul>
+
+      <h4>Uploading Data Back to GitHub</h4>
+
+      <p>Once your edits are complete:</p>
+      <ol style="margin: 1rem 0 1rem 2rem;">
+        <li>Convert back to GeoJSON: Search "geojson" in geoprocessing and select "Features to JSON"</li>
+        <li>Check the following options in the tool menu:
+          <ul style="margin: 0.5rem 0 0.5rem 1.5rem;">
+            <li>"Output to GeoJSON"</li>
+            <li>"Project to WGS_1984"</li>
+            <li>"Use field aliases"</li>
+          </ul>
+        </li>
+      </ol>
+
+      <h4>Submitting Your Changes via GitHub</h4>
+
+      <ol style="margin: 1rem 0 1rem 2rem;">
+        <li><strong>Create a fork:</strong> Go to the Vermont Zoning Atlas GitHub page and click "Fork" at the top</li>
+        <li><strong>Upload your file:</strong> In your forked repository, open the Data folder, click "Add file" then "Upload files", and upload your updated .geojson file</li>
+        <li><strong>Create a pull request:</strong> Go back to the original VERSO-UVM repository, click "Pull Requests" then "New pull request"</li>
+        <li><strong>Compare across forks:</strong> Click "Compare across forks", ensure the left repo is "VERSO-UVM" and the right is your fork</li>
+        <li><strong>Review changes:</strong> Verify you see additions (green) and minimal or no deletions (red), then click "Create pull request"</li>
+      </ol>
+
+      <p>Once submitted, the repository maintainers will review your contribution and merge it if it meets the project standards. Thank you for helping improve the Vermont Zoning Atlas!</p>
+    </div>
+  </section>
+
+  <!-- Bylaw Links Section -->
+  <section class="story-section" data-section="bylaw-links">
+    <div class="story-content">
+      <h2>Jurisdiction Zoning Bylaw Links</h2>
+      
+      <p>Below is a comprehensive directory of links to zoning bylaws for all Vermont jurisdictions, organized by Regional Planning Commission (RPC). Use these links to access official zoning ordinances and regulations for your town or city.</p>
+
+      <div style="overflow-x: auto; margin: 2rem 0;">
+        <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+          <thead style="background-color: #667eea; color: white;">
+            <tr>
+              <th style="padding: 0.75rem; text-align: left; border: 1px solid #ddd;">RPC</th>
+              <th style="padding: 0.75rem; text-align: left; border: 1px solid #ddd;">Jurisdiction</th>
+              <th style="padding: 0.75rem; text-align: left; border: 1px solid #ddd;">Zoning Bylaw Link</th>
+              <th style="padding: 0.75rem; text-align: left; border: 1px solid #ddd;">Last Updated</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- ACRPC -->
+            <tr style="background-color: #f0f0f0;"><td colspan="4" style="padding: 0.75rem; font-weight: bold; border: 1px solid #ddd;"><strong>ACRPC (Addison County Regional Planning Commission)</strong></td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Whole RPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://acrpc.org/regional-programs/municipal-planning/">Regional Planning Assistance</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">–</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Addison</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://addisonvt.gov/zoning/">Zoning Information</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2007</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Bridport</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://bridportvt.org/town-main-info">Town Information</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2006</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Bristol</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://bristolvt.org/documents-and-forms/">Documents & Forms</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2017</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Cornwall</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://cornwallvt.com/forms-documents/zoning-building-subdivision-documents/">Zoning Documents</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2008</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Ferrisburgh</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://www.ferrisburghvt.org/?SEC=A083EA17-2244-4100-A992-74C2CA13DAC0">Town Information</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2021</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Goshen</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://goshenvt.org/zoning-administrator/">Zoning Administrator</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2008</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Leicester</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://www.leicestervt.org/index.asp?SEC=C4321848-7318-4DD9-931A-7CE572E05BA7&Type=B_BASIC">Zoning Regulations</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2017</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Lincoln</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://lincolnvermont.org/planning-zoning">Planning & Zoning</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2023</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Middlebury</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://www.townofmiddlebury.org/government/departments/planning_and_zoning/index.php">Planning & Zoning</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2022</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Monkton</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://monktonvt.com/town-info/town-plan-and-zoning-bylaws/">Town Plan & Zoning Bylaws</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2023</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">New Haven</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://www.newhavenvt.com/planning-zoning">Planning & Zoning</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2024</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Orwell</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://townoforwellvt.org/planning-commission-and-drb/">Planning Commission & DRB</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2019</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Panton</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://www.pantonvt.us/governance/zoning/index.php">Zoning Information</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2017</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Ripton</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://www.riptonvermont.org/zoning-admin">Zoning Administrator</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2018</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Salisbury</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://www.townofsalisbury.org/index.asp?SEC=B44A7E99-1E06-4388-9A15-31C153701D1A&DE=83CC454D-3C2F-4D92-9C7D-122554110619">Town Documents</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2015</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Shoreham</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://www.shorehamvt.us/zoning">Zoning</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2024</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Starksboro</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://www.starksborovt.org/zoning">Zoning</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2020</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Vergennes</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://www.vergennes.org/departments/zoning_and_planning.php">Zoning & Planning</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2022</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Waltham</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://www.walthamvt.org/resources/developmentreviewboard-planningccommission-zoing">Planning & Zoning</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2019</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Weybridge</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://www.townofweybridge.org/new-page">Documents</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2017</td></tr>
+            <tr><td style="padding: 0.75rem; border: 1px solid #ddd;">ACRPC</td><td style="padding: 0.75rem; border: 1px solid #ddd;">Whiting</td><td style="padding: 0.75rem; border: 1px solid #ddd;"><a href="https://www.whitingvt.com/zoning">Zoning</a></td><td style="padding: 0.75rem; border: 1px solid #ddd;">2005</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="info-box">
+        <strong>NOTE:</strong>Comprehensive bylaw links for all remaining RPCs (BCRC, CCRPC, CVRPC, LCPC, MARC, NVDA, NWRPC, RRPC, TRORC, WRC) are available in the original <a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/Bylaw%20Links.md">Bylaw Links file on GitHub</a>. If you have updated links or notice broken links, please submit a pull request with corrections.
+      </div>
     </div>
   </section>
 

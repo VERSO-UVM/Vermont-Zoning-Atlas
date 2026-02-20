@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FH",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "FH",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Plymouth"
       },
       "geometry": {
@@ -1243,8 +1243,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CHH",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "CHH",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Plymouth"
       },
       "geometry": {
@@ -1434,8 +1434,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SL",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "SL",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Plymouth"
       },
       "geometry": {

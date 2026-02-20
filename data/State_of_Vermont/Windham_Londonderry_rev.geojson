@@ -29193,10 +29193,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "R1",
+        "Abbreviated_District_Name": "R1",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Londonderry"
       }
     },
@@ -82734,10 +82734,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "R3",
+        "Abbreviated_District_Name": "R3",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Londonderry"
       }
     },
@@ -85847,10 +85847,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RC",
+        "Abbreviated_District_Name": "RC",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Londonderry"
       }
     },
@@ -95626,10 +95626,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "S",
+        "Abbreviated_District_Name": "S",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Londonderry"
       }
     },
@@ -96917,10 +96917,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "SC",
+        "Abbreviated_District_Name": "SC",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Londonderry"
       }
     },
@@ -99950,10 +99950,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "VC",
+        "Abbreviated_District_Name": "VC",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Londonderry"
       }
     },
@@ -106495,10 +106495,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "VR",
+        "Abbreviated_District_Name": "VR",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Londonderry"
       }
     }

@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "COM",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "COM",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dover"
       },
       "geometry": {
@@ -1431,8 +1431,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CON",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "CON",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dover"
       },
       "geometry": {
@@ -9476,8 +9476,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IND",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "IND",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dover"
       },
       "geometry": {
@@ -11105,8 +11105,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "PRO",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "PRO",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dover"
       },
       "geometry": {
@@ -22914,8 +22914,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RES",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "RES",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dover"
       },
       "geometry": {
@@ -29099,8 +29099,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RST",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "RST",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dover"
       },
       "geometry": {
@@ -29900,8 +29900,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SWR",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "SWR",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dover"
       },
       "geometry": {
@@ -35269,8 +35269,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "TDR",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "TDR",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dover"
       },
       "geometry": {
@@ -37402,8 +37402,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VAC",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "VAC",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dover"
       },
       "geometry": {
@@ -38167,8 +38167,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VIL",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "VIL",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dover"
       },
       "geometry": {

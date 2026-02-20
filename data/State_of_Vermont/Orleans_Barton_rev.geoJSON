@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "HD",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "HD",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Barton"
       },
       "geometry": {
@@ -4675,8 +4675,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "I",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "I",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Barton"
       },
       "geometry": {
@@ -5406,8 +5406,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LD",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "LD",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Barton"
       },
       "geometry": {
@@ -22885,8 +22885,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MD",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "MD",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Barton"
       },
       "geometry": {
@@ -31480,8 +31480,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MU",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "MU",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Barton"
       },
       "geometry": {
@@ -39761,8 +39761,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RD",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "RD",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Barton"
       },
       "geometry": {

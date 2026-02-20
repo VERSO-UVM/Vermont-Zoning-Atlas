@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CI",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "CI",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Sunderland"
       },
       "geometry": {
@@ -1055,8 +1055,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "F",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "F",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Sunderland"
       },
       "geometry": {
@@ -2074,8 +2074,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RCR",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "RCR",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Sunderland"
       },
       "geometry": {
@@ -4097,8 +4097,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "RR",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Sunderland"
       },
       "geometry": {
@@ -8134,8 +8134,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VR",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "VR",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Sunderland"
       },
       "geometry": {

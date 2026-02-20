@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CBD",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "CBD",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Bradford Town"
       },
       "geometry": {
@@ -229,8 +229,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "I",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "I",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Bradford Town"
       },
       "geometry": {
@@ -414,8 +414,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "I/M",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "I/M",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Bradford Town"
       },
       "geometry": {
@@ -795,8 +795,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LDR",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "LDR",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Bradford Town"
       },
       "geometry": {
@@ -6332,8 +6332,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LP",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "LP",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Bradford Town"
       },
       "geometry": {
@@ -6855,8 +6855,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "R",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Bradford Town"
       },
       "geometry": {
@@ -16322,8 +16322,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RS",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "RS",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Bradford Town"
       },
       "geometry": {
@@ -16969,8 +16969,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VR",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "VR",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Bradford Town"
       },
       "geometry": {

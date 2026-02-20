@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "F1",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "F1",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Glastenbury"
       },
       "geometry": {
@@ -343,8 +343,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "F2",
-        "Jurisdiction_County": "Bennington",
+        "Abbreviated_District_Name": "F2",
+        "County": "Bennington",
         "Jurisdiction_District_Name": "Glastenbury"
       },
       "geometry": {

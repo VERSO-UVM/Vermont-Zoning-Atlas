@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CBD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "CBD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Bethel"
       },
       "geometry": {
@@ -93,8 +93,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "HD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "HD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Bethel"
       },
       "geometry": {
@@ -626,8 +626,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MDRD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "MDRD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Bethel"
       },
       "geometry": {
@@ -4561,8 +4561,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RCD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RCD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Bethel"
       },
       "geometry": {
@@ -9918,8 +9918,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Bethel"
       },
       "geometry": {
@@ -11763,8 +11763,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "VD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Bethel"
       },
       "geometry": {

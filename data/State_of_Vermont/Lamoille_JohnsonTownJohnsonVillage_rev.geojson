@@ -2839,10 +2839,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "VG",
+        "Abbreviated_District_Name": "VG",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Lamoille",
+        "County": "Lamoille",
         "Jurisdiction_District_Name": "Johnson Town Johnson Village"
       }
     },
@@ -7000,10 +7000,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "VN",
+        "Abbreviated_District_Name": "VN",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Lamoille",
+        "County": "Lamoille",
         "Jurisdiction_District_Name": "Johnson Town Johnson Village"
       }
     },
@@ -7745,10 +7745,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "VS",
+        "Abbreviated_District_Name": "VS",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Lamoille",
+        "County": "Lamoille",
         "Jurisdiction_District_Name": "Johnson Town Johnson Village"
       }
     }

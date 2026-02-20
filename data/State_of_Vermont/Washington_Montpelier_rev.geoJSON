@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "EG",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "EG",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Montpelier"
       },
       "geometry": {
@@ -1045,8 +1045,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MUN",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "MUN",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Montpelier"
       },
       "geometry": {
@@ -2490,8 +2490,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MUR",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "MUR",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Montpelier"
       },
       "geometry": {
@@ -5083,8 +5083,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RES 1.5",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "RES 1.5",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Montpelier"
       },
       "geometry": {
@@ -5544,8 +5544,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RES 3",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "RES 3",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Montpelier"
       },
       "geometry": {
@@ -8107,8 +8107,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RES 6",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "RES 6",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Montpelier"
       },
       "geometry": {
@@ -9660,8 +9660,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RES 9",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "RES 9",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Montpelier"
       },
       "geometry": {
@@ -14961,8 +14961,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RIV",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "RIV",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Montpelier"
       },
       "geometry": {
@@ -16348,8 +16348,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "RL",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Montpelier"
       },
       "geometry": {
@@ -19893,8 +19893,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "UC2",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "UC2",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Montpelier"
       },
       "geometry": {
@@ -20116,8 +20116,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "UC3",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "UC3",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Montpelier"
       },
       "geometry": {
@@ -20423,8 +20423,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "UC1",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "UC1",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Montpelier"
       },
       "geometry": {
@@ -21106,8 +21106,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "UR",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "UR",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Montpelier"
       },
       "geometry": {
@@ -21189,8 +21189,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "WG",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "WG",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Montpelier"
       },
       "geometry": {

@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "DWA",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "DWA",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Bradford Town"
       },
       "geometry": {
@@ -5973,8 +5973,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FH",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "FH",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Bradford Town"
       },
       "geometry": {
@@ -10814,8 +10814,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VHD",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "VHD",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Bradford Town"
       },
       "geometry": {
@@ -11901,8 +11901,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "WET",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "WET",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Bradford Town"
       },
       "geometry": {
@@ -34970,8 +34970,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "WHP",
-        "Jurisdiction_County": "Orange",
+        "Abbreviated_District_Name": "WHP",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Bradford Town"
       },
       "geometry": {

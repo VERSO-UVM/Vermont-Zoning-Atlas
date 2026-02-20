@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR2",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "RR2",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Calais"
       },
       "geometry": {
@@ -2351,8 +2351,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR1",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "RR1",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Calais"
       },
       "geometry": {
@@ -7518,8 +7518,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VIL",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "VIL",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Calais"
       },
       "geometry": {

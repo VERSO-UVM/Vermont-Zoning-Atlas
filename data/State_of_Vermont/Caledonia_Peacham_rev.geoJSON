@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "AO",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "AO",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Peacham"
       },
       "geometry": {
@@ -38763,8 +38763,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RD",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "RD",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Peacham"
       },
       "geometry": {
@@ -43830,8 +43830,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SL1",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "SL1",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Peacham"
       },
       "geometry": {
@@ -52007,8 +52007,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SL2",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "SL2",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Peacham"
       },
       "geometry": {
@@ -67694,8 +67694,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VD",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "VD",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Peacham"
       },
       "geometry": {
@@ -69339,8 +69339,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "WH",
-        "Jurisdiction_County": "Caledonia County",
+        "Abbreviated_District_Name": "WH",
+        "County": "Caledonia County",
         "Jurisdiction_District_Name": "Peacham"
       },
       "geometry": {

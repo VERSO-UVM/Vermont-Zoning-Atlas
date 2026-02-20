@@ -6192,14 +6192,12 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "CB",
-        "DISTRICT": "",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "CB",
+        "District_Name": "",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     },
@@ -7130,14 +7128,12 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "E7",
-        "DISTRICT": "",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "E7",
+        "District_Name": "",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     },
@@ -24696,14 +24692,12 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "GB",
-        "DISTRICT": "",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "GB",
+        "District_Name": "",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     },
@@ -35902,14 +35896,12 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "HDR",
-        "DISTRICT": "",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "HDR",
+        "District_Name": "",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     },
@@ -40688,14 +40680,12 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "IND",
-        "DISTRICT": "",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "IND",
+        "District_Name": "",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     },
@@ -44774,14 +44764,12 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "IND/C",
-        "DISTRICT": "",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "IND/C",
+        "District_Name": "",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     },
@@ -54594,14 +54582,12 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "LR-10",
-        "DISTRICT": "",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "LR-10",
+        "District_Name": "",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     },
@@ -97040,14 +97026,12 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "LR-25",
-        "DISTRICT": "",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "LR-25",
+        "District_Name": "",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     },
@@ -172622,14 +172606,12 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "MDR",
-        "DISTRICT": "",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "MDR",
+        "District_Name": "",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     },
@@ -172734,14 +172716,12 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "NRPD",
-        "DISTRICT": "",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "NRPD",
+        "District_Name": "",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     },
@@ -252888,14 +252868,12 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "RA-2",
-        "DISTRICT": "",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "RA-2",
+        "District_Name": "",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     },
@@ -311232,14 +311210,12 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "RA-5",
-        "DISTRICT": "",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "RA-5",
+        "District_Name": "",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     },
@@ -320886,14 +320862,12 @@
       "properties": {
         "OBJECTID": 0,
         "FID_1": 0,
-        "ABB_DIST_NAME": "RC",
-        "DISTRICT": "",
-        "NOTE": "",
-        "Shape__Are": 0,
-        "Shape__Len": 0,
+        "Abbreviated_District_Name": "RC",
+        "District_Name": "",
+        "Notes": "",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windsor",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Springfield"
       }
     }

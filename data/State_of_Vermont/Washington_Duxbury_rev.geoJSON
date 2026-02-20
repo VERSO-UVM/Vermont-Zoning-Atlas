@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "Ecological Reserve",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "Ecological Reserve",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Duxbury"
       },
       "geometry": {
@@ -4899,8 +4899,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "Forest Rec.",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "Forest Rec.",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Duxbury"
       },
       "geometry": {
@@ -12586,8 +12586,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "Rural Ag II Residential",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "Rural Ag II Residential",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Duxbury"
       },
       "geometry": {
@@ -14921,8 +14921,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "Rural Ag I Residential",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "Rural Ag I Residential",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Duxbury"
       },
       "geometry": {
@@ -16470,8 +16470,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "State Farm",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "State Farm",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Duxbury"
       },
       "geometry": {
@@ -17537,8 +17537,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "Forest Mgmt.",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "Forest Mgmt.",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Duxbury"
       },
       "geometry": {
@@ -28804,8 +28804,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "Village",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "Village",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Duxbury"
       },
       "geometry": {

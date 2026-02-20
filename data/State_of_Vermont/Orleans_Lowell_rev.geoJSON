@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "C-M",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "C-M",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Lowell"
       },
       "geometry": {
@@ -1203,8 +1203,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IND",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "IND",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Lowell"
       },
       "geometry": {
@@ -1966,8 +1966,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VIL",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "VIL",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Lowell"
       },
       "geometry": {
@@ -3509,8 +3509,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR/A",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "RR/A",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Lowell"
       },
       "geometry": {

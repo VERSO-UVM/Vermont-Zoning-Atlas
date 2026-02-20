@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "BS/LI",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "BS/LI",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Woodstock Town"
       },
       "geometry": {
@@ -847,8 +847,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "C/LI",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "C/LI",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Woodstock Town"
       },
       "geometry": {
@@ -1170,8 +1170,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "COM",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "COM",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Woodstock Town"
       },
       "geometry": {
@@ -1879,8 +1879,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FR",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "FR",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Woodstock Town"
       },
       "geometry": {
@@ -4068,8 +4068,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "HC",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "HC",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Woodstock Town"
       },
       "geometry": {
@@ -4277,8 +4277,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "I",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "I",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Woodstock Town"
       },
       "geometry": {
@@ -4550,8 +4550,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LC/LI",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "LC/LI",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Woodstock Town"
       },
       "geometry": {
@@ -4593,8 +4593,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LC/LI",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "LC/LI",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Woodstock Town"
       },
       "geometry": {
@@ -4814,8 +4814,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-1",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "R-1",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Woodstock Town"
       },
       "geometry": {
@@ -8589,8 +8589,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-3",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "R-3",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Woodstock Town"
       },
       "geometry": {
@@ -8680,8 +8680,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R-5",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "R-5",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Woodstock Town"
       },
       "geometry": {
@@ -16255,8 +16255,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RHD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RHD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Woodstock Town"
       },
       "geometry": {
@@ -16672,8 +16672,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RLD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RLD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Woodstock Town"
       },
       "geometry": {
@@ -17677,8 +17677,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RMD",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "RMD",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Woodstock Town"
       },
       "geometry": {
@@ -18788,8 +18788,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "R/O",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "R/O",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Woodstock Town"
       },
       "geometry": {

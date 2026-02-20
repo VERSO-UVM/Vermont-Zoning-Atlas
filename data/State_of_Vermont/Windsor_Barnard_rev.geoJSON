@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LAK",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "LAK",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Barnard"
       },
       "geometry": {

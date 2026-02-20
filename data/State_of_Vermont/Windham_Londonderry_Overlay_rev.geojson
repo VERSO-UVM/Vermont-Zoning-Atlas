@@ -645,10 +645,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RCO",
+        "Abbreviated_District_Name": "RCO",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Londonderry"
       }
     },
@@ -3734,10 +3734,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "FHO",
+        "Abbreviated_District_Name": "FHO",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Windham",
+        "County": "Windham",
         "Jurisdiction_District_Name": "Londonderry"
       }
     }

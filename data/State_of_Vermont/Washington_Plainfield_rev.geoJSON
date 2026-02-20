@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "FALD",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "FALD",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Plainfield"
       },
       "geometry": {
@@ -3213,8 +3213,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RLD",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "RLD",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Plainfield"
       },
       "geometry": {
@@ -3520,8 +3520,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RRD",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "RRD",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Plainfield"
       },
       "geometry": {
@@ -6585,8 +6585,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "VD",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "VD",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Plainfield"
       },
       "geometry": {

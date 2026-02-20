@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RCO",
-        "Jurisdiction_County": "Orleans",
+        "Abbreviated_District_Name": "RCO",
+        "County": "Orleans",
         "Jurisdiction_District_Name": "Troy"
       },
       "geometry": {

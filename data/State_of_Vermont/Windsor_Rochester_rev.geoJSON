@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "AG-RES",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "AG-RES",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Roochester"
       },
       "geometry": {
@@ -2923,8 +2923,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "Aquifer Recharge",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "Aquifer Recharge",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Roochester"
       },
       "geometry": {
@@ -3182,8 +3182,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "COM-AG",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "COM-AG",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Roochester"
       },
       "geometry": {
@@ -4971,8 +4971,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CON-RES",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "CON-RES",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Roochester"
       },
       "geometry": {
@@ -10254,8 +10254,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "BUS-RES",
-        "Jurisdiction_County": "Windsor",
+        "Abbreviated_District_Name": "BUS-RES",
+        "County": "Windsor",
         "Jurisdiction_District_Name": "Roochester"
       },
       "geometry": {

@@ -7099,10 +7099,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "FHAO",
+        "Abbreviated_District_Name": "FHAO",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Fairlee"
       }
     },
@@ -8360,10 +8360,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "RAO",
+        "Abbreviated_District_Name": "RAO",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Fairlee"
       }
     },
@@ -10521,10 +10521,10 @@
       },
       "properties": {
         "OBJECTID": 0,
-        "ABB_DIST_NAME": "WSAO",
+        "Abbreviated_District_Name": "WSAO",
         "Shape_Length": 0,
         "Shape_Area": 0,
-        "Jurisdiction_County": "Orange",
+        "County": "Orange",
         "Jurisdiction_District_Name": "Fairlee"
       }
     }

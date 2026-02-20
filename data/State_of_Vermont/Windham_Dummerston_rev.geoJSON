@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CI",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "CI",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dummerston"
       },
       "geometry": {
@@ -499,8 +499,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "CN",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "CN",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dummerston"
       },
       "geometry": {
@@ -14182,8 +14182,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "PL",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "PL",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dummerston"
       },
       "geometry": {
@@ -18449,8 +18449,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RC",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "RC",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dummerston"
       },
       "geometry": {
@@ -22802,8 +22802,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RES",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "RES",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dummerston"
       },
       "geometry": {
@@ -24975,8 +24975,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RO",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "RO",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dummerston"
       },
       "geometry": {
@@ -56744,8 +56744,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RR",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "RR",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dummerston"
       },
       "geometry": {
@@ -65877,8 +65877,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RUR",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "RUR",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dummerston"
       },
       "geometry": {
@@ -74014,8 +74014,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SA",
-        "Jurisdiction_County": "Windham County",
+        "Abbreviated_District_Name": "SA",
+        "County": "Windham County",
         "Jurisdiction_District_Name": "Dummerston"
       },
       "geometry": {

@@ -10,8 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "COM",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "COM",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Berlin"
       },
       "geometry": {
@@ -1571,8 +1571,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "HAM",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "HAM",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Berlin"
       },
       "geometry": {
@@ -2122,8 +2122,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "IND",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "IND",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Berlin"
       },
       "geometry": {
@@ -3583,8 +3583,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "LI",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "LI",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Berlin"
       },
       "geometry": {
@@ -5066,8 +5066,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "MU",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "MU",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Berlin"
       },
       "geometry": {
@@ -6771,8 +6771,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RES",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "RES",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Berlin"
       },
       "geometry": {
@@ -8572,8 +8572,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL-218",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "RL-218",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Berlin"
       },
       "geometry": {
@@ -10401,8 +10401,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "RL-40",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "RL-40",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Berlin"
       },
       "geometry": {
@@ -18714,8 +18714,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "SC",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "SC",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Berlin"
       },
       "geometry": {
@@ -20261,8 +20261,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "TC",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "TC",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Berlin"
       },
       "geometry": {
@@ -21324,8 +21324,8 @@
     {
       "type": "Feature",
       "properties": {
-        "ABB_DIST_NAME": "UC",
-        "Jurisdiction_County": "Washington",
+        "Abbreviated_District_Name": "UC",
+        "County": "Washington",
         "Jurisdiction_District_Name": "Berlin"
       },
       "geometry": {
