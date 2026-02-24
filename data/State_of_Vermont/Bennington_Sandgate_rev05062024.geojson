@@ -29705,7 +29705,9 @@
         "RPC": "BCRC",
         "Version": 1,
         "Shape_Length": 1.2058583728266319,
-        "Shape_Area": 0.010462802619127727
+        "Shape_Area": 0.010462802619127727,
+        "Jurisdiction": "Sandgate F2",
+        "Zoning_Version": 1
       }
     }
   ]
