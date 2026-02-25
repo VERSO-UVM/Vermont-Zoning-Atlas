@@ -1,856 +1,871 @@
-source_field,target_field,match_type,,,,,,,,,
-1F Allowance,F1F_Allowance,Replace,,,,,,,,,
-1F Floor to Area Ratio,,Remove,,,,,,,,,
-1F Front Setback,F1F_Front_Setback,Replace,,,,,,,,,
-1F Frontage,F1F_Frontage,Replace,,,,,,,,,
-1F Max Height,F1F_Max_Height,Replace,,,,,,,,,
-1F Max Lot Building Coverage,F1F_Max_Lot_Building_Coverage,Replace,,,,,,,,,
-1F Max Lot Impervious Coverage,F1F_Max_Lot_Impervious_Coverage,Replace,,,,,,,,,
-1F Max Stories,F1F_Max_Stories,Replace,,,,,,,,,
-1F Min Lot,F1F_Min_Lot,Replace,,,,,,,,,
-1F Min Parking Spaces,F1F_Min_Parking_Spaces,Replace,,,,,,,,,
-1F Min Unit Size,,Remove,,,,,,,,,
-1F Rear Setback,F1F_Rear_Setback,Replace,,,,,,,,,
-1F Side Setback,F1F_Side_Setback,Replace,,,,,,,,,
-1F_FRONT,F1F_Frontage,Replace,,,,,,,,,
-1F_FSET,F1F_Front_Setback,Replace,,,,,,,,,
-1F_FSET_COND_ALT,,Remove,,,,,,,,,
-1F_FTA,,Remove,,,,,,,,,
-1F_FTA_COND_ALT,,Remove,,,,,,,,,
-1F_HEIGHT,F1F_Max_Height,Replace,,,,,,,,,
-1F_HEIGHT_COND_ALT,,Remove,,,,,,,,,
-1F_MAX_LOT_BLDG,F1F_Max_Lot_Building_Coverage,Replace,,,,,,,,,
-1F_MAX_LOT_BLDG_COND_ALT,,Remove,,,,,,,,,
-1F_MAX_LOT_IMP,F1F_Max_Lot_Impervious_Coverage,Replace,,,,,,,,,
-1F_MAX_LOT_IMP_COND_ALT,,Remove,,,,,,,,,
-1F_MIN_LOT,F1F_Min_Lot,Replace,,,,,,,,,
-1F_MIN_LOT_COND_ALT,,Remove,,,,,,,,,
-1F_MIN_UNIT,,Remove,,,,,,,,,
-1F_MIN_UNIT_COND_ALT,,Remove,,,,,,,,,
-1F_PARK,F1F_Min_Parking_Spaces,Replace,,,,,,,,,
-1F_PARK_COND_ALT,,Remove,,,,,,,,,
-1F_RSET,F1F_Rear_Setback,Replace,,,,,,,,,
-1F_RSET_COND_ALT,,Remove,,,,,,,,,
-1F_SSET,F1F_Side_Setback,Replace,,,,,,,,,
-1F_SSET_COND_ALT,,Remove,,,,,,,,,
-1F_STORIES,F1F_Max_Stories,Replace,,,,,,,,,
-1F_STORIES_COND_ALT,,Remove,,,,,,,,,
-2F Affordable Housing Only,F2F_Affordable_Housing_Only,Replace,,,,,,,,,
-2F Allowance,F2F_Allowance,Replace,,,,,,,,,
-2F Elderly Housing Only,F2F_Elderly_Housing_Only,Replace,,,,,,,,,
-2F Floor to Area Ratio,,Remove,,,,,,,,,
-2F Front Setback,F2F_Front_Setback,Replace,,,,,,,,,
-2F Frontage,F2F_Frontage,Replace,,,,,,,,,
-2F Max Density,F2F_Max_Density,Replace,,,,,,,,,
-2F Max Height,F2F_Max_Height,Replace,,,,,,,,,
-2F Max Lot Building Coverage,F2F_Max_Lot_Building_Coverage,Replace,,,,,,,,,
-2F Max Lot Impervious Coverage,F2F_Max_Lot_Impervious_Coverage,Replace,,,,,,,,,
-2F Max Stories,F2F_Max_Stories,Replace,,,,,,,,,
-2F Min Lot Size,F2F_Min_Lot_Size,Replace,,,,,,,,,
-2F Min Parking Spaces per 1BR,F2F_Min_Parking_Spaces_per_1BR,Replace,,,,,,,,,
-2F Min Parking Spaces per mult BR,F2F_Min_Parking_Spaces_per_mult_BR,Replace,,,,,,,,,
-2F Min Unit Size,,Remove,,,,,,,,,
-2F Rear Setback,F2F_Rear_Setback,Replace,,,,,,,,,
-2F Side Setback,F2F_Side_Setback,Replace,,,,,,,,,
-2F_AFF,F2F_Affordable_Housing_Only,Replace,,,,,,,,,
-2F_ELD,F2F_Elderly_Housing_Only,Replace,,,,,,,,,
-2F_FRONT,F2F_Frontage,Replace,,,,,,,,,
-2F_FSET,F2F_Front_Setback,Replace,,,,,,,,,
-2F_FSET_COND_ALT,,Remove,,,,,,,,,
-2F_FTA,,Remove,,,,,,,,,
-2F_FTA_COND_ALT,,Remove,,,,,,,,,
-2F_HEIGHT,F2F_Max_Height,Replace,,,,,,,,,
-2F_HEIGHT_COND_ALT,,Remove,,,,,,,,,
-2F_MAX_DENS,F2F_Max_Density,Replace,,,,,,,,,
-2F_MAX_DENS_COND_ALT,,Remove,,,,,,,,,
-2F_MAX_LOT_BLDG,F2F_Max_Lot_Building_Coverage,Replace,,,,,,,,,
-2F_MAX_LOT_BLDG_COND_ALT,,Remove,,,,,,,,,
-2F_MAX_LOT_IMP,F2F_Max_Lot_Impervious_Coverage,Replace,,,,,,,,,
-2F_MAX_LOT_IMP_COND_ALT,,Remove,,,,,,,,,
-2F_MIN_LOT,F2F_Min_Lot_Size,Replace,,,,,,,,,
-2F_MIN_LOT_COND_ALT,,Remove,,,,,,,,,
-2F_MIN_UNIT,,Remove,,,,,,,,,
-2F_MIN_UNIT_COND_ALT,,Remove,,,,,,,,,
-2F_PARK_1BR,F2F_Min_Parking_Spaces_per_1BR,Replace,,,,,,,,,
-2F_PARK_1BR_COND_ALT,,Remove,,,,,,,,,
-2F_PARK_2BR,F2F_Min_Parking_Spaces_per_mult_BR,Replace,,,,,,,,,
-2F_PARK_2BR_COND_ALT,,Remove,,,,,,,,,
-2F_RSET,F2F_Rear_Setback,Replace,,,,,,,,,
-2F_RSET_COND_ALT,,Remove,,,,,,,,,
-2F_SSET,F2F_Side_Setback,Replace,,,,,,,,,
-2F_SSET_COND_ALT,,Remove,,,,,,,,,
-2F_STORIES,F2F_Max_Stories,Replace,,,,,,,,,
-2F_STORIES_COND_ALT,,Remove,,,,,,,,,
-3F Affordable Housing Only,F3F_Affordable_Housing_Only,Replace,,,,,,,,,
-3F Allowance,F3F_Allowance,Replace,,,,,,,,,
-3F Connection to Sewage/Water Required,F3F_Connection_to_Sewage/Water_Required,Replace,,,,,,,,,
-3F Elderly Housing Only,F3F_Elderly_Housing_Only,Replace,,,,,,,,,
-3F Floor to Area Ratio,,Remove,,,,,,,,,
-3F Front Setback,F3F_Front_Setback,Replace,,,,,,,,,
-3F Frontage,F3F_Frontage,Replace,,,,,,,,,
-3F Max Bedrooms,,Remove,,,,,,,,,
-3F Max Density,F3F_Max_Density,Replace,,,,,,,,,
-3F Max Height,F3F_Max_Height,Replace,,,,,,,,,
-3F Max Lot Building Coverage,F3F_Max_Lot_Building_Coverage,Replace,,,,,,,,,
-3F Max Lot Impervious Coverage,F3F_Max_Lot_Impervious_Coverage,Replace,,,,,,,,,
-3F Max Stories,F3F_Max_Stories,Replace,,,,,,,,,
-3F Min Lot Size,F3F_Min_Lot_Size,Replace,,,,,,,,,
-3F Min Parking Spaces per 1BR,F3F_Min_Parking_Spaces_per_1BR,Replace,,,,,,,,,
-3F Min Parking Spaces per mult BR,F3F_Min_Parking_Spaces_per_mult_BR,Replace,,,,,,,,,
-3F Min Unit Size,,Remove,,,,,,,,,
-3F Proximity to Public Transit Required,F3F_Proximity_to_Public_Transit_Required,Replace,,,,,,,,,
-3F Rear Setback,F3F_Rear_Setback,Replace,,,,,,,,,
-3F Side Setback,F3F_Side_Setback,Replace,,,,,,,,,
-3F_AFF,F3F_Affordable_Housing_Only,Replace,,,,,,,,,
-3F_BEDROOMS,,Remove,,,,,,,,,
-3F_BEDROOMS_COND_ALT,,Remove,,,,,,,,,
-3F_CNXN_H2O,,Remove,,,,,,,,,
-3F_CNXN_TRANSIT,F3F_Proximity_to_Public_Transit_Required,Replace,,,,,,,,,
-3F_ELD,,Remove,,,,,,,,,
-3F_FRONT,F3F_Frontage,Replace,,,,,,,,,
-3F_FSET,F3F_Front_Setback,Replace,,,,,,,,,
-3F_FSET_COND_ALT,,Remove,,,,,,,,,
-3F_FTA,,Remove,,,,,,,,,
-3F_FTA_COND_ALT,,Remove,,,,,,,,,
-3F_HEIGHT,F3F_Max_Height,Replace,,,,,,,,,
-3F_HEIGHT_COND_ALT,,Remove,,,,,,,,,
-3F_MAX_DENS,F3F_Max_Density,Replace,,,,,,,,,
-3F_MAX_DENS_COND_ALT,,Remove,,,,,,,,,
-3F_MAX_LOT_BLDG,F3F_Max_Lot_Building_Coverage,Replace,,,,,,,,,
-3F_MAX_LOT_BLDG_COND_ALT,,Remove,,,,,,,,,
-3F_MAX_LOT_IMP,F3F_Max_Lot_Impervious_Coverage,Replace,,,,,,,,,
-3F_MAX_LOT_IMP_COND_ALT,,Remove,,,,,,,,,
-3F_MIN_LOT,F3F_Min_Lot_Size,Replace,,,,,,,,,
-3F_MIN_LOT_COND_ALT,,Remove,,,,,,,,,
-3F_MIN_UNIT,,Remove,,,,,,,,,
-3F_MIN_UNIT_COND_ALT,,Remove,,,,,,,,,
-3F_PARK_1BR,F3F_Min_Parking_Spaces_per_1BR,Replace,,,,,,,,,
-3F_PARK_1BR_COND_ALT,,Remove,,,,,,,,,
-3F_PARK_2BR,F3F_Min_Parking_Spaces_per_mult_BR,Replace,,,,,,,,,
-3F_PARK_2BR_COND_ALT,,Remove,,,,,,,,,
-3F_RSET,F3F_Rear_Setback,Replace,,,,,,,,,
-3F_RSET_COND_ALT,,Remove,,,,,,,,,
-3F_SSET,F3F_Side_Setback,Replace,,,,,,,,,
-3F_SSET_COND_ALT,,Remove,,,,,,,,,
-3F_STORIES,F3F_Max_Stories,Replace,,,,,,,,,
-3F_STORIES_COND_ALT,,Remove,,,,,,,,,
-4F Affordable Housing Only,F4F_Affordable_Housing_Only,Replace,,,,,,,,,
-4F Allowance,F4F_Allowance,Replace,,,,,,,,,
-4F Connection to Sewage/Water Required,F4F_Connection_to_Sewage/Water_Required,Replace,,,,,,,,,
-4F Elderly Housing Only,F4F_Elderly_Housing_Only,Replace,,,,,,,,,
-4F Floor to Area Ratio,,Remove,,,,,,,,,
-4F Front Setback,F4F_Front_Setback,Replace,,,,,,,,,
-4F Frontage,F4F_Frontage,Replace,,,,,,,,,
-4F Max Bedrooms,,Remove,,,,,,,,,
-4F Max Density,F4F_Max_Density,Replace,,,,,,,,,
-4F Max Height,F4F_Max_Height,Replace,,,,,,,,,
-4F Max Lot Building Coverage,F4F_Max_Lot_Building_Coverage,Replace,,,,,,,,,
-4F Max Lot Impervious Coverage,F4F_Max_Lot_Impervious_Coverage,Replace,,,,,,,,,
-4F Max Stories,F4F_Max_Stories,Replace,,,,,,,,,
-4F Max Units per Building,,Remove,,,,,,,,,
-4F Min Lot Size,F4F_Min_Lot_Size,Replace,,,,,,,,,
-4F Min Parking Spaces per  mult BR,F4F_Min_Parking_Spaces_per_mult_BR,Replace,,,,,,,,,
-4F Min Parking Spaces per 1BR,F4F_Min_Parking_Spaces_per_1BR,Replace,,,,,,,,,
-4F Min Unit Size,,Remove,,,,,,,,,
-4F Proximity to Public Transit Required,F4F_Proximity_to_Public_Transit_Required,Replace,,,,,,,,,
-4F Rear Setback,F4F_Rear_Setback,Replace,,,,,,,,,
-4F Side Setback,F4F_Side_Setback,Replace,,,,,,,,,
-4F_AFF,F4F_Affordable_Housing_Only,Replace,,,,,,,,,
-4F_BEDROOMS,,Remove,,,,,,,,,
-4F_BEDROOMS_COND_ALT,,Remove,,,,,,,,,
-4F_CNXN_H2O,,Remove,,,,,,,,,
-4F_CNXN_TRANSIT,F4F_Proximity_to_Public_Transit_Required,Replace,,,,,,,,,
-4F_ELD,F4F_Elderly_Housing_Only,Replace,,,,,,,,,
-4F_FRONT,F4F_Frontage,Replace,,,,,,,,,
-4F_FSET,F4F_Front_Setback,Replace,,,,,,,,,
-4F_FSET_COND_ALT,,Remove,,,,,,,,,
-4F_FTA,,Remove,,,,,,,,,
-4F_FTA_COND_ALT,,Remove,,,,,,,,,
-4F_HEIGHT,F4F_Max_Height,Replace,,,,,,,,,
-4F_HEIGHT_COND_ALT,,Remove,,,,,,,,,
-4F_MAX_DENS,F4F_Max_Density,Replace,,,,,,,,,
-4F_MAX_DENS_COND_ALT,,Remove,,,,,,,,,
-4F_MAX_LOT_BLDG,F4F_Max_Lot_Building_Coverage,Replace,,,,,,,,,
-4F_MAX_LOT_BLDG_COND_ALT,,Remove,,,,,,,,,
-4F_MAX_LOT_IMP,F4F_Max_Lot_Impervious_Coverage,Replace,,,,,,,,,
-4F_MAX_LOT_IMP_COND_ALT,,Remove,,,,,,,,,
-4F_MAX_UNIT,,Remove,,,,,,,,,
-4F_MAX_UNIT_COND_ALT,,Remove,,,,,,,,,
-4F_MIN_LOT,F4F_Min_Lot_Size,Replace,,,,,,,,,
-4F_MIN_LOT_COND_ALT,,Remove,,,,,,,,,
-4F_MIN_UNIT,,Remove,,,,,,,,,
-4F_MIN_UNIT_COND_ALT,,Remove,,,,,,,,,
-4F_PARK_1BR,F4F_Min_Parking_Spaces_per_1BR,Replace,,,,,,,,,
-4F_PARK_1BR_COND_ALT,,Remove,,,,,,,,,
-4F_PARK_2BR,F4F_Min_Parking_Spaces_per_mult_BR,Replace,,,,,,,,,
-4F_PARK_2BR_COND_ALT,,Remove,,,,,,,,,
-4F_RSET,F4F_Rear_Setback,Replace,,,,,,,,,
-4F_RSET_COND_ALT,,Remove,,,,,,,,,
-4F_SSET,F4F_Side_Setback,Replace,,,,,,,,,
-4F_SSET_COND_ALT,,Remove,,,,,,,,,
-4F_STORIES,F4F_Max_Stories,Replace,,,,,,,,,
-4F_STORIES_COND_ALT,,Remove,,,,,,,,,
-5F Affordable Housing Only,,Remove,,,,,,,,,
-5F Allowance,,Remove,,,,,,,,,
-5F Connection to Sewage/Water Required,,Remove,,,,,,,,,
-5F Elderly Housing Only,,Remove,,,,,,,,,
-5F Floor to Area Ratio,,Remove,,,,,,,,,
-5F Front Setback,,Remove,,,,,,,,,
-5F Frontage,,Remove,,,,,,,,,
-5F Max  Lot Impervious Coverage,,Remove,,,,,,,,,
-5F Max Bedrooms,,Remove,,,,,,,,,
-5F Max Density,,Remove,,,,,,,,,
-5F Max Height,,Remove,,,,,,,,,
-5F Max Lot Building Coverage,,Remove,,,,,,,,,
-5F Max Stories,,Remove,,,,,,,,,
-5F Max Units per Building,,Remove,,,,,,,,,
-5F Min Lot Size,,Remove,,,,,,,,,
-5F Min Parking Spaces per 1BR,,Remove,,,,,,,,,
-5F Min Parking Spaces per mult BR,,Remove,,,,,,,,,
-5F Min Unit Size,,Remove,,,,,,,,,
-5F Proximity to Public Transit Required,,Remove,,,,,,,,,
-5F Rear Setback,,Remove,,,,,,,,,
-5F Side Setback,,Remove,,,,,,,,,
-5F_AFF,,Remove,,,,,,,,,
-5F_BEDROOMS,,Remove,,,,,,,,,
-5F_CNXN_H2O,,Remove,,,,,,,,,
-5F_CNXN_TRANSIT,,Remove,,,,,,,,,
-5F_ELD,,Remove,,,,,,,,,
-5F_FEET,,Remove,,,,,,,,,
-5F_FRONT,,Remove,,,,,,,,,
-5F_FSET,,Remove,,,,,,,,,
-5F_FTA,,Remove,,,,,,,,,
-5F_MAX_DENS,,Remove,,,,,,,,,
-5F_MAX_LOT_BLDG,,Remove,,,,,,,,,
-5F_MAX_LOT_IMP,,Remove,,,,,,,,,
-5F_MAX_UNIT,,Remove,,,,,,,,,
-5F_MIN_LOT,,Remove,,,,,,,,,
-5F_MIN_UNIT,,Remove,,,,,,,,,
-5F_PARK_1BR,,Remove,,,,,,,,,
-5F_PARK_2BR,,Remove,,,,,,,,,
-5F_RSET,,Remove,,,,,,,,,
-5F_SSET,,Remove,,,,,,,,,
-5F_STORIES,,Remove,,,,,,,,,
-ABB_DIST_NAME,Abbreviated_District_Name,Replace,,,,,,,,,
-Abbreviated District Name,Abbreviated_District_Name,Replace,,,,,,,,,
-Abbreviated_District_Name,Abbreviated_District_Name,Replace,,,,,,,,,
-Acres,,Remove,,,,,,,,,
-ADU Allowance,ADU_Allowance,Replace,,,,,,,,,
-ADU Elderly Housing Only,ADU_Elderly_Housing_Only,Replace,,,,,,,,,
-ADU Employee or Family Occupancy Required,ADU_Employee_or_Family_Occupancy_Required,Replace,,,,,,,,,
-ADU Max Bedrooms,ADU_Max_Bedrooms,Replace,,,,,,,,,
-ADU Max Size as Percent of Primary Strcture,ADU_Max_Size_as_Percent_of_Primary_Strcture,Replace,,,,,,,,,
-ADU Max Size in sq ft,ADU_Max_Size_in_sq_ft,Replace,,,,,,,,,
-ADU Min Lot Size,ADU_Min_Lot_Size,Replace,,,,,,,,,
-ADU Min Parking Spaces,ADU_Min_Parking_Spaces,Replace,,,,,,,,,
-ADU Owner Occupancy Required,ADU_Owner_Occupancy_Required,Replace,,,,,,,,,
-ADU Renter Occupancy Prohibited,ADU_Renter_Occupancy_Prohibited,Replace,,,,,,,,,
-ADU Restricted to Primary Structure,ADU_Restricted_to_Primary_Structure,Replace,,,,,,,,,
-ADU_Allowance,ADU_Allowance,Replace,,,,,,,,,
-ADU_BEDROOMS,ADU_Max_Bedrooms,Replace,,,,,,,,,
-ADU_BEDROOMS_COND_ALT,,Remove,,,,,,,,,
-ADU_ELD,ADU_Elderly_Housing_Only,Replace,,,,,,,,,
-ADU_Elderly_Housing_Only,ADU_Elderly_Housing_Only,Replace,,,,,,,,,
-ADU_EMP_REQD,,Remove,,,,,,,,,
-ADU_Employee_or_Family_Occupancy_Required,ADU_Employee_or_Family_Occupancy_Required,Replace,,,,,,,,,
-ADU_Max_Bedrooms,ADU_Max_Bedrooms,Replace,,,,,,,,,
-ADU_MAX_PCT,,Remove,,,,,,,,,
-ADU_MAX_PCT_COND_ALT,,Remove,,,,,,,,,
-ADU_MAX_SIZE,ADU_Max_Size_in_sq_ft,Replace,,,,,,,,,
-ADU_Max_Size_as_Percent_of_Primary_Strcture,ADU_Max_Size_as_Percent_of_Primary_Strcture,Replace,,,,,,,,,
-ADU_MAX_SIZE_COND_ALT,,Remove,,,,,,,,,
-ADU_Max_Size_in_sq_ft,ADU_Max_Size_in_sq_ft,Replace,,,,,,,,,
-ADU_MIN_LOT,ADU_Min_Lot_Size,Replace,,,,,,,,,
-ADU_MIN_LOT_COND_ALT,,Remove,,,,,,,,,
-ADU_Min_Lot_Size,ADU_Min_Lot_Size,Replace,,,,,,,,,
-ADU_Min_Parking_Spaces,ADU_Min_Parking_Spaces,Replace,,,,,,,,,
-ADU_Owner_Occupancy_Required,ADU_Owner_Occupancy_Required,Replace,,,,,,,,,
-ADU_OWNER_REQD,ADU_Owner_Occupancy_Required,Replace,,,,,,,,,
-ADU_PARK,ADU_Min_Parking_Spaces,Replace,,,,,,,,,
-ADU_PARK_COND_ALT,,Remove,,,,,,,,,
-ADU_PRIM_STRUC,ADU_Max_Size_as_Percent_of_Primary_Strcture,Replace,,,,,,,,,
-ADU_Renter_Occupancy_Prohibited,ADU_Renter_Occupancy_Prohibited,Replace,,,,,,,,,
-ADU_RENTER_PROH,ADU_Renter_Occupancy_Prohibited,Replace,,,,,,,,,
-ADU_Restricted_to_Primary_Structure,ADU_Restricted_to_Primary_Structure,Replace,,,,,,,,,
-ADUDP,ADU_Allowance,Replace,,,,,,,,,
-AFF_BEDROOMS,,Remove,,,,,,,,,
-AFF_BEDROOMS_COND_ALT,,Remove,,,,,,,,,
-AFF_CNXN_H2O,,Remove,,,,,,,,,
-AFF_CNXN_TRANSIT,,Remove,,,,,,,,,
-AFF_DEF,,Remove,,,,,,,,,
-AFF_DIST,Affordable_Housing_District,Replace,,,,,,,,,
-AFF_ELD_ONLY,Affordable_Housing_Elderly_Only,Replace,,,,,,,,,
-AFF_MAX_DENS,Affordable_Housing_Max_Density,Replace,,,,,,,,,
-AFF_MAX_DENS_COND_ALT,,Remove,,,,,,,,,
-AFF_MAX_UNIT,Affordable_Housing_Max_Units_per_Building,Replace,,,,,,,,,
-AFF_MAX_UNIT_COND_ALT,,Remove,,,,,,,,,
-AFF_MIN_LOT,Affordable_Housing_Min_Lot_Size,Replace,,,,,,,,,
-AFF_MIN_LOT_COND_ALT,,Remove,,,,,,,,,
-AFF_MIN_UNIT,,Remove,,,,,,,,,
-AFF_MIN_UNIT_COND_ALT,,Remove,,,,,,,,,
-AFF_PARK_1BR,Affordable_Housing_Min_Parking_Spaces_per_1BR,Replace,,,,,,,,,
-AFF_PARK_1BR_COND_ALT,,Remove,,,,,,,,,
-AFF_PARK_2BR,Affordable_Housing_Min_Parking_Spaces_per_mult_BR,Replace,,,,,,,,,
-AFF_PARK_2BR_COND_ALT,,Remove,,,,,,,,,
-AFFDP,Affordable_Housing_Allowance,Replace,,,,,,,,,
-Affordable Housing Allowance,Affordable_Housing_Allowance,Replace,,,,,,,,,
-Affordable Housing Definition,,Remove,,,,,,,,,
-Affordable Housing District,Affordable_Housing_District,Replace,,,,,,,,,
-Affordable Housing Elderly Only,Affordable_Housing_Elderly_Only,Replace,,,,,,,,,
-Affordable Housing Max Bedrooms,,Remove,,,,,,,,,
-Affordable Housing Max Density,Affordable_Housing_Max_Density,Replace,,,,,,,,,
-Affordable Housing Max Units per Building,Affordable_Housing_Max_Units_per_Building,Replace,,,,,,,,,
-Affordable Housing Min Lot Size,Affordable_Housing_Min_Lot_Size,Replace,,,,,,,,,
-Affordable Housing Min Parking Spaces per 1BR,Affordable_Housing_Min_Parking_Spaces_per_1BR,Replace,,,,,,,,,
-Affordable Housing Min Parking Spaces per mult BR,Affordable_Housing_Min_Parking_Spaces_per_mult_BR,Replace,,,,,,,,,
-Affordable Housing Min Unit Size,,Remove,,,,,,,,,
-Affordable_Housing_Allowance,Affordable_Housing_Allowance,Replace,,,,,,,,,
-Affordable_Housing_Definition,,Remove,,,,,,,,,
-Affordable_Housing_District,Affordable_Housing_District,Replace,,,,,,,,,
-Affordable_Housing_Elderly_Only,Affordable_Housing_Elderly_Only,Replace,,,,,,,,,
-Affordable_Housing_Max_Bedrooms,,Remove,,,,,,,,,
-Affordable_Housing_Max_Density,Affordable_Housing_Max_Density,Replace,,,,,,,,,
-Affordable_Housing_Max_Units_per_Building,Affordable_Housing_Max_Units_per_Building,Replace,,,,,,,,,
-Affordable_Housing_Min_Lot_Size,Affordable_Housing_Min_Lot_Size,Replace,,,,,,,,,
-Affordable_Housing_Min_Parking_Spaces_per_1BR,Affordable_Housing_Min_Parking_Spaces_per_1BR,Replace,,,,,,,,,
-Affordable_Housing_Min_Parking_Spaces_per_mult_BR,Affordable_Housing_Min_Parking_Spaces_per_mult_BR,Replace,,,,,,,,,
-Affordable_Housing_Min_Unit_Size,,Remove,,,,,,,,,
-Base Density,Base_Density,Replace,,,,,,,,,
-BASE_DENS,Base_Density,Replace,,,,,,,,,
-Base_Density,Base_Density,Replace,,,,,,,,,
-Bylaw Date,Bylaw_Date,Replace,,,,,,,,,
-Bylaw_Date,Bylaw_Date,Replace,,,,,,,,,
-BYLAW_EFF,Bylaw_Date,Replace,,,,,,,,,
-County,County,Replace,,,,,,,,,
-DIST_MAP,District_Mapped,Replace,,,,,,,,,
-DIST_TYPE,District_Type,Replace,,,,,,,,,
-DISTRICT,District_Name,Replace,,,,,,,,,
-District Mapped,District_Mapped,Replace,,,,,,,,,
-District Name,District_Name,Replace,,,,,,,,,
-District Type,District_Type,Replace,,,,,,,,,
-CONDITIONAL_1F_Floor_to_Area_Ratio,,Remove,,,,,,,,,
-CONDITIONAL_1F_Front_Setback,,Remove,,,,,,,,,
-CONDITIONAL_1F_Frontage,,Remove,,,,,,,,,
-CONDITIONAL_1F_Max_Height,,Remove,,,,,,,,,
-CONDITIONAL_1F_Max_Lot_Building_Coverage,,Remove,,,,,,,,,
-CONDITIONAL_1F_Max_Lot_Impervious_Coverage,,Remove,,,,,,,,,
-CONDITIONAL_1F_Max_Stories,,Remove,,,,,,,,,
-CONDITIONAL_1F_Min_Lot,,Remove,,,,,,,,,
-CONDITIONAL_1F_Min_Parking_Spaces,,Remove,,,,,,,,,
-CONDITIONAL_1F_Min_Unit_Size,,Remove,,,,,,,,,
-CONDITIONAL_1F_Rear_Setback,,Remove,,,,,,,,,
-CONDITIONAL_1F_Side_Setback,,Remove,,,,,,,,,
-CONDITIONAL_2F_Affordable_Housing_Only,,Remove,,,,,,,,,
-CONDITIONAL_2F_Elderly_Housing_Only,,Remove,,,,,,,,,
-CONDITIONAL_2F_Floor_to_Area_Ratio,,Remove,,,,,,,,,
-CONDITIONAL_2F_Front_Setback,,Remove,,,,,,,,,
-CONDITIONAL_2F_Frontage,,Remove,,,,,,,,,
-CONDITIONAL_2F_Max_Density,,Remove,,,,,,,,,
-CONDITIONAL_2F_Max_Height,,Remove,,,,,,,,,
-CONDITIONAL_2F_Max_Lot_Building_Coverage,,Remove,,,,,,,,,
-CONDITIONAL_2F_Max_Lot_Impervious_Coverage,,Remove,,,,,,,,,
-CONDITIONAL_2F_Max_Stories,,Remove,,,,,,,,,
-CONDITIONAL_2F_Min_Lot_Size,,Remove,,,,,,,,,
-CONDITIONAL_2F_Min_Parking_Spaces_per_1BR,,Remove,,,,,,,,,
-CONDITIONAL_2F_Min_Parking_Spaces_per_mult_BR,,Remove,,,,,,,,,
-CONDITIONAL_2F_Min_Unit_Size,,Remove,,,,,,,,,
-CONDITIONAL_2F_Rear_Setback,,Remove,,,,,,,,,
-CONDITIONAL_2F_Side_Setback,,Remove,,,,,,,,,
-CONDITIONAL_3F_Affordable_Housing_Only,,Remove,,,,,,,,,
-CONDITIONAL_3F_Connection_to_Sewage_Water_Required,,Remove,,,,,,,,,
-CONDITIONAL_3F_Elderly_Housing_Only,,Remove,,,,,,,,,
-CONDITIONAL_3F_Floor_to_Area_Ratio,,Remove,,,,,,,,,
-CONDITIONAL_3F_Front_Setback,,Remove,,,,,,,,,
-CONDITIONAL_3F_Frontage,,Remove,,,,,,,,,
-CONDITIONAL_3F_Max_Bedrooms,,Remove,,,,,,,,,
-CONDITIONAL_3F_Max_Density,,Remove,,,,,,,,,
-CONDITIONAL_3F_Max_Height,,Remove,,,,,,,,,
-CONDITIONAL_3F_Max_Lot_Building_Coverage,,Remove,,,,,,,,,
-CONDITIONAL_3F_Max_Lot_Impervious_Coverage,,Remove,,,,,,,,,
-CONDITIONAL_3F_Max_Stories,,Remove,,,,,,,,,
-CONDITIONAL_3F_Min_Lot_Size,,Remove,,,,,,,,,
-CONDITIONAL_3F_Min_Parking_Spaces_per_1BR,,Remove,,,,,,,,,
-CONDITIONAL_3F_Min_Parking_Spaces_per_mult_BR,,Remove,,,,,,,,,
-CONDITIONAL_3F_Min_Unit_Size,,Remove,,,,,,,,,
-CONDITIONAL_3F_Proximity_to_Public_Transit_Required,,Remove,,,,,,,,,
-CONDITIONAL_3F_Rear_Setback,,Remove,,,,,,,,,
-CONDITIONAL_3F_Side_Setback,,Remove,,,,,,,,,
-CONDITIONAL_4F_Affordable_Housing_Only,,Remove,,,,,,,,,
-CONDITIONAL_4F_Connection_to_Sewage_Water_Required,,Remove,,,,,,,,,
-CONDITIONAL_4F_Elderly_Housing_Only,,Remove,,,,,,,,,
-CONDITIONAL_4F_Floor_to_Area_Ratio,,Remove,,,,,,,,,
-CONDITIONAL_4F_Front_Setback,,Remove,,,,,,,,,
-CONDITIONAL_4F_Frontage,,Remove,,,,,,,,,
-CONDITIONAL_4F_Max_Bedrooms,,Remove,,,,,,,,,
-CONDITIONAL_4F_Max_Density,,Remove,,,,,,,,,
-CONDITIONAL_4F_Max_Height,,Remove,,,,,,,,,
-CONDITIONAL_4F_Max_Lot_Building_Coverage,,Remove,,,,,,,,,
-CONDITIONAL_4F_Max_Lot_Impervious_Coverage,,Remove,,,,,,,,,
-CONDITIONAL_4F_Max_Stories,,Remove,,,,,,,,,
-CONDITIONAL_4F_Max_Units_per_Building,,Remove,,,,,,,,,
-CONDITIONAL_4F_Min_Lot_Size,,Remove,,,,,,,,,
-CONDITIONAL_4F_Min_Parking_Spaces_per__mult_BR,,Remove,,,,,,,,,
-CONDITIONAL_4F_Min_Parking_Spaces_per_1BR,,Remove,,,,,,,,,
-CONDITIONAL_4F_Min_Unit_Size,,Remove,,,,,,,,,
-CONDITIONAL_4F_Proximity_to_Public_Transit_Required,,Remove,,,,,,,,,
-CONDITIONAL_4F_Rear_Setback,,Remove,,,,,,,,,
-CONDITIONAL_4F_Side_Setback,,Remove,,,,,,,,,
-CONDITIONAL_5F_Affordable_Housing_Only,,Remove,,,,,,,,,
-CONDITIONAL_5F_Connection_to_Sewage_Water_Required,,Remove,,,,,,,,,
-CONDITIONAL_5F_Elderly_Housing_Only,,Remove,,,,,,,,,
-CONDITIONAL_5F_Floor_to_Area_Ratio,,Remove,,,,,,,,,
-CONDITIONAL_5F_Front_Setback,,Remove,,,,,,,,,
-CONDITIONAL_5F_Frontage,,Remove,,,,,,,,,
-CONDITIONAL_5F_Max__Lot_Impervious_Coverage,,Remove,,,,,,,,,
-CONDITIONAL_5F_Max_Bedrooms,,Remove,,,,,,,,,
-CONDITIONAL_5F_Max_Density,,Remove,,,,,,,,,
-CONDITIONAL_5F_Max_Height,,Remove,,,,,,,,,
-CONDITIONAL_5F_Max_Lot_Building_Coverage,,Remove,,,,,,,,,
-CONDITIONAL_5F_Max_Stories,,Remove,,,,,,,,,
-CONDITIONAL_5F_Max_Units_per_Building,,Remove,,,,,,,,,
-CONDITIONAL_5F_Min_Lot_Size,,Remove,,,,,,,,,
-CONDITIONAL_5F_Min_Parking_Spaces_per_1BR,,Remove,,,,,,,,,
-CONDITIONAL_5F_Min_Parking_Spaces_per_mult_BR,,Remove,,,,,,,,,
-CONDITIONAL_5F_Min_Unit_Size,,Remove,,,,,,,,,
-CONDITIONAL_5F_Proximity_to_Public_Transit_Required,,Remove,,,,,,,,,
-CONDITIONAL_5F_Rear_Setback,,Remove,,,,,,,,,
-CONDITIONAL_5F_Side_Setback,,Remove,,,,,,,,,
-CONDITIONAL_ADU_Elderly_Housing_Only,,Remove,,,,,,,,,
-CONDITIONAL_ADU_Employee_or_Family_Occupancy_Required,,Remove,,,,,,,,,
-CONDITIONAL_ADU_Max_Bedrooms,,Remove,,,,,,,,,
-CONDITIONAL_ADU_Max_Size_as_Percent_of_Primary_Strcture,,Remove,,,,,,,,,
-CONDITIONAL_ADU_Max_Size_in_sq_ft,,Remove,,,,,,,,,
-CONDITIONAL_ADU_Min_Lot_Size,,Remove,,,,,,,,,
-CONDITIONAL_ADU_Min_Parking_Spaces,,Remove,,,,,,,,,
-CONDITIONAL_ADU_Owner_Occupancy_Required,,Remove,,,,,,,,,
-CONDITIONAL_ADU_Renter_Occupancy_Prohibited,,Remove,,,,,,,,,
-CONDITIONAL_ADU_Restricted_to_Primary_Structure,,Remove,,,,,,,,,
-CONDITIONAL_Affordable_Housing_Definition,,Remove,,,,,,,,,
-CONDITIONAL_Affordable_Housing_Elderly_Only,,Remove,,,,,,,,,
-CONDITIONAL_Affordable_Housing_Max_Bedrooms,,Remove,,,,,,,,,
-CONDITIONAL_Affordable_Housing_Max_Density,,Remove,,,,,,,,,
-CONDITIONAL_Affordable_Housing_Max_Units_per_Building,,Remove,,,,,,,,,
-CONDITIONAL_Affordable_Housing_Min_Lot_Size,,Remove,,,,,,,,,
-CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_1BR,,Remove,,,,,,,,,
-CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_mult_BR,,Remove,,,,,,,,,
-CONDITIONAL_Affordable_Housing_Min_Unit_Size,,Remove,,,,,,,,,
-CONDITIONAL_PRD_Max_Density,,Remove,,,,,,,,,
-CONDITIONAL_PRD_Max_Units,,Remove,,,,,,,,,
-CONDITIONAL_PRD_Min_Lot_Size,,Remove,,,,,,,,,
-CONDITIONAL_PRD_Mobile_or_Manufactured_Home_Park,,Remove,,,,,,,,,
-CONDITIONAL_PUD_Allowance,,Remove,,,,,,,,,
-CONDITIONAL_PUD_Required_with_Subdivision,,Remove,,,,,,,,,
-CONDITIONAL_PUD_Requires_Land_Conservation,,Remove,,,,,,,,,
-CONDITIONAL_PUD_Threshold_Number,,Remove,,,,,,,,,
-CONDITIONAL 1F Floor to Area Ratio,,Remove,,,,,,,,,
-CONDITIONAL 1F Front Setback,,Remove,,,,,,,,,
-CONDITIONAL 1F Frontage,,Remove,,,,,,,,,
-CONDITIONAL 1F Max Height,,Remove,,,,,,,,,
-CONDITIONAL 1F Max Lot Building Coverage,,Remove,,,,,,,,,
-CONDITIONAL 1F Max Lot Impervious Coverage,,Remove,,,,,,,,,
-CONDITIONAL 1F Max Stories,,Remove,,,,,,,,,
-CONDITIONAL 1F Min Lot,,Remove,,,,,,,,,
-CONDITIONAL 1F Min Parking Spaces,,Remove,,,,,,,,,
-CONDITIONAL 1F Min Unit Size,,Remove,,,,,,,,,
-CONDITIONAL 1F Rear Setback,,Remove,,,,,,,,,
-CONDITIONAL 1F Side Setback,,Remove,,,,,,,,,
-CONDITIONAL 2F Affordable Housing Only,,Remove,,,,,,,,,
-CONDITIONAL 2F Elderly Housing Only,,Remove,,,,,,,,,
-CONDITIONAL 2F Floor to Area Ratio,,Remove,,,,,,,,,
-CONDITIONAL 2F Front Setback,,Remove,,,,,,,,,
-CONDITIONAL 2F Frontage,,Remove,,,,,,,,,
-CONDITIONAL 2F Max Density,,Remove,,,,,,,,,
-CONDITIONAL 2F Max Height,,Remove,,,,,,,,,
-CONDITIONAL 2F Max Lot Building Coverage,,Remove,,,,,,,,,
-CONDITIONAL 2F Max Lot Impervious Coverage,,Remove,,,,,,,,,
-CONDITIONAL 2F Max Stories,,Remove,,,,,,,,,
-CONDITIONAL 2F Min Lot Size,,Remove,,,,,,,,,
-CONDITIONAL 2F Min Parking Spaces per 1BR,,Remove,,,,,,,,,
-CONDITIONAL 2F Min Parking Spaces per mult BR,,Remove,,,,,,,,,
-CONDITIONAL 2F Min Unit Size,,Remove,,,,,,,,,
-CONDITIONAL 2F Rear Setback,,Remove,,,,,,,,,
-CONDITIONAL 2F Side Setback,,Remove,,,,,,,,,
-CONDITIONAL 3F Affordable Housing Only,,Remove,,,,,,,,,
-CONDITIONAL 3F Connection to Sewage/Water Required,,Remove,,,,,,,,,
-CONDITIONAL 3F Elderly Housing Only,,Remove,,,,,,,,,
-CONDITIONAL 3F Floor to Area Ratio,,Remove,,,,,,,,,
-CONDITIONAL 3F Front Setback,,Remove,,,,,,,,,
-CONDITIONAL 3F Frontage,,Remove,,,,,,,,,
-CONDITIONAL 3F Max Bedrooms,,Remove,,,,,,,,,
-CONDITIONAL 3F Max Density,,Remove,,,,,,,,,
-CONDITIONAL 3F Max Height,,Remove,,,,,,,,,
-CONDITIONAL 3F Max Lot Building Coverage,,Remove,,,,,,,,,
-CONDITIONAL 3F Max Lot Impervious Coverage,,Remove,,,,,,,,,
-CONDITIONAL 3F Max Stories,,Remove,,,,,,,,,
-CONDITIONAL 3F Min Lot Size,,Remove,,,,,,,,,
-CONDITIONAL 3F Min Parking Spaces per 1BR,,Remove,,,,,,,,,
-CONDITIONAL 3F Min Parking Spaces per mult BR,,Remove,,,,,,,,,
-CONDITIONAL 3F Min Unit Size,,Remove,,,,,,,,,
-CONDITIONAL 3F Proximity to Public Transit Required,,Remove,,,,,,,,,
-CONDITIONAL 3F Rear Setback,,Remove,,,,,,,,,
-CONDITIONAL 3F Side Setback,,Remove,,,,,,,,,
-CONDITIONAL 4F Affordable Housing Only,,Remove,,,,,,,,,
-CONDITIONAL 4F Connection to Sewage/Water Required,,Remove,,,,,,,,,
-CONDITIONAL 4F Elderly Housing Only,,Remove,,,,,,,,,
-CONDITIONAL 4F Floor to Area Ratio,,Remove,,,,,,,,,
-CONDITIONAL 4F Front Setback,,Remove,,,,,,,,,
-CONDITIONAL 4F Frontage,,Remove,,,,,,,,,
-CONDITIONAL 4F Max Bedrooms,,Remove,,,,,,,,,
-CONDITIONAL 4F Max Density,,Remove,,,,,,,,,
-CONDITIONAL 4F Max Height,,Remove,,,,,,,,,
-CONDITIONAL 4F Max Lot Building Coverage,,Remove,,,,,,,,,
-CONDITIONAL 4F Max Lot Impervious Coverage,,Remove,,,,,,,,,
-CONDITIONAL 4F Max Stories,,Remove,,,,,,,,,
-CONDITIONAL 4F Max Units per Building,,Remove,,,,,,,,,
-CONDITIONAL 4F Min Lot Size,,Remove,,,,,,,,,
-CONDITIONAL 4F Min Parking Spaces per  mult BR,,Remove,,,,,,,,,
-CONDITIONAL 4F Min Parking Spaces per 1BR,,Remove,,,,,,,,,
-CONDITIONAL 4F Min Unit Size,,Remove,,,,,,,,,
-CONDITIONAL 4F Proximity to Public Transit Required,,Remove,,,,,,,,,
-CONDITIONAL 4F Rear Setback,,Remove,,,,,,,,,
-CONDITIONAL 4F Side Setback,,Remove,,,,,,,,,
-CONDITIONAL 5F Connection to Sewage/Water Required,,Remove,,,,,,,,,
-CONDITIONAL 5F Elderly Housing Only,,Remove,,,,,,,,,
-CONDITIONAL 5F Floor to Area Ratio,,Remove,,,,,,,,,
-CONDITIONAL 5F Front Setback,,Remove,,,,,,,,,
-CONDITIONAL 5F Frontage,,Remove,,,,,,,,,
-CONDITIONAL 5F Max  Lot Impervious Coverage,,Remove,,,,,,,,,
-CONDITIONAL 5F Max Bedrooms,,Remove,,,,,,,,,
-CONDITIONAL 5F Max Density,,Remove,,,,,,,,,
-CONDITIONAL 5F Max Height,,Remove,,,,,,,,,
-CONDITIONAL 5F Max Lot Building Coverage,,Remove,,,,,,,,,
-CONDITIONAL 5F Max Stories,,Remove,,,,,,,,,
-CONDITIONAL 5F Max Units per Building,,Remove,,,,,,,,,
-CONDITIONAL 5F Min Lot Size,,Remove,,,,,,,,,
-CONDITIONAL 5F Min Parking Spaces per 1BR,,Remove,,,,,,,,,
-CONDITIONAL 5F Min Parking Spaces per mult BR,,Remove,,,,,,,,,
-CONDITIONAL 5F Min Unit Size,,Remove,,,,,,,,,
-CONDITIONAL 5F Proximity to Public Transit Required,,Remove,,,,,,,,,
-CONDITIONAL 5F Rear Setback,,Remove,,,,,,,,,
-CONDITIONAL 5F Side Setback,,Remove,,,,,,,,,
-CONDITIONAL ADU Elderly Housing Only,,Remove,,,,,,,,,
-CONDITIONAL ADU Employee or Family Occupancy Required,,Remove,,,,,,,,,
-CONDITIONAL ADU Max Bedrooms,,Remove,,,,,,,,,
-CONDITIONAL ADU Max Size as Percent of Primary Strcture,,Remove,,,,,,,,,
-CONDITIONAL ADU Max Size in sq ft,,Remove,,,,,,,,,
-CONDITIONAL ADU Min Lot Size,,Remove,,,,,,,,,
-CONDITIONAL ADU Min Parking Spaces,,Remove,,,,,,,,,
-CONDITIONAL ADU Owner Occupancy Required,,Remove,,,,,,,,,
-CONDITIONAL ADU Renter Occupancy Prohibited,,Remove,"CONDITIONAL 5F Renter Occupancy Prohibited",,,,,,,,,
-CONDITIONAL ADU Restricted to Primary Structure,,Remove,"CONDITIONAL 5F Restricted to Primary Structure",,,,,,,,,
-CONDITIONAL Affordable Housing Definition,,Remove,"CONDITIONAL Affordable Housing Definition",,,,,,,,
-CONDITIONAL Affordable Housing Elderly Only,,Remove,"CONDITIONAL Affordable Housing Elderly Only",,,,,,,,
-CONDITIONAL Affordable Housing Max Bedrooms,,Remove,"CONDITIONAL Affordable Housing Max Bedrooms",,,,,,,,
-CONDITIONAL Affordable Housing Max Density,,Remove,"CONDITIONAL Affordable Housing Max Density",,,,,,,,
-CONDITIONAL Affordable Housing Max Units per Building,,Remove,"CONDITIONAL Affordable Housing Max Units per Building",,,,,,,,
-CONDITIONAL Affordable Housing Min Lot Size,,Remove,"CONDITIONAL Affordable Housing Min Lot Size",,,,,,,,
-CONDITIONAL Affordable Housing Min Parking Spaces per 1BR,,Remove,"CONDITIONAL Affordable Housing Min Parking Spaces per 1BR",,,,,,,,
-CONDITIONAL Affordable Housing Min Parking Spaces per mult BR,,Remove,"CONDITIONAL Affordable Housing Min Parking Spaces per mult BR",,,,,,,,
-CONDITIONAL Affordable Housing Min Unit Size,,Remove,"CONDITIONAL Affordable Housing Min Unit Size",,,,,,,,
-CONDITIONAL PRD Max Density,,Remove,"CONDITIONAL PRD Max Density",,,,,,,,
-CONDITIONAL PRD Max Units,,Remove,"CONDITIONAL PRD Max Units",,,,,,,,
-CONDITIONAL PRD Min Lot Size,,Remove,"CONDITIONAL PRD Min Lot Size",,,,,,,,
-CONDITIONAL PRD Mobile or Manufactured Home Park,,Remove,"CONDITIONAL PRD Mobile or Manufactured Home Park",,,,,,,,
-CONDITIONAL PUD Allowance,,Remove,"CONDITIONAL PUD Allowance",,,,,,,,
-CONDITIONAL PUD Required with Subdivision,,Remove,"CONDITIONAL PUD Required with Subdivision",,,,,,,,
-CONDITIONAL PUD Requires Land Conservation,,Remove,"CONDITIONAL PUD Requires Land Conservation",,,,,,,,
-CONDITIONAL PUD Threshold Number,,Remove,"CONDITIONAL PUD Threshold Number",,,,,,,,
-District_Mapped,District_Mapped,Replace,,,,,,,,,
-District_Name,District_Name,Replace,,,,,,,,,
-District_Type,District_Type,Replace,,,,,,,,,
-ELD_DIST,Elderly_Housing_District,Replace,,,,,,,,,
-Elderly Housing District,Elderly_Housing_District,Replace,,,,,,,,,
-Elderly_Housing_District,Elderly_Housing_District,Replace,,,,,,,,,
-Extinct District,,Remove,,,,,,,,,
-Extinct_District,,Remove,,,,,,,,,
-F1F_Allowance,F1F_Allowance,Replace,,,,,,,,,
+source_field,target_field,match_type,order
+OBJECTID,OBJECT_ID,Replace,1.01
+OBJECTID_1,OBJECT_ID,Replace,1.01
+County,County,Replace,1.02
+Jurisdiction_County,County,Replace,1.02
+RPC,RPC,Replace,1.03
+Jurisdiction,Municipal_Name,Replace,1.04
+Jurisdiction District Name,Municipal_Name,Replace,1.04
+Jurisdiction_District_Name,Municipal_Name,Replace,1.04
+Municipal_Name,Municipal_Name,Replace,1.04
+GEO_ID,GEO_ID,Replace,1.05
+DISTRICT,District_Name,Replace,1.06
+District Name,District_Name,Replace,1.06
+District_Name,District_Name,Replace,1.06
+ABB_DIST_NAME,Abbreviated_District_Name,Replace,1.08
+ABB_DIST_NAME,Abbreviated_District_Name,Replace,1.08
+Abbreviated District Name,Abbreviated_District_Name,Replace,1.08
+Abbreviated_District_Name,Abbreviated_District_Name,Replace,1.08
+DIST_TYPE,District_Type,Replace,1.09
+District Type,District_Type,Replace,1.09
+District_Type,District_Type,Replace,1.09
+Version,Zoning_Version,Remove,
+Bylaw Date,Bylaw_Date,Replace,1.12
+Bylaw_Date,Bylaw_Date,Replace,1.12
+Bylaw_Date,Bylaw_Date,Replace,1.12
+BYLAW_EFF,Bylaw_Date,Replace,1.12
+Version,Bylaw_Date,Replace,1.12
+Zoning_Version,Bylaw_Date,Replace,1.12
+ELD_DIST,Elderly_Housing_District,Replace,1.13
+Elderly Housing District,Elderly_Housing_District,Replace,1.13
+Elderly_Housing_District,Elderly_Housing_District,Replace,1.13
+DIST_MAP,District_Mapped,Replace,1.14
+District Mapped,District_Mapped,Replace,1.14
+District_Mapped,District_Mapped,Replace,1.14
+OVER,Overlay_District,Replace,1.15
+Overlay District,Overlay_District,Replace,1.15
+Overlay_District,Overlay_District,Replace,1.15
+Base Density,Base_Density,Replace,1.16
+BASE_DENS,Base_Density,Replace,1.16
+Base_Density,Base_Density,Replace,1.16
+FID_1,FIPS6,Replace,1.17
+FID,FIPS6,Replace,1.17
+FIPS6,FIPS6,Replace,1.17
+GIS_ID,GIS_ID,Replace,1.18
+LAST_UPDATE,Last_Update,Replace,1.19
+Shape__Len,Shape_Length,Replace,1.20
+Shape_Length,Shape_Length,Replace,1.20
+Shape_Area,Shape_Area,Replace,1.21
+Shape__Are,Shape_Area,Replace,1.21
+1F Allowance,F1F_Allowance,Replace,2.01
+F1F_Allowance,F1F_Allowance,Replace,2.01
+F1FDP,F1F_Allowance,Replace,2.01
+1F Front Setback,F1F_Front_Setback,Replace,2.03
+1F_FSET,F1F_Front_Setback,Replace,2.03
+F1F_Front_Setback,F1F_Front_Setback,Replace,2.03
+F1F_FSET,F1F_Front_Setback,Replace,2.03
+1F Side Setback,F1F_Side_Setback,Replace,2.04
+1F_SSET,F1F_Side_Setback,Replace,2.04
+F1F_Side_Setback,F1F_Side_Setback,Replace,2.04
+F1F_SSET,F1F_Side_Setback,Replace,2.04
+1F Rear Setback,F1F_Rear_Setback,Replace,2.05
+1F_RSET,F1F_Rear_Setback,Replace,2.05
+F1F_Rear_Setback,F1F_Rear_Setback,Replace,2.05
+F1F_RSET,F1F_Rear_Setback,Replace,2.05
+1F Frontage,F1F_Frontage,Replace,2.06
+1F_FRONT,F1F_Frontage,Replace,2.06
+F1F_FRONT,F1F_Frontage,Replace,2.06
+F1F_Frontage,F1F_Frontage,Replace,2.06
+1F Max Height,F1F_Max_Height,Replace,2.08
+1F_HEIGHT,F1F_Max_Height,Replace,2.08
+F1F_HEIGHT,F1F_Max_Height,Replace,2.08
+F1F_Max_Height,F1F_Max_Height,Replace,2.08
+1F Max Stories,F1F_Max_Stories,Replace,2.08
+1F_STORIES,F1F_Max_Stories,Replace,2.08
+F1F_Max_Stories,F1F_Max_Stories,Replace,2.08
+F1F_STORIES,F1F_Max_Stories,Replace,2.08
+1F Min Lot,F1F_Min_Lot_Size,Replace,2.09
+1F_MIN_LOT,F1F_Min_Lot_Size,Replace,2.09
+F1F_Min_Lot,F1F_Min_Lot_Size,Replace,2.09
+F1F_MIN_LOT,F1F_Min_Lot_Size,Replace,2.09
+F1F_Min_Lot,F1F_Min_Lot_Size,Replace,2.09
+1F Max Lot Building Coverage,F1F_Max_Lot_Building_Coverage,Replace,2.10
+1F_MAX_LOT_BLDG,F1F_Max_Lot_Building_Coverage,Replace,2.10
+F1F_MAX_LOT_BLDG,F1F_Max_Lot_Building_Coverage,Replace,2.10
+F1F_Max_Lot_Building_Coverage,F1F_Max_Lot_Building_Coverage,Replace,2.10
+1F Max Lot Impervious Coverage,F1F_Max_Lot_Impervious_Coverage,Replace,2.11
+1F_MAX_LOT_IMP,F1F_Max_Lot_Impervious_Coverage,Replace,2.11
+F1F_MAX_LOT_IMP,F1F_Max_Lot_Impervious_Coverage,Replace,2.11
+F1F_Max_Lot_Impervious_Coverage,F1F_Max_Lot_Impervious_Coverage,Replace,2.11
+1F Min Parking Spaces,F1F_Min_Parking_Spaces,Replace,2.12
+1F_PARK,F1F_Min_Parking_Spaces,Replace,2.12
+F1F_Min_Parking_Spaces,F1F_Min_Parking_Spaces,Replace,2.12
+F1F_PARK,F1F_Min_Parking_Spaces,Replace,2.12
+F1F_Elderly_Housing_Only,F1F_Elderly_Housing_Only,Replace,2.14
+F1F_Affordable_Housing_Only,F1F_Affordable_Housing_Only,Replace,2.15
+2F Allowance,F2F_Allowance,Replace,3.01
+F2F_Allowance,F2F_Allowance,Replace,3.01
+F2FDP,F2F_Allowance,Replace,3.01
+2F Front Setback,F2F_Front_Setback,Replace,3.03
+2F_FSET,F2F_Front_Setback,Replace,3.03
+F2F_Front_Setback,F2F_Front_Setback,Replace,3.03
+F2F_FSET,F2F_Front_Setback,Replace,3.03
+2F Side Setback,F2F_Side_Setback,Replace,3.04
+2F_SSET,F2F_Side_Setback,Replace,3.04
+F2F_Side_Setback,F2F_Side_Setback,Replace,3.04
+F2F_SSET,F2F_Side_Setback,Replace,3.04
+2F Rear Setback,F2F_Rear_Setback,Replace,3.05
+2F_RSET,F2F_Rear_Setback,Replace,3.05
+F2F_Rear_Setback,F2F_Rear_Setback,Replace,3.05
+F2F_RSET,F2F_Rear_Setback,Replace,3.05
+2F Frontage,F2F_Frontage,Replace,3.06
+2F_FRONT,F2F_Frontage,Replace,3.06
+F2F_FRONT,F2F_Frontage,Replace,3.06
+F2F_Frontage,F2F_Frontage,Replace,3.06
+2F Max Density,F2F_Max_Density,Replace,3.07
+2F_MAX_DENS,F2F_Max_Density,Replace,3.07
+F2F_MAX_DENS,F2F_Max_Density,Replace,3.07
+F2F_Max_Density,F2F_Max_Density,Replace,3.07
+2F Max Height,F2F_Max_Height,Replace,3.08
+2F_HEIGHT,F2F_Max_Height,Replace,3.08
+F2F_HEIGHT,F2F_Max_Height,Replace,3.08
+F2F_Max_Height,F2F_Max_Height,Replace,3.08
+2F Max Stories,F2F_Max_Stories,Replace,3.08
+2F_STORIES,F2F_Max_Stories,Replace,3.08
+F2F_Max_Stories,F2F_Max_Stories,Replace,3.08
+F2F_STORIES,F2F_Max_Stories,Replace,3.08
+2F Min Lot Size,F2F_Min_Lot_Size,Replace,3.09
+2F_MIN_LOT,F2F_Min_Lot_Size,Replace,3.09
+F2F_MIN_LOT,F2F_Min_Lot_Size,Replace,3.09
+F2F_Min_Lot_Size,F2F_Min_Lot_Size,Replace,3.09
+2F Max Lot Building Coverage,F2F_Max_Lot_Building_Coverage,Replace,3.10
+2F_MAX_LOT_BLDG,F2F_Max_Lot_Building_Coverage,Replace,3.10
+F2F_MAX_LOT_BLDG,F2F_Max_Lot_Building_Coverage,Replace,3.10
+F2F_Max_Lot_Building_Coverage,F2F_Max_Lot_Building_Coverage,Replace,3.10
+2F Max Lot Impervious Coverage,F2F_Max_Lot_Impervious_Coverage,Replace,3.11
+2F_MAX_LOT_IMP,F2F_Max_Lot_Impervious_Coverage,Replace,3.11
+F2F_MAX_LOT_IMP,F2F_Max_Lot_Impervious_Coverage,Replace,3.11
+F2F_Max_Lot_Impervious_Coverage,F2F_Max_Lot_Impervious_Coverage,Replace,3.11
+2F Min Parking Spaces per 1BR,F2F_Min_Parking_Spaces_per_1BR,Replace,3.12
+2F_PARK_1BR,F2F_Min_Parking_Spaces_per_1BR,Replace,3.12
+F2F_Min_Parking_Spaces_per_1BR,F2F_Min_Parking_Spaces_per_1BR,Replace,3.12
+F2F_PARK_1BR,F2F_Min_Parking_Spaces_per_1BR,Replace,3.12
+2F Min Parking Spaces per mult BR,F2F_Min_Parking_Spaces_per_mult_BR,Replace,3.13
+2F_PARK_2BR,F2F_Min_Parking_Spaces_per_mult_BR,Replace,3.13
+F2F_Min_Parking_Spaces_per_mult_BR,F2F_Min_Parking_Spaces_per_mult_BR,Replace,3.13
+F2F_PARK_2BR,F2F_Min_Parking_Spaces_per_mult_BR,Replace,3.13
+2F Elderly Housing Only,F2F_Elderly_Housing_Only,Replace,3.14
+2F_ELD,F2F_Elderly_Housing_Only,Replace,3.14
+F2F_ELD,F2F_Elderly_Housing_Only,Replace,3.14
+F2F_Elderly_Housing_Only,F2F_Elderly_Housing_Only,Replace,3.14
+2F Affordable Housing Only,F2F_Affordable_Housing_Only,Replace,3.15
+2F_AFF,F2F_Affordable_Housing_Only,Replace,3.15
+F2F_AFF,F2F_Affordable_Housing_Only,Replace,3.15
+F2F_Affordable_Housing_Only,F2F_Affordable_Housing_Only,Replace,3.15
+3F Allowance,F3F_Allowance,Replace,4.01
+F3F_Allowance,F3F_Allowance,Replace,4.01
+F3FDP,F3F_Allowance,Replace,4.01
+3F Front Setback,F3F_Front_Setback,Replace,4.03
+3F_FSET,F3F_Front_Setback,Replace,4.03
+F3F_Front_Setback,F3F_Front_Setback,Replace,4.03
+F3F_FSET,F3F_Front_Setback,Replace,4.03
+3F Side Setback,F3F_Side_Setback,Replace,4.04
+3F_SSET,F3F_Side_Setback,Replace,4.04
+F3F_Side_Setback,F3F_Side_Setback,Replace,4.04
+F3F_SSET,F3F_Side_Setback,Replace,4.04
+3F Rear Setback,F3F_Rear_Setback,Replace,4.05
+3F_RSET,F3F_Rear_Setback,Replace,4.05
+F3F_Rear_Setback,F3F_Rear_Setback,Replace,4.05
+F3F_RSET,F3F_Rear_Setback,Replace,4.05
+3F Frontage,F3F_Frontage,Replace,4.06
+3F_FRONT,F3F_Frontage,Replace,4.06
+F3F_FRONT,F3F_Frontage,Replace,4.06
+F3F_Frontage,F3F_Frontage,Replace,4.06
+3F Max Density,F3F_Max_Density,Replace,4.07
+3F_MAX_DENS,F3F_Max_Density,Replace,4.07
+F3F_MAX_DENS,F3F_Max_Density,Replace,4.07
+F3F_Max_Density,F3F_Max_Density,Replace,4.07
+3F Max Height,F3F_Max_Height,Replace,4.08
+3F_HEIGHT,F3F_Max_Height,Replace,4.08
+F3F_HEIGHT,F3F_Max_Height,Replace,4.08
+F3F_Max_Height,F3F_Max_Height,Replace,4.08
+3F Max Stories,F3F_Max_Stories,Replace,4.08
+3F_STORIES,F3F_Max_Stories,Replace,4.08
+F3F_Max_Stories,F3F_Max_Stories,Replace,4.08
+F3F_STORIES,F3F_Max_Stories,Replace,4.08
+3F Min Lot Size,F3F_Min_Lot_Size,Replace,4.09
+3F_MIN_LOT,F3F_Min_Lot_Size,Replace,4.09
+F3F_MIN_LOT,F3F_Min_Lot_Size,Replace,4.09
+F3F_Min_Lot_Size,F3F_Min_Lot_Size,Replace,4.09
+3F Max Lot Building Coverage,F3F_Max_Lot_Building_Coverage,Replace,4.10
+3F_MAX_LOT_BLDG,F3F_Max_Lot_Building_Coverage,Replace,4.10
+F3F_MAX_LOT_BLDG,F3F_Max_Lot_Building_Coverage,Replace,4.10
+F3F_Max_Lot_Building_Coverage,F3F_Max_Lot_Building_Coverage,Replace,4.10
+3F Max Lot Impervious Coverage,F3F_Max_Lot_Impervious_Coverage,Replace,4.11
+3F_MAX_LOT_IMP,F3F_Max_Lot_Impervious_Coverage,Replace,4.11
+F3F_MAX_LOT_IMP,F3F_Max_Lot_Impervious_Coverage,Replace,4.11
+F3F_Max_Lot_Impervious_Coverage,F3F_Max_Lot_Impervious_Coverage,Replace,4.11
+3F Min Parking Spaces per 1BR,F3F_Min_Parking_Spaces_per_1BR,Replace,4.12
+3F_PARK_1BR,F3F_Min_Parking_Spaces_per_1BR,Replace,4.12
+F3F_Min_Parking_Spaces_per_1BR,F3F_Min_Parking_Spaces_per_1BR,Replace,4.12
+F3F_PARK_1BR,F3F_Min_Parking_Spaces_per_1BR,Replace,4.12
+3F Min Parking Spaces per mult BR,F3F_Min_Parking_Spaces_per_mult_BR,Replace,4.13
+3F_PARK_2BR,F3F_Min_Parking_Spaces_per_mult_BR,Replace,4.13
+F3F_Min_Parking_Spaces_per_mult_BR,F3F_Min_Parking_Spaces_per_mult_BR,Replace,4.13
+F3F_PARK_2BR,F3F_Min_Parking_Spaces_per_mult_BR,Replace,4.13
+3F Affordable Housing Only,F3F_Affordable_Housing_Only,Replace,4.15
+3F_AFF,F3F_Affordable_Housing_Only,Replace,4.15
+F3F_AFF,F3F_Affordable_Housing_Only,Replace,4.15
+F3F_Affordable_Housing_Only,F3F_Affordable_Housing_Only,Replace,4.15
+3F Proximity to Public Transit Required,F3F_Proximity_to_Public_Transit_Required,Replace,4.16
+3F_CNXN_TRANSIT,F3F_Proximity_to_Public_Transit_Required,Replace,4.16
+F3F_CNXN_TRANSIT,F3F_Proximity_to_Public_Transit_Required,Replace,4.16
+F3F_Proximity_to_Public_Transit_Required,F3F_Proximity_to_Public_Transit_Required,Replace,4.16
+3F Connection to Sewage/Water Required,F3F_Connection_to_Sewage/Water_Required,Replace,4.17
+F3F_Connection_to_Sewage_Water_Required,F3F_Connection_to_Sewage/Water_Required,Replace,4.17
+F3F_Connection_to_Sewage/Water_Required,F3F_Connection_to_Sewage/Water_Required,Replace,4.17
+4F Allowance,F4F_Allowance,Replace,5.01
+F4F_Allowance,F4F_Allowance,Replace,5.01
+F4FDP,F4F_Allowance,Replace,5.01
+4F Front Setback,F4F_Front_Setback,Replace,5.03
+4F_FSET,F4F_Front_Setback,Replace,5.03
+F4F_Front_Setback,F4F_Front_Setback,Replace,5.03
+F4F_FSET,F4F_Front_Setback,Replace,5.03
+4F Side Setback,F4F_Side_Setback,Replace,5.04
+4F_SSET,F4F_Side_Setback,Replace,5.04
+F4F_Side_Setback,F4F_Side_Setback,Replace,5.04
+F4F_SSET,F4F_Side_Setback,Replace,5.04
+4F Rear Setback,F4F_Rear_Setback,Replace,5.05
+4F_RSET,F4F_Rear_Setback,Replace,5.05
+F4F_Rear_Setback,F4F_Rear_Setback,Replace,5.05
+F4F_RSET,F4F_Rear_Setback,Replace,5.05
+4F Frontage,F4F_Frontage,Replace,5.06
+4F_FRONT,F4F_Frontage,Replace,5.06
+F4F_FRONT,F4F_Frontage,Replace,5.06
+F4F_Frontage,F4F_Frontage,Replace,5.06
+F1F_Max_Density,F1F_Max_Density,Replace,5.07
+4F Max Density,F4F_Max_Density,Replace,5.07
+4F_MAX_DENS,F4F_Max_Density,Replace,5.07
+F4F_MAX_DENS,F4F_Max_Density,Replace,5.07
+F4F_Max_Density,F4F_Max_Density,Replace,5.07
+4F Max Height,F4F_Max_Height,Replace,5.08
+4F_HEIGHT,F4F_Max_Height,Replace,5.08
+F4F_HEIGHT,F4F_Max_Height,Replace,5.08
+F4F_Max_Height,F4F_Max_Height,Replace,5.08
+4F Max Stories,F4F_Max_Stories,Replace,5.08
+4F_STORIES,F4F_Max_Stories,Replace,5.08
+F4F_Max_Stories,F4F_Max_Stories,Replace,5.08
+F4F_STORIES,F4F_Max_Stories,Replace,5.08
+4F Min Lot Size,F4F_Min_Lot_Size,Replace,5.09
+4F_MIN_LOT,F4F_Min_Lot_Size,Replace,5.09
+F4F_MIN_LOT,F4F_Min_Lot_Size,Replace,5.09
+F4F_Min_Lot_Size,F4F_Min_Lot_Size,Replace,5.09
+4F Max Lot Building Coverage,F4F_Max_Lot_Building_Coverage,Replace,5.10
+4F_MAX_LOT_BLDG,F4F_Max_Lot_Building_Coverage,Replace,5.10
+F4F_MAX_LOT_BLDG,F4F_Max_Lot_Building_Coverage,Replace,5.10
+F4F_Max_Lot_Building_Coverage,F4F_Max_Lot_Building_Coverage,Replace,5.10
+4F Max Lot Impervious Coverage,F4F_Max_Lot_Impervious_Coverage,Replace,5.11
+4F_MAX_LOT_IMP,F4F_Max_Lot_Impervious_Coverage,Replace,5.11
+F4F_MAX_LOT_IMP,F4F_Max_Lot_Impervious_Coverage,Replace,5.11
+F4F_Max_Lot_Impervious_Coverage,F4F_Max_Lot_Impervious_Coverage,Replace,5.11
+4F Min Parking Spaces per 1BR,F4F_Min_Parking_Spaces_per_1BR,Replace,5.12
+4F_PARK_1BR,F4F_Min_Parking_Spaces_per_1BR,Replace,5.12
+F4F_Min_Parking_Spaces_per_1BR,F4F_Min_Parking_Spaces_per_1BR,Replace,5.12
+F4F_PARK_1BR,F4F_Min_Parking_Spaces_per_1BR,Replace,5.12
+4F Min Parking Spaces per  mult BR,F4F_Min_Parking_Spaces_per_mult_BR,Replace,5.13
+4F_PARK_2BR,F4F_Min_Parking_Spaces_per_mult_BR,Replace,5.13
+F4F_Min_Parking_Spaces_per__mult_BR,F4F_Min_Parking_Spaces_per_mult_BR,Replace,5.13
+F4F_Min_Parking_Spaces_per_mult_BR,F4F_Min_Parking_Spaces_per_mult_BR,Replace,5.13
+F4F_PARK_2BR,F4F_Min_Parking_Spaces_per_mult_BR,Replace,5.13
+3F Elderly Housing Only,F3F_Elderly_Housing_Only,Replace,5.14
+F3F_Elderly_Housing_Only,F3F_Elderly_Housing_Only,Replace,5.14
+4F Elderly Housing Only,F4F_Elderly_Housing_Only,Replace,5.14
+4F_ELD,F4F_Elderly_Housing_Only,Replace,5.14
+F4F_ELD,F4F_Elderly_Housing_Only,Replace,5.14
+F4F_Elderly_Housing_Only,F4F_Elderly_Housing_Only,Replace,5.14
+4F Affordable Housing Only,F4F_Affordable_Housing_Only,Replace,5.15
+4F_AFF,F4F_Affordable_Housing_Only,Replace,5.15
+F4F_AFF,F4F_Affordable_Housing_Only,Replace,5.15
+F4F_Affordable_Housing_Only,F4F_Affordable_Housing_Only,Replace,5.15
+4F Proximity to Public Transit Required,F4F_Proximity_to_Public_Transit_Required,Replace,5.16
+4F_CNXN_TRANSIT,F4F_Proximity_to_Public_Transit_Required,Replace,5.16
+F4F_CNXN_TRANSIT,F4F_Proximity_to_Public_Transit_Required,Replace,5.16
+F4F_Proximity_to_Public_Transit_Required,F4F_Proximity_to_Public_Transit_Required,Replace,5.16
+4F Connection to Sewage/Water Required,F4F_Connection_to_Sewage/Water_Required,Replace,5.17
+F4F_Connection_to_Sewage_Water_Required,F4F_Connection_to_Sewage/Water_Required,Replace,5.17
+F4F_Connection_to_Sewage/Water_Required,F4F_Connection_to_Sewage/Water_Required,Replace,5.17
+ADU Allowance,ADU_Allowance,Replace,6.01
+ADU_Allowance,ADU_Allowance,Replace,6.01
+ADUDP,ADU_Allowance,Replace,6.01
+ADU Elderly Housing Only,ADU_Elderly_Housing_Only,Replace,6.02
+ADU_ELD,ADU_Elderly_Housing_Only,Replace,6.02
+ADU_Elderly_Housing_Only,ADU_Elderly_Housing_Only,Replace,6.02
+ADU Max Size as Percent of Primary Strcture,ADU_Max_Size_as_Percent_of_Primary_Strcture,Replace,6.03
+ADU_Max_Size_as_Percent_of_Primary_Strcture,ADU_Max_Size_as_Percent_of_Primary_Strcture,Replace,6.03
+ADU_PRIM_STRUC,ADU_Max_Size_as_Percent_of_Primary_Strcture,Replace,6.03
+ADU Max Size in sq ft,ADU_Max_Size_in_sq_ft,Replace,6.04
+ADU_MAX_SIZE,ADU_Max_Size_in_sq_ft,Replace,6.04
+ADU_Max_Size_in_sq_ft,ADU_Max_Size_in_sq_ft,Replace,6.04
+ADU Min Lot Size,ADU_Min_Lot_Size,Replace,6.05
+ADU_MIN_LOT,ADU_Min_Lot_Size,Replace,6.05
+ADU_Min_Lot_Size,ADU_Min_Lot_Size,Replace,6.05
+ADU Max Bedrooms,ADU_Max_Bedrooms,Replace,6.06
+ADU_BEDROOMS,ADU_Max_Bedrooms,Replace,6.06
+ADU_Max_Bedrooms,ADU_Max_Bedrooms,Replace,6.06
+ADU Min Parking Spaces,ADU_Min_Parking_Spaces,Replace,6.07
+ADU_Min_Parking_Spaces,ADU_Min_Parking_Spaces,Replace,6.07
+ADU_PARK,ADU_Min_Parking_Spaces,Replace,6.07
+ADU Owner Occupancy Required,ADU_Owner_Occupancy_Required,Replace,6.08
+ADU_Owner_Occupancy_Required,ADU_Owner_Occupancy_Required,Replace,6.08
+ADU_OWNER_REQD,ADU_Owner_Occupancy_Required,Replace,6.08
+ADU Renter Occupancy Prohibited,ADU_Renter_Occupancy_Prohibited,Replace,6.09
+ADU_Renter_Occupancy_Prohibited,ADU_Renter_Occupancy_Prohibited,Replace,6.09
+ADU_RENTER_PROH,ADU_Renter_Occupancy_Prohibited,Replace,6.09
+ADU Employee or Family Occupancy Required,ADU_Employee_or_Family_Occupancy_Required,Replace,6.10
+ADU_Employee_or_Family_Occupancy_Required,ADU_Employee_or_Family_Occupancy_Required,Replace,6.10
+ADU Restricted to Primary Structure,ADU_Restricted_to_Primary_Structure,Replace,6.11
+ADU_Restricted_to_Primary_Structure,ADU_Restricted_to_Primary_Structure,Replace,6.11
+AFFDP,Affordable_Housing_Allowance,Replace,7.01
+Affordable Housing Allowance,Affordable_Housing_Allowance,Replace,7.01
+Affordable_Housing_Allowance,Affordable_Housing_Allowance,Replace,7.01
+AFF_DIST,Affordable_Housing_District,Replace,7.02
+Affordable Housing District,Affordable_Housing_District,Replace,7.02
+Affordable_Housing_District,Affordable_Housing_District,Replace,7.02
+AFF_ELD_ONLY,Affordable_Housing_Elderly_Only,Replace,7.03
+Affordable Housing Elderly Only,Affordable_Housing_Elderly_Only,Replace,7.03
+Affordable_Housing_Elderly_Only,Affordable_Housing_Elderly_Only,Replace,7.03
+AFF_MIN_LOT,Affordable_Housing_Min_Lot_Size,Replace,7.04
+Affordable Housing Min Lot Size,Affordable_Housing_Min_Lot_Size,Replace,7.04
+Affordable_Housing_Min_Lot_Size,Affordable_Housing_Min_Lot_Size,Replace,7.04
+AFF_MAX_DENS,Affordable_Housing_Max_Density,Replace,7.05
+Affordable Housing Max Density,Affordable_Housing_Max_Density,Replace,7.05
+Affordable_Housing_Max_Density,Affordable_Housing_Max_Density,Replace,7.05
+AFF_PARK_2BR,Affordable_Housing_Min_Parking_Spaces_per_mult_BR,Replace,7.06
+Affordable Housing Min Parking Spaces per mult BR,Affordable_Housing_Min_Parking_Spaces_per_mult_BR,Replace,7.06
+Affordable_Housing_Min_Parking_Spaces_per_mult_BR,Affordable_Housing_Min_Parking_Spaces_per_mult_BR,Replace,7.06
+AFF_MAX_UNIT,Affordable_Housing_Max_Units_per_Building,Replace,7.07
+Affordable Housing Max Units per Building,Affordable_Housing_Max_Units_per_Building,Replace,7.07
+Affordable_Housing_Max_Units_per_Building,Affordable_Housing_Max_Units_per_Building,Replace,7.07
+AFF_PARK_1BR,Affordable_Housing_Min_Parking_Spaces_per_1BR,Replace,7.08
+Affordable Housing Min Parking Spaces per 1BR,Affordable_Housing_Min_Parking_Spaces_per_1BR,Replace,7.08
+Affordable_Housing_Min_Parking_Spaces_per_1BR,Affordable_Housing_Min_Parking_Spaces_per_1BR,Replace,7.08
+PRD Allowance,PRD_Allowance,Replace,8.01
+PRD_Allowance,PRD_Allowance,Replace,8.01
+PRDDP,PRD_Allowance,Replace,8.01
+PRD Max Density,PRD_Max_Density,Replace,8.02
+PRD_MAX_DENS,PRD_Max_Density,Replace,8.02
+PRD_Max_Density,PRD_Max_Density,Replace,8.02
+PRD Max Units,PRD_Max_Units,Replace,8.03
+PRD_MAX_UNIT,PRD_Max_Units,Replace,8.03
+PRD_Max_Units,PRD_Max_Units,Replace,8.03
+PRD Min Lot Size,PRD_Min_Lot_Size,Replace,8.04
+PRD_MIN_LOT,PRD_Min_Lot_Size,Replace,8.04
+PRD_Min_Lot_Size,PRD_Min_Lot_Size,Replace,8.04
+PRD Mobile or Manufactured Home Park,PRD_Mobile_or_Manufactured_Home_Park,Replace,8.05
+PRD_MHP,PRD_Mobile_or_Manufactured_Home_Park,Replace,8.05
+PRD_Mobile_or_Manufactured_Home_Park,PRD_Mobile_or_Manufactured_Home_Park,Replace,8.05
+PUD Allowance,PUD_Allowance,Replace,9.01
+PUD_ALLOW,PUD_Allowance,Replace,9.01
+PUD_Allowance,PUD_Allowance,Replace,9.01
+PUD Required with Subdivision,PUD_Required_with_Subdivision,Replace,9.02
+PUD_Required_with_Subdivision,PUD_Required_with_Subdivision,Replace,9.02
+PUD_SUBDV,PUD_Required_with_Subdivision,Replace,9.02
+PUD Requires Land Conservation,PUD_Requires_Land_Conservation,Replace,9.03
+PUD_CONSERVE,PUD_Requires_Land_Conservation,Replace,9.03
+PUD_Requires_Land_Conservation,PUD_Requires_Land_Conservation,Replace,9.03
+PUD Threshold Number,PUD_Threshold_Number,Replace,9.04
+PUD_THRESH,PUD_Threshold_Number,Replace,9.04
+PUD_Threshold_Number,PUD_Threshold_Number,Replace,9.04
+NOTE,Notes,Replace,9.05
+NOTES,Notes,Replace,9.05
+TTIPNOTES,Notes,Replace,9.05
+Notes,Notes,Replace,9.05
+1F Floor to Area Ratio,,Remove,
+1F Min Unit Size,,Remove,
+1F_FSET_COND_ALT,,Remove,
+1F_FTA,,Remove,
+1F_FTA_COND_ALT,,Remove,
+1F_HEIGHT_COND_ALT,,Remove,
+1F_MAX_LOT_BLDG_COND_ALT,,Remove,
+1F_MAX_LOT_IMP_COND_ALT,,Remove,
+1F_MIN_LOT_COND_ALT,,Remove,
+1F_MIN_UNIT,,Remove,
+1F_MIN_UNIT_COND_ALT,,Remove,
+1F_PARK_COND_ALT,,Remove,
+1F_RSET_COND_ALT,,Remove,
+1F_SSET_COND_ALT,,Remove,
+1F_STORIES_COND_ALT,,Remove,
+2F Floor to Area Ratio,,Remove,
+2F Min Unit Size,,Remove,
+2F_FSET_COND_ALT,,Remove,
+2F_FTA,,Remove,
+2F_FTA_COND_ALT,,Remove,
+2F_HEIGHT_COND_ALT,,Remove,
+2F_MAX_DENS_COND_ALT,,Remove,
+2F_MAX_LOT_BLDG_COND_ALT,,Remove,
+2F_MAX_LOT_IMP_COND_ALT,,Remove,
+2F_MIN_LOT_COND_ALT,,Remove,
+2F_MIN_UNIT,,Remove,
+2F_MIN_UNIT_COND_ALT,,Remove,
+2F_PARK_1BR_COND_ALT,,Remove,
+2F_PARK_2BR_COND_ALT,,Remove,
+2F_RSET_COND_ALT,,Remove,
+2F_SSET_COND_ALT,,Remove,
+2F_STORIES_COND_ALT,,Remove,
+3F Floor to Area Ratio,,Remove,
+3F Max Bedrooms,,Remove,
+3F Min Unit Size,,Remove,
+3F_BEDROOMS,,Remove,
+3F_BEDROOMS_COND_ALT,,Remove,
+3F_CNXN_H2O,,Remove,
+3F_ELD,,Remove,
+3F_FSET_COND_ALT,,Remove,
+3F_FTA,,Remove,
+3F_FTA_COND_ALT,,Remove,
+3F_HEIGHT_COND_ALT,,Remove,
+3F_MAX_DENS_COND_ALT,,Remove,
+3F_MAX_LOT_BLDG_COND_ALT,,Remove,
+3F_MAX_LOT_IMP_COND_ALT,,Remove,
+3F_MIN_LOT_COND_ALT,,Remove,
+3F_MIN_UNIT,,Remove,
+3F_MIN_UNIT_COND_ALT,,Remove,
+3F_PARK_1BR_COND_ALT,,Remove,
+3F_PARK_2BR_COND_ALT,,Remove,
+3F_RSET_COND_ALT,,Remove,
+3F_SSET_COND_ALT,,Remove,
+3F_STORIES_COND_ALT,,Remove,
+4F Floor to Area Ratio,,Remove,
+4F Max Bedrooms,,Remove,
+4F Max Units per Building,,Remove,
+4F Min Unit Size,,Remove,
+4F_BEDROOMS,,Remove,
+4F_BEDROOMS_COND_ALT,,Remove,
+4F_CNXN_H2O,,Remove,
+4F_FSET_COND_ALT,,Remove,
+4F_FTA,,Remove,
+4F_FTA_COND_ALT,,Remove,
+4F_HEIGHT_COND_ALT,,Remove,
+4F_MAX_DENS_COND_ALT,,Remove,
+4F_MAX_LOT_BLDG_COND_ALT,,Remove,
+4F_MAX_LOT_IMP_COND_ALT,,Remove,
+4F_MAX_UNIT,,Remove,
+4F_MAX_UNIT_COND_ALT,,Remove,
+4F_MIN_LOT_COND_ALT,,Remove,
+4F_MIN_UNIT,,Remove,
+4F_MIN_UNIT_COND_ALT,,Remove,
+4F_PARK_1BR_COND_ALT,,Remove,
+4F_PARK_2BR_COND_ALT,,Remove,
+4F_RSET_COND_ALT,,Remove,
+4F_SSET_COND_ALT,,Remove,
+4F_STORIES_COND_ALT,,Remove,
+5F Affordable Housing Only,,Remove,
+5F Allowance,,Remove,
+5F Connection to Sewage/Water Required,,Remove,
+5F Elderly Housing Only,,Remove,
+5F Floor to Area Ratio,,Remove,
+5F Front Setback,,Remove,
+5F Frontage,,Remove,
+5F Max  Lot Impervious Coverage,,Remove,
+5F Max Bedrooms,,Remove,
+5F Max Density,,Remove,
+5F Max Height,,Remove,
+5F Max Lot Building Coverage,,Remove,
+5F Max Stories,,Remove,
+5F Max Units per Building,,Remove,
+5F Min Lot Size,,Remove,
+5F Min Parking Spaces per 1BR,,Remove,
+5F Min Parking Spaces per mult BR,,Remove,
+5F Min Unit Size,,Remove,
+5F Proximity to Public Transit Required,,Remove,
+5F Rear Setback,,Remove,
+5F Side Setback,,Remove,
+5F_AFF,,Remove,
+5F_BEDROOMS,,Remove,
+5F_CNXN_H2O,,Remove,
+5F_CNXN_TRANSIT,,Remove,
+5F_ELD,,Remove,
+5F_FEET,,Remove,
+5F_FRONT,,Remove,
+5F_FSET,,Remove,
+5F_FTA,,Remove,
+5F_MAX_DENS,,Remove,
+5F_MAX_LOT_BLDG,,Remove,
+5F_MAX_LOT_IMP,,Remove,
+5F_MAX_UNIT,,Remove,
+5F_MIN_LOT,,Remove,
+5F_MIN_UNIT,,Remove,
+5F_PARK_1BR,,Remove,
+5F_PARK_2BR,,Remove,
+5F_RSET,,Remove,
+5F_SSET,,Remove,
+5F_STORIES,,Remove,
+Acres,,Remove,
+ADU_BEDROOMS_COND_ALT,,Remove,
+ADU_EMP_REQD,,Remove,
+ADU_MAX_PCT,,Remove,
+ADU_MAX_PCT_COND_ALT,,Remove,
+ADU_MAX_SIZE_COND_ALT,,Remove,
+ADU_MIN_LOT_COND_ALT,,Remove,
+ADU_PARK_COND_ALT,,Remove,
+AFF_BEDROOMS,,Remove,
+AFF_BEDROOMS_COND_ALT,,Remove,
+AFF_CNXN_H2O,,Remove,
+AFF_CNXN_TRANSIT,,Remove,
+AFF_DEF,,Remove,
+AFF_MAX_DENS_COND_ALT,,Remove,
+AFF_MAX_UNIT_COND_ALT,,Remove,
+AFF_MIN_LOT_COND_ALT,,Remove,
+AFF_MIN_UNIT,,Remove,
+AFF_MIN_UNIT_COND_ALT,,Remove,
+AFF_PARK_1BR_COND_ALT,,Remove,
+AFF_PARK_2BR_COND_ALT,,Remove,
+Affordable Housing Definition,,Remove,
+Affordable Housing Max Bedrooms,,Remove,
+Affordable Housing Min Unit Size,,Remove,
+Affordable_Housing_Definition,,Remove,
+Affordable_Housing_Max_Bedrooms,,Remove,
+Affordable_Housing_Min_Unit_Size,,Remove,
+CONDITIONAL 1F Floor to Area Ratio,,Remove,
+CONDITIONAL 1F Front Setback,,Remove,
+CONDITIONAL 1F Frontage,,Remove,
+CONDITIONAL 1F Max Height,,Remove,
+CONDITIONAL 1F Max Lot Building Coverage,,Remove,
+CONDITIONAL 1F Max Lot Impervious Coverage,,Remove,
+CONDITIONAL 1F Max Stories,,Remove,
+CONDITIONAL 1F Min Lot,,Remove,
+CONDITIONAL 1F Min Parking Spaces,,Remove,
+CONDITIONAL 1F Min Unit Size,,Remove,
+CONDITIONAL 1F Rear Setback,,Remove,
+CONDITIONAL 1F Side Setback,,Remove,
+CONDITIONAL 2F Affordable Housing Only,,Remove,
+CONDITIONAL 2F Elderly Housing Only,,Remove,
+CONDITIONAL 2F Floor to Area Ratio,,Remove,
+CONDITIONAL 2F Front Setback,,Remove,
+CONDITIONAL 2F Frontage,,Remove,
+CONDITIONAL 2F Max Density,,Remove,
+CONDITIONAL 2F Max Height,,Remove,
+CONDITIONAL 2F Max Lot Building Coverage,,Remove,
+CONDITIONAL 2F Max Lot Impervious Coverage,,Remove,
+CONDITIONAL 2F Max Stories,,Remove,
+CONDITIONAL 2F Min Lot Size,,Remove,
+CONDITIONAL 2F Min Parking Spaces per 1BR,,Remove,
+CONDITIONAL 2F Min Parking Spaces per mult BR,,Remove,
+CONDITIONAL 2F Min Unit Size,,Remove,
+CONDITIONAL 2F Rear Setback,,Remove,
+CONDITIONAL 2F Side Setback,,Remove,
+CONDITIONAL 3F Affordable Housing Only,,Remove,
+CONDITIONAL 3F Connection to Sewage/Water Required,,Remove,
+CONDITIONAL 3F Elderly Housing Only,,Remove,
+CONDITIONAL 3F Floor to Area Ratio,,Remove,
+CONDITIONAL 3F Front Setback,,Remove,
+CONDITIONAL 3F Frontage,,Remove,
+CONDITIONAL 3F Max Bedrooms,,Remove,
+CONDITIONAL 3F Max Density,,Remove,
+CONDITIONAL 3F Max Height,,Remove,
+CONDITIONAL 3F Max Lot Building Coverage,,Remove,
+CONDITIONAL 3F Max Lot Impervious Coverage,,Remove,
+CONDITIONAL 3F Max Stories,,Remove,
+CONDITIONAL 3F Min Lot Size,,Remove,
+CONDITIONAL 3F Min Parking Spaces per 1BR,,Remove,
+CONDITIONAL 3F Min Parking Spaces per mult BR,,Remove,
+CONDITIONAL 3F Min Unit Size,,Remove,
+CONDITIONAL 3F Proximity to Public Transit Required,,Remove,
+CONDITIONAL 3F Rear Setback,,Remove,
+CONDITIONAL 3F Side Setback,,Remove,
+CONDITIONAL 4F Affordable Housing Only,,Remove,
+CONDITIONAL 4F Connection to Sewage/Water Required,,Remove,
+CONDITIONAL 4F Elderly Housing Only,,Remove,
+CONDITIONAL 4F Floor to Area Ratio,,Remove,
+CONDITIONAL 4F Front Setback,,Remove,
+CONDITIONAL 4F Frontage,,Remove,
+CONDITIONAL 4F Max Bedrooms,,Remove,
+CONDITIONAL 4F Max Density,,Remove,
+CONDITIONAL 4F Max Height,,Remove,
+CONDITIONAL 4F Max Lot Building Coverage,,Remove,
+CONDITIONAL 4F Max Lot Impervious Coverage,,Remove,
+CONDITIONAL 4F Max Stories,,Remove,
+CONDITIONAL 4F Max Units per Building,,Remove,
+CONDITIONAL 4F Min Lot Size,,Remove,
+CONDITIONAL 4F Min Parking Spaces per  mult BR,,Remove,
+CONDITIONAL 4F Min Parking Spaces per 1BR,,Remove,
+CONDITIONAL 4F Min Unit Size,,Remove,
+CONDITIONAL 4F Proximity to Public Transit Required,,Remove,
+CONDITIONAL 4F Rear Setback,,Remove,
+CONDITIONAL 4F Side Setback,,Remove,
+CONDITIONAL 5F Connection to Sewage/Water Required,,Remove,
+CONDITIONAL 5F Elderly Housing Only,,Remove,
+CONDITIONAL 5F Floor to Area Ratio,,Remove,
+CONDITIONAL 5F Front Setback,,Remove,
+CONDITIONAL 5F Frontage,,Remove,
+CONDITIONAL 5F Max  Lot Impervious Coverage,,Remove,
+CONDITIONAL 5F Max Bedrooms,,Remove,
+CONDITIONAL 5F Max Density,,Remove,
+CONDITIONAL 5F Max Height,,Remove,
+CONDITIONAL 5F Max Lot Building Coverage,,Remove,
+CONDITIONAL 5F Max Stories,,Remove,
+CONDITIONAL 5F Max Units per Building,,Remove,
+CONDITIONAL 5F Min Lot Size,,Remove,
+CONDITIONAL 5F Min Parking Spaces per 1BR,,Remove,
+CONDITIONAL 5F Min Parking Spaces per mult BR,,Remove,
+CONDITIONAL 5F Min Unit Size,,Remove,
+CONDITIONAL 5F Proximity to Public Transit Required,,Remove,
+CONDITIONAL 5F Rear Setback,,Remove,
+CONDITIONAL 5F Side Setback,,Remove,
+CONDITIONAL ADU Elderly Housing Only,,Remove,
+CONDITIONAL ADU Employee or Family Occupancy Required,,Remove,
+CONDITIONAL ADU Max Bedrooms,,Remove,
+CONDITIONAL ADU Max Size as Percent of Primary Strcture,,Remove,
+CONDITIONAL ADU Max Size in sq ft,,Remove,
+CONDITIONAL ADU Min Lot Size,,Remove,
+CONDITIONAL ADU Min Parking Spaces,,Remove,
+CONDITIONAL ADU Owner Occupancy Required,,Remove,
+CONDITIONAL ADU Renter Occupancy Prohibited,,Remove,
+CONDITIONAL ADU Restricted to Primary Structure,,Remove,
+CONDITIONAL Affordable Housing Definition,,Remove,
+CONDITIONAL Affordable Housing Elderly Only,,Remove,
+CONDITIONAL Affordable Housing Max Bedrooms,,Remove,
+CONDITIONAL Affordable Housing Max Density,,Remove,
+CONDITIONAL Affordable Housing Max Units per Building,,Remove,
+CONDITIONAL Affordable Housing Min Lot Size,,Remove,
+CONDITIONAL Affordable Housing Min Parking Spaces per 1BR,,Remove,
+CONDITIONAL Affordable Housing Min Parking Spaces per mult BR,,Remove,
+CONDITIONAL Affordable Housing Min Unit Size,,Remove,
+CONDITIONAL PRD Max Density,,Remove,
+CONDITIONAL PRD Max Units,,Remove,
+CONDITIONAL PRD Min Lot Size,,Remove,
+CONDITIONAL PRD Mobile or Manufactured Home Park,,Remove,
+CONDITIONAL PUD Allowance,,Remove,
+CONDITIONAL PUD Required with Subdivision,,Remove,
+CONDITIONAL PUD Requires Land Conservation,,Remove,
+CONDITIONAL PUD Threshold Number,,Remove,
+CONDITIONAL_1F_Floor_to_Area_Ratio,,Remove,
+CONDITIONAL_1F_Front_Setback,,Remove,
+CONDITIONAL_1F_Frontage,,Remove,
+CONDITIONAL_1F_Max_Height,,Remove,
+CONDITIONAL_1F_Max_Lot_Building_Coverage,,Remove,
+CONDITIONAL_1F_Max_Lot_Impervious_Coverage,,Remove,
+CONDITIONAL_1F_Max_Stories,,Remove,
+CONDITIONAL_1F_Min_Lot,,Remove,
+CONDITIONAL_1F_Min_Parking_Spaces,,Remove,
+CONDITIONAL_1F_Min_Unit_Size,,Remove,
+CONDITIONAL_1F_Rear_Setback,,Remove,
+CONDITIONAL_1F_Side_Setback,,Remove,
+CONDITIONAL_2F_Affordable_Housing_Only,,Remove,
+CONDITIONAL_2F_Elderly_Housing_Only,,Remove,
+CONDITIONAL_2F_Floor_to_Area_Ratio,,Remove,
+CONDITIONAL_2F_Front_Setback,,Remove,
+CONDITIONAL_2F_Frontage,,Remove,
+CONDITIONAL_2F_Max_Density,,Remove,
+CONDITIONAL_2F_Max_Height,,Remove,
+CONDITIONAL_2F_Max_Lot_Building_Coverage,,Remove,
+CONDITIONAL_2F_Max_Lot_Impervious_Coverage,,Remove,
+CONDITIONAL_2F_Max_Stories,,Remove,
+CONDITIONAL_2F_Min_Lot_Size,,Remove,
+CONDITIONAL_2F_Min_Parking_Spaces_per_1BR,,Remove,
+CONDITIONAL_2F_Min_Parking_Spaces_per_mult_BR,,Remove,
+CONDITIONAL_2F_Min_Unit_Size,,Remove,
+CONDITIONAL_2F_Rear_Setback,,Remove,
+CONDITIONAL_2F_Side_Setback,,Remove,
+CONDITIONAL_3F_Affordable_Housing_Only,,Remove,
+CONDITIONAL_3F_Connection_to_Sewage_Water_Required,,Remove,
+CONDITIONAL_3F_Elderly_Housing_Only,,Remove,
+CONDITIONAL_3F_Floor_to_Area_Ratio,,Remove,
+CONDITIONAL_3F_Front_Setback,,Remove,
+CONDITIONAL_3F_Frontage,,Remove,
+CONDITIONAL_3F_Max_Bedrooms,,Remove,
+CONDITIONAL_3F_Max_Density,,Remove,
+CONDITIONAL_3F_Max_Height,,Remove,
+CONDITIONAL_3F_Max_Lot_Building_Coverage,,Remove,
+CONDITIONAL_3F_Max_Lot_Impervious_Coverage,,Remove,
+CONDITIONAL_3F_Max_Stories,,Remove,
+CONDITIONAL_3F_Min_Lot_Size,,Remove,
+CONDITIONAL_3F_Min_Parking_Spaces_per_1BR,,Remove,
+CONDITIONAL_3F_Min_Parking_Spaces_per_mult_BR,,Remove,
+CONDITIONAL_3F_Min_Unit_Size,,Remove,
+CONDITIONAL_3F_Proximity_to_Public_Transit_Required,,Remove,
+CONDITIONAL_3F_Rear_Setback,,Remove,
+CONDITIONAL_3F_Side_Setback,,Remove,
+CONDITIONAL_4F_Affordable_Housing_Only,,Remove,
+CONDITIONAL_4F_Connection_to_Sewage_Water_Required,,Remove,
+CONDITIONAL_4F_Elderly_Housing_Only,,Remove,
+CONDITIONAL_4F_Floor_to_Area_Ratio,,Remove,
+CONDITIONAL_4F_Front_Setback,,Remove,
+CONDITIONAL_4F_Frontage,,Remove,
+CONDITIONAL_4F_Max_Bedrooms,,Remove,
+CONDITIONAL_4F_Max_Density,,Remove,
+CONDITIONAL_4F_Max_Height,,Remove,
+CONDITIONAL_4F_Max_Lot_Building_Coverage,,Remove,
+CONDITIONAL_4F_Max_Lot_Impervious_Coverage,,Remove,
+CONDITIONAL_4F_Max_Stories,,Remove,
+CONDITIONAL_4F_Max_Units_per_Building,,Remove,
+CONDITIONAL_4F_Min_Lot_Size,,Remove,
+CONDITIONAL_4F_Min_Parking_Spaces_per__mult_BR,,Remove,
+CONDITIONAL_4F_Min_Parking_Spaces_per_1BR,,Remove,
+CONDITIONAL_4F_Min_Unit_Size,,Remove,
+CONDITIONAL_4F_Proximity_to_Public_Transit_Required,,Remove,
+CONDITIONAL_4F_Rear_Setback,,Remove,
+CONDITIONAL_4F_Side_Setback,,Remove,
+CONDITIONAL_5F_Affordable_Housing_Only,,Remove,
+CONDITIONAL_5F_Connection_to_Sewage_Water_Required,,Remove,
+CONDITIONAL_5F_Elderly_Housing_Only,,Remove,
+CONDITIONAL_5F_Floor_to_Area_Ratio,,Remove,
+CONDITIONAL_5F_Front_Setback,,Remove,
+CONDITIONAL_5F_Frontage,,Remove,
+CONDITIONAL_5F_Max__Lot_Impervious_Coverage,,Remove,
+CONDITIONAL_5F_Max_Bedrooms,,Remove,
+CONDITIONAL_5F_Max_Density,,Remove,
+CONDITIONAL_5F_Max_Height,,Remove,
+CONDITIONAL_5F_Max_Lot_Building_Coverage,,Remove,
+CONDITIONAL_5F_Max_Stories,,Remove,
+CONDITIONAL_5F_Max_Units_per_Building,,Remove,
+CONDITIONAL_5F_Min_Lot_Size,,Remove,
+CONDITIONAL_5F_Min_Parking_Spaces_per_1BR,,Remove,
+CONDITIONAL_5F_Min_Parking_Spaces_per_mult_BR,,Remove,
+CONDITIONAL_5F_Min_Unit_Size,,Remove,
+CONDITIONAL_5F_Proximity_to_Public_Transit_Required,,Remove,
+CONDITIONAL_5F_Rear_Setback,,Remove,
+CONDITIONAL_5F_Side_Setback,,Remove,
+CONDITIONAL_ADU_Elderly_Housing_Only,,Remove,
+CONDITIONAL_ADU_Employee_or_Family_Occupancy_Required,,Remove,
+CONDITIONAL_ADU_Max_Bedrooms,,Remove,
+CONDITIONAL_ADU_Max_Size_as_Percent_of_Primary_Strcture,,Remove,
+CONDITIONAL_ADU_Max_Size_in_sq_ft,,Remove,
+CONDITIONAL_ADU_Min_Lot_Size,,Remove,
+CONDITIONAL_ADU_Min_Parking_Spaces,,Remove,
+CONDITIONAL_ADU_Owner_Occupancy_Required,,Remove,
+CONDITIONAL_ADU_Renter_Occupancy_Prohibited,,Remove,
+CONDITIONAL_ADU_Restricted_to_Primary_Structure,,Remove,
+CONDITIONAL_Affordable_Housing_Definition,,Remove,
+CONDITIONAL_Affordable_Housing_Elderly_Only,,Remove,
+CONDITIONAL_Affordable_Housing_Max_Bedrooms,,Remove,
+CONDITIONAL_Affordable_Housing_Max_Density,,Remove,
+CONDITIONAL_Affordable_Housing_Max_Units_per_Building,,Remove,
+CONDITIONAL_Affordable_Housing_Min_Lot_Size,,Remove,
+CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_1BR,,Remove,
+CONDITIONAL_Affordable_Housing_Min_Parking_Spaces_per_mult_BR,,Remove,
+CONDITIONAL_Affordable_Housing_Min_Unit_Size,,Remove,
+CONDITIONAL_PRD_Max_Density,,Remove,
+CONDITIONAL_PRD_Max_Units,,Remove,
+CONDITIONAL_PRD_Min_Lot_Size,,Remove,
+CONDITIONAL_PRD_Mobile_or_Manufactured_Home_Park,,Remove,
+CONDITIONAL_PUD_Allowance,,Remove,
+CONDITIONAL_PUD_Required_with_Subdivision,,Remove,
+CONDITIONAL_PUD_Requires_Land_Conservation,,Remove,
+CONDITIONAL_PUD_Threshold_Number,,Remove,
+Extinct District,,Remove,
+Extinct_District,,Remove,
 F1F_Floor_to_Area_Ratio,,Remove,
-F1F_FRONT,F1F_Frontage,Replace,,,,,,,,,
-F1F_Front_Setback,F1F_Front_Setback,Replace,,,,,,,,,
-F1F_Frontage,F1F_Frontage,Replace,,,,,,,,,
-F1F_FSET,F1F_Front_Setback,Replace,,,,,,,,,
-F1F_FSET_COND_ALT,,Remove,,,,,,,,,
-F1F_FTA,,Remove,,,,,,,,,
-F1F_FTA_COND_ALT,,Remove,,,,,,,,,
-F1F_HEIGHT,F1F_Max_Height,Replace,,,,,,,,,
-F1F_HEIGHT_COND_ALT,,Remove,,,,,,,,,
-F1F_Max_Height,F1F_Max_Height,Replace,,,,,,,,,
-F1F_MAX_LOT_BLDG,F1F_Max_Lot_Building_Coverage,Replace,,,,,,,,,
-F1F_MAX_LOT_BLDG_COND_ALT,,Remove,,,,,,,,,
-F1F_Max_Lot_Building_Coverage,F1F_Max_Lot_Building_Coverage,Replace,,,,,,,,,
-F1F_MAX_LOT_IMP,F1F_Max_Lot_Impervious_Coverage,Replace,,,,,,,,,
-F1F_MAX_LOT_IMP_COND_ALT,,Remove,,,,,,,,,
-F1F_Max_Lot_Impervious_Coverage,F1F_Max_Lot_Impervious_Coverage,Replace,,,,,,,,,
-F1F_Max_Stories,F1F_Max_Stories,Replace,,,,,,,,,
-F1F_Min_Lot,F1F_Min_Lot,Replace,,,,,,,,,
-F1F_MIN_LOT,F1F_Min_Lot,Replace,,,,,,,,,
-F1F_MIN_LOT_COND_ALT,,Remove,,,,,,,,,
-F1F_Min_Parking_Spaces,F1F_Min_Parking_Spaces,Replace,,,,,,,,,
-F1F_MIN_UNIT,,Remove,,,,,,,,,
-F1F_MIN_UNIT_COND_ALT,,Remove,,,,,,,,,
-F1F_Min_Unit_Size,,Remove,,,,,,,,,
-F1F_PARK,F1F_Min_Parking_Spaces,Replace,,,,,,,,,
-F1F_PARK_COND_ALT,,Remove,,,,,,,,,
-F1F_Rear_Setback,F1F_Rear_Setback,Replace,,,,,,,,,
-F1F_RSET,F1F_Rear_Setback,Replace,,,,,,,,,
-F1F_RSET_COND_ALT,,Remove,,,,,,,,,
-F1F_Side_Setback,F1F_Side_Setback,Replace,,,,,,,,,
-F1F_SSET,F1F_Side_Setback,Replace,,,,,,,,,
-F1F_SSET_COND_ALT,,Remove,,,,,,,,,
-F1F_STORIES,F1F_Max_Stories,Replace,,,,,,,,,
-F1F_STORIES_COND_ALT,,Remove,,,,,,,,,
-F1FDP,F1F_Allowance,Replace,,,,,,,,,
-F2F_AFF,F2F_Affordable_Housing_Only,Replace,,,,,,,,,
-F2F_Affordable_Housing_Only,F2F_Affordable_Housing_Only,Replace,,,,,,,,,
-F2F_Allowance,F2F_Allowance,Replace,,,,,,,,,
-F2F_ELD,F2F_Elderly_Housing_Only,Replace,,,,,,,,,
-F2F_Elderly_Housing_Only,F2F_Elderly_Housing_Only,Replace,,,,,,,,,
-F2F_Floor_to_Area_Ratio,,Remove,,,,,,,,,
-F2F_FRONT,F2F_Frontage,Replace,,,,,,,,,
-F2F_Front_Setback,F2F_Front_Setback,Replace,,,,,,,,,
-F2F_Frontage,F2F_Frontage,Replace,,,,,,,,,
-F2F_FSET,F2F_Front_Setback,Replace,,,,,,,,,
-F2F_FSET_COND_ALT,,Remove,,,,,,,,,
-F2F_FTA,,Remove,,,,,,,,,
-F2F_FTA_COND_ALT,,Remove,,,,,,,,,
-F2F_HEIGHT,F2F_Max_Height,Replace,,,,,,,,,
-F2F_HEIGHT_COND_ALT,,Remove,,,,,,,,,
-F2F_MAX_DENS,F2F_Max_Density,Replace,,,,,,,,,
-F2F_MAX_DENS_COND_ALT,,Remove,,,,,,,,,
-F2F_Max_Density,F2F_Max_Density,Replace,,,,,,,,,
-F2F_Max_Height,F2F_Max_Height,Replace,,,,,,,,,
-F2F_MAX_LOT_BLDG,F2F_Max_Lot_Building_Coverage,Replace,,,,,,,,,
-F2F_MAX_LOT_BLDG_COND_ALT,,Remove,,,,,,,,,
-F2F_Max_Lot_Building_Coverage,F2F_Max_Lot_Building_Coverage,Replace,,,,,,,,,
-F2F_MAX_LOT_IMP,F2F_Max_Lot_Impervious_Coverage,Replace,,,,,,,,,
-F2F_MAX_LOT_IMP_COND_ALT,,Remove,,,,,,,,,
-F2F_Max_Lot_Impervious_Coverage,F2F_Max_Lot_Impervious_Coverage,Replace,,,,,,,,,
-F2F_Max_Stories,F2F_Max_Stories,Replace,,,,,,,,,
-F2F_MIN_LOT,F2F_Min_Lot_Size,Replace,,,,,,,,,
-F2F_MIN_LOT_COND_ALT,,Remove,,,,,,,,,
-F2F_Min_Lot_Size,F2F_Min_Lot_Size,Replace,,,,,,,,,
-F2F_Min_Parking_Spaces_per_1BR,F2F_Min_Parking_Spaces_per_1BR,Replace,,,,,,,,,
-F2F_Min_Parking_Spaces_per_mult_BR,F2F_Min_Parking_Spaces_per_mult_BR,Replace,,,,,,,,,
-F2F_MIN_UNIT,,Remove,,,,,,,,,
-F2F_MIN_UNIT_COND_ALT,,Remove,,,,,,,,,
-F2F_Min_Unit_Size,,Remove,,,,,,,,,
-F2F_PARK_1BR,F2F_Min_Parking_Spaces_per_1BR,Replace,,,,,,,,,
-F2F_PARK_1BR_COND_ALT,,Remove,,,,,,,,,
-F2F_PARK_2BR,F2F_Min_Parking_Spaces_per_mult_BR,Replace,,,,,,,,,
-F2F_PARK_2BR_COND_ALT,,Remove,,,,,,,,,
-F2F_Rear_Setback,F2F_Rear_Setback,Replace,,,,,,,,,
-F2F_RSET,F2F_Rear_Setback,Replace,,,,,,,,,
-F2F_RSET_COND_ALT,,Remove,,,,,,,,,
-F2F_Side_Setback,F2F_Side_Setback,Replace,,,,,,,,,
-F2F_SSET,F2F_Side_Setback,Replace,,,,,,,,,
-F2F_SSET_COND_ALT,,Remove,,,,,,,,,
-F2F_STORIES,F2F_Max_Stories,Replace,,,,,,,,,
-F2F_STORIES_COND_ALT,,Remove,,,,,,,,,
-F2FDP,F2F_Allowance,Replace,,,,,,,,,
-F3F_AFF,F3F_Affordable_Housing_Only,Replace,,,,,,,,,
-F3F_Affordable_Housing_Only,F3F_Affordable_Housing_Only,Replace,,,,,,,,,
-F3F_Allowance,F3F_Allowance,Replace,,,,,,,,,
-F3F_BEDROOMS,,Remove,,,,,,,,,
-F3F_BEDROOMS_COND_ALT,,Remove,,,,,,,,,
-F3F_CNXN_H2O,,Remove,,,,,,,,,
-F3F_CNXN_TRANSIT,F3F_Proximity_to_Public_Transit_Required,Replace,,,,,,,,,
-F3F_Connection_to_Sewage_Water_Required,F3F_Connection_to_Sewage/Water_Required,Replace,,,,,,,,,
-F3F_ELD,,Remove,,,,,,,,,
-F3F_Elderly_Housing_Only,F3F_Elderly_Housing_Only,Replace,,,,,,,,,
-F3F_Floor_to_Area_Ratio,,Remove,,,,,,,,,
-F3F_FRONT,F3F_Frontage,Replace,,,,,,,,,
-F3F_Front_Setback,F3F_Front_Setback,Replace,,,,,,,,,
-F3F_Frontage,F3F_Frontage,Replace,,,,,,,,,
-F3F_FSET,F3F_Front_Setback,Replace,,,,,,,,,
-F3F_FSET_COND_ALT,,Remove,,,,,,,,,
-F3F_FTA,,Remove,,,,,,,,,
-F3F_FTA_COND_ALT,,Remove,,,,,,,,,
-F3F_HEIGHT,F3F_Max_Height,Replace,,,,,,,,,
-F3F_HEIGHT_COND_ALT,,Remove,,,,,,,,,
-F3F_Max_Bedrooms,,Remove,,,,,,,,,
-F3F_MAX_DENS,F3F_Max_Density,Replace,,,,,,,,,
-F3F_MAX_DENS_COND_ALT,,Remove,,,,,,,,,
-F3F_Max_Density,F3F_Max_Density,Replace,,,,,,,,,
-F3F_Max_Height,F3F_Max_Height,Replace,,,,,,,,,
-F3F_MAX_LOT_BLDG,F3F_Max_Lot_Building_Coverage,Replace,,,,,,,,,
-F3F_MAX_LOT_BLDG_COND_ALT,,Remove,,,,,,,,,
-F3F_Max_Lot_Building_Coverage,F3F_Max_Lot_Building_Coverage,Replace,,,,,,,,,
-F3F_MAX_LOT_IMP,F3F_Max_Lot_Impervious_Coverage,Replace,,,,,,,,,
-F3F_MAX_LOT_IMP_COND_ALT,,Remove,,,,,,,,,
-F3F_Max_Lot_Impervious_Coverage,F3F_Max_Lot_Impervious_Coverage,Replace,,,,,,,,,
-F3F_Max_Stories,F3F_Max_Stories,Replace,,,,,,,,,
-F3F_MIN_LOT,F3F_Min_Lot_Size,Replace,,,,,,,,,
-F3F_MIN_LOT_COND_ALT,,Remove,,,,,,,,,
-F3F_Min_Lot_Size,F3F_Min_Lot_Size,Replace,,,,,,,,,
-F3F_Min_Parking_Spaces_per_1BR,F3F_Min_Parking_Spaces_per_1BR,Replace,,,,,,,,,
-F3F_Min_Parking_Spaces_per_mult_BR,F3F_Min_Parking_Spaces_per_mult_BR,Replace,,,,,,,,,
-F3F_MIN_UNIT,,Remove,,,,,,,,,
-F3F_MIN_UNIT_COND_ALT,,Remove,,,,,,,,,
-F3F_Min_Unit_Size,,Remove,,,,,,,,,
-F3F_PARK_1BR,F3F_Min_Parking_Spaces_per_1BR,Replace,,,,,,,,,
-F3F_PARK_1BR_COND_ALT,,Remove,,,,,,,,,
-F3F_PARK_2BR,F3F_Min_Parking_Spaces_per_mult_BR,Replace,,,,,,,,,
-F3F_PARK_2BR_COND_ALT,,Remove,,,,,,,,,
-F3F_Proximity_to_Public_Transit_Required,F3F_Proximity_to_Public_Transit_Required,Replace,,,,,,,,,
-F3F_Rear_Setback,F3F_Rear_Setback,Replace,,,,,,,,,
-F3F_RSET,F3F_Rear_Setback,Replace,,,,,,,,,
-F3F_RSET_COND_ALT,,Remove,,,,,,,,,
-F3F_Side_Setback,F3F_Side_Setback,Replace,,,,,,,,,
-F3F_SSET,F3F_Side_Setback,Replace,,,,,,,,,
-F3F_SSET_COND_ALT,,Remove,,,,,,,,,
-F3F_STORIES,F3F_Max_Stories,Replace,,,,,,,,,
-F3F_STORIES_COND_ALT,,Remove,,,,,,,,,
-F3FDP,F3F_Allowance,Replace,,,,,,,,,
-F4F_AFF,F4F_Affordable_Housing_Only,Replace,,,,,,,,,
-F4F_Affordable_Housing_Only,F4F_Affordable_Housing_Only,Replace,,,,,,,,,
-F4F_Allowance,F4F_Allowance,Replace,,,,,,,,,
-F4F_BEDROOMS,,Remove,,,,,,,,,
-F4F_BEDROOMS_COND_ALT,,Remove,,,,,,,,,
-F4F_CNXN_H2O,,Remove,,,,,,,,,
-F4F_CNXN_TRANSIT,F4F_Proximity_to_Public_Transit_Required,Replace,,,,,,,,,
-F4F_Connection_to_Sewage_Water_Required,F4F_Connection_to_Sewage/Water_Required,Replace,,,,,,,,,
-F4F_ELD,F4F_Elderly_Housing_Only,Replace,,,,,,,,,
-F4F_Elderly_Housing_Only,F4F_Elderly_Housing_Only,Replace,,,,,,,,,
-F4F_Floor_to_Area_Ratio,,Remove,,,,,,,,,
-F4F_FRONT,F4F_Frontage,Replace,,,,,,,,,
-F4F_Front_Setback,F4F_Front_Setback,Replace,,,,,,,,,
-F4F_Frontage,F4F_Frontage,Replace,,,,,,,,,
-F4F_FSET,F4F_Front_Setback,Replace,,,,,,,,,
-F4F_FSET_COND_ALT,,Remove,,,,,,,,,
-F4F_FTA,,Remove,,,,,,,,,
-F4F_FTA_COND_ALT,,Remove,,,,,,,,,
-F4F_HEIGHT,F4F_Max_Height,Replace,,,,,,,,,
-F4F_HEIGHT_COND_ALT,,Remove,,,,,,,,,
-F4F_Max_Bedrooms,,Remove,,,,,,,,,
-F4F_MAX_DENS,F4F_Max_Density,Replace,,,,,,,,,
-F4F_MAX_DENS_COND_ALT,,Remove,,,,,,,,,
-F4F_Max_Density,F4F_Max_Density,Replace,,,,,,,,,
-F4F_Max_Height,F4F_Max_Height,Replace,,,,,,,,,
-F4F_MAX_LOT_BLDG,F4F_Max_Lot_Building_Coverage,Replace,,,,,,,,,
-F4F_MAX_LOT_BLDG_COND_ALT,,Remove,,,,,,,,,
-F4F_Max_Lot_Building_Coverage,F4F_Max_Lot_Building_Coverage,Replace,,,,,,,,,
-F4F_MAX_LOT_IMP,F4F_Max_Lot_Impervious_Coverage,Replace,,,,,,,,,
-F4F_MAX_LOT_IMP_COND_ALT,,Remove,,,,,,,,,
-F4F_Max_Lot_Impervious_Coverage,F4F_Max_Lot_Impervious_Coverage,Replace,,,,,,,,,
-F4F_Max_Stories,F4F_Max_Stories,Replace,,,,,,,,,
-F4F_MAX_UNIT,,Remove,,,,,,,,,
-F4F_MAX_UNIT_COND_ALT,,Remove,,,,,,,,,
-F4F_Max_Units_per_Building,,Remove,,,,,,,,,
-F4F_MIN_LOT,F4F_Min_Lot_Size,Replace,,,,,,,,,
-F4F_MIN_LOT_COND_ALT,,Remove,,,,,,,,,
-F4F_Min_Lot_Size,F4F_Min_Lot_Size,Replace,,,,,,,,,
-F4F_Min_Parking_Spaces_per__mult_BR,F4F_Min_Parking_Spaces_per_mult_BR,Replace,,,,,,,,,
-F4F_Min_Parking_Spaces_per_1BR,F4F_Min_Parking_Spaces_per_1BR,Replace,,,,,,,,,
-F4F_Min_Parking_Spaces_per_mult_BR,F4F_Min_Parking_Spaces_per_mult_BR,Replace,,,,,,,,,
-F4F_MIN_UNIT,,Remove,,,,,,,,,
-F4F_MIN_UNIT_COND_ALT,,Remove,,,,,,,,,
-F4F_Min_Unit_Size,,Remove,,,,,,,,,
-F4F_PARK_1BR,F4F_Min_Parking_Spaces_per_1BR,Replace,,,,,,,,,
-F4F_PARK_1BR_COND_ALT,,Remove,,,,,,,,,
-F4F_PARK_2BR,F4F_Min_Parking_Spaces_per_mult_BR,Replace,,,,,,,,,
-F4F_PARK_2BR_COND_ALT,,Remove,,,,,,,,,
-F4F_Proximity_to_Public_Transit_Required,F4F_Proximity_to_Public_Transit_Required,Replace,,,,,,,,,
-F4F_Rear_Setback,F4F_Rear_Setback,Replace,,,,,,,,,
-F4F_RSET,F4F_Rear_Setback,Replace,,,,,,,,,
-F4F_RSET_COND_ALT,,Remove,,,,,,,,,
-F4F_Side_Setback,F4F_Side_Setback,Replace,,,,,,,,,
-F4F_SSET,F4F_Side_Setback,Replace,,,,,,,,,
-F4F_SSET_COND_ALT,,Remove,,,,,,,,,
-F4F_STORIES,F4F_Max_Stories,Replace,,,,,,,,,
-F4F_STORIES_COND_ALT,,Remove,,,,,,,,,
-F4FDP,F4F_Allowance,Replace,,,,,,,,,
-F5F_AFF,,Remove,,,,,,,,,
-F5F_Affordable_Housing_Only,,Remove,,,,,,,,,
-F5F_Allowance,,Remove,,,,,,,,,
-F5F_BEDROOMS,,Remove,,,,,,,,,
-F5F_CNXN_H2O,,Remove,,,,,,,,,
-F5F_CNXN_TRANSIT,,Remove,,,,,,,,,
-F5F_Connection_to_Sewage_Water_Required,,Remove,,,,,,,,,
-F5F_ELD,,Remove,,,,,,,,,
-F5F_Elderly_Housing_Only,,Remove,,,,,,,,,
-F5F_FEET,,Remove,,,,,,,,,
-F5F_Floor_to_Area_Ratio,,Remove,,,,,,,,,
-F5F_FRONT,,Remove,,,,,,,,,
-F5F_Front_Setback,,Remove,,,,,,,,,
-F5F_Frontage,,Remove,,,,,,,,,
-F5F_FSET,,Remove,,,,,,,,,
-F5F_FTA,,Remove,,,,,,,,,
-F5F_Max__Lot_Impervious_Coverage,,Remove,,,,,,,,,
-F5F_Max_Bedrooms,,Remove,,,,,,,,,
-F5F_MAX_DENS,,Remove,,,,,,,,,
-F5F_Max_Density,,Remove,,,,,,,,,
-F5F_Max_Height,,Remove,,,,,,,,,
-F5F_MAX_LOT_BLDG,,Remove,,,,,,,,,
-F5F_Max_Lot_Building_Coverage,,Remove,,,,,,,,,
-F5F_MAX_LOT_IMP,,Remove,,,,,,,,,
-F5F_Max_Stories,,Remove,,,,,,,,,
-F5F_MAX_UNIT,,Remove,,,,,,,,,
-F5F_Max_Units_per_Building,,Remove,,,,,,,,,
-F5F_MIN_LOT,,Remove,,,,,,,,,
-F5F_Min_Lot_Size,,Remove,,,,,,,,,
-F5F_Min_Parking_Spaces_per_1BR,,Remove,,,,,,,,,
-F5F_Min_Parking_Spaces_per_mult_BR,,Remove,,,,,,,,,
-F5F_MIN_UNIT,,Remove,,,,,,,,,
-F5F_Min_Unit_Size,,Remove,,,,,,,,,
-F5F_PARK_1BR,,Remove,,,,,,,,,
-F5F_PARK_2BR,,Remove,,,,,,,,,
-F5F_Proximity_to_Public_Transit_Required,,Remove,,,,,,,,,
-F5F_Rear_Setback,,Remove,,,,,,,,,
-F5F_RSET,,Remove,,,,,,,,,
-F5F_Side_Setback,,Remove,,,,,,,,,
-F5F_SSET,,Remove,,,,,,,,,
-F5F_STORIES,,Remove,,,,,,,,,
-FID_1,FID_1,Replace,,,,,,,,,
-GIS_ID,GIS_ID,Replace,,,,,,,,,
-Jurisdiction,Jurisdiction,Replace,,,,,,,,,
-Jurisdiction District Name,Jurisdiction_District_Name,Replace,,,,,,,,,
-Jurisdiction_County,County,Replace,,,,,,,,,
-Jurisdiction_District_Name,Jurisdiction_District_Name,Replace,,,,,,,,,
-ABB_DIST_NAME,Abbreviated_District_Name,Replace,,,,,,,,,
-LAST_UPDATE,LAST_UPDATE,Replace,,,,,,,,,
-NOTE,Notes,Replace,,,,,,,,,
-NOTES,Notes,Replace,,,,,,,,,
-OBJECTID,OBJECTID,Replace,,,,,,,,,
-OBJECTID_1,OBJECTID,Replace,,,,,,,,,
-OVER,Overlay_District,Replace,,,,,,,,,
-Overlay District,Overlay_District,Replace,,,,,,,,,
-Overlay_District,Overlay_District,Replace,,,,,,,,,
-PARENT_JXTN,,Remove,,,,,,,,,
-PRD Allowance,PRD_Allowance,Replace,,,,,,,,,
-PRD Max Density,PRD_Max_Density,Replace,,,,,,,,,
-PRD Max Units,PRD_Max_Units,Replace,,,,,,,,,
-PRD Min Lot Size,PRD_Min_Lot_Size,Replace,,,,,,,,,
-PRD Mobile or Manufactured Home Park,PRD_Mobile_or_Manufactured_Home_Park,Replace,,,,,,,,,
-PRD_Allowance,PRD_Allowance,Replace,,,,,,,,,
-PRD_MAX_DENS,PRD_Max_Density,Replace,,,,,,,,,
-PRD_MAX_DENS_COND_ALT,,Remove,,,,,,,,,
-PRD_Max_Density,PRD_Max_Density,Replace,,,,,,,,,
-PRD_MAX_UNIT,PRD_Max_Units,Replace,,,,,,,,,
-PRD_MAX_UNIT_COND_ALT,,Remove,,,,,,,,,
-PRD_Max_Units,PRD_Max_Units,Replace,,,,,,,,,
-PRD_MHP,PRD_Mobile_or_Manufactured_Home_Park,Replace,,,,,,,,,
-PRD_MIN_LOT,PRD_Min_Lot_Size,Replace,,,,,,,,,
-PRD_MIN_LOT_COND_ALT,,Remove,,,,,,,,,
-PRD_Min_Lot_Size,PRD_Min_Lot_Size,Replace,,,,,,,,,
-PRD_Mobile_or_Manufactured_Home_Park,PRD_Mobile_or_Manufactured_Home_Park,Replace,,,,,,,,,
-PRDDP,PRD_Allowance,Replace,,,,,,,,,
-PUD Allowance,PUD_Allowance,Replace,,,,,,,,,
-PUD Required with Subdivision,PUD_Required_with_Subdivision,Replace,,,,,,,,,
-PUD Requires Land Conservation,PUD_Requires_Land_Conservation,Replace,,,,,,,,,
-PUD Threshold Number,PUD_Threshold_Number,Replace,,,,,,,,,
-PUD_ALLOW,PUD_Allowance,Replace,,,,,,,,,
-PUD_Allowance,PUD_Allowance,Replace,,,,,,,,,
-PUD_CONSERVE,PUD_Requires_Land_Conservation,Replace,,,,,,,,,
-PUD_Required_with_Subdivision,PUD_Required_with_Subdivision,Replace,,,,,,,,,
-PUD_Requires_Land_Conservation,PUD_Requires_Land_Conservation,Replace,,,,,,,,,
-PUD_SUBDV,PUD_Required_with_Subdivision,Replace,,,,,,,,,
-PUD_THRESH,PUD_Threshold_Number,Replace,,,,,,,,,
-PUD_Threshold_Number,PUD_Threshold_Number,Replace,,,,,,,,,
-RPC,RPC,Replace,,,,,,,,,
-Shape__Are,Shape_Area,Replace,,,,,,,,,
-Shape__Len,Shape_Length,Replace,,,,,,,,,
-Shape_Area,Shape_Area,Replace,,,,,,,,,
-Shape_Length,Shape_Length,Replace,,,,,,,,,
-SPNOTES,,Remove,,,,,,,,,
-TTIPNOTES,Notes,Replace,,,,,,,,,
-Version,Zoning_Version,Replace,,,,,,,,,
+F1F_FSET_COND_ALT,,Remove,
+F1F_FTA,,Remove,
+F1F_FTA_COND_ALT,,Remove,
+F1F_HEIGHT_COND_ALT,,Remove,
+F1F_MAX_LOT_BLDG_COND_ALT,,Remove,
+F1F_MAX_LOT_IMP_COND_ALT,,Remove,
+F1F_MIN_LOT_COND_ALT,,Remove,
+F1F_MIN_UNIT,,Remove,
+F1F_MIN_UNIT_COND_ALT,,Remove,
+F1F_Min_Unit_Size,,Remove,
+F1F_PARK_COND_ALT,,Remove,
+F1F_RSET_COND_ALT,,Remove,
+F1F_SSET_COND_ALT,,Remove,
+F1F_STORIES_COND_ALT,,Remove,
+F2F_Floor_to_Area_Ratio,,Remove,
+F2F_FSET_COND_ALT,,Remove,
+F2F_FTA,,Remove,
+F2F_FTA_COND_ALT,,Remove,
+F2F_HEIGHT_COND_ALT,,Remove,
+F2F_MAX_DENS_COND_ALT,,Remove,
+F2F_MAX_LOT_BLDG_COND_ALT,,Remove,
+F2F_MAX_LOT_IMP_COND_ALT,,Remove,
+F2F_MIN_LOT_COND_ALT,,Remove,
+F2F_MIN_UNIT,,Remove,
+F2F_MIN_UNIT_COND_ALT,,Remove,
+F2F_Min_Unit_Size,,Remove,
+F2F_PARK_1BR_COND_ALT,,Remove,
+F2F_PARK_2BR_COND_ALT,,Remove,
+F2F_RSET_COND_ALT,,Remove,
+F2F_SSET_COND_ALT,,Remove,
+F2F_STORIES_COND_ALT,,Remove,
+F3F_BEDROOMS,,Remove,
+F3F_BEDROOMS_COND_ALT,,Remove,
+F3F_CNXN_H2O,,Remove,
+F3F_ELD,,Remove,
+F3F_Floor_to_Area_Ratio,,Remove,
+F3F_FSET_COND_ALT,,Remove,
+F3F_FTA,,Remove,
+F3F_FTA_COND_ALT,,Remove,
+F3F_HEIGHT_COND_ALT,,Remove,
+F3F_Max_Bedrooms,,Remove,
+F3F_MAX_DENS_COND_ALT,,Remove,
+F3F_MAX_LOT_BLDG_COND_ALT,,Remove,
+F3F_MAX_LOT_IMP_COND_ALT,,Remove,
+F3F_MIN_LOT_COND_ALT,,Remove,
+F3F_MIN_UNIT,,Remove,
+F3F_MIN_UNIT_COND_ALT,,Remove,
+F3F_Min_Unit_Size,,Remove,
+F3F_PARK_1BR_COND_ALT,,Remove,
+F3F_PARK_2BR_COND_ALT,,Remove,
+F3F_RSET_COND_ALT,,Remove,
+F3F_SSET_COND_ALT,,Remove,
+F3F_STORIES_COND_ALT,,Remove,
+F4F_BEDROOMS,,Remove,
+F4F_BEDROOMS_COND_ALT,,Remove,
+F4F_CNXN_H2O,,Remove,
+F4F_Floor_to_Area_Ratio,,Remove,
+F4F_FSET_COND_ALT,,Remove,
+F4F_FTA,,Remove,
+F4F_FTA_COND_ALT,,Remove,
+F4F_HEIGHT_COND_ALT,,Remove,
+F4F_Max_Bedrooms,,Remove,
+F4F_MAX_DENS_COND_ALT,,Remove,
+F4F_MAX_LOT_BLDG_COND_ALT,,Remove,
+F4F_MAX_LOT_IMP_COND_ALT,,Remove,
+F4F_MAX_UNIT,,Remove,
+F4F_MAX_UNIT_COND_ALT,,Remove,
+F4F_Max_Units_per_Building,,Remove,
+F4F_MIN_LOT_COND_ALT,,Remove,
+F4F_MIN_UNIT,,Remove,
+F4F_MIN_UNIT_COND_ALT,,Remove,
+F4F_Min_Unit_Size,,Remove,
+F4F_PARK_1BR_COND_ALT,,Remove,
+F4F_PARK_2BR_COND_ALT,,Remove,
+F4F_RSET_COND_ALT,,Remove,
+F4F_SSET_COND_ALT,,Remove,
+F4F_STORIES_COND_ALT,,Remove,
+F5F_AFF,,Remove,
+F5F_Affordable_Housing_Only,,Remove,
+F5F_Allowance,,Remove,
+F5F_BEDROOMS,,Remove,
+F5F_CNXN_H2O,,Remove,
+F5F_CNXN_TRANSIT,,Remove,
+F5F_Connection_to_Sewage_Water_Required,,Remove,
+F5F_ELD,,Remove,
+F5F_Elderly_Housing_Only,,Remove,
+F5F_FEET,,Remove,
+F5F_Floor_to_Area_Ratio,,Remove,
+F5F_FRONT,,Remove,
+F5F_Front_Setback,,Remove,
+F5F_Frontage,,Remove,
+F5F_FSET,,Remove,
+F5F_FTA,,Remove,
+F5F_Max__Lot_Impervious_Coverage,,Remove,
+F5F_Max_Bedrooms,,Remove,
+F5F_MAX_DENS,,Remove,
+F5F_Max_Density,,Remove,
+F5F_Max_Height,,Remove,
+F5F_MAX_LOT_BLDG,,Remove,
+F5F_Max_Lot_Building_Coverage,,Remove,
+F5F_MAX_LOT_IMP,,Remove,
+F5F_Max_Stories,,Remove,
+F5F_MAX_UNIT,,Remove,
+F5F_Max_Units_per_Building,,Remove,
+F5F_MIN_LOT,,Remove,
+F5F_Min_Lot_Size,,Remove,
+F5F_Min_Parking_Spaces_per_1BR,,Remove,
+F5F_Min_Parking_Spaces_per_mult_BR,,Remove,
+F5F_MIN_UNIT,,Remove,
+F5F_Min_Unit_Size,,Remove,
+F5F_PARK_1BR,,Remove,
+F5F_PARK_2BR,,Remove,
+F5F_Proximity_to_Public_Transit_Required,,Remove,
+F5F_Rear_Setback,,Remove,
+F5F_RSET,,Remove,
+F5F_Side_Setback,,Remove,
+F5F_SSET,,Remove,
+F5F_STORIES,,Remove,
+PARENT_JXTN,,Remove,
+PRD_MAX_DENS_COND_ALT,,Remove,
+PRD_MAX_UNIT_COND_ALT,,Remove,
+PRD_MIN_LOT_COND_ALT,,Remove,
+SPNOTES,,Remove,
+CONDITIONAL 5F Affordable Housing Only,,Remove,

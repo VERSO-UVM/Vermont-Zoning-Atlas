@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_ID": 684,
+        "County": "Essex",
+        "RPC": "NVDA",
+        "Municipal_Name": "WarnersGrant",
+        "GEO_ID": "5000976337",
+        "District_Name": null,
+        "Abbreviated_District_Name": "FASF",
+        "District_Type": null,
+        "Bylaw_Date": null,
+        "Elderly_Housing_District": null,
+        "District_Mapped": null,
+        "Overlay_District": null,
+        "Base_Density": null,
+        "GIS_ID": null,
+        "Last_Update": null,
+        "Shape_Length": null,
+        "Shape_Area": null,
+        "F1F_Allowance": null,
+        "F1F_Front_Setback": null,
+        "F1F_Side_Setback": null,
+        "F1F_Rear_Setback": null,
+        "F1F_Frontage": null,
+        "F1F_Max_Height": null,
+        "F1F_Max_Stories": null,
+        "F1F_Min_Lot_Size": null,
+        "F1F_Max_Lot_Building_Coverage": null,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": null,
+        "F1F_Elderly_Housing_Only": null,
+        "F1F_Affordable_Housing_Only": null,
+        "F2F_Allowance": null,
+        "F2F_Front_Setback": null,
+        "F2F_Side_Setback": null,
+        "F2F_Rear_Setback": null,
+        "F2F_Frontage": null,
+        "F2F_Max_Density": null,
+        "F2F_Max_Height": null,
+        "F2F_Max_Stories": null,
+        "F2F_Min_Lot_Size": null,
+        "F2F_Max_Lot_Building_Coverage": null,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": null,
+        "F2F_Min_Parking_Spaces_per_mult_BR": null,
+        "F2F_Elderly_Housing_Only": null,
+        "F2F_Affordable_Housing_Only": null,
+        "F3F_Allowance": null,
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Density": null,
+        "F3F_Max_Height": null,
+        "F3F_Max_Stories": null,
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Affordable_Housing_Only": null,
+        "F3F_Proximity_to_Public_Transit_Required": null,
+        "F3F_Connection_to_Sewage/Water_Required": null,
+        "F4F_Allowance": null,
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F1F_Max_Density": null,
+        "F4F_Max_Density": null,
+        "F4F_Max_Height": null,
+        "F4F_Max_Stories": null,
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Elderly_Housing_Only": null,
+        "F4F_Elderly_Housing_Only": null,
+        "F4F_Affordable_Housing_Only": null,
+        "F4F_Proximity_to_Public_Transit_Required": null,
+        "F4F_Connection_to_Sewage/Water_Required": null,
+        "ADU_Allowance": null,
+        "ADU_Elderly_Housing_Only": null,
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Min_Lot_Size": null,
+        "ADU_Max_Bedrooms": null,
+        "ADU_Min_Parking_Spaces": null,
+        "ADU_Owner_Occupancy_Required": null,
+        "ADU_Renter_Occupancy_Prohibited": null,
+        "ADU_Employee_or_Family_Occupancy_Required": null,
+        "ADU_Restricted_to_Primary_Structure": null,
+        "Affordable_Housing_Allowance": null,
+        "Affordable_Housing_District": null,
+        "Affordable_Housing_Elderly_Only": null,
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "PRD_Allowance": null,
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PRD_Min_Lot_Size": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": null,
+        "PUD_Allowance": null,
+        "PUD_Required_with_Subdivision": null,
+        "PUD_Requires_Land_Conservation": null,
+        "PUD_Threshold_Number": null,
+        "Notes": null,
+        "FIPS6": 9090
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.90181778571298,
+              44.89689800786296
+            ],
+            [
+              -71.90040983062477,
+              44.90361975055936
+            ],
+            [
+              -71.89884701042807,
+              44.91104903843941
+            ],
+            [
+              -71.89714741339145,
+              44.91917695730872
+            ],
+            [
+              -71.89514785250711,
+              44.92868258027274
+            ],
+            [
+              -71.89314100153241,
+              44.93828683087744
+            ],
+            [
+              -71.89166208580671,
+              44.9450161390043
+            ],
+            [
+              -71.90155131072248,
+              44.94484342072807
+            ],
+            [
+              -71.9119344847594,
+              44.944612279047746
+            ],
+            [
+              -71.9125696280878,
+              44.9415863027846
+            ],
+            [
+              -71.91415823102285,
+              44.933015327957364
+            ],
+            [
+              -71.9145460690399,
+              44.9309276259445
+            ],
+            [
+              -71.9163421025593,
+              44.92142539624597
+            ],
+            [
+              -71.91822176532976,
+              44.91174519086801
+            ],
+            [
+              -71.91961334567074,
+              44.904653214179355
+            ],
+            [
+              -71.92014649911405,
+              44.901534959428105
+            ],
+            [
+              -71.91667320921493,
+              44.89964020983355
+            ],
+            [
+              -71.90722861220803,
+              44.89458653004257
+            ],
+            [
+              -71.90276908279735,
+              44.89221532475199
+            ],
+            [
+              -71.90181778571298,
+              44.89689800786296
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

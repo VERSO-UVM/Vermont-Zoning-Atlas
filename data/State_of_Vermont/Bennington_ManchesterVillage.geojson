@@ -1,0 +1,5625 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.07334392199994,
+              43.16317802300006
+            ],
+            [
+              -73.07335482999997,
+              43.16314372700003
+            ],
+            [
+              -73.07293519299998,
+              43.16314259500007
+            ],
+            [
+              -73.07292960699994,
+              43.16320282100003
+            ],
+            [
+              -73.07206929599994,
+              43.16316999400004
+            ],
+            [
+              -73.07208466799995,
+              43.162181718000056
+            ],
+            [
+              -73.07151626099994,
+              43.162173729000074
+            ],
+            [
+              -73.07150905099996,
+              43.162348380000026
+            ],
+            [
+              -73.07114608399996,
+              43.16236629700006
+            ],
+            [
+              -73.07117051499995,
+              43.16276146900003
+            ],
+            [
+              -73.07111402899994,
+              43.162761540000076
+            ],
+            [
+              -73.07111617099997,
+              43.16296749800006
+            ],
+            [
+              -73.07183276399996,
+              43.16296596900003
+            ],
+            [
+              -73.07190089899996,
+              43.16306808400003
+            ],
+            [
+              -73.07186666099994,
+              43.16359897700005
+            ],
+            [
+              -73.07163925199995,
+              43.163827566000066
+            ],
+            [
+              -73.07122030699998,
+              43.16362884400007
+            ],
+            [
+              -73.07110398299994,
+              43.16376261800008
+            ],
+            [
+              -73.07081999099995,
+              43.163626745000045
+            ],
+            [
+              -73.06997187099995,
+              43.16362008400006
+            ],
+            [
+              -73.06922206399997,
+              43.16361196400004
+            ],
+            [
+              -73.06892519599995,
+              43.16393129200003
+            ],
+            [
+              -73.06887371199997,
+              43.16392919300006
+            ],
+            [
+              -73.06859418099998,
+              43.164811314000076
+            ],
+            [
+              -73.06831472599998,
+              43.16480504200007
+            ],
+            [
+              -73.06782651499998,
+              43.16590698700003
+            ],
+            [
+              -73.06726032199998,
+              43.16651557000006
+            ],
+            [
+              -73.06666329599994,
+              43.16694954700006
+            ],
+            [
+              -73.06516861499995,
+              43.16760033700007
+            ],
+            [
+              -73.06312527899996,
+              43.167558091000046
+            ],
+            [
+              -73.06212888299996,
+              43.168532553000034
+            ],
+            [
+              -73.06232399199996,
+              43.16856155200003
+            ],
+            [
+              -73.06260445699996,
+              43.16872037300004
+            ],
+            [
+              -73.06296035599996,
+              43.16880723000003
+            ],
+            [
+              -73.06318454499996,
+              43.16898932200007
+            ],
+            [
+              -73.06335216199994,
+              43.16899560000007
+            ],
+            [
+              -73.06216717799998,
+              43.170529084000066
+            ],
+            [
+              -73.06356610299997,
+              43.17137952000007
+            ],
+            [
+              -73.06384911199996,
+              43.17154803500006
+            ],
+            [
+              -73.06316207399993,
+              43.17219045600007
+            ],
+            [
+              -73.06441843099998,
+              43.172230186000036
+            ],
+            [
+              -73.06461945399997,
+              43.17223207700005
+            ],
+            [
+              -73.06487899599995,
+              43.171536063000076
+            ],
+            [
+              -73.06506702599995,
+              43.171629721000045
+            ],
+            [
+              -73.06520147499998,
+              43.17137258400004
+            ],
+            [
+              -73.06595937299994,
+              43.17124858200003
+            ],
+            [
+              -73.06693535699998,
+              43.17035442800005
+            ],
+            [
+              -73.06726444999998,
+              43.16986861500004
+            ],
+            [
+              -73.06793712799998,
+              43.169176943000025
+            ],
+            [
+              -73.06856142599997,
+              43.16939092400003
+            ],
+            [
+              -73.06934472999995,
+              43.16965940400007
+            ],
+            [
+              -73.06998061099995,
+              43.16807169000003
+            ],
+            [
+              -73.07032563699994,
+              43.16763447200003
+            ],
+            [
+              -73.07038357999994,
+              43.16755821300006
+            ],
+            [
+              -73.07003275199997,
+              43.167399173000035
+            ],
+            [
+              -73.06996253299997,
+              43.167367341000045
+            ],
+            [
+              -73.07027790899997,
+              43.16698617700007
+            ],
+            [
+              -73.07032203799997,
+              43.16693284300004
+            ],
+            [
+              -73.07009156699996,
+              43.166817061000074
+            ],
+            [
+              -73.07002860199998,
+              43.16678542900007
+            ],
+            [
+              -73.07035923999996,
+              43.166346575000034
+            ],
+            [
+              -73.07080104399995,
+              43.16641469600006
+            ],
+            [
+              -73.07080328599994,
+              43.16595377800007
+            ],
+            [
+              -73.07126012199996,
+              43.16594467700003
+            ],
+            [
+              -73.07129700299998,
+              43.16511867400004
+            ],
+            [
+              -73.07139358199998,
+              43.165119246000074
+            ],
+            [
+              -73.07140709399994,
+              43.16510957700007
+            ],
+            [
+              -73.07141897799994,
+              43.16476440400004
+            ],
+            [
+              -73.07184093099994,
+              43.16477349200005
+            ],
+            [
+              -73.07203818599999,
+              43.16477797600004
+            ],
+            [
+              -73.07206328299998,
+              43.16413178000005
+            ],
+            [
+              -73.07338421999998,
+              43.16419071100006
+            ],
+            [
+              -73.07341025299996,
+              43.16368726800005
+            ],
+            [
+              -73.07348040899996,
+              43.163505058000055
+            ],
+            [
+              -73.07323860699995,
+              43.163495158000046
+            ],
+            [
+              -73.07334392199994,
+              43.16317802300006
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECT_ID": 219,
+        "County": "Bennington",
+        "RPC": "BCRC",
+        "Municipal_Name": "ManchesterVillage",
+        "GEO_ID": "5000342850",
+        "District_Name": "Business 1",
+        "Abbreviated_District_Name": "B-1",
+        "District_Type": "Mixed with Residential",
+        "Bylaw_Date": "2023-09-05",
+        "Elderly_Housing_District": "No",
+        "District_Mapped": "Yes",
+        "Overlay_District": "No",
+        "Base_Density": null,
+        "GIS_ID": null,
+        "Last_Update": "20150707",
+        "Shape_Length": 0.04271384509847541,
+        "Shape_Area": 3.737674202557641e-05,
+        "F1F_Allowance": "Permitted",
+        "F1F_Front_Setback": 75,
+        "F1F_Side_Setback": 30,
+        "F1F_Rear_Setback": 40,
+        "F1F_Frontage": 200,
+        "F1F_Max_Height": 35,
+        "F1F_Max_Stories": null,
+        "F1F_Min_Lot_Size": null,
+        "F1F_Max_Lot_Building_Coverage": 10,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": 2,
+        "F1F_Elderly_Housing_Only": null,
+        "F1F_Affordable_Housing_Only": null,
+        "F2F_Allowance": "Permitted",
+        "F2F_Front_Setback": 75,
+        "F2F_Side_Setback": 30,
+        "F2F_Rear_Setback": 40,
+        "F2F_Frontage": 200,
+        "F2F_Max_Density": null,
+        "F2F_Max_Height": null,
+        "F2F_Max_Stories": null,
+        "F2F_Min_Lot_Size": null,
+        "F2F_Max_Lot_Building_Coverage": 10,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": 2,
+        "F2F_Min_Parking_Spaces_per_mult_BR": 2,
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Affordable_Housing_Only": "No",
+        "F3F_Allowance": "Prohibited",
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Density": null,
+        "F3F_Max_Height": null,
+        "F3F_Max_Stories": null,
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Connection_to_Sewage/Water_Required": "No",
+        "F4F_Allowance": "Prohibited",
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F1F_Max_Density": null,
+        "F4F_Max_Density": null,
+        "F4F_Max_Height": null,
+        "F4F_Max_Stories": null,
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Elderly_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Connection_to_Sewage/Water_Required": "No",
+        "ADU_Allowance": "Prohibited",
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Min_Lot_Size": null,
+        "ADU_Max_Bedrooms": null,
+        "ADU_Min_Parking_Spaces": null,
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "Affordable_Housing_Allowance": "Not Mentioned",
+        "Affordable_Housing_District": "No",
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "PRD_Allowance": "Not Mentioned",
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PRD_Min_Lot_Size": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PUD_Allowance": "Yes",
+        "PUD_Required_with_Subdivision": null,
+        "PUD_Requires_Land_Conservation": null,
+        "PUD_Threshold_Number": null,
+        "Notes": "None",
+        "FIPS6": 3025
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.06052815799995,
+              43.172095513000045
+            ],
+            [
+              -73.06289410099998,
+              43.172180171000036
+            ],
+            [
+              -73.06316207399993,
+              43.17219045600007
+            ],
+            [
+              -73.06384911199996,
+              43.17154803500006
+            ],
+            [
+              -73.06356610299997,
+              43.17137952000007
+            ],
+            [
+              -73.06216717799998,
+              43.170529084000066
+            ],
+            [
+              -73.06116791799997,
+              43.171827465000035
+            ],
+            [
+              -73.06052815799995,
+              43.172095513000045
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECT_ID": 220,
+        "County": "Bennington",
+        "RPC": "BCRC",
+        "Municipal_Name": "ManchesterVillage",
+        "GEO_ID": "5000342850",
+        "District_Name": "Business 2",
+        "Abbreviated_District_Name": "B-2",
+        "District_Type": "Nonresidential",
+        "Bylaw_Date": "2023-09-05",
+        "Elderly_Housing_District": "No",
+        "District_Mapped": "Yes",
+        "Overlay_District": "No",
+        "Base_Density": null,
+        "GIS_ID": null,
+        "Last_Update": "20150707",
+        "Shape_Length": 0.0078747800305108,
+        "Shape_Area": 2.7463161079594414e-06,
+        "F1F_Allowance": "Prohibited",
+        "F1F_Front_Setback": null,
+        "F1F_Side_Setback": null,
+        "F1F_Rear_Setback": null,
+        "F1F_Frontage": null,
+        "F1F_Max_Height": null,
+        "F1F_Max_Stories": null,
+        "F1F_Min_Lot_Size": null,
+        "F1F_Max_Lot_Building_Coverage": null,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": null,
+        "F1F_Elderly_Housing_Only": null,
+        "F1F_Affordable_Housing_Only": null,
+        "F2F_Allowance": "Prohibited",
+        "F2F_Front_Setback": null,
+        "F2F_Side_Setback": null,
+        "F2F_Rear_Setback": null,
+        "F2F_Frontage": null,
+        "F2F_Max_Density": null,
+        "F2F_Max_Height": null,
+        "F2F_Max_Stories": null,
+        "F2F_Min_Lot_Size": null,
+        "F2F_Max_Lot_Building_Coverage": null,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": null,
+        "F2F_Min_Parking_Spaces_per_mult_BR": null,
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Affordable_Housing_Only": "No",
+        "F3F_Allowance": "Prohibited",
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Density": null,
+        "F3F_Max_Height": null,
+        "F3F_Max_Stories": null,
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Connection_to_Sewage/Water_Required": "No",
+        "F4F_Allowance": "Prohibited",
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F1F_Max_Density": null,
+        "F4F_Max_Density": null,
+        "F4F_Max_Height": null,
+        "F4F_Max_Stories": null,
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Elderly_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Connection_to_Sewage/Water_Required": "No",
+        "ADU_Allowance": "Prohibited",
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Min_Lot_Size": null,
+        "ADU_Max_Bedrooms": null,
+        "ADU_Min_Parking_Spaces": null,
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "Affordable_Housing_Allowance": "Prohibited",
+        "Affordable_Housing_District": "No",
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "PRD_Allowance": "Prohibited",
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PRD_Min_Lot_Size": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PUD_Allowance": null,
+        "PUD_Required_with_Subdivision": null,
+        "PUD_Requires_Land_Conservation": null,
+        "PUD_Threshold_Number": null,
+        "Notes": "None",
+        "FIPS6": 3025
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.07349209199998,
+              43.16107052500007
+            ],
+            [
+              -73.07341417499998,
+              43.161066117000075
+            ],
+            [
+              -73.07336495399994,
+              43.161637609000024
+            ],
+            [
+              -73.07120175399996,
+              43.16152140400004
+            ],
+            [
+              -73.07119503699994,
+              43.16121114100008
+            ],
+            [
+              -73.07100950299997,
+              43.161204430000055
+            ],
+            [
+              -73.07089391599999,
+              43.161200249000046
+            ],
+            [
+              -73.07092782399997,
+              43.16098636800007
+            ],
+            [
+              -73.07087239199996,
+              43.16095465400008
+            ],
+            [
+              -73.07073208599996,
+              43.16094766900005
+            ],
+            [
+              -73.06966203799993,
+              43.16091527400005
+            ],
+            [
+              -73.06991624999995,
+              43.16141884000007
+            ],
+            [
+              -73.07006652799998,
+              43.16171652300005
+            ],
+            [
+              -73.07005569699999,
+              43.162167500000066
+            ],
+            [
+              -73.06951769999995,
+              43.163099706000025
+            ],
+            [
+              -73.06922206399997,
+              43.16361196400004
+            ],
+            [
+              -73.06997187099995,
+              43.16362008400006
+            ],
+            [
+              -73.07081999099995,
+              43.163626745000045
+            ],
+            [
+              -73.07110398299994,
+              43.16376261800008
+            ],
+            [
+              -73.07122030699998,
+              43.16362884400007
+            ],
+            [
+              -73.07163925199995,
+              43.163827566000066
+            ],
+            [
+              -73.07186666099994,
+              43.16359897700005
+            ],
+            [
+              -73.07190089899996,
+              43.16306808400003
+            ],
+            [
+              -73.07183276399996,
+              43.16296596900003
+            ],
+            [
+              -73.07111617099997,
+              43.16296749800006
+            ],
+            [
+              -73.07111402899994,
+              43.162761540000076
+            ],
+            [
+              -73.07117051499995,
+              43.16276146900003
+            ],
+            [
+              -73.07114608399996,
+              43.16236629700006
+            ],
+            [
+              -73.07150905099996,
+              43.162348380000026
+            ],
+            [
+              -73.07151626099994,
+              43.162173729000074
+            ],
+            [
+              -73.07208466799995,
+              43.162181718000056
+            ],
+            [
+              -73.07206929599994,
+              43.16316999400004
+            ],
+            [
+              -73.07292960699994,
+              43.16320282100003
+            ],
+            [
+              -73.07293519299998,
+              43.16314259500007
+            ],
+            [
+              -73.07335482999997,
+              43.16314372700003
+            ],
+            [
+              -73.07334392199994,
+              43.16317802300006
+            ],
+            [
+              -73.07323860699995,
+              43.163495158000046
+            ],
+            [
+              -73.07348040899996,
+              43.163505058000055
+            ],
+            [
+              -73.07351271499994,
+              43.16317967300006
+            ],
+            [
+              -73.07351658099998,
+              43.16314073600006
+            ],
+            [
+              -73.07520576399997,
+              43.16321863500008
+            ],
+            [
+              -73.07523351199995,
+              43.16321941500007
+            ],
+            [
+              -73.07527862599994,
+              43.16225571800004
+            ],
+            [
+              -73.07536443399994,
+              43.16225874600008
+            ],
+            [
+              -73.07804742999997,
+              43.16235343900007
+            ],
+            [
+              -73.07880033299995,
+              43.16155208300006
+            ],
+            [
+              -73.07884063299997,
+              43.16138429600005
+            ],
+            [
+              -73.07861470199998,
+              43.161325712000064
+            ],
+            [
+              -73.07906363399997,
+              43.16066557700003
+            ],
+            [
+              -73.07480819099999,
+              43.160483587000044
+            ],
+            [
+              -73.07477480199998,
+              43.161143819000074
+            ],
+            [
+              -73.07349209199998,
+              43.16107052500007
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECT_ID": 221,
+        "County": "Bennington",
+        "RPC": "BCRC",
+        "Municipal_Name": "ManchesterVillage",
+        "GEO_ID": "5000342850",
+        "District_Name": "Equinox Historic District",
+        "Abbreviated_District_Name": "Ehd",
+        "District_Type": "Nonresidential",
+        "Bylaw_Date": "2023-09-05",
+        "Elderly_Housing_District": null,
+        "District_Mapped": "Yes",
+        "Overlay_District": "No",
+        "Base_Density": null,
+        "GIS_ID": null,
+        "Last_Update": "20150707",
+        "Shape_Length": 0.031220905602444036,
+        "Shape_Area": 1.702623342652864e-05,
+        "F1F_Allowance": null,
+        "F1F_Front_Setback": null,
+        "F1F_Side_Setback": null,
+        "F1F_Rear_Setback": null,
+        "F1F_Frontage": null,
+        "F1F_Max_Height": null,
+        "F1F_Max_Stories": null,
+        "F1F_Min_Lot_Size": null,
+        "F1F_Max_Lot_Building_Coverage": null,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": null,
+        "F1F_Elderly_Housing_Only": null,
+        "F1F_Affordable_Housing_Only": null,
+        "F2F_Allowance": null,
+        "F2F_Front_Setback": null,
+        "F2F_Side_Setback": null,
+        "F2F_Rear_Setback": null,
+        "F2F_Frontage": null,
+        "F2F_Max_Density": null,
+        "F2F_Max_Height": null,
+        "F2F_Max_Stories": null,
+        "F2F_Min_Lot_Size": null,
+        "F2F_Max_Lot_Building_Coverage": null,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": null,
+        "F2F_Min_Parking_Spaces_per_mult_BR": null,
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Affordable_Housing_Only": "No",
+        "F3F_Allowance": null,
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Density": null,
+        "F3F_Max_Height": null,
+        "F3F_Max_Stories": null,
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Connection_to_Sewage/Water_Required": "No",
+        "F4F_Allowance": null,
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F1F_Max_Density": null,
+        "F4F_Max_Density": null,
+        "F4F_Max_Height": null,
+        "F4F_Max_Stories": null,
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Elderly_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Connection_to_Sewage/Water_Required": "No",
+        "ADU_Allowance": null,
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Min_Lot_Size": null,
+        "ADU_Max_Bedrooms": null,
+        "ADU_Min_Parking_Spaces": null,
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "Affordable_Housing_Allowance": null,
+        "Affordable_Housing_District": null,
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "PRD_Allowance": null,
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PRD_Min_Lot_Size": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PUD_Allowance": null,
+        "PUD_Required_with_Subdivision": null,
+        "PUD_Requires_Land_Conservation": null,
+        "PUD_Threshold_Number": null,
+        "Notes": "None",
+        "FIPS6": 3025
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.07912873799995,
+                43.17479798000005
+              ],
+              [
+                -73.07843231499999,
+                43.17809760100005
+              ],
+              [
+                -73.07769881399997,
+                43.178124936000074
+              ],
+              [
+                -73.07760632699996,
+                43.177569420000054
+              ],
+              [
+                -73.07776681799999,
+                43.17722493500003
+              ],
+              [
+                -73.07734800199995,
+                43.176831615000026
+              ],
+              [
+                -73.07688648699997,
+                43.17671987700004
+              ],
+              [
+                -73.07594366499995,
+                43.17757970000008
+              ],
+              [
+                -73.07499732299993,
+                43.17749388200008
+              ],
+              [
+                -73.07436104299995,
+                43.177107904000025
+              ],
+              [
+                -73.07336406799999,
+                43.17662119700003
+              ],
+              [
+                -73.07327238699997,
+                43.176502424000034
+              ],
+              [
+                -73.07322049999993,
+                43.176435206000065
+              ],
+              [
+                -73.07319853799999,
+                43.176728524000055
+              ],
+              [
+                -73.07305375899995,
+                43.17866215500004
+              ],
+              [
+                -73.07913594099995,
+                43.17889517500004
+              ],
+              [
+                -73.07947024299995,
+                43.179534698000055
+              ],
+              [
+                -73.08143188099996,
+                43.17947094800007
+              ],
+              [
+                -73.08161986999994,
+                43.179757548000055
+              ],
+              [
+                -73.08363305399996,
+                43.18014146300004
+              ],
+              [
+                -73.08465839599995,
+                43.18028327500008
+              ],
+              [
+                -73.08476401899998,
+                43.18035524000004
+              ],
+              [
+                -73.08536017099993,
+                43.180232078000074
+              ],
+              [
+                -73.08576963199994,
+                43.18000072500007
+              ],
+              [
+                -73.08671877199998,
+                43.17995685500006
+              ],
+              [
+                -73.08708043699994,
+                43.175003927000034
+              ],
+              [
+                -73.08030448899996,
+                43.17483430300007
+              ],
+              [
+                -73.07912873799995,
+                43.17479798000005
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -73.07513691199995,
+                43.17205388000008
+              ],
+              [
+                -73.07509923699996,
+                43.172339445000034
+              ],
+              [
+                -73.07501872499995,
+                43.17297487900004
+              ],
+              [
+                -73.07564565899997,
+                43.17298382100006
+              ],
+              [
+                -73.07575421799999,
+                43.17206153500007
+              ],
+              [
+                -73.07513691199995,
+                43.17205388000008
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -73.08642158499998,
+                43.161938950000035
+              ],
+              [
+                -73.08642095699997,
+                43.16193899700005
+              ],
+              [
+                -73.08424531199995,
+                43.16215310800004
+              ],
+              [
+                -73.08425457899995,
+                43.16231909700008
+              ],
+              [
+                -73.08297575399996,
+                43.16236162600006
+              ],
+              [
+                -73.08261866799995,
+                43.16251281400008
+              ],
+              [
+                -73.08243867899995,
+                43.16253743000004
+              ],
+              [
+                -73.08244074199996,
+                43.16344228400004
+              ],
+              [
+                -73.08078021399996,
+                43.16339390300004
+              ],
+              [
+                -73.08081731399994,
+                43.16678250500007
+              ],
+              [
+                -73.08287927099997,
+                43.16688376700006
+              ],
+              [
+                -73.08642158499998,
+                43.161938950000035
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -73.09030906899994,
+                43.152256023000064
+              ],
+              [
+                -73.09045193399999,
+                43.15420531400008
+              ],
+              [
+                -73.08991318199998,
+                43.154197123000074
+              ],
+              [
+                -73.08938580599994,
+                43.15429323200004
+              ],
+              [
+                -73.08897943999995,
+                43.15442739300005
+              ],
+              [
+                -73.08745726399997,
+                43.154357651000055
+              ],
+              [
+                -73.08718711899996,
+                43.15587846900007
+              ],
+              [
+                -73.08708649799996,
+                43.157207766000056
+              ],
+              [
+                -73.08676862299995,
+                43.15759772800004
+              ],
+              [
+                -73.08831351899994,
+                43.159296674000075
+              ],
+              [
+                -73.08831388099998,
+                43.15929707200007
+              ],
+              [
+                -73.09292366299997,
+                43.15286016400006
+              ],
+              [
+                -73.09030906899994,
+                43.152256023000064
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECT_ID": 222,
+        "County": "Bennington",
+        "RPC": "BCRC",
+        "Municipal_Name": "ManchesterVillage",
+        "GEO_ID": "5000342850",
+        "District_Name": "Forest And Recreation",
+        "Abbreviated_District_Name": "F",
+        "District_Type": "Nonresidential",
+        "Bylaw_Date": "2023-09-05",
+        "Elderly_Housing_District": "No",
+        "District_Mapped": "Yes",
+        "Overlay_District": "No",
+        "Base_Density": null,
+        "GIS_ID": null,
+        "Last_Update": "20150707",
+        "Shape_Length": 0.08258789343126366,
+        "Shape_Area": 8.19208381270464e-05,
+        "F1F_Allowance": "Prohibited",
+        "F1F_Front_Setback": null,
+        "F1F_Side_Setback": null,
+        "F1F_Rear_Setback": null,
+        "F1F_Frontage": null,
+        "F1F_Max_Height": null,
+        "F1F_Max_Stories": null,
+        "F1F_Min_Lot_Size": null,
+        "F1F_Max_Lot_Building_Coverage": null,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": null,
+        "F1F_Elderly_Housing_Only": null,
+        "F1F_Affordable_Housing_Only": null,
+        "F2F_Allowance": "Prohibited",
+        "F2F_Front_Setback": null,
+        "F2F_Side_Setback": null,
+        "F2F_Rear_Setback": null,
+        "F2F_Frontage": null,
+        "F2F_Max_Density": null,
+        "F2F_Max_Height": null,
+        "F2F_Max_Stories": null,
+        "F2F_Min_Lot_Size": null,
+        "F2F_Max_Lot_Building_Coverage": null,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": null,
+        "F2F_Min_Parking_Spaces_per_mult_BR": null,
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Affordable_Housing_Only": "No",
+        "F3F_Allowance": "Prohibited",
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Density": null,
+        "F3F_Max_Height": null,
+        "F3F_Max_Stories": null,
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Connection_to_Sewage/Water_Required": "No",
+        "F4F_Allowance": "Prohibited",
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F1F_Max_Density": null,
+        "F4F_Max_Density": null,
+        "F4F_Max_Height": null,
+        "F4F_Max_Stories": null,
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Elderly_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Connection_to_Sewage/Water_Required": "No",
+        "ADU_Allowance": "Prohibited",
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Min_Lot_Size": null,
+        "ADU_Max_Bedrooms": null,
+        "ADU_Min_Parking_Spaces": null,
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "Affordable_Housing_Allowance": "Prohibited",
+        "Affordable_Housing_District": "No",
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "PRD_Allowance": "Prohibited",
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PRD_Min_Lot_Size": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PUD_Allowance": null,
+        "PUD_Required_with_Subdivision": null,
+        "PUD_Requires_Land_Conservation": null,
+        "PUD_Threshold_Number": null,
+        "Notes": "None",
+        "FIPS6": 3025
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.07144373599994,
+              43.15742705900004
+            ],
+            [
+              -73.06942239999995,
+              43.15722849800005
+            ],
+            [
+              -73.06934892099997,
+              43.15884041700008
+            ],
+            [
+              -73.07059589599999,
+              43.158934843000054
+            ],
+            [
+              -73.07073065099996,
+              43.15894504700003
+            ],
+            [
+              -73.07072222999994,
+              43.159096172000034
+            ],
+            [
+              -73.07121819299994,
+              43.15914191300004
+            ],
+            [
+              -73.07135285499999,
+              43.15915433200007
+            ],
+            [
+              -73.07149926899996,
+              43.15916783500006
+            ],
+            [
+              -73.07147173199996,
+              43.15937661100003
+            ],
+            [
+              -73.07117193899995,
+              43.15937091400008
+            ],
+            [
+              -73.07109059799996,
+              43.16013392900004
+            ],
+            [
+              -73.07087239199996,
+              43.16095465400008
+            ],
+            [
+              -73.07092782399997,
+              43.16098636800007
+            ],
+            [
+              -73.07104472199995,
+              43.16101187900006
+            ],
+            [
+              -73.07100950299997,
+              43.161204430000055
+            ],
+            [
+              -73.07096599199997,
+              43.161442313000066
+            ],
+            [
+              -73.07095120599996,
+              43.16152315100004
+            ],
+            [
+              -73.07104486799994,
+              43.16155505800003
+            ],
+            [
+              -73.07103458199998,
+              43.16203353900005
+            ],
+            [
+              -73.07095329199996,
+              43.16227495800007
+            ],
+            [
+              -73.07088618499995,
+              43.162983945000065
+            ],
+            [
+              -73.07015378999995,
+              43.16296241600003
+            ],
+            [
+              -73.07004123999997,
+              43.16301333800004
+            ],
+            [
+              -73.07001599699998,
+              43.16311144600007
+            ],
+            [
+              -73.06997187099995,
+              43.16362008400006
+            ],
+            [
+              -73.06997358599995,
+              43.16366477100007
+            ],
+            [
+              -73.07074513199996,
+              43.16366811900008
+            ],
+            [
+              -73.07064023999999,
+              43.164013975000046
+            ],
+            [
+              -73.07016382499995,
+              43.164041531000066
+            ],
+            [
+              -73.06966995999994,
+              43.16483537800008
+            ],
+            [
+              -73.06976359299995,
+              43.16486369000006
+            ],
+            [
+              -73.06871683199995,
+              43.16591928400004
+            ],
+            [
+              -73.06894896099993,
+              43.16604403200006
+            ],
+            [
+              -73.06869593199997,
+              43.16631508100005
+            ],
+            [
+              -73.06791102699998,
+              43.16593407800008
+            ],
+            [
+              -73.06772635699997,
+              43.16615802200005
+            ],
+            [
+              -73.06809284099995,
+              43.16635607400008
+            ],
+            [
+              -73.06876850099997,
+              43.166721205000044
+            ],
+            [
+              -73.06858847999996,
+              43.166916349000076
+            ],
+            [
+              -73.06973397699994,
+              43.16749340000007
+            ],
+            [
+              -73.06965324299995,
+              43.167795968000064
+            ],
+            [
+              -73.06984015099994,
+              43.167813023000065
+            ],
+            [
+              -73.06996490999995,
+              43.16748865200003
+            ],
+            [
+              -73.07003275199997,
+              43.167399173000035
+            ],
+            [
+              -73.07032902299994,
+              43.16700840900006
+            ],
+            [
+              -73.07027790899997,
+              43.16698617700007
+            ],
+            [
+              -73.07004283099997,
+              43.166883932000076
+            ],
+            [
+              -73.07009156699996,
+              43.166817061000074
+            ],
+            [
+              -73.07041646699997,
+              43.166371266000056
+            ],
+            [
+              -73.07082988699995,
+              43.16643755100006
+            ],
+            [
+              -73.07083088199994,
+              43.16601667200007
+            ],
+            [
+              -73.07132178699999,
+              43.16594624100003
+            ],
+            [
+              -73.07132423999997,
+              43.165168864000066
+            ],
+            [
+              -73.07139358199998,
+              43.165119246000074
+            ],
+            [
+              -73.07140709399994,
+              43.16510957700007
+            ],
+            [
+              -73.07146092699998,
+              43.165071057000034
+            ],
+            [
+              -73.07144831499994,
+              43.164772551000056
+            ],
+            [
+              -73.07184093099994,
+              43.16477349200005
+            ],
+            [
+              -73.07193483299994,
+              43.16477371700006
+            ],
+            [
+              -73.07203902599997,
+              43.163827129000026
+            ],
+            [
+              -73.07300790299996,
+              43.16391221100008
+            ],
+            [
+              -73.07295974399995,
+              43.16349157900004
+            ],
+            [
+              -73.07301083999994,
+              43.16317476800003
+            ],
+            [
+              -73.07334392199994,
+              43.16317802300006
+            ],
+            [
+              -73.07351271499994,
+              43.16317967300006
+            ],
+            [
+              -73.07520576399997,
+              43.16321863500008
+            ],
+            [
+              -73.07523351199995,
+              43.16321941500007
+            ],
+            [
+              -73.07528648399995,
+              43.16322090400007
+            ],
+            [
+              -73.07536443399994,
+              43.16225874600008
+            ],
+            [
+              -73.07537015899999,
+              43.162188083000046
+            ],
+            [
+              -73.07741028199996,
+              43.162274929000034
+            ],
+            [
+              -73.07746447199997,
+              43.161245852000036
+            ],
+            [
+              -73.07444141199994,
+              43.16113876500003
+            ],
+            [
+              -73.07419707999998,
+              43.16180907300003
+            ],
+            [
+              -73.07347425799998,
+              43.16175874000004
+            ],
+            [
+              -73.07349209199998,
+              43.16107052500007
+            ],
+            [
+              -73.07380946199999,
+              43.15872100900003
+            ],
+            [
+              -73.07397143899993,
+              43.15870221000006
+            ],
+            [
+              -73.07397971699999,
+              43.158536697000045
+            ],
+            [
+              -73.07794298599998,
+              43.15883689800006
+            ],
+            [
+              -73.07788117899997,
+              43.15957823700006
+            ],
+            [
+              -73.07882495499996,
+              43.15961303600005
+            ],
+            [
+              -73.07893035699993,
+              43.15880672600008
+            ],
+            [
+              -73.07961868699994,
+              43.15885000500003
+            ],
+            [
+              -73.07965539299994,
+              43.15805483300005
+            ],
+            [
+              -73.07742334399995,
+              43.15792223100004
+            ],
+            [
+              -73.07741226599995,
+              43.15726759300003
+            ],
+            [
+              -73.07562278999995,
+              43.15716869400006
+            ],
+            [
+              -73.07440376699998,
+              43.15729857900004
+            ],
+            [
+              -73.07398297599997,
+              43.15731002900003
+            ],
+            [
+              -73.07448799399998,
+              43.156145593000076
+            ],
+            [
+              -73.07533917799998,
+              43.155220428000064
+            ],
+            [
+              -73.07631009699998,
+              43.15501409700005
+            ],
+            [
+              -73.07605219299995,
+              43.15423479900005
+            ],
+            [
+              -73.07475759099998,
+              43.15450390700005
+            ],
+            [
+              -73.07440219499995,
+              43.15432942800004
+            ],
+            [
+              -73.07396936699996,
+              43.154281239000056
+            ],
+            [
+              -73.07361373799995,
+              43.15460677300007
+            ],
+            [
+              -73.07335034499994,
+              43.15449499300007
+            ],
+            [
+              -73.07264195099998,
+              43.154194363000045
+            ],
+            [
+              -73.07261824899996,
+              43.15481320300006
+            ],
+            [
+              -73.07306248399993,
+              43.15503040900006
+            ],
+            [
+              -73.07270334299994,
+              43.15550704000003
+            ],
+            [
+              -73.07190848899995,
+              43.15510093300003
+            ],
+            [
+              -73.07159778199997,
+              43.15603056800006
+            ],
+            [
+              -73.07144373599994,
+              43.15742705900004
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECT_ID": 223,
+        "County": "Bennington",
+        "RPC": "BCRC",
+        "Municipal_Name": "ManchesterVillage",
+        "GEO_ID": "5000342850",
+        "District_Name": "Historic Core District",
+        "Abbreviated_District_Name": "Hcd",
+        "District_Type": "Overlay not Affecting Use",
+        "Bylaw_Date": "2023-09-05",
+        "Elderly_Housing_District": null,
+        "District_Mapped": "Yes",
+        "Overlay_District": "Yes",
+        "Base_Density": null,
+        "GIS_ID": null,
+        "Last_Update": "20150707",
+        "Shape_Length": 0.07018902717080935,
+        "Shape_Area": 4.883447921079087e-05,
+        "F1F_Allowance": null,
+        "F1F_Front_Setback": null,
+        "F1F_Side_Setback": null,
+        "F1F_Rear_Setback": null,
+        "F1F_Frontage": null,
+        "F1F_Max_Height": null,
+        "F1F_Max_Stories": null,
+        "F1F_Min_Lot_Size": null,
+        "F1F_Max_Lot_Building_Coverage": null,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": null,
+        "F1F_Elderly_Housing_Only": null,
+        "F1F_Affordable_Housing_Only": null,
+        "F2F_Allowance": null,
+        "F2F_Front_Setback": null,
+        "F2F_Side_Setback": null,
+        "F2F_Rear_Setback": null,
+        "F2F_Frontage": null,
+        "F2F_Max_Density": null,
+        "F2F_Max_Height": null,
+        "F2F_Max_Stories": null,
+        "F2F_Min_Lot_Size": null,
+        "F2F_Max_Lot_Building_Coverage": null,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": null,
+        "F2F_Min_Parking_Spaces_per_mult_BR": null,
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Affordable_Housing_Only": "No",
+        "F3F_Allowance": null,
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Density": null,
+        "F3F_Max_Height": null,
+        "F3F_Max_Stories": null,
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Connection_to_Sewage/Water_Required": "No",
+        "F4F_Allowance": null,
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F1F_Max_Density": null,
+        "F4F_Max_Density": null,
+        "F4F_Max_Height": null,
+        "F4F_Max_Stories": null,
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Elderly_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Connection_to_Sewage/Water_Required": "No",
+        "ADU_Allowance": null,
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Min_Lot_Size": null,
+        "ADU_Max_Bedrooms": null,
+        "ADU_Min_Parking_Spaces": null,
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "Affordable_Housing_Allowance": null,
+        "Affordable_Housing_District": null,
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "PRD_Allowance": null,
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PRD_Min_Lot_Size": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PUD_Allowance": null,
+        "PUD_Required_with_Subdivision": null,
+        "PUD_Requires_Land_Conservation": null,
+        "PUD_Threshold_Number": null,
+        "Notes": "None",
+        "FIPS6": 3025
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.06010257699995,
+              43.172078319000036
+            ],
+            [
+              -73.06052815799995,
+              43.172095513000045
+            ],
+            [
+              -73.06116791799997,
+              43.171827465000035
+            ],
+            [
+              -73.06216717799998,
+              43.170529084000066
+            ],
+            [
+              -73.05998874599999,
+              43.169255504000034
+            ],
+            [
+              -73.05990191899997,
+              43.169342709000034
+            ],
+            [
+              -73.05934838399997,
+              43.16920272900006
+            ],
+            [
+              -73.05904078099996,
+              43.16927019600007
+            ],
+            [
+              -73.05899819799998,
+              43.16932054500006
+            ],
+            [
+              -73.05891976899994,
+              43.169275148000054
+            ],
+            [
+              -73.05856264899995,
+              43.16930706000005
+            ],
+            [
+              -73.05832779099995,
+              43.16921798100003
+            ],
+            [
+              -73.05810338899994,
+              43.169221959000026
+            ],
+            [
+              -73.05782921099996,
+              43.16907723300005
+            ],
+            [
+              -73.05776862599998,
+              43.16896550100006
+            ],
+            [
+              -73.05779930399996,
+              43.168873648000044
+            ],
+            [
+              -73.05762030299996,
+              43.168756588000065
+            ],
+            [
+              -73.05759267099995,
+              43.16867634100004
+            ],
+            [
+              -73.05749173799995,
+              43.16864940600004
+            ],
+            [
+              -73.05744868199997,
+              43.16856346900005
+            ],
+            [
+              -73.05723124699995,
+              43.168488086000025
+            ],
+            [
+              -73.05699883899996,
+              43.16849878100004
+            ],
+            [
+              -73.05678794999994,
+              43.16859397300004
+            ],
+            [
+              -73.05643428699995,
+              43.16837128800006
+            ],
+            [
+              -73.05600717899995,
+              43.168186020000064
+            ],
+            [
+              -73.05570276499998,
+              43.16818109900004
+            ],
+            [
+              -73.05563475199995,
+              43.16813972700004
+            ],
+            [
+              -73.05550496399997,
+              43.168151539000064
+            ],
+            [
+              -73.05535628299998,
+              43.168283838000036
+            ],
+            [
+              -73.05512505699994,
+              43.16821280800008
+            ],
+            [
+              -73.05514268799993,
+              43.168249994000064
+            ],
+            [
+              -73.05508854099998,
+              43.16825447600007
+            ],
+            [
+              -73.05503206499998,
+              43.16817148600006
+            ],
+            [
+              -73.05518291099997,
+              43.16815092200005
+            ],
+            [
+              -73.05517083199999,
+              43.16804774500008
+            ],
+            [
+              -73.05491305999993,
+              43.16805849000008
+            ],
+            [
+              -73.05466423399997,
+              43.16786848400005
+            ],
+            [
+              -73.05464011499998,
+              43.16766634800007
+            ],
+            [
+              -73.05429856999996,
+              43.16747673100008
+            ],
+            [
+              -73.05421571899996,
+              43.16752029200006
+            ],
+            [
+              -73.05412173099995,
+              43.16763145700003
+            ],
+            [
+              -73.05387377299996,
+              43.16819275100005
+            ],
+            [
+              -73.05335266299994,
+              43.16855230500005
+            ],
+            [
+              -73.05320225399998,
+              43.16877617700004
+            ],
+            [
+              -73.05291918899997,
+              43.16882663800004
+            ],
+            [
+              -73.05289219499997,
+              43.16887586000007
+            ],
+            [
+              -73.05306397599998,
+              43.16899329600005
+            ],
+            [
+              -73.05327914999998,
+              43.16885167400005
+            ],
+            [
+              -73.05336143899996,
+              43.16884904500006
+            ],
+            [
+              -73.05335618799995,
+              43.16894279200005
+            ],
+            [
+              -73.05316281699999,
+              43.169135631000074
+            ],
+            [
+              -73.05282879099997,
+              43.16928228900008
+            ],
+            [
+              -73.05235320499997,
+              43.169282355000064
+            ],
+            [
+              -73.05215898299997,
+              43.169353631000035
+            ],
+            [
+              -73.05202144799995,
+              43.16953589800005
+            ],
+            [
+              -73.05190418399997,
+              43.16972300600003
+            ],
+            [
+              -73.05183959999994,
+              43.16980029800004
+            ],
+            [
+              -73.05187979799996,
+              43.16992065100004
+            ],
+            [
+              -73.05183740499996,
+              43.17057238900003
+            ],
+            [
+              -73.05188082899997,
+              43.170654744000046
+            ],
+            [
+              -73.05197170299994,
+              43.170589593000045
+            ],
+            [
+              -73.05224669699999,
+              43.17065744100006
+            ],
+            [
+              -73.05227367099997,
+              43.170605988000034
+            ],
+            [
+              -73.05203252699994,
+              43.17023450000005
+            ],
+            [
+              -73.05207476399994,
+              43.170185203000074
+            ],
+            [
+              -73.05246135599998,
+              43.17045780600006
+            ],
+            [
+              -73.05259050999996,
+              43.17091909200008
+            ],
+            [
+              -73.05226644399994,
+              43.17115719000003
+            ],
+            [
+              -73.05201642399999,
+              43.171493113000054
+            ],
+            [
+              -73.05167331699994,
+              43.171648738000044
+            ],
+            [
+              -73.05147742499997,
+              43.17192576200006
+            ],
+            [
+              -73.05162019599999,
+              43.171928679000075
+            ],
+            [
+              -73.05214065799998,
+              43.17193316000004
+            ],
+            [
+              -73.05268536999995,
+              43.171937849000074
+            ],
+            [
+              -73.05293841199995,
+              43.17194002700006
+            ],
+            [
+              -73.05788119399995,
+              43.17200183800003
+            ],
+            [
+              -73.06010257699995,
+              43.172078319000036
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECT_ID": 224,
+        "County": "Bennington",
+        "RPC": "BCRC",
+        "Municipal_Name": "ManchesterVillage",
+        "GEO_ID": "5000342850",
+        "District_Name": "Multiple Dwelling",
+        "Abbreviated_District_Name": "Mr",
+        "District_Type": "Primarily Residential",
+        "Bylaw_Date": "2023-09-05",
+        "Elderly_Housing_District": "No",
+        "District_Mapped": "Yes",
+        "Overlay_District": "No",
+        "Base_Density": null,
+        "GIS_ID": null,
+        "Last_Update": "20150707",
+        "Shape_Length": 0.030025997035688885,
+        "Shape_Area": 3.012701044427507e-05,
+        "F1F_Allowance": "Permitted",
+        "F1F_Front_Setback": 30,
+        "F1F_Side_Setback": 15,
+        "F1F_Rear_Setback": 40,
+        "F1F_Frontage": 100,
+        "F1F_Max_Height": 35,
+        "F1F_Max_Stories": null,
+        "F1F_Min_Lot_Size": null,
+        "F1F_Max_Lot_Building_Coverage": 20,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": null,
+        "F1F_Elderly_Housing_Only": null,
+        "F1F_Affordable_Housing_Only": null,
+        "F2F_Allowance": "Permitted",
+        "F2F_Front_Setback": 30,
+        "F2F_Side_Setback": 15,
+        "F2F_Rear_Setback": 40,
+        "F2F_Frontage": 100,
+        "F2F_Max_Density": null,
+        "F2F_Max_Height": 35,
+        "F2F_Max_Stories": null,
+        "F2F_Min_Lot_Size": null,
+        "F2F_Max_Lot_Building_Coverage": 20,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": null,
+        "F2F_Min_Parking_Spaces_per_mult_BR": null,
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Affordable_Housing_Only": "No",
+        "F3F_Allowance": "Permitted",
+        "F3F_Front_Setback": 30,
+        "F3F_Side_Setback": 15,
+        "F3F_Rear_Setback": 40,
+        "F3F_Frontage": 100,
+        "F3F_Max_Density": null,
+        "F3F_Max_Height": 35,
+        "F3F_Max_Stories": null,
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Lot_Building_Coverage": 20,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Connection_to_Sewage/Water_Required": "No",
+        "F4F_Allowance": "Permitted",
+        "F4F_Front_Setback": 30,
+        "F4F_Side_Setback": 15,
+        "F4F_Rear_Setback": 40,
+        "F4F_Frontage": 100,
+        "F1F_Max_Density": null,
+        "F4F_Max_Density": null,
+        "F4F_Max_Height": 35,
+        "F4F_Max_Stories": null,
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Lot_Building_Coverage": 20,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Elderly_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Connection_to_Sewage/Water_Required": "No",
+        "ADU_Allowance": "Allowed/Conditional",
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Min_Lot_Size": 30,
+        "ADU_Max_Bedrooms": null,
+        "ADU_Min_Parking_Spaces": null,
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "Affordable_Housing_Allowance": "Not Mentioned",
+        "Affordable_Housing_District": "No",
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "PRD_Allowance": null,
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PRD_Min_Lot_Size": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PUD_Allowance": "Yes",
+        "PUD_Required_with_Subdivision": null,
+        "PUD_Requires_Land_Conservation": null,
+        "PUD_Threshold_Number": null,
+        "Notes": " Adus Require A Public Hearing If Detached From Principal Structure ",
+        "FIPS6": 3025
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.06054304899999,
+                43.16112446600005
+              ],
+              [
+                -73.05682202599996,
+                43.161162035000075
+              ],
+              [
+                -73.05569209699996,
+                43.16114884400008
+              ],
+              [
+                -73.05568080199998,
+                43.161148730000036
+              ],
+              [
+                -73.05573735499996,
+                43.16146119500007
+              ],
+              [
+                -73.05569948299996,
+                43.16201226800007
+              ],
+              [
+                -73.05573371099996,
+                43.16208792300006
+              ],
+              [
+                -73.05571942699999,
+                43.16236412300003
+              ],
+              [
+                -73.05546419499996,
+                43.16290360700003
+              ],
+              [
+                -73.05551164699995,
+                43.16290431600004
+              ],
+              [
+                -73.06951769999995,
+                43.163099706000025
+              ],
+              [
+                -73.07001599699998,
+                43.16311144600007
+              ],
+              [
+                -73.07004123999997,
+                43.16301333800004
+              ],
+              [
+                -73.07015378999995,
+                43.16296241600003
+              ],
+              [
+                -73.07088618499995,
+                43.162983945000065
+              ],
+              [
+                -73.07095329199996,
+                43.16227495800007
+              ],
+              [
+                -73.07103458199998,
+                43.16203353900005
+              ],
+              [
+                -73.07104486799994,
+                43.16155505800003
+              ],
+              [
+                -73.07095120599996,
+                43.16152315100004
+              ],
+              [
+                -73.07096599199997,
+                43.161442313000066
+              ],
+              [
+                -73.06991624999995,
+                43.16141884000007
+              ],
+              [
+                -73.06319728499994,
+                43.16126213000007
+              ],
+              [
+                -73.06054304899999,
+                43.16112446600005
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -73.08402661899999,
+                43.14974407500006
+              ],
+              [
+                -73.07957338499995,
+                43.15214575300007
+              ],
+              [
+                -73.07868056599995,
+                43.152521902000046
+              ],
+              [
+                -73.07791252399994,
+                43.15296066900004
+              ],
+              [
+                -73.07626972599996,
+                43.153403841000056
+              ],
+              [
+                -73.07445810499996,
+                43.15369760300007
+              ],
+              [
+                -73.07380840599996,
+                43.15409226000003
+              ],
+              [
+                -73.07335034499994,
+                43.15449499300007
+              ],
+              [
+                -73.07361373799995,
+                43.15460677300007
+              ],
+              [
+                -73.07396936699996,
+                43.154281239000056
+              ],
+              [
+                -73.07440219499995,
+                43.15432942800004
+              ],
+              [
+                -73.07475759099998,
+                43.15450390700005
+              ],
+              [
+                -73.07605219299995,
+                43.15423479900005
+              ],
+              [
+                -73.07631009699998,
+                43.15501409700005
+              ],
+              [
+                -73.07895713499994,
+                43.15464872200005
+              ],
+              [
+                -73.08141732799999,
+                43.153382246000035
+              ],
+              [
+                -73.08142252399995,
+                43.15749015400007
+              ],
+              [
+                -73.08085649999998,
+                43.15752173100003
+              ],
+              [
+                -73.08032617099997,
+                43.15755131600008
+              ],
+              [
+                -73.07741226599995,
+                43.15726759300003
+              ],
+              [
+                -73.07742334399995,
+                43.15792223100004
+              ],
+              [
+                -73.07965539299994,
+                43.15805483300005
+              ],
+              [
+                -73.07961868699994,
+                43.15885000500003
+              ],
+              [
+                -73.08148058499995,
+                43.15916391900004
+              ],
+              [
+                -73.08130523399996,
+                43.15947058800003
+              ],
+              [
+                -73.07861470199998,
+                43.161325712000064
+              ],
+              [
+                -73.07741028199996,
+                43.162274929000034
+              ],
+              [
+                -73.07537015899999,
+                43.162188083000046
+              ],
+              [
+                -73.07536443399994,
+                43.16225874600008
+              ],
+              [
+                -73.07528648399995,
+                43.16322090400007
+              ],
+              [
+                -73.07523351199995,
+                43.16321941500007
+              ],
+              [
+                -73.07520576399997,
+                43.16321863500008
+              ],
+              [
+                -73.07351271499994,
+                43.16317967300006
+              ],
+              [
+                -73.07334392199994,
+                43.16317802300006
+              ],
+              [
+                -73.07301083999994,
+                43.16317476800003
+              ],
+              [
+                -73.07295974399995,
+                43.16349157900004
+              ],
+              [
+                -73.07300790299996,
+                43.16391221100008
+              ],
+              [
+                -73.07203902599997,
+                43.163827129000026
+              ],
+              [
+                -73.07193483299994,
+                43.16477371700006
+              ],
+              [
+                -73.07184093099994,
+                43.16477349200005
+              ],
+              [
+                -73.07144831499994,
+                43.164772551000056
+              ],
+              [
+                -73.07146092699998,
+                43.165071057000034
+              ],
+              [
+                -73.07140709399994,
+                43.16510957700007
+              ],
+              [
+                -73.07139358199998,
+                43.165119246000074
+              ],
+              [
+                -73.07132423999997,
+                43.165168864000066
+              ],
+              [
+                -73.07132178699999,
+                43.16594624100003
+              ],
+              [
+                -73.07083088199994,
+                43.16601667200007
+              ],
+              [
+                -73.07082988699995,
+                43.16643755100006
+              ],
+              [
+                -73.07041646699997,
+                43.166371266000056
+              ],
+              [
+                -73.07009156699996,
+                43.166817061000074
+              ],
+              [
+                -73.07004283099997,
+                43.166883932000076
+              ],
+              [
+                -73.07027790899997,
+                43.16698617700007
+              ],
+              [
+                -73.07032902299994,
+                43.16700840900006
+              ],
+              [
+                -73.07003275199997,
+                43.167399173000035
+              ],
+              [
+                -73.06996490999995,
+                43.16748865200003
+              ],
+              [
+                -73.07032563699994,
+                43.16763447200003
+              ],
+              [
+                -73.07121887199997,
+                43.16812333100006
+              ],
+              [
+                -73.07108330799997,
+                43.17215313000003
+              ],
+              [
+                -73.07095252499994,
+                43.172146103000046
+              ],
+              [
+                -73.07073981099995,
+                43.171961845000055
+              ],
+              [
+                -73.07031628199996,
+                43.17179716900006
+              ],
+              [
+                -73.06648371599994,
+                43.17170501700008
+              ],
+              [
+                -73.06633779099997,
+                43.17144011400006
+              ],
+              [
+                -73.06757699199994,
+                43.170371472000056
+              ],
+              [
+                -73.06856142599997,
+                43.16939092400003
+              ],
+              [
+                -73.06944790699998,
+                43.16840641300007
+              ],
+              [
+                -73.06965324299995,
+                43.167795968000064
+              ],
+              [
+                -73.06973397699994,
+                43.16749340000007
+              ],
+              [
+                -73.06858847999996,
+                43.166916349000076
+              ],
+              [
+                -73.06876850099997,
+                43.166721205000044
+              ],
+              [
+                -73.06809284099995,
+                43.16635607400008
+              ],
+              [
+                -73.06638726099999,
+                43.16857358800007
+              ],
+              [
+                -73.06540980399996,
+                43.169653278000055
+              ],
+              [
+                -73.06356610299997,
+                43.17137952000007
+              ],
+              [
+                -73.06289410099998,
+                43.172180171000036
+              ],
+              [
+                -73.06316207399993,
+                43.17219045600007
+              ],
+              [
+                -73.06441843099998,
+                43.172230186000036
+              ],
+              [
+                -73.06461945399997,
+                43.17223207700005
+              ],
+              [
+                -73.06658314999999,
+                43.17224839000005
+              ],
+              [
+                -73.06653699399999,
+                43.17263754600003
+              ],
+              [
+                -73.06709563399994,
+                43.17271111400004
+              ],
+              [
+                -73.06736555099997,
+                43.17334304500008
+              ],
+              [
+                -73.06850035499997,
+                43.173414628000046
+              ],
+              [
+                -73.06942461499995,
+                43.17353550800004
+              ],
+              [
+                -73.06976945599996,
+                43.17374613700008
+              ],
+              [
+                -73.07011779699997,
+                43.17433317900003
+              ],
+              [
+                -73.07062367699996,
+                43.17484221600006
+              ],
+              [
+                -73.07059516799995,
+                43.17602956300004
+              ],
+              [
+                -73.07037324199996,
+                43.17769082500007
+              ],
+              [
+                -73.07045382699994,
+                43.17926371000004
+              ],
+              [
+                -73.07009652199997,
+                43.181640119000065
+              ],
+              [
+                -73.07083578399994,
+                43.181657451000035
+              ],
+              [
+                -73.07090645699998,
+                43.181020413000056
+              ],
+              [
+                -73.07091109899994,
+                43.18097823800008
+              ],
+              [
+                -73.07092074199994,
+                43.18089061200004
+              ],
+              [
+                -73.07092212099997,
+                43.18087808700005
+              ],
+              [
+                -73.07095107699996,
+                43.18061499600003
+              ],
+              [
+                -73.07099707999998,
+                43.180260118000035
+              ],
+              [
+                -73.07112727099997,
+                43.17931975600004
+              ],
+              [
+                -73.07281228799997,
+                43.179369542000074
+              ],
+              [
+                -73.07299097399994,
+                43.17696349200003
+              ],
+              [
+                -73.07319853799999,
+                43.176728524000055
+              ],
+              [
+                -73.07327238699997,
+                43.176502424000034
+              ],
+              [
+                -73.07324539399997,
+                43.176102515000025
+              ],
+              [
+                -73.07312538799994,
+                43.17582387500005
+              ],
+              [
+                -73.07319235599994,
+                43.17285312400003
+              ],
+              [
+                -73.07326659599994,
+                43.16977131700003
+              ],
+              [
+                -73.07353285299996,
+                43.16722183300004
+              ],
+              [
+                -73.07387118299994,
+                43.167226920000076
+              ],
+              [
+                -73.07449559199995,
+                43.16723630700005
+              ],
+              [
+                -73.07528021599995,
+                43.16653741500005
+              ],
+              [
+                -73.07539621799998,
+                43.164847716000054
+              ],
+              [
+                -73.07711038699995,
+                43.16484873500008
+              ],
+              [
+                -73.07765879899995,
+                43.16440001500007
+              ],
+              [
+                -73.07877215299999,
+                43.16348904800003
+              ],
+              [
+                -73.07917446899995,
+                43.163250978000065
+              ],
+              [
+                -73.08051606099997,
+                43.16245709200007
+              ],
+              [
+                -73.08182399699996,
+                43.16134045800004
+              ],
+              [
+                -73.08321126499999,
+                43.16025236000007
+              ],
+              [
+                -73.08370537599995,
+                43.159525933000054
+              ],
+              [
+                -73.08364503299998,
+                43.157688233000044
+              ],
+              [
+                -73.08371475799999,
+                43.15211679300006
+              ],
+              [
+                -73.08518973799994,
+                43.15125169200007
+              ],
+              [
+                -73.08492777999999,
+                43.15119721700006
+              ],
+              [
+                -73.08429046699996,
+                43.15068056400003
+              ],
+              [
+                -73.08539494499996,
+                43.14998742500006
+              ],
+              [
+                -73.08402661899999,
+                43.14974407500006
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -73.07015752799998,
+                43.14353604300004
+              ],
+              [
+                -73.06872270299993,
+                43.14489017000005
+              ],
+              [
+                -73.06775958999998,
+                43.14525076900003
+              ],
+              [
+                -73.06646017999998,
+                43.14632243300008
+              ],
+              [
+                -73.06564193799994,
+                43.14724690700007
+              ],
+              [
+                -73.06512669299997,
+                43.14809575100003
+              ],
+              [
+                -73.06485665799994,
+                43.149005155000054
+              ],
+              [
+                -73.06488725799994,
+                43.14957949800004
+              ],
+              [
+                -73.06669866199996,
+                43.15113341000006
+              ],
+              [
+                -73.06676883699998,
+                43.15142339800008
+              ],
+              [
+                -73.06654247299997,
+                43.15157895300007
+              ],
+              [
+                -73.06652178499996,
+                43.15207942100005
+              ],
+              [
+                -73.06665358599997,
+                43.15264708400008
+              ],
+              [
+                -73.06756138499998,
+                43.15410043900005
+              ],
+              [
+                -73.06803063199999,
+                43.154660249000074
+              ],
+              [
+                -73.06950936399994,
+                43.15580188500007
+              ],
+              [
+                -73.07070684299998,
+                43.156636037000055
+              ],
+              [
+                -73.07130223899998,
+                43.15714578500007
+              ],
+              [
+                -73.07144373599994,
+                43.15742705900004
+              ],
+              [
+                -73.07159778199997,
+                43.15603056800006
+              ],
+              [
+                -73.07190848899995,
+                43.15510093300003
+              ],
+              [
+                -73.06992780099995,
+                43.15368961300004
+              ],
+              [
+                -73.06906490099993,
+                43.15267509800003
+              ],
+              [
+                -73.06879046799997,
+                43.15209234400004
+              ],
+              [
+                -73.06903689599994,
+                43.151656427000034
+              ],
+              [
+                -73.06904157199995,
+                43.151160583000035
+              ],
+              [
+                -73.06892685599996,
+                43.150794381000026
+              ],
+              [
+                -73.06871868699994,
+                43.15035393200003
+              ],
+              [
+                -73.06732473899996,
+                43.14908394300005
+              ],
+              [
+                -73.06727565899996,
+                43.148792127000036
+              ],
+              [
+                -73.06759421799995,
+                43.14813171600008
+              ],
+              [
+                -73.06782315699996,
+                43.147811353000066
+              ],
+              [
+                -73.06825628399997,
+                43.14750355900003
+              ],
+              [
+                -73.06835605099997,
+                43.14725854900007
+              ],
+              [
+                -73.06985863999995,
+                43.146245848000035
+              ],
+              [
+                -73.07053271799998,
+                43.14591646900004
+              ],
+              [
+                -73.07275021099997,
+                43.14399002500005
+              ],
+              [
+                -73.07292206999995,
+                43.143617455000026
+              ],
+              [
+                -73.07166740199995,
+                43.14358051200003
+              ],
+              [
+                -73.07015752799998,
+                43.14353604300004
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECT_ID": 225,
+        "County": "Bennington",
+        "RPC": "BCRC",
+        "Municipal_Name": "ManchesterVillage",
+        "GEO_ID": "5000342850",
+        "District_Name": "Preservation District",
+        "Abbreviated_District_Name": "Pd",
+        "District_Type": "Overlay not Affecting Use",
+        "Bylaw_Date": "2023-09-05",
+        "Elderly_Housing_District": "No",
+        "District_Mapped": "Yes",
+        "Overlay_District": "Yes",
+        "Base_Density": null,
+        "GIS_ID": null,
+        "Last_Update": "20150707",
+        "Shape_Length": 0.21341522286703482,
+        "Shape_Area": 0.0001879434927648289,
+        "F1F_Allowance": null,
+        "F1F_Front_Setback": null,
+        "F1F_Side_Setback": null,
+        "F1F_Rear_Setback": null,
+        "F1F_Frontage": null,
+        "F1F_Max_Height": null,
+        "F1F_Max_Stories": null,
+        "F1F_Min_Lot_Size": null,
+        "F1F_Max_Lot_Building_Coverage": null,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": null,
+        "F1F_Elderly_Housing_Only": null,
+        "F1F_Affordable_Housing_Only": null,
+        "F2F_Allowance": null,
+        "F2F_Front_Setback": null,
+        "F2F_Side_Setback": null,
+        "F2F_Rear_Setback": null,
+        "F2F_Frontage": null,
+        "F2F_Max_Density": null,
+        "F2F_Max_Height": null,
+        "F2F_Max_Stories": null,
+        "F2F_Min_Lot_Size": null,
+        "F2F_Max_Lot_Building_Coverage": null,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": null,
+        "F2F_Min_Parking_Spaces_per_mult_BR": null,
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Affordable_Housing_Only": "No",
+        "F3F_Allowance": null,
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Density": null,
+        "F3F_Max_Height": null,
+        "F3F_Max_Stories": null,
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Connection_to_Sewage/Water_Required": "No",
+        "F4F_Allowance": null,
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F1F_Max_Density": null,
+        "F4F_Max_Density": null,
+        "F4F_Max_Height": null,
+        "F4F_Max_Stories": null,
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Elderly_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Connection_to_Sewage/Water_Required": "No",
+        "ADU_Allowance": null,
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Min_Lot_Size": null,
+        "ADU_Max_Bedrooms": null,
+        "ADU_Min_Parking_Spaces": null,
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "Affordable_Housing_Allowance": null,
+        "Affordable_Housing_District": "No",
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "PRD_Allowance": null,
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PRD_Min_Lot_Size": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PUD_Allowance": null,
+        "PUD_Required_with_Subdivision": null,
+        "PUD_Requires_Land_Conservation": null,
+        "PUD_Threshold_Number": null,
+        "Notes": "District Description Does not Provide Specific Quantitative Dimensional Or Use Restrictions. But  ",
+        "FIPS6": 3025
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.05682202599996,
+              43.161162035000075
+            ],
+            [
+              -73.05679320699994,
+              43.16138738300003
+            ],
+            [
+              -73.05705461899998,
+              43.161399965000044
+            ],
+            [
+              -73.05691353099996,
+              43.162027454000054
+            ],
+            [
+              -73.05574875899998,
+              43.162087152000026
+            ],
+            [
+              -73.05573371099996,
+              43.16208792300006
+            ],
+            [
+              -73.05571942699999,
+              43.16236412300003
+            ],
+            [
+              -73.05546419499996,
+              43.16290360700003
+            ],
+            [
+              -73.05536297599997,
+              43.163902920000055
+            ],
+            [
+              -73.05537479499998,
+              43.16413794500005
+            ],
+            [
+              -73.05531344699995,
+              43.164257570000075
+            ],
+            [
+              -73.05519688399994,
+              43.16440793100003
+            ],
+            [
+              -73.05511412899995,
+              43.16446164900003
+            ],
+            [
+              -73.05501683499995,
+              43.16444181000003
+            ],
+            [
+              -73.05484973899996,
+              43.16458181200005
+            ],
+            [
+              -73.05469640199993,
+              43.16506031500006
+            ],
+            [
+              -73.05469709099998,
+              43.165519852000045
+            ],
+            [
+              -73.05475853599995,
+              43.16565186300005
+            ],
+            [
+              -73.05477215399998,
+              43.165765760000056
+            ],
+            [
+              -73.05552128899996,
+              43.16583940500004
+            ],
+            [
+              -73.05876328799997,
+              43.165768625000055
+            ],
+            [
+              -73.05974368099999,
+              43.16590237200006
+            ],
+            [
+              -73.06069551699994,
+              43.16631684400005
+            ],
+            [
+              -73.06065011399994,
+              43.16647881200004
+            ],
+            [
+              -73.06097636899995,
+              43.167443400000025
+            ],
+            [
+              -73.06198382799994,
+              43.16754978000006
+            ],
+            [
+              -73.06312527899996,
+              43.167558091000046
+            ],
+            [
+              -73.06516861499995,
+              43.16760033700007
+            ],
+            [
+              -73.06666329599994,
+              43.16694954700006
+            ],
+            [
+              -73.06726032199998,
+              43.16651557000006
+            ],
+            [
+              -73.06782651499998,
+              43.16590698700003
+            ],
+            [
+              -73.06831472599998,
+              43.16480504200007
+            ],
+            [
+              -73.06859418099998,
+              43.164811314000076
+            ],
+            [
+              -73.06887371199997,
+              43.16392919300006
+            ],
+            [
+              -73.06892519599995,
+              43.16393129200003
+            ],
+            [
+              -73.06922206399997,
+              43.16361196400004
+            ],
+            [
+              -73.06951769999995,
+              43.163099706000025
+            ],
+            [
+              -73.07005569699999,
+              43.162167500000066
+            ],
+            [
+              -73.07006652799998,
+              43.16171652300005
+            ],
+            [
+              -73.06991624999995,
+              43.16141884000007
+            ],
+            [
+              -73.06966203799993,
+              43.16091527400005
+            ],
+            [
+              -73.06230244299996,
+              43.16063989600008
+            ],
+            [
+              -73.06226503999994,
+              43.15827914700003
+            ],
+            [
+              -73.05759486299996,
+              43.15818533300006
+            ],
+            [
+              -73.05493363899996,
+              43.15823223900003
+            ],
+            [
+              -73.05498306499999,
+              43.15825450300008
+            ],
+            [
+              -73.05498842799994,
+              43.15827392300008
+            ],
+            [
+              -73.05465965699995,
+              43.15826929700006
+            ],
+            [
+              -73.05531790599997,
+              43.158681655000066
+            ],
+            [
+              -73.05544765099995,
+              43.15892432600003
+            ],
+            [
+              -73.05538661299994,
+              43.159556259000055
+            ],
+            [
+              -73.05544587099996,
+              43.15957371500008
+            ],
+            [
+              -73.05597737699998,
+              43.15973028800005
+            ],
+            [
+              -73.05695449199999,
+              43.16027596400005
+            ],
+            [
+              -73.05682202599996,
+              43.161162035000075
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECT_ID": 226,
+        "County": "Bennington",
+        "RPC": "BCRC",
+        "Municipal_Name": "ManchesterVillage",
+        "GEO_ID": "5000342850",
+        "District_Name": "Rural Residential 1",
+        "Abbreviated_District_Name": "Rr1",
+        "District_Type": "Primarily Residential",
+        "Bylaw_Date": "2023-09-05",
+        "Elderly_Housing_District": "No",
+        "District_Mapped": "Yes",
+        "Overlay_District": "No",
+        "Base_Density": null,
+        "GIS_ID": null,
+        "Last_Update": "20150707",
+        "Shape_Length": 0.04869053359771918,
+        "Shape_Area": 9.555501400317595e-05,
+        "F1F_Allowance": "Permitted",
+        "F1F_Front_Setback": 50,
+        "F1F_Side_Setback": 30,
+        "F1F_Rear_Setback": 40,
+        "F1F_Frontage": 200,
+        "F1F_Max_Height": 35,
+        "F1F_Max_Stories": null,
+        "F1F_Min_Lot_Size": 3,
+        "F1F_Max_Lot_Building_Coverage": 10,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": 2,
+        "F1F_Elderly_Housing_Only": null,
+        "F1F_Affordable_Housing_Only": null,
+        "F2F_Allowance": "Permitted",
+        "F2F_Front_Setback": 50,
+        "F2F_Side_Setback": 30,
+        "F2F_Rear_Setback": 40,
+        "F2F_Frontage": 200,
+        "F2F_Max_Density": null,
+        "F2F_Max_Height": 35,
+        "F2F_Max_Stories": null,
+        "F2F_Min_Lot_Size": 6,
+        "F2F_Max_Lot_Building_Coverage": 10,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": 2,
+        "F2F_Min_Parking_Spaces_per_mult_BR": 2,
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Affordable_Housing_Only": "No",
+        "F3F_Allowance": "Prohibited",
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Density": null,
+        "F3F_Max_Height": null,
+        "F3F_Max_Stories": null,
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Connection_to_Sewage/Water_Required": "No",
+        "F4F_Allowance": "Prohibited",
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F1F_Max_Density": null,
+        "F4F_Max_Density": null,
+        "F4F_Max_Height": null,
+        "F4F_Max_Stories": null,
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Elderly_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Connection_to_Sewage/Water_Required": "No",
+        "ADU_Allowance": "Public Hearing",
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": 30,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Min_Lot_Size": null,
+        "ADU_Max_Bedrooms": null,
+        "ADU_Min_Parking_Spaces": 2,
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "Affordable_Housing_Allowance": "Not Mentioned",
+        "Affordable_Housing_District": "No",
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "PRD_Allowance": "Allowed/Conditional",
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PRD_Min_Lot_Size": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PUD_Allowance": "Yes",
+        "PUD_Required_with_Subdivision": "F",
+        "PUD_Requires_Land_Conservation": "T",
+        "PUD_Threshold_Number": 0,
+        "Notes": " Adus Require A Public Hearing If Detached From Principal Structure ",
+        "FIPS6": 3025
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.07126012199996,
+                43.16594467700003
+              ],
+              [
+                -73.07080328599994,
+                43.16595377800007
+              ],
+              [
+                -73.07080104399995,
+                43.16641469600006
+              ],
+              [
+                -73.07035923999996,
+                43.166346575000034
+              ],
+              [
+                -73.07002860199998,
+                43.16678542900007
+              ],
+              [
+                -73.07009156699996,
+                43.166817061000074
+              ],
+              [
+                -73.07032203799997,
+                43.16693284300004
+              ],
+              [
+                -73.07027790899997,
+                43.16698617700007
+              ],
+              [
+                -73.06996253299997,
+                43.167367341000045
+              ],
+              [
+                -73.07003275199997,
+                43.167399173000035
+              ],
+              [
+                -73.07038357999994,
+                43.16755821300006
+              ],
+              [
+                -73.07032563699994,
+                43.16763447200003
+              ],
+              [
+                -73.06998061099995,
+                43.16807169000003
+              ],
+              [
+                -73.06934472999995,
+                43.16965940400007
+              ],
+              [
+                -73.06856142599997,
+                43.16939092400003
+              ],
+              [
+                -73.06793712799998,
+                43.169176943000025
+              ],
+              [
+                -73.06726444999998,
+                43.16986861500004
+              ],
+              [
+                -73.06693535699998,
+                43.17035442800005
+              ],
+              [
+                -73.06595937299994,
+                43.17124858200003
+              ],
+              [
+                -73.06520147499998,
+                43.17137258400004
+              ],
+              [
+                -73.06506702599995,
+                43.171629721000045
+              ],
+              [
+                -73.06487899599995,
+                43.171536063000076
+              ],
+              [
+                -73.06461945399997,
+                43.17223207700005
+              ],
+              [
+                -73.06658314999999,
+                43.17224839000005
+              ],
+              [
+                -73.06737116199997,
+                43.17217985700006
+              ],
+              [
+                -73.06930320199996,
+                43.17222244000004
+              ],
+              [
+                -73.06963578699998,
+                43.17227873200005
+              ],
+              [
+                -73.06988254999999,
+                43.17240507100007
+              ],
+              [
+                -73.07001867699995,
+                43.17257830500006
+              ],
+              [
+                -73.07047757799995,
+                43.17340493000006
+              ],
+              [
+                -73.07066840299996,
+                43.17350826900008
+              ],
+              [
+                -73.07151849599995,
+                43.17366619300003
+              ],
+              [
+                -73.07155782199999,
+                43.17281401900004
+              ],
+              [
+                -73.07319235599994,
+                43.17285312400003
+              ],
+              [
+                -73.07348799699997,
+                43.172860197000034
+              ],
+              [
+                -73.07387118299994,
+                43.167226920000076
+              ],
+              [
+                -73.07391467599996,
+                43.166587519000075
+              ],
+              [
+                -73.07195428499995,
+                43.16653552100007
+              ],
+              [
+                -73.07196800599996,
+                43.16619388700008
+              ],
+              [
+                -73.07136615299999,
+                43.16614710400006
+              ],
+              [
+                -73.07132178699999,
+                43.16594624100003
+              ],
+              [
+                -73.07126012199996,
+                43.16594467700003
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -73.05477215399998,
+                43.165765760000056
+              ],
+              [
+                -73.05475245599996,
+                43.166017907000025
+              ],
+              [
+                -73.05473974599994,
+                43.16640064100005
+              ],
+              [
+                -73.05447919099998,
+                43.167233690000046
+              ],
+              [
+                -73.05429856999996,
+                43.16747673100008
+              ],
+              [
+                -73.05464011499998,
+                43.16766634800007
+              ],
+              [
+                -73.05466423399997,
+                43.16786848400005
+              ],
+              [
+                -73.05491305999993,
+                43.16805849000008
+              ],
+              [
+                -73.05517083199999,
+                43.16804774500008
+              ],
+              [
+                -73.05518291099997,
+                43.16815092200005
+              ],
+              [
+                -73.05503206499998,
+                43.16817148600006
+              ],
+              [
+                -73.05508854099998,
+                43.16825447600007
+              ],
+              [
+                -73.05514268799993,
+                43.168249994000064
+              ],
+              [
+                -73.05512505699994,
+                43.16821280800008
+              ],
+              [
+                -73.05535628299998,
+                43.168283838000036
+              ],
+              [
+                -73.05550496399997,
+                43.168151539000064
+              ],
+              [
+                -73.05563475199995,
+                43.16813972700004
+              ],
+              [
+                -73.05570276499998,
+                43.16818109900004
+              ],
+              [
+                -73.05600717899995,
+                43.168186020000064
+              ],
+              [
+                -73.05643428699995,
+                43.16837128800006
+              ],
+              [
+                -73.05678794999994,
+                43.16859397300004
+              ],
+              [
+                -73.05699883899996,
+                43.16849878100004
+              ],
+              [
+                -73.05723124699995,
+                43.168488086000025
+              ],
+              [
+                -73.05744868199997,
+                43.16856346900005
+              ],
+              [
+                -73.05749173799995,
+                43.16864940600004
+              ],
+              [
+                -73.05759267099995,
+                43.16867634100004
+              ],
+              [
+                -73.05762030299996,
+                43.168756588000065
+              ],
+              [
+                -73.05779930399996,
+                43.168873648000044
+              ],
+              [
+                -73.05776862599998,
+                43.16896550100006
+              ],
+              [
+                -73.05782921099996,
+                43.16907723300005
+              ],
+              [
+                -73.05810338899994,
+                43.169221959000026
+              ],
+              [
+                -73.05832779099995,
+                43.16921798100003
+              ],
+              [
+                -73.05856264899995,
+                43.16930706000005
+              ],
+              [
+                -73.05891976899994,
+                43.169275148000054
+              ],
+              [
+                -73.05899819799998,
+                43.16932054500006
+              ],
+              [
+                -73.05904078099996,
+                43.16927019600007
+              ],
+              [
+                -73.05934838399997,
+                43.16920272900006
+              ],
+              [
+                -73.05990191899997,
+                43.169342709000034
+              ],
+              [
+                -73.05998874599999,
+                43.169255504000034
+              ],
+              [
+                -73.06216717799998,
+                43.170529084000066
+              ],
+              [
+                -73.06335216199994,
+                43.16899560000007
+              ],
+              [
+                -73.06318454499996,
+                43.16898932200007
+              ],
+              [
+                -73.06296035599996,
+                43.16880723000003
+              ],
+              [
+                -73.06260445699996,
+                43.16872037300004
+              ],
+              [
+                -73.06232399199996,
+                43.16856155200003
+              ],
+              [
+                -73.06212888299996,
+                43.168532553000034
+              ],
+              [
+                -73.06312527899996,
+                43.167558091000046
+              ],
+              [
+                -73.06198382799994,
+                43.16754978000006
+              ],
+              [
+                -73.06097636899995,
+                43.167443400000025
+              ],
+              [
+                -73.06065011399994,
+                43.16647881200004
+              ],
+              [
+                -73.06069551699994,
+                43.16631684400005
+              ],
+              [
+                -73.05974368099999,
+                43.16590237200006
+              ],
+              [
+                -73.05876328799997,
+                43.165768625000055
+              ],
+              [
+                -73.05552128899996,
+                43.16583940500004
+              ],
+              [
+                -73.05477215399998,
+                43.165765760000056
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -73.07547635699996,
+                43.157161194000025
+              ],
+              [
+                -73.07440376699998,
+                43.15729857900004
+              ],
+              [
+                -73.07313604399997,
+                43.15729200100003
+              ],
+              [
+                -73.07313673199997,
+                43.157365628000036
+              ],
+              [
+                -73.07238389299994,
+                43.157352941000056
+              ],
+              [
+                -73.07235009499993,
+                43.158342504000075
+              ],
+              [
+                -73.07139986899995,
+                43.15834345700006
+              ],
+              [
+                -73.07139369199996,
+                43.158628864000036
+              ],
+              [
+                -73.07061819299997,
+                43.15861909200004
+              ],
+              [
+                -73.07059589599999,
+                43.158934843000054
+              ],
+              [
+                -73.07058389299993,
+                43.15910365800005
+              ],
+              [
+                -73.07121819299994,
+                43.15914191300004
+              ],
+              [
+                -73.07135285499999,
+                43.15915433200007
+              ],
+              [
+                -73.07135443899995,
+                43.159364724000056
+              ],
+              [
+                -73.07104226499996,
+                43.15934729500003
+              ],
+              [
+                -73.07099554999996,
+                43.16002503400006
+              ],
+              [
+                -73.07073208599996,
+                43.16094766900005
+              ],
+              [
+                -73.07087239199996,
+                43.16095465400008
+              ],
+              [
+                -73.07092782399997,
+                43.16098636800007
+              ],
+              [
+                -73.07089391599999,
+                43.161200249000046
+              ],
+              [
+                -73.07100950299997,
+                43.161204430000055
+              ],
+              [
+                -73.07119503699994,
+                43.16121114100008
+              ],
+              [
+                -73.07120175399996,
+                43.16152140400004
+              ],
+              [
+                -73.07336495399994,
+                43.161637609000024
+              ],
+              [
+                -73.07341417499998,
+                43.161066117000075
+              ],
+              [
+                -73.07349209199998,
+                43.16107052500007
+              ],
+              [
+                -73.07477480199998,
+                43.161143819000074
+              ],
+              [
+                -73.07480819099999,
+                43.160483587000044
+              ],
+              [
+                -73.07906363399997,
+                43.16066557700003
+              ],
+              [
+                -73.07861470199998,
+                43.161325712000064
+              ],
+              [
+                -73.07884063299997,
+                43.16138429600005
+              ],
+              [
+                -73.07880033299995,
+                43.16155208300006
+              ],
+              [
+                -73.07804742999997,
+                43.16235343900007
+              ],
+              [
+                -73.07816968199995,
+                43.16235922000004
+              ],
+              [
+                -73.08207027699996,
+                43.15939214600007
+              ],
+              [
+                -73.08231936899995,
+                43.15907870800004
+              ],
+              [
+                -73.08240368599996,
+                43.15877257900007
+              ],
+              [
+                -73.08238909199997,
+                43.157923836000066
+              ],
+              [
+                -73.08085304199994,
+                43.157979606000026
+              ],
+              [
+                -73.08085649999998,
+                43.15752173100003
+              ],
+              [
+                -73.08085730899995,
+                43.15737549800008
+              ],
+              [
+                -73.07609967199994,
+                43.15717015400003
+              ],
+              [
+                -73.07547635699996,
+                43.157161194000025
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECT_ID": 227,
+        "County": "Bennington",
+        "RPC": "BCRC",
+        "Municipal_Name": "ManchesterVillage",
+        "GEO_ID": "5000342850",
+        "District_Name": "Rural Residential 2",
+        "Abbreviated_District_Name": "Rr2",
+        "District_Type": "Primarily Residential",
+        "Bylaw_Date": "2023-09-05",
+        "Elderly_Housing_District": "No",
+        "District_Mapped": "Yes",
+        "Overlay_District": "No",
+        "Base_Density": null,
+        "GIS_ID": null,
+        "Last_Update": "20150707",
+        "Shape_Length": 0.093428635586318,
+        "Shape_Area": 9.72622310205455e-05,
+        "F1F_Allowance": "Permitted",
+        "F1F_Front_Setback": 50,
+        "F1F_Side_Setback": 30,
+        "F1F_Rear_Setback": 40,
+        "F1F_Frontage": 200,
+        "F1F_Max_Height": 35,
+        "F1F_Max_Stories": null,
+        "F1F_Min_Lot_Size": null,
+        "F1F_Max_Lot_Building_Coverage": 10,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": 2,
+        "F1F_Elderly_Housing_Only": null,
+        "F1F_Affordable_Housing_Only": null,
+        "F2F_Allowance": "Permitted",
+        "F2F_Front_Setback": 50,
+        "F2F_Side_Setback": 30,
+        "F2F_Rear_Setback": 40,
+        "F2F_Frontage": 200,
+        "F2F_Max_Density": null,
+        "F2F_Max_Height": null,
+        "F2F_Max_Stories": null,
+        "F2F_Min_Lot_Size": null,
+        "F2F_Max_Lot_Building_Coverage": null,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": 2,
+        "F2F_Min_Parking_Spaces_per_mult_BR": 2,
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Affordable_Housing_Only": "No",
+        "F3F_Allowance": "Prohibited",
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Density": null,
+        "F3F_Max_Height": null,
+        "F3F_Max_Stories": null,
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Connection_to_Sewage/Water_Required": "No",
+        "F4F_Allowance": "Prohibited",
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F1F_Max_Density": null,
+        "F4F_Max_Density": null,
+        "F4F_Max_Height": null,
+        "F4F_Max_Stories": null,
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Elderly_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Connection_to_Sewage/Water_Required": "No",
+        "ADU_Allowance": "Allowed/Conditional",
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": 30,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Min_Lot_Size": null,
+        "ADU_Max_Bedrooms": null,
+        "ADU_Min_Parking_Spaces": 2,
+        "ADU_Owner_Occupancy_Required": "Yes",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "Affordable_Housing_Allowance": "Not Mentioned",
+        "Affordable_Housing_District": "No",
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "PRD_Allowance": null,
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PRD_Min_Lot_Size": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PUD_Allowance": null,
+        "PUD_Required_with_Subdivision": null,
+        "PUD_Requires_Land_Conservation": null,
+        "PUD_Threshold_Number": null,
+        "Notes": "None",
+        "FIPS6": 3025
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.06737116199997,
+                43.17217985700006
+              ],
+              [
+                -73.06658314999999,
+                43.17224839000005
+              ],
+              [
+                -73.06653699399999,
+                43.17263754600003
+              ],
+              [
+                -73.06638293999998,
+                43.17395636300006
+              ],
+              [
+                -73.06624896599999,
+                43.17684404800008
+              ],
+              [
+                -73.06078243999997,
+                43.17678405200007
+              ],
+              [
+                -73.06052676499996,
+                43.18139787100006
+              ],
+              [
+                -73.06291015599999,
+                43.18145965800005
+              ],
+              [
+                -73.07009652199997,
+                43.181640119000065
+              ],
+              [
+                -73.07083578399994,
+                43.181657451000035
+              ],
+              [
+                -73.07090645699998,
+                43.181020413000056
+              ],
+              [
+                -73.07091109899994,
+                43.18097823800008
+              ],
+              [
+                -73.07092074199994,
+                43.18089061200004
+              ],
+              [
+                -73.07092212099997,
+                43.18087808700005
+              ],
+              [
+                -73.07095107699996,
+                43.18061499600003
+              ],
+              [
+                -73.07099707999998,
+                43.180260118000035
+              ],
+              [
+                -73.07112727099997,
+                43.17931975600004
+              ],
+              [
+                -73.07281228799997,
+                43.179369542000074
+              ],
+              [
+                -73.07947024299995,
+                43.179534698000055
+              ],
+              [
+                -73.07913594099995,
+                43.17889517500004
+              ],
+              [
+                -73.07305375899995,
+                43.17866215500004
+              ],
+              [
+                -73.07319853799999,
+                43.176728524000055
+              ],
+              [
+                -73.07322049999993,
+                43.176435206000065
+              ],
+              [
+                -73.07324539399997,
+                43.176102515000025
+              ],
+              [
+                -73.07348799699997,
+                43.172860197000034
+              ],
+              [
+                -73.07319235599994,
+                43.17285312400003
+              ],
+              [
+                -73.07155782199999,
+                43.17281401900004
+              ],
+              [
+                -73.07151849599995,
+                43.17366619300003
+              ],
+              [
+                -73.07066840299996,
+                43.17350826900008
+              ],
+              [
+                -73.07047757799995,
+                43.17340493000006
+              ],
+              [
+                -73.07001867699995,
+                43.17257830500006
+              ],
+              [
+                -73.06988254999999,
+                43.17240507100007
+              ],
+              [
+                -73.06963578699998,
+                43.17227873200005
+              ],
+              [
+                -73.06930320199996,
+                43.17222244000004
+              ],
+              [
+                -73.06737116199997,
+                43.17217985700006
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -73.08025095499994,
+                43.13986174200005
+              ],
+              [
+                -73.07702419699996,
+                43.143738133000056
+              ],
+              [
+                -73.07166740199995,
+                43.14358051200003
+              ],
+              [
+                -73.07015752799998,
+                43.14353604300004
+              ],
+              [
+                -73.06693218299995,
+                43.14344097700007
+              ],
+              [
+                -73.06442325099994,
+                43.14336696400005
+              ],
+              [
+                -73.06201868799997,
+                43.14329597500006
+              ],
+              [
+                -73.06195866499996,
+                43.143294205000075
+              ],
+              [
+                -73.06174792099995,
+                43.14360473900007
+              ],
+              [
+                -73.06130634699997,
+                43.14383651600008
+              ],
+              [
+                -73.06116642699999,
+                43.14386891800007
+              ],
+              [
+                -73.06079562699995,
+                43.143816798000046
+              ],
+              [
+                -73.06027959699998,
+                43.144014758000026
+              ],
+              [
+                -73.06028050499998,
+                43.14407199800007
+              ],
+              [
+                -73.06049560899999,
+                43.14415364600006
+              ],
+              [
+                -73.06054310099995,
+                43.14422205000005
+              ],
+              [
+                -73.06041557099996,
+                43.14464363800005
+              ],
+              [
+                -73.06025440399998,
+                43.14487368500005
+              ],
+              [
+                -73.05982238999997,
+                43.145228478000035
+              ],
+              [
+                -73.05959924999996,
+                43.14548759100006
+              ],
+              [
+                -73.05932461799995,
+                43.145661018000055
+              ],
+              [
+                -73.05934826599997,
+                43.14602159800006
+              ],
+              [
+                -73.05927968299994,
+                43.146168068000065
+              ],
+              [
+                -73.05874966399995,
+                43.146477694000055
+              ],
+              [
+                -73.05861165799996,
+                43.14667886400008
+              ],
+              [
+                -73.05814118599994,
+                43.146736083000064
+              ],
+              [
+                -73.05802273599994,
+                43.146891305000054
+              ],
+              [
+                -73.05771391099995,
+                43.147108004000074
+              ],
+              [
+                -73.05774603399993,
+                43.14717634400006
+              ],
+              [
+                -73.05820071399995,
+                43.14736737800007
+              ],
+              [
+                -73.05848737199995,
+                43.14758539200005
+              ],
+              [
+                -73.05853997499997,
+                43.147750891000044
+              ],
+              [
+                -73.05851708399996,
+                43.14832366200005
+              ],
+              [
+                -73.05821283299997,
+                43.14937466400005
+              ],
+              [
+                -73.05797533999998,
+                43.14970529400006
+              ],
+              [
+                -73.05765891799996,
+                43.14997921200006
+              ],
+              [
+                -73.05745589999998,
+                43.15018410700003
+              ],
+              [
+                -73.05731027799999,
+                43.15023576900006
+              ],
+              [
+                -73.05725539399998,
+                43.15041297600004
+              ],
+              [
+                -73.05700149899997,
+                43.15050447900006
+              ],
+              [
+                -73.05680218699996,
+                43.150856530000055
+              ],
+              [
+                -73.05670524699997,
+                43.15101228300006
+              ],
+              [
+                -73.05667838299996,
+                43.15107315800003
+              ],
+              [
+                -73.05661193099996,
+                43.15162450300005
+              ],
+              [
+                -73.05645372599997,
+                43.15173364000003
+              ],
+              [
+                -73.05563347999998,
+                43.15285672500005
+              ],
+              [
+                -73.05578791099998,
+                43.15302577600005
+              ],
+              [
+                -73.05573145899996,
+                43.153746701000046
+              ],
+              [
+                -73.05524008699996,
+                43.154693087000055
+              ],
+              [
+                -73.05515404099998,
+                43.15524898700005
+              ],
+              [
+                -73.05513555799996,
+                43.15537627200007
+              ],
+              [
+                -73.05503330999994,
+                43.15582925900003
+              ],
+              [
+                -73.05490960499998,
+                43.15591600800008
+              ],
+              [
+                -73.05486523399998,
+                43.15610785700005
+              ],
+              [
+                -73.05478290699995,
+                43.156054176000055
+              ],
+              [
+                -73.05449140299999,
+                43.15611065400003
+              ],
+              [
+                -73.05419296399998,
+                43.15625014600005
+              ],
+              [
+                -73.05400794299999,
+                43.15639738700003
+              ],
+              [
+                -73.05387435799997,
+                43.156624269000076
+              ],
+              [
+                -73.05392012399994,
+                43.15722440800005
+              ],
+              [
+                -73.05420655399996,
+                43.15771128400007
+              ],
+              [
+                -73.05493363899996,
+                43.15823223900003
+              ],
+              [
+                -73.05759486299996,
+                43.15818533300006
+              ],
+              [
+                -73.06226503999994,
+                43.15827914700003
+              ],
+              [
+                -73.06230244299996,
+                43.16063989600008
+              ],
+              [
+                -73.06966203799993,
+                43.16091527400005
+              ],
+              [
+                -73.07073208599996,
+                43.16094766900005
+              ],
+              [
+                -73.07099554999996,
+                43.16002503400006
+              ],
+              [
+                -73.07104226499996,
+                43.15934729500003
+              ],
+              [
+                -73.07135443899995,
+                43.159364724000056
+              ],
+              [
+                -73.07135285499999,
+                43.15915433200007
+              ],
+              [
+                -73.07121819299994,
+                43.15914191300004
+              ],
+              [
+                -73.07058389299993,
+                43.15910365800005
+              ],
+              [
+                -73.07059589599999,
+                43.158934843000054
+              ],
+              [
+                -73.07061819299997,
+                43.15861909200004
+              ],
+              [
+                -73.07139369199996,
+                43.158628864000036
+              ],
+              [
+                -73.07139986899995,
+                43.15834345700006
+              ],
+              [
+                -73.07235009499993,
+                43.158342504000075
+              ],
+              [
+                -73.07238389299994,
+                43.157352941000056
+              ],
+              [
+                -73.07313673199997,
+                43.157365628000036
+              ],
+              [
+                -73.07313604399997,
+                43.15729200100003
+              ],
+              [
+                -73.07440376699998,
+                43.15729857900004
+              ],
+              [
+                -73.07547635699996,
+                43.157161194000025
+              ],
+              [
+                -73.07609967199994,
+                43.15717015400003
+              ],
+              [
+                -73.08085730899995,
+                43.15737549800008
+              ],
+              [
+                -73.08085649999998,
+                43.15752173100003
+              ],
+              [
+                -73.08085304199994,
+                43.157979606000026
+              ],
+              [
+                -73.08238909199997,
+                43.157923836000066
+              ],
+              [
+                -73.08240368599996,
+                43.15877257900007
+              ],
+              [
+                -73.08231936899995,
+                43.15907870800004
+              ],
+              [
+                -73.08207027699996,
+                43.15939214600007
+              ],
+              [
+                -73.07816968199995,
+                43.16235922000004
+              ],
+              [
+                -73.07931936699998,
+                43.16239489600008
+              ],
+              [
+                -73.07917446899995,
+                43.163250978000065
+              ],
+              [
+                -73.07918637299997,
+                43.16336717200005
+              ],
+              [
+                -73.08078021399996,
+                43.16339390300004
+              ],
+              [
+                -73.08244074199996,
+                43.16344228400004
+              ],
+              [
+                -73.08243867899995,
+                43.16253743000004
+              ],
+              [
+                -73.08261866799995,
+                43.16251281400008
+              ],
+              [
+                -73.08297575399996,
+                43.16236162600006
+              ],
+              [
+                -73.08425457899995,
+                43.16231909700008
+              ],
+              [
+                -73.08424531199995,
+                43.16215310800004
+              ],
+              [
+                -73.08642095699997,
+                43.16193899700005
+              ],
+              [
+                -73.08642158499998,
+                43.161938950000035
+              ],
+              [
+                -73.08831388099998,
+                43.15929707200007
+              ],
+              [
+                -73.08831351899994,
+                43.159296674000075
+              ],
+              [
+                -73.08676862299995,
+                43.15759772800004
+              ],
+              [
+                -73.08708649799996,
+                43.157207766000056
+              ],
+              [
+                -73.08718711899996,
+                43.15587846900007
+              ],
+              [
+                -73.08745726399997,
+                43.154357651000055
+              ],
+              [
+                -73.08897943999995,
+                43.15442739300005
+              ],
+              [
+                -73.08938580599994,
+                43.15429323200004
+              ],
+              [
+                -73.08991318199998,
+                43.154197123000074
+              ],
+              [
+                -73.09045193399999,
+                43.15420531400008
+              ],
+              [
+                -73.09030906899994,
+                43.152256023000064
+              ],
+              [
+                -73.08518973799994,
+                43.15125169200007
+              ],
+              [
+                -73.08492777999999,
+                43.15119721700006
+              ],
+              [
+                -73.08429046699996,
+                43.15068056400003
+              ],
+              [
+                -73.08539494499996,
+                43.14998742500006
+              ],
+              [
+                -73.08402661899999,
+                43.14974407500006
+              ],
+              [
+                -73.08244449599994,
+                43.14947603300004
+              ],
+              [
+                -73.08013084199996,
+                43.149387012000034
+              ],
+              [
+                -73.08035187099995,
+                43.143389874000036
+              ],
+              [
+                -73.08276028099993,
+                43.14187135000003
+              ],
+              [
+                -73.08331621899998,
+                43.14171900600007
+              ],
+              [
+                -73.08336452499998,
+                43.14150680100005
+              ],
+              [
+                -73.08378758199996,
+                43.14135808700007
+              ],
+              [
+                -73.08381444599996,
+                43.14131498100005
+              ],
+              [
+                -73.08371432099995,
+                43.14120064800005
+              ],
+              [
+                -73.08413317599997,
+                43.14121619900004
+              ],
+              [
+                -73.08416635199995,
+                43.140816606000044
+              ],
+              [
+                -73.08376618099999,
+                43.14067057900007
+              ],
+              [
+                -73.08383252999994,
+                43.14005747300007
+              ],
+              [
+                -73.08025095499994,
+                43.13986174200005
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECT_ID": 228,
+        "County": "Bennington",
+        "RPC": "BCRC",
+        "Municipal_Name": "ManchesterVillage",
+        "GEO_ID": "5000342850",
+        "District_Name": "Rural Residential 3",
+        "Abbreviated_District_Name": "Rr3",
+        "District_Type": "Primarily Residential",
+        "Bylaw_Date": "2023-09-05",
+        "Elderly_Housing_District": "No",
+        "District_Mapped": "Yes",
+        "Overlay_District": "No",
+        "Base_Density": null,
+        "GIS_ID": null,
+        "Last_Update": "20150707",
+        "Shape_Length": 0.1923944582034404,
+        "Shape_Area": 0.0005498344679451404,
+        "F1F_Allowance": "Permitted",
+        "F1F_Front_Setback": 50,
+        "F1F_Side_Setback": 30,
+        "F1F_Rear_Setback": 50,
+        "F1F_Frontage": null,
+        "F1F_Max_Height": null,
+        "F1F_Max_Stories": null,
+        "F1F_Min_Lot_Size": 3,
+        "F1F_Max_Lot_Building_Coverage": null,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": 2,
+        "F1F_Elderly_Housing_Only": null,
+        "F1F_Affordable_Housing_Only": null,
+        "F2F_Allowance": "Permitted",
+        "F2F_Front_Setback": 50,
+        "F2F_Side_Setback": 30,
+        "F2F_Rear_Setback": 50,
+        "F2F_Frontage": null,
+        "F2F_Max_Density": null,
+        "F2F_Max_Height": 35,
+        "F2F_Max_Stories": null,
+        "F2F_Min_Lot_Size": 6,
+        "F2F_Max_Lot_Building_Coverage": 10,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": 2,
+        "F2F_Min_Parking_Spaces_per_mult_BR": 2,
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Affordable_Housing_Only": "No",
+        "F3F_Allowance": "Prohibited",
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Density": null,
+        "F3F_Max_Height": null,
+        "F3F_Max_Stories": null,
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Connection_to_Sewage/Water_Required": "No",
+        "F4F_Allowance": "Prohibited",
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F1F_Max_Density": null,
+        "F4F_Max_Density": null,
+        "F4F_Max_Height": null,
+        "F4F_Max_Stories": null,
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Elderly_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Connection_to_Sewage/Water_Required": "No",
+        "ADU_Allowance": "Allowed/Conditional",
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": 30,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Min_Lot_Size": null,
+        "ADU_Max_Bedrooms": null,
+        "ADU_Min_Parking_Spaces": 2,
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "Affordable_Housing_Allowance": "Not Mentioned",
+        "Affordable_Housing_District": "No",
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "PRD_Allowance": "Allowed/Conditional",
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PRD_Min_Lot_Size": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PUD_Allowance": null,
+        "PUD_Required_with_Subdivision": null,
+        "PUD_Requires_Land_Conservation": null,
+        "PUD_Threshold_Number": null,
+        "Notes": " Adus Require A Public Hearing If Detached From Principal Structure ",
+        "FIPS6": 3025
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.07327238699997,
+              43.176502424000034
+            ],
+            [
+              -73.07336406799999,
+              43.17662119700003
+            ],
+            [
+              -73.07436104299995,
+              43.177107904000025
+            ],
+            [
+              -73.07499732299993,
+              43.17749388200008
+            ],
+            [
+              -73.07594366499995,
+              43.17757970000008
+            ],
+            [
+              -73.07688648699997,
+              43.17671987700004
+            ],
+            [
+              -73.07734800199995,
+              43.176831615000026
+            ],
+            [
+              -73.07776681799999,
+              43.17722493500003
+            ],
+            [
+              -73.07760632699996,
+              43.177569420000054
+            ],
+            [
+              -73.07769881399997,
+              43.178124936000074
+            ],
+            [
+              -73.07843231499999,
+              43.17809760100005
+            ],
+            [
+              -73.07912873799995,
+              43.17479798000005
+            ],
+            [
+              -73.07723122399995,
+              43.17475785000005
+            ],
+            [
+              -73.07992122499996,
+              43.171016638000026
+            ],
+            [
+              -73.08285088699995,
+              43.16692341100003
+            ],
+            [
+              -73.08287927099997,
+              43.16688376700006
+            ],
+            [
+              -73.08081731399994,
+              43.16678250500007
+            ],
+            [
+              -73.08078021399996,
+              43.16339390300004
+            ],
+            [
+              -73.07918637299997,
+              43.16336717200005
+            ],
+            [
+              -73.07887048699996,
+              43.16446491600004
+            ],
+            [
+              -73.07765879899995,
+              43.16440001500007
+            ],
+            [
+              -73.07558480699998,
+              43.16429379700003
+            ],
+            [
+              -73.07537135099994,
+              43.164765834000036
+            ],
+            [
+              -73.07520340599996,
+              43.16476449800007
+            ],
+            [
+              -73.07485421399997,
+              43.165474208000035
+            ],
+            [
+              -73.07479542299996,
+              43.16547471400003
+            ],
+            [
+              -73.07472533899994,
+              43.16660714900007
+            ],
+            [
+              -73.07391467599996,
+              43.166587519000075
+            ],
+            [
+              -73.07387118299994,
+              43.167226920000076
+            ],
+            [
+              -73.07348799699997,
+              43.172860197000034
+            ],
+            [
+              -73.07324539399997,
+              43.176102515000025
+            ],
+            [
+              -73.07322049999993,
+              43.176435206000065
+            ],
+            [
+              -73.07327238699997,
+              43.176502424000034
+            ]
+          ],
+          [
+            [
+              -73.07509923699996,
+              43.172339445000034
+            ],
+            [
+              -73.07513691199995,
+              43.17205388000008
+            ],
+            [
+              -73.07575421799999,
+              43.17206153500007
+            ],
+            [
+              -73.07564565899997,
+              43.17298382100006
+            ],
+            [
+              -73.07501872499995,
+              43.17297487900004
+            ],
+            [
+              -73.07509923699996,
+              43.172339445000034
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECT_ID": 229,
+        "County": "Bennington",
+        "RPC": "BCRC",
+        "Municipal_Name": "ManchesterVillage",
+        "GEO_ID": "5000342850",
+        "District_Name": "Rural Residential 5",
+        "Abbreviated_District_Name": "Rr5",
+        "District_Type": "Primarily Residential",
+        "Bylaw_Date": "2023-09-05",
+        "Elderly_Housing_District": "No",
+        "District_Mapped": "Yes",
+        "Overlay_District": "No",
+        "Base_Density": null,
+        "GIS_ID": null,
+        "Last_Update": "20150707",
+        "Shape_Length": 0.049936712788204766,
+        "Shape_Area": 8.095199693070656e-05,
+        "F1F_Allowance": "Permitted",
+        "F1F_Front_Setback": 50,
+        "F1F_Side_Setback": 40,
+        "F1F_Rear_Setback": 50,
+        "F1F_Frontage": 200,
+        "F1F_Max_Height": 35,
+        "F1F_Max_Stories": null,
+        "F1F_Min_Lot_Size": 5,
+        "F1F_Max_Lot_Building_Coverage": 10,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": 2,
+        "F1F_Elderly_Housing_Only": null,
+        "F1F_Affordable_Housing_Only": null,
+        "F2F_Allowance": "Permitted",
+        "F2F_Front_Setback": 50,
+        "F2F_Side_Setback": 40,
+        "F2F_Rear_Setback": 50,
+        "F2F_Frontage": 200,
+        "F2F_Max_Density": null,
+        "F2F_Max_Height": 35,
+        "F2F_Max_Stories": null,
+        "F2F_Min_Lot_Size": 10,
+        "F2F_Max_Lot_Building_Coverage": 10,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": 2,
+        "F2F_Min_Parking_Spaces_per_mult_BR": 2,
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Affordable_Housing_Only": "No",
+        "F3F_Allowance": "Prohibited",
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Density": null,
+        "F3F_Max_Height": null,
+        "F3F_Max_Stories": null,
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Connection_to_Sewage/Water_Required": "No",
+        "F4F_Allowance": "Prohibited",
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F1F_Max_Density": null,
+        "F4F_Max_Density": null,
+        "F4F_Max_Height": null,
+        "F4F_Max_Stories": null,
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Elderly_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Connection_to_Sewage/Water_Required": "No",
+        "ADU_Allowance": "Allowed/Conditional",
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": 30,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Min_Lot_Size": null,
+        "ADU_Max_Bedrooms": null,
+        "ADU_Min_Parking_Spaces": null,
+        "ADU_Owner_Occupancy_Required": "Yes",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "Affordable_Housing_Allowance": null,
+        "Affordable_Housing_District": "No",
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "PRD_Allowance": "Allowed/Conditional",
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PRD_Min_Lot_Size": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PUD_Allowance": null,
+        "PUD_Required_with_Subdivision": null,
+        "PUD_Requires_Land_Conservation": null,
+        "PUD_Threshold_Number": null,
+        "Notes": " Adus Require A Public Hearing If Detached From Principal Structure ",
+        "FIPS6": 3025
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.07527862599994,
+                43.16225571800004
+              ],
+              [
+                -73.07523351199995,
+                43.16321941500007
+              ],
+              [
+                -73.07520576399997,
+                43.16321863500008
+              ],
+              [
+                -73.07351658099998,
+                43.16314073600006
+              ],
+              [
+                -73.07351271499994,
+                43.16317967300006
+              ],
+              [
+                -73.07348040899996,
+                43.163505058000055
+              ],
+              [
+                -73.07341025299996,
+                43.16368726800005
+              ],
+              [
+                -73.07338421999998,
+                43.16419071100006
+              ],
+              [
+                -73.07206328299998,
+                43.16413178000005
+              ],
+              [
+                -73.07203818599999,
+                43.16477797600004
+              ],
+              [
+                -73.07184093099994,
+                43.16477349200005
+              ],
+              [
+                -73.07141897799994,
+                43.16476440400004
+              ],
+              [
+                -73.07140709399994,
+                43.16510957700007
+              ],
+              [
+                -73.07139358199998,
+                43.165119246000074
+              ],
+              [
+                -73.07129700299998,
+                43.16511867400004
+              ],
+              [
+                -73.07126012199996,
+                43.16594467700003
+              ],
+              [
+                -73.07132178699999,
+                43.16594624100003
+              ],
+              [
+                -73.07136615299999,
+                43.16614710400006
+              ],
+              [
+                -73.07196800599996,
+                43.16619388700008
+              ],
+              [
+                -73.07195428499995,
+                43.16653552100007
+              ],
+              [
+                -73.07391467599996,
+                43.166587519000075
+              ],
+              [
+                -73.07472533899994,
+                43.16660714900007
+              ],
+              [
+                -73.07479542299996,
+                43.16547471400003
+              ],
+              [
+                -73.07485421399997,
+                43.165474208000035
+              ],
+              [
+                -73.07520340599996,
+                43.16476449800007
+              ],
+              [
+                -73.07537135099994,
+                43.164765834000036
+              ],
+              [
+                -73.07558480699998,
+                43.16429379700003
+              ],
+              [
+                -73.07765879899995,
+                43.16440001500007
+              ],
+              [
+                -73.07887048699996,
+                43.16446491600004
+              ],
+              [
+                -73.07918637299997,
+                43.16336717200005
+              ],
+              [
+                -73.07917446899995,
+                43.163250978000065
+              ],
+              [
+                -73.07931936699998,
+                43.16239489600008
+              ],
+              [
+                -73.07816968199995,
+                43.16235922000004
+              ],
+              [
+                -73.07804742999997,
+                43.16235343900007
+              ],
+              [
+                -73.07536443399994,
+                43.16225874600008
+              ],
+              [
+                -73.07527862599994,
+                43.16225571800004
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -73.05538661299994,
+                43.159556259000055
+              ],
+              [
+                -73.05542303099998,
+                43.159901294000065
+              ],
+              [
+                -73.05562217999994,
+                43.16072169800003
+              ],
+              [
+                -73.05568080199998,
+                43.161148730000036
+              ],
+              [
+                -73.05573735499996,
+                43.16146119500007
+              ],
+              [
+                -73.05569948299996,
+                43.16201226800007
+              ],
+              [
+                -73.05573371099996,
+                43.16208792300006
+              ],
+              [
+                -73.05574875899998,
+                43.162087152000026
+              ],
+              [
+                -73.05691353099996,
+                43.162027454000054
+              ],
+              [
+                -73.05705461899998,
+                43.161399965000044
+              ],
+              [
+                -73.05679320699994,
+                43.16138738300003
+              ],
+              [
+                -73.05682202599996,
+                43.161162035000075
+              ],
+              [
+                -73.05695449199999,
+                43.16027596400005
+              ],
+              [
+                -73.05597737699998,
+                43.15973028800005
+              ],
+              [
+                -73.05544587099996,
+                43.15957371500008
+              ],
+              [
+                -73.05538661299994,
+                43.159556259000055
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECT_ID": 230,
+        "County": "Bennington",
+        "RPC": "BCRC",
+        "Municipal_Name": "ManchesterVillage",
+        "GEO_ID": "5000342850",
+        "District_Name": "Village Residential",
+        "Abbreviated_District_Name": "Vr",
+        "District_Type": "Primarily Residential",
+        "Bylaw_Date": "2023-09-05",
+        "Elderly_Housing_District": "No",
+        "District_Mapped": "Yes",
+        "Overlay_District": "No",
+        "Base_Density": null,
+        "GIS_ID": null,
+        "Last_Update": "20150707",
+        "Shape_Length": 0.03125814287197284,
+        "Shape_Area": 2.0745786987825834e-05,
+        "F1F_Allowance": "Permitted",
+        "F1F_Front_Setback": null,
+        "F1F_Side_Setback": null,
+        "F1F_Rear_Setback": null,
+        "F1F_Frontage": null,
+        "F1F_Max_Height": 35,
+        "F1F_Max_Stories": null,
+        "F1F_Min_Lot_Size": null,
+        "F1F_Max_Lot_Building_Coverage": null,
+        "F1F_Max_Lot_Impervious_Coverage": null,
+        "F1F_Min_Parking_Spaces": 2,
+        "F1F_Elderly_Housing_Only": null,
+        "F1F_Affordable_Housing_Only": null,
+        "F2F_Allowance": "Permitted",
+        "F2F_Front_Setback": null,
+        "F2F_Side_Setback": null,
+        "F2F_Rear_Setback": null,
+        "F2F_Frontage": null,
+        "F2F_Max_Density": null,
+        "F2F_Max_Height": 35,
+        "F2F_Max_Stories": null,
+        "F2F_Min_Lot_Size": null,
+        "F2F_Max_Lot_Building_Coverage": null,
+        "F2F_Max_Lot_Impervious_Coverage": null,
+        "F2F_Min_Parking_Spaces_per_1BR": 2,
+        "F2F_Min_Parking_Spaces_per_mult_BR": null,
+        "F2F_Elderly_Housing_Only": "No",
+        "F2F_Affordable_Housing_Only": "No",
+        "F3F_Allowance": "Prohibited",
+        "F3F_Front_Setback": null,
+        "F3F_Side_Setback": null,
+        "F3F_Rear_Setback": null,
+        "F3F_Frontage": null,
+        "F3F_Max_Density": null,
+        "F3F_Max_Height": null,
+        "F3F_Max_Stories": null,
+        "F3F_Min_Lot_Size": null,
+        "F3F_Max_Lot_Building_Coverage": null,
+        "F3F_Max_Lot_Impervious_Coverage": null,
+        "F3F_Min_Parking_Spaces_per_1BR": null,
+        "F3F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Affordable_Housing_Only": "No",
+        "F3F_Proximity_to_Public_Transit_Required": "No",
+        "F3F_Connection_to_Sewage/Water_Required": "No",
+        "F4F_Allowance": "Prohibited",
+        "F4F_Front_Setback": null,
+        "F4F_Side_Setback": null,
+        "F4F_Rear_Setback": null,
+        "F4F_Frontage": null,
+        "F1F_Max_Density": null,
+        "F4F_Max_Density": null,
+        "F4F_Max_Height": null,
+        "F4F_Max_Stories": null,
+        "F4F_Min_Lot_Size": null,
+        "F4F_Max_Lot_Building_Coverage": null,
+        "F4F_Max_Lot_Impervious_Coverage": null,
+        "F4F_Min_Parking_Spaces_per_1BR": null,
+        "F4F_Min_Parking_Spaces_per_mult_BR": null,
+        "F3F_Elderly_Housing_Only": "No",
+        "F4F_Elderly_Housing_Only": "No",
+        "F4F_Affordable_Housing_Only": "No",
+        "F4F_Proximity_to_Public_Transit_Required": "No",
+        "F4F_Connection_to_Sewage/Water_Required": "No",
+        "ADU_Allowance": "Prohibited",
+        "ADU_Elderly_Housing_Only": "No",
+        "ADU_Max_Size_as_Percent_of_Primary_Strcture": null,
+        "ADU_Max_Size_in_sq_ft": null,
+        "ADU_Min_Lot_Size": null,
+        "ADU_Max_Bedrooms": null,
+        "ADU_Min_Parking_Spaces": null,
+        "ADU_Owner_Occupancy_Required": "No",
+        "ADU_Renter_Occupancy_Prohibited": "No",
+        "ADU_Employee_or_Family_Occupancy_Required": "No",
+        "ADU_Restricted_to_Primary_Structure": "No",
+        "Affordable_Housing_Allowance": "Not Mentioned",
+        "Affordable_Housing_District": "No",
+        "Affordable_Housing_Elderly_Only": "No",
+        "Affordable_Housing_Min_Lot_Size": null,
+        "Affordable_Housing_Max_Density": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_mult_BR": null,
+        "Affordable_Housing_Max_Units_per_Building": null,
+        "Affordable_Housing_Min_Parking_Spaces_per_1BR": null,
+        "PRD_Allowance": null,
+        "PRD_Max_Density": null,
+        "PRD_Max_Units": null,
+        "PRD_Min_Lot_Size": null,
+        "PRD_Mobile_or_Manufactured_Home_Park": "No",
+        "PUD_Allowance": null,
+        "PUD_Required_with_Subdivision": null,
+        "PUD_Requires_Land_Conservation": null,
+        "PUD_Threshold_Number": null,
+        "Notes": "Frontage Is 100 Feet If Connected to Water And Sewer; 120 Feet Connected to Water Or Sew; 150 If No Water Or Sew  ",
+        "FIPS6": 3025
+      }
+    }
+  ]
+}
