@@ -766,18 +766,21 @@
 
       // List of fields to display in the popup
       var fieldsToDisplay = [
-        "County","Jurisdiction_District_Name", "District_Type", "District_Name",
+        "County", "Municipal_Name", "District_Type", "District_Name",
         "Overlay_District","F1F_Allowance","F2F_Allowance","F3F_Allowance",
         "F4F_Allowance", "Affordable_Housing_District",
         "ADU_Owner_Occupancy_Required","F1F_Elderly_Housing_Only",
         "F2F_Elderly_Housing_Only","F3F_Elderly_Housing_Only","F4F_Elderly_Housing_Only"
-      ]; 
+      ];
 
       // Function to bind popups to each feature
       function onEachFeature(feature, layer) {
         if (feature.properties) {
           var popupContent = "<div style='max-height: 400px; overflow-y: auto;'>";
-          popupContent += "<p><strong>" + (feature.properties.Jurisdiction_District_Name || "Zoning District") + "</strong></p>";
+          var title = (feature.properties.Municipal_Name && feature.properties.District_Name)
+            ? feature.properties.Municipal_Name + ' — ' + feature.properties.District_Name
+            : (feature.properties.District_Name || feature.properties.Municipal_Name || "Zoning District");
+          popupContent += "<p><strong>" + title + "</strong></p>";
           
           // Show current housing type prominently
           var currentValue = feature.properties[currentHousingType];
@@ -829,11 +832,11 @@
       }
 
       // List of RPCs to load
-      var rpcs = ['ACRPC', 'BCRC', 'CCRPC', 'CVRPC', 'LCPC', 'MARC', 'NVDA', 'NWRPC', 'RRPC', 'TRORC', 'WRC'];
+      var rpcs = ['ACRPC', 'BCRC', 'CCRPC', 'CVRPC', 'LCPC', 'MARC', 'NVDA', 'NRPC', 'RRPC', 'TRORC', 'WRC'];
 
       // Load each RPC's GeoJSON data
       rpcs.forEach(rpc => {
-        fetch('data/RPC/' + rpc + '/' + rpc + '_Zoning.geojson')
+        fetch('data/RPC/' + rpc + '.geojson')
           .then(response => {
             if (!response.ok) {
               throw new Error('Network response was not ok ' + response.statusText);
