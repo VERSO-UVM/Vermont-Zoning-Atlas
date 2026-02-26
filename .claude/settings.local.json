@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python -c \"import fiona; ds = fiona.open\\(''data/vt-zoning-update.fgb''\\); print\\(list\\(ds.schema[''properties''].keys\\(\\)\\)\\)\")"
+      "Bash(python -c \"import fiona; ds = fiona.open\\(''data/vt-zoning-update.fgb''\\); print\\(list\\(ds.schema[''properties''].keys\\(\\)\\)\\)\")",
+      "Bash(python -c \":*)",
+      "Bash(/c/Python312/python.exe -c \":*)"
     ]
   }
 }
