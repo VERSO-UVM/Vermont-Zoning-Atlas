@@ -1,0 +1,1740 @@
+﻿status,reason,overlap_pct,municipality,district,county,fgb_area
+missing,no_key_match,,Rockingham,Riverfront 14,Windham,1.126099632304754e-05
+missing,no_key_match,,Rockingham,Central Business,Windham,8.644390208094837e-06
+missing,no_key_match,,Rockingham,Industrial 14,Windham,2.0924032278059967e-05
+missing,no_key_match,,Springfield,Exit Seven District,Windsor,1.2326247323688158e-05
+missing,no_key_match,,Springfield,Riverbank Protection Overlay District,Windsor,0.0005772129854588021
+missing,no_key_match,,Windsor,Downtown Design Review Overlay,Windsor,7.090119378776873e-05
+missing,no_key_match,,Windsor,Village Mixed Use,Windsor,2.3593045054348418e-05
+missing,no_key_match,,Windsor,Central Business,Windsor,2.2659353548743126e-05
+missing,no_key_match,,Windsor,High Density Residential,Windsor,9.586077804726489e-05
+missing,no_key_match,,Windsor,Industrial,Windsor,7.642957091558089e-05
+missing,no_key_match,,Windsor,Medium Density Residential,Windsor,0.0005827586720637159
+missing,no_key_match,,Windsor,Resource,Windsor,0.002186777348459298
+missing,no_key_match,,Windsor,Low Density Residential,Windsor,0.00023781324013120804
+missing,no_key_match,,Windsor,Rural Residential,Windsor,0.0020270261600290416
+missing,no_key_match,,Windsor,Roadside Business,Windsor,5.2035773062105527e-05
+missing,no_key_match,,Norwich,Village Business,Windsor,4.776365094040567e-06
+missing,no_key_match,,Norwich,Village Residential Ii,Windsor,1.711784264662534e-05
+missing,no_key_match,,Norwich,Village Residential I,Windsor,0.0002480716312606987
+missing,no_key_match,,Norwich,Commercial Indsutrial,Windsor,5.387349001976979e-05
+missing,no_key_match,,Hartford,Residential Two,Windsor,0.0002719027282935839
+missing,no_key_match,,Hartford,Residential One,Windsor,0.0002671431640744072
+missing,no_key_match,,Hartford,Central Business 2,Windsor,9.494394515610594e-06
+missing,no_key_match,,Hartford,Central Business,Windsor,5.509102025975607e-05
+missing,no_key_match,,Hartford,Residential One Multi-Family,Windsor,3.58115011066481e-05
+missing,no_key_match,,Hartford,Industrial Commercial Two,Windsor,0.00011245388114634448
+missing,no_key_match,,Hartford,Village Business,Windsor,3.519925723715875e-06
+missing,no_key_match,,Hartford,Village Residential-Commercial,Windsor,6.0348487087008753e-05
+missing,no_key_match,,Hartford,Village Residential One,Windsor,2.1482761101074518e-05
+missing,no_key_match,,Hartford,Highway Commercial,Windsor,0.00015697838307405685
+missing,no_key_match,,Hartford,Forest Conservation,Windsor,0.0014191417127837967
+missing,no_key_match,,Hartford,Quechee Gorge,Windsor,3.274630044657773e-05
+missing,no_key_match,,Hartford,Rural Lands Three,Windsor,0.00145633910185993
+missing,no_key_match,,Hartford,Rural Lands Overlay District,Windsor,0.012811138484430967
+missing,no_key_match,,Hartford,Rural Lands Ten,Windsor,0.004290006988620735
+missing,no_key_match,,Hartford,Rural Lands Five,Windsor,0.0017789067598135175
+missing,no_key_match,,Hartford,Wildlife Connector Overlay District,Windsor,0.0009297353499295646
+missing,no_key_match,,Hartford,Rural Lands One,Windsor,0.001978538761467454
+missing,no_key_match,,Hartford,Village Residential Two,Windsor,2.44762786086309e-05
+missing,no_key_match,,Hartford,Quechee Interstate Interchange,Windsor,6.262974738930805e-05
+missing,no_key_match,,Hartford,Residential Three,Windsor,0.0007233016623337928
+missing,no_key_match,,Hartford,Residential Commercial Two,Windsor,0.00024386597312613296
+missing,no_key_match,,Hartford,Agricultural Overlay District,Windsor,0.0009414763509555271
+missing,no_key_match,,Hartford,Industrial Commercial,Windsor,0.00028846643669079797
+missing,no_key_match,,Strafford,River Valley Conservation,Orange,0.0004042072168608925
+missing,no_key_match,,Strafford,Rural Residential I,Orange,0.008116038556034988
+missing,no_key_match,,Strafford,Village Centers,Orange,0.00022391718200317606
+missing,no_key_match,,Strafford,Elizabeth Mine Water Quality Overlay,Orange,5.051580916202946e-05
+missing,no_key_match,,Norwich,Rural Residential,Windsor,0.012620192078956583
+missing,no_key_match,,Norwich,Ridgeline Protection Overlay,Windsor,0.0028028711532971933
+missing,no_key_match,,Norwich,Flood Hazard Overlay,Windsor,0.0003929862087008177
+missing,no_key_match,,Norwich,Aquifer Protection Area,Windsor,0.0010778925788490186
+missing,no_key_match,,Thetford,Village Residential,Orange,0.0002747945561451842
+missing,no_key_match,,Thetford,Historic Preservation Overlay,Orange,3.199179337397048e-05
+missing,no_key_match,,Thetford,Rural Residential,Orange,0.012833442508654664
+missing,no_key_match,,Thetford,Community Business,Orange,3.0111897705595315e-05
+matched,overlap_100.0pct,100.0,Waterford,Village District,Caledonia,0.00022433148518764834
+matched,overlap_100.0pct,100.0,Waterford,Rural Residential District,Caledonia,0.011275958894606494
+missing,no_key_match,,Concord,Low Density,Essex,0.001766417221179135
+missing,no_key_match,,Concord,Lakeshore,Essex,0.0006879290846370019
+missing,no_key_match,,Concord,Medium Density,Essex,0.004953693174469004
+missing,no_key_match,,Concord,Rural Lands,Essex,0.007497605355221448
+missing,no_key_match,,Guildhall,Village District,Essex,7.49573964495533e-05
+missing,no_key_match,,Guildhall,Rural Lands One,Essex,0.0001417980383530365
+missing,no_key_match,,Guildhall,Rural Lands Three,Essex,0.0009426287513624051
+missing,no_key_match,,Guildhall,Forest Conservation District,Essex,0.00738030512798173
+missing,no_key_match,,Guildhall,Agricultural District,Essex,0.0005171315218201214
+missing,no_key_match,,Guildhall,Rural Lands Two,Essex,0.0005413967873084531
+missing,no_key_match,,Guildhall,Industrial District,Essex,6.794408238396979e-05
+missing,no_key_match,,Maidstone,Ponds,Essex,0.00019808020037119658
+missing,no_key_match,,Maidstone,Shoreland Overlay,Essex,0.0011574329863488033
+missing,no_key_match,,Maidstone,Rural Lands Two,Essex,0.0006807694162462291
+missing,no_key_match,,Maidstone,Forest,Essex,0.00802018297249672
+missing,no_key_match,,Maidstone,Lake,Essex,8.557895604850993e-05
+missing,no_key_match,,Brunswick,Low Density Rural Residential,Essex,0.0033972771298976592
+missing,no_key_match,,Brunswick,Shoreland,Essex,0.00090783377123903
+missing,no_key_match,,Maidstone,Rural Lands One,Essex,0.0006850744491000234
+missing,no_key_match,,Maidstone,Agricultural Zone,Essex,0.0004778119948036472
+missing,no_key_match,,Lemington,Rural Residential,Essex,0.00039945745598071665
+missing,no_key_match,,Lemington,Agricultural,Essex,0.0002001856972896415
+missing,no_key_match,,Canaan,Community Forest Overlay District,Essex,0.00023481230561287988
+missing,no_key_match,,Canaan,Residential One-Half,Essex,0.00016429721405413213
+missing,no_key_match,,Canaan,Agricuultural,Essex,0.0006560128862764868
+missing,no_key_match,,Canaan,Residential One,Essex,5.126436877085324e-05
+missing,no_key_match,,Canaan,Industrial,Essex,0.00011827756398948823
+missing,no_key_match,,Canaan,Residential-Commercial,Essex,6.0804272925255376e-05
+missing,no_key_match,,Canaan,Residential Two,Essex,0.0016941871604949732
+missing,no_key_match,,Canaan,Rural Lands,Essex,0.006968507305130173
+missing,no_key_match,,Lemington,Resource,Essex,0.00931545820398294
+missing,no_key_match,,Lemington,Rural Lands,Essex,0.0005342807318024219
+missing,no_key_match,,Canaan,Wallace Pond District,Essex,4.582396410072605e-05
+missing,no_key_match,,Averill,"Commercial, Industrial, Residential District",Essex,0.00033011802957158646
+missing,no_key_match,,Averill,Shore Land District,Essex,0.0006348282588127833
+missing,no_key_match,,Averill,"Forest, Agriculture, And Single Family Home District",Essex,0.010714610994180961
+missing,no_key_match,,Brunswick,Forest Conservation,Essex,0.003316678183484021
+missing,no_key_match,,Ferdinand,"Commercial, Industrial, Residential District",Essex,0.00026765659972536975
+missing,no_key_match,,Lewis,"Forest, Agriculture, And Single Family Home District",Essex,0.011452306194921479
+missing,no_key_match,,Norton,Rural Residential District,Essex,0.0007406549998115542
+missing,no_key_match,,Norton,Flood Hazard Overlay District,Essex,0.0009097248257980548
+missing,no_key_match,,Norton,Lakeshore And Streambank Overlay District,Essex,0.00048124250364537687
+missing,no_key_match,,Norton,Agriculture & Forest District,Essex,0.010628827824397086
+missing,no_key_match,,Lewis,Shore Land District,Essex,2.2441514051892007e-05
+missing,no_key_match,,Averys Gore,"Forest, Agriculture, and Single Family Home District",Essex,0.005363419505072941
+missing,no_key_match,,Warren Gore,"Forest, Agriculture, And Single Family Home District",Essex,0.0024768628709428914
+missing,no_key_match,,Warren Gore,"Commercial, Industrial, Residential District",Essex,0.00020632922828986482
+missing,no_key_match,,Warren Gore,Shore Land District,Essex,0.00011696609585409889
+missing,no_key_match,,Averys Gore,Shore Land District,Essex,1.3655183117221211e-05
+missing,no_key_match,,Averys Gore,"Commercial, Industrial, Residential District",Essex,3.7971058619155228e-06
+missing,no_key_match,,Warners Grant,"Forest, Agriculture, And Single Family Home District",Essex,0.0009449479920493735
+missing,no_key_match,,Brighton,Industrial,Essex,4.566537870819646e-05
+missing,no_key_match,,Brighton,Lake,Essex,0.00017375846679432583
+missing,no_key_match,,Brighton,Conservation Lands,Essex,0.0007536381378124611
+missing,no_key_match,,Brighton,Rural Lands,Essex,0.013946501372073537
+missing,no_key_match,,Brighton,Rural Residential,Essex,0.0014314731854688568
+missing,no_key_match,,Brighton,Neighborhood Residential,Essex,0.00018765516544000556
+missing,no_key_match,,Brighton,Village,Essex,3.478606454809016e-05
+missing,no_key_match,,Burke,Village Residential,Caledonia,1.3483221964003912e-05
+missing,no_key_match,,Burke,Agricultural-Residential Ii,Caledonia,0.007398088124305493
+missing,no_key_match,,Burke,Resort,Caledonia,0.0014945007364437252
+missing,no_key_match,,Burke,Scenic And Conservation Overlay,Caledonia,0.0023037513269492695
+missing,no_key_match,,Ferdinand,"Forest, Agriculture, And Single Family Home District",Essex,0.015449789678966779
+missing,no_key_match,,Ferdinand,Shore Land District,Essex,0.00017247481294719566
+missing,no_key_match,,Granby,Forest,Essex,0.010769343292225673
+missing,no_key_match,,Granby,Village,Essex,6.296043063499384e-05
+missing,no_key_match,,Granby,Rural Residential,Essex,0.0005629786012618591
+missing,no_key_match,,Concord,High Density,Essex,0.0006529814563115668
+missing,no_key_match,,Kirby,Highlands,Caledonia,0.001515944037323087
+missing,no_key_match,,Kirby,Residential,Caledonia,0.005756002782819456
+missing,no_key_match,,Kirby,Special Flood Hazard Area,Caledonia,2.321633926126016e-05
+missing,no_key_match,,Kirby,Commercial/Light Industrial,Caledonia,0.00010436192462179012
+missing,no_key_match,,Saint Johnsbury,Industrial,Caledonia,0.0004207025496059341
+missing,no_key_match,,Saint Johnsbury,Rural Land 2,Caledonia,0.004428212919547645
+missing,no_key_match,,Saint Johnsbury,Health Services,Caledonia,6.493744305640505e-05
+missing,no_key_match,,Saint Johnsbury,Rural Land 1,Caledonia,0.004946455849067389
+missing,no_key_match,,Lyndon,Park,Caledonia,1.1869038820540787e-05
+missing,no_key_match,,Lyndon,Institutional Control,Caledonia,0.00015448484490105638
+missing,no_key_match,,Lyndon,Village Commercial,Caledonia,1.9696334344490813e-05
+missing,no_key_match,,Lyndon,Main Street,Caledonia,1.930950130209762e-05
+missing,no_key_match,,Lyndon,Rural Residential,Caledonia,0.00945459194474314
+missing,no_key_match,,Lyndon,Residential Neighborhood,Caledonia,0.0010491007790047143
+missing,no_key_match,,Lyndon,Commercial,Caledonia,0.0008297108364801952
+missing,no_key_match,,Lyndon,Industrial,Caledonia,0.00011933366664600056
+missing,no_key_match,,Lyndon,Lyndon Corner Industrial,Caledonia,1.5657579261189742e-06
+missing,no_key_match,,Stannard,Forest District,Caledonia,0.0018628584236239872
+missing,no_key_match,,Sutton,Industrial District,Caledonia,0.0006515519848784607
+missing,no_key_match,,Sutton,Working Lands District,Caledonia,0.008952140448439743
+missing,no_key_match,,Sutton,Village District,Caledonia,0.00011789321096280538
+missing,no_key_match,,Sutton,Residential District,Caledonia,0.0013061375247344297
+missing,no_key_match,,Burke,Village Mixed Use,Caledonia,0.000246730281261299
+missing,no_key_match,,Burke,Agricultural-Residential I,Caledonia,0.000825526903974178
+missing,no_key_match,,Sutton,Scenic District,Caledonia,0.00028339719419573866
+missing,no_key_match,,,Westmore,Orleans,0.011060553473115173
+missing,no_key_match,,Morgan,Rural Lands Three,Orleans,0.003989298306252109
+missing,no_key_match,,Morgan,Rural Lands Two,Orleans,0.0034594839995508047
+missing,no_key_match,,Morgan,Industrial/Residential,Orleans,0.0007676683351747321
+missing,no_key_match,,Morgan,Residential-Commercial,Orleans,0.0002825643474346555
+missing,no_key_match,,Morgan,Rural Lands One,Orleans,0.000590766318336876
+missing,no_key_match,,Morgan,Lakeshore,Orleans,0.00016244669453097734
+missing,no_key_match,,Derby,Rural Residential,Orleans,0.007314410356371546
+missing,no_key_match,,Derby,Shoreland District,Orleans,0.0008406111275374247
+missing,no_key_match,,Derby,Residential One Acre,Orleans,0.001253984711988859
+missing,no_key_match,,Derby,Village Residential-Two Derby Line,Orleans,1.740439460946297e-05
+missing,no_key_match,,Derby,Village Commercial Derby Line,Orleans,4.130125780351611e-06
+missing,no_key_match,,Derby,Village Residential-One Derby Line,Orleans,0.00010252255878115148
+missing,no_key_match,,Derby,Commercial,Orleans,0.0004883513608586956
+missing,no_key_match,,Derby,Residential Medium Density,Orleans,6.63217697536776e-05
+missing,no_key_match,,Derby,Residential Two Acre,Orleans,0.002013681712707178
+missing,no_key_match,,Derby,Village Commercial Derby Center,Orleans,2.649556531877234e-05
+missing,no_key_match,,Derby,Village Residential/Derby Center,Orleans,7.159410082755843e-05
+missing,no_key_match,,Derby,Village Residential-Multi-Family Derby Center,Orleans,3.450677172870861e-05
+missing,no_key_match,,Derby,Commercial/Industrial,Orleans,0.00014636274013656708
+missing,no_key_match,,Derby,Industrial,Orleans,5.2367483405089194e-05
+matched,overlap_100.0pct,100.0,Newport City,Public Health/Office,Orleans,2.2442799889480162e-05
+missing,no_key_match,,Newport City,Conservation,Orleans,0.00014307863354676064
+matched,overlap_100.0pct,100.0,Newport City,Urban Residential,Orleans,0.00029170178103557487
+matched,overlap_100.0pct,100.0,Newport City,Commercial Zone B,Orleans,6.811777180193379e-05
+missing,no_key_match,,Derby,Residential High Density,Orleans,6.611376559711658e-05
+missing,no_key_match,,Derby,Special Lands,Orleans,0.0011802230190476673
+missing,no_key_match,,Barton,Resource District,Orleans,0.003664304018572429
+missing,no_key_match,,Barton,Low Density,Orleans,0.008032654883775756
+missing,no_key_match,,Barton,Medium Density,Orleans,0.0011900898481966731
+missing,no_key_match,,Barton,High Density,Orleans,0.0002706252299038161
+missing,no_key_match,,Barton,Mixed Use,Orleans,0.00047998551611530484
+missing,no_key_match,,Barton,Industrial,Orleans,4.030833503329147e-05
+matched,overlap_100.0pct,100.0,Newport City,Urban Recreational,Orleans,4.65159372039391e-05
+matched,overlap_100.0pct,100.0,Newport City,Industrial,Orleans,0.00011151508938212566
+matched,overlap_100.0pct,100.0,Newport City,Form Based Code Overlay,Orleans,9.744364886066907e-05
+matched,overlap_100.0pct,100.0,Newport City,General Residential,Orleans,0.000992772490199674
+matched,overlap_100.0pct,100.0,Newport City,Light Industrial,Orleans,2.325663163129569e-05
+missing,no_key_match,,,Newport Town,Orleans,0.012318088692522294
+missing,no_key_match,,Troy,Rural District,Orleans,0.009667398328957548
+missing,no_key_match,,Troy,River Corridor Overlay District,Orleans,0.0006058343596469218
+missing,no_key_match,,Troy,Village District,Orleans,0.0010605331668190347
+missing,no_key_match,,Troy,Commercial-Residential District,Orleans,0.0001354297056359285
+missing,no_key_match,,Troy,Village Center District,Orleans,8.322264313683677e-05
+missing,no_key_match,,Troy,Industrial District,Orleans,7.87748160477265e-06
+missing,no_key_match,,Troy,Central Business District,Orleans,8.196024090461684e-06
+missing,no_key_match,,Jay,Village Center District,Orleans,4.135364227120198e-05
+missing,no_key_match,,Westfield,Villaage,Orleans,6.009452332809991e-05
+missing,no_key_match,,Lowell,All Rural Residential-Agricultural,Orleans,0.012002037832709374
+missing,no_key_match,,Greensboro,Resource District,Orleans,0.0014208670332002665
+missing,no_key_match,,Greensboro,Rural Lands District,Orleans,0.010628930946781598
+missing,no_key_match,,Greensboro,Greensboro Village District,Orleans,0.00011883279815709707
+missing,no_key_match,,Stannard,Floodplain Overlay District,Caledonia,2.9190591115230555e-05
+missing,no_key_match,,Stannard,Rural District,Caledonia,0.0018065928313016077
+missing,no_key_match,,Stannard,Village District,Caledonia,3.401832339635769e-05
+missing,no_key_match,,Greensboro,Greensboro Bend Village District,Orleans,0.00014447728536307953
+missing,no_key_match,,Hardwick,Industrial,Caledonia,7.20536458960628e-05
+missing,no_key_match,,Hardwick,Village Neighborhood,Caledonia,0.00030001396759712684
+missing,no_key_match,,Hardwick,Compact Residential,Caledonia,0.0010931855468376424
+matched,overlap_100.0pct,100.0,Hardwick,Highway Mixed-Use,Caledonia,0.00011536252382517541
+missing,no_key_match,,Hardwick,Central Business,Caledonia,1.551208511681513e-05
+missing,no_key_match,,Hardwick,Flood Hazard Overlay,Caledonia,0.0007129357993535557
+missing,no_key_match,,Hardwick,Rural Residential,Caledonia,0.00830029407526207
+missing,no_key_match,,Greensboro,Shoreland Protection District,Orleans,0.001012037214913135
+missing,no_key_match,,Hardwick,Forest Reserve,Caledonia,0.001798759633484883
+matched,overlap_100.0pct,100.0,Wolcott,Shoreland District,Lamoille,0.0001637405419980855
+matched,overlap_100.0pct,100.0,Wolcott,Fisher Bridge Enterprise District,Lamoille,1.1353666884386632e-05
+missing,no_key_match,,Woodbury,Village District,Washington,3.6421930334225574e-05
+missing,no_key_match,,Woodbury,Agricultural-Rural Residential District,Washington,0.010158619790160035
+missing,no_key_match,,Woodbury,Shoreland District,Washington,0.0013064383327242792
+missing,no_key_match,,Cabot,Village District,Washington,0.00013518269003041328
+missing,no_key_match,,Marshfield,Agricultural And Rural Residential District,Washington,0.0062640639205452
+missing,no_key_match,,Marshfield,Forestry And Conservation District,Washington,0.00812754641074608
+missing,no_key_match,,Marshfield,Flood Hazard District,Washington,0.0006171513413361013
+missing,no_key_match,,Marshfield,Village Residential District,Washington,0.00015116702067914008
+missing,no_key_match,,Plainfield,Rural Residential District,Washington,0.0005063214870675418
+missing,no_key_match,,Plainfield,Village District,Washington,9.956332815186204e-05
+missing,no_key_match,,Plainfield,Forest And Agricultural Lands District,Washington,0.004959620473839432
+missing,no_key_match,,Plainfield,Reserve Lands District,Washington,0.0005880946038976639
+missing,no_key_match,,Groton,Shoreland District,Caledonia,0.0009445159373898852
+missing,no_key_match,,Groton,Rural Residential District,Caledonia,0.009214191962313555
+missing,no_key_match,,Groton,Commercial/Industrial,Caledonia,0.00010229265607958491
+missing,no_key_match,,Groton,Conservation District,Caledonia,0.006339244966969737
+matched,overlap_100.0pct,100.0,Peacham,Shoreland Two,Caledonia,0.0002605079890223752
+matched,overlap_100.0pct,100.0,Peacham,Rural District,Caledonia,0.01476121076764405
+matched,overlap_100.0pct,100.0,Peacham,Shoreland One,Caledonia,0.00012647054513826136
+missing,no_key_match,,Cabot,Shoreland District,Washington,0.00093776124807801
+missing,no_key_match,,Cabot,Lower Village District,Washington,0.00018973297055407612
+missing,no_key_match,,Cabot,Low Density Residential And Agricultural District,Washington,0.00997631002677368
+missing,no_key_match,,Danville,Developed Shoreland Overlay,Caledonia,0.0001307318375463717
+missing,no_key_match,,Danville,Medium Density Residential 2,Caledonia,0.00036456879057073036
+missing,no_key_match,,Danville,Design Control Overlay,Caledonia,0.00011359210083906212
+missing,no_key_match,,Danville,Route 2,Caledonia,2.1060529946980645e-05
+missing,no_key_match,,Danville,Village Core,Caledonia,8.29671821652364e-05
+matched,overlap_100.0pct,100.0,Peacham,Wellhead Protection Overlay,Caledonia,3.827512602940929e-05
+matched,overlap_100.0pct,100.0,Peacham,Agricultural Overlay,Caledonia,0.0012637054066596835
+matched,overlap_100.0pct,100.0,Peacham,Village District,Caledonia,0.0002102570539654382
+missing,no_key_match,,Barnet,Village,Caledonia,0.0005915785000712543
+missing,no_key_match,,Barnet,Agricultural,Caledonia,0.0059610006145612866
+missing,no_key_match,,Danville,Village Residential,Caledonia,0.00011839423641741637
+missing,no_key_match,,Danville,Historic Neighborhoods,Caledonia,2.297495987420883e-05
+missing,no_key_match,,Danville,Low Density Residential,Caledonia,0.012214633168566979
+missing,no_key_match,,Danville,Conservation,Caledonia,0.007546544695299145
+missing,no_key_match,,Danville,Medium Density Residential 1,Caledonia,0.00023738224995174332
+missing,no_key_match,,Saint Johnsbury,Mixed Use,Caledonia,0.0002988856324809039
+missing,no_key_match,,Saint Johnsbury,Residential B,Caledonia,0.00048462923851833885
+missing,no_key_match,,Saint Johnsbury,Residential A,Caledonia,0.0003078829936360504
+missing,no_key_match,,Saint Johnsbury,Commercial,Caledonia,0.00013546715565629423
+missing,no_key_match,,Saint Johnsbury,Residential Town,Caledonia,0.0007829979282935082
+missing,no_key_match,,Saint Johnsbury,Conservation District,Caledonia,8.12490152521243e-05
+matched,overlap_100.0pct,100.0,Waterford,Industrial Commercial District,Caledonia,0.0001130569077362473
+missing,no_key_match,,Barnet,Low Density,Caledonia,0.005525412885663289
+missing,no_key_match,,Barnet,Rural Residential,Caledonia,0.000937784353420474
+missing,no_key_match,,Ryegate,Commercial Two,Caledonia,0.00011342467973659107
+missing,no_key_match,,Ryegate,Medium Density Residential,Caledonia,0.00026426238060125377
+missing,no_key_match,,Ryegate,Low Density,Caledonia,0.006307155368664619
+missing,no_key_match,,Ryegate,Shoreland,Caledonia,0.0002235608871240294
+missing,no_key_match,,Ryegate,Commercial One,Caledonia,9.255839945607466e-06
+missing,no_key_match,,Ryegate,Industrial,Caledonia,4.3736718254500604e-05
+missing,no_key_match,,Ryegate,Rural Land,Caledonia,0.0040469592320153
+missing,no_key_match,,Groton,Village District,Caledonia,0.00030522238708872323
+missing,no_key_match,,Newbury,Rural 5,Orange,0.0006207487879941512
+missing,no_key_match,,Bradford Town,Low Density Residential,Orange,0.0010875888604476348
+missing,no_key_match,,Bradford Town,Deer Wintering Area,Orange,0.0025958764016053614
+missing,no_key_match,,Newbury,Hamlet,Orange,9.242720520209589e-05
+missing,no_key_match,,Newbury,Rural 1,Orange,0.003913279679549687
+missing,no_key_match,,Newbury,Flood Hazard Overlay,Orange,0.0013369920438104838
+missing,no_key_match,,Newbury,Conservation And Natural Resource,Orange,0.010755908086412429
+missing,no_key_match,,Newbury,Rural 2,Orange,0.0021632960795282593
+missing,no_key_match,,Newbury,Shoreland,Orange,0.00035840291107700666
+missing,no_key_match,,Newbury,Industrial,Orange,5.749476729009284e-05
+missing,no_key_match,,Newbury,Wells River Residential,Orange,0.0003346847319649868
+missing,no_key_match,,Newbury,Water Supply Protection Area,Orange,0.00027399924081723603
+missing,no_key_match,,Newbury,Mixed Use Commercial,Orange,0.00028806753158242785
+missing,no_key_match,,Newbury,Wells River Commercial,Orange,9.772048261812808e-05
+missing,no_key_match,,Newbury,Newbury Village,Orange,0.00017409059886134168
+missing,no_key_match,,Bradford Town,Industrial,Orange,1.648239901692836e-05
+missing,no_key_match,,Bradford Town,Lower Plain,Orange,0.00011291101080011017
+missing,no_key_match,,Bradford Town,Historic District,Orange,0.0001437272513128771
+missing,no_key_match,,Bradford Town,Industrial/Mixed Use,Orange,6.4902524561490234e-06
+missing,no_key_match,,Bradford Town,Village Residential,Orange,7.282796223669462e-05
+missing,no_key_match,,Bradford Town,Residential Service,Orange,4.8206172759837075e-05
+missing,no_key_match,,Bradford Town,Central Business District,Orange,6.0517922896363484e-06
+missing,no_key_match,,Bradford Town,Wellhead Protection,Orange,8.413332186630156e-05
+missing,no_key_match,,Bradford Town,Flood Hazard,Orange,0.00045264737476823
+missing,no_key_match,,Bradford Town,Wetlands,Orange,0.0003086809561640243
+missing,no_key_match,,Bradford Town,Residential,Orange,0.007325167579035667
+missing,no_key_match,,Fairlee,Rural Resource,Orange,0.003855769673301632
+missing,no_key_match,,Fairlee,Lake Morley,Orange,0.00010837809470215428
+missing,no_key_match,,Fairlee,Lakeshore Resort,Orange,7.105578895650987e-05
+missing,no_key_match,,Fairlee,Mixed Use,Orange,0.00022835352060130557
+missing,no_key_match,,Fairlee,Receiving Area Overlay,Orange,0.00069101626339692
+missing,no_key_match,,Fairlee,Flood Hazard Area Overlay,Orange,0.0001794604930616888
+missing,no_key_match,,Fairlee,Residential,Orange,0.0011540275249962006
+missing,no_key_match,,Fairlee,Village,Orange,5.248124383187391e-05
+missing,no_key_match,,Fairlee,Interchange,Orange,1.535808942559863e-05
+missing,no_key_match,,Fairlee,Water Service Area Overlay,Orange,0.00018373642990710226
+missing,no_key_match,,Fairlee,Lake Fairlee,Orange,7.897057173278239e-05
+missing,no_key_match,,Thetford,Neighborhood Residential,Orange,0.00010123960190286998
+missing,no_key_match,,Strafford,Miller Pond Shoreline,Orange,0.00010745171514524882
+missing,no_key_match,,Vershire,Flood Hazard Overlay,Orange,6.480148423701013e-05
+missing,no_key_match,,Vershire,Rural Residential,Orange,0.00367231101734855
+missing,no_key_match,,Vershire,Open Space,Orange,0.0066531890255787166
+missing,no_key_match,,Vershire,Village,Orange,0.00017316302142673037
+missing,no_key_match,,Washington,Village District,Orange,0.000351746535481409
+missing,no_key_match,,Washington,Rural Residential District,Orange,0.011005911723704352
+missing,no_key_match,,Chelsea,Mixed Use Development,Orange,0.00025989639228444675
+missing,no_key_match,,Strafford,Rural Residential Ii,Orange,0.004214113209726907
+missing,no_key_match,,Strafford,Land And Forest Conservation,Orange,0.002625754458873712
+missing,no_key_match,,Randolph,North And South Randolph Villages District,Orange,3.908315961906803e-05
+missing,no_key_match,,Randolph,East Randolph Village District,Orange,0.00010218964323566679
+missing,no_key_match,,Chelsea,Industrial,Orange,0.00017233342337960562
+missing,no_key_match,,Chelsea,Village,Orange,0.00014504778812241082
+missing,no_key_match,,Chelsea,Flood Hazard Overlay,Orange,0.00016443000333005194
+missing,no_key_match,,Chelsea,Rural Residential,Orange,0.011073178349572933
+matched,overlap_100.0pct,100.0,Barre Town,East Barre Commercial,Washington,1.0694238646818943e-05
+matched,overlap_100.0pct,100.0,Barre Town,Earth Resource Extraction,Washington,0.00012686125012961098
+missing,no_key_match,,Brookfield,Village,Orange,8.583501557939249e-05
+missing,no_key_match,,Brookfield,Agricultural/Residential,Orange,0.012315196890597254
+missing,no_key_match,,Brookfield,Public Lands,Orange,0.0004414112553861507
+missing,no_key_match,,Brookfield,Flood Hazard,Orange,0.0003379360552255733
+missing,no_key_match,,Brookfield,Scenic Protection,Orange,7.207790520788212e-05
+missing,no_key_match,,Brookfield,Shoreland,Orange,0.0003537426345249086
+matched,overlap_100.0pct,100.0,Northfield,Mixed Use District,Washington,1.648728529319401e-05
+matched,overlap_100.0pct,100.0,Northfield,Industrial District,Washington,5.7323592659269764e-05
+matched,overlap_100.0pct,100.0,Northfield,High Density Residential District,Washington,0.00010732875691354692
+matched,overlap_100.0pct,100.0,Northfield,Institutional District,Washington,7.660760225557947e-05
+matched,overlap_100.0pct,100.0,Northfield,Medium Density Residential District,Washington,0.00040264422697818903
+matched,overlap_100.0pct,100.0,Northfield,Low Density Residential District,Washington,0.012346017270474385
+missing,no_key_match,,Randolph,Interchange Northeast District,Orange,3.903230867167288e-05
+missing,no_key_match,,Randolph,Interchange Southwest District,Orange,4.6188042915512566e-05
+missing,no_key_match,,Randolph,Interchange Northwest District,Orange,4.9648157428726234e-05
+missing,no_key_match,,Randolph,Water Conservation Overlay District,Orange,0.00016527791001396584
+missing,no_key_match,,Randolph,Rural Residential District,Orange,0.005666627939957857
+missing,no_key_match,,Randolph,Flood Plain Overlay District,Orange,0.0006189509662634275
+missing,no_key_match,,Randolph,Rural Agricultural District,Orange,0.005142977105557837
+missing,no_key_match,,Randolph,Interchange Southeast District,Orange,3.321699594676038e-05
+missing,no_key_match,,Randolph,Randolph Center Village District,Orange,0.0003514105589465723
+missing,no_key_match,,Randolph,Randolph Center Overlay District,Orange,1.9464798216890702e-05
+missing,no_key_match,,Randolph,Industrial District,Orange,0.00016791623845515257
+missing,no_key_match,,Randolph,Residential District,Orange,0.001549419751951832
+missing,no_key_match,,Randolph,Gateway Commercial District,Orange,0.00012039122530671105
+missing,no_key_match,,Randolph,Gateway Commercial Retail District,Orange,0.00010902484085647835
+missing,no_key_match,,Randolph,Randolph Village High Density District,Orange,0.00031469102104121654
+missing,no_key_match,,Randolph,Central Business District,Orange,2.0389044422640053e-05
+missing,no_key_match,,Randolph,Randolph Village Medium Density District,Orange,0.00021857958773808048
+missing,no_key_match,,Braintree,Rural District Ii,Orange,0.00038318626877182304
+missing,no_key_match,,Braintree,Rural Scenic,Orange,0.0016770018906570796
+missing,no_key_match,,Braintree,Flood Hazard,Orange,0.00021878089297099385
+missing,no_key_match,,Braintree,Rural District I,Orange,0.005934225889044542
+missing,no_key_match,,Braintree,Village District,Orange,0.0001947392801297796
+missing,no_key_match,,Braintree,Conservation District,Orange,0.003008862888061706
+missing,no_key_match,,Rochester,Commercial-Agricultural District,Windsor,0.000410902849853551
+missing,no_key_match,,Rochester,Conservation-Residential District,Windsor,0.015518773993550039
+missing,no_key_match,,Warren,Alpine Village Residential,Washington,0.00012870863091420188
+missing,no_key_match,,Warren,Sugarbush Village Residential,Washington,6.239175585635578e-05
+missing,no_key_match,,Warren,Sugarbush Village Commercial,Washington,5.283912719059343e-05
+missing,no_key_match,,Warren,Vacation Residential,Washington,0.00025116929448888004
+missing,no_key_match,,Warren,German Flats Commercial,Washington,2.2957594042235924e-06
+missing,no_key_match,,Warren,Access Road Commercial,Washington,2.1385873022127724e-05
+missing,no_key_match,,Warren,Bobbin Mill Commercial,Washington,9.536974693224352e-06
+missing,no_key_match,,Warren,Rural Residential,Washington,0.00591003319388581
+missing,no_key_match,,Warren,Flood Hazard Overlay District,Washington,6.680896189326513e-05
+missing,no_key_match,,Warren,Warren Village Historic Residential,Washington,9.71790364102063e-05
+missing,no_key_match,,Warren,Forest Reserve,Washington,0.005093120573213034
+missing,no_key_match,,Warren,Warren Village Commercial,Washington,3.902830176107697e-06
+missing,no_key_match,,Warren,Meadowland Overlay District,Washington,0.0008629626302291734
+missing,no_key_match,,Warren,Airport Commercial,Washington,5.3228041833626074e-05
+missing,no_key_match,,Moretown,Preserve District,Washington,0.006313606924475134
+missing,no_key_match,,Moretown,Agricultural-Residential District,Washington,0.0051165604149892826
+missing,no_key_match,,Moretown,Flood Hazard Area Overlay District,Washington,0.000555312391810377
+missing,no_key_match,,Moretown,Village District,Washington,4.70717018622576e-05
+missing,no_key_match,,Duxbury,Rural-Residential-Agricultural I,Washington,0.001514911018668835
+missing,no_key_match,,Duxbury,Forest-Residential-Recreation,Washington,0.003782991296068013
+missing,no_key_match,,Fayston,Industrial District,Washington,8.657223901858942e-06
+missing,no_key_match,,Waitsfield,Industrial District,Washington,2.9315206643333443e-05
+missing,no_key_match,,Waitsfield,Flood Hazard Area Overlay District,Washington,0.0003457384925896976
+missing,no_key_match,,Waitsfield,Agricultural-Residential District,Washington,0.005209850661496262
+missing,no_key_match,,Waitsfield,Fluvial Erosion Hazard Area Overlay District,Washington,0.00024127862335915001
+missing,no_key_match,,Waitsfield,Forest Reserve District,Washington,0.002153362843186008
+missing,no_key_match,,Waitsfield,Limited Business District,Washington,2.2120884268755727e-05
+missing,no_key_match,,Waitsfield,Adaptive Redevelopment Overlay District,Washington,0.0002529268543716869
+missing,no_key_match,,Waitsfield,Irasville Village District,Washington,8.69437145959918e-05
+missing,no_key_match,,Fayston,Irasville Commercial District,Washington,6.02601713089153e-06
+missing,no_key_match,,Waitsfield,Village Residential District,Washington,5.200297260038281e-05
+missing,no_key_match,,Waitsfield,Village Business District,Washington,3.374445971664084e-06
+missing,no_key_match,,Waitsfield,Historic Waitsfield Village Overlay District,Washington,3.273456302297153e-05
+missing,no_key_match,,Fayston,Rural Residential District,Washington,0.0054753131090924615
+missing,no_key_match,,Fayston,Soil And Water Conservation District,Washington,0.00293173869622454
+missing,no_key_match,,Fayston,Flood Hazard Overlay District,Washington,3.665237478050322e-05
+missing,no_key_match,,Fayston,Recreation District,Washington,0.0007310437800708968
+missing,no_key_match,,Fayston,Resort Development District,Washington,0.00015040996421870548
+matched,overlap_100.0pct,100.0,Buels Gore,Ridgetop,Chittenden,2.1686753867948663e-05
+missing,no_key_match,,Fayston,Forest Reserve District,Washington,0.001349820155295029
+missing,no_key_match,,Huntington,Conservation District,Chittenden,9.971541040362141e-05
+missing,no_key_match,,Duxbury,Forest Management And Wildlife Lands,Washington,0.005353085301391813
+missing,no_key_match,,Duxbury,Ecological Reserve Lands,Washington,0.0014432993293557682
+matched,overlap_100.0pct,100.0,Bolton,Flood Hazard Overlay I,Chittenden,1.5595055072910522e-05
+matched,overlap_100.0pct,100.0,Bolton,Flood Hazard Overlay Ii,Chittenden,0.00011410810868283263
+matched,overlap_100.0pct,100.0,Bolton,Village,Chittenden,5.0346479141791146e-05
+matched,overlap_100.0pct,100.0,Bolton,Rural Ii,Chittenden,0.0018746044452891584
+matched,overlap_100.0pct,100.0,Bolton,Rural I,Chittenden,0.0011127038632498594
+matched,overlap_100.0pct,100.0,Bolton,Resort Residential,Chittenden,0.0004884081832364096
+matched,overlap_100.0pct,100.0,Bolton,Resort Mixed Use,Chittenden,8.252744243356715e-05
+matched,overlap_100.0pct,100.0,Bolton,Conservation,Chittenden,0.007506710566866393
+matched,overlap_100.0pct,100.0,Bolton,Forest,Chittenden,0.0012265010932829131
+missing,no_key_match,,Duxbury,Rural-Residential-Agricultural Ii,Washington,0.00038391210453069983
+missing,no_key_match,,Duxbury,Flood Hazard Overlay District,Washington,0.00020613129403316335
+missing,no_key_match,,Duxbury,State Farm District,Washington,0.00021387063152613833
+matched,overlap_100.0pct,100.0,Waterbury,Medium-Density Residential,Washington,0.0017352929933705623
+matched,overlap_100.0pct,100.0,Waterbury,Recreation,Washington,0.00016356707567673293
+matched,overlap_100.0pct,100.0,Waterbury,Village Commercial,Washington,3.247412436820525e-05
+matched,overlap_100.0pct,100.0,Waterbury,Mill,Washington,2.818185949397241e-07
+matched,overlap_100.0pct,100.0,Waterbury,Village Residential,Washington,4.016058937172369e-05
+matched,overlap_100.0pct,100.0,Waterbury,Village Neighborhood Commercial,Washington,3.278878227403519e-06
+matched,overlap_100.0pct,100.0,Waterbury,Downtown Overlay Mixed-Used Sub-District,Washington,2.8452749232895158e-05
+matched,overlap_100.0pct,100.0,Waterbury,Downtown Commercial,Washington,1.067920295048351e-05
+matched,overlap_100.0pct,100.0,Waterbury,Village Mixed Residential,Washington,5.231637266324427e-05
+matched,overlap_100.0pct,100.0,Waterbury,Industrial,Washington,0.000130381048486401
+missing,no_key_match,,Duxbury,Village,Washington,3.750067800484394e-05
+missing,no_key_match,,Moretown,Commercial (Mixed-Use) District,Washington,0.00031237949075912935
+matched,overlap_100.0pct,100.0,Waterbury,Low-Density Residential,Washington,0.0020263377554450525
+matched,overlap_100.0pct,100.0,Waterbury,Town Mixed Residential,Washington,0.00012794491557236462
+matched,overlap_100.0pct,100.0,Waterbury,Town Commercial,Washington,5.0592464638255814e-05
+matched,overlap_100.0pct,100.0,Waterbury,Town Neighborhood Commercial,Washington,3.0495805622366976e-05
+matched,overlap_100.0pct,100.0,Waterbury,Route 100,Washington,0.00048521255012462424
+matched,overlap_100.0pct,100.0,Waterbury,Conservation,Washington,0.00436445243634487
+missing,no_key_match,,Stowe Town,Moscow Commercial,Lamoille,4.9683432018261265e-05
+missing,no_key_match,,Middlesex,Rural Residential,Washington,0.0035289732713347987
+missing,no_key_match,,Middlesex,Flood Hazard Overlay District,Washington,0.0003795418198262035
+missing,no_key_match,,Middlesex,Medium Density Residential,Washington,0.0004803241171207286
+missing,no_key_match,,Middlesex,Conservation,Washington,0.007684271702229822
+missing,no_key_match,,Middlesex,Mixed Use,Washington,4.6457249005794065e-05
+missing,no_key_match,,Middlesex,Village,Washington,2.6318069521268687e-05
+missing,no_key_match,,Middlesex,Industrial,Washington,0.00012851002649881733
+matched,overlap_100.0pct,100.0,Northfield,Village District,Washington,2.8343582529081934e-05
+missing,no_key_match,,Berlin,Hamlet District,Washington,3.322953510663291e-05
+missing,no_key_match,,Berlin,Upland Conservation,Washington,0.0013107444193871723
+missing,no_key_match,,Berlin,Shoreland Conservation,Washington,0.0010741112332098692
+missing,no_key_match,,Berlin,Rural 218 District,Washington,0.0008110791272771497
+missing,no_key_match,,Berlin,Rural 40 District,Washington,0.006280747173110289
+missing,no_key_match,,Berlin,Industrial District,Washington,0.00010492608076857373
+missing,no_key_match,,Berlin,Mixed Use District,Washington,0.00015471615425146536
+missing,no_key_match,,Montpelier,Urban Center 2 District,Washington,6.006359823877922e-06
+missing,no_key_match,,Montpelier,Urban Center 3 District,Washington,7.158837143393926e-06
+missing,no_key_match,,Montpelier,Mixed Use Residential District,Washington,7.340976120099787e-05
+missing,no_key_match,,Montpelier,Urban Center 1 District,Washington,3.868539066040718e-05
+missing,no_key_match,,Montpelier,Western Gateway District,Washington,0.00019210604296239283
+missing,no_key_match,,Montpelier,Municipal District,Washington,0.000127157380358213
+missing,no_key_match,,Montpelier,Rural District,Washington,0.001301529563308244
+missing,no_key_match,,Montpelier,Urban Residential District,Washington,1.6423988734297667e-05
+missing,no_key_match,,Montpelier,Eastern Gateway District,Washington,0.00010397488366295331
+missing,no_key_match,,Montpelier,Residential 3000 District,Washington,0.00010574072358424592
+missing,no_key_match,,Montpelier,Residential 1500 District,Washington,1.6037545119925188e-05
+missing,no_key_match,,Montpelier,Residential 9000 District,Washington,0.0008391132027944836
+missing,no_key_match,,Montpelier,Residential 6000 District,Washington,0.00010392101134847412
+missing,no_key_match,,Montpelier,Riverfront District,Washington,6.247537985862099e-05
+missing,no_key_match,,Berlin,Town Center District,Washington,0.00017092014843069175
+missing,no_key_match,,Berlin,Residential District,Washington,0.0003175695606789863
+missing,no_key_match,,Berlin,Commercial District,Washington,0.00012318068132466907
+missing,no_key_match,,Berlin,Light Industrial District,Washington,0.0003274690578937727
+missing,no_key_match,,Barre City,Residential 4,Washington,0.000719853775908903
+missing,no_key_match,,Barre City,Conservation,Washington,7.669954041800857e-05
+missing,no_key_match,,Barre City,Historic Structure Overlay,Washington,2.470330126031152e-05
+missing,no_key_match,,Barre City,Mixed Use 2,Washington,5.790480259461661e-06
+missing,no_key_match,,Barre City,Mixed Use 1,Washington,3.394554301877117e-05
+missing,no_key_match,,Barre City,Residential 16,Washington,1.5232473985798025e-05
+missing,no_key_match,,Barre City,Urban Center 1,Washington,9.349772560893317e-06
+missing,no_key_match,,Barre City,Adaptive Reuse Overlay,Washington,6.888473450585563e-06
+missing,no_key_match,,Barre City,Design Review Overlay,Washington,7.029316470944697e-05
+missing,no_key_match,,Barre City,Urban Center 2,Washington,2.34245438017115e-05
+missing,no_key_match,,Barre City,Residential 8,Washington,2.3907788758176988e-05
+missing,no_key_match,,Barre City,Residential 12,Washington,5.029820629371506e-05
+missing,no_key_match,,Barre City,General Business,Washington,3.20491035851367e-05
+missing,no_key_match,,Barre City,Industrial,Washington,4.898381222753947e-05
+missing,no_key_match,,Barre City,Civic,Washington,9.51320256972197e-05
+missing,no_key_match,,Barre City,Mixed Use 3,Washington,1.508013596445992e-05
+missing,no_key_match,,Barre City,Urban Center 3,Washington,2.9383809977394184e-05
+matched,overlap_100.0pct,100.0,Barre Town,Industrial,Washington,0.0005738875148674223
+matched,overlap_100.0pct,100.0,Barre Town,Conservation,Washington,0.0004203353500243077
+matched,overlap_100.0pct,100.0,Barre Town,High Density Residential,Washington,0.0011815890989364864
+matched,overlap_100.0pct,100.0,Barre Town,Low Density Residential,Washington,0.00471321417404813
+matched,overlap_100.0pct,100.0,Barre Town,Very High Density Residential,Washington,0.0002691788500136761
+matched,overlap_100.0pct,100.0,Barre Town,Highway Commercial,Washington,0.00018192971843561783
+matched,overlap_100.0pct,100.0,Barre Town,Medium Density Residential,Washington,0.0009834056310467263
+matched,overlap_100.0pct,100.0,Barre Town,Office Building Retail,Washington,0.00010770272609269787
+missing,no_key_match,,East Montpelier,Industrial District,Washington,0.00021099086194625283
+missing,no_key_match,,East Montpelier,Village Residential Medium Density District,Washington,7.451479638357361e-05
+missing,no_key_match,,East Montpelier,Village Mixed Use District,Washington,0.00015084518448090395
+missing,no_key_match,,East Montpelier,Residential-Commercial District,Washington,0.0008221096814653719
+missing,no_key_match,,East Montpelier,Village Residential District,Washington,0.0003564105071016072
+missing,no_key_match,,East Montpelier,Rural Residential-Agricultural District,Washington,0.0035068116920724257
+missing,no_key_match,,East Montpelier,Commercial District,Washington,0.0002737011830048267
+missing,no_key_match,,Calais,Rural Residential District,Washington,0.009621506799327386
+missing,no_key_match,,Calais,Flood Hazard Area Overlay District,Washington,0.0007566756884559419
+missing,no_key_match,,Calais,Shoreland Overlay District,Washington,0.0006222978384369958
+missing,no_key_match,,Calais,Village District,Washington,0.0003151176742360114
+missing,no_key_match,,Calais,Resource Recreation District,Washington,0.001850187310902856
+missing,no_key_match,,Calais,Kents Corner-Old West Church Overlay District,Washington,0.00024305994121025357
+missing,no_key_match,,East Montpelier,Agricultural-Forest Conservation District,Washington,0.003951386669815997
+missing,no_key_match,,Middlesex,Putnamville,Washington,1.7617940264712642e-05
+missing,no_key_match,,Calais,Highland Overlay District,Washington,0.0012939695229074429
+low_overlap,overlap_77.2pct,77.22,Elmore,Undeveloped Shoreline,Lamoille,0.00012352991631003638
+matched,overlap_99.9pct,99.92,Elmore,Remote Area,Lamoille,0.003578332882230835
+matched,overlap_98.7pct,98.69,Elmore,Rural East,Lamoille,0.007431982275108326
+matched,overlap_99.3pct,99.34,Elmore,Flood Hazard,Lamoille,0.0001256270277681883
+matched,overlap_100.0pct,100.0,Wolcott,Route 15 Corridor,Lamoille,0.0005063591337002985
+matched,overlap_100.0pct,100.0,Wolcott,Village Gateway District,Lamoille,2.0823138139857175e-05
+matched,overlap_100.0pct,100.0,Wolcott,Village Core District,Lamoille,1.6009091307230862e-05
+matched,overlap_100.0pct,100.0,Wolcott,Village School Street,Lamoille,2.0593961289608953e-05
+matched,overlap_100.0pct,100.0,Wolcott,Rural District,Lamoille,0.011019617031509858
+matched,overlap_99.7pct,99.66,Elmore,Developed Shoreline,Lamoille,8.368095580652372e-05
+matched,overlap_99.5pct,99.52,Elmore,Village,Lamoille,2.5523035642126474e-05
+matched,overlap_100.0pct,99.96,Elmore,Forest Reserve,Lamoille,0.0034728029434041726
+matched,overlap_99.9pct,99.9,Elmore,Rural West,Lamoille,0.0005541035238276707
+missing,no_key_match,,Stowe Town,Agricultural And Rural Residential 1,Lamoille,5.961476344873573e-05
+missing,no_key_match,,Stowe Town Stowe Village,Stowe Village Pud,Lamoille,4.4849522544249614e-05
+missing,no_key_match,,Stowe Town,Stowe Historic Overlay,Lamoille,5.569423659104065e-05
+missing,no_key_match,,Stowe Town Stowe Village,Village Residential 20,Lamoille,2.7705785732579213e-05
+missing,no_key_match,,Stowe Town Stowe Village,Fluvial Erosion Hazard Overlay,Lamoille,5.001583473454549e-06
+missing,no_key_match,,Stowe Town Stowe Village,Ridgeline And Hillside Overlay,Lamoille,3.238516280166955e-05
+missing,no_key_match,,Stowe Town Stowe Village,Village Residential 40,Lamoille,0.00010636684894198667
+missing,no_key_match,,Stowe Town Stowe Village,Stowe Historic Overlay,Lamoille,0.0001017096542261503
+missing,no_key_match,,Stowe Town Stowe Village,Village Commercial 10,Lamoille,3.2873019853064615e-05
+missing,no_key_match,,Stowe Town,Agricultural And Rural Residential 3,Lamoille,0.00116268695593216
+missing,no_key_match,,Stowe Town Stowe Village,Village Commercial 30,Lamoille,1.642750499678198e-05
+missing,no_key_match,,Stowe Town,West Branch Community Service,Lamoille,2.7927759195092164e-05
+missing,no_key_match,,Morristown,Rural Residential Agricultural,Lamoille,0.014229004433251063
+missing,no_key_match,,Morristown,Mixed Office Residential,Lamoille,3.70052100970517e-05
+missing,no_key_match,,Morristown,Industrial,Lamoille,0.0003101913801160051
+missing,no_key_match,,Morristown,Hospital,Lamoille,3.913458160630917e-05
+missing,no_key_match,,Morristown,Medium Density Residential,Lamoille,0.00021572416188560663
+missing,no_key_match,,Morristown,High Density Residential,Lamoille,4.879607392060452e-05
+missing,no_key_match,,Morristown,Central Business,Lamoille,3.895837869976561e-05
+missing,no_key_match,,Morristown,Low Density Residential,Lamoille,0.0003327773149465625
+missing,no_key_match,,Morristown,Commercial,Lamoille,8.62858312048768e-05
+matched,overlap_99.9pct,99.88,Hyde Park Town,Wellhead Protection Area Overlay,Lamoille,0.0004755305899172247
+matched,overlap_99.6pct,99.64,Hyde Park Town,Rural Residential 2,Lamoille,0.004602281975568389
+missing,no_key_match,,Hyde Park Town Hyde Park Village,Village Gateway Commercial,Lamoille,1.688525648281954e-05
+missing,no_key_match,,Hyde Park Town Hyde Park Village,Village Gateway Rural,Lamoille,0.0002259142479761523
+missing,no_key_match,,Hyde Park Town Hyde Park Village,Service Area Overlay,Lamoille,4.960630619465479e-06
+missing,no_key_match,,Hyde Park Town Hyde Park Village,Flood Hazard Area Overlay,Lamoille,1.1101979531474832e-05
+missing,no_key_match,,Hyde Park Town Hyde Park Village,Village Residential,Lamoille,6.634486842225644e-05
+missing,no_key_match,,Hyde Park Town Hyde Park Village,Village Center,Lamoille,3.380532310996536e-05
+matched,overlap_99.8pct,99.85,Hyde Park Town,Vfw Business Park,Lamoille,1.5518629548842723e-05
+matched,overlap_99.8pct,99.77,Hyde Park Town,North Hyde Park Industrial,Lamoille,5.999835395874715e-05
+matched,overlap_99.9pct,99.92,Hyde Park Town,North Hyde Park Village,Lamoille,0.00016584181004025816
+matched,overlap_99.8pct,99.84,Hyde Park Town,North Hyde Park Village Core,Lamoille,1.538953678822499e-05
+matched,overlap_99.4pct,99.42,Hyde Park Town,Core Forest And Wildlife Habitat Overlay,Lamoille,0.006977715656041723
+matched,overlap_99.5pct,99.49,Hyde Park Town,Flood Hazard Area Overlay,Lamoille,0.0008134038774055995
+matched,overlap_100.0pct,100.0,Hyde Park Town,Green River Reservoir Viewshed Overlay,Lamoille,0.004018411017918716
+matched,overlap_100.0pct,99.96,Hyde Park Town,Shoreland,Lamoille,0.0006108565127518455
+matched,overlap_99.9pct,99.93,Hyde Park Town,Conservation 27 Ac,Lamoille,0.0011601525009188127
+matched,overlap_100.0pct,99.96,Hyde Park Town,Conservation 10 Ac,Lamoille,0.001027072758412779
+matched,overlap_100.0pct,99.97,Hyde Park Town,Rural Residential 5,Lamoille,0.0034917421616032602
+matched,overlap_100.0pct,100.0,Wolcott,North Wolcott Village,Lamoille,6.38678498238889e-05
+missing,no_key_match,,Lowell,Conservation-Mountain,Orleans,0.004250787462485675
+missing,no_key_match,,Lowell,Industrial,Orleans,0.00022789709301860992
+missing,no_key_match,,Lowell,Village,Orleans,0.0001935355688393855
+missing,no_key_match,,Westfield,Recreational Residential,Orleans,0.0005400638448516478
+missing,no_key_match,,Westfield,Rural Residential,Orleans,0.01120193124033209
+missing,no_key_match,,Jay,Recreation District,Orleans,0.0010797260631705203
+missing,no_key_match,,Jay,High Density District,Orleans,0.0001993573244244959
+missing,no_key_match,,Jay,Conservation - Recreation District,Orleans,0.0001277753614890877
+missing,no_key_match,,Jay,Rural District I,Orleans,0.008626253581620554
+missing,no_key_match,,Jay,Rural District Ii,Orleans,0.000647898859711026
+matched,overlap_99.4pct,99.43,Montgomery,Village Ii,Franklin,0.00020197243474064078
+matched,overlap_98.8pct,98.81,Montgomery,Village I,Franklin,4.876910782279903e-05
+matched,overlap_100.0pct,99.98,Richford,Water Supply Protection,Franklin,0.0013275757680820972
+matched,overlap_99.8pct,99.82,Richford,Rural Residential,Franklin,0.0006987344307893331
+matched,overlap_99.5pct,99.49,Richford,Agricultural,Franklin,0.005602426176880181
+matched,overlap_99.9pct,99.9,Richford,Forest/Conservation,Franklin,0.004518930685486764
+matched,overlap_98.4pct,98.39,Richford,Flood Hazard Overlay,Franklin,0.0004177945537187394
+matched,overlap_99.5pct,99.53,Richford,Commercial/Industrial,Franklin,3.593242469112982e-05
+matched,overlap_98.4pct,98.36,Richford,Education,Franklin,2.462557231334872e-05
+matched,overlap_99.6pct,99.57,Richford,Recreation/Conservation,Franklin,5.439923696214258e-05
+matched,overlap_98.8pct,98.76,Richford,Mixed Use,Franklin,1.167698180645684e-05
+matched,overlap_99.5pct,99.54,Richford,Village Residential,Franklin,0.0001663904145713941
+matched,overlap_97.0pct,96.95,Montgomery,Special Hazard Overlay,Franklin,0.00021731599906172402
+matched,overlap_100.0pct,100.0,Enosburgh,Conservation,Franklin,0.0008163837026100386
+matched,overlap_100.0pct,99.99,Montgomery,Conservation Ii,Franklin,0.004453730792773981
+matched,overlap_97.3pct,97.27,Montgomery,Conservation I,Franklin,0.006346792069665197
+matched,overlap_100.0pct,99.96,Montgomery,Rural Residential,Franklin,0.005570505338958712
+matched,overlap_98.2pct,98.23,Montgomery,River Corridor,Franklin,0.00033350935402740197
+matched,overlap_100.0pct,99.95,Bakersfield,Conservation,Franklin,0.004732835486868057
+matched,overlap_99.4pct,99.43,Bakersfield,Aquifer Overlay,Franklin,3.762411128848116e-05
+matched,overlap_99.6pct,99.62,Bakersfield,Village Center,Franklin,3.902627319637035e-05
+matched,overlap_99.9pct,99.9,Bakersfield,High Density Residential,Franklin,0.00029332468783444877
+matched,overlap_100.0pct,99.98,Bakersfield,Rural,Franklin,0.00735091250740755
+matched,overlap_99.4pct,99.42,Bakersfield,Flood Hazard Overlay,Franklin,0.0006143885615294769
+matched,overlap_100.0pct,100.0,Enosburgh,Natural Resource Overlay,Franklin,0.0013883554511420525
+matched,overlap_100.0pct,100.0,Enosburgh,Agricultural,Franklin,0.003459272015591118
+matched,overlap_100.0pct,100.0,Enosburgh,Wetland Overlay,Franklin,0.001063904907731153
+matched,overlap_100.0pct,100.0,Enosburgh,Rural Residential,Franklin,0.008744033312878312
+matched,overlap_100.0pct,100.0,Enosburgh,Groundwater Source Protection Area,Franklin,9.158139587184715e-05
+matched,overlap_100.0pct,100.0,Berkshire,Rural Lands District,Franklin,0.011825503804727657
+matched,overlap_100.0pct,100.0,Berkshire,Extended Village District,Franklin,0.00010264905827778619
+matched,overlap_100.0pct,100.0,Berkshire,Flood Hazard Area Overlay District,Franklin,0.000928709127687621
+missing,no_key_match,,Enosburgh Enosburg Falls,Commercial,Franklin,3.6159177334680046e-05
+missing,no_key_match,,Enosburgh Enosburg Falls,Flood Hazard Overlay,Franklin,4.0084318929478216e-05
+missing,no_key_match,,Enosburgh Enosburg Falls,Recreation,Franklin,6.063536772117066e-05
+missing,no_key_match,,Enosburgh Enosburg Falls,Industrial,Franklin,7.068544248945247e-05
+matched,overlap_100.0pct,100.0,Berkshire,Wellhead Protection District,Franklin,9.66374024286963e-05
+matched,overlap_100.0pct,100.0,Enosburgh,Flood Overlay,Franklin,0.0002999822436770729
+missing,no_key_match,,Enosburgh Enosburg Falls,Conservation,Franklin,0.0002076806887963215
+missing,no_key_match,,Enosburgh Enosburg Falls,Low Density Residential,Franklin,0.00032393931404705093
+missing,no_key_match,,Enosburgh Enosburg Falls,Central Business,Franklin,1.8438374195264417e-05
+missing,no_key_match,,Enosburgh Enosburg Falls,High Density Residential,Franklin,0.00010880479840595211
+missing,no_key_match,,Enosburgh Enosburg Falls,Agricultural/Rural Residential,Franklin,0.00017366214015775846
+matched,overlap_100.0pct,100.0,Franklin,Village,Franklin,0.0003011180692160617
+matched,overlap_100.0pct,100.0,Franklin,Conservation,Franklin,0.001540686637077929
+matched,overlap_100.0pct,100.0,Franklin,Shoreland/Recreation,Franklin,0.00025247714955618664
+matched,overlap_100.0pct,100.0,Franklin,Rural Residential/Agricultural,Franklin,0.00907917711151096
+matched,overlap_100.0pct,100.0,Franklin,Flood Hazard Overlay,Franklin,0.0016661131827317866
+matched,overlap_97.7pct,97.75,Sheldon,Rural Lands 1,Franklin,0.004119079820808439
+matched,overlap_99.7pct,99.73,Sheldon,Rural Lands 2,Franklin,0.006809717108243247
+matched,overlap_100.0pct,100.0,Fairfield,Chester a Arthur Overlay,Franklin,0.0006107828031470767
+matched,overlap_100.0pct,100.0,Fairfield,Village,Franklin,0.00035310019711823516
+matched,overlap_100.0pct,100.0,Fairfield,Uplands,Franklin,0.0049625240408960915
+matched,overlap_99.7pct,99.75,Fletcher,Conservation,Franklin,0.0034353437766485293
+matched,overlap_90.9pct,90.94,Fletcher,Shoreland-Recreation,Franklin,0.00011818428957575009
+matched,overlap_99.1pct,99.08,Fletcher,Flood Hazard Overlay,Franklin,0.0004181518117353667
+matched,overlap_95.6pct,95.58,Fletcher,Rural Residential/Agricultural,Franklin,0.006151104651390189
+matched,overlap_99.7pct,99.67,Fletcher,Village,Franklin,0.00032637612454307303
+matched,overlap_99.9pct,99.94,Fletcher,Forest,Franklin,0.001803859864359606
+missing,no_key_match,,Stowe Town,Upper Mountain Road,Lamoille,0.00020931943342256752
+missing,no_key_match,,Stowe Town,Mountain Road Crossroads,Lamoille,1.4322950822533195e-05
+missing,no_key_match,,Stowe Town,Meadowland Overlay,Lamoille,9.630348276316796e-05
+missing,no_key_match,,Stowe Town,Agricultural And Rural Residential 5,Lamoille,0.009983983209236493
+missing,no_key_match,,Stowe Town,Fluvial Erosion Hazard,Lamoille,8.07629556866149e-05
+missing,no_key_match,,Stowe Town,Forest Reserve,Lamoille,0.007480971862890517
+missing,no_key_match,,Stowe Town,Mountain Road Village,Lamoille,5.307706936182306e-05
+missing,no_key_match,,Stowe Town,Source Protection Overlay,Lamoille,0.0005326609106785483
+missing,no_key_match,,Stowe Town,Highway Tourist,Lamoille,5.519766292300134e-05
+missing,no_key_match,,Stowe Town,Agricultural And Rural Residential 2,Lamoille,0.002197896516112135
+missing,no_key_match,,Stowe Town,Lower Village Commercial,Lamoille,1.6921415179513347e-05
+missing,no_key_match,,Stowe Town,Ridgeline And Hillside Overlay,Lamoille,0.010590547344379253
+matched,overlap_99.6pct,99.59,Underhill,Mt Mansfield Scenic Preservation District,Chittenden,0.000928446215931551
+matched,overlap_99.7pct,99.75,Underhill,Soil And Water Conservation District,Chittenden,0.00541176901663991
+matched,overlap_98.2pct,98.18,Underhill,Rural Residential District,Chittenden,0.004893307233513233
+low_overlap,overlap_0.0pct,0.0,Underhill,Floor Hazard Overlay District,Chittenden,0.0003250097434921372
+matched,overlap_99.7pct,99.7,Underhill,Water Conservation District,Chittenden,0.001104334877471816
+matched,overlap_99.6pct,99.56,Underhill,Underhill Center Village District,Chittenden,5.207284729045067e-05
+matched,overlap_99.9pct,99.94,Jericho,Forestry District,Chittenden,0.0014666778957137534
+matched,overlap_99.5pct,99.47,Jericho,Open Space District,Chittenden,0.0024264469869460592
+matched,overlap_99.8pct,99.79,Jericho,Wellhead Protection Area Overlay,Chittenden,0.00043949238196149985
+matched,overlap_99.6pct,99.64,Jericho,Low Density Residential District,Chittenden,0.0012169729191115841
+matched,overlap_99.6pct,99.58,Jericho,Village Center District,Chittenden,0.0003848050543508621
+matched,overlap_99.5pct,99.53,Jericho,Village District,Chittenden,0.0004980218403804168
+matched,overlap_99.6pct,99.58,Jericho,Commercial District,Chittenden,6.241265115051499e-05
+matched,overlap_99.6pct,99.56,Jericho,Rural/Agriculture Residential District,Chittenden,0.0036592597761857188
+matched,overlap_98.1pct,98.1,Jericho,Wetlands Overlay,Chittenden,0.0005594217029507615
+matched,overlap_99.2pct,99.21,Jericho,Natural Resources Overlay,Chittenden,0.00457591881792594
+matched,overlap_98.8pct,98.78,Jericho,River Overlay,Chittenden,0.0011270170915006503
+matched,overlap_99.5pct,99.48,Jericho,Riverside Character District 3,Chittenden,2.666063061612209e-05
+matched,overlap_99.5pct,99.46,Jericho,Riverside Character District 4,Chittenden,1.5066591388808166e-05
+matched,overlap_99.6pct,99.57,Underhill,Underhill Flats Village Center District,Chittenden,0.00010488425299535886
+matched,overlap_100.0pct,100.0,Jericho,Riverside Civil Zone,Chittenden,2.214878219887102e-07
+matched,overlap_99.3pct,99.26,Essex,Conservation,Chittenden,0.0023481751451572856
+matched,overlap_99.3pct,99.29,Essex,Resource Preservation District - Industrial,Chittenden,0.0002987224036658727
+matched,overlap_99.5pct,99.51,Williston,Residential Zoning District,Chittenden,0.0009372042142849707
+matched,overlap_99.7pct,99.69,Williston,Industrial East Zoning District,Chittenden,0.0003233079048494755
+matched,overlap_99.7pct,99.66,Essex,Center,Chittenden,5.932960702353679e-05
+matched,overlap_99.4pct,99.37,Essex,Residential - Business,Chittenden,5.5516771995781395e-06
+matched,overlap_99.2pct,99.17,Essex,High Density Residential,Chittenden,4.700432631926964e-06
+matched,overlap_99.6pct,99.56,Essex,Mixed Use - Planned Unit Development,Chittenden,0.0001862665234557354
+matched,overlap_99.6pct,99.57,Essex,Industrial,Chittenden,0.000412684659901261
+matched,overlap_98.8pct,98.75,Essex,Medium Density Residential,Chittenden,0.001090261424691781
+matched,overlap_99.3pct,99.33,Essex,Mixed Use Commercial,Chittenden,9.626718948619143e-06
+matched,overlap_100.0pct,100.0,Essex Junction,Residential - Office,Chittenden,1.3681664792599643e-05
+matched,overlap_100.0pct,100.0,Essex Junction,Multi-Family Residential 3,Chittenden,1.0781328427890419e-05
+matched,overlap_100.0pct,100.0,Essex Junction,Multi-Family Residential 1,Chittenden,5.089309948358692e-05
+matched,overlap_100.0pct,100.0,Essex Junction,Residential 1,Chittenden,0.0002422764102852063
+matched,overlap_100.0pct,100.0,Essex Junction,Planned Exposition,Chittenden,5.447364774660875e-05
+matched,overlap_100.0pct,100.0,Essex Junction,Mult-Family Residential 2,Chittenden,6.41971215833316e-06
+matched,overlap_100.0pct,100.0,Essex Junction,Transit Oriented Development,Chittenden,1.2132975297627065e-05
+matched,overlap_100.0pct,100.0,Essex Junction,Multi-Family/Mixed-Use-2 District,Chittenden,7.037306698048899e-06
+matched,overlap_99.4pct,99.38,Essex,Mixed Use,Chittenden,2.8567086004675413e-05
+matched,overlap_100.0pct,100.0,Essex Junction,Open Space District,Chittenden,4.6960707677472074e-05
+matched,overlap_100.0pct,100.0,Essex Junction,Village Center,Chittenden,1.4718969842260751e-05
+matched,overlap_100.0pct,100.0,Essex Junction,Mixed Commercial Use District,Chittenden,1.4978367454469985e-05
+matched,overlap_100.0pct,100.0,Essex Junction,Flood Plain,Chittenden,0.0001248428611161052
+matched,overlap_100.0pct,100.0,Essex Junction,Residential 2,Chittenden,0.00022519255876806085
+matched,overlap_99.7pct,99.67,Williston,Gateway North Zoning District,Chittenden,3.682439484805187e-05
+matched,overlap_100.0pct,100.0,Essex Junction,Light Industrial,Chittenden,0.00011177508193592361
+matched,overlap_99.4pct,99.42,Williston,Business Park Zoning District,Chittenden,3.0151628464068882e-05
+matched,overlap_99.5pct,99.54,Williston,Taft Corners Downtown Zoning District,Chittenden,0.0001344777527441302
+matched,overlap_99.5pct,99.45,Williston,Mixed Use - Commercial Zoning District,Chittenden,6.385961399935888e-05
+matched,overlap_98.3pct,98.33,Williston,Industrial West Zoning District,Chittenden,0.00047873874008745024
+missing,no_key_match,,South Burlington,Airport Industrial District,Chittenden,0.00021976573831593188
+missing,no_key_match,,South Burlington,Mixed Industrial And Commercial District,Chittenden,0.000510437980682314
+missing,no_key_match,,South Burlington,Commercial 1 with Limited Retail District,Chittenden,1.8707755434090065e-05
+missing,no_key_match,,South Burlington,Commercial 1 with Airport-Related Uses District,Chittenden,6.753763040742422e-06
+missing,no_key_match,,South Burlington,Airport Approach Corridors Overlay District,Chittenden,0.0003409199772845623
+missing,no_key_match,,South Burlington,Residential 7 - Neighborhood Commercial District,Chittenden,5.8129291254468824e-05
+missing,no_key_match,,South Burlington,Residential 1 with Planned Unit Development District,Chittenden,5.3295883896161284e-05
+missing,no_key_match,,South Burlington,River Corridor Overlay District,Chittenden,0.00046986626349141927
+missing,no_key_match,,South Burlington,Transit Overlay District,Chittenden,0.0012708364241561594
+missing,no_key_match,,South Burlington,Traffic Overlay District,Chittenden,0.0003544327756572637
+missing,no_key_match,,South Burlington,Habitat Block Overlay District,Chittenden,0.0008902669164479867
+missing,no_key_match,,South Burlington,Floodplain Overlay District,Chittenden,0.0003127885581139722
+missing,no_key_match,,South Burlington,Commercial 1 District,Chittenden,0.0001564376906819605
+missing,no_key_match,,South Burlington,Residential 4 District,Chittenden,0.0005890381915039946
+missing,no_key_match,,South Burlington,Residential 12 District,Chittenden,4.722590232653888e-05
+missing,no_key_match,,South Burlington,Residential 7 District,Chittenden,0.0001250605635532854
+missing,no_key_match,,South Burlington,Transect Zone 3 - City Center,Chittenden,3.809021322031892e-06
+missing,no_key_match,,South Burlington,Interstate Highway Overlay District,Chittenden,0.00016237587034597888
+missing,no_key_match,,South Burlington,Transect Zone 3 Plus - City Center,Chittenden,6.62018538286981e-06
+missing,no_key_match,,South Burlington,Transect Zone 5 City Center,Chittenden,7.188805726114532e-06
+missing,no_key_match,,South Burlington,Transect Zone 4 Urban Multi-Use,Chittenden,0.00014702892542061598
+missing,no_key_match,,South Burlington,Airport District,Chittenden,0.00014428696081634774
+matched,overlap_100.0pct,100.0,Winooski,Downtown Core,Chittenden,6.459333393179248e-06
+matched,overlap_100.0pct,100.0,Winooski,Residential B,Chittenden,4.9238871454923576e-05
+matched,overlap_100.0pct,100.0,Winooski,Gateway District,Chittenden,4.5517470416801465e-05
+matched,overlap_100.0pct,100.0,Winooski,Industrial,Chittenden,3.50711074590495e-05
+matched,overlap_100.0pct,100.0,Winooski,Public,Chittenden,4.662631353827554e-06
+matched,overlap_100.0pct,100.0,Winooski,Residential A,Chittenden,4.793847733343495e-05
+matched,overlap_100.0pct,100.0,Winooski,General Commercial,Chittenden,4.947232181140454e-05
+matched,overlap_98.2pct,98.23,Colchester,Business,Chittenden,0.00018892804314248212
+matched,overlap_99.2pct,99.24,Colchester,General Development 2,Chittenden,0.0005042886187445107
+matched,overlap_98.3pct,98.26,Essex,Historic Preservation - Design Control,Chittenden,4.17958977871974e-06
+matched,overlap_100.0pct,100.0,Essex Junction,Planned Agriculture,Chittenden,0.00018455842798947449
+matched,overlap_100.0pct,100.0,Essex Junction,Highway - Arterial,Chittenden,5.425009139449049e-06
+matched,overlap_100.0pct,100.0,Essex Junction,Multi-Family/Mixed-Use-1 District,Chittenden,7.23044744860796e-06
+matched,overlap_99.5pct,99.46,Essex,Retail - Business,Chittenden,4.5399713826659285e-05
+matched,overlap_98.4pct,98.44,Colchester,Commercial,Chittenden,9.304198888362084e-05
+matched,overlap_99.3pct,99.34,Colchester,Industrial,Chittenden,0.00026112848276698433
+matched,overlap_99.3pct,99.26,Colchester,General Development 3,Chittenden,0.00011473694242356412
+matched,overlap_99.8pct,99.8,Colchester,Agricultural,Chittenden,0.001504487933334917
+matched,overlap_99.7pct,99.7,Colchester,Residential Ten,Chittenden,0.0004090103143802043
+matched,overlap_99.8pct,99.76,Colchester,Residential Five,Chittenden,0.0006277845043375675
+matched,overlap_99.9pct,99.87,Colchester,General Development 4,Chittenden,0.00027777724843169773
+matched,overlap_99.5pct,99.46,Essex,Open Recreation,Chittenden,6.913117881696789e-05
+matched,overlap_98.8pct,98.79,Essex,Floodplain,Chittenden,0.001075151175634421
+matched,overlap_99.7pct,99.65,Essex,Low Density Residential,Chittenden,0.0005824186050772743
+matched,overlap_99.5pct,99.51,Essex,Agricultural - Residential,Chittenden,0.0030145515642812657
+matched,overlap_99.5pct,99.55,Milton,Forestry/Conservation/Scenic Ridgeline District,Chittenden,0.001575232693956877
+matched,overlap_99.4pct,99.43,Milton,Main Street District,Chittenden,1.5651341875045122e-05
+matched,overlap_99.9pct,99.9,Milton,Industrial Conservation District,Chittenden,0.0003082390927374631
+matched,overlap_99.7pct,99.74,Milton,Light Industrial District,Chittenden,2.3638471184325585e-05
+matched,overlap_98.7pct,98.72,Milton,Historic Neighborhood Center District,Chittenden,8.75423475055639e-06
+matched,overlap_99.5pct,99.52,Milton,Old Towne Residential District,Chittenden,0.00035480052488097994
+matched,overlap_99.3pct,99.34,Milton,Old Towne Residential/Commercial District,Chittenden,3.107244894532869e-05
+matched,overlap_99.3pct,99.35,Milton,Milton Crossroads Marketplace Center District,Chittenden,2.1631293525488475e-05
+matched,overlap_99.8pct,99.82,Milton,Milton Crossroads Marketplace West District,Chittenden,4.1984336015940695e-05
+matched,overlap_99.5pct,99.46,Milton,Downtown Business District,Chittenden,4.422356138969543e-05
+matched,overlap_99.6pct,99.62,Milton,Low Density Residential District,Chittenden,0.0006704122865872086
+matched,overlap_98.5pct,98.53,Milton,Beaverbrook Residential District,Chittenden,0.00014616213608138404
+matched,overlap_99.8pct,99.77,Milton,Milton Crossroads Marketplace Municipal/Recreation District,Chittenden,0.0001549634921524178
+matched,overlap_99.7pct,99.7,Milton,Checkerberry Residential District,Chittenden,9.171695742390712e-05
+matched,overlap_99.4pct,99.37,Milton,General Industrial District,Chittenden,0.0003119102443073113
+matched,overlap_100.0pct,99.97,Milton,Interstate Commercial District,Chittenden,2.1305682748100975e-05
+matched,overlap_99.2pct,99.18,Milton,Checkerberry Neighborhood Center District,Chittenden,1.9008812033262133e-05
+matched,overlap_99.6pct,99.61,Milton,Checkerberry Commercial District,Chittenden,5.0863919128171025e-05
+matched,overlap_99.7pct,99.66,Milton,Agricultural/Rural Residential District,Chittenden,0.00862830311944921
+matched,overlap_97.8pct,97.76,Milton,Medium Density Residential District,Chittenden,0.00046784119198333747
+matched,overlap_98.9pct,98.93,Georgia,Residential High Density,Franklin,0.0007037871138182864
+matched,overlap_96.0pct,95.97,Milton,Shoreland Residential District,Chittenden,0.00037661559850762867
+matched,overlap_99.7pct,99.73,Georgia,Flood Hazard Overlay,Franklin,0.0023664454565319325
+matched,overlap_99.6pct,99.64,Georgia,Industrial,Franklin,0.00016529696258447363
+matched,overlap_99.4pct,99.44,Milton,Transitional Residential District,Chittenden,0.0004027918018761831
+matched,overlap_99.6pct,99.57,Georgia,South Village,Franklin,5.178457160224983e-05
+matched,overlap_97.8pct,97.83,Georgia,Commercial/Light Industrial,Franklin,5.238339179932384e-05
+matched,overlap_99.7pct,99.69,Georgia,Recreational,Franklin,0.0011481403497747413
+matched,overlap_99.8pct,99.77,Georgia,Natural Areas,Franklin,0.0005699371310344538
+matched,overlap_100.0pct,100.0,Fairfax,Recreation,Franklin,5.716876330637151e-05
+matched,overlap_100.0pct,100.0,Fairfax,Rural,Franklin,0.007788072833013594
+matched,overlap_100.0pct,100.0,Fairfax,Growth Center,Franklin,0.00019529079947634996
+matched,overlap_100.0pct,100.0,Westford,Rural 10 District,Chittenden,0.00954400091913924
+matched,overlap_100.0pct,100.0,Westford,Flood Hazard Overlay,Chittenden,0.00019778427488559186
+matched,overlap_100.0pct,100.0,Westford,Water Resources Overlay,Chittenden,0.0018754737596287526
+matched,overlap_100.0pct,100.0,Westford,Transect 3,Chittenden,7.587344953349541e-05
+matched,overlap_100.0pct,100.0,Westford,Village District,Chittenden,0.0002397711861768604
+matched,overlap_100.0pct,100.0,Westford,Transect 2,Chittenden,0.0001828155042948572
+matched,overlap_100.0pct,100.0,Westford,Transect 1,Chittenden,1.4161020203225552e-06
+matched,overlap_100.0pct,100.0,Westford,Common District,Chittenden,3.260070450692956e-05
+matched,overlap_100.0pct,100.0,Westford,Transect 5,Chittenden,2.4137098563890876e-06
+matched,overlap_100.0pct,100.0,Westford,Transect 4,Chittenden,9.923647991472803e-06
+matched,overlap_100.0pct,100.0,Fairfax,Mixed Use,Franklin,9.950170383563734e-05
+matched,overlap_100.0pct,100.0,Fairfax,Residential,Franklin,0.0010389060047198825
+matched,overlap_100.0pct,100.0,Westford,Rural 3 District,Chittenden,0.00033902811904495305
+matched,overlap_100.0pct,100.0,Westford,Rural 5 District,Chittenden,0.0010522652815768447
+matched,overlap_100.0pct,100.0,Fairfax,Conservation,Franklin,0.002209704649641715
+matched,overlap_100.0pct,100.0,Fairfax,Flood Hazard Overlay,Franklin,0.0007248228824019322
+matched,overlap_100.0pct,100.0,Fairfield,Fairfield Pond And Swamp,Franklin,0.0012680387885555407
+matched,overlap_100.0pct,100.0,Fairfield,Agricultural,Franklin,0.012947419378340201
+matched,overlap_100.0pct,100.0,Fairfield,Flood Hazard Area Overlay,Franklin,0.0010386420697951146
+matched,overlap_99.6pct,99.57,Sheldon,Source Protection Overlay,Franklin,6.710832585312982e-05
+matched,overlap_99.6pct,99.58,Sheldon,Village District,Franklin,0.000220558710575121
+matched,overlap_99.4pct,99.36,Sheldon,Industrial/Commercial,Franklin,8.160319739094922e-05
+matched,overlap_100.0pct,100.0,Highgate,Forest Reserve,Franklin,0.0016890186037469212
+matched,overlap_100.0pct,100.0,Highgate,Medium Density Residential,Franklin,0.0025823101923109254
+matched,overlap_100.0pct,100.0,Highgate,Agricultural,Franklin,0.00706403530999983
+matched,overlap_100.0pct,100.0,Highgate,Protected Area,Franklin,0.000915703168512047
+matched,overlap_100.0pct,100.0,Highgate,Flood Hazard Overlay,Franklin,0.004721123932343965
+matched,overlap_100.0pct,100.0,Highgate,Village,Franklin,0.0004757487252932882
+matched,overlap_100.0pct,100.0,Swanton,Agricultural/Residential,Franklin,0.007716324437220441
+matched,overlap_100.0pct,100.0,Swanton,Flood Hazard Overlay,Franklin,0.007120096589506816
+matched,overlap_100.0pct,100.0,Swanton,Recreation/Conservation,Franklin,0.0011495733340248192
+matched,overlap_100.0pct,100.0,Swanton,Commercial/Light Industrial,Franklin,4.901119715431761e-05
+matched,overlap_100.0pct,100.0,Swanton,Residential,Franklin,0.00024773593839486763
+matched,overlap_100.0pct,100.0,Swanton,Neighborhood Commercial Light,Franklin,3.965684501023334e-05
+matched,overlap_100.0pct,100.0,Swanton,Industrial,Franklin,0.0005191549424548656
+matched,overlap_100.0pct,100.0,Swanton,Travel Service Area,Franklin,1.3210073524455757e-05
+matched,overlap_100.0pct,100.0,Highgate,Airport Overlay,Franklin,0.0002441888135966739
+matched,overlap_100.0pct,100.0,Highgate,Industrial Commercial,Franklin,0.0006191416538530912
+matched,overlap_100.0pct,100.0,Highgate,Shoreline,Franklin,0.0001351494408405354
+matched,overlap_100.0pct,100.0,Swanton,Federal Land,Franklin,1.0494295796720657e-05
+matched,overlap_100.0pct,100.0,Swanton,Neighborhood Commercial,Franklin,6.870761651114043e-05
+matched,overlap_100.0pct,100.0,Highgate,Native American Sites Overlay,Franklin,0.00011836406808695069
+matched,overlap_100.0pct,100.0,Swanton,Native American Sites Overlay,Franklin,3.81909136521224e-05
+matched,overlap_100.0pct,100.0,Swanton,Shoreland River,Franklin,2.047201356869165e-05
+matched,overlap_100.0pct,100.0,Swanton,Central Business,Franklin,1.2949949110218682e-05
+matched,overlap_100.0pct,100.0,Swanton,Moderate Density Residential,Franklin,0.0013033603000521862
+matched,overlap_99.2pct,99.2,Saint Albans Town,Lakeshore,Franklin,0.00035239333065989475
+matched,overlap_99.4pct,99.44,Saint Albans Town,St. Albans Bay Overlay,Franklin,1.5413664197903508e-05
+matched,overlap_100.0pct,100.0,Saint Albans Town,Correctional Facility Overlay,Franklin,1.418684944051812e-05
+matched,overlap_100.0pct,100.0,Swanton,Southern Growth District,Franklin,0.00021622432666121196
+matched,overlap_99.6pct,99.63,Saint Albans Town,Growth Center,Franklin,0.0006053754944230002
+matched,overlap_99.7pct,99.67,Saint Albans City,Medical Institution,Franklin,5.394271005650945e-06
+matched,overlap_99.9pct,99.94,Saint Albans City,Business-Neighborhood Transition,Franklin,1.0132209036992966e-06
+matched,overlap_98.8pct,98.8,Saint Albans City,Flood Hazard Overlay,Franklin,8.801925012823914e-07
+matched,overlap_99.6pct,99.58,Saint Albans City,Residential 9500,Franklin,0.00025292595371525687
+matched,overlap_99.7pct,99.69,Saint Albans City,Residential-Professional,Franklin,1.1589823001202987e-05
+matched,overlap_100.0pct,99.98,Saint Albans City,Multi-Dwelling Overlay,Franklin,2.2105444987077647e-06
+matched,overlap_99.6pct,99.64,Saint Albans Town,Commercial,Franklin,0.0004620449261333337
+matched,overlap_99.8pct,99.77,Saint Albans City,Central Business,Franklin,3.6411501284281894e-05
+matched,overlap_99.3pct,99.31,Saint Albans City,Service-Industrial,Franklin,8.233419974479204e-05
+matched,overlap_99.6pct,99.6,Saint Albans City,Residential 7500,Franklin,3.793960608654312e-05
+matched,overlap_99.5pct,99.5,Saint Albans City,Traditional Business,Franklin,3.5874605079119576e-05
+matched,overlap_98.8pct,98.81,Saint Albans Town,Industrial,Franklin,0.0002585825459821854
+matched,overlap_99.9pct,99.91,Saint Albans Town,Residential,Franklin,0.0005453366898852908
+matched,overlap_99.6pct,99.63,Saint Albans Town,Mixed Residential/Commercial,Franklin,0.00029639419291412126
+matched,overlap_97.3pct,97.29,Saint Albans Town,Rural,Franklin,0.006636891464618831
+matched,overlap_99.0pct,98.99,Saint Albans Town,Conservation,Franklin,0.0017591943781851596
+matched,overlap_99.8pct,99.79,Georgia,Business,Franklin,0.000278540930098127
+matched,overlap_99.4pct,99.44,Georgia,Agricultural/Rural Residential,Franklin,0.006647868062896369
+matched,overlap_99.6pct,99.6,Georgia,Residential Medium Density,Franklin,0.0007879486462258865
+matched,overlap_99.3pct,99.26,Georgia,Lakeshore,Franklin,0.00018986631346773833
+matched,overlap_99.7pct,99.71,Georgia,Lakeshore Residential/Recreational,Franklin,0.0005539355328534842
+matched,overlap_100.0pct,100.0,North Hero,Conservation,Grand Isle,0.0007164534796084692
+matched,overlap_100.0pct,100.0,North Hero,Flood Hazard Overlay,Grand Isle,0.0010546371603520359
+matched,overlap_100.0pct,100.0,North Hero,Rural Lands,Grand Isle,0.00204219818137669
+matched,overlap_100.0pct,100.0,North Hero,Shorelands,Grand Isle,0.000797373228599722
+matched,overlap_100.0pct,100.0,North Hero,Village,Grand Isle,2.2384168428355167e-05
+matched,overlap_100.0pct,100.0,North Hero,Off Island,Grand Isle,0.00038414285393506846
+matched,overlap_100.0pct,100.0,Swanton,Shoreland Recreation,Franklin,0.0006668137436168699
+matched,overlap_100.0pct,100.0,South Hero,Rural Residential,Grand Isle,0.0033417425333403254
+matched,overlap_100.0pct,100.0,South Hero,Village,Grand Isle,0.000278124379126277
+matched,overlap_100.0pct,100.0,Grand Isle,Flood Hazard Overlay,Grand Isle,0.0002477340794654263
+matched,overlap_100.0pct,100.0,Grand Isle,Commercial Recreation Shoreline,Grand Isle,4.646502879627057e-05
+matched,overlap_100.0pct,100.0,Grand Isle,Rural Residential/Agricultural,Grand Isle,0.003856155673845283
+matched,overlap_100.0pct,100.0,Grand Isle,Small Off-Shore Islands,Grand Isle,0.00010034900827955538
+matched,overlap_100.0pct,100.0,Grand Isle,Village,Grand Isle,7.708743114385008e-05
+matched,overlap_100.0pct,100.0,Grand Isle,Residential Shoreline,Grand Isle,0.0004245618967596675
+matched,overlap_100.0pct,100.0,Grand Isle,Commercial/Light Industrial,Grand Isle,2.662277985281975e-05
+matched,overlap_100.0pct,100.0,South Hero,Flood Hazard Overlay,Grand Isle,0.000175989249098222
+matched,overlap_100.0pct,100.0,South Hero,Conservation,Grand Isle,0.00037700037338234994
+matched,overlap_100.0pct,100.0,South Hero,Shoreland,Grand Isle,0.0007626251835618049
+matched,overlap_99.6pct,99.65,Colchester,General Development 1,Chittenden,0.0003874824648792048
+matched,overlap_99.7pct,99.67,Colchester,Residential One,Chittenden,0.0018876522562757505
+matched,overlap_99.4pct,99.45,Colchester,Residential Two,Chittenden,0.0006180886202221379
+matched,overlap_96.5pct,96.53,Colchester,Floodplain,Chittenden,0.0011823840772662287
+matched,overlap_99.6pct,99.64,Colchester,Lakeshore Four,Chittenden,4.522702226395005e-05
+matched,overlap_95.7pct,95.69,Colchester,Lakeshore Three,Chittenden,3.978950662932528e-06
+matched,overlap_99.8pct,99.75,Colchester,Agricultural Mixed Use,Chittenden,5.463248522446041e-05
+matched,overlap_99.4pct,99.43,Colchester,Mobile Home Park,Chittenden,0.00010419290014771847
+matched,overlap_99.5pct,99.54,Colchester,Residential Three,Chittenden,0.0006087510917420968
+matched,overlap_97.7pct,97.73,Colchester,Lakeshore One,Chittenden,6.655565802811316e-06
+matched,overlap_99.2pct,99.22,Colchester,Lakeshore Two,Chittenden,8.303905014816274e-05
+matched,overlap_100.0pct,100.0,Burlington,Rco - Conservation,Chittenden,9.295081333303101e-05
+matched,overlap_100.0pct,100.0,Burlington,Neighborhood Activity Center - Cambrian Rise,Chittenden,8.259048954886684e-06
+matched,overlap_100.0pct,100.0,Burlington,Rco - Recreation/Greenspace,Chittenden,0.00022274337665308347
+matched,overlap_100.0pct,100.0,Burlington,Residential - Low Density,Chittenden,0.0006808539646376722
+matched,overlap_100.0pct,100.0,Burlington,Urban Reserve,Chittenden,7.298525376995834e-07
+matched,overlap_100.0pct,100.0,Burlington,Rco - Agriculture,Chittenden,0.0002067298735796639
+matched,overlap_100.0pct,100.0,Winooski,Residential C,Chittenden,5.261803176590621e-05
+matched,overlap_100.0pct,100.0,Winooski,Central Business District,Chittenden,1.409696742831206e-05
+matched,overlap_100.0pct,100.0,Burlington,Neighborhood Activity Center - Riverside,Chittenden,2.3665325011007383e-05
+matched,overlap_100.0pct,100.0,Burlington,Enterprise - Agricultural Processing And Energy,Chittenden,2.4840894217510287e-05
+matched,overlap_100.0pct,100.0,Burlington,Downtown Core,Chittenden,2.4728769552463716e-05
+matched,overlap_100.0pct,100.0,Burlington,Residential - High Density,Chittenden,3.9416911941775035e-05
+matched,overlap_100.0pct,100.0,Burlington,Enterprise - Light Manufacturing,Chittenden,0.00011171535741335283
+matched,overlap_100.0pct,100.0,Burlington,Neighborhood Mixed Use,Chittenden,2.188728483761119e-05
+matched,overlap_100.0pct,100.0,Burlington,Institutional,Chittenden,0.0002071095545732147
+missing,no_key_match,,South Burlington,Park And Recreation District,Chittenden,0.0002651165427604453
+missing,no_key_match,,South Burlington,Municipal District,Chittenden,7.169989311152535e-05
+missing,no_key_match,,South Burlington,Institutional And Agricultural District,Chittenden,0.00022709563554706123
+missing,no_key_match,,South Burlington,Habitat Connector Overlay District,Chittenden,1.843188949515816e-05
+missing,no_key_match,,South Burlington,Commercial 2 District,Chittenden,0.00010513713408289723
+missing,no_key_match,,South Burlington,Swift Street District,Chittenden,1.4686100090612496e-05
+matched,overlap_100.0pct,100.0,Burlington,Waterfront Residential - Medium Density,Chittenden,4.86586277351713e-06
+matched,overlap_100.0pct,100.0,Burlington,Downtown Center,Chittenden,2.857076794360802e-05
+matched,overlap_100.0pct,100.0,Burlington,Residential - Medium Density,Chittenden,0.00011507240630300024
+matched,overlap_100.0pct,100.0,Burlington,Downtown Waterfront - Public Trust,Chittenden,9.188502230044483e-06
+matched,overlap_100.0pct,100.0,Burlington,Neighborhood Activity Center,Chittenden,2.3755151827170318e-05
+matched,overlap_100.0pct,100.0,Burlington,Waterfront Residential - Low Density,Chittenden,0.0001948918427224779
+matched,overlap_98.7pct,98.75,Ferrisburgh,Shoreland District,Addison,0.00043200894243231757
+matched,overlap_98.5pct,98.5,Charlotte,Shoreland Seasonal Home Management,Chittenden,2.5222141999558437e-05
+matched,overlap_99.6pct,99.55,Ferrisburgh,Rural Residential District,Addison,0.0003893204172396135
+matched,overlap_100.0pct,100.0,Vergennes,Low Density Residential District,Addison,0.00023871520343572212
+matched,overlap_100.0pct,100.0,Vergennes,Medium Density Residential District,Addison,0.00013857605724914982
+matched,overlap_100.0pct,100.0,Vergennes,Solar Energy Overlay District,Addison,0.0003333748739424698
+matched,overlap_100.0pct,100.0,Vergennes,Otter Creek Basin District,Addison,5.520192770806008e-06
+matched,overlap_100.0pct,100.0,Vergennes,Industrial District,Addison,5.507998976310198e-05
+matched,overlap_100.0pct,100.0,Vergennes,Archaeological Overlay District,Addison,9.532801983531194e-06
+matched,overlap_100.0pct,100.0,Vergennes,Central Business District,Addison,4.522083253863533e-06
+matched,overlap_100.0pct,100.0,Vergennes,Historic Neighborhood District,Addison,4.209420491867368e-05
+matched,overlap_100.0pct,100.0,Vergennes,Public District,Addison,8.243213867725811e-05
+matched,overlap_100.0pct,100.0,Vergennes,High Density Residential District,Addison,5.685984253687538e-05
+matched,overlap_100.0pct,100.0,Vergennes,Residential/Limited Business District,Addison,1.0629945710380911e-05
+matched,overlap_98.9pct,98.94,Ferrisburgh,Ferrisburgh Town Center District,Addison,5.224399017334884e-05
+matched,overlap_96.3pct,96.29,Ferrisburgh,Conservation District,Addison,0.0022576195670323076
+matched,overlap_99.7pct,99.74,Ferrisburgh,Rural Agricultural District,Addison,0.009445826471675795
+matched,overlap_99.9pct,99.87,Ferrisburgh,Industrial District,Addison,8.572706418465869e-05
+matched,overlap_99.8pct,99.75,Ferrisburgh,Highway Mixed-Use District,Addison,0.00015245262772079773
+matched,overlap_100.0pct,100.0,Vergennes,Northern Gateway District,Addison,1.8089931365493134e-05
+matched,overlap_100.0pct,100.0,Vergennes,Commercial District,Addison,8.845978173972e-06
+matched,overlap_99.5pct,99.49,Ferrisburgh,North Ferrisburgh Village District,Addison,6.034282393083347e-05
+matched,overlap_99.7pct,99.73,Charlotte,East Charlotte Village,Chittenden,8.987269975109283e-05
+matched,overlap_99.2pct,99.18,Shelburne,Shelburne Falls Mixed Use,Chittenden,1.821553634156318e-05
+matched,overlap_99.2pct,99.22,Shelburne,Commerce & Industry - South,Chittenden,3.8591611076131614e-05
+matched,overlap_99.8pct,99.77,Shelburne,Museum,Chittenden,4.07047432023404e-05
+matched,overlap_99.4pct,99.41,Charlotte,Route 7 Scenic Overlay,Chittenden,0.0001942371538570198
+matched,overlap_99.1pct,99.05,Charlotte,Village Commercial,Chittenden,5.1062524982347647e-05
+matched,overlap_99.2pct,99.2,Charlotte,Rural,Chittenden,0.009777166625967844
+matched,overlap_97.7pct,97.66,Charlotte,Flood Hazard Area Overlay,Chittenden,0.0001242788200313725
+matched,overlap_98.3pct,98.26,Charlotte,Conservation,Chittenden,0.0007048308232822601
+matched,overlap_99.5pct,99.51,Charlotte,West Charlotte Village,Chittenden,9.266956495776162e-05
+matched,overlap_99.7pct,99.69,Charlotte,Commercial/Light Residential,Chittenden,5.1076877925741745e-05
+matched,overlap_99.7pct,99.72,Charlotte,Shoreland,Chittenden,0.0004316156319441481
+matched,overlap_99.4pct,99.43,Shelburne,Lakeshore Overlay,Chittenden,0.0003048363058268308
+matched,overlap_99.3pct,99.3,Shelburne,Neighborhood Overlay,Chittenden,1.0877067182642705e-05
+missing,no_key_match,,South Burlington,Queen City Park District,Chittenden,2.1276914675073032e-05
+missing,no_key_match,,South Burlington,Residential 1 - Lakeshore District,Chittenden,5.87918237202278e-05
+missing,no_key_match,,South Burlington,Lakeshore Neighborhood District,Chittenden,1.3355563285078422e-05
+matched,overlap_99.7pct,99.66,Shelburne,Village Residential,Chittenden,4.872717787554045e-05
+matched,overlap_99.7pct,99.65,Shelburne,Village Design Review Overlay,Chittenden,8.536172982859626e-05
+matched,overlap_99.7pct,99.67,Shelburne,Village Center Mixed Use,Chittenden,4.1529408588065185e-05
+matched,overlap_99.5pct,99.52,Shelburne,Village Core Overlay,Chittenden,2.2172591306028176e-05
+matched,overlap_99.6pct,99.64,Shelburne,Stormwater Overlay,Chittenden,0.002203637611610229
+low_overlap,overlap_0.0pct,0.0,Shelburne,Residential,Chittenden,0.0011708453602309924
+matched,overlap_99.6pct,99.61,Shelburne,Commerce & Industry,Chittenden,3.43868357534928e-05
+matched,overlap_99.7pct,99.73,Shelburne,Shelburne Road Form-Based Overlay,Chittenden,0.00020431824333014327
+matched,overlap_99.6pct,99.59,Shelburne,Mixed Use District,Chittenden,0.0002272066729743864
+matched,overlap_99.3pct,99.32,Shelburne,Rural,Chittenden,0.0032753707106572333
+matched,overlap_98.8pct,98.78,Shelburne,Floodplain & Watercourse Overlay,Chittenden,0.0004073953608176953
+matched,overlap_97.2pct,97.21,Shelburne,Conservation,Chittenden,0.0005150792691320735
+missing,no_key_match,,South Burlington,Allen Road District,Chittenden,2.404953347205401e-05
+missing,no_key_match,,South Burlington,Commercial 1 with Automobile Sales District,Chittenden,1.814424405184892e-05
+missing,no_key_match,,South Burlington,Residential 1 District,Chittenden,5.493221014059807e-05
+missing,no_key_match,,South Burlington,Residential 2 District,Chittenden,0.00016158358139982553
+missing,no_key_match,,South Burlington,Urban Design Overlay District,Chittenden,5.3932294497635775e-05
+missing,no_key_match,,South Burlington,Southeast Quadrant - Neighborhood Residential North District,Chittenden,3.1084927889783392e-06
+missing,no_key_match,,South Burlington,Southeast Quadrant - Neighborhood Residential Transition District,Chittenden,4.5423960552139634e-05
+missing,no_key_match,,South Burlington,Southeast Quadrant - Village Residential District,Chittenden,0.00010244175483298177
+missing,no_key_match,,South Burlington,Southeast Quadrant - Natural Resource Protection District,Chittenden,0.0009394608924678865
+missing,no_key_match,,South Burlington,Southeast Quadrant - Village Commercial District,Chittenden,9.40316103643386e-06
+missing,no_key_match,,South Burlington,Southeast Quadrant - Neighborhood Residential District,Chittenden,0.0005260299902468609
+missing,no_key_match,,South Burlington,Scenic View Protection Overlay District,Chittenden,0.0005694025981773841
+missing,no_key_match,,South Burlington,Industrial And Open Space District,Chittenden,0.00020238327596622024
+missing,no_key_match,,Saint George,Village Neighborhood District,Chittenden,6.74688952201357e-05
+missing,no_key_match,,Saint George,Village Center District,Chittenden,2.082197604949103e-05
+missing,no_key_match,,Saint George,Medium-Density Residential District,Chittenden,0.00012105885994419694
+missing,no_key_match,,Saint George,Village Center Reserve District,Chittenden,2.0757735503489938e-05
+matched,overlap_100.0pct,100.0,Hinesburg,Rural Residential District 1,Chittenden,0.0016502526019212373
+matched,overlap_100.0pct,100.0,Hinesburg,Village Northeast District,Chittenden,2.938469941057963e-05
+matched,overlap_100.0pct,100.0,Hinesburg,Village Northwest District,Chittenden,2.3456938260407564e-05
+matched,overlap_100.0pct,100.0,Hinesburg,Commercial District,Chittenden,1.4365141517852963e-05
+matched,overlap_100.0pct,100.0,Hinesburg,Industrial District 4,Chittenden,2.666403351256093e-07
+matched,overlap_100.0pct,100.0,Hinesburg,Village District,Chittenden,8.96523478393156e-05
+matched,overlap_100.0pct,100.0,Hinesburg,Industrial District 3,Chittenden,4.498388183353278e-06
+matched,overlap_100.0pct,100.0,Hinesburg,Agricultural District,Chittenden,0.004683252147322933
+matched,overlap_100.0pct,100.0,Hinesburg,Residential 2 District,Chittenden,7.431026363340705e-06
+matched,overlap_100.0pct,100.0,Hinesburg,Residential 1 District,Chittenden,4.583876059529416e-05
+matched,overlap_100.0pct,100.0,Hinesburg,Industrial District 2,Chittenden,3.817963319391625e-06
+matched,overlap_100.0pct,100.0,Hinesburg,Shoreline,Chittenden,0.0001333602720983664
+missing,no_key_match,,Saint George,Low-Density Residential District,Chittenden,0.000200464802131909
+missing,no_key_match,,Saint George,Rural Development District,Chittenden,0.0006164881365318552
+matched,overlap_99.5pct,99.49,Williston,Gateway South Zoning District,Chittenden,5.289557001805081e-05
+matched,overlap_99.4pct,99.41,Williston,Village Center Zoning District,Chittenden,0.0001592407355631822
+matched,overlap_98.5pct,98.48,Williston,Agriculture/Rural Residential Zoning District,Chittenden,0.005937911801878081
+matched,overlap_100.0pct,100.0,Richmond,Shoreline Protection Overlay District,Chittenden,9.627046664891517e-05
+matched,overlap_100.0pct,100.0,Richmond,Industrial/Commercial District,Chittenden,6.588094396804006e-05
+matched,overlap_100.0pct,100.0,Richmond,Mobile Home Park District,Chittenden,5.077323703052337e-05
+matched,overlap_100.0pct,100.0,Richmond,Gateway Residential/Commercial District,Chittenden,3.062090105456885e-05
+matched,overlap_100.0pct,100.0,Richmond,High Density Residential District,Chittenden,0.0004990094790691912
+matched,overlap_100.0pct,100.0,Richmond,Commercial District,Chittenden,3.8164995253414834e-05
+matched,overlap_100.0pct,100.0,Richmond,Village Downtown District,Chittenden,1.4660583559646423e-06
+matched,overlap_100.0pct,100.0,Richmond,Jolina Court District,Chittenden,2.5856302240338167e-06
+matched,overlap_100.0pct,100.0,Richmond,Village Residential/Commercial District,Chittenden,2.0570659632727317e-05
+matched,overlap_100.0pct,100.0,Richmond,Village Commercial District,Chittenden,1.0370559147419674e-05
+matched,overlap_100.0pct,100.0,Richmond,Agricultural/Residential District,Chittenden,0.008198384749206339
+matched,overlap_100.0pct,100.0,Richmond,Flood Hazard Overlay District,Chittenden,0.0008289108790999804
+missing,no_key_match,,Huntington,Village Center District,Chittenden,0.00011925964731850219
+missing,no_key_match,,Huntington,Groundwater Protection Overlay District,Chittenden,0.00016546274670245931
+matched,overlap_100.0pct,100.0,Hinesburg,Rural Residential District 2,Chittenden,0.0032267670264838877
+matched,overlap_100.0pct,100.0,Hinesburg,Industrial District 1,Chittenden,0.00020756798166839848
+matched,overlap_100.0pct,100.0,Starksboro,Flood Hazard Overlay District,Addison,0.00025155423830849286
+missing,no_key_match,,Huntington,Flood Hazard Areas,Chittenden,0.00019781904518473232
+missing,no_key_match,,Huntington,Neighborhood District,Chittenden,0.00043962839853295285
+missing,no_key_match,,Huntington,Rural Residential District,Chittenden,0.0062656259522661266
+missing,no_key_match,,Huntington,Woodland District,Chittenden,0.0012510920419085423
+matched,overlap_100.0pct,100.0,Buels Gore,Design Review,Chittenden,4.343956129860979e-05
+matched,overlap_100.0pct,100.0,Buels Gore,Forestry And Conservation Two,Chittenden,2.144637282712945e-06
+matched,overlap_100.0pct,100.0,Buels Gore,Forestry And Conservation One,Chittenden,0.0004541135328967261
+matched,overlap_100.0pct,100.0,Starksboro,High Density Residential And Commercial,Addison,0.0003230777512200702
+matched,overlap_100.0pct,100.0,Starksboro,Low Density Residential And Commercial,Addison,0.001916724264444261
+matched,overlap_100.0pct,100.0,Starksboro,Forestry And Conservation,Addison,0.007781625508128095
+matched,overlap_100.0pct,100.0,Starksboro,"Agricultural, Scenic, Rural Residential Corridors",Addison,0.0018724462620284645
+matched,overlap_100.0pct,100.0,Starksboro,Medium Density Residential And Commercial,Addison,7.85243390906538e-05
+matched,overlap_100.0pct,100.0,Starksboro,Watershed Protection,Addison,5.563855306203214e-05
+matched,overlap_99.2pct,99.18,Bristol,Bristol Pond Camp,Addison,1.1766280248708844e-05
+matched,overlap_100.0pct,100.0,Monkton,High Density Village District,Addison,2.4787863357071122e-05
+matched,overlap_100.0pct,100.0,Monkton,Flood Hazard Overlay District,Addison,0.0006865929565177432
+matched,overlap_100.0pct,100.0,Monkton,Rural Agricultural District Village,Addison,1.0114982898208636e-05
+matched,overlap_100.0pct,100.0,Monkton,Monkton Pond Overlay District,Addison,0.00010184493431984508
+matched,overlap_100.0pct,100.0,Monkton,Medium Density Rural Agricultural District,Addison,0.0007154495047634791
+matched,overlap_100.0pct,100.0,Monkton,Low Density Rural Agricultural District,Addison,0.007987700531199507
+matched,overlap_100.0pct,100.0,Monkton,Natural Heritage Protection Overlay District,Addison,0.0006987869577116766
+matched,overlap_100.0pct,100.0,Monkton,Conservation District - Prohibited,Addison,0.001699278996136887
+matched,overlap_100.0pct,100.0,Monkton,Ridgeline Overlay District,Addison,0.0015480205806026304
+matched,overlap_99.4pct,99.45,New Haven,Neighborhood Commercial District,Addison,7.799073532449448e-05
+matched,overlap_99.8pct,99.76,New Haven,Rural Agricultural (Ra-10) District,Addison,0.006168417474601498
+matched,overlap_99.3pct,99.33,New Haven,Flood Hazard District,Addison,0.0010774398491334798
+matched,overlap_99.5pct,99.49,New Haven,Rural Agricultural (Ra-2) District,Addison,0.0021056406603624485
+matched,overlap_99.1pct,99.07,New Haven,Industrial District,Addison,0.00024970363154424316
+matched,overlap_99.4pct,99.42,New Haven,Rural Agricultural (Ra-5) District,Addison,0.000721923496087442
+matched,overlap_99.8pct,99.79,New Haven,Forest District,Addison,0.0011173066481610884
+matched,overlap_100.0pct,100.0,Middlebury,General Commercial District,Addison,4.465602543536006e-05
+matched,overlap_100.0pct,100.0,Middlebury,Industrial District,Addison,0.0001603912458310665
+matched,overlap_99.9pct,99.87,Bristol,Rural Agriculture1,Addison,0.0001019812033820789
+matched,overlap_94.1pct,94.08,Bristol,Rural Agriculture5,Addison,0.005275861684698174
+matched,overlap_99.6pct,99.59,Bristol,Conservation,Addison,0.006150624678409468
+matched,overlap_99.9pct,99.91,Bristol,Commercial,Addison,0.00018597234483764492
+matched,overlap_100.0pct,100.0,Bristol,Recreational,Addison,5.42609738803789e-06
+matched,overlap_99.8pct,99.78,Bristol,"Residential, Office, Commercial",Addison,2.073963068317377e-05
+matched,overlap_99.9pct,99.88,Bristol,Rural Agriculture2,Addison,0.0005220960022564068
+matched,overlap_100.0pct,99.97,Bristol,Village Business,Addison,7.564413217928656e-06
+matched,overlap_99.5pct,99.45,Bristol,Downtown Design Review Overlay,Addison,8.76514074703456e-06
+matched,overlap_99.9pct,99.87,Bristol,High Density Residential,Addison,0.00014670588499947812
+matched,overlap_99.7pct,99.74,Bristol,Village Residential,Addison,0.00011201704540493663
+matched,overlap_99.9pct,99.86,Bristol,Village Mixed,Addison,0.00013132071098078237
+matched,overlap_99.1pct,99.15,Lincoln,Viewshed Overlay Area,Addison,0.007870102542613777
+matched,overlap_99.6pct,99.6,Lincoln,Outlying,Addison,0.005168871716244402
+matched,overlap_95.5pct,95.46,Lincoln,Transitional,Addison,0.0021474751391305173
+matched,overlap_99.5pct,99.47,Lincoln,Village,Addison,0.0006438788671434754
+matched,overlap_97.8pct,97.8,Lincoln,River Overlay Area,Addison,7.484238838658244e-05
+matched,overlap_97.1pct,97.08,Lincoln,Flood Hazard Overlay Area,Addison,0.00011852646613195039
+matched,overlap_100.0pct,100.0,Ripton,Neighborhood Commercial,Addison,1.3458755323796898e-05
+matched,overlap_100.0pct,100.0,Ripton,Historic District,Addison,2.0260623638854163e-05
+matched,overlap_100.0pct,100.0,Ripton,High Density Residential,Addison,7.73058208405401e-05
+matched,overlap_100.0pct,100.0,Ripton,Medium Density Residential,Addison,0.0001986492411410479
+matched,overlap_100.0pct,100.0,Ripton,Institutional,Addison,0.00011069695153745553
+matched,overlap_100.0pct,100.0,Ripton,Rural Residential,Addison,0.0016834219804403147
+matched,overlap_100.0pct,100.0,Ripton,Conservation,Addison,0.0007939372690173006
+matched,overlap_100.0pct,100.0,Ripton,Flood And River Corridor Overlay Zone,Addison,6.948033624434917e-05
+matched,overlap_100.0pct,100.0,Ripton,Flood Hazard Overlay Zone,Addison,5.447044185117748e-05
+matched,overlap_100.0pct,100.0,Ripton,Low Density Residential,Addison,0.001366429714326385
+matched,overlap_100.0pct,100.0,Ripton,Rare Species Overlay Zone,Addison,5.646244870352423e-05
+matched,overlap_98.3pct,98.26,Leicester,Lake Shore Districts: L1,Addison,4.960919573061003e-05
+matched,overlap_99.7pct,99.66,Leicester,Lake Shore Districts: L2,Addison,0.0007120590383097994
+matched,overlap_99.4pct,99.41,Salisbury,Medium Density Residential,Addison,0.00027421596584871726
+matched,overlap_99.2pct,99.22,Salisbury,High Density Residential,Addison,0.0001392611490185065
+matched,overlap_99.6pct,99.59,Salisbury,Low Density Residential,Addison,0.0034577488524792288
+matched,overlap_99.8pct,99.76,Salisbury,Forest,Addison,0.0006896586512153775
+matched,overlap_98.0pct,98.01,Salisbury,Lake Shore 1,Addison,4.419574831834547e-05
+matched,overlap_99.4pct,99.37,Salisbury,Lake Shore 2,Addison,0.0002056237872202175
+matched,overlap_100.0pct,100.0,Middlebury,Airport District,Addison,0.00010378401277618413
+matched,overlap_100.0pct,100.0,Middlebury,Forest/Conservation District,Addison,0.001820151240765272
+matched,overlap_100.0pct,100.0,Middlebury,Residential 2 District,Addison,0.0004907066028557367
+matched,overlap_100.0pct,100.0,Middlebury,Fluvial Erosion Hazard Overlay,Addison,0.00010618474526259801
+matched,overlap_99.3pct,99.28,Salisbury,Commercial,Addison,3.475368725990239e-05
+matched,overlap_100.0pct,100.0,Middlebury,Protected Highway District,Addison,0.00010919375595975317
+matched,overlap_100.0pct,100.0,Middlebury,Special Flood Hazard Area,Addison,0.001190315229408687
+matched,overlap_100.0pct,100.0,Middlebury,Mixed Use District,Addison,0.00010400841635185846
+matched,overlap_100.0pct,100.0,Middlebury,Agricultural/Rural District,Addison,0.0058749676920831695
+matched,overlap_100.0pct,100.0,Middlebury,Residential 20 District,Addison,0.00019403854950298898
+matched,overlap_100.0pct,100.0,Middlebury,Residential 12 District,Addison,3.057938025994297e-05
+matched,overlap_100.0pct,100.0,Middlebury,Residential 4 District,Addison,0.00012212159061585933
+matched,overlap_100.0pct,100.0,Middlebury,Residential 8 District,Addison,9.15641641005499e-05
+matched,overlap_100.0pct,100.0,Middlebury,Institutional District,Addison,0.00017555246156970112
+matched,overlap_100.0pct,100.0,Middlebury,Central Business District,Addison,7.73291952450082e-06
+matched,overlap_100.0pct,100.0,Middlebury,Heritage Industrial District,Addison,2.266634326072461e-05
+matched,overlap_96.5pct,96.5,Salisbury,Flood Hazard Overlay Areas,Addison,0.0013337864206951703
+matched,overlap_99.9pct,99.92,Salisbury,Conservation,Addison,0.0015738268244109646
+matched,overlap_100.0pct,100.0,Cornwall,West Cornwall Village,Addison,8.905864363529937e-05
+matched,overlap_100.0pct,100.0,Shoreham,Village Commercial District,Addison,0.00014804190191883098
+matched,overlap_100.0pct,100.0,Shoreham,Agricultural District,Addison,0.007014675062027485
+matched,overlap_100.0pct,100.0,Cornwall,Low Density Residential,Addison,0.00586661442762196
+matched,overlap_100.0pct,100.0,Cornwall,Cornwall Village,Addison,7.208586732116538e-05
+matched,overlap_100.0pct,100.0,Cornwall,Conservation,Addison,0.0009272757598796343
+matched,overlap_100.0pct,100.0,Cornwall,Medium Density Residential,Addison,0.0004950096540166016
+matched,overlap_100.0pct,100.0,Weybridge,High Density Residential District,Addison,0.00012906318351664893
+matched,overlap_100.0pct,100.0,Weybridge,Medium Density Residential District,Addison,0.0001593453107132432
+matched,overlap_100.0pct,100.0,Weybridge,Flood Hazard Area District,Addison,0.0005434173922465187
+matched,overlap_100.0pct,100.0,Weybridge,Neighborhood Commercial District,Addison,1.2458431796236277e-05
+matched,overlap_100.0pct,100.0,Weybridge,Planned Agricultural Residential District,Addison,0.0032742987372187766
+matched,overlap_100.0pct,100.0,Weybridge,Conservation District,Addison,0.00017357696620573027
+matched,overlap_99.6pct,99.59,New Haven,Highway Commercial District,Addison,0.00018603829963258106
+matched,overlap_100.0pct,100.0,Waltham,Habitat Overlay District,Addison,0.00026186263040163944
+matched,overlap_100.0pct,100.0,Waltham,Low Density Residential District,Addison,0.0005643733510007044
+matched,overlap_100.0pct,100.0,Waltham,Highway Commercial District,Addison,5.6084688973355676e-05
+matched,overlap_100.0pct,100.0,Waltham,Medium Density Residential District,Addison,0.00020130557034484984
+matched,overlap_100.0pct,100.0,Waltham,High Density Residential District,Addison,9.533650657157217e-06
+matched,overlap_100.0pct,100.0,Waltham,Municipal District,Addison,3.4325095320185443e-07
+matched,overlap_100.0pct,100.0,Waltham,Agricultural District,Addison,0.0012865948013553456
+matched,overlap_100.0pct,100.0,Waltham,Flood Hazard Overlay Area,Addison,0.00018421913736764835
+matched,overlap_100.0pct,100.0,Waltham,Forest District,Addison,0.00048308177533394056
+matched,overlap_100.0pct,100.0,Panton,Residential 2,Addison,8.899292071754435e-05
+matched,overlap_100.0pct,100.0,Panton,Flood Hazard Area,Addison,0.0001067662152404625
+matched,overlap_100.0pct,100.0,Addison,Village Neighborhood Commercial District,Addison,0.0001551321751710394
+matched,overlap_100.0pct,100.0,Addison,Conservation District,Addison,0.0006245192058137689
+matched,overlap_100.0pct,100.0,Addison,Low Density Residential/Agricultural District,Addison,0.009313136457907328
+matched,overlap_100.0pct,100.0,Addison,Flood Hazard Area Overlay District,Addison,0.00017510181066383146
+matched,overlap_100.0pct,100.0,Panton,Residential 5,Addison,0.0003852024000230635
+matched,overlap_100.0pct,100.0,Panton,Residential Agricultural,Addison,0.003786821697223052
+matched,overlap_100.0pct,100.0,Panton,Neighborhood Commerical,Addison,7.2855043535529e-06
+matched,overlap_100.0pct,100.0,Addison,Shoreland Residential District,Addison,0.000547961199416058
+matched,overlap_100.0pct,100.0,Addison,Recreational District,Addison,0.00029062292638272664
+matched,overlap_100.0pct,100.0,Bridport,Shoreland Planned Residential District,Addison,0.0006335836647396269
+matched,overlap_100.0pct,100.0,Bridport,Village District,Addison,0.00013936682107785678
+matched,overlap_100.0pct,100.0,Bridport,Residential District,Addison,0.004448563936766159
+matched,overlap_100.0pct,100.0,Bridport,Conservation District,Addison,0.0015721710173699367
+matched,overlap_100.0pct,100.0,Bridport,Residential Agricultural District,Addison,0.00788701485840126
+matched,overlap_100.0pct,100.0,Bridport,Neighborhood Commercial District,Addison,2.9463948193307168e-05
+matched,overlap_100.0pct,100.0,Shoreham,Flood Hazard Overlay District,Addison,0.00023786402676053393
+matched,overlap_100.0pct,100.0,Shoreham,Low Density Residential,Addison,0.006502741713435865
+matched,overlap_100.0pct,100.0,Shoreham,Village Residential District,Addison,0.0001311317073914966
+matched,overlap_100.0pct,100.0,Shoreham,Medium Density Residential,Addison,2.3694313538779667e-05
+matched,overlap_100.0pct,100.0,Orwell,Shoreland Overlay_lakechamplain,Addison,0.0007538021463161744
+matched,overlap_100.0pct,100.0,Orwell,Conservation,Addison,0.00030454330680767286
+matched,overlap_100.0pct,100.0,Orwell,Flood Hazard Overlay,Addison,0.0005311321739106256
+matched,overlap_100.0pct,100.0,Orwell,Rural,Addison,0.011942905925020003
+matched,overlap_100.0pct,100.0,Whiting,Low Density Residential District,Addison,0.0014808094287709563
+matched,overlap_100.0pct,100.0,Whiting,Medium Density Residential District,Addison,0.0009977283394705424
+matched,overlap_100.0pct,100.0,Whiting,Conservation District,Addison,0.001333843621799335
+matched,overlap_100.0pct,100.0,Whiting,Commercial District,Addison,3.91228921566035e-05
+matched,overlap_100.0pct,100.0,Sudbury,Agricultural Protection,Rutland,0.00024018586401535472
+matched,overlap_100.0pct,100.0,Sudbury,Village Residential,Rutland,2.084429265320071e-05
+matched,overlap_100.0pct,100.0,Sudbury,Lake Shore Residential,Rutland,0.0001559646219561846
+matched,overlap_100.0pct,100.0,Orwell,Shoreland Overlay_sunriselake,Addison,2.1611165261001434e-05
+matched,overlap_100.0pct,100.0,Orwell,Village,Addison,3.143237953452144e-05
+matched,overlap_100.0pct,100.0,Orwell,Medium Density Residential,Addison,0.00026243576975844865
+matched,overlap_100.0pct,100.0,Orwell,Neighborhood Commercial,Addison,5.9836498016456295e-05
+low_overlap,overlap_0.0pct,0.0,Benson,Lake Shore,Rutland,0.0004402365168538274
+matched,overlap_100.0pct,100.0,Hubbardton,Shoreland,Rutland,0.00042578999671982233
+matched,overlap_100.0pct,100.0,Hubbardton,Commercial,Rutland,0.000109876532989075
+matched,overlap_99.6pct,99.58,Castleton,"Residential 40,000 Sq. Ft.",Rutland,0.0008116567458785578
+matched,overlap_99.7pct,99.73,Castleton,Recreation Commercial,Rutland,0.0001091504428906537
+matched,overlap_99.5pct,99.49,Castleton,Village Commercial,Rutland,0.000171675897873176
+matched,overlap_99.9pct,99.88,Castleton,Water Source Protection Area,Rutland,0.0003169531470666157
+matched,overlap_99.8pct,99.79,Castleton,Industrial,Rutland,0.00023870392927831022
+matched,overlap_100.0pct,100.0,Fair Haven,River Mixed Use,Rutland,6.490449673989517e-06
+matched,overlap_100.0pct,100.0,Fair Haven,Downtown,Rutland,1.461750684563597e-06
+matched,overlap_100.0pct,100.0,Fair Haven,Residential,Rutland,0.000367416882420832
+matched,overlap_100.0pct,100.0,Fair Haven,Commercial,Rutland,0.0003232901421884203
+matched,overlap_100.0pct,100.0,Fair Haven,Recreation,Rutland,2.4757781585700246e-06
+matched,overlap_100.0pct,100.0,Fair Haven,Flood Hazard Area,Rutland,0.0007318103621289578
+matched,overlap_100.0pct,100.0,Fair Haven,Rural,Rutland,0.0036445771000490662
+matched,overlap_100.0pct,100.0,Fair Haven,Watershed,Rutland,0.00035458446611081506
+matched,overlap_100.0pct,100.0,West Haven,Agricultural,Rutland,0.003130120703022617
+matched,overlap_100.0pct,100.0,West Haven,Conservation,Rutland,0.005742847673392208
+matched,overlap_100.0pct,100.0,West Haven,Settlement,Rutland,0.0005864054444039666
+matched,overlap_99.8pct,99.81,Benson,Village,Rutland,0.00017966605427227004
+matched,overlap_97.6pct,97.6,Benson,Agricultural And Rural Residential,Rutland,0.011691732031381338
+matched,overlap_98.7pct,98.69,Benson,Floodplain Overlay,Rutland,0.001060712630495748
+matched,overlap_99.6pct,99.6,Benson,Lake Champlain Shoreline,Rutland,0.0001700358703486597
+matched,overlap_99.7pct,99.74,Pawlet,Village And Commercial,Rutland,0.00017996954995780945
+matched,overlap_96.6pct,96.56,Pawlet,Forest And Agriculture,Rutland,0.004600903219512574
+matched,overlap_92.9pct,92.86,Pawlet,Agriculture And Rural Residential,Rutland,0.007748756499455734
+matched,overlap_99.4pct,99.37,Pawlet,River Corridor Overlay,Rutland,0.0005182197285477358
+matched,overlap_99.4pct,99.36,Pawlet,Flood Hazard Overlay,Rutland,0.00047512027749985674
+matched,overlap_99.9pct,99.9,Pawlet,Industrial,Rutland,0.000531661115513988
+matched,overlap_99.8pct,99.79,Poultney,Lake Shore,Rutland,0.00028198854015711435
+matched,overlap_99.8pct,99.79,Poultney,Future Utility District,Rutland,0.0003042746041330797
+matched,overlap_99.5pct,99.48,Poultney,Village Commercial,Rutland,1.1551032190042019e-05
+matched,overlap_99.5pct,99.49,Poultney,College Campus,Rutland,1.5258600732205368e-05
+matched,overlap_100.0pct,100.0,Fair Haven,Industrial 1,Rutland,0.0002136296648020851
+matched,overlap_99.5pct,99.5,Poultney,Village Industrial,Rutland,1.432321289891935e-05
+matched,overlap_99.7pct,99.73,Poultney,Village Residential,Rutland,9.915918746771281e-05
+matched,overlap_99.5pct,99.55,Poultney,Industrial,Rutland,9.463297315385576e-05
+matched,overlap_99.9pct,99.93,Poultney,Agriculture/Rural Residential - 2 Acre,Rutland,0.003856853160880167
+matched,overlap_99.7pct,99.68,Poultney,Rural Residential - 1 Acre,Rutland,0.00010000221736201079
+matched,overlap_99.3pct,99.27,Poultney,Flood Hazard Area Overlay,Rutland,0.0006871430178783161
+matched,overlap_100.0pct,99.96,Poultney,Agriculture/Rural Residential - 10 Acre,Rutland,0.004384731467721718
+matched,overlap_100.0pct,99.97,Poultney,Northeast Conservation And Wildlife Habitat Overlay District,Rutland,0.0010476616798939195
+matched,overlap_99.0pct,99.03,Tinmouth,Agricultural,Rutland,0.0011188530556477205
+matched,overlap_99.5pct,99.49,Tinmouth,Rural Residential,Rutland,0.003300688374273665
+matched,overlap_95.7pct,95.73,Tinmouth,Flood Hazard,Rutland,0.0007189975893874374
+matched,overlap_99.9pct,99.94,Poultney,Agriculture/Rural Residential - 5 Acre,Rutland,0.002719879161222565
+matched,overlap_99.9pct,99.87,Pawlet,Highland,Rutland,0.0007388593933165281
+matched,overlap_99.9pct,99.91,Tinmouth,Protection,Rutland,0.0010744486777765074
+matched,overlap_99.7pct,99.71,Tinmouth,Lakeshore,Rutland,5.0897755315477465e-05
+matched,overlap_99.9pct,99.94,Wallingford,Forest And Recreation,Rutland,0.007024359991507325
+matched,overlap_99.8pct,99.82,Wallingford,Agricultural And Rural Residential,Rutland,0.0046074307473964685
+matched,overlap_100.0pct,100.0,Clarendon,Conservation,Rutland,0.0003028588563355032
+matched,overlap_99.7pct,99.74,Wallingford,"Residential 15,000",Rutland,0.00012116658857696407
+matched,overlap_99.9pct,99.93,Tinmouth,Ridgeline Protection,Rutland,0.0008349478523285894
+matched,overlap_97.3pct,97.33,Tinmouth,Conservation,Rutland,0.004060694579436595
+matched,overlap_100.0pct,100.0,West Rutland,Source Water Protection Overlay District,Rutland,0.00016870031711936742
+matched,overlap_100.0pct,100.0,Clarendon,Agricultural And Rural Residential,Rutland,0.005426761859574841
+matched,overlap_100.0pct,100.0,Clarendon,Flood Hazard Overlay,Rutland,0.0009602219635522482
+matched,overlap_100.0pct,100.0,Clarendon,Residential And Commercial,Rutland,0.003305191469925362
+matched,overlap_100.0pct,100.0,Clarendon,Commercial And Industrial,Rutland,0.0001852214504735557
+matched,overlap_99.8pct,99.78,Rutland City,Gateway Business - Woodstock Ave,Rutland,3.992808082385086e-05
+matched,overlap_99.9pct,99.86,Rutland City,Mixed Residential 1,Rutland,0.000249034767615834
+matched,overlap_99.9pct,99.92,Rutland City,Planned Office Park,Rutland,0.00010856690820037115
+matched,overlap_99.8pct,99.8,Rutland City,Gateway Business - South Main Street,Rutland,3.7905744282218475e-05
+matched,overlap_99.6pct,99.63,Rutland City,Gateway Business - Gouger Hill,Rutland,3.878329454718032e-06
+matched,overlap_99.8pct,99.83,Rutland City,Main Street Park,Rutland,1.9478085509947432e-05
+matched,overlap_99.8pct,99.83,Rutland City,Industrial,Rutland,0.00022905711614280784
+matched,overlap_99.7pct,99.7,Rutland City,Courthouse,Rutland,1.1892814618855657e-05
+matched,overlap_99.8pct,99.76,Rutland City,Downtown Business,Rutland,3.452557542117876e-05
+matched,overlap_99.6pct,99.59,Rutland City,Mixed Residential 2,Rutland,1.0029012224388404e-05
+matched,overlap_99.6pct,99.64,Rutland City,Gateway Business - State & West Streets,Rutland,3.573019406690514e-05
+matched,overlap_100.0pct,99.97,Rutland City,Neighborhood Business,Rutland,4.143379927457481e-06
+matched,overlap_100.0pct,99.96,Rutland City,Park,Rutland,0.0003192168351756632
+matched,overlap_99.9pct,99.91,Rutland City,Single-Family Residential,Rutland,0.0010102534684428095
+matched,overlap_99.9pct,99.86,Rutland City,Gateway Business - Routes 4 & 7,Rutland,7.016010782380836e-06
+matched,overlap_100.0pct,99.98,Rutland City,Gateway Business - 1,Rutland,3.830328096490541e-06
+matched,overlap_99.5pct,99.51,Rutland City,Gateway Business - 2,Rutland,9.01083484592093e-06
+matched,overlap_99.6pct,99.6,Rutland City,Gateway Business - North Main Street,Rutland,3.842296304223084e-05
+matched,overlap_100.0pct,100.0,Pittsford,Conservation I,Rutland,0.0024762434650199773
+matched,overlap_100.0pct,100.0,Pittsford,Commercial,Rutland,0.0005696033085654073
+matched,overlap_100.0pct,100.0,Pittsford,Village,Rutland,0.0002290632677736751
+matched,overlap_100.0pct,100.0,Pittsford,Rural,Rutland,0.004831729041085562
+matched,overlap_100.0pct,100.0,Pittsford,Conservation Ii,Rutland,0.002901081502774604
+low_overlap,overlap_89.7pct,89.73,Proctor,Recreation,Rutland,5.028460719418597e-05
+matched,overlap_99.5pct,99.51,Proctor,Industrial,Rutland,2.0913620954775894e-05
+matched,overlap_99.4pct,99.35,Proctor,Commercial,Rutland,8.319185882125631e-06
+matched,overlap_99.9pct,99.86,Proctor,Forest/Residential,Rutland,0.000722045117569197
+matched,overlap_99.9pct,99.94,Proctor,Forest,Rutland,0.0007325382823953293
+matched,overlap_99.4pct,99.42,Proctor,Residential,Rutland,0.0002679138828629811
+matched,overlap_98.1pct,98.06,Proctor,Flood Hazard,Rutland,0.0003712423667344124
+matched,overlap_98.7pct,98.71,Proctor,Agricultural,Rutland,0.0002368582391267336
+matched,overlap_99.1pct,99.14,Proctor,Ag-Commercial,Rutland,1.4966122557385791e-05
+matched,overlap_100.0pct,100.0,Rutland City,Campus Development,Rutland,5.2989250187298244e-05
+matched,overlap_100.0pct,100.0,West Rutland,Commercial,Rutland,5.910215913636525e-05
+matched,overlap_100.0pct,100.0,West Rutland,Neighborhood Residential 1,Rutland,0.0002199508144573893
+matched,overlap_100.0pct,100.0,West Rutland,Conservation 1,Rutland,0.0001701782944684708
+matched,overlap_100.0pct,100.0,West Rutland,Industrial,Rutland,0.000148130974775121
+matched,overlap_100.0pct,100.0,West Rutland,Rural Residential - Agricultural,Rutland,0.0021989304794776485
+matched,overlap_100.0pct,100.0,West Rutland,Fema Special Flood Hazard Areas,Rutland,0.0005293498618393521
+matched,overlap_100.0pct,100.0,West Rutland,Conservation 2,Rutland,0.0021579966620724205
+matched,overlap_100.0pct,100.0,West Rutland,Ridgeline Overlay District,Rutland,0.0026699589782171193
+matched,overlap_100.0pct,100.0,West Rutland,Village,Rutland,6.432903631638957e-05
+matched,overlap_99.4pct,99.39,Castleton,"Residential 20,000 Sq. Ft.",Rutland,7.89949236462632e-05
+matched,overlap_99.8pct,99.83,Castleton,College Campus,Rutland,2.4219768467314342e-05
+matched,overlap_98.9pct,98.86,Castleton,Rural Residential 2 Acres,Rutland,0.007952575513858605
+matched,overlap_99.3pct,99.29,Castleton,Flood Hazard Area Overlay,Rutland,0.0017832414775264854
+matched,overlap_99.9pct,99.94,Castleton,Rural Residential 5 Acres,Rutland,0.0006979183472470279
+matched,overlap_100.0pct,100.0,Hubbardton,Flood Hazard Area,Rutland,0.0005800821607604524
+matched,overlap_100.0pct,100.0,Hubbardton,Rural Residential,Rutland,0.006625666700224618
+matched,overlap_100.0pct,100.0,Hubbardton,Conservation,Rutland,0.0004728842182513003
+matched,overlap_100.0pct,100.0,Hubbardton,Highlands,Rutland,0.000526802573885559
+matched,overlap_100.0pct,100.0,Pittsford,Industrial,Rutland,0.001802231690947429
+matched,overlap_100.0pct,100.0,Brandon,High Density Multi-Use,Rutland,0.00024936211108836294
+matched,overlap_100.0pct,100.0,Brandon,Rural Development,Rutland,0.010189672926877372
+matched,overlap_100.0pct,100.0,Brandon,Central Business District,Rutland,1.278819945392373e-05
+matched,overlap_100.0pct,100.0,Sudbury,Flood Hazard Overlay,Rutland,0.0005776981373484811
+matched,overlap_100.0pct,100.0,Sudbury,Rural Residential,Rutland,0.005286665428518505
+matched,overlap_100.0pct,100.0,Sudbury,Conservation,Rutland,0.0009381079893378279
+matched,overlap_99.9pct,99.95,Leicester,Industrial District,Addison,4.379665131474754e-05
+matched,overlap_99.7pct,99.7,Leicester,Residential Agricultural Commercial District,Addison,0.00038777643679736965
+matched,overlap_99.5pct,99.53,Leicester,Residential Agricultural District,Addison,0.0022102493272654405
+matched,overlap_99.7pct,99.74,Leicester,Conservation District,Addison,0.0012407806116642133
+matched,overlap_99.7pct,99.67,Leicester,Village District,Addison,2.2127777785163078e-05
+matched,overlap_100.0pct,100.0,Brandon,Neighborhood Residential,Rutland,0.0004771810536605031
+matched,overlap_100.0pct,100.0,Goshen,Residential Agricultural Conservation District,Addison,0.0018007479436944747
+matched,overlap_100.0pct,100.0,Goshen,Village District,Addison,0.00011118891629306099
+matched,overlap_100.0pct,100.0,Brandon,Aquifer Protection Area,Rutland,0.0006443213092526673
+missing,no_key_match,,Rochester,Agricultural-Residential District,Windsor,0.0005625771944019161
+matched,overlap_99.7pct,99.71,Mendon,Residential Ii,Rutland,0.0015649583732385147
+matched,overlap_99.9pct,99.86,Mendon,Conservation Ii,Rutland,5.094248213420994e-05
+matched,overlap_99.9pct,99.95,Mendon,Village,Rutland,0.0002012247786502772
+matched,overlap_99.9pct,99.9,Mendon,Residential I,Rutland,0.0003996675600386756
+matched,overlap_100.0pct,99.97,Mendon,Wheelerville,Rutland,0.0026668341365602174
+matched,overlap_100.0pct,99.95,Mendon,City Forest,Rutland,0.00167820125668923
+matched,overlap_98.0pct,98.01,Mendon,Flood Hazard Overlay District,Rutland,0.00010933887642238573
+matched,overlap_99.9pct,99.88,Mendon,Residential Iii,Rutland,0.0001336258287233102
+matched,overlap_99.8pct,99.75,Mendon,Commercial,Rutland,0.00013976771099130685
+matched,overlap_100.0pct,99.96,Mendon,Conservation I,Rutland,0.0027682633341808
+matched,overlap_99.9pct,99.92,Mendon,Ridgeline Overlay District,Rutland,0.0005559952374506804
+matched,overlap_100.0pct,100.0,Killington,Sherburne Pass District,Rutland,6.763103052382925e-05
+matched,overlap_100.0pct,100.0,Mendon,Robinwood Residential,Rutland,1.892287464732736e-05
+matched,overlap_99.9pct,99.88,Mendon,Rural,Rutland,0.0006379442328457163
+matched,overlap_100.0pct,100.0,Killington,Residential 3 District,Rutland,0.0010882553099062944
+matched,overlap_100.0pct,100.0,Killington,Commercial District - Route 4,Rutland,0.00010728169432915426
+matched,overlap_100.0pct,100.0,Killington,Public Open Space District,Rutland,0.00015702453587250682
+matched,overlap_100.0pct,100.0,Killington,Business District,Rutland,0.0001321839206190305
+matched,overlap_100.0pct,100.0,Killington,Commercial/Business District,Rutland,7.323741134483766e-06
+matched,overlap_100.0pct,100.0,Killington,Residential 1 District,Rutland,0.0005222059277331561
+matched,overlap_100.0pct,100.0,Killington,Commercial District - Killington Basin,Rutland,9.07373047822588e-05
+matched,overlap_100.0pct,100.0,Killington,Ski Village Ii District,Rutland,0.0001904239639391151
+matched,overlap_100.0pct,100.0,Killington,Ski Village District,Rutland,0.0006288359208600758
+matched,overlap_100.0pct,100.0,Killington,Public Open Space - Killington District,Rutland,0.0011094780606053423
+matched,overlap_99.9pct,99.93,Mendon,Ski Area Development,Rutland,0.00048051915464964633
+matched,overlap_100.0pct,100.0,Killington,Foster's Peak District,Rutland,7.152709208763937e-05
+matched,overlap_100.0pct,100.0,Killington,Valley District,Rutland,0.00022111840675176673
+matched,overlap_100.0pct,100.0,Killington,Hamlet District,Rutland,8.46789265889515e-05
+matched,overlap_100.0pct,100.0,Killington,Forest Reserve District,Rutland,0.00950579121132323
+missing,no_key_match,,Stockbridge,Stockbridge School Hamlet,Windsor,3.0380738812235342e-05
+missing,no_key_match,,Stockbridge,Rural Residential,Windsor,0.006695209311746904
+missing,no_key_match,,Stockbridge,Special Flood Hazard Area Overlay,Windsor,0.00024632025679197686
+missing,no_key_match,,Stockbridge,Village Residential,Windsor,7.334534021779266e-05
+missing,no_key_match,,Stockbridge,Upland Conservation,Windsor,0.006501002031280815
+missing,no_key_match,,Stockbridge,Mixed Use Light Industrial,Windsor,2.974635005607678e-05
+missing,no_key_match,,Rochester,Business-Residential District,Windsor,8.786503522342591e-05
+missing,no_key_match,,Rochester,Aquifer Recharge District,Windsor,6.693294100271219e-06
+missing,no_key_match,,Bethel,Resource Conservation District,Windsor,0.00826771060351085
+missing,no_key_match,,Bethel,Medium Density Residential District,Windsor,0.0046605065101821795
+missing,no_key_match,,Bethel,Rural District,Windsor,0.0010145873633768294
+missing,no_key_match,,Bethel,River Corridor Overlay District,Windsor,0.0006904726251865541
+missing,no_key_match,,Bethel,Well Head Protection Overlay District,Windsor,6.799334674069744e-05
+missing,no_key_match,,Barnard,Hamlet,Windsor,0.00014864951256786434
+missing,no_key_match,,Barnard,Commercial,Windsor,0.00012089863748316583
+missing,no_key_match,,Barnard,Flood Hazard Overlay,Windsor,0.00021155575862159422
+missing,no_key_match,,Bethel,Village District,Windsor,0.00037140110836433675
+missing,no_key_match,,Bethel,Core Business District,Windsor,6.040988524384707e-06
+missing,no_key_match,,Bethel,Hamlet District,Windsor,0.0002731073552738805
+missing,no_key_match,,Bethel,Flood Hazard Overlay District,Windsor,0.00038631011509051075
+missing,no_key_match,,Barnard,East Barnard Village,Windsor,7.407298047110259e-05
+missing,no_key_match,,Barnard,East Barnard Conservation,Windsor,0.0015124644064721034
+missing,no_key_match,,Pomfret,South Promfret Village District,Windsor,5.9412033195876535e-05
+missing,no_key_match,,Pomfret,Ridgeline And Hillside Conservation Overlay District,Windsor,0.004475411245743022
+missing,no_key_match,,Pomfret,Rural Residential,Windsor,0.011378473238507202
+missing,no_key_match,,Pomfret,Flood Hazard Overlay District,Windsor,0.0003843707145684696
+matched,overlap_100.0pct,100.0,Woodstock Village,Commercial/Light Industrial,Windsor,1.834239384851116e-05
+missing,no_key_match,,Woodstock Town,Residential Three Acre,Windsor,5.970293790945088e-06
+missing,no_key_match,,Woodstock Town,Residential Low Density,Windsor,5.2642313493527485e-05
+missing,no_key_match,,Woodstock Town,Residential/Office,Windsor,9.08835013984391e-06
+missing,no_key_match,,Woodstock Town,Hamlet/Commercial,Windsor,2.4127216498103457e-06
+missing,no_key_match,,Woodstock Town,Business Service/Light Industrial,Windsor,3.309538758469682e-05
+missing,no_key_match,,Woodstock Town,Residential High Density,Windsor,1.957687428902317e-05
+missing,no_key_match,,Woodstock Town,Residential One Acre,Windsor,0.00025633917112461856
+matched,overlap_100.0pct,100.0,Woodstock Village,Residential Low Desnity,Windsor,8.335898943233254e-05
+matched,overlap_100.0pct,100.0,Woodstock Village,Residential Medium Density,Windsor,1.960414796444717e-05
+matched,overlap_100.0pct,100.0,Woodstock Village,Inn,Windsor,5.689482934677897e-06
+matched,overlap_100.0pct,100.0,Woodstock Village,Scenic Ridgeline District,Windsor,2.0441301444110582e-05
+matched,overlap_100.0pct,100.0,Woodstock Village,Residential High Density,Windsor,3.75951443493941e-05
+matched,overlap_100.0pct,100.0,Woodstock Village,Residential/Office,Windsor,8.342697109576269e-07
+matched,overlap_100.0pct,100.0,Woodstock Village,Central Commercial,Windsor,4.582550577803725e-06
+matched,overlap_100.0pct,100.0,Woodstock Village,Community,Windsor,4.2828356014075605e-05
+matched,overlap_100.0pct,100.0,Woodstock Village,Residential Three Acre,Windsor,0.00010855959326363994
+matched,overlap_100.0pct,100.0,Woodstock Village,Light Commercial,Windsor,4.701306421439206e-06
+matched,overlap_100.0pct,100.0,Woodstock Village,Design Review District,Windsor,9.148616826227548e-05
+matched,overlap_100.0pct,100.0,Woodstock Village,Residential One Acre,Windsor,7.633196314089592e-06
+missing,no_key_match,,Woodstock Town,Woodstock Aqueduct Protection Overlay,Windsor,0.0011512640861826237
+missing,no_key_match,,Woodstock Town,Commercial/Light Industrial,Windsor,3.3065767275860424e-05
+missing,no_key_match,,Woodstock Town,Light Commercial/Light Industrial,Windsor,7.495090226770024e-06
+missing,no_key_match,,Woodstock Town,Community,Windsor,2.768560950092675e-05
+missing,no_key_match,,Woodstock Town,Residential Five Acre,Windsor,0.012755914851236934
+missing,no_key_match,,Woodstock Town,Scenic Ridgeline Overlay,Windsor,0.002626120478075229
+missing,no_key_match,,Woodstock Town,Forest Reserve,Windsor,0.001889405947666339
+missing,no_key_match,,Woodstock Town,Residential Medium Density,Windsor,0.0001406618736445482
+missing,no_key_match,,Barnard,Silver Lake Watershed Overlay,Windsor,0.0004967879453996551
+missing,no_key_match,,Barnard,Lakeshore,Windsor,0.0001379562888911248
+missing,no_key_match,,Barnard,"Rural, Forest, And Farmlands",Windsor,0.008736650024306425
+missing,no_key_match,,Barnard,Barnard Village,Windsor,0.00018446588315256307
+missing,no_key_match,,Barnard,Prosper Valley Overlay,Windsor,0.0019349399829805681
+missing,no_key_match,,Barnard,Barnard Chateauguary Conservation,Windsor,0.003186780185601281
+missing,no_key_match,,Reading,Rural Residential 5,Windsor,0.0007340675619555571
+missing,no_key_match,,Reading,Residential 1 (South Reading),Windsor,0.0001928970133746416
+missing,no_key_match,,Reading,Significant Wildlife Habitat Overlay District,Windsor,0.0012210309766350772
+missing,no_key_match,,Reading,Rural Residential 10,Windsor,0.004372135355162845
+missing,no_key_match,,Reading,Ridgeline Protection Overlay District,Windsor,0.00204018589454592
+missing,no_key_match,,Reading,Residential/Conservation 25,Windsor,0.00627739845583857
+missing,no_key_match,,Woodstock Town,Inn,Windsor,1.5311042802780156e-05
+missing,no_key_match,,Woodstock Town,Design Review Overlay,Windsor,3.29184212808046e-05
+missing,no_key_match,,West Windsor,Rural Residential,Windsor,0.003887399516144437
+missing,no_key_match,,West Windsor,Primary Growth Village,Windsor,0.00023181299586709828
+missing,no_key_match,,West Windsor,Residential/Resort,Windsor,0.0001274561646151953
+missing,no_key_match,,West Windsor,Recreation/Conservation Pud,Windsor,8.739842848790811e-05
+missing,no_key_match,,West Windsor,Conservation,Windsor,0.0013308308220892945
+missing,no_key_match,,West Windsor,Secondary Growth Residential,Windsor,0.001298281565759455
+missing,no_key_match,,Reading,Residential/Commercial (Felchville),Windsor,5.627491806894849e-05
+missing,no_key_match,,West Windsor,Light Industrial/Commercial,Windsor,1.927779282374672e-05
+missing,no_key_match,,Reading,Residential/Commercial (Hammondsville Area),Windsor,5.0655887199747745e-05
+missing,no_key_match,,Reading,Industrial Mining,Windsor,4.262494794839837e-05
+missing,no_key_match,,Weathersfield,Industrial,Windsor,0.00013666815828971443
+missing,no_key_match,,Weathersfield,Highway Commercial,Windsor,0.0002502693408336743
+missing,no_key_match,,Weathersfield,Village,Windsor,0.00023124255947176814
+missing,no_key_match,,Weathersfield,Hamlet,Windsor,7.842301195695858e-05
+missing,no_key_match,,Weathersfield,Conservation,Windsor,0.007324978495911316
+missing,no_key_match,,Weathersfield,Rural Residential Reserve,Windsor,0.0028508181834066386
+missing,no_key_match,,Weathersfield,Rural Residential,Windsor,0.0010559330852692415
+missing,no_key_match,,Springfield,Airport Approach Overlay District,Windsor,0.0029773871696193287
+missing,no_key_match,,Springfield,Residential Commercial District,Windsor,6.1030255995652136e-05
+missing,no_key_match,,Springfield,Medium Density Residential District,Windsor,0.0009302024240869244
+missing,no_key_match,,Springfield,Aquifer Re-Charge Protection Area—Secondary District,Windsor,0.00017150800607797223
+missing,no_key_match,,Springfield,Land Reserve 10-Acre District,Windsor,0.0009935272141476865
+missing,no_key_match,,Springfield,Natural Resource Preservation District,Windsor,1.3792472359950536e-06
+missing,no_key_match,,Springfield,Aquifer Re-Charge Protection Area—Primary District,Windsor,8.693310246511693e-05
+matched,overlap_100.0pct,100.0,Baltimore,Rural Residential,Windsor,0.0013702367326804904
+missing,no_key_match,,Ludlow Village,Ludlow Preservation District,Windsor,1.281335343863643e-05
+missing,no_key_match,,Ludlow Town,Industrial District,Windsor,0.000566866338980305
+missing,no_key_match,,Chester,Conservation-Residential,Windsor,0.0036035328080181533
+missing,no_key_match,,Ludlow Town,Quifer Protection District - Watershed Area,Windsor,0.000859407141994011
+missing,no_key_match,,Weston,Commercial,Windsor,1.3275621823973484e-05
+missing,no_key_match,,Weston,Resource,Windsor,0.0017129810542465794
+missing,no_key_match,,Weston,Conservation,Windsor,0.00532545597459786
+missing,no_key_match,,Ludlow Town,Ridgeline Protection Overlay District,Windsor,0.00029549209028640347
+missing,no_key_match,,Ludlow Town,Mountain Recreation District,Windsor,0.0009701941852194298
+missing,no_key_match,,Ludlow Town,Proprietary Municipal District,Windsor,0.00014307578933257228
+missing,no_key_match,,Ludlow Village,Village Residential District,Windsor,0.0002431077798322622
+missing,no_key_match,,Ludlow Village,Village Residential/Commercial District,Windsor,0.00011172788987886699
+missing,no_key_match,,Ludlow Town,Town Residential District,Windsor,0.005250379120460764
+missing,no_key_match,,Ludlow Town,Residential/Commercial District 2,Windsor,0.00015455470415939106
+missing,no_key_match,,Ludlow Town,Esidential/Commercial District 1,Windsor,0.0003920025130735292
+missing,no_key_match,,Ludlow Town,Jackson Gore Recreational District,Windsor,7.061433804584407e-05
+missing,no_key_match,,Ludlow Town,Lakes District,Windsor,0.00027556580062921155
+missing,no_key_match,,Plymouth,Flood Hazard Protection Overlay,Windsor,0.00029573280386794757
+missing,no_key_match,,Plymouth,Vacation Resort,Windsor,0.00033809250034135224
+missing,no_key_match,,Plymouth,Village,Windsor,6.84718940681688e-05
+missing,no_key_match,,Plymouth,Rural Density Ten Acres,Windsor,0.005098182946728999
+missing,no_key_match,,Plymouth,Shoreland Area Overlay,Windsor,0.0006281757482252807
+missing,no_key_match,,Plymouth,Rural Density Five Acres,Windsor,0.0031018757075818716
+missing,no_key_match,,Plymouth,Conservation,Windsor,0.00530764607751468
+missing,no_key_match,,Plymouth,Coolidge Homestead Historic Area Overlay,Windsor,0.0003111542714417414
+missing,no_key_match,,Plymouth,Rural Density Two Acres,Windsor,0.00015698480661695312
+missing,no_key_match,,Plymouth,Mountain Resort,Windsor,4.402770185695795e-05
+matched,overlap_99.9pct,99.88,Mendon,East,Rutland,0.00024520170299767923
+matched,overlap_99.8pct,99.85,Shrewsbury,Historic Village a - Shrewsbury Center,Rutland,4.670251663768172e-05
+matched,overlap_99.8pct,99.8,Shrewsbury,Historic Village C - Northam,Rutland,1.2472268365596168e-05
+matched,overlap_100.0pct,99.96,Shrewsbury,North Shrewsbury Village Residential,Rutland,0.0001875336328563048
+matched,overlap_99.9pct,99.92,Shrewsbury,High Elevation Residential District,Rutland,0.0007280757436894788
+matched,overlap_99.3pct,99.29,Shrewsbury,Flood Hazard Area Overlay,Rutland,0.00044009714502886026
+matched,overlap_100.0pct,99.97,Shrewsbury,Preservation District,Rutland,0.004408911576894995
+matched,overlap_97.3pct,97.29,Shrewsbury,Special Features Overlay,Rutland,0.008373285634906366
+matched,overlap_98.4pct,98.36,Shrewsbury,Rural Residential,Rutland,0.0067811662807647595
+matched,overlap_99.9pct,99.85,Shrewsbury,Limited Residential,Rutland,0.0024301364284385367
+matched,overlap_99.8pct,99.82,Shrewsbury,Historic D - Brown Covered Bridge,Rutland,2.0581471933548157e-05
+matched,overlap_99.9pct,99.88,Shrewsbury,Historic Village B - Cuttingsville,Rutland,4.253568996671298e-05
+matched,overlap_99.1pct,99.1,Wallingford,Neighborhood Commercial,Rutland,9.664451077047192e-06
+matched,overlap_99.2pct,99.21,Wallingford,Multiple Residential,Rutland,5.369752812113348e-05
+matched,overlap_99.7pct,99.67,Wallingford,Industrial,Rutland,0.0002479709672009579
+missing,no_key_match,,Peru,Forest Recreation,Bennington,0.007642408534045058
+missing,no_key_match,,Peru,Rural Residential-5,Bennington,0.0028525016207649316
+missing,no_key_match,,Peru,Rural Residential 2,Bennington,0.0001871687367523272
+missing,no_key_match,,Bennington Landgrove,Conservation/Agriculture/Resource District,Bennington,0.0007853310048303789
+missing,no_key_match,,Bennington Landgrove,Rural Residential District,Bennington,0.0021659746658913097
+missing,no_key_match,,Bennington Landgrove,Mixed Use,Bennington,5.780331384935157e-05
+missing,no_key_match,,Bennington Landgrove,Regulated Flood Hazard Area Overlay,Bennington,6.455183774454565e-05
+missing,no_key_match,,Bennington Landgrove,Village District,Bennington,2.073628313474864e-05
+missing,no_key_match,,Bennington Landgrove,Utley Flats Scenic Overlay District,Bennington,0.0001756305707290685
+matched,overlap_100.0pct,100.0,Winhall,Rural Residential,Bennington,0.001714355540857963
+missing,no_key_match,,,Peru,Bennington,3.1125139860189325e-05
+missing,no_key_match,,Peru,Route 11 Corridor Overlay,Bennington,0.0003274579810609063
+missing,no_key_match,,Peru,Bromley Resort,Bennington,4.783781388837704e-05
+matched,overlap_100.0pct,100.0,Winhall,Transient Lodging,Bennington,6.496960760333758e-06
+matched,overlap_100.0pct,100.0,Winhall,Special Purpose,Bennington,0.0008065373314177542
+matched,overlap_100.0pct,100.0,Winhall,Residential,Bennington,0.0034387383054919002
+matched,overlap_100.0pct,100.0,Winhall,Recreational,Bennington,0.0003901341668350406
+matched,overlap_100.0pct,100.0,Winhall,Commercial,Bennington,0.00010720402602986789
+matched,overlap_100.0pct,100.0,Winhall,Transfer of Development Rights Overlay District,Bennington,7.661853986870064e-05
+missing,no_key_match,,Stratton,Recreation,Windham,0.0005928042433269945
+missing,no_key_match,,Stratton,Flood Hazard,Windham,0.0002123417675389378
+missing,no_key_match,,Stratton,Residential,Windham,0.003299087856784005
+missing,no_key_match,,Stratton,Commercial/Residential,Windham,0.000613856736852571
+missing,no_key_match,,Stratton,Greenbelt,Windham,5.260042497576761e-05
+missing,no_key_match,,Wardsboro,Village-Commercial District,Windham,0.00018306505173876336
+matched,overlap_100.0pct,100.0,Winhall,Village,Bennington,5.832725735149985e-05
+missing,no_key_match,,Wardsboro,Rural Residential District,Windham,0.0032909795659431538
+missing,no_key_match,,Wardsboro,Resource Residential District,Windham,0.0032912211470421224
+missing,no_key_match,,Windham,Hamlet,Windham,4.65260812615173e-05
+missing,no_key_match,,Windham,Rural Residential,Windham,0.0037250197192499946
+missing,no_key_match,,Windham,Recreation Commercial,Windham,2.9059839076855476e-05
+missing,no_key_match,,Windham,Forest,Windham,0.003703971156968711
+missing,no_key_match,,Londonderry,Resource Conservation Overlay,Windham,0.0017594964568281874
+missing,no_key_match,,Londonderry,Rural Residential 1,Windham,0.0017035746413568414
+missing,no_key_match,,Londonderry,Village Residential,Windham,0.00024314422542731537
+missing,no_key_match,,Londonderry,Rural Residential 3,Windham,0.007601494197404906
+missing,no_key_match,,Londonderry,Shoreland,Windham,0.0002710450257414733
+missing,no_key_match,,Londonderry,Flood Hazard Overlay,Windham,0.000751622665758922
+missing,no_key_match,,Londonderry,Service Commercial,Windham,5.122639863117059e-05
+missing,no_key_match,,Londonderry,Village Commercial,Windham,8.599948617490033e-05
+missing,no_key_match,,Londonderry,Recreation Commercial,Windham,0.00010219420107762562
+missing,no_key_match,,Weston,Industrial,Windsor,1.3233388421030733e-05
+missing,no_key_match,,Weston,Rural Residential,Windsor,0.001086622500634204
+missing,no_key_match,,Weston,Village,Windsor,5.396017692554671e-05
+missing,no_key_match,,Weston,Rural Low Intensity,Windsor,0.0018367162163418949
+matched,overlap_100.0pct,100.0,Andover,Residential,Windsor,0.008304726444233695
+missing,no_key_match,,Chester,Forest,Windsor,0.0002675749907455314
+missing,no_key_match,,Chester,Open Space,Windsor,0.00014099308934362276
+missing,no_key_match,,Chester,General Business,Windsor,3.380947990265671e-05
+missing,no_key_match,,Chester,"Residential 40,000 Square Foot Lots",Windsor,0.0009259505739476792
+missing,no_key_match,,Chester,Neighborhood,Windsor,0.0003019149529087423
+missing,no_key_match,,Chester,Village Green,Windsor,2.0234849240333842e-06
+missing,no_key_match,,Chester,Village Center,Windsor,9.667589335876587e-05
+missing,no_key_match,,Chester,Aquifer Protection Overlay District,Windsor,0.00029411573408499734
+missing,no_key_match,,Chester,"Residential 120,000 Square Foot Lots",Windsor,0.010555183817848581
+missing,no_key_match,,Chester,Adaptive 3,Windsor,1.392837687182233e-05
+missing,no_key_match,,Chester,Mixed Use,Windsor,0.0001172830302365952
+missing,no_key_match,,Chester,Stone Village,Windsor,2.218441069096378e-05
+missing,no_key_match,,Springfield,Observatory Protection Overlay District,Windsor,0.001184938701162209
+missing,no_key_match,,Springfield,High Density Residential District,Windsor,5.353006905456331e-05
+missing,no_key_match,,Springfield,Industrial District,Windsor,0.0002161394706354531
+missing,no_key_match,,Springfield,Downtown Design Control Overlay District,Windsor,2.9232249344618968e-05
+missing,no_key_match,,Springfield,Central Business District,Windsor,2.057539195025808e-05
+missing,no_key_match,,Springfield,General Business District,Windsor,0.00024327986564171505
+missing,no_key_match,,Springfield,Land Reserve 25-Acre District,Windsor,0.005274397731387583
+missing,no_key_match,,Springfield,Residential/Agricultural 2-Acre District,Windsor,0.0024907408154772742
+missing,no_key_match,,Springfield,Residential/Agricultural 5-Acre District,Windsor,0.003157765662135906
+missing,no_key_match,,Springfield,Industrial/Commercial District,Windsor,5.326798686641892e-05
+missing,no_key_match,,Rockingham,Rural Residential 5,Windham,0.002231279533127689
+missing,no_key_match,,Rockingham,Commercial-Industrial 2,Windham,0.00018932129906121554
+missing,no_key_match,,Rockingham,Commercial-Industrial 1,Windham,0.00017073183084022198
+missing,no_key_match,,Rockingham,Metting House Historic District,Windham,7.67196381157196e-05
+missing,no_key_match,,Rockingham,Rural Residential 1,Windham,0.006711235453094057
+missing,no_key_match,,Rockingham,Recreation Conservation,Windham,0.0004465592770995548
+missing,no_key_match,,Rockingham,Agriculture And Forestry,Windham,0.0018592675103462643
+missing,no_key_match,,Rockingham,Saxons River District,Windham,0.00014533036576462705
+missing,no_key_match,,Rockingham,Bellows Falls Watershed District,Windham,0.0005213929412581279
+missing,no_key_match,,Rockingham,Roadside Business 14,Windham,4.1587909995772216e-06
+missing,no_key_match,,Rockingham,Residential 14,Windham,0.00022094736222607196
+missing,no_key_match,,Rockingham,Residential 7,Windham,0.00011050883359622591
+missing,no_key_match,,Rockingham,Central Business Expansion,Windham,1.1307118168688487e-05
+missing,no_key_match,,Westminster,Commercial/Industrial,Windham,0.00022153967122369545
+missing,no_key_match,,Westminster,Village,Windham,0.00014480825429404222
+missing,no_key_match,,Westminster,Rural Residential,Windham,0.007504652565565203
+missing,no_key_match,,Westminster,Residential,Windham,0.002764451837670527
+missing,no_key_match,,Westminster,Conecticut River Conservation District,Windham,0.00014507829071531695
+missing,no_key_match,,Westminster,Resource Conservation,Windham,0.0026974339611487894
+matched,overlap_100.0pct,100.0,Newfane,Village,Windham,0.0001756881077504331
+missing,no_key_match,,Dummerston,Rural Residential,Windham,0.001489521095486748
+missing,no_key_match,,Dummerston,Conservation,Windham,0.003745390433983235
+missing,no_key_match,,Dummerston,Rural,Windham,0.0019259797978552515
+missing,no_key_match,,Dummerston,Riparian Overlay District,Windham,0.00101283466294856
+missing,no_key_match,,Dummerston,Settlement Area,Windham,7.173084819823624e-05
+missing,no_key_match,,Dummerston,Resdiential,Windham,0.00021734493584374282
+missing,no_key_match,,Dummerston,Rural Commercial,Windham,0.0006061952649776804
+matched,overlap_99.9pct,99.92,Putney,Conservation,Windham,0.0018132916481550048
+matched,overlap_99.9pct,99.9,Putney,Village Residential,Windham,8.835046915577878e-05
+matched,overlap_99.8pct,99.82,Putney,Multiple Use,Windham,4.430213521075755e-05
+matched,overlap_99.9pct,99.89,Putney,Village,Windham,0.00014179339830993669
+matched,overlap_90.5pct,90.53,Putney,Rural Residential,Windham,0.004688923745875933
+matched,overlap_96.4pct,96.43,Putney,Resource,Windham,0.0018726006531726716
+missing,no_key_match,,Dummerston,Commercial/Light Industrial,Windham,4.856886077127192e-05
+missing,no_key_match,,Dummerston,Productive Land,Windham,0.0007436186399865404
+missing,no_key_match,,Brattleboro,Service Center,Windham,0.0001020088127647134
+missing,no_key_match,,Brattleboro,Institutional,Windham,0.00016896880642571128
+missing,no_key_match,,Brattleboro,Industrial,Windham,0.0004459458383096735
+missing,no_key_match,,Brattleboro,Residential Neighborhood 3600,Windham,0.00016272541392961678
+missing,no_key_match,,Brattleboro,Urban Center,Windham,3.194012645886888e-05
+missing,no_key_match,,Brattleboro,Waterfront,Windham,0.00025110657061484023
+missing,no_key_match,,Brattleboro,Mixed Use Neightborhod,Windham,7.762709556708842e-05
+missing,no_key_match,,Brattleboro,Residential Neighborhood 5400,Windham,0.0005736026445919703
+missing,no_key_match,,Brattleboro,Rural Residential,Windham,0.0025592956363181493
+missing,no_key_match,,Brattleboro,Village Center,Windham,4.243061970928883e-05
+missing,no_key_match,,Brattleboro,Neighborhood Center,Windham,0.00011931319890359874
+missing,no_key_match,,Brattleboro,Rural,Windham,0.004825799239337947
+matched,overlap_100.0pct,100.0,Halifax,Conservation,Windham,0.0030668419792738186
+matched,overlap_100.0pct,100.0,Halifax,Rural Residential,Windham,0.008150075263288984
+matched,overlap_100.0pct,100.0,Halifax,Village,Windham,0.00011980973839221698
+missing,no_key_match,,Marlboro,Commercial West,Windham,2.7297714432448415e-05
+missing,no_key_match,,Marlboro,Rural Residential,Windham,0.011682603356285437
+missing,no_key_match,,Marlboro,Conservation Priority,Windham,0.0011632325228836849
+missing,no_key_match,,Marlboro,Educational,Windham,0.00016238794646014268
+missing,no_key_match,,Marlboro,Village,Windham,9.38943734531849e-05
+missing,no_key_match,,Marlboro,Agricultural/Forest Production,Windham,0.00014240241948429842
+missing,no_key_match,,Marlboro,Commercial East,Windham,4.72927409870337e-05
+matched,overlap_100.0pct,100.0,Newfane,Resource,Windham,0.006604662770213503
+matched,overlap_100.0pct,100.0,Newfane,Rural,Windham,0.00465849918022565
+missing,no_key_match,,Dover,Village,Windham,6.440429592077335e-05
+missing,no_key_match,,Wilmington,Conservation,Windham,0.0028259384940114082
+missing,no_key_match,,Wilmington,Commercial/Residential,Windham,0.00042801567487023664
+missing,no_key_match,,Wilmington,Resort - Residential,Windham,0.00047687769134458554
+missing,no_key_match,,Dover,Light Industrial,Windham,8.291002860917322e-05
+missing,no_key_match,,Dover,Residential,Windham,0.0007745042609657871
+missing,no_key_match,,Dover,Transfer of Development Overlay,Windham,0.0006830547903057531
+missing,no_key_match,,Dover,Productive Residential,Windham,0.004260499166639474
+missing,no_key_match,,Dover,Resource Reserve And Conservation,Windham,0.004670732974884301
+missing,no_key_match,,Dover,Sensitive Wildlife Overlay,Windham,0.0017039609538367904
+missing,no_key_match,,Wardsboro,Conservation District,Windham,0.0016249063143448943
+missing,no_key_match,,Dover,Planned Commercial,Windham,7.98796780496618e-05
+missing,no_key_match,,Dover,Resort Center,Windham,0.00016921214020707272
+missing,no_key_match,,Dover,Vacation Zone (Resort Overlay),Windham,0.0001432721506110762
+missing,no_key_match,,Wilmington,Resort - Commercial/Residential,Windham,0.00021204807648915813
+missing,no_key_match,,Wilmington,Village,Windham,0.00011259267599221561
+missing,no_key_match,,Wilmington,Historic Design Review District,Windham,8.705889670660832e-06
+missing,no_key_match,,Wilmington,Residential,Windham,0.008558119012231935
+missing,no_key_match,,Whitingham,Conservation,Windham,0.00281917054871425
+missing,no_key_match,,Whitingham,Rural,Windham,0.005730934465133491
+missing,no_key_match,,Whitingham,Rura Residential,Windham,0.0027981746064084396
+missing,no_key_match,,Whitingham,Village,Windham,0.0001995946405371858
+matched,overlap_100.0pct,100.0,Readsboro,Rural Residential,Bennington,0.003993865140876781
+matched,overlap_100.0pct,100.0,Readsboro,Watershed,Bennington,0.001143237217069175
+matched,overlap_100.0pct,100.0,Readsboro,Conservation,Bennington,0.004762037356685628
+matched,overlap_100.0pct,100.0,Readsboro,Village,Bennington,0.00012139366137539704
+matched,overlap_100.0pct,100.0,Readsboro,Hamlet,Bennington,0.0001731174518174218
+matched,overlap_100.0pct,100.0,Readsboro,Rural Residential Alpenwald,Bennington,0.00014768126870322987
+matched,overlap_100.0pct,100.0,Stamford,Residential District,Bennington,0.0012490406211264624
+matched,overlap_100.0pct,100.0,Stamford,Rural District,Bennington,0.001417985487758807
+matched,overlap_100.0pct,100.0,Stamford,Forest District,Bennington,0.008618578810015197
+missing,no_key_match,,Woodford,Industrial/Commercial,Bennington,6.254268705944147e-05
+missing,no_key_match,,Woodford,Flood Hazard Overlay,Bennington,8.429691769803748e-05
+missing,no_key_match,,Woodford,Recreation,Bennington,3.558467253483297e-05
+missing,no_key_match,,Woodford,Woodford Lake Estates,Bennington,6.0990746986913626e-05
+missing,no_key_match,,Woodford,Rural Residential - 10 Acres,Bennington,0.00023830035223504662
+missing,no_key_match,,Woodford,Forest,Bennington,0.01381993849708225
+missing,no_key_match,,Woodford,Rural Residential/Roadside Commercial,Bennington,0.0001510752099518695
+missing,no_key_match,,Woodford,Rural Residential - 1 Acre,Bennington,7.270339739967211e-05
+missing,no_key_match,,Woodford,Rural Residential - 5 Acres,Bennington,0.00032875124322483427
+matched,overlap_100.0pct,100.0,Bennington,Public Open Space District,Bennington,8.229061126627779e-05
+missing,no_key_match,,Glastenbury,Forest #1,Bennington,0.00015993335612651761
+missing,no_key_match,,Glastenbury,Forest #2,Bennington,0.012532042365544576
+missing,no_key_match,,Woodford,Roadside Commercial,Bennington,2.91936072281231e-05
+missing,no_key_match,,Stratton,Public,Windham,0.004290032719926571
+missing,no_key_match,,Stratton,Conservation,Windham,0.00458657237220505
+matched,overlap_100.0pct,100.0,Winhall,Forest,Bennington,0.007057263012576504
+missing,no_key_match,,Peru,Bromley Village,Bennington,5.3134319498835235e-05
+matched,overlap_100.0pct,100.0,Dorset,Rural Mixed Use District,Bennington,0.0005298602905759725
+matched,overlap_100.0pct,100.0,Dorset,Flood Hazard Overlay District,Bennington,0.00043527034247116387
+matched,overlap_100.0pct,100.0,Dorset,Rural Residential District,Bennington,0.0062054061928891666
+matched,overlap_100.0pct,100.0,Dorset,Rural Resource Protection District,Bennington,0.007600505902844917
+matched,overlap_100.0pct,100.0,Dorset,Village Mixed Use District,Bennington,3.431392679559571e-05
+matched,overlap_100.0pct,100.0,Dorset,Village Residential District,Bennington,0.00013221689223624154
+matched,overlap_100.0pct,100.0,Dorset,Source Water Protection Overlay District,Bennington,0.00028978912221614523
+matched,overlap_100.0pct,100.0,Dorset,Village Business District,Bennington,3.074614051129759e-05
+matched,overlap_100.0pct,100.0,Dorset,General Business District,Bennington,3.956258184395076e-05
+matched,overlap_100.0pct,100.0,Manchester,Office Industrial District,Bennington,0.00013206334075886424
+matched,overlap_100.0pct,100.0,Manchester,Mixed Use 3 District,Bennington,9.068404914309128e-05
+matched,overlap_100.0pct,100.0,Manchester,Residential 4 District,Bennington,0.00013092772140660744
+matched,overlap_100.0pct,100.0,Manchester,Mixed Use 2 District,Bennington,0.00029686073727905847
+matched,overlap_100.0pct,100.0,Manchester,Residential 1 District,Bennington,0.0003750714118085831
+matched,overlap_100.0pct,100.0,Manchester,Design Review Overlay District,Bennington,0.000606313293408058
+matched,overlap_100.0pct,100.0,Manchester Village,Business 2,Bennington,2.746314671853351e-06
+matched,overlap_100.0pct,100.0,Manchester,Downtown District,Bennington,1.0873942914870762e-05
+matched,overlap_100.0pct,100.0,Manchester,Mixed Use 1 District,Bennington,4.2130162749164695e-05
+matched,overlap_100.0pct,100.0,Manchester,Residential 10 District,Bennington,0.0001269079360554925
+matched,overlap_100.0pct,100.0,Manchester,Rural Residential District,Bennington,0.0013218943701967683
+matched,overlap_100.0pct,100.0,Manchester,Town Center District,Bennington,3.5202141047792437e-05
+matched,overlap_100.0pct,100.0,Manchester,Aquifer Protection Overlay District,Bennington,0.00011334639126599075
+matched,overlap_100.0pct,100.0,Manchester,Flood Hazard Overlay District,Bennington,0.00047706623077151345
+matched,overlap_100.0pct,100.0,Manchester Village,Multiple Dwelling,Bennington,3.012700931539807e-05
+matched,overlap_100.0pct,100.0,Manchester,Rural Agricultural District,Bennington,0.002207913045985314
+matched,overlap_100.0pct,100.0,Manchester Village,Rural Residential 1,Bennington,9.55550130262168e-05
+matched,overlap_100.0pct,100.0,Manchester Village,Business 1,Bennington,3.7376743134000174e-05
+matched,overlap_100.0pct,100.0,Manchester,Forest Conservation District,Bennington,0.006373871903632752
+matched,overlap_100.0pct,100.0,Manchester Village,Rural Residential 2,Bennington,9.726222917971605e-05
+matched,overlap_100.0pct,100.0,Manchester Village,Village Residential,Bennington,2.074578579464272e-05
+matched,overlap_100.0pct,100.0,Manchester Village,Preservation District,Bennington,0.00018794349761746762
+matched,overlap_100.0pct,100.0,Manchester Village,Equinox Historic District,Bennington,1.7026235254796908e-05
+matched,overlap_100.0pct,100.0,Manchester Village,Rural Residential 5,Bennington,8.095199285755354e-05
+matched,overlap_100.0pct,100.0,Manchester Village,Forest And Recreation,Bennington,8.192084501831227e-05
+matched,overlap_100.0pct,100.0,Dorset,Design Review Overlay District,Bennington,6.841844936221269e-05
+matched,overlap_99.5pct,99.46,Rupert,Village Residential,Bennington,1.5031096071303852e-05
+matched,overlap_100.0pct,99.97,Rupert,Agricultural District,Bennington,0.0007382127090536599
+matched,overlap_100.0pct,100.0,Sandgate,Flood Hazard Overlay,Bennington,4.948804612418986e-05
+matched,overlap_100.0pct,100.0,Manchester Village,Historic Core District,Bennington,4.883447788067907e-05
+matched,overlap_100.0pct,100.0,Manchester Village,Rural Residential 3,Bennington,0.0005498344563114109
+missing,no_key_match,,Sunderland,Rural Commercial Residential,Bennington,0.00018893836755616266
+missing,no_key_match,,Sunderland,Commercial Industrial,Bennington,0.00024583892897280944
+missing,no_key_match,,Sunderland,Inundation Hazard Overlay Area,Bennington,0.00025986215586053913
+missing,no_key_match,,Sunderland,Rural Residential,Bennington,0.0024654286639059285
+missing,no_key_match,,Sunderland,Forest,Bennington,0.010092529270567934
+missing,no_key_match,,Sunderland,River Corridor Overlay Area,Bennington,0.00038388124170039416
+missing,no_key_match,,Sunderland,Village Residential,Bennington,4.6026144086704444e-05
+matched,overlap_100.0pct,100.0,Arlington,Commercial-Residential,Bennington,1.8338302076772314e-05
+matched,overlap_100.0pct,100.0,Arlington,Village-Residential District,Bennington,0.0003055437267548616
+matched,overlap_100.0pct,100.0,Arlington,Planned Industrial,Bennington,4.204741143331122e-05
+matched,overlap_100.0pct,100.0,Arlington,Commercial-Residential-Rural,Bennington,4.36881239557052e-05
+matched,overlap_100.0pct,100.0,Arlington,Commercial-Industrial,Bennington,4.166845898235739e-05
+matched,overlap_100.0pct,100.0,Arlington,Residential Rural,Bennington,0.005227374489328477
+matched,overlap_100.0pct,100.0,Arlington,Forest And Recreation,Bennington,0.0064096730933479625
+matched,overlap_100.0pct,100.0,Sandgate,River Corridor Overlay,Bennington,0.00023582989311117563
+missing,no_key_match,,Sandgate F2,Forst #2,Bennington,0.010462802627656463
+matched,overlap_100.0pct,100.0,Sandgate,Forest #1,Bennington,0.0011079424428860323
+matched,overlap_100.0pct,100.0,Sandgate,Rural Residence,Bennington,0.0005632635221882711
+matched,overlap_99.8pct,99.83,Rupert,Village Neighborhood,Bennington,0.0001178231238474379
+matched,overlap_99.3pct,99.33,Rupert,Fluvial Erosion Hazard Overlay District,Bennington,0.00017963261944037951
+matched,overlap_97.6pct,97.64,Rupert,Forest Conservation Overlay,Bennington,0.007817576052011627
+matched,overlap_99.9pct,99.91,Rupert,Rural Residential,Bennington,0.0011892237348566726
+matched,overlap_98.5pct,98.47,Rupert,Resource Management,Bennington,0.0034260950772909173
+matched,overlap_99.1pct,99.1,Rupert,Flood Hazard Overlay,Bennington,0.00029956788123687946
+matched,overlap_99.6pct,99.65,Rupert,Village Center,Bennington,2.4077344852564433e-05
+matched,overlap_100.0pct,99.96,Shaftsbury,Rural 80,Bennington,0.0035154279972639084
+matched,overlap_99.9pct,99.92,Shaftsbury,Rural 200,Bennington,0.0009477168554893724
+matched,overlap_100.0pct,99.96,Shaftsbury,Rural 40,Bennington,0.004346523438902306
+matched,overlap_99.6pct,99.64,Shaftsbury,Roadside Commercial,Bennington,8.345081258267738e-05
+matched,overlap_99.9pct,99.92,Shaftsbury,Forest And Recreation,Bennington,0.0029052947783011233
+matched,overlap_99.8pct,99.85,Shaftsbury,Industrial 1,Bennington,3.152409861274094e-05
+matched,overlap_99.6pct,99.61,Shaftsbury,Commercial-Industrial,Bennington,2.165147985906687e-05
+matched,overlap_99.9pct,99.94,Shaftsbury,Industrial 2,Bennington,0.0001783912396181994
+matched,overlap_99.9pct,99.9,Shaftsbury,Recreation Area Access Overlay Zone,Bennington,0.0006085184954941795
+missing,no_key_match,,North Bennington,Shoreland Protection Area,Bennington,2.1691027502001632e-05
+missing,no_key_match,,North Bennington,Village Residential 10,Bennington,1.0184797011714093e-05
+missing,no_key_match,,North Bennington,Village Commercial District,Bennington,1.060580408810806e-05
+missing,no_key_match,,North Bennington,Village Residential 20,Bennington,0.00010535507045930444
+missing,no_key_match,,North Bennington,Industrial District,Bennington,1.591397967250964e-05
+missing,no_key_match,,North Bennington,Village Residential-Professional District,Bennington,9.014774533383587e-06
+missing,no_key_match,,North Bennington,Educational Campus District,Bennington,0.00010136769556908937
+missing,no_key_match,,North Bennington,Village Residential 40,Bennington,0.00012600175066278312
+matched,overlap_99.7pct,99.71,Shaftsbury,Village Center 1,Bennington,1.802316663474444e-05
+matched,overlap_99.9pct,99.94,Shaftsbury,Village Residential,Bennington,0.0002615426319626294
+matched,overlap_100.0pct,100.0,Bennington,Route 7a Corridor Overlay District,Bennington,7.949867419355032e-05
+matched,overlap_100.0pct,100.0,Bennington,Fluvial Erosion Hazard Area Overlay District,Bennington,0.00028171656639202133
+matched,overlap_100.0pct,100.0,Bennington,Planned Commercial District,Bennington,0.00015509897275655526
+matched,overlap_100.0pct,100.0,Bennington,Mixed Residential District #2,Bennington,6.892945569014583e-05
+matched,overlap_100.0pct,100.0,Bennington,Industrial District,Bennington,0.0002256903210395747
+matched,overlap_100.0pct,100.0,Bennington,Rural Residential District,Bennington,0.0015435219338461017
+matched,overlap_100.0pct,100.0,Bennington,Mixed Use District #2,Bennington,5.886167043386065e-05
+matched,overlap_100.0pct,100.0,Bennington,Mixed Use Form-Based-Design Area,Bennington,0.00010569617065055995
+matched,overlap_100.0pct,100.0,Bennington,Village Residential District,Bennington,0.0006634311645329598
+matched,overlap_100.0pct,100.0,Bennington,Residential Form-Based-Design Area,Bennington,0.0007398029409327332
+matched,overlap_100.0pct,100.0,Bennington,Mixed Residential District #1,Bennington,8.432818504404615e-05
+matched,overlap_100.0pct,100.0,Bennington,Downtown Form-Based-Design Area,Bennington,3.193507223429148e-05
+matched,overlap_100.0pct,100.0,Bennington,Historic Bennington Design Review District,Bennington,5.692918058143224e-05
+matched,overlap_100.0pct,100.0,Bennington,Institutional & Professional District,Bennington,0.0001212580998640741
+matched,overlap_100.0pct,100.0,Bennington,Downtown District,Bennington,3.2097118375408936e-05
+matched,overlap_100.0pct,100.0,Bennington,Mixed Use District #1,Bennington,4.6785427373298555e-05
+matched,overlap_100.0pct,100.0,Bennington,Flood Hazard Overlay District,Bennington,0.0007449096727743136
+matched,overlap_100.0pct,100.0,Bennington,Rural Conservation District,Bennington,0.005229659808484048
+missing,no_key_match,,Old Bennington,Rural Residential District,Bennington,0.0001075611180728504
+matched,overlap_100.0pct,100.0,Bennington,Forest District,Bennington,0.002650233896169778
+matched,overlap_100.0pct,100.0,Bennington,Planned Airport District,Bennington,0.0002157866079766686
+matched,overlap_100.0pct,100.0,Bennington,Airport Approach Overlay District,Bennington,0.00026881167814854674
+missing,no_key_match,,North Bennington,Flood Hazard Area,Bennington,6.317120733031041e-06
+missing,no_key_match,,North Bennington,Village Residential 3,Bennington,1.4238158763820472e-06
+missing,no_key_match,,North Bennington,Conservation,Bennington,0.00012132984111124277
+missing,no_key_match,,North Bennington,Village Residential 120,Bennington,4.121632264158372e-05
+matched,overlap_100.0pct,100.0,Bennington,Agricultural District,Bennington,0.0002369907339857848
+matched,overlap_100.0pct,100.0,Pownal,Village,Bennington,0.0005233268895300587
+matched,overlap_100.0pct,100.0,Pownal,Rural Residential 2,Bennington,0.0079785172851264
+matched,overlap_100.0pct,100.0,Pownal,Flood Hazard Overlay,Bennington,0.000583548204702124
+matched,overlap_100.0pct,100.0,Pownal,Forest,Bennington,0.004464323404976246
+matched,overlap_100.0pct,100.0,Pownal,Rural Residential 1,Bennington,0.00041690585936675996
+matched,overlap_100.0pct,100.0,Pownal,Industrial,Bennington,1.7432039915634842e-05
