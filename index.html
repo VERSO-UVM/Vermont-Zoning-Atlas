@@ -5,9 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vermont Zoning Atlas</title>
   <meta name="description" content="The Vermont Zoning Atlas is a web-based geospatial interface that visualizes zoning code distributions across all of Vermont.">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <link rel="stylesheet" href="styles.css">
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <style>
     /* Story-specific styles */
@@ -834,6 +834,12 @@
       // List of RPCs to load
       var rpcs = ['ACRPC', 'BCRC', 'CCRPC', 'CVRPC', 'LCPC', 'MARC', 'NVDA', 'NRPC', 'RRPC', 'TRORC', 'WRC'];
 
+      // Filter out overlay districts — they represent areas where allowance
+      // fields don't apply as base zoning and clutter the map display.
+      function isNotOverlay(feature) {
+        return feature.properties && feature.properties.Overlay_District !== 'Yes';
+      }
+
       // Load each RPC's GeoJSON data
       rpcs.forEach(rpc => {
         fetch('data/RPC/' + rpc + '.geojson')
@@ -845,10 +851,11 @@
           })
           .then(data => {
             var layer = L.geoJSON(data, {
+              filter: isNotOverlay,
               style: styleFeature,
               onEachFeature: onEachFeature
             }).addTo(map);
-            
+
             geoJsonLayers.push(layer);
           })
           .catch(error => console.error('Error loading GeoJSON data for ' + rpc + ':', error));
@@ -858,6 +865,29 @@
       document.getElementById('housing-type-select').addEventListener('change', function(e) {
         currentHousingType = e.target.value;
         updateMapStyling();
+      });
+
+      // Sections above the map animate with translateY, shifting the page
+      // layout after Leaflet caches the map's pixel position at init time.
+      // invalidateSize() forces Leaflet to recompute position once visible.
+      window.addEventListener('load', function() {
+        map.invalidateSize();
+      });
+
+      var mapSection = document.querySelector('.map-section');
+      if (mapSection && 'IntersectionObserver' in window) {
+        var mapObserver = new IntersectionObserver(function(entries) {
+          entries.forEach(function(entry) {
+            if (entry.isIntersecting) {
+              map.invalidateSize();
+            }
+          });
+        }, { threshold: 0.1 });
+        mapObserver.observe(mapSection);
+      }
+
+      window.addEventListener('resize', function() {
+        map.invalidateSize();
       });
     </script>
   </section>
