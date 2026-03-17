@@ -4,7 +4,7 @@ layout: default
 ---
 # Resources
 
-This is a collection of resources, maps, analysis and other things that we think will help you explore zoning
+This is a collection of resources, maps, analysis and other things that we think will help you explore zoning in Vermont
 
 ## Visualizations from the Vermont Zoning Atlas Data
 [https://arcg.is/TaTuz0](https://arcg.is/TaTuz0) - Created by VCGI it explores where different types of housing can be built according to an analysis of zoning districts across Vermont
