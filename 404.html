@@ -1,24 +1,71 @@
----
-layout: base
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>404 - Page Not Found - Vermont Zoning Atlas</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    .error-container {
+      text-align: center;
+      padding: 4rem 2rem;
+      min-height: 60vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .error-container h1 {
+      font-size: 6rem;
+      margin-bottom: 1rem;
+      color: #2a7ae2;
+    }
+    .error-container p {
+      font-size: 1.25rem;
+      margin-bottom: 0.5rem;
+    }
+    .error-container a {
+      display: inline-block;
+      margin-top: 1.5rem;
+      padding: 0.75rem 1.5rem;
+      background-color: #2a7ae2;
+      color: white;
+      text-decoration: none;
+      border-radius: 4px;
+    }
+    .error-container a:hover {
+      background-color: #1e5bb8;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1 class="site-title"><a href="index.html">Vermont Zoning Atlas</a></h1>
+      <nav>
+        <a href="about.html">About</a>
+        <a href="data.html">Data</a>
+        <a href="contribute.html">Contribute</a>
+        <a href="resources.html">Resources</a>
+      </nav>
+    </div>
+  </header>
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
+  <main>
+    <div class="error-container">
+      <h1>404</h1>
+      <p><strong>Page not found :(</strong></p>
+      <p>The requested page could not be found.</p>
+      <a href="index.html">Return to Homepage</a>
+    </div>
+  </main>
 
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+  <footer>
+    <div class="container">
+      <p>&copy; 2026 Vermont Zoning Atlas. Licensed under <a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/LICENSE">MIT License</a>.</p>
+      <p>Repository: <a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas">VERSO-UVM/Vermont-Zoning-Atlas</a></p>
+    </div>
+  </footer>
+</body>
+</html>

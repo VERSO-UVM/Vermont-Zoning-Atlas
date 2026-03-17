@@ -1,0 +1,111 @@
+order,field,data_type,example,description,allowed_values
+1.01,OBJECT_ID,numerical,1,Unique sequential integer identifier assigned to each zoning district feature across all municipalities.,
+1.02,County,text,Addison,Vermont county in which the zoning district is located.,
+1.03,RPC,text,ACRPC,Abbreviation of the Regional Planning Commission that serves the municipality.,
+1.04,Municipal_Name,text,Middlebury,"Name of the Vermont municipality (town, city, or village) that adopted the zoning bylaw.",
+1.05,GEO_ID,text,5000144350,"US Census geographic identifier (GEOID) for the municipality, used to link to Census data.",
+1.06,District_Name,text,Low Density Residential/Agricultural District,Full name of the zoning district as defined in the municipal zoning bylaw.,
+1.08,Abbreviated_District_Name,text,Ldr/A,Short abbreviation of the zoning district name as used in maps and tables.,
+1.09,District_Type,text,Primarily Residential,"Classification of the district by its primary land use character (e.g., Primarily Residential, Nonresidential, Mixed with Residential, Overlay).","Primarily Residential,Nonresidential,Mixed with Residential,Overlay"
+1.12,Bylaw_Date,text,2023-08-15,Date of the zoning bylaw document from which data was collected.,
+1.13,Elderly_Housing_District,text,No,Indicates whether the district is designated specifically for elderly housing.,"Yes,No"
+1.14,District_Mapped,text,Yes,Indicates whether the zoning district has a corresponding mapped geographic boundary.,"Yes,No"
+1.15,Overlay_District,text,No,Indicates whether this record represents an overlay district layered on top of a base district.,"Yes,No"
+1.16,Base_Density,numerical,0.2,"Maximum residential density allowed in the district as a baseline, expressed in units per acre.",
+1.17,FIPS6,numerical,1055,Vermont six-digit FIPS place code identifying the municipality within the state.,
+1.18,GIS_ID,text,Charlotte_Rural,"Identifier used in the source GIS system, typically combining municipality name and district name.",
+1.19,Last_Update,text,20250313,Date the record was last updated in the source dataset.,
+1.2,Shape_Length,numerical,1.3336,Perimeter length of the zoning district polygon in decimal degrees.,
+1.21,Shape_Area,numerical,0.000625,Area of the zoning district polygon in decimal degrees squared.,
+2.01,F1F_Allowance,text,Permitted,"Whether single-family (1-unit) residential structures are permitted in the district (e.g., Permitted, Prohibited, Allowed/Conditional, Public Hearing, Overlay).","Permitted,Prohibited,Allowed/Conditional,Public Hearing"
+2.03,F1F_Front_Setback,numerical,75,"Minimum required setback from the front lot line for single-family structures, in feet.",
+2.04,F1F_Side_Setback,numerical,25,"Minimum required setback from each side lot line for single-family structures, in feet.",
+2.05,F1F_Rear_Setback,numerical,25,"Minimum required setback from the rear lot line for single-family structures, in feet.",
+2.06,F1F_Frontage,numerical,200,"Minimum required road frontage for a single-family lot, in feet.",
+2.08,F1F_Max_Height,numerical,35,"Maximum allowed height for single-family structures, in feet.",
+2.08,F1F_Max_Stories,numerical,2,Maximum number of stories allowed for single-family structures.,
+2.09,F1F_Min_Lot_Size,numerical,1.5,"Minimum lot size required for single-family use, in acres.",
+2.1,F1F_Max_Lot_Building_Coverage,numerical,30,Maximum percentage of the lot that may be covered by a building footprint for single-family use.,
+2.11,F1F_Max_Lot_Impervious_Coverage,numerical,25,Maximum percentage of the lot that may be covered by impervious surfaces for single-family use.,
+2.12,F1F_Min_Parking_Spaces,numerical,2,Minimum number of off-street parking spaces required per single-family unit.,
+2.14,F1F_Elderly_Housing_Only,text,No,Indicates whether single-family housing in this district is restricted to elderly occupants only.,"Yes,No"
+2.15,F1F_Affordable_Housing_Only,text,No,Indicates whether single-family housing in this district is restricted to affordable housing only.,"Yes,No"
+3.01,F2F_Allowance,text,Permitted,Whether 2-unit (duplex) residential structures are permitted in the district.,"Permitted,Prohibited,Allowed/Conditional,Public Hearing"
+3.03,F2F_Front_Setback,numerical,75,"Minimum required setback from the front lot line for 2-unit structures, in feet.",
+3.04,F2F_Side_Setback,numerical,25,"Minimum required setback from each side lot line for 2-unit structures, in feet.",
+3.05,F2F_Rear_Setback,numerical,25,"Minimum required setback from the rear lot line for 2-unit structures, in feet.",
+3.06,F2F_Frontage,numerical,200,"Minimum required road frontage for a 2-unit residential lot, in feet.",
+3.07,F2F_Max_Density,numerical,0.67,"Maximum density allowed for 2-unit housing, in units per acre.",
+3.08,F2F_Max_Height,numerical,35,"Maximum allowed height for 2-unit structures, in feet.",
+3.08,F2F_Max_Stories,numerical,2,Maximum number of stories allowed for 2-unit structures.,
+3.09,F2F_Min_Lot_Size,numerical,3,"Minimum lot size required for 2-unit residential use, in acres.",
+3.1,F2F_Max_Lot_Building_Coverage,numerical,30,Maximum percentage of the lot that may be covered by a building footprint for 2-unit use.,
+3.11,F2F_Max_Lot_Impervious_Coverage,numerical,25,Maximum percentage of the lot covered by impervious surfaces for 2-unit use.,
+3.12,F2F_Min_Parking_Spaces_per_1BR,numerical,2,Minimum off-street parking spaces required per 1-bedroom unit in a 2-unit building.,
+3.13,F2F_Min_Parking_Spaces_per_mult_BR,numerical,2,Minimum off-street parking spaces required per multi-bedroom unit in a 2-unit building.,
+3.14,F2F_Elderly_Housing_Only,text,No,Indicates whether 2-unit housing in this district is restricted to elderly occupants only.,"Yes,No"
+3.15,F2F_Affordable_Housing_Only,text,No,Indicates whether 2-unit housing in this district is restricted to affordable housing only.,"Yes,No"
+4.01,F3F_Allowance,text,Permitted,Whether 3-unit residential structures are permitted in the district.,"Permitted,Prohibited,Allowed/Conditional,Public Hearing"
+4.03,F3F_Front_Setback,numerical,75,"Minimum required setback from the front lot line for 3-unit structures, in feet.",
+4.04,F3F_Side_Setback,numerical,25,"Minimum required setback from each side lot line for 3-unit structures, in feet.",
+4.05,F3F_Rear_Setback,numerical,25,"Minimum required setback from the rear lot line for 3-unit structures, in feet.",
+4.06,F3F_Frontage,numerical,200,"Minimum required road frontage for 3-unit residential use, in feet.",
+4.07,F3F_Max_Density,numerical,0.67,"Maximum density allowed for 3-unit housing, in units per acre.",
+4.08,F3F_Max_Height,numerical,35,"Maximum allowed height for 3-unit structures, in feet.",
+4.08,F3F_Max_Stories,numerical,3,Maximum number of stories allowed for 3-unit structures.,
+4.09,F3F_Min_Lot_Size,numerical,4.5,"Minimum lot size required for 3-unit residential use, in acres.",
+4.1,F3F_Max_Lot_Building_Coverage,numerical,30,Maximum percentage of the lot covered by building footprint for 3-unit use.,
+4.11,F3F_Max_Lot_Impervious_Coverage,numerical,25,Maximum percentage of the lot covered by impervious surfaces for 3-unit use.,
+4.12,F3F_Min_Parking_Spaces_per_1BR,numerical,2,Minimum off-street parking spaces per 1-bedroom unit in a 3-unit building.,
+4.13,F3F_Min_Parking_Spaces_per_mult_BR,numerical,2,Minimum off-street parking spaces per multi-bedroom unit in a 3-unit building.,
+4.15,F3F_Affordable_Housing_Only,text,No,Indicates whether 3-unit housing in this district is restricted to affordable housing only.,"Yes,No"
+4.16,F3F_Proximity_to_Public_Transit_Required,text,No,Indicates whether 3-unit housing requires proximity to public transit service.,"Yes,No"
+4.17,F3F_Connection_to_Sewage/Water_Required,text,No,Indicates whether 3-unit housing requires connection to public sewer or water systems.,"Yes,No"
+5.01,F4F_Allowance,text,Permitted,Whether 4-or-more-unit multifamily residential structures are permitted in the district.,"Permitted,Prohibited,Allowed/Conditional,Public Hearing"
+5.03,F4F_Front_Setback,numerical,75,"Minimum required setback from the front lot line for 4+ unit structures, in feet.",
+5.04,F4F_Side_Setback,numerical,25,"Minimum required setback from each side lot line for 4+ unit structures, in feet.",
+5.05,F4F_Rear_Setback,numerical,25,"Minimum required setback from the rear lot line for 4+ unit structures, in feet.",
+5.06,F4F_Frontage,numerical,200,"Minimum required road frontage for 4+ unit multifamily use, in feet.",
+5.07,F1F_Max_Density,numerical,0.2,"Maximum density allowed for single-family housing, in units per acre.",
+5.07,F4F_Max_Density,numerical,0.67,"Maximum density allowed for 4+ unit multifamily housing, in units per acre.",
+5.08,F4F_Max_Height,numerical,35,"Maximum allowed height for 4+ unit multifamily structures, in feet.",
+5.08,F4F_Max_Stories,numerical,3,Maximum number of stories allowed for 4+ unit multifamily structures.,
+5.09,F4F_Min_Lot_Size,numerical,6,"Minimum lot size required for 4+ unit multifamily use, in acres.",
+5.1,F4F_Max_Lot_Building_Coverage,numerical,30,Maximum percentage of the lot covered by building footprint for 4+ unit use.,
+5.11,F4F_Max_Lot_Impervious_Coverage,numerical,25,Maximum percentage of the lot covered by impervious surfaces for 4+ unit use.,
+5.12,F4F_Min_Parking_Spaces_per_1BR,numerical,2,Minimum off-street parking spaces per 1-bedroom unit in a 4+ unit building.,
+5.13,F4F_Min_Parking_Spaces_per_mult_BR,numerical,2,Minimum off-street parking spaces per multi-bedroom unit in a 4+ unit building.,
+5.14,F3F_Elderly_Housing_Only,text,No,Indicates whether 3-unit housing in this district is restricted to elderly occupants only.,"Yes,No"
+5.14,F4F_Elderly_Housing_Only,text,No,Indicates whether 4+ unit housing in this district is restricted to elderly occupants only.,"Yes,No"
+5.15,F4F_Affordable_Housing_Only,text,No,Indicates whether 4+ unit housing in this district is restricted to affordable housing only.,"Yes,No"
+5.16,F4F_Proximity_to_Public_Transit_Required,text,No,Indicates whether 4+ unit housing requires proximity to public transit service.,"Yes,No"
+5.17,F4F_Connection_to_Sewage/Water_Required,text,No,Indicates whether 4+ unit housing requires connection to public sewer or water systems.,"Yes,No"
+6.01,ADU_Allowance,text,Allowed/Conditional,Whether accessory dwelling units (ADUs) are permitted in the district.,"Permitted,Prohibited,Allowed/Conditional,Public Hearing"
+6.02,ADU_Elderly_Housing_Only,text,No,Indicates whether ADUs in this district are restricted to elderly occupants only.,"Yes,No"
+6.03,ADU_Max_Size_as_Percent_of_Primary_Strcture,mixed,30,Maximum allowed size of an ADU as a percentage of the primary structure's floor area; may contain 'No' where no limit applies.,
+6.04,ADU_Max_Size_in_sq_ft,numerical,1000,Maximum allowed floor area of an ADU in square feet.,
+6.05,ADU_Min_Lot_Size,numerical,1.5,"Minimum lot size required for a property to include an ADU, in acres.",
+6.06,ADU_Max_Bedrooms,numerical,1,Maximum number of bedrooms allowed in an ADU.,
+6.07,ADU_Min_Parking_Spaces,numerical,1,Minimum off-street parking spaces required for an ADU.,
+6.08,ADU_Owner_Occupancy_Required,text,No,Indicates whether the property owner must occupy either the primary structure or the ADU.,"Yes,No"
+6.09,ADU_Renter_Occupancy_Prohibited,text,No,Indicates whether renting the ADU to non-family members is prohibited.,"Yes,No"
+6.1,ADU_Employee_or_Family_Occupancy_Required,text,No,Indicates whether the ADU must be occupied by an employee or family member of the property owner.,"Yes,No"
+6.11,ADU_Restricted_to_Primary_Structure,text,No,Indicates whether the ADU must be contained within or attached to the primary structure rather than built as a detached unit.,"Yes,No"
+7.01,Affordable_Housing_Allowance,text,Permitted,Whether affordable housing developments are permitted in the district as a distinct use category.,"Permitted,Prohibited,Allowed/Conditional,Public Hearing"
+7.02,Affordable_Housing_District,text,No,Indicates whether the district is specifically designated for affordable housing development.,"Yes,No"
+7.03,Affordable_Housing_Elderly_Only,text,No,Indicates whether affordable housing in this district is restricted to elderly residents only.,"Yes,No"
+7.04,Affordable_Housing_Min_Lot_Size,numerical,1,"Minimum lot size required for affordable housing development, in acres.",
+7.05,Affordable_Housing_Max_Density,numerical,24,"Maximum density allowed for affordable housing, in units per acre.",
+7.06,Affordable_Housing_Min_Parking_Spaces_per_mult_BR,numerical,1,Minimum off-street parking spaces per multi-bedroom affordable housing unit.,
+7.07,Affordable_Housing_Max_Units_per_Building,numerical,4,Maximum number of units allowed per affordable housing building.,
+7.08,Affordable_Housing_Min_Parking_Spaces_per_1BR,numerical,1,Minimum off-street parking spaces per 1-bedroom affordable housing unit.,
+8.01,PRD_Allowance,text,Allowed/Conditional,Whether planned residential developments (PRDs) are permitted in the district.,"Permitted,Prohibited,Allowed/Conditional,Public Hearing"
+8.02,PRD_Max_Density,numerical,1,"Maximum density allowed for a planned residential development, in units per acre.",
+8.03,PRD_Max_Units,numerical,4,Maximum total number of units allowed in a planned residential development.,
+8.04,PRD_Min_Lot_Size,numerical,2,"Minimum lot size required to develop a planned residential development, in acres.",
+8.05,PRD_Mobile_or_Manufactured_Home_Park,text,No,Indicates whether the PRD provision includes mobile home or manufactured housing parks.,"Yes,No"
+9.01,PUD_Allowance,text,Yes,Whether planned unit developments (PUDs) are permitted in the district.,"Yes,No"
+9.02,PUD_Required_with_Subdivision,text,Yes,Indicates whether PUD approval is required when subdividing land in this district.,"Yes,No"
+9.03,PUD_Requires_Land_Conservation,text,No,Indicates whether PUD approval requires setting aside land for conservation.,"Yes,No"
+9.04,PUD_Threshold_Number,numerical,5,Minimum number of units or lots that triggers PUD requirements in the district.,
+9.05,Notes,text,Preexisting homes allowed. No new housing permitted.,Free-text notes providing additional context about the district's regulations or data collection observations.,
