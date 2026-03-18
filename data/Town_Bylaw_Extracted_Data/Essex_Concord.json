@@ -1,0 +1,3080 @@
+{
+  "metadata": {
+    "municipality": "Concord",
+    "county": "Essex",
+    "state": "Vermont",
+    "bylaw_date": "0426-20-22",
+    "source_pdf": "Essex_Concord_Text_eff04262022.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 42,
+    "word_count": 14662,
+    "articles_found": 8,
+    "sections_found": 203,
+    "subsections_found": 115,
+    "regulation_rows": 0,
+    "list_items": 13
+  },
+  "articles": [
+    {
+      "number": "I",
+      "title": "Legal Framework",
+      "sections": [
+        {
+          "number": "101",
+          "title": "Enactment",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "101.1",
+          "title": "Within the framework of the Vermont Planning and Development Act 24 V.S.A. S 4401. the Town of",
+          "page": 4,
+          "paragraphs": [
+            "Concord Selectboard hereby establishes the Land Use Regulations for the Town of Concord which are set forth in the text and map that constitute these regulations. These regulations shall be known and cited as the \"Town of Concord Land Use Regulations\"."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "102",
+          "title": "Purpose",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "102.1",
+          "title": "These Land Use Regulations are designed to provide for the orderly development of the Town, to",
+          "page": 4,
+          "paragraphs": [
+            "further the purposes established in 24 V.S.A. S 4302, and to implement the goals of the Concord Town Plan."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "102.2",
+          "title": "State and Federal government may regulate certain aspects of land use; compliance with these",
+          "page": 4,
+          "paragraphs": [
+            "regulations in no way implies compliance with such State or Federal regulations. Such regulations include, but are not limited to: on-lot potable water and wastewater systems, outdoor wood furnaces, underground storage tanks, regulated by the Department of Environmental Conservation; and the setback of farm structures, regulated by the Secretary of Agriculture, Food, and Markets."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "103",
+          "title": "Equal Treatment of Housing",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "103.1",
+          "title": "These regulations are intended to allow the development of housing in accordance with statutory",
+          "page": 4,
+          "paragraphs": [
+            "requirements. Mobile homes, modular homes and prefabricated homes are allowed in Concord under the same terms and conditions as conventional homes. Mobile home parks are allowed under the same terms and conditions as other residential subdivisions or developments. Multi-family housing is allowed in appropriate districts."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "104",
+          "title": "Applicability",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "104.1",
+          "title": "All land development in the Town of Concord requires a zoning permit issued in accordance with these",
+          "page": 4,
+          "paragraphs": [
+            "regulations unless specifically exempted in these regulations (see ARTICLE II)."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "105",
+          "title": "Effective Date",
+          "page": 4,
+          "paragraphs": [
+            "This regulation shall take effect in accordance with the voting and other procedures contained in 24 V.S.A. S 4442."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "106",
+          "title": "Amendment",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "106.1",
+          "title": "These regulations may be amended or repealed at any time according to the requirements and",
+          "page": 4,
+          "paragraphs": [
+            "procedures established in 24 V.S.A. S 4441 and S 4442. Town of Concord Land Use Regulations 5 | P a g e"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "107",
+          "title": "Conflict with Other Laws",
+          "page": 5,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "107.1",
+          "title": "It is not intended by these regulations to repeal, annul, or in any way to impair any regulations or",
+          "page": 5,
+          "paragraphs": [
+            "permits previously adopted or issued, provided, however,"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "107.2",
+          "title": "if any provision of these regulations is more restrictive than any other law or regulation, then the",
+          "page": 5,
+          "paragraphs": [
+            "provision of these regulations will apply. If any provision of another law or regulation is more restrictive than required under these regulations, then the provision of the other law or regulation will apply."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "108",
+          "title": "Severability",
+          "page": 5,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "108.1",
+          "title": "The invalidity of any article or section of these regulations shall not invalidate any other article or",
+          "page": 5,
+          "paragraphs": [
+            "section thereof."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "109",
+          "title": "Interpretation",
+          "page": 5,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "109.1",
+          "title": "In their interpretation and application, the provisions of these regulations shall be held to be minimum",
+          "page": 5,
+          "paragraphs": [
+            "requirements adopted for the promotion of the public health, safety, comfort, convenience, and general welfare."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "II",
+      "title": "Exemptions and Limitations",
+      "sections": [
+        {
+          "number": "201",
+          "title": "General Exemptions",
+          "page": 6,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "201.1",
+          "title": "Except within the Flood Hazard Area, a zoning permit is not required for the following development:",
+          "page": 6,
+          "paragraphs": [
+            "(i) Normal maintenance and repair of a structure or property as long as there is no change in the exterior dimensions of an existing structure or in the use of a structure or property. (ii) Alteration or modification of a structure that do not result in changes to its exterior dimensions or use. (iii) Small accessory structures (ex: shed, chicken coop, etc.) on a residential lot that do not exceed 100 square feet in area, do not exceed 10 feet in height, and conform to the zoning district setback requirements. (iv) A residential fence or wall not more than 4 feet in height. Such fences and walls do not need to meet zoning district setback requirements, but must not extend into or obstruct a public right-of-way, or interfere with corner visibility or sight distance for vehicular traffic. Agricultural fences and walls are exempt farm structures (see Section 202). (v) Above-ground pools and hot tubs, not including any associated decks, patios, etc., provided that they conform to the zoning district setback requirements. (vi) A ramp or other structure necessary to provide access that complies with the Americans with Disabilities Act. Such a structure does not need to meet zoning district setback requirements, but it must not extend into or obstruct a public right-of-way. (vii) A solar energy device installed on and projecting not more than 10 feet above the surface of a sloped roof, or a solar energy device of any height installed on a flat roof. Solar energy devices projecting not more than 10 feet above the roof surface may exceed district height requirements. (viii) A garage sale, yard sale, auction, or similar sale of personal property occurring not more than 3 consecutive days and not more than a total of 6 days in any calendar year. (ix) Use of public or private land for hunting, fishing, or trapping in accordance with state regulations. This does not include related recreational facilities, such as firing ranges or rod and gun clubs, which for the purpose of these regulations shall be defied as outdoor recreation facilities."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "202",
+          "title": "Agriculture and Forestry",
+          "page": 6,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "202.1",
+          "title": "In accordance with 24 V.S.A. S 4413(d) these land use regulations shall not regulate accepted",
+          "page": 6,
+          "paragraphs": [
+            "silvicultural practices and accepted agricultural practices, as defined by the Secretary of Agriculture, Food, and Markets, including the construction of farm structures, except that the farm residence must meet the setback requirements of the land use regulations. In addition, any person who intends to build a farm structure other than a farm residence shall notify the Administrative Officer of such intent and abide by the setbacks approved by the Secretary of Agriculture, Food and Markets. Town of Concord Land Use Regulations 7 | P a g e"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "203",
+          "title": "Utility, Energy and Telecommunications Infrastructure",
+          "page": 7,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "203.1",
+          "title": "Public utility power generating plants and transmission facilities are regulated under 30 V.S.A. S 248,",
+          "page": 7,
+          "paragraphs": [
+            "however such facilities should conform to the policies and objectives specified for such development in the Concord Municipal Plan."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "204",
+          "title": "Family Child Care Home",
+          "page": 7,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "204.1",
+          "title": "A family child care home serving no more than six full-time children and four part-time children, as",
+          "page": 7,
+          "paragraphs": [
+            "defined in 33 V.S.A. S 4902(3)(A), shall be considered to constitute a permitted use of a single-family dwelling."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "205",
+          "title": "Group Home",
+          "page": 7,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "205.1",
+          "title": "A residential care home or group home operated under State licensing or registration serving not more",
+          "page": 7,
+          "paragraphs": [
+            "than eight persons who have a disability as defined in in 9 V.S.A. S 4501 and not located closer than 1,000 feet to another existing or permitted group shall be considered by right to constitute a permitted use of a single-family residential use of a property. No zoning permit is required for a lawfully existing single-family dwelling to be used as a group home."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "206",
+          "title": "Community Facilities",
+          "page": 7,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "206.1",
+          "title": "The following uses may be regulated only with respect to location, size, height, building bulk, yards,",
+          "page": 7,
+          "paragraphs": [
+            "courts, setbacks, density of buildings, off-street parking, loading facilities, traffic, noise, lighting, landscaping, and screening requirements, and only to the extent that regulations do not have the effect of interfering with the intended functional use:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "State- or community-owned and operated institutions and facilities",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Public and private schools and other educational institutions certified by the State Department of",
+              "paragraphs": [
+                "Education."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Churches and other places of worship, convents, and parish houses",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Public and private hospitals",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Regional solid waste management facilities certified under 10 V.S.A. Chapter 159",
+              "paragraphs": [
+                "Hazardous waste management facilities for which a notice of intent to construct has been received under 10 V.S.A. S 6606a."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "III",
+      "title": "Nonconformities",
+      "sections": [
+        {
+          "number": "301",
+          "title": "Existing Lots",
+          "page": 7,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301.1",
+          "title": "Existing Small Lots - Any lot, that is legally subdivided, is in an individual and separate and non-",
+          "page": 7,
+          "paragraphs": [
+            "affiliated ownership from surrounding properties, and is in existence on the effective date of these Zoning Regulations, may be developed for the purposes permitted in the district in which it is located, even though the small lot no longer conforms to minimum lot size requirements of the Zoning Regulations, provided that: (i) The lot is not less than one-eighth acre, or (ii) Has a width or depth dimension of at least 40'. Town of Concord Land Use Regulations 8 | P a g e"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301.2",
+          "title": "If an existing small lot subsequently comes under common ownership with one or more contiguous",
+          "page": 8,
+          "paragraphs": [
+            "lots, the nonconforming lot shall be deemed merged with the contiguous lot. However, a nonconforming lot shall not be deemed merged and may be separately conveyed if all the following apply: (i) The lots are conveyed in their preexisting, nonconforming configuration. (i) On the effective date of any land use regulation, each lot was developed with a water supply and wastewater disposal system. (ii) At the time of transfer, each water supply and wastewater system is functioning in an acceptable manner. The deeds of conveyance create appropriate easements on both lots for replacement of one or more wastewater systems, potable water systems, or both, in case there is a failed system or failed supply as defined in 10 V.S.A. chapter 64."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302",
+          "title": "Nonconforming Uses and Structures",
+          "page": 8,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302.1",
+          "title": "Nothing contained in these regulations shall require any change in plans or construction of a",
+          "page": 8,
+          "paragraphs": [
+            "nonconforming structure for which a building (zoning) permit has been issued, and which has been substantially commenced within one year from the effective date of these regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302.2",
+          "title": "Any non-conforming use of structures or land, except those specified below, may be continued",
+          "page": 8,
+          "paragraphs": [
+            "indefinitely, but:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "shall not be moved, enlarged, altered, extended, reconstructed, or restored (except as provided",
+              "paragraphs": [
+                "below), nor shall any external evidence of such use be increased by any means whatsoever;"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "shall not be changed to another non-conforming use;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "shall not be restored for other than a conforming use after damage from cause, unless the",
+              "paragraphs": [
+                "nonconforming use is reinstated within one year of such damage; if the restoration of such structure is not completed within one year, the non-conforming use of such structures shall be deemed to have been discontinued, unless such non-conforming use is carried on without interruption in the undamaged part of the building;"
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "shall not be resumed if such use has been abandoned or discontinued for a period of one year or",
+              "paragraphs": [
+                "more. A non-conforming use shall be considered discontinued when either of the conditions exist: i. when the use has been replaced by a conforming use; ii. when the use has been discontinued for a period of one year."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302.3",
+          "title": "Any lawful structure existing at the time of the enactment of these regulations shall continue to",
+          "page": 8,
+          "paragraphs": [
+            "exist, provided that the following conditions are met:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The nonconforming structure shall not be moved, enlarged, or extended except in accordance with",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302.5",
+          "title": "",
+          "page": 8,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "B",
+              "title": "A nonconforming structure may be reconstructed, structurally altered, restored, or repaired, in",
+              "paragraphs": [
+                "whole or in part, provided that the degree of nonconformance does not increase."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302.4",
+          "title": "A nonconforming structure shall not be restored to other than a conforming structure after the",
+          "page": 8,
+          "paragraphs": [
+            "structure has been substantially damaged from any cause, unless the restoration of such structure is Town of Concord Land Use Regulations 9 | P a g e substantially commenced within one year."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302.5",
+          "title": "The Planning Commission may, after public notice and hearing, allow the expansion of any",
+          "page": 9,
+          "paragraphs": [
+            "nonconforming structure, provided the expansion does not increase the degree of nonconformance or have an undue adverse impact on the character of the neighborhood, as determined by the objectives of these regulations and by policies and standards in the Municipal Plan."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302.6",
+          "title": "Nothing in this section shall be deemed to prevent normal maintenance and repair of a nonconforming",
+          "page": 9,
+          "paragraphs": [
+            "structure providing that such action does not increase the degree of non-conformance."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302.7",
+          "title": "For purposes of these regulations, the degree of nonconformance shall be measured only in the",
+          "page": 9,
+          "paragraphs": [
+            "dimension, e.g. yard setback or height, which does not meet the standard for the district in which the structure is located."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302.8",
+          "title": "Any structure or use that does not conform to these regulations because it was improperly permitted",
+          "page": 9,
+          "paragraphs": [
+            "shall be treated as a nonconformity."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "303",
+          "title": "Abandoned, Destroyed, Burned, or Damaged Structures",
+          "page": 9,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "303.1",
+          "title": "Additional provisions apply to reconstructing damaged or destroyed structures within Flood Hazard",
+          "page": 9,
+          "paragraphs": [
+            "Areas, (see ARTICLE VI). The provisions of ARTICLE VI take precedence over the provisions of this section."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "303.2",
+          "title": "Within 30 days of a structure being abandoned, damaged, destroyed by any cause, the owner must act",
+          "page": 9,
+          "paragraphs": [
+            "to either:",
+            "elements, prior to commencing reconstruction; or",
+            "grade, and re-establish ground cover to prevent erosion."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Stabilize and secure it as necessary to protect public health and safety and to protect it from the",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Demolish it remove all structural materials and debris from the site, restore the site to a natural",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "303.3",
+          "title": "The Administrative Officer may grant up to three 10-month extensions upon finding that the site does",
+          "page": 9,
+          "paragraphs": [
+            "not pose a hazard to public health or safety and that the owner has reasonable cause for not commencing repair, reconstruction or demolition."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304",
+          "title": "Discontinued Use",
+          "page": 9,
+          "paragraphs": [
+            "No use that requires a zoning permit may be resumed without first obtaining a permit if such use has been discontinued for a period of one year or more or if the use has been replaced by another use Town of Concord Land Use Regulations 10 | P a g e"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "IV",
+      "title": "Zoning Districts and District Regulations",
+      "sections": [
+        {
+          "number": "401",
+          "title": "Establishment of Zoning Districts",
+          "page": 10,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "401.1",
+          "title": "These regulations establish the following zoning districts as shown on the Official Zoning Map::",
+          "page": 10,
+          "paragraphs": [
+            "\"RL\" Rural Lands \"LD\" Low Density \"MD\" Medium Density \"HD\" High Density \"LAKE\" Lakeshore"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "402",
+          "title": "Official Zoning Map",
+          "page": 10,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "402.1",
+          "title": "The map delineating the boundaries of the various zoning districts established in this chapter is",
+          "page": 10,
+          "paragraphs": [
+            "incorporated by reference into these regulations, adopted as part of these regulations, and constitutes the Official Zoning Map. The Official Zoning Map is on file in the Town of Concord Zoning office. A small-scale, unofficial version is included as FIGURE 1."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "403",
+          "title": "District Boundaries",
+          "page": 10,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "403.1",
+          "title": "When the Administrative Officer cannot definitely determine the location of a district boundary by",
+          "page": 10,
+          "paragraphs": [
+            "such center lines, by the scale or dimensions stated on the zoning map, or by the fact that it clearly coincides with a property line, he or she shall refuse action, and the Planning Commission shall interpret the location of the district boundary with reference to the scale of the zoning map and the purposes set forth in all relevant provisions of these regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "403.2",
+          "title": "When a lot is located in multiple zoning districts, (district boundary line divides a lot of record at the",
+          "page": 10,
+          "paragraphs": [
+            "time such line is adopted), the regulations for the less restricted part of such lot shall extend not more than thirty feet into the more restricted part, provided the lot has frontage on a street in the less restricted district."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "403.3",
+          "title": "All structures, whether attached to the principal structure, and whether open or enclosed, including",
+          "page": 10,
+          "paragraphs": [
+            "porches carports, balconies, or platforms shall not project into any minimum front, side or rear yard."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "404",
+          "title": "District Objectives and Land Use Controls",
+          "page": 10,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "404.1",
+          "title": "No building or land shall hereafter be used or occupied and no structure or part thereof shall be",
+          "page": 10,
+          "paragraphs": [
+            "erected, moved or altered unless in conformity with the regulations herein specified for the district in which it is located. Any use not explicitly allowed by these regulations is prohibited. Town of Concord Land Use Regulations 11 | P a g e"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "404.2",
+          "title": "Permitted uses are those that require, at a minimum, Administrative Review by the Zoning",
+          "page": 11,
+          "paragraphs": [
+            "Administrator. All permitted uses other than single, two-family dwellings, and dwelling accessory units, shall also be subjected to Site Plan Review by the Planning Commission after public notice and hearing."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "404.3",
+          "title": "Conditionally approved uses are uses that require, following administrative review by the",
+          "page": 11,
+          "paragraphs": [
+            "Administrative Officer, referral to the Zoning Board of Adjustment for Conditional Use Review after public notice and hearing. A change of use, expansion or contraction of land, area, or alteration of structures or uses which are designated as a conditional use within the district in which they are located and are existing therein, prior to the effective date of this regulation, shall conform to all regulations herein pertaining to conditional uses. Town of Concord Land Use Regulations 12 | P a g e"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "404.4",
+          "title": "\"RL\" Rural Land",
+          "page": 12,
+          "paragraphs": [
+            "Objective: includes land generally characterized by poor access, steep topographic conditions , and remoteness from existing concentrated settlement which would be unduly expensive to serve with public utilities and services. Primary uses in this category should be forestry and other non -intensive uses such as agriculture.",
+            "Permitted Uses Accessory Structure Agriculture (See Section 202.1) Primitive Camp Dwelling, Accessory Unit (See Section 501.1) Dwelling, Single-family Dwelling, Two-family Forestry (See Section 202.1) Home Occupation (See Section 503.1)",
+            "Conditional Uses Campground Essential Service Home Industry (See Section 503.2) Recreation Facility, Outdoor Area and Dimensions Maximum Density: 1 new lot, in addition to the existing lot, for every 10 acres of land in single and separate ownership Minimum Lot Size in Acres: 1 Minimum Road Frontage in Feet: 200 Minimum Yard Dimensions in Feet Front 50 Side 25 Rear 25 Maximum Height in Feet: 35 *Frontage and setback requirements may be reduced per approval of the Development Review Board in order to minimize fragmentation of working lands. New lots may be any size greater than one acre, however, the original lot must retain sufficient acreage to remain eligible for tax abatement programs, such as Current Use enrollment. Lots ineligible for Current Use enrollment may be developed in accordance with the maximum density of 1 new lot for every 10 acres of land in single and separate ownership. The remainder of land on the original tract to be permanently set aside from development shall be designated as such on the Final Plat in accordance with S 705 of these regulations. Land to be transferred solely for agricultural or forestry purposes or for permanent conservation may be accomplished in any lot size, provided that such transfer does not result in any tract of land that is smaller than 25 acres. Residential uses and wells shall be sited so as to minimize conflicts with adjoining agricultural operations. Buffer zones a minimum of 200 feet from residences and residential wells to the lot lines of agricultural operations may be required unless a smaller setback can be demonstrated to have no adverse impact. Building envelopes on new lots shall be sited away from the most productive agricultural soils, or in such a manner that minimizes fragmentation of the original tract. Town of Concord Land Use Regulations 13 | P a g e Driveways and private rights of way shall be located nearest the new lot(s) in order to minimize fragmentation of the original tract. The Development Review Board reserves the right to require a shared driveway or private right of way in order to minimize fragmentation of agricultural or silvicultural use on the original lot."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "404.5",
+          "title": "\"LD\" Low Density",
+          "page": 13,
+          "paragraphs": [
+            "Objective: These areas are designed to maintain an open quality through a large part of the more developable parts of Concord by requiring a five -acre minimum lot size. Five acres will be needed in this district to support the sewage disposal and water needs of a proposed use.",
+            "Permitted Uses Accessory Structure Agriculture (See Section 202.1) Primitive Camp Dwelling, Accessory Unit (See Section 501.3) Dwelling, Single-family Dwelling, Two-family Forestry (See Section 202.1) Home Occupation (See Section 503.1)",
+            "Conditional Uses Campground Cemetery Community Center Drive-In Establishment Essential Service Home Industry (See Section 503.2) Industry Recreation Facility, Outdoor Area and Dimensions Minimum Lot Size in Acres: 5 Minimum Width of Lot in Feet: 200 Minimum Yard Dimensions in Feet Front 50 Side 50 Rear 50 Maximum Height in Feet: 35 Town of Concord Land Use Regulations 14 | P a g e"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "404.6",
+          "title": "\"MD\" Medium Density",
+          "page": 14,
+          "paragraphs": [
+            "Objective: This is focused upon the areas of Concord that are in close proximity to existing areas of settlement, which have good road and utility access. The purpose of this district is to incorporate a balance of residential, community, and commercial uses that will complement the adjacent village core and accommodate new residential uses as the villages grow. Non-residential uses will be carefully sited in order to protect the walkability of the village core.",
+            "Permitted Uses Accessory Structure Primitive Camp Dwelling, Accessory Unit (See Section 501.1) Dwelling, Single Family Dwelling, Two Family Essential Service Forestry (See Section 202.1) Home Occupation (See Section 503.1) Religious Facility School",
+            "Conditional Uses Agriculture, (See Section 202.1) Campground Dwelling, Multi-Family Home Industry (See Section 503.2) Industry Neighborhood Commercial Facility Personal Services Private Club Recreation Facility, Indoor Recreation Facility, Outdoor Area and Dimensions Minimum Lot Size in Acres: 2 Minimum Width of Lot in Feet: 150 Minimum Yard Dimensions in Feet Front 25 Side 25 Rear 25 Maximum Height in Feet: 35 Town of Concord Land Use Regulations 15 | P a g e"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "404.7",
+          "title": "\"HD\" High Density",
+          "page": 15,
+          "paragraphs": [
+            "Objective: This area represents the town's pre-existing village centers, which are serviced by adequate road and utility services. All pre-existing development in these districts is currently serviced by individually owned water and sewage systems. While future development or redevelopment within these districts shall be limited to the ability of the district's soils and natural water resources to support the proposed development, the objective of this district is to realize its significant development potential. Development should maintain the current mix of uses, whic h are mostly residential and small businesses that encourage or create public gathering areas, such as shops, restaurants, and services. This shall be achieved through small lot sizes, pedestrian amenities, neighborhood green spaces, adaptive reuse of hist oric structures, and mixed -use development.",
+            "Permitted Uses Accessory Structure Business Office Community Center Dwelling, Accessory Unit (See Section 501.1) Dwelling, Single Family Dwelling, Two-Family Essential Service Funeral Home Home Occupation (See Section 503.1) Public Facility Religious Facility Retail Store School",
+            "Conditional Uses Auto Service Station Car Wash Dwelling, Multi-Family Home Industry (See Section 503.2) Hotel Industry Motel Neighborhood Commercial Facility Personal Service Private Club Recreation Facility, Indoor Recreation Facility, Outdoor Restaurant Area and Dimensions Minimum Lot Size in Square Feet: 20,000 Minimum Width of Lot in Feet: 100 Minimum Yard Dimensions in Feet Front 25 Side 10 Rear 10 Maximum Height in Feet: 35 Town of Concord Land Use Regulations 16 | P a g e"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "404.8",
+          "title": "\"LAKE\" Lakeshore*",
+          "page": 16,
+          "paragraphs": [
+            "Objective: The area surrounding Shadow Lake and Miles Pond is designated to provide adequate setback from the seasonal high water mark of the water bodies to protect them from water pollution and help protect the visual qualities of the shoreline.",
+            "Permitted Uses Accessory Structure Agriculture (See Section 202.1) Primitive Camp Forestry (See Section 202.1) Dwelling, Accessory Unit (See Section 501.1) Dwelling, Single Family Home Occupation (See Section 503.1)",
+            "Conditional Uses Essential service Recreation Facility, Outdoor Area and Dimensions Minimum Lot Size in Acres: 2 Minimum Width of Lot in Feet: 150 Minimum Yard Dimensions in Feet Front 35 Side 35 Rear 35 Maximum Height in Feet: 35 *Activities within 250 feet of the mean water level are also regulated by the Vermont Shoreland Protection Act. Please contact the Department of Environmental Conservation's Shoreland Permitting Division for State Shoreland permitting requirements."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "V",
+      "title": "Specific Use Standards",
+      "sections": [
+        {
+          "number": "501",
+          "title": "Accessory Dwelling",
+          "page": 17,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "501.1",
+          "title": "One accessory dwelling is allowed for each single-family dwelling provided these requirements are",
+          "page": 17,
+          "paragraphs": [
+            "followed.",
+            "evidenced by receipt of a State Wastewater System and Potable Water Supply permit.",
+            "may be in a detached structure.",
+            "house or garage must meet these additional requirements: a. The facade of the accessory dwelling must be at least 20 feet further from the street than the facade of the single-family dwelling. b. The width of the accessory dwelling parallel to the street may not exceed 60% of the width of the single-family dwelling.to provide for walkable streetscapes where active facades address sidewalks and parking and loading are located behind buildings; c. The height to the eave of the accessory dwelling may not exceed 80% of the height to the eave of the single-family dwelling."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "The accessory dwelling must be located on the same lot or lots as the single-family dwelling.",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "The lot has sufficient water and wastewater capacity to accommodate an accessory dwelling as",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "The accessory dwelling may be located within the single-family dwelling, or may be attached to it or",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "An accessory dwelling in a detached structure other than a preexisting building such as a carriage",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Additional parking spaces are not required for an accessory dwelling.",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "501.2",
+          "title": "The standards in Section 501.1 above may be waived after conditional use review by the Zoning Board",
+          "page": 17,
+          "paragraphs": [
+            "of Adjustment provided the applicant demonstrates that adherence to these standards would have the effect of prohibiting the addition of an accessory dwelling unit on an existing lot occupied by a single-family dwelling. In approving this waiver, the Zoning Board of Adjustment may impose conditions requiring design features, screening, or some other remedy in order to mitigate anticipated impacts of any such waiver."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "502",
+          "title": "Non Frontage Lots",
+          "page": 17,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "502.1",
+          "title": "No land development may be permitted on lots that do not have adequate means of access, either",
+          "page": 17,
+          "paragraphs": [
+            "frontage on a maintained public road or access by means of a permanent easement or right of way, at least 50 feet in width, to such a public road."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "503",
+          "title": "Home Occupation and Home Industry",
+          "page": 17,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "503.1",
+          "title": "Home Occupation. No regulation herein is intended to infringe upon the right of any resident to use a",
+          "page": 17,
+          "paragraphs": [
+            "minor portion of a dwelling for an occupation which is customary in residential areas and which does not change the character thereof. No zoning permit shall be required for a home office within a principal dwelling or accessory structure which is carried on by a resident of that dwelling, and involves no signs, public access or outdoor storage or displays. For other home occupations that meet the following requirements, a zoning permit issued under Section 503.1 shall be required: Town of Concord Land Use Regulations 18 | P a g e"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The home occupation shall be carried on by residents of the dwelling, as well as a maximum of three",
+              "paragraphs": [
+                "on-premise employees who are not residents of the dwelling."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "No exterior display of the home occupation shall be allowed other than one sign (see Section 507",
+              "paragraphs": [
+                "Signs for sign requirements). ."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Exterior displays or signs other than those permitted in (b) of this subsection, and/or exterior storage",
+              "paragraphs": [
+                "of materials and/or exterior indication of the home industry and/or a variation from the residential character of the principal structure and/or the residential area, shall not be permitted."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Objectionable circumstances such as noise, vibration, smoke, dust, electrical disturbance, odors,",
+              "paragraphs": [
+                "heat, or glare shall not be produced."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Parking shall be provided off-street and shall not be located in front lawns",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Traffic generated by the home occupation shall not be greater than what would normally be expected",
+              "paragraphs": [
+                "in the residential area in which the dwelling is located."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Retail sales or services on-site are limited to the sale of goods or services produced on the premises,",
+              "paragraphs": [
+                "and related products, by appointment only."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "503.2",
+          "title": "Home Industry. Home industry, as distinguished from \"Home Occupation,\" may be allowed as an",
+          "page": 18,
+          "paragraphs": [
+            "accessory to a single-family dwelling in all zoning districts, except for the Lakeshore District, subject to conditional use review under Section 511, and the following provisions:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The home industry shall be conducted on-site by residents of the dwelling, as well as a maximum of",
+              "paragraphs": [
+                "five (5) on-premise employees who are not residents of the dwelling."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The home industry shall be allowed one sign (see Section 507 Signs for sign requirements)",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Exterior storage of materials and equipment associated with a home industry shall be limited to a",
+              "paragraphs": [
+                "clearly designated yard or storage area approved by the Zoning Board of Adjustment, which meets all applicable setbacks for the district in which the property is located. The Board may require greater setbacks as deemed necessary to avoid adverse impacts to neighboring properties or public rights-of- way. The Board also may require that such areas be adequately screened year-round from public view and neighboring properties, and secured to protect public safety."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The storage of hazardous materials anywhere on the premises shall be limited to those materials",
+              "paragraphs": [
+                "necessary for the operation of the home industry and shall be stored in accordance with all applicable State and Federal regulations."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "The home industry shall not change the character of the neighborhood, nor result in a change in the",
+              "paragraphs": [
+                "outward appearance of the dwelling or the accessory structure."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Objectionable circumstances such as noise, vibration, smoke, dust, electrical disturbance, odors, heat,",
+              "paragraphs": [
+                "or glare shall not be produced."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "The home industry shall not generate traffic, including delivery traffic, in excess of volumes",
+              "paragraphs": [
+                "characteristic of other uses allowed in the district in which the home industry is located."
+              ],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "Off-street parking shall be provided in accordance with Table 3.1. Commercial vehicles or equipment",
+              "paragraphs": [
+                "associated with the home industry shall be parked within designated yards or parking areas, approved by the Zoning Board of Adjustment. The Board may also require that parking areas are adequately screened year-round from public view and adjoining properties."
+              ],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "Adequate provisions shall be made for water, wastewater, and disposal of solid waste, in accordance",
+              "paragraphs": [
+                "with applicable municipal and State regulations. Town of Concord Land Use Regulations 19 | P a g e"
+              ],
+              "items": []
+            },
+            {
+              "label": "J",
+              "title": "On-site retail sales or services are limited to sale of goods or services produced on the premises and",
+              "paragraphs": [
+                "related products."
+              ],
+              "items": []
+            },
+            {
+              "label": "K",
+              "title": "The Zoning Board of Adjustment may limit the hours of operation necessary to minimize undue",
+              "paragraphs": [
+                "adverse impacts to neighboring properties and to protect the character of the area in which the home industry is located. Table 1Summary of Home Occupation and Home Industry Standards When it is determined by the Administrative Officer that the proposal does not meet the definitions or standards of home occupation or home industry above, the applicant may apply for a permit under the broader use regulations (commercial, industrial, retail), as is determined by the district in which the proposed use is located. Characteristics/Review Process Exempted Home Occupations Regulated Home Occupations Home Industry Secondary/Subordinate to residential use Yes Yes Yes Within principal dwelling or accessory structure Yes Yes Yes Maximum square footage 50% of principal dwelling 1,000 sq. ft. Not specified Outdoor storage of Materials No No With approval of Zoning Adjustment Board Non- resident employees Maximum: 1 Maximum: Three Maximum: Five Parking Not applicable One per non-resident employee One per non-resident employee Signs No One 3' x 4' foot sign allowed One 3' x 4' foot sign allowed Traffic No Residential (Ten trips a day) Characteristic of other uses in the district Landscaping/Screening No No May be required Retail Sales No Limited to products, services produced on premises and related products; by appointment only Limited to products, services produced on premises and related products Zoning Permit Required No Permitted Use, subject to Administrative Review Conditional Use (Not allowed in Lakeshore District) Town of Concord Land Use Regulations 20 | P a g e"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "504",
+          "title": "Storage of Flammable Liquids and Gases",
+          "page": 20,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "504.1",
+          "title": "The storage of any flammable liquid or gas in a tank with a capacity of more than 1,000 gallons above",
+          "page": 20,
+          "paragraphs": [
+            "the ground shall be permitted only upon approval of the Board of Adjustment, which may attach such conditions as it finds necessary to protect the public welfare. Any such use must also comply with the following:"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "504.2",
+          "title": "Tanks with a capacity greater than 1,000 gallons, but less than 10,000 gallons shall be placed not less",
+          "page": 20,
+          "paragraphs": [
+            "than 80' from all property lines and from all other such tanks."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "504.3",
+          "title": "Tanks with a capacity exceeding 10,000 gallons shall be placed not less than 200' from all property",
+          "page": 20,
+          "paragraphs": [
+            "lines and from all other tanks regulated by this Section."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "504.4",
+          "title": "Any such tank(s) with a capacity exceeding 1,000 gallons for the storage of flammable liquids shall be",
+          "page": 20,
+          "paragraphs": [
+            "completely surrounded by proper retaining dike(s). Said dike(s) must have a capacity of no less than one and one half times the total capacity of the tank(s) that they/it surrounds."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "505",
+          "title": "Recreational Vehicles",
+          "page": 20,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "505.1",
+          "title": "Owners or users of recreational vehicles (or any conveyance constructed so as to allow occupancy",
+          "page": 20,
+          "paragraphs": [
+            "thereof) shall abide by the following regulations except when located in an approved campground."
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "A property owner may park his own recreational vehicle or that of a bona fide visitor, on his property",
+              "paragraphs": [
+                "without special approval, provided it is parked no closer than six feet to any lot line."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Parked recreational vehicles shall not be occupied as permanent living quarters, and not be hooked",
+              "paragraphs": [
+                "up to any utilities, for more than a total of 180 days in a calendar year."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "No more than two recreational vehicles (no more than one in the lakeshore district) including the",
+              "paragraphs": [
+                "property owner's recreational vehicle, shall be parked on any lot or parcel of land, developed or undeveloped, which is not an approved campground."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "506",
+          "title": "Temporary Uses and Structures",
+          "page": 20,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "506.1",
+          "title": "Temporary permits may be issued by the Administrative Officer for a period not exceeding one year,",
+          "page": 20,
+          "paragraphs": [
+            "for non-conforming uses incidental to construction projects, provided such permits are conditioned upon agreement by the owner to remove the structure or use upon expiration of the period not exceeding one year."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "506.2",
+          "title": "A limit of one freight storage container may be parked on an owner's property for up to six months",
+          "page": 20,
+          "paragraphs": [
+            "provided that:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "It is parked to meet setback requirements",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "After six months it must be removed or the owner must receive permitting for the freight storage",
+              "paragraphs": [
+                "container as a permanent and taxable structure. Town of Concord Land Use Regulations 21 | P a g e"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "507",
+          "title": "Signs",
+          "page": 21,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "507.1",
+          "title": "Signs that are painted or mounted on a wall of a building shall not:",
+          "page": 21,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Extend above any part of the eaves or gables of the building upon which the sign has been placed",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Exceed 20 square feet in area",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "507.2",
+          "title": "Signs that are painted or mounted on the roof of a building shall not be permitted",
+          "page": 21,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "507.3",
+          "title": "Every sign shall be designed and located in such a manner as to:",
+          "page": 21,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Not impair public safety",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Not restrict clear vision between a sidewalk and road",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Not be confused with any traffic sign or signal",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Not prevent free access to any door, window, or fire escape",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "507.4",
+          "title": "Signs may be illuminated by a steady light, provided that such lighting will not illuminate or reflect onto",
+          "page": 21,
+          "paragraphs": [
+            "other properties or into traffic."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "507.5",
+          "title": "Flashing, oscillating, and revolving signs shall not be permitted unless necessary for public safety or",
+          "page": 21,
+          "paragraphs": [
+            "welfare."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "507.6",
+          "title": "Nonconforming signs shall be brought into compliance when they are replaced",
+          "page": 21,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "508",
+          "title": "Lighting",
+          "page": 21,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "508.1",
+          "title": "All outdoor lighting shall be kept to the minimum required for safety, security, and intended use,",
+          "page": 21,
+          "paragraphs": [
+            "consistent with the character of the neighborhood in which it is located."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "508.2",
+          "title": "Permanent outdoor lighting fixtures shall not direct light upward or onto adjacent properties,",
+          "page": 21,
+          "paragraphs": [
+            "roads, or public waters, or result in excessive lighting levels that are uncharacteristic of the surrounding neighborhood or area."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "508.3",
+          "title": "Outdoor lighting fixtures shall be cast downward or be designed to minimize glare. Such fixtures",
+          "page": 21,
+          "paragraphs": [
+            "may include recessed, shielded, or cutoff fixtures, or low luminance lamps."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "508.4",
+          "title": "Whenever feasible outdoor lighting fixtures shall include timers, dimmers, and/or sensors to",
+          "page": 21,
+          "paragraphs": [
+            "reduce energy consumption and eliminate unnecessary lighting. Town of Concord Land Use Regulations 22 | P a g e"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "508.5",
+          "title": "Temporary holiday light displays are exempted from these regulations",
+          "page": 22,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "509",
+          "title": "Pre-existing Nonconforming Mobile Home Parks",
+          "page": 22,
+          "paragraphs": [
+            "If a mobile home park, as defined in 10 V.S.A. Chapter 153, is a nonconformity pursuant to these regulations, the entire mobile home park shall be treated as a nonconformity, and the individual sites shall not be considered to be a nonconformity under these regulations, except as provided below. No pre-existing nonconforming mobile home park may be resumed if such use has been abandoned for a period of six months or more. Mobile home parks shall be considered abandoned when the whole park is vacant for a period of six months or more. An individual mobile home lot that is vacated shall not be considered abandoned. In accordance with 24 V.S.A. S 4412 (1)(B) & (7)(B), existing, nonconforming mobile home parks shall comply with this section."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "509.1",
+          "title": "Any mobile home within the nonconforming mobile home park may be altered, expanded, or replaced,",
+          "page": 22,
+          "paragraphs": [
+            "providing: (i) the applicant provides proof of adequate wastewater capacity; and (ii) the expansion or replacement will not: 1) be located less than ten (10) feet from any other primary structure(s); 2) obstruct or prohibit ingress or egress for any primary structure; 3) obstruct or prohibit mobility or replacement of any primary structure; 4) obstruct or prohibit the provision of emergency services; 5) obstruct existing utilities or rights of way; nor 6) threaten or unduly degrade public health, safety, or welfare."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "509.2",
+          "title": "The standards in Section 509.1 above may be waived after conditional use review by the Zoning Board",
+          "page": 22,
+          "paragraphs": [
+            "of Adjustment provided the applicant demonstrates that adherence to these standards would have the effect of prohibiting the replacement of a mobile home on an existing site. In approving this waiver, the Zoning Board of Adjustment may impose conditions requiring design features, screening, or some other remedy in order to mitigate anticipated impacts of any such waiver."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "510",
+          "title": "Site Plan Review Standards",
+          "page": 22,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "510.1",
+          "title": "No zoning permit shall be issued by the Administrative Officer for any use or structure, except for one-",
+          "page": 22,
+          "paragraphs": [
+            "family and two-family dwellings and accessory structures subordinate and appurtenant to such dwellings, until the Planning Commission grants Site Plan Approval after public notice and hearing and in accordance with 24 V.S.A. S 4416."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "510.2",
+          "title": "In reviewing site plans, the Planning Commission may impose appropriate safeguards with the",
+          "page": 22,
+          "paragraphs": [
+            "respect to the following:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The adequacy of parking, traffic access, and circulation for pedestrians and vehicles;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Landscaping and screening;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "The protection of the utilization of renewable energy resources;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Exterior lighting;",
+              "paragraphs": [
+                "Town of Concord Land Use Regulations 23 | P a g e"
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "The size, location and design of signs;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Freedom from flooding and ponding; and",
+              "paragraphs": [
+                "g) ."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "511",
+          "title": "Conditional Use Procedures and Standards",
+          "page": 23,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "511.1",
+          "title": "No zoning permit shall be issued by the Administrative Officer for any use or structure which require",
+          "page": 23,
+          "paragraphs": [
+            "conditional use approval in this regulation until the Board of Adjustment grants such approval after public notice and hearing and in accordance with 24 V.S.A. S 4414(3)."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "511.2",
+          "title": "In considering its action, the Zoning Board of Adjustment shall determine if a proposed use has the",
+          "page": 23,
+          "paragraphs": [
+            "potential to have an undue adverse effect on any of the following:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The capacity of existing or planned community facilities;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The character of the area affected, as determined by the objective of the zoning district within which",
+              "paragraphs": [
+                "the project is located, and specifically stated policies and standards of the Concord Municipal Plan;"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Traffic on roads and highways in the vicinity;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Regulations in effect with special reference to these regulations; and",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Utilization of renewable energy resources",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "511.3",
+          "title": "In permitting a conditional use, the Zoning Board of Adjustment may impose in addition to the",
+          "page": 23,
+          "paragraphs": [
+            "regulations and standards expressly specified by these regulations, other conditions found necessary to protect the best interests of the surrounding property, the neighborhood, or the municipality as a whole. These conditions may include the following:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Increasing the required lot size or yard dimensions in order to protect adjacent properties;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Limiting the coverage and/or height of buildings because of obstruction to view and reduction of light",
+              "paragraphs": [
+                "and air to adjacent property;"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Controlling the location and number of vehicular access points to the property;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Increasing street width;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Increasing the number of off street parking or loading spaces required;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Limiting the number, location and size of signs;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Limiting the hours of operation;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "Requiring suitable landscaping where necessary to reduce noise and glare and to maintain the",
+              "paragraphs": [
+                "property in a character in keeping with the surrounding area;"
+              ],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "Specifying a specific time limit for construction, alteration, or enlargement to begin for a structure to",
+              "paragraphs": [
+                "house a conditional use; and"
+              ],
+              "items": []
+            },
+            {
+              "label": "J",
+              "title": "Requiring that any future enlargement or alteration of the use be viewed by the Board of Adjustment",
+              "paragraphs": [
+                "to permit the specifying of new conditions."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "511.4",
+          "title": "As a condition of the grant of a conditional use, the Board of Adjustment may attach such additional",
+          "page": 23,
+          "paragraphs": [
+            "reasonable conditions and safeguards as it may deem necessary to implement the purposes of the ACT and these regulations. Town of Concord Land Use Regulations 24 | P a g e"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "512",
+          "title": "Subdivision Procedures and Standards",
+          "page": 24,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "512.1",
+          "title": "Applications for minor subdivisions of land shall be reviewed by the Administrative officer under the",
+          "page": 24,
+          "paragraphs": [
+            "Administrative Review process. For the purposes of these regulations minor subdivision is defined as the division of a lot into two lots and a major subdivision is defined as the division of a lot into three or more lots."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "512.2",
+          "title": "Applications for major subdivisions of land shall also be subject to Site Plan Review by the",
+          "page": 24,
+          "paragraphs": [
+            "Planning Commission after public notice and hearing."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "512.3",
+          "title": "Any application for subdivision of land shall be accompanied by a plat of sufficient scale and clarity to",
+          "page": 24,
+          "paragraphs": [
+            "portray existing conditions and proposed development. The plat shall include all lot lines and boundary dimensions, names of roads abutting the property, location and size of existing improvements identified as \"existing,\" location and size of proposed improvements identified as \"proposed,\" setback dimensions of proposed and existing structures, location of existing and proposed driveways and culverts, location of existing and proposed wells and/or septic systems and location of waterways, wetlands, and flood plains. In addition, a topographic survey may be required."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "512.4",
+          "title": "No lot that is created as the result of subdivision of land shall have more than 50% of its buildable",
+          "page": 24,
+          "paragraphs": [
+            "area in slopes greater than twenty percent."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "512.5",
+          "title": "Lots which abut on more than one street shall provide the required frontage along every street",
+          "page": 24,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "512.6",
+          "title": "The approved subdivision may not be officially filed until all appeal periods have expired and/or all",
+          "page": 24,
+          "paragraphs": [
+            "appeals are concluded."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "512.7",
+          "title": "A final plat on Mylar must be submitted to the Administrative Officer for approval before the",
+          "page": 24,
+          "paragraphs": [
+            "subdivision is filed in the Town's Land Records."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "VI",
+      "title": "Flood Hazard Areas",
+      "sections": [
+        {
+          "number": "601",
+          "title": "Lands to Which These Regulations Apply",
+          "page": 25,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "601.1",
+          "title": "These regulations shall apply to development in all areas in the Town of Concord identified as",
+          "page": 25,
+          "paragraphs": [
+            "areas of special flood hazard on the current National Flood Insurance Program maps which are hereby adopted by reference and declared to be part of these regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602",
+          "title": "Conditional Use Permit Required",
+          "page": 25,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.1",
+          "title": "All development including fill, excavation, grading, erection or placement of structures, substantial",
+          "page": 25,
+          "paragraphs": [
+            "improvement of existing structures and storage of equipment and material prescribed by the Town of Concord Land Use Regulations are permitted within an area of special flood hazard only upon the granting of a conditional use permit by the Zoning Board of Adjustment."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.2",
+          "title": "Prior to issuing a permit for the construction of a new building, the substantial improvement of",
+          "page": 25,
+          "paragraphs": [
+            "existing buildings, or for development in the floodway, the Administrative Officer shall mail a copy of the application to the Vermont Agency of Natural Resources in accordance with 24 V.S.A. S 4424. A permit may be issued only following receipt of comments from the Department of or the expiration of 30 days from the date the application was mailed to the Department, whichever is sooner."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.3",
+          "title": "Adjacent communities and the Vermont Department of Water Resources and Environmental",
+          "page": 25,
+          "paragraphs": [
+            "Engineering shall be notified at least 15 days prior to issuing any permit for the alteration or relocation of a watercourse, and copies of such notification shall be submitted to the Administrator of the Federal Insurance Administration."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.4",
+          "title": "Proposed development shall be reviewed to assure that all necessary permits have been received",
+          "page": 25,
+          "paragraphs": [
+            "from those governmental agencies from which approval is required by Federal or State law."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "603",
+          "title": "Base Flood Elevations and Floodway Limits",
+          "page": 25,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "603.1",
+          "title": "Where available, i.e.; Zones Al-A30, AE, and AH, the base flood elevations and floodway limits",
+          "page": 25,
+          "paragraphs": [
+            "provided by the National Flood Insurance Program in the Flood Insurance Study and accompanying maps shall be used to administer the provisions of these regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "603.2",
+          "title": "In areas where base flood elevations and floodway limits have not been provided by the National",
+          "page": 25,
+          "paragraphs": [
+            "Flood Insurance Program, i.e.; Zone A, base flood elevation and floodway information available from State and Federal agencies or other sources, shall be obtained and reasonably utilized to administer the provisions of these regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604",
+          "title": "Conditional Use Review Procedures",
+          "page": 25,
+          "paragraphs": [
+            "Town of Concord Land Use Regulations 26 | P a g e"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604.1",
+          "title": "Upon receiving an application for a conditional use permit under these regulations, the Board of",
+          "page": 26,
+          "paragraphs": [
+            "Adjustment shall, prior to rendering a decision thereon:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Obtain from the applicant:",
+              "paragraphs": [
+                "i. The elevation (in relation to mean sea level) of the lowest floor, including basement, of new buildings or buildings to be substantially improved; ii. Where flood proofing is proposed, the elevation (in relation to mean sea level) to which the building will be flood proofed; iii. Plans drawn to scale showing the existing and proposed land contours, buildings, structures, streams, roads and other pertinent physical features; iv. Base flood elevation data for subdivisions and other proposed development which contain at least 50 lots or five acres (whichever is the smaller). v. Such other information deemed necessary by the Board of Adjustment for determining the suitability of the site for the proposed development."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Obtain from the Vermont Department of Water Resources of other State or Federal agencies any",
+              "paragraphs": [
+                "available base flood elevation data."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604.2",
+          "title": "In reviewing each application, the Board of Adjustment shall consider:",
+          "page": 26,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "the elevation of the Vermont Department of Water Resources;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "the availability of alternative locations not subject to flooding for the proposed use;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "the susceptibility of the proposed improvement to flood damages;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "the safety of access to the property in times of flood of ordinary and emergency vehicles;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "the potential for damage to the property caused by erosion;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "the danger that materials may be swept onto other lands and cause damage to others; and",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "such other factors as are relevant to the purpose of these regulations",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604.3",
+          "title": "The Board of Adjustment may grant a conditional use permit for development provided: all",
+          "page": 26,
+          "paragraphs": [
+            "necessary permits are obtained from those governmental agencies from which approval is required by State and Federal Law; and the development standards of Section 605are met or exceeded."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "605",
+          "title": "Development Standards Within Areas of Special Flood Hazard",
+          "page": 26,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "605.1",
+          "title": "All development and structures shall be:",
+          "page": 26,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "designed to minimize flood damage to the proposed development and to public facilities and utilities,",
+              "paragraphs": [
+                "and;"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "designed to provide adequate drainage to reduce exposure to flood hazards;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "designed (or modified) and adequately anchored to prevent flotation, collapse, or lateral movement",
+              "paragraphs": [
+                "of the structure during the occurrence of the base flood;"
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "constructed with materials resistant to flood damage;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "constructed by methods and practices that minimize flood damage, and;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "constructed with electrical, heating, ventilation, plumbing, and air conditioning equipment and other",
+              "paragraphs": [
+                "service facilities that are designed and/or located so as to prevent water from entering or accumulating within the components during conditions of flooding. Town of Concord Land Use Regulations 27 | P a g e"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "605.2",
+          "title": "The flood carrying capacity within any altered or relocated portion of a watercourse shall be",
+          "page": 27,
+          "paragraphs": [
+            "maintained."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "605.3",
+          "title": "New and replacement water supply and sanitary sewage systems shall be designed to minimize or",
+          "page": 27,
+          "paragraphs": [
+            "eliminate infiltration of flood waters into the systems and discharges from the system into flood waters."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "605.4",
+          "title": "On-site waste disposal systems shall be located to avoid impairment to them or contamination",
+          "page": 27,
+          "paragraphs": [
+            "from them during flooding."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "605.5",
+          "title": "New and replacement manufactured homes shall be elevated on properly compacted fill such that the",
+          "page": 27,
+          "paragraphs": [
+            "top of the fill (the pad) under the entire manufactured home is above the base flood elevation."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "605.6",
+          "title": "Development within the floodway is prohibited unless a registered professional engineer certifies",
+          "page": 27,
+          "paragraphs": [
+            "that the proposed development will not result in any increase in flood levels during the occurrence of the base flood."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "605.7",
+          "title": "The lowest floor, including basement, of all new buildings shall be at or above the base flood",
+          "page": 27,
+          "paragraphs": [
+            "elevation."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "605.8",
+          "title": "Existing buildings to be substantially improved for residential purposes shall be modified or",
+          "page": 27,
+          "paragraphs": [
+            "elevated to meet the requirements of 405.7."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "605.9",
+          "title": "Existing buildings to be substantially improved for non-residential purposes shall either:",
+          "page": 27,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "meet the requirements of 405.7; or",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "be designed to be watertight below the base flood elevation with walls substantially impermeable",
+              "paragraphs": [
+                "and with structural components having the capability of resisting hydrostatic and hydrodynamic loads and effects of buoyancy. A permit for a building proposed to be flood proofed shall not be issued until a registered professional engineer or architect has reviewed the structural design, specifications and plans, and has certified that the design and proposed methods of construction are in accordance with accepted standards of practice for meeting the provisions of this subsection."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "605.10",
+          "title": "Junkyards and storage facilities for floatable materials, chemicals, explosives, flammable liquids, or",
+          "page": 27,
+          "paragraphs": [
+            "other hazardous or toxic materials, are prohibited within the floodway."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "606",
+          "title": "Duties and Responsibilities of the Administrative Officer",
+          "page": 27,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "606.1",
+          "title": "The Administrative Officer shall maintain a record of:",
+          "page": 27,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "all permits issued for development in areas of special flood hazard;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "the elevation, in relation to the mean sea level of the lowest floor, including basement, of all new or",
+              "paragraphs": [
+                "substantially improved buildings;"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "the elevation, in relation to mean sea level, to which buildings have been flood-proofed;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "all flood-proofing certifications required under this regulation; and",
+              "paragraphs": [
+                "Town of Concord Land Use Regulations 28 | P a g e"
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "all variance actions, including justification for their issuance",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "607",
+          "title": "Variances",
+          "page": 28,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "607.1",
+          "title": "Variances shall be granted by the Board of Adjustment only:",
+          "page": 28,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "in accordance with provisions of 24 V.S.A. S 4469;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "upon a determination that during the base flood discharge the variance will not result in increased",
+              "paragraphs": [
+                "flood levels; and"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "upon a determination that the structure or other development is protected by methods that",
+              "paragraphs": [
+                "minimize flood damages during the base flood and create no additional threats to public safety."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "608",
+          "title": "Warning of Disclaimer of Liability",
+          "page": 28,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "608.1",
+          "title": "These regulations do not imply that land outside the area of special flood hazard or land uses",
+          "page": 28,
+          "paragraphs": [
+            "permitted within such districts will be free from flooding or flood damages. These regulations shall not create liability on the part of the Town of Concord or any official or employee thereof for any flood damages that result from reliance on these regulations or any administrative decision lawfully made thereunder."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "VII",
+      "title": "Administration and Enforcement",
+      "sections": [
+        {
+          "number": "701",
+          "title": "Administrative Officer (AO)",
+          "page": 29,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "701.1",
+          "title": "The Administrative Officer shall be appointed by the Selectboard, following the nomination by the",
+          "page": 29,
+          "paragraphs": [
+            "Planning Commission, to administer the Land Use Regulations, as provided for in 24 V.S.A. S 4448. The Selectboard may remove a Administrative Officer for cause at any time after consultation with the Planning Commission. The Administrative Officer shall literally enforce the provisions of these regulations and in so doing shall inspect development, maintain records and perform all other necessary tasks to carry out the provisions of these regulations. An acting Administrative Officer may be appointed by the Selectboard, from nominations submitted by the Planning Commission, who shall have the same duties and responsibilities of the Administrative Officer in the Zoning Administrator's absence, or if the Administrative Officer has a conflict of interest. In the event an acting Administrative Officer is appointed, the Selectboard shall establish clear policies regarding the authority of the acting Zoning Administrator."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "702",
+          "title": "The Planning Commission",
+          "page": 29,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "702.1",
+          "title": "The Planning Commission shall consist of not less than five (5) nor more than nine (9) members",
+          "page": 29,
+          "paragraphs": [
+            "appointed by the Selectboard in accordance with 24 V.S.A. S 4322-4323. The Selectboard may be nonvoting ex officio members of the planning commission. Any member may be removed at any time unanimous vote of the Selectboard."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "702.2",
+          "title": "The Planning Commission shall have all powers and duties set forth in the Act to administer the",
+          "page": 29,
+          "paragraphs": [
+            "provisions of these regulations, including:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Applications for Site Plan Approval (Section 510);",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Applications for Subdivisions of Land (Section 512)",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "703",
+          "title": "Zoning Board of Adjustment",
+          "page": 29,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "703.1",
+          "title": "There is hereby established a Zoning Board of Adjustment whose members shall consist of the",
+          "page": 29,
+          "paragraphs": [
+            "members of the Planning Commission, until such time that the Board of Selectmen appoints a separate Zoning Board of Adjustment of 5 members as provided in the Act."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "704",
+          "title": "Administrative Review",
+          "page": 29,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "704.1",
+          "title": "No land development as defined in 24 V.S.A. S 4303(10) may be commenced without a permit issued",
+          "page": 29,
+          "paragraphs": [
+            "by the Zoning Administrator. Administrative Officer The Administrative Officer shall not issue a zoning permit unless the proposed development complies with all applicable sections of these regulations, and all applicable approvals required by the Planning Commission and the Zoning Board of Adjustment have been granted. In addition, initial construction under a zoning permit is prohibited unless and until a wastewater and potable water supply permit is issued under 10 V.S.A. chapter 64. Town of Concord Land Use Regulations 30 | P a g e"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "704.2",
+          "title": "An application for a zoning permit shall be filed with the Administrative Officer on forms provided by",
+          "page": 30,
+          "paragraphs": [
+            "the Town of Concord. All required application fees for all applicable review processes, as set by the Town of Concord Selectboard, shall be submitted with the application as well. The applicant shall submit two sets of sketch plans, drawn to scale on a sheet no smaller than 8.5\" x 11\" which shall include the following information:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The name and address of person or firm preparing the map(s). Scale of map, north point and date;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Name and address of the property owner(s) of record",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "The dimensions of the lot, including existing boundaries;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The location, footprint, and height of existing and proposed structures or additions;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "The location of existing and proposed wastewater and potable water systems;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "The location of existing and proposed accesses (curb cuts), driveways, parking areas, loading spaces,",
+              "paragraphs": [
+                "and pedestrian walkways;"
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Streets, utility easements, rights-of-way;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "Documentation of any existing land use and deed restrictions;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "Landscape plans;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "J",
+              "title": "Erosion and sedimentation control; and",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "K",
+              "title": "Other such information as required by the Zoning Administrator",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "704.3",
+          "title": "Within thirty (30) days of receipt of a complete application the Administrative Officer shall, in writing,",
+          "page": 30,
+          "paragraphs": [
+            "either issue or deny a zoning permit or refer the application to the appropriate municipal panel (i.e. the Planning Commission or the Zoning Board of Adjustment) for review. If the Administrative Officer fails to act within the thirty-day period, the permit will be deemed issued on the 31st day."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "704.4",
+          "title": "Zoning permits and letters of denial shall include a statement of the time within which appeals may be",
+          "page": 30,
+          "paragraphs": [
+            "taken under Section 608 of these regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "704.5",
+          "title": "Within 3 days of the date of issuance, the Administrative Officer shall deliver a copy of the zoning",
+          "page": 30,
+          "paragraphs": [
+            "permit to the Town of Concord Assessor; shall post a copy of the permit in the Town of Concord Municipal Offices; and shall post a notice of permit within view from the public right-of-way nearest the subject property for a period of 15 days from the date of issuance."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "704.6",
+          "title": "No zoning permit shall take effect until the time for appeal under Section 608 of these regulations has",
+          "page": 30,
+          "paragraphs": [
+            "passed, or in the event that a notice of appeal is properly filed, until final adjudication of the appeal."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "704.7",
+          "title": "If the zoning permit is approved, all development authorized by its issuance shall be completed within",
+          "page": 30,
+          "paragraphs": [
+            "two years of its date of issue, or the zoning permit shall become null and void and reapplication shall be required to continue development."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "704.8",
+          "title": "Within 30 days of the issuance of the zoning permit, the Administrative Officer shall deliver a legible",
+          "page": 30,
+          "paragraphs": [
+            "copy of the permit to the Concord Town Clerk for recording in the Town of Concord land records. Town of Concord Land Use Regulations 31 | P a g e"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "705",
+          "title": "Appeals of the Administrative Officer Decisions",
+          "page": 31,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "705.1",
+          "title": "Any interested person as defined under 24 V.S.A. S 4465t may appeal a decision or act of",
+          "page": 31,
+          "paragraphs": [
+            "the Administrative Officer within 15 days of the date of the decision or act by filing a notice of appeal with the Town Clerk, and by filing a copy of the notice with the Administrative Officer. A notice of appeal filed under this section shall be in writing and include the following information:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The name and address of the appellant;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "A brief description of the property with respect to which the appeal is taken;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "A reference to applicable provisions of these regulations;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The relief requested by the appellant, including any request for a variance from one or more",
+              "paragraphs": [
+                "provisions of these regulations; and"
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "The alleged grounds why such relief is believed proper under the circumstances",
+              "paragraphs": [
+                "The Zoning Board of Adjustment shall hold a public hearing on a notice of appeal within 60 days of its filing, as required in 24 V.S.A. S 4468. The Zoning Board of Adjustment shall give public notice of the hearing under"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "707",
+          "title": "of these regulations, and shall mail a copy of the hearing notice to theappellant not less than 15",
+          "page": 31,
+          "paragraphs": [
+            "days prior to the hearing date."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "705.2",
+          "title": "The Zoning Board of Adjustment may reject an appeal or request for reconsideration without a",
+          "page": 31,
+          "paragraphs": [
+            "hearing, and render a decision which shall include findings of fact within 10 days of the filing of a notice of appeal, if the Board determines that the issues raised by the appellant have been decided in an earlier appeal or are based on substantially or materially the same facts presented by or on behalf of the appellant."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "706",
+          "title": "Variances",
+          "page": 31,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "706.1",
+          "title": "The Zoning Board of Adjustment shall hear and decide requests for variances in accordance with",
+          "page": 31,
+          "paragraphs": [
+            "24 V.S.A. S 4469(a) and appeal procedures under Section 708 of these regulations. In granting a variance, the Zoning Board of Adjustment may impose conditions it deems necessary and appropriate under the circumstances to implement the purposes of these regulations and the municipal plan currently in effect. The Zoning Board of Adjustment may grant a variance and render a decision in favor of the appellant only if all of the following facts are found, and the findings are specified in its written decision:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "There are unique physical circumstances or conditions, including irregularity, narrowness, or",
+              "paragraphs": [
+                "shallowness of lot size or shape, or exceptional topographical or other physical conditions peculiar to the particular property, and that unnecessary hardship is due to these conditions and not the circumstances or conditions generally created by the provisions of these regulations in the neighborhood or district in which the property is located;"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Because of these physical circumstances or conditions, there is no possibility that the property can be",
+              "paragraphs": [
+                "developed in strict conformity with the provisions of these regulations and that the authorization of a variance is necessary to enable the reasonable use of the property;"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "The unnecessary hardship has not been created by the appellant;",
+              "paragraphs": [
+                "Town of Concord Land Use Regulations 32 | P a g e"
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The variance, if authorized, will not alter the essential character of the neighborhood or district in",
+              "paragraphs": [
+                "which the property is located, substantially or permanently impair the appropriate use or development of adjacent property, reduce access to renewable energy resources, or be detrimental to the public welfare; and,"
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "The variance, if authorized, will represent the minimum that will afford relief and will represent the",
+              "paragraphs": [
+                "least deviation possible from these regulations and from the plan."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "707",
+          "title": "Public Hearings",
+          "page": 32,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "707.1",
+          "title": "In accordance with 24 V.S.A. S Section 4464, all development review processes will be conducted in a",
+          "page": 32,
+          "paragraphs": [
+            "public hearing, with notice of hearing given not less than 15 days prior to the date of the public hearing."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "707.2",
+          "title": "Warning of the all public hearings shall be issued accordingly:",
+          "page": 32,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "By publishing the date, place and purpose of the hearing in a local newspaper of general circulation;",
+              "paragraphs": [
+                "and"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "By posting the same information in three (3) or more public places within the municipality, including",
+              "paragraphs": [
+                "posting of a notice within view from the public right-of-way nearest to the property for which the application is being made; and"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "By written notification to the applicant and to owners of all properties adjoining the property subject",
+              "paragraphs": [
+                "to development, without regard to public rights-of-way. This written notice shall include a description of the proposed project, clearly identify how and where additional information may be obtained, and state that participation in the local proceeding is a prerequisite to the right to take any subsequent appeal."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "707.3",
+          "title": "All meetings and hearings of the Planning Commission and the Zoning Board of Adjustment,",
+          "page": 32,
+          "paragraphs": [
+            "except for deliberative sessions, shall be open to the public and conducted in accordance with adopted Rules of Procedure and Vermont's Open Meeting Law."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "707.4",
+          "title": "In any public hearing, there shall be an opportunity for each person to attempt to demonstrate",
+          "page": 32,
+          "paragraphs": [
+            "interested party status. The Secretary of each respective municipal panel shall keep a record of the name, address, and participation of these persons."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "707.5",
+          "title": "The Planning Commission or Zoning Board of Adjustment may recess a hearing on any application",
+          "page": 32,
+          "paragraphs": [
+            "or appeal pending the submission of additional information, provided that the next hearing date and place is announced at the hearing."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "707.6",
+          "title": "In accordance with 24 V.S.A. S 4464(b), the Planning Commission or the Zoning Board of",
+          "page": 32,
+          "paragraphs": [
+            "Adjustment shall issue all decisions within 45 days after the adjournment of the hearing. Failure to issue a decision within the 45 day period shall be deemed approval and shall be effective the 46th day. Town of Concord Land Use Regulations 33 | P a g e"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "707.7",
+          "title": "All decisions shall be issued in writing and shall separately state findings of fact and conclusions of",
+          "page": 33,
+          "paragraphs": [
+            "law. Findings of fact shall explicitly and concisely restate the underlying facts that support the decision, based exclusively on evidence of the record. Conclusions shall be based on the findings of fact. The decision shall also include a statement of the time within which appeals may be taken."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "707.8",
+          "title": "In rendering a decision in favor of the applicant, the Planning Commission or the Zoning Board of",
+          "page": 33,
+          "paragraphs": [
+            "Adjustment may attach additional reasonable conditions and safeguards as it deems necessary to implement these regulations and the Concord Municipal Plan."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "707.9",
+          "title": "All decisions shall be sent by certified mail, within the required 45-day period, to the applicant or",
+          "page": 33,
+          "paragraphs": [
+            "the appellant on matters of appeal. Copies of the decision also shall be mailed to every person appearing and having been heard at the hearing, and filed with the Administrative Officer and Clerk as part of the public record of the municipality."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "708",
+          "title": "Appeals of the Appropriate Municipal Panel (AMP)",
+          "page": 33,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "708.1",
+          "title": "In accordance with 24 V.S.A. S 4471, an interested person who has offered oral or written testimony in",
+          "page": 33,
+          "paragraphs": [
+            "a hearing of the Planning Commission or Zoning Board of Adjustment may appeal a decision within 30 days of such decision, to the Vermont Environmental Court."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "708.2",
+          "title": "The notice of appeal shall be filed by certified mailing, with fees, to the Environmental Court and",
+          "page": 33,
+          "paragraphs": [
+            "by mailing a copy to the Zoning Administrator, who shall supply a list of interested persons (including the applicant if not the appellant), to the appellant within five 5 working days."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "708.3",
+          "title": "Upon receipt of the list of interested persons, the appellant shall, by certified mail, provide a copy of",
+          "page": 33,
+          "paragraphs": [
+            "the notice of appeal to every interested person. If any one or more of those persons are not then parties to the appeal, upon motion they shall be granted leave by the court to intervene."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "709",
+          "title": "Certificate of Occupancy",
+          "page": 33,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "709.1",
+          "title": "No use or occupancy of any land or structure may commence until the Administrative Officer has",
+          "page": 33,
+          "paragraphs": [
+            "issued a Certificate of Occupancy in accordance with 24 V.S.A. S 4449(2)."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "709.2",
+          "title": "When the Administrative Officer issues a zoning permit, he or she shall also issue an application for a",
+          "page": 33,
+          "paragraphs": [
+            "Certificate of Occupancy. Prior to the use or occupancy of the land or structure, the applicant shall submit a completed Certificate of Occupancy application to the Zoning Administrator."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "709.3",
+          "title": "At the time the application for a Certificate of Occupancy is submitted, the applicant shall also",
+          "page": 33,
+          "paragraphs": [
+            "submit a copy of the Water Supply and Wastewater permit from the State of Vermont, or a letter of determination stating that no such permit is required. Town of Concord Land Use Regulations 34 | P a g e"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "709.4",
+          "title": "A Certificate of Occupancy shall not be issued until all necessary approvals and permits required",
+          "page": 34,
+          "paragraphs": [
+            "by these regulations have been obtained for the project, and the Administrative Officer determines that the project has been fully completed in conformance with all such approvals and permits."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "709.5",
+          "title": "Within thirty days of receipt of the application for a Certificate of Occupancy, the Zoning",
+          "page": 34,
+          "paragraphs": [
+            "Administrator may inspect the premises to ensure that all work has been completed in conformance with the zoning permit and associated approvals, including all applicable permit conditions. If the Administrative Officer fails to either grant or deny the Certificate of Occupancy within thirty days of the submission of an application, the certificate shall be deemed issued on the 31st day."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "710",
+          "title": "Penalties",
+          "page": 34,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "710.1",
+          "title": "All violations shall be pursued in accordance with 24 V.S.A. S 4451 and S 4452t. The",
+          "page": 34,
+          "paragraphs": [
+            "Administrative Officer shall act on behalf of the Town of Concord to impose a fine of up to, but not more than, $100 for each violation. Each day that a violation continues shall constitute a separate offense. All fines imposed and collected shall be paid over to the Town of Concord."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "710.2",
+          "title": "The Administrative Officer shall not bring any action against an alleged violation unless the alleged",
+          "page": 34,
+          "paragraphs": [
+            "offender has had at least seven days notice by certified mail that such a violation exists. The notice of violation also shall be recorded in the land records of the Town of Concord. The notice of violation shall state that:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "A violation exists;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The alleged offender has had an opportunity to cure the violation within the seven-day notice period;",
+              "paragraphs": [
+                "and"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "The alleged offender will not be entitled to an additional warning notice",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "710.3",
+          "title": "Within 30 days of the issuance of a notice of violation, the Administrative Officer shall deliver either",
+          "page": 34,
+          "paragraphs": [
+            "the original or a legible copy to the Concord Town Clerk for recording in the Town of Concord land records."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "710.4",
+          "title": "The Administrative Officer may bring action without notice and opportunity to cure if the alleged",
+          "page": 34,
+          "paragraphs": [
+            "offender repeats the violation of the regulations after the seven day notice period and within the next succeeding twelve months."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "710.5",
+          "title": "In accordance with 24 V.S.A. S 4454(a), the Administrative Officer may take action against an alleged",
+          "page": 34,
+          "paragraphs": [
+            "violation within fifteen years from the date the violation first occurred, and not thereafter. The burden of proving the date the alleged violation first occurred shall be on the alleged offender."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "710.6",
+          "title": "In accordance with 24 V.S.A. S 4454(b), the Administrative Officer shall not take action against an",
+          "page": 34,
+          "paragraphs": [
+            "alleged violation unless the notice of the violation has been recorded in the land records of the Town of Concord. Town of Concord Land Use Regulations 35 | P a g e"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "VIII",
+      "title": "Definitions",
+      "sections": [
+        {
+          "number": "801",
+          "title": "Word Definitions",
+          "page": 35,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "801.1",
+          "title": "The word person includes a firm, association, organization, partnership, trust, company or",
+          "page": 35,
+          "paragraphs": [
+            "corporation as well as an individual."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "801.2",
+          "title": "The present tense includes the future tense, the singular number includes the plural, and the",
+          "page": 35,
+          "paragraphs": [
+            "plural number includes the singular."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "801.3",
+          "title": "The word shall is mandatory, and the word may is permissive",
+          "page": 35,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "801.4",
+          "title": "The words used or occupied include the words intended, designed, or arranged to be used, or",
+          "page": 35,
+          "paragraphs": [
+            "occupied."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "801.5",
+          "title": "The word lot includes the words plot or parcel",
+          "page": 35,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "802",
+          "title": "Term Definitions",
+          "page": 35,
+          "paragraphs": [
+            "Accessory Structure: a structure, detached from the principle structure, which is incidental and subordinate to the principal or structure on the same lot. Accessory Use: a use on the same lot with, and of a nature customarily incidental and subordinate to, the principle use. Affordable Housing: Housing that is either: (1) owned by its inhabitants, whose gross annual household income does not exceed 80 percent of the median income for Essex County, as defined by the United States Department of Housing and Urban Development, and the total annual cost of the housing, including principal, interest, taxes and insurance, is not more than 30 percent of the household's gross annual income; or (2) rented by its inhabitants whose gross annual household income does not exceed 80 percent of the median income for Essex County, as defined by the United States Department of Housing and Urban Development, and the total annual cost of the housing, including rent, utilities, and condominium association fees, is not more than 30 percent of the household's gross annual income. Area of Shallow Flooding: a designated AO or AH zone on a community's Flood Insurance Rate Map (FIRM) with a one percent or greater annual chance of flooding to an average depth of one to three feet where a clearly defined channel does not exist, where the path of flooding is unpredictable, and where velocity flow may be evident. Such flooding is characterized by ponding or sheet flow. Area of Special Flood Hazard: the land in the flood plain within a community subject to a one percent or greater chance of flooding in a given year. The area may be designed as Zone A on the FHBM. After detailed ratemaking has been completed in preparation for publication of the FIRM, Zone A usually is defined into Zones A, AH, Al-A30, AE, or A99. Base Flood: the flood having a one percent chance of being equaled or exceeded in a given year. Town of Concord Land Use Regulations 36 | P a g e Basement: any area of the building having its floor subgrade (below ground level) on all sides. Building: an assemblage of materials for the support or enclosure of persons, animals, chattel of anykind (see Structure). Building Footprint: The area encompassed by the building's outer walls. Building/Structure Front Line: means a line parallel to the front line transecting that point in the structure face which is closest to the front line. This face includes porches whether enclosed or unenclosed but does not include steps. Building/Structure Height: the vertical distance measured from the average elevation of the proposed finish grade at the front of the structure to the highest point of the roof for flat and mansard roofs, and to the average height between eaves and ridge for other type roofs. Business Office: an establishment engaged in rendering administrative support; management or consultation; or service to other business establishments or individuals on a fee or contractual basis, such as advertising and mailing; building maintenance; employment services; and research, development, and testing. Camp, Primitive: A living unit, the occupancy of which neither exceeds 3 consecutive weeks per calendar year nor exceeds a total of 60 days per calendar year, that has no interior plumbing except for one sink with water. Primitive camps may contain a composting or incinerating toilet that does not yield a liquid provided its contents are disposed of in compliance with the Vermont DEC Wastewater System and Potable Water Supply Rules. Campground: Any lot with 4 or more campsites on a lot that are occupied or made available to be occupied for vacation or recreational purposes by camping units, such as tents, yurts, tepees, lean-tos, camping cabins, and recreational vehicles. Club, Private: a structure or use catering exclusively to club members and their guests for recreational purposes, and not operated primarily for profit. Community Center: A building that is owned and operated by a public or nonprofit group or agency, and is used for recreational, social, education, or cultural activities. Development: the division of a parcel of land into two or more parcels; the construction, reconstruction, conversion, structural alteration, relocation, or enlargement of any building or other structure; or of any mining, excavation or landfill; and any change in the use of any building or other structure, or land, or extension of use of land. Drive-In Establishment: An establishment that by design, physical facilities, service, or packaging procedures encourages or permits customers to receive services, obtain goods, or be entertained while remaining in their motor vehicles. Dwelling Unit: one or more rooms connected together, constituting a separate, independent housekeeping establishment for owner occupancy, rental or lease, and physically separated from any Town of Concord Land Use Regulations 37 | P a g e other rooms or dwelling units which may be in the same structure, sharing the dwelling's sewage and water system, but containing independent cooking and sleeping facilities. Dwelling, Accessory Unit: An apartment, located within or appurtenant to an owner-occupied single-family dwelling, that is clearly subordinate to a single-family dwelling, and has facilities and provisions for independent living, including sleeping, food preparation, and sanitation. Dwelling, Single Family: a detached, residential dwelling unit, including a mobile home, designed for and occupied by one family only. Dwelling, Two Family: means a residential building designed for occupancy by no more than two families living independently of each other in individual living units. Dwellings, Multi-Family: a residential building or buildings designed for or occupied by three or more families, with the number of families in residence not exceeding the number of dwelling units provided. Multi-family dwellings may include, but are not limited to, apartment buildings, mobile home parks, and cottage housing. Emergency Services: Police, firefighters, and emergency medical technicians, and other first responders to public safety crises. Essential Service: The erection, construction, alteration, or maintenance of public or private utilities, or municipal or other governmental agencies of underground, or overhead gas, electrical, steam, or water transmissions, or distribution systems, including poles, wires, mains, drains, sewers, pipes, cables, fire alarm boxes, police call boxes, traffic signals, hydrants, street signs, and similar equipment and accessories therewith and including buildings reasonably necessary for the furnishing of adequate service by such utilities. Family: One or more persons living, sleeping, cooking, and eating on the same premises as a single housekeeping unit. Fence: An artificially constructed barrier or any material or combination of materials erected to enclose, screen, or separate areas of land. Flood Hazard Boundary Map (FHBM): an official map or maps of a community, issued by the Administrator, where the boundaries of the flood, mud-slide (i.e., mudflow) related erosion areas having special hazards, have been designated as Zones A, M, and/or E. Flood Insurance Rate Map (FIRM): an official map or maps of a community, on which the Administrator has delineated both the special hazard areas and the risk premium applicable to the community. Flood Insurance Study: an examination, evaluation, and determination of flood hazards and, if appropriate, corresponding water surface elevations. Flood Proofing: any combination of structural and non-structural additions, changes, or adjustments to structures which reduce or eliminate flood damage to real estate or improved real property, water and sanitary facilities, structures and their contents. Town of Concord Land Use Regulations 38 | P a g e Floodway: the channel of a river or other watercourse and the adjacent land areas that must be reserved in order to discharge the base flood without cumulatively increasing the water surface elevation more than a designated height. Freight Storage Containers: Freight storage containers shall include containers unregistered for transportation use, but not limited to box trailers, flat bed trailers, storage boxes or utility trailers. They may be with or without wheels. Home Industry: An expanded home-based business conducted by one or more residents of a single family dwelling and up to five nonresident employees, which is carried on within the principal dwelling and/or an accessory structure, and meets all applicable requirements of these regulations (see Section 503.2). See also Home Occupation. Home Occupation: an accessory use, of a service character, conducted within a minor portion of a dwelling or its accessory structure by the residents thereof and not more than three employees, and which is clearly secondary to the dwelling used for living purposes and does not change the character thereof. Junk: Old or discarded scrap copper, brass, iron, steel or other metals, or materials including but not limited to tires, household appliances, furniture, rope, rags, batteries, glass, rubber debris, waste, trash, construction debris, plumbing fixtures, or any discarded, dismantled, wrecked, scrapped, or ruined motor vehicle or parts thereof. Any of the above items used in a bona fide agricultural operation as defined by statute are excluded from this definition. Junkyard: See \"Salvage Yard.\" Light Industry: manufacturing, assembly, converting, altering, finishing, cleaning or other processing, handling or storage of products or materials. Loading Space: an off-street space used for temporary location for one licensed motor vehicle, which is at least 12' wide and 40' long and 14' high, not including access driveway, and having direct access to the street or alley. Lot: means a parcel of land occupied or to be occupied by only one main structure and the accessory structures or uses customarily incidental to it. A lot shall be of sufficient size to meet zoning requirements for use, coverage, and area, and to provide such yards and other spaces as are herein required, such lots shall have frontage on an approved public street, or other means of access approved by the Planning Commission and may consist of: a single lot of record; a portion of a lot of record; a combination of complete lots of record, or portions of lots of record; or a parcel of land described in metes and bounds; provided that in no case of division or combination shall any residential lot or parcel be created which does not meet the requirements of these regulations. Lot Measurements: Depth of a lot shall be considered to be the distance between the mid points of straight lines connecting the foremost points of the side lines in front and the rearmost points of the side lot lines in the rear. Width of a lot shall be considered to be the distance between straight lines connecting front and rear lot lines at each side of the lot, measured across the rear of the required front yard, however, that width between the lot lines at their foremost points (where they intersect with the street line) shall not be less than 80 percent of the required lot width except in the case of lots on the Town of Concord Land Use Regulations 39 | P a g e turning circle of a cul-de-sac, where the 80 percent requirement shall not apply. Lot of Record: a lot which is part of a subdivision recorded in the office of the Town Clerk, or a lot or parcel described in metes and bounds, the description of which has been so recorded. Lowest Floor: the lowest floor of the lowest enclosed area including a basement. An unfinished or flood resistant enclosure, usable solely for parking of vehicles, building access or storage in an area other than the basement area is not considered a building's lowest floor; provided that such enclosure is not built so as to render the structure in violation of the applicable non-elevation design requirements of Section 405.7. Mean Sea Level: the National Geodetic Vertical Datum (NGVD) of 1929 or the datum, to which base flood elevations shown on a community Flood Insurance Rate Map are referenced. Mobile home: a structure or type of manufactured home that is built on a permanent chassis and is designed to be used as a dwelling with or without a permanent foundation, includes plumbing, heating, cooling, and electrical systems, and is: A) transportable in one or more sections; B) at least 8' wide or 40' long, or when erected, has at least 320 square feet or if the structure was constructed prior to June 15, 1976, at least eight feet wide or 32' long; or C) any structure that meets all the requirements of this definition except for size and for which the manufacturer voluntarily files a certification required by the U.S. Department of Housing and Urban Development and complies with the standards established under Title 42 of the U.S. Code. Neighborhood Commercial Facility: any commercial facility such as a grocery, general, or drug store or retail service establishment intended principally to serve the area in which it is located. Non-Conforming Structure: means a structure not complying with the zoning regulations for the district in which it is located, where such structure complied with all applicable laws and regulations prior to enactment of these regulations, including a structure improperly authorized by error of the Zoning Administrator. Non-Conforming Use: a use of land or structure which does not comply with the zoning regulations for the district in which it is located, where such use conformed to all applicable laws and regulations prior to the enactment of these regulations, including a use improperly authorized by error of the Zoning Administrator. Non-Residential Use: all uses of structures or lands except single family dwellings, two family dwellings, and multi-family dwellings. On-Lot Water and Sewage Disposal: means the providing of water from a source such as a drilled well or spring and the disposal of sewage by such means as a septic tank and leach field located on the same or adjacent lot as the structure for which these utilities are located. Parking Space, Off-Street: an off-street parking space shall consist of a space adequate for parking a vehicle with room for opening doors on both sides, together with properly related access to a public street or alley and maneuvering room. For the purpose of rough computation, an off-street parking space and necessary access and maneuvering room may be estimated to be 300 square feet, but off street parking requirements will be considered to be met only when actual spaces meeting the requirements above are provided and maintained, in a manner appropriate to the circumstances of the case, and in accordance with all regulations and regulations of the town. Town of Concord Land Use Regulations 40 | P a g e Personal Service: includes barber, hairdresser, beauty parlor, shoe repair, laundry and laundromat, dry cleaner, photographic studio, and businesses providing similar services of a personal nature. Public Facility: includes auditorium, theatre, public hall, school hall, and meeting hall. Recreation Facility, Indoor: A structure that is used for sport and leisure activities, and other customary and usual activities that can be performed indoors. For purposes of these regulations this definition includes both facilities open to the general public and facilities which are open only to bona fide members and guests. This definition does not include an accessory use to a single-family dwelling, to be used primarily by residents of said dwelling. Recreation Facility, Outdoor: Lands and related accessory structures, which are designed to accommodate the conduct of outdoor sport and leisure activities, including swimming, tennis, horseback riding, field sports, and playground activities. For purposes of these regulations, this definition includes both facilities open to the general public and facilities which are open only to bona fide members and guests. This definition does not include an accessory use to a single-family dwelling, to be used primarily by residents of said dwelling. Recreational Vehicles: A portable structure without permanent foundation, which can be towed, hauled or driven and primarily designed as temporary living accommodations for recreational, camping and travel use and including but not limited to travel trailers, truck campers, camping trailers and self-propelled motor homes. Religious Facility: A building or structure, or group of buildings or structures, which are maintained and controlled by a religious body organized to sustain public worship. Residential Use: includes single family dwelling, mobile home dwelling, two family dwelling and multifamily dwelling. Retail Store: includes enclosed restaurant, cafe, shop and store for sale of retail goods, personal service shop and department store; and shall exclude any drive-in service, free standing retail stand, gasoline service and motor vehicle repair service, new and used car sales and service, trailer and mobile home sales and service. Salvage Yard: Any place of outdoor storage or deposit for storing, keeping, processing, buying, or selling junk or as a scrap metal processing facility. \"Salvage yard\" also means any outdoor area used for operation of an automobile graveyard. It does not mean a garage where wrecked or disabled motor vehicles are stored for less than 90 days for inspection or repairs. Sign: Any structure, display, divide, or representation that is designed or used or advertise, direct to, or call attention to any person, business, activity, or place; and is visible from any highway or other right-of- way. Sign Area: The entire face of a sign, including any advertising surface that contains lettering, as well as any framing, trim, or molding, but not including the supporting structure. Street Frontage: the lot lines which abut a public street. Street Line: the right-of-way line of a street as dedicated by a deed of record. Where the width of the Town of Concord Land Use Regulations 41 | P a g e street is not established; the- street line shall be considered to be 25' from the center line of the street pavement. Street Public: the public way for vehicular traffic which affords the principal means of access to abutting properties. Structure: an assembly of materials for occupancy or use, including, but not limited to, a building, mobile home or trailer, billboard, sign, wall or fence, except a wall or fence on an operating farm. Substantial Improvement: any repair, reconstruction, or improvement of a structure, the cost of which equals or exceeds 50 percent of the market value of the structure either, (a) before the improvement or repair is started, or (b) if the structure has been damaged, and was being restored, before the damage occurred. The term does not, however include either (1) any project for improvement of a structure to comply with existing State or local health, sanitary, or safety code specifications which are solely necessary to assure safe living conditions or (2) any alteration of a structure listed on the National Register of Historic Places or a State Inventory of Historic Sites. Substantially Commenced: visible signs of activity on new construction of a new structure or repair of a damaged structure, including the commitment of resources and materials to a project, such as the pouring of a foundation, the completion of a frame, or the delivery of all required building materials to the construction site. Yard: the space on a lot not occupied with a building or structure. Porches, whether enclosed or unenclosed, shall be considered as part of the main structure and shall not project into a required yard. Yard, Front: the space between the front lot line and the front line of a structure extending to the side lot lines of the lot. The depth of the front yard shall be measured from the street line to the front line of the structure. Yard, Rear: the space between the rear lot line and rear line of the structure extended to the side lot lines of the lot. The depth of the rear yard shall be measured from the rear lot line to the rear line of the structure. Yard, Side: the space between the principal structure or accessory structure and a side lot line, and extending through from the front yard to the rear yard. Summary of Land Use Regulation Changes - August, 2016",
+            "district boundary locations.",
+            "Town of Concord Land Use Regulations 42 | P a g e Zoning Map"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Updated and restructured Zoning Bylaw (now called Land Use Regulations).",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Clarify Concord Zoning Bylaw Section 203.1 relating to when the Planning Commission shall interpret",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Newly define freight storage container restrictions and permitting process in section 304.2",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Clarify in Section 313 overall guidance for recreational vehicles.",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Define town permit contingencies upon state water and waste water permits in section 604.1.",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Clarify definitions of accessory structures, freight storage containers, and structures in Section 802.",
+              "use_type": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

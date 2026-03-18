@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "municipality": "Rupert",
+    "county": "Bennington",
+    "state": "Vermont",
+    "bylaw_date": "0913-20-11",
+    "source_pdf": "Bennington_Rupert_Text_eff09132011.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 107,
+    "word_count": 15730,
+    "articles_found": 8,
+    "sections_found": 0,
+    "subsections_found": 0,
+    "regulation_rows": 0,
+    "list_items": 0
+  },
+  "articles": [
+    {
+      "number": "1",
+      "title": "GENERAL PROVISIONS",
+      "sections": []
+    },
+    {
+      "number": "2",
+      "title": "ZONING DISTRICTS FLUVIAL EROSION HAZARD OVERLAY DISTRICT",
+      "sections": []
+    },
+    {
+      "number": "3",
+      "title": "GENERAL STANDARDS",
+      "sections": []
+    },
+    {
+      "number": "4",
+      "title": "SPECIFIC USE STANDARDS",
+      "sections": []
+    },
+    {
+      "number": "5",
+      "title": "DEVELOPMENT REVIEW STANDARDS",
+      "sections": []
+    },
+    {
+      "number": "6",
+      "title": "SUBDIVISION AND PLANNED UNIT DEVELOPMENT (PUD) STANDARDS",
+      "sections": []
+    },
+    {
+      "number": "7",
+      "title": "ADMINISTRATION AND ENFORCEMENT",
+      "sections": []
+    },
+    {
+      "number": "8",
+      "title": "DEFINITIONS",
+      "sections": []
+    }
+  ]
+}

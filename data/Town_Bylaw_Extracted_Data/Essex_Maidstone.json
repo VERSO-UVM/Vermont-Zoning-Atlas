@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "municipality": "Maidstone",
+    "county": "Essex",
+    "state": "Vermont",
+    "bylaw_date": "0201-20-16",
+    "source_pdf": "Essex_Maidstone_Text_eff02012016.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 41,
+    "word_count": 14320,
+    "articles_found": 7,
+    "sections_found": 0,
+    "subsections_found": 0,
+    "regulation_rows": 0,
+    "list_items": 0
+  },
+  "articles": [
+    {
+      "number": "1",
+      "title": "ENACTMENT AND INTENT",
+      "sections": []
+    },
+    {
+      "number": "2",
+      "title": "ESTABLISHMENT OF DISTRICTS AND REGULATIONS",
+      "sections": []
+    },
+    {
+      "number": "3",
+      "title": "GENERAL PROVISIONS",
+      "sections": []
+    },
+    {
+      "number": "4",
+      "title": "NONCONFORMITIES",
+      "sections": []
+    },
+    {
+      "number": "5",
+      "title": "ADMINISTRATION AND ENFORCEMENT",
+      "sections": []
+    },
+    {
+      "number": "6",
+      "title": "AMENDMENTS, INTERPRETATION, EFFECTIVE DATE, SEPARABILITY",
+      "sections": []
+    },
+    {
+      "number": "7",
+      "title": "Definitions",
+      "sections": []
+    }
+  ]
+}

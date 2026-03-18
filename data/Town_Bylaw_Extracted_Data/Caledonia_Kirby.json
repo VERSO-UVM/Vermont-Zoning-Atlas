@@ -1,0 +1,1882 @@
+{
+  "metadata": {
+    "municipality": "Kirby",
+    "county": "Caledonia",
+    "state": "Vermont",
+    "bylaw_date": "0424-20-01",
+    "source_pdf": "Caledonia_Kirby_Text_eff04242001.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 26,
+    "word_count": 8700,
+    "articles_found": 8,
+    "sections_found": 105,
+    "subsections_found": 47,
+    "regulation_rows": 0,
+    "list_items": 69
+  },
+  "articles": [
+    {
+      "number": "",
+      "title": "",
+      "sections": [
+        {
+          "number": "101",
+          "title": "- Enactment",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "102",
+          "title": "- Intent",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "103",
+          "title": "- Definitions",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "103.1",
+          "title": "- Word Definitions",
+          "page": 2,
+          "paragraphs": [
+            "2-8 103.2 - Term Definitions 8 ARTICLE II - ESTABLISHMENT OF DISTRICTS"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "201",
+          "title": "- Zoning Map & Districts",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "202",
+          "title": "- Copies of Zoning Map",
+          "page": 2,
+          "paragraphs": [
+            "9 Section 203 - District Boundaries 9 ARTICLE III - REQUIREMENTS AND USES"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301",
+          "title": "- General Requirements",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302",
+          "title": "- Rural Residential District",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302.1",
+          "title": "- Objective",
+          "page": 2,
+          "paragraphs": [
+            "10 302.2 - Permitted Uses"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302.3",
+          "title": "- Conditional Uses",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302.4",
+          "title": "- Prohibited Uses",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302.5",
+          "title": "- Minimum Area and Dimensional Requirements",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302.6",
+          "title": "- Other Requirements",
+          "page": 2,
+          "paragraphs": [
+            "11 Section 303 - Commercial/Light Industrial"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "303.1",
+          "title": "- Objective",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "303.2",
+          "title": "- Permitted Uses",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "303.3",
+          "title": "- Conditional Uses",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "303.4",
+          "title": "- Prohibited Uses",
+          "page": 2,
+          "paragraphs": [
+            "12 303.5 - Minimum Area and Dimensional Requirements"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "303.6",
+          "title": "- Other Requirements",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304",
+          "title": "- Flood Plain District",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304.1",
+          "title": "- Objective",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304.2",
+          "title": "- Permitted Uses",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304.3",
+          "title": "- Conditional Uses",
+          "page": 2,
+          "paragraphs": [
+            "13 304.4 - Prohibited Uses"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304.5",
+          "title": "- Minimum Area and Dimensional Requirements",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304.6",
+          "title": "- Other Requirements",
+          "page": 2,
+          "paragraphs": [
+            "13 ARTICLE IV - GENERAL PROVISIONS"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "401",
+          "title": "- Miscellaneous Requirements of the Act",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "401.1",
+          "title": "- Existing Small Lots",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "401.2",
+          "title": "- Required Frontage",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "401.3",
+          "title": "- Protection of Home Occupation",
+          "page": 2,
+          "paragraphs": [
+            "14 401.4 - Equal Treatment of Housing"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "401.5",
+          "title": "- Sign Regulations",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "401.6",
+          "title": "- Performance Standards",
+          "page": 2,
+          "paragraphs": [
+            "14-15 401.7 - Planned Unit Development 15-18 401.8 - Sewage Disposal Systems 18-19 ARTICLE V - NON-CONFORMING USES"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "501",
+          "title": "- Non-Conforming Uses",
+          "page": 3,
+          "paragraphs": [
+            "19 ARTICLE VI - ADMINISTRATION AND ENFORCEMENT"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "601",
+          "title": "- Administrative Officer",
+          "page": 3,
+          "paragraphs": [
+            "19-20 Section 602 - Zoning Permits 20 Section 603 - Exemptions 20-21 Section 604 - C onditional Use Approval 21 Section 605 - Variances 22-23 Section 606 - Penalties 23 Section 607 - Board of Adjustment 23 ARTICLE VII - INTERPRETATION, AMENDMENTS AND REPEALER"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "701",
+          "title": "- Interpretation",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "702",
+          "title": "- Amendments",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "703",
+          "title": "- Severability",
+          "page": 3,
+          "paragraphs": [
+            "TOWN OF KIRBY, VERMONT 1994 ZONING BY-LAWS AMENDED"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "I",
+      "title": "ENACTMENT, INTENT AND DEFINITIONS",
+      "sections": [
+        {
+          "number": "101",
+          "title": "- Enactment",
+          "page": 4,
+          "paragraphs": [
+            "In accordance with the Vermont Planning and Development Act, hereinafter referred to as the \"Act\", 24 V.S.A., Chapter 117, Subsection 6, Section 4401 and Section 4406, there are hereby established Zoning Regulations for the Town of Kirby, Vermont which are set forth in the text and map that constitutes these regulations. These regulations shall be known and cited as the \"Kirby Zoning Regulations.\" For a list of permitted uses, see Page 10, Section 302.2. For a list of exemptions, see Page 20, Section 603."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "102",
+          "title": "- Intent",
+          "page": 4,
+          "paragraphs": [
+            "It is the intent of these Zoning Regulations to provide for orderly community growth by furthering the purposes established in the Act, Section 4302, and by acknowledging and providing for Kirby's social, economic and environmental needs as they are described in Kirby's Municipal Plan."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "103",
+          "title": "- Definitions",
+          "page": 4,
+          "paragraphs": [
+            "Definitions contained in Section 4303 of the Act shall be applicable throughout this regulation. Furthermore, unless otherwise expressly stated in this Regulation, the following additional terms and words shall, for the purpose of this regulation have the meaning herein indicated."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "103.1",
+          "title": "Word Definitions",
+          "page": 4,
+          "paragraphs": [
+            "The word PERSON includes a firm, association, organization, partnership, trust, company, or corporation as well as an individual. The PRESENT TENSE includes the future tense, the SINGULAR number includes the plural, and the PLURAL number includes the singular. The word SHALL is mandatory, the word MAY is permissive. The word USED or OCCUPIED include the words intended, designed, or arranged to be used or occupied. The word LOT includes the words plot or parcel."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "103.2",
+          "title": "Term Definitions",
+          "page": 5,
+          "paragraphs": [
+            "ACCESSORY USE OR STRUCTURE: A use or structure on the same lot with, and of a nature customarily incidental and subordinate to, the principal use or structure. AGRICULTURAL PROCESSING: The processing of agricultural plants or animals into related by-products. Example: a slaughterhouse or meat packing facility. AGRICULTURE: The production, keeping, or maintenance, for sale, lease, or personal use, of useful plants and animals; or the devoting of lands to soil conservation. ALTERATION: A structural change in a structure which changes its total size either in height, or amount of land surface covered. Also includes relocation or moving of a structure. ANIMAL HOSPITAL/KENNEL: Any structure or premises in which animals or pets are given medical or surgical treatment or are kept, boarded, bred, or trained for commercial gain. APARTMENT HOUSE: See Lodging House. BED & BREAKFAST HOME: A single family dwelling unit in which the resident owner or permanent dwelling occupant provides short term lodging to paying guests. The dwelling shall contain no more than six guest rooms. Guests may be served meals provided they are limited to breakfasts or brunches. Commercial restaurant or kitchen facilities are prohibited. BOARDING HOUSE: See Lodging House. BUILDING: An assembly of materials for the support or enclosure of persons, animals, chattel of any kind. BUFFER ZONE: The perimeter region on all properties established by the setback distances that creates a building development and structure free area. This includes temporary structures and small additions to primary structures. The only exception not requiring a permit and variance is a fence. BUILDING FRONT LINE: Line parallel to the front lot fine transecting that point in the building face which is closest to the front lot line. This face includes porches whether enclosed or unenclosed but does not include steps. BUILDING HEIGHT: Vertical distance measured from the highest point of the foundation grade to the peak roof point on any structure. Any alteration of a structure's existing ridge pole is considered building development BUILDING, PRINCIPAL: The building in which is conducted the main or principal use of the lot on which said building is located. CAMP: See Seasonal Camp. CAMPGROUND: A plot of land upon which is located space for four or more mobile or temporary living quarters for recreation, educational or vacation purposes. CEMETERY: An area for burial or entombment as in accordance with state regulations. CHURCH: A building for public worship operated by a recognized religious society. CLUB: Building or use catering exclusively to club members and their guests for recreational, educational, or service purposes. COMMUNITY CARE HOME: A place, however named, excluding a licensed foster home, which provides, for profit or otherwise, room, board and personal care to three or more residents unrelated to the home operator. Levels to be defined by the current State Statute. COMMUNITY FACILITY: Any meeting hall, place of assembly, museum, art gallery, library, school, church, or other similar establishment which is operated for public use or not operated primarily for profit. CONDITIONAL USE: Use which may be permitted only by approval of the Board of Adjustment after public notice and public hearing to determine whether the proposed use will conform to general and specific standards as set forth or referred to in this regulation and pursuant to Section 4407(2) of the Act. CURB CUT: A twenty-foot wide entrance way into a town or state road or highway, requiring an approved permit signed by the Selectmen prior to the development and/or use of a roadway, driveway and/or parking area. DAY CARE FACILITY: Any home or center licensed or registered with the Vermont Department of Social and Rehabilitative Services to provide child care services to seven or more children. DEVELOPMENT: The construction of a new building, or an addition to an existing building of more then 100 square feet, or any addition or alteration which changes the original use. (Example: a barn. is to become an apartment.) Normal maintenance and alterations which do not change the size or use shall not be classified as a building development. ANY structure, fixed or temporary that does not meet all setback distances requires a permit and subsequent variance that may or may not be approved. ANY addition of ANY size that does not meet all setback distances requires a permit and subsequent variance that may or may not be approved. DRIVEWAY: A private access way or right of way, 50 feet in width. Driveway maintenance is solely that of the property owner. DWELLING UNIT: One room, or rooms connected together, constituting a separate, independent housekeeping establishment for year-round owner occupancy or rental/lease and physically separated from any other rooms or dwelling units which may be in the same structure, and containing independent cooking and sleeping facilities, and serviced be a water supply and sewage system. A boarding or rooming house, motel/hotel/inn, nursing home or other similar home or structure shall not be deemed to constitute a dwelling unit. DWELLING, MULTIPLE FAMILY: Building or structure used as living quarters by three or more families, to include retirement homes. DWELLING, ONE FAMILY or DWELLING, SINGLE FAMILY: A detached residential dwelling unit, serviced with a water supply and sewage system, and designed for year round occupancy by one family only. DWELLING, TWO FAMILY: A residential building designed for year round occupancy by two families living independently of each other in individual dwelling units, with each unit being serviced by a water supply and sewage system. EDUCATIONAL FACILITY: Any private instructional/learning facility or similar establishment operated for profit. ESSENTIAL SERVICES: The erection, construction, alteration, or maintenance by public utilities or municipal or other governmental agencies, of underground or overhead transmission or distribution systems, and structures reasonably necessary for furnishing adequate service by such public utilities or municipal or governmental agencies or for the public health or safety or general welfare. FAMILY UNIT: One family whose members live together in the same dwelling and share the same facilities. FLOOR AREA LIVABLE: The sum of the gross horizontal area of each floors of the building's living space, measured from interior faces of the walls, excluding basement and garage areas used for storage or for the operation and/or maintenance of the building. FORESTRY: The active cultivation and harvesting of timber from forest land. FORESTRY PROCESSING: The processing of harvested timber into lumber or related products. Example: a sawmill. FRONTAGE OF LOT: Shall mean the same as width. FUEL SERVICE FACILITY: Any area of land, including structures thereon, that is used or designed to store above or below ground and/or distribute fuel or fuels including but not limited to: gasoline, kerosene, bottled gas and heating oils. HOME OCCUPATION: An accessory use conducted within a dwelling, associated structure i.e., garage or shop) or upon the land, by the occupants only, which is a secondary use and does not change the character of the dwelling associated structures, or the land. JUNKYARD: Any structure or place of storage, whether in connection with another place of business or not, used for the gathering, processing, and or resale of waste items, scrap materials, or other discarded goods. KENNEL: See Animal Hospital/Kennel. LIGHT COMMERCIAL: Small retail and/or service businesses including: motel/hotel, real estate, day care center, agricultural equipment sales, grocery, restaurant and hardware stores. LIGHT INDUSTRY: Any facility for the assembly, manufacture, compounding, processing, packing, treatment, or testing of materials, goods, or products provided these activities are conducted in such a manner so as not to generate noise, smoke, vibration, dust, glare, odors, electrical interference or heat that is detectable at the boundaries of the property. LODGING HOUSE: A building in which the rooms are rented or leased, with or without meals, to three or more persons, including a boarding house or apartment. LOT: A lot is a parcel of land divided and deeded out of a larger parcel of land. A lot shall not be occupied by more than one dwelling. A lot shall be of sufficient size to meet minimum zoning requirements for its proposed use. A lot shall have frontage on a public road or access to a public road by means of a deeded fifty foot wide right of way, recorded in the town records. The practice of \"squatting \" or allowing secondary structures on the same lot to be used as living quarters is not allowed. Temporary Use zoning permits may be granted during the construction of new or replacement homes provided the second dwelling is removed or converted to non-living space and is not at any future date used for living space. LOT OF RECORD: A lot which is part of a subdivision recorded in the office of the town clerk, or a lot or parcel described by metes and bounds with the description of which has been recorded. LOT DEPTH: Mean horizontal distance from the road line to the rear lot line measured at right angles to the building front line. LOT WIDTH: Width measured at right angles to its lot depth, at the proposed or existing building front line. MOTEL/INN: A building containing rooms that are rented as a series of sleeping units for transient, each sleeping unit consisting of at least one bedroom and a bathroom. This shall include hotel. MOTOR VEHICLE GRAVEYARDS: Any land or structure used for the storage or salvaging of four or more unregistered motor vehicles which are no longer intended or in condition for use on public highways. Included in this definition is the storage or salvaging of old iron, metal, glass, rubber, or other scrap materials which has been a part or is intended to be a part of any motor vehicle. MUNICIPAL FACILITY: Land and/or structures used for: office and meeting space; schools; storage of municipal equipment and supplies; and solid waste storage. NATURAL RESOURCE MINING: The harvesting of natural resources from the land for retail or commercial use, including but not limited to gravel pits, rock quarries, and mines. NON-CONFORMING STRUCTURE: Structure not conforming with the zoning regulations for the district in which it is located, where such structure complied with all applicable laws and regulations prior to the enactment of these regulations. NON-CONFORMING USE: Use of land or structure which does not comply with all zoning regulations for the district in which it is located, where such use conformed to all applicable laws and regulations prior to enactment of these regulations. NON-RESIDENTIAL USE: All uses of buildings, structures, or land except for dwelling units and lodging houses. NURSING HOME: A place, other than a hospital, which maintains and operates facilities and provides nursing care, for profit or otherwise, accommodating a person or persons, unrelated to the home operator, who are suffering from illness, disease, injury or deformity and require nursing care. PARKING SPACE, OFF ROAD: For the purpose of these by-laws, each off road parking space shall consist of a space no less ten feet by twenty feet in size. PLANNED UNIT DEVELOPMENT: An area of land, controlled by a landowner or association, to be developed as a single entity for a number of dwelling units; the plan for which does not correspond in lot size, density, lot coverage and/or required open space to the regulations established in any one of the districts created under these by-laws. PRIVATE CLUB: See Club. PROFESSIONAL SERVICES: Services by a professional including but not limited to: barber, doctor, lawyer, hairdresser, consultant, forester, surveyor, and post office. PROPERTY DEVELOPMENT: The subdivision of a parcel into two or more lots. Property development requires a zoning permit to verify that the proposed subdivision is in accordance with the minimum lot size. RECREATIONAL FACILITY: A place designed and equipped for the conduct of sports, leisure time activities, and other customary and usual recreational activities. RETIREMENT COMMUNITY: See Dwelling, Multiple Family. SAWMILL: A structure built for the processing of timber into lumber products. This does not include portable sawmill units that operate without the use of structures. SEASONAL CAMP: A structure to provide temporary shelter and sleeping accommodations during leisure and recreational activities, and which shall not be occupied nor identified as a dwelling. Any camp owner that wishes to occupy the structure full time must submit a zoning permit application to insure that a proper septic system is installed. SETBACK LINES. Parameters paralleling lot lines that shall established a \"construction free\" zone to reduce fire and pollution hazards and to provide adequate room for future road development and snow removal along the front lot line. SEWAGE DISPOSAL SYSTEM: A system for disposal of waste using undisturbed, on-site, soil as a disposal medium, including a tank for collection of solids and a leach area for liquids, or other systems which disposes of waste water on site. SHOOTING RANGE: Any land or structure used to provide an environment for the purpose of shooting firearms at targets, other than for personal recreational use. STABLES: A facility where horses are kept. The facility may be private or open to the public for riding lessons on a fixed schedule. STORAGE FACILITIES: A structure consisting of individual storage units available for private or commercial lease. Under no circumstances shall any unit be occupied as a dwelling or lived in by any person or animal. STRUCTURE: Anything constructed or erected with a fixed location on the ground, including but not limited to: buildings, in-ground swimming pools, mobile and modular homes, porches, decks, framed dwellings, septic systems, barns, sheds, wells, manmade ponds. Structures of any kind not meeting setback distances require a zoning permit application and subsequent variance which may or may not be approved. TEMPORARY USE PERMIT: A temporary permit with an expiration date for the purpose of allowing two residences to exist on the same lot during a limited construction period. The practice of \"squatting\" or allowing secondary structures on the same lot to be used as living quarters is not allowed. Temporary Use zoning permits may be granted during the construction of new or replacement homes provided the second dwelling is removed or converted to non-living space and is not at any future date used for living space. USE, PERMITTED: Use specifically allowed in a district. VARIANCE: A departure from the zoning bylaws which is granted or denied by the Board of Adjustment. The conditions specified in Section 4468 of the Act must exist in order for a variance to be granted. VERMONT HEALTH REGULATIONS: See current regulations of Vermont Agency of Natural Resources governing wastewater treatment and disposal or individual on-site septic systems. WAREHOUSE: A building or structure for the temporary storage of goods or merchandise."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "II",
+      "title": "ESTABLISHMENT OF DISTRICTS",
+      "sections": [
+        {
+          "number": "201",
+          "title": "- Zoning Map and Districts",
+          "page": 11,
+          "paragraphs": [
+            "The zoning map officially entitled \"Kirby Zoning Map\" is hereby adopted as part of this by-law. The Kirby Zoning Map, located in the town clerk's office, shows a division of the town into the following districts:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Residential District designated \"RR\" on the Kirby Zoning Map",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Commercial/Light Industry District designated \"C/Ll\" on the Kirby Zoning Map",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Flood Plain District designated \"FP\" on the Kirby Zoning Map",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "202",
+          "title": "- Copies of Zoning Map",
+          "page": 11,
+          "paragraphs": [
+            "Regardless of the existence of other printed copies of the zoning map which from time to time may be made or published, the \"Official Zoning Map\" shall be located in the office of the town clerk and shall be used as the final authority as to the current zoning statutes of the land areas of the town. The Zoning Map is hereby made part of this, regulation, together with all future notations, references, and amendments."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "203",
+          "title": "- District Boundaries",
+          "page": 12,
+          "paragraphs": [
+            "When the administrative officer cannot definitely determine the location of a district boundary by the scale or dimensions indicated in the zoning map he shall refuse action, and the planning commission shall interpret the location of the district boundary with reference to the scale of the zoning map and the purposes set forth in all relevant provisions of this by-law."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "III",
+      "title": "REQUIREMENTS AND USES",
+      "sections": [
+        {
+          "number": "301",
+          "title": "- General Requirements",
+          "page": 12,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301.1",
+          "title": "A structure shall not exceed 35 feet in height measured from the highest point of the",
+          "page": 12,
+          "paragraphs": [
+            "foundation grade to the highest point of the structure, with the exception of agricultural silos and barns."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301.2",
+          "title": "All single family dwellings shall require a town-approved sewage disposal system",
+          "page": 12,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301.3",
+          "title": "All multi-family, commercial and industrial sewage disposal systems shall be approved",
+          "page": 12,
+          "paragraphs": [
+            "by the State Department of Water Resources."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301.4",
+          "title": "Home occupation is permitted in all dwellings provided the activities associated with the",
+          "page": 12,
+          "paragraphs": [
+            "home occupation are conducted in such a manner so as not to generate noise, smoke, vibration, dust, glare, odors, electrical interference, heat, or visual annoyances that are detectable at the boundaries of the property."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301.5",
+          "title": "Conditional uses will be considered",
+          "page": 12,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301.6",
+          "title": "No construction nor land development shall be approved when such construction and/or",
+          "page": 12,
+          "paragraphs": [
+            "development will infringe on state designated wetlands."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301.7",
+          "title": "All driveways and right of ways entering a town or state road or highway require a curb",
+          "page": 12,
+          "paragraphs": [
+            "cut permit which is approved by the Kirby Selectmen. Material and labor that may be required under the terms of the curb cut permit, shall be the responsibility of the property owner."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302",
+          "title": "- Rural Residential District",
+          "page": 12,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302.1",
+          "title": "Objective:",
+          "page": 12,
+          "paragraphs": [
+            "Twenty years of increased residential development has resulted in reducing the role that Kirby's agricultural lands have played in the past. Kirby's growing \"bedroom community\" status now places a burden on the town's ability to provide town and educational services to an ever growing population. The rural residential district is designed to meet the new requirements of this growing community, while continuing to protect the natural resources that have served this community for over 200 years."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302.2",
+          "title": "Permitted Uses:",
+          "page": 13,
+          "paragraphs": [
+            "apartments 11. Bed and Breakfast"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Agriculture 7. Accessory Use",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Forestry 8. Seasonal Camp",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "One and two family dwellin gs 9. Home Occupation (s)",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Apartment house with f our or fewer 10. Stables",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Cemetery",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Church",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "302.3",
+          "title": "Conditional Uses:",
+          "page": 13,
+          "paragraphs": [
+            "apartments 19. Community facility"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Light commercial 10. Light industry",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Essential services 11. Campground",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Municipal facility 12. Educational facility",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Recreational facility 13. Nursing home",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Planned unit development 14. Lodging house",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Agricultural processing 15. Community care home",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "Animal hospital/kennel 16. Retirement community",
+              "use_type": null
+            },
+            {
+              "number": "8",
+              "text": "Professional services 17. Day care facility",
+              "use_type": null
+            },
+            {
+              "number": "9",
+              "text": "Apartment house with five or more 18. Multiple family dwelling",
+              "use_type": null
+            },
+            {
+              "number": "20",
+              "text": "Natural resource mining",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "302.4",
+          "title": "Prohibited Uses:",
+          "page": 13,
+          "paragraphs": [
+            "Same as uses described in Section 303.4"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302.5",
+          "title": "Minimum Area and Dimensional Requirements:",
+          "page": 13,
+          "paragraphs": [
+            "Lot area: 5 acres Lot width: 300 feet Front setback: 75 feet (f rom road centerline or 50 feet from the access lot line) Side setback: 40 feet Rear setback: 40 feet"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302.6",
+          "title": "Other Requirements:",
+          "page": 13,
+          "paragraphs": [
+            "way and curb cut, recorded in the town records. The lot line to which access is provided shall be at least 300 feet in width. The right of way shall be at least 50 feet wide.",
+            "permit will be issued by the town."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Each lot shall have frontage on a public road or access to the lot by means of a legal right of",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "A copy of a town recorded right of way and/or curb cut shall be submitted before a zoning",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "303",
+          "title": "- Commercial / Light Industrial",
+          "page": 14,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "303.1",
+          "title": "Objective:",
+          "page": 14,
+          "paragraphs": [
+            "This district is designated to provide paved road access, existing phone and electric utilities and adequate lot size requirements for future commercial and residential development. This district has been established: (1) to allow light, non-polluting industries and businesses to locate in Kirby; (2) to diversify Kirby's tax base with the goal of reducing the residential tax burden; (3) and to increase the town's employment opportunities. This district is defined as all lands between the Moose River and US Route 2 and all lands north of US Route 2 within a 1500-foot depth off the road. Any lands within the flood plain are excluded."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "303.2",
+          "title": "Permitted Uses:",
+          "page": 14,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Agriculture 9. Church",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Forestry 10. Lodging house",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Light industry 11. Private club",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Light commercial 12. Motel/inn",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Educational facility 13. Accessory use",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Professional services 14. Bed and Breakfast",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "Nursing home 15. Recreational Facility",
+              "use_type": null
+            },
+            {
+              "number": "8",
+              "text": "Warehouse 16. Community facility",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "303.3",
+          "title": "Conditional Uses:",
+          "page": 14,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Agricultural processing",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Forestry processing",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Essential service",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Animal hospital/kennel",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Fuel service facility",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "One-, two- and multi-family dwellings",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "Campground",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "303.4",
+          "title": "Prohibited Uses:",
+          "page": 14,
+          "paragraphs": [
+            "materials: asphalt, and cement; chemicals: aniline dyes, ammonia, carbide, caustic soda, cellulose, chlorine, carbon black, creosote, hydrogen and oxygen, industrial alcohol, nitrates of an explosive nature, potash, plastic materials and synthetic resins, pyroxlin, and hydrochloric, nitric, phosphoric, picric and sulphuric acids. The manufacturing of gas and/or explosives is also prohibited.",
+            "metal ores; refining petroleum products.",
+            "storage of used automotive and/or machine parts for resale."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Manufacturing uses involving primary production of the following products from raw",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "The following processes: nitrating of material; refining, smelting, and alloying of metal or",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Storage of explosives including bulk or whole-sale storage of fuels above ground.",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Junk yards, motor vehicle graveyards, automotive dismantling plants, and or unsheltered",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "303.5",
+          "title": "Minimum Area and Dimensional Requirements",
+          "page": 15,
+          "paragraphs": [
+            "Lot area: 3 acres Lot width: 300 feet Front setback: 75 feet (f rom road centerline or 50 feet from the access lot line) Side setback: 50 feet Rear setback: 50 feet"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "303.6",
+          "title": "Other Requirements:",
+          "page": 15,
+          "paragraphs": [
+            "way and curb cut, recorded in the town records. The lot line to which access is provided shall be at least 300 feet. The right of way shall be at least fifty feet in width.",
+            "permit will be issued by the town.",
+            "approval. In permitting such use, the zoning board of adjustment shall consider the effect of such use on the future suitability of the district for commercial/light industrial purposes."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Each lot shall have frontage on a public road or access to the lot by means of a legal right of",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "A copy of a town recorded right of way and/or curb cut shall be submitted before a zoning",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "The construction of one or multi-family dwellings shall be permitted, subject to conditional",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "304",
+          "title": "- Flood Plain District",
+          "page": 15,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304.1",
+          "title": "Objective:",
+          "page": 15,
+          "paragraphs": [
+            "This district is subject to intermittent flooding and contains fragile soils and plant life. Agricultural uses shall be permitted in this district. Non-substantial improvements such as picnic tables, fireplaces, etc., for recreational use shall be permitted."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304.2",
+          "title": "Permitted Uses:",
+          "page": 15,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Agriculture",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Forestry",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "304.3",
+          "title": "Conditional Uses:",
+          "page": 15,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Essential services",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Recreational",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "304.4",
+          "title": "Prohibited Uses:",
+          "page": 16,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Construction of buildings and/or dwellings.",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "304.5",
+          "title": "Minimum Area and Dimensional Requirements:",
+          "page": 16,
+          "paragraphs": [
+            "Lot area: 3 acres Lot width: 300 feet Front setback: 100 feet (from 100-year flood fine) Side setback: 50 feet Rear setback: 50 feet"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304.6",
+          "title": "Other Requirements:",
+          "page": 16,
+          "paragraphs": [
+            "way and curb cut, recorded in the town records. The lot line to which access is provided shall be at least 300 feet. The right of way shall be at least 50 feet in width.",
+            "permit will be issued by the town."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Each lot shall have frontage on a public road or access to the lot by means of a legal right of",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "A copy of a town recorded right of way and/or curb cut shall be submitted before a zoning",
+              "use_type": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "IV",
+      "title": "GENERAL PROVISIONS",
+      "sections": [
+        {
+          "number": "401",
+          "title": "- Miscellaneous Requirements of the Act",
+          "page": 16,
+          "paragraphs": [
+            "In accordance with Section 4406 of the Act, the following shall apply:"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "401.1",
+          "title": "Existing Small Lots",
+          "page": 16,
+          "paragraphs": [
+            "Any lot in individual and separate and non-affiliated ownership from surrounding properties in existence on the effective date of any zoning regulation, including an interim zoning regulation, may be developed for the purposes permitted in the district in which it is located, even though not conforming to minimum lot size requirements, if such lot is not less then one-eighth acre with a width or depth dimension of forty feet. Existing small lots must be in conformance with all possible district regulations and non-conformance with such regulations may subject development to variance review."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "401.2",
+          "title": "Required Frontage",
+          "page": 16,
+          "paragraphs": [
+            "On, or access to, public roads or public waters. No land development may be permitted on lots which do not either have frontage on public road or public waters or have the approval of the-planning commission by access to such a road or waters by permanent easement or right-of-way at least twenty feet in width."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "401.3",
+          "title": "Protection of Home Occupation",
+          "page": 16,
+          "paragraphs": [
+            "No regulation may infringe upon the right of any resident to use a minor portion of their dwelling, associated structure(s), or their land for an occupation which is customary in residential areas and which does not change the character thereof."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "401.4",
+          "title": "Equal Treatment of Housing",
+          "page": 17,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "401.4.1",
+              "title": "Except as provided in section 4407(6) of the Act, no zoning regulation shall have the",
+              "paragraphs": [
+                "effect of excluding mobile homes, modular housing, or other forms of prefabricated housing from the municipality, except upon the same terms and conditions as conventional housing is excluded."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.4.2",
+              "title": "No zoning regulation shall have the effect of excluding from the municipality, housing",
+              "paragraphs": [
+                "to meet the needs of the population as determined in Section 4382(c) of the Act."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.4.3",
+              "title": "No provision of the act shall be construed to prevent the establishment of mobile home",
+              "paragraphs": [
+                "parks pursuant to Chapter 153 of Title 10."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "401.5",
+          "title": "Sign Regulations:",
+          "page": 17,
+          "paragraphs": [
+            "No signs shall be permitted in any district except as specifically permitted herein as follows:"
+          ],
+          "subsections": [
+            {
+              "label": "401.5.1",
+              "title": "Signs shall be prohibited except for the purpose of announcement or advertising the",
+              "paragraphs": [
+                "goods or services sold or offered by the person or organization actually occupying the property."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.5.2",
+              "title": "No sign shall be larger then twenty square feet and more then ten feet high",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "401.5.3",
+              "title": "No sign shall be permitted at a place other then the actual site of the sale of said",
+              "paragraphs": [
+                "goods and services."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.5.4",
+              "title": "No internally illuminated flashing signs shall be permitted",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "401.5.5",
+              "title": "Special event signs and seasonal signs shall not exceed eight square feet in area and",
+              "paragraphs": [
+                "shall be removed promptly upon conclusion of the activity."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.5.6",
+              "title": "All permitted signs shall be a minimum of 35 ft from the center of the road",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "401.6",
+          "title": "Performance Standards",
+          "page": 17,
+          "paragraphs": [
+            "No land or structure shall be used in such a manner as to adversely affect the reasonable use and enjoyment of the surrounding area or adjoining premises."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "401.7",
+          "title": "Planned Unit Development",
+          "page": 17,
+          "paragraphs": [
+            "With the approval of a site plan, the planning commission is hereby empowered to vary certain zoning regulations under the criteria and procedures established in"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4407",
+          "title": "(12) of the Act",
+          "page": 17,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "401.7.1",
+              "title": "The proposed planned unit development site plan shall be submitted to the planning",
+              "paragraphs": [
+                "commission. The plan shall depict: the location in scale, of all structures, roads, parking areas and above/ below ground utilities; property topography and proposed grade changes; and building locations along adjacent property lines."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.7.2",
+              "title": "The planned unit developer shall provide a text that will show how the proposed",
+              "paragraphs": [
+                "development would create:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "A choice in the type of environment and living unit available to the public and quality",
+              "paragraphs": [
+                "in residential land use so that development will be a permanent and long term asset to Kirby."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Open space and recreational areas",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "A pattern of development which preserves trees and other natural resources while",
+              "paragraphs": [
+                "preventing soil erosion and surface and sub-surface water pollution."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "An efficient use of land resulting in smaller networks of utilities and roads",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "An environment which is consistent with the surrounding properties",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "A more desirable environment would be possible through the strict application of",
+              "paragraphs": [
+                "other sections of this by-law."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.7.3",
+              "title": "Density within the proposed development shall not exceed 125% of the permitted",
+              "paragraphs": [
+                "density within the appropriate district."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.7.4",
+              "title": "The planned unit development dwelling units may be multi-family and support services",
+              "paragraphs": [
+                "including retail establishments and public facilities may be incorporated within the plan."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.7.5",
+              "title": "Lot size, width, front yard depth, and side yard requirements may be waived; however",
+              "paragraphs": [
+                "these waivers will be evaluated on their individual merit."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.7.6",
+              "title": "A planned unit development shall be at least ten contiguous acres in size and shall",
+              "paragraphs": [
+                "reserve at least 50% of the total property for public and/or common usage."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.7.7",
+              "title": "The planning commission may prescribe rules and regulations to supplement the",
+              "paragraphs": [
+                "standards and conditions set forth in this zoning by-law for planned unit development, provided the rules and regulations are not inconsistent with the intent of the by-laws."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.7.8",
+              "title": "The planning commission shall hold a public hearing after public notice as required by",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4447",
+          "title": "of the act, prior to the establishment of any supplementary rules and regulations",
+          "page": 18,
+          "paragraphs": [
+            "for a planned unit development"
+          ],
+          "subsections": [
+            {
+              "label": "401.7.9",
+              "title": "Mobile home parks shall be considered consistent with the by-laws established for",
+              "paragraphs": [
+                "planned unit development."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "401.8",
+          "title": "Sewage Disposal Systems",
+          "page": 18,
+          "paragraphs": [
+            "The following regulations have been adopted under V. S.A. Title 24, Chapter 102. The purpose of this regulation is to preserve the public health and prevent pollution and to secure the sanitary protection of surface and subsurface waters. This regulation is intended to ensure that sewage is discharged into an sewage disposal system that will accomplish the following:",
+            "surfacing sewage; contamination of drinking water; and pollution of surface and/or subsurface waters. Such hazards shall constitute a violation of these regulations and Vermont Health Regulations.",
+            "disposal system; and",
+            "manner which will promote sanitary and healthful conditions. These regulations do not supersede Vermont Health Regulations and persons developing sewage systems should consult with those Regulations. Any violation of Vermont Health Regulations shall be deemed a violation of these zoning regulations."
+          ],
+          "subsections": [
+            {
+              "label": "401.8.1",
+              "title": "Applicability of Regulation. Sewage disposal systems shall be built, altered and used",
+              "paragraphs": [
+                "in accordance with this regulation. This includes, but is not limited to sewage disposal systems for single, two-, and multi-family dwellings, seasonal camps, and commercial and industrial facilities."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.8.2",
+              "title": "Seasonal Camp",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "Any seasonal camp which does not have plumbing and which shall have no running",
+              "paragraphs": [
+                "water at any time, shall not require a Sewage System Design and Location Plan."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Seasonal camp constructed prior to enactment of this regulation shall not be required",
+              "paragraphs": [
+                "to have a sewage disposal system provided no health hazard, nuisance or surface or subsurface water pollution exists. If such conditions are determined to be present by the health officer or the administrative officer, a disposal system shall be installed or up-graded to meet the standards of this regulation or its running water shall be removed and the generation of sewage ended."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.8.3",
+              "title": "Single- and Two-Family Dwellings",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "All single- and two-family dwelling construction shall require the submittal of a",
+              "paragraphs": [
+                "Sewage System Design and Location Plan prior to commencement of any construction or reconstruction on a given property."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Sewage disposal system shall be altered or rebuilt in any way, until a Sewage",
+              "paragraphs": [
+                "System Design and Location Plan has been submitted."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.8.4",
+              "title": "Multi-Family Dwellings",
+              "paragraphs": [
+                "All multi-family dwellings shall submit an approved \"Water Supply and Wastewater Disposal State Permit\" and a Sewage System Design and Location Plan to the administrative officer, prior to a zoning permit being approved."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.8.5",
+              "title": "Commercial and Industrial Structures",
+              "paragraphs": [
+                "Same as 401.8.4."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.8.6",
+              "title": "Certification of Compliance",
+              "paragraphs": [
+                "The administrative officer or his designee shall inspect all sewage disposal systems before they are covered with soil. The applicant shall give the administrative officer a minimum of 48 hours notice prior to final inspection. The administrative officer shall issue a Certificate of Compliance when satisfied that the installation is in compliance."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.8.7",
+              "title": "Change in Use. No structure shall be altered in any way so as to change the use of the",
+              "paragraphs": [
+                "structure unless the sewage disposal system and all proposed alterations meet the minimum standards of these by-laws."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.8.8",
+              "title": "System Replacement",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "A Sewage System Design and Location Plan shall be submitted prior to installing a",
+              "paragraphs": [
+                "replacement system."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "A Certificate of Compliance shall be issued within a reasonable period of time (see",
+              "paragraphs": [
+                "401.8.6) following the completion of installation of the replacement system Replacement systems for single family dwellings which have an approved replacement or continuous area, shall install the replacement system in accordance with 401.8.3 B. of this Section."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.8.9",
+              "title": "Sewage System Design and Location Plan",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "The owner of any property or designee which requires a sewage disposal system",
+              "paragraphs": [
+                "shall submit a Sewage System Design and Location Plan to the administrative officer, for approval, prior to the commencement of a system's construction and the plan shall include:",
+                "construction of the system;",
+                "and established water courses;"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "a drawing(s) indicating the placement and quantity of the materials being used in the",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "the relationship of the system's location to the dwelling and all potable water supplies",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "the property's lot lines/measurements;",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "a fist of materials, including size and grade, to be used in the construction;",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "the percentage of grade of the land being used as the systems site;",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "the name of the contractor that will be installing the system; and",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "the name and signature of the system's designer.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "The design of all residential system's shall be based on the system's ability to",
+              "paragraphs": [
+                "operate at a peak flow rate of 150 gallons per day per bedroom."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "The applicant shall complete the sewage system installation described in the",
+              "paragraphs": [
+                "Sewage System Design and Location Plan within two years of application. If a Certification of Compliance has not been issued to the system within the two-year period, the plan will be considered void and the applicant shall submit a new plan which complies to the by-laws then in force."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.8.10",
+              "title": "Certification. A Certification of Compliance Certificate shall be issued by the",
+              "paragraphs": [
+                "administrative officer when the officer is satisfied that the sewage system has been constructed and located as described in the project's Sewage System Design and Location Plan."
+              ],
+              "items": []
+            },
+            {
+              "label": "401.8.11",
+              "title": "Appeals. Any applicant aggrieved by a decision of the administrative officer may",
+              "paragraphs": [
+                "appeal that decision in writing to the Kirby Board of Adjustment within 30 days of the decision and the Board shall hold a hearing within 30 days of such appeal and shall render a decision within 15 days after the close of such hearing. The administrative process must be exhausted before appeal may be made to the Environmental Court."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "To prohibit the creation of health hazards which include, but are not limited to:",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "To ensure adequate drainage area related to the proper function of a sewage",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "To ensure that facilities shall be designed, constructed, operated and maintained in a",
+              "use_type": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "V",
+      "title": "NON-CONFORMING USES",
+      "sections": [
+        {
+          "number": "501",
+          "title": "- Non-Conforming Uses",
+          "page": 21,
+          "paragraphs": [
+            "The following provisions shall apply to all structures and uses existing on the effective date of these regulations, which do not conform to the requirements set forth in these regulations, and to all buildings and uses that in the future may not conform, by reason of any subsequent amendment to these regulations. Any non-conforming use of structures or land, except those specified below, may be continued indefinitely, but:"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "501.1",
+          "title": "Shall not be moved, enlarged, altered, extended, reconstructed, or restored (except as",
+          "page": 21,
+          "paragraphs": [
+            "provided below), nor shall any external evidence of such use be increased by any means whatsoever."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "501.2",
+          "title": "Shall not be changed to another non-conforming use without approval by the zoning",
+          "page": 21,
+          "paragraphs": [
+            "board of adjustment and then only if the proposed use, in the opinion of the board, is of the same or of a lesser degree of non-conformity."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "501.3",
+          "title": "Shall not be re-established if such use has been discontinued for a period of six months,",
+          "page": 21,
+          "paragraphs": [
+            "or has been changed to, or replaced by, a conforming use. Intent to resume a non-conforming use shall not confer the right to do so."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "501.4",
+          "title": "Shall not be restored for any other then a conforming use after damage from any cause,",
+          "page": 21,
+          "paragraphs": [
+            "unless the non-conforming use is reinstated within one year of such damage if the restoration of such structures is not completed within one year, the non-conforming use in such structures shall be deemed to have been discontinued, unless such non-conforming use is carried on without interruption in the undamaged part of the structure."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "501.5",
+          "title": "Nothing in this section shall be deemed to prevent normal maintenance and repair of",
+          "page": 22,
+          "paragraphs": [
+            "non-conforming buildings provided that such action does not increase the degree of non-conformity."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "VI",
+      "title": "ADMINISTRATION AND ENFORCEMENT",
+      "sections": [
+        {
+          "number": "601",
+          "title": "- Administrative Officer",
+          "page": 22,
+          "paragraphs": [
+            "The administrative officer shall be appointed for a term of three years by the planning commission, with the approval of the legislative body. The administrative officer shall administer the by-laws literally, and shall not have the power to permit any land development which is not in conformance with the by-laws. The administrative officer may be removed for cause at any time by the legislative body after consultation with the planning commission."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602",
+          "title": "- Zoning Permits",
+          "page": 22,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.1",
+          "title": "No building development, property development, construction of structures, or",
+          "page": 22,
+          "paragraphs": [
+            "conversion of seasonal camps to full-time or year-round use may be commenced within the area affected by these zoning regulations without an approved zoning permit issued by the administrative officer. A permit is required for all building development and structures, fixed or temporary, that do not meet setback distances. For structures that meet setback distances, only those of greater than 100 square feet require a zoning permit."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.2",
+          "title": "If the administrative officer finds that a proposed or existing development and/or use",
+          "page": 22,
+          "paragraphs": [
+            "violates any regulation adopted under this by-law, the administrative officer shall institute in the name of Kirby any appropriate action to prevent, restrain, correct or abate such development or use."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.3",
+          "title": "The administrative officer shall not issue a zoning permit without first receiving a",
+          "page": 22,
+          "paragraphs": [
+            "completed zoning permit application including, when applicable, a sewage system design and location plan, and a plot plan indicating the location of: (1) all structures and proposed structures; (2) water sources and disposal system; (3) lot fines and measurements and abutters names and addresses; (4) access roads, driveway or right of ways; and where applicable, a copy of the curb cut approval, right of way deed and any state and/or federal permits."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.4",
+          "title": "The administrative officer shall, within 30 days of submission of the completed",
+          "page": 22,
+          "paragraphs": [
+            "application, either issue or deny a zoning permit. If the zoning permit is approved, all activities authorized by its issuance shall be completed within two years of its date of issue."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.5",
+          "title": "No zoning permit issued pursuant to this section shall take effect until a 30-day appeal",
+          "page": 23,
+          "paragraphs": [
+            "period has passed, or in the event that a notice of appeal is properly filed, such permit shall not take effect until final adjudication of said appeal."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.6",
+          "title": "Within three days following the issuance of a zoning permit, the administrative officer",
+          "page": 23,
+          "paragraphs": [
+            "shall deliver a copy of the permit to the Kirby listers, the Kirby town clerk, and post a copy of the permit at the town hall."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "603",
+          "title": "- Exemptions",
+          "page": 23,
+          "paragraphs": [
+            "No zoning permit is required for the following:",
+            "more than eight feet in height and are not within 25 feet of center fine of road.",
+            "floor area and less than 12 feet in height, that meet setback requirements."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Permanent fences, hedges or walls which do not interfere with comer visibility which are not",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Patios, terraces or steps which are not covered overhead that meet setback requirements.",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Doghouses, sheds, treehouses, or similar structures having less than 100 square feet in the",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Any sign erected by the Town or State for directional information or traffic control purposes.",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Above-ground pools and hot tubs.",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "604",
+          "title": "- Conditional Use Approval",
+          "page": 23,
+          "paragraphs": [
+            "No zoning permit shall be issued by the administrative officer for any use or structure which requires \"conditional use\" approval in this regulation until the board of adjustment grants such approval. In considering its action, the board of adjustment shall make findings on general and specific standards, hold hearings and attach conditions, if any, as provided for in Section 4407(2) of the Act.",
+            "Adjustment shall determine that the development or use will not adversely affect any of the following general conditional use criteria: a. The capacity of existing or planned community facilities. A conditional use shall not overburden or exhaust existing or planned municipal facilities or services. b. The character of the area affected. A conditional use may not, by its nature, scale or conduct adversely change the character of the area as it exists or would exist if fully developed in accordance with the master plan. To that end, the conditional use shall meet or, where is deemed appropriate by the board of Adjustment, exceed the dimensional requirements for the district, the sign standards indicated in Article VII, and the noise standards specified in Paragraph #7 of Section 504. In addition, the Board of Adjustment shall determine that the proposed development will not result in undue air or water pollution on neighboring properties. c. Traffic on roads and highways in the vicinity. The estimated traffic generated by a conditional use shall not exceed the estimated volume of traffic that would be generated by the highest traffic volume generating permitted use for the district if developed in compliance with the district regulations on the same conditional use site. Where the capacity of the road to accept increased traffic is limited, the conditional use shall not exhaust or exceed the remaining capacity of the road. d. Bylaws then in effect. A conditional use must comply with bylaws and regulations adopted at the time of submission of the application. e. Utilization of renewable energy resources. A conditional use shall not excessively inhibit or restrict access to or the use of renewable natural resources (including, but not necessarily limited to, water and sunlight) for energy generation.",
+            "use application, the Board of Adjustment may make such additional requirements as it deems necessary with respect to the following specific standards: a. Minimum lot size. Where the Board of Adjustment has determined that the minimum lot size for the applicable zoning district is inadequate to permit the proposed conditional use without negative impacts to neighboring uses, it may increase the minimum requirement. b. Distance from the adjacent or nearby uses. Where the Board of Adjustment has determined that the minimum front, side or rear yard setback for the applicable zoning district is inadequate to permit the proposed conditional use without negative impacts to neighboring uses, it may increase the minimum requirement. c. Landscaping and fencing. The Board of Adjustment may require landscaping or fencing improvements beyond the minimum standards specified in these regulations if it determines that the proposed landscaping and buffering is insufficient to screen the adverse visual impacts of the proposed conditional use from adjoining streets or properties or such additional landscaping is necessary to mitigate adverse visual impacts. d. The design and location of structure and service areas. The Board of Adjustment may require such reasonable changes in the design or location of structures and service areas as it deems necessary to ensure that the conditional use will be compatible in scale and design with neighboring uses in the area. e. The size, location and design of signs. A conditional use shall, at a minimum, comply with the sign standards outlined in Article VIII. However, the Board of Adjustment may impose additional requirements on signs as it deems to protect the character of the area. f. Such other factors as the zoning regulations may include and that the Board of Adjustment deems are sufficient to satisfy the general conditional use criteria specified above."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "When determining the appropriateness of a proposed conditional use, the Board of",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "As a result of its review of the aforementioned general criteria in response to a conditional",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "605",
+          "title": "- Variances",
+          "page": 24,
+          "paragraphs": [
+            "The zoning board of adjustment may grant a variance, in accordance with 24 V.S.A. 4468, when the following conditions are met:",
+            "and that the unnecessary hardship is due to such conditions, and not the circumstances or conditions generally created by the provisions of the zoning regulation in the district in which the property is located;",
+            "property can be developed in strict conformity with the provisions of the zoning regulation and that the authorization of a variance is therefore necessary to enable the reasonable use of the property;",
+            "the appropriate use or development of adjacent property, nor be detrimental to the public welfare; and",
+            "and will represent the least modification possible of the zoning regulations and of the plan. In rendering a decision in favor of an applicant under this section, the board may attach such conditions to such variances as it may consider necessary and appropriate under the circumstances to implement the purposes of this section and the town plan."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "That there are unique physical circumstances or conditions, that are peculiar to the property,",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "That because of such physical circumstances or conditions, there is no possibility that the",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "That such unnecessary hardship has not been created by the applicant;",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "That the variance, if authorized, will not alter the essential character of the district, nor impair",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "That the variance, if authorized, will represent the minimum variance that will afford relief",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "606",
+          "title": "- Penalties",
+          "page": 25,
+          "paragraphs": [
+            "Violations of these regulations shall be regulated as prescribed in Sections 4444 and 4445 of the Act. Currently, those Acts provide as follows: 24 V.S.A S 4444. Enforcement; penalties. (a) Any person who violates any bylaw after it has been adopted under this chapter or who violates a comparable ordinance or regulation adopted under prior enabling laws shall be fined not more than $100.00 for each offense. No action may be brought under this section unless the alleged offender has had at least seven days' warning notice by certified mail. An action may be brought without the seven-day notice and opportunity to cure if the alleged offender repeats the violation of the bylaw or ordinance after the seven-day notice period and within the next succeeding twelve (12) months. The seven-day warning notice shall state that a violation exists, that the alleged offender has an opportunity to cure the violation within the seven days and that the alleged offender will not be entitled to an additional warning notice for a violation occurring after the seven days. In default of payment of the fine, such person, the members of any partnership, or the principal officers of such corporation shall each pay double the amount of such fine. Each day that a violation is continued shall constitute a separate offense. All fines collected for the violation of bylaws shall be paid over to the municipality whose bylaw has been violated. (b) Any person who, being the owner or agent of the owner of any lot, tract or parcel of land, lays out, constructs, opens or dedicates any street, sanitary sewer, storm sewer, water main, or other improvements for public use, travel, or other purposes or for the common use of occupants of buildings abutting thereon, or sells, transfers, or agrees or enters into an agreement to sell any land in a subdivision or land development whether by reference to or by other use of a plat of such subdivision or land development or otherwise, or erects any structure thereon, unless a final plat has been prepared in full compliance with this chapter and the bylaws adopted under this chapter and has been recorded as provided herein, shall be fined not more than $100.00 and each lot or parcel so transferred or sold or agreed or included in a contract to be sold shall be deemed a separate violation. All fines collected for such violations shall be paid over to the municipality whose regulation has been violated. The description by metes and bounds in the instrument of transfer or other document used in the process of selling or transferring shall not exempt the seller or transferor from such penalties or from the remedies herein provided. S 4445. Enforcement; remedies. If any street, building, structure, or land is or is proposed to be erected, constructed, reconstructed, altered, converted, maintained or used in violation of any bylaw adopted under this chapter the administrative officer shall institute in the name of the municipality any appropriate action, injunction or other proceeding to prevent, restrain, correct or abate such construction or use, or to prevent, in or about such premises, any act, conduct, business or use constituting a violation."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "607",
+          "title": "- Board of Adjustment",
+          "page": 26,
+          "paragraphs": [
+            "The board of adjustment shall consist of not less than three nor more than nine persons and may consist of planning commission members. The rules of procedure, nature of appeals, public notice, conditions for variance relief and an other such matters are hereby established as provided in Subchapter 8 of the Act."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "VII",
+      "title": "INTERPRETATION, AMENDMENTS, AND REPEALER",
+      "sections": [
+        {
+          "number": "701",
+          "title": "- Interpretation",
+          "page": 26,
+          "paragraphs": [
+            "In their interpretation and application, the provisions of this regulation shall be held to be the minimum requirements adopted for the promotion of the public health, safety, comfort, convenience, general welfare and economic stability. If any by-law is enacted with respect to any land development subject to regulations under the state statutes, the more stringent regulation applicable shall apply."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "702",
+          "title": "- Amendments",
+          "page": 26,
+          "paragraphs": [
+            "These regulations may be amended according to the requirements and procedures established in Section 4403 and 4404 of the Act."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "703",
+          "title": "- Severability",
+          "page": 26,
+          "paragraphs": [
+            "Should any section or provision of this regulation be decided by the courts to be unconstitutional or invalid, such decision shall not affect the validity of the regulation as a whole or any part thereof other than the part so decided to be unconstitutional or invalid."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    }
+  ]
+}

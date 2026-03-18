@@ -1,0 +1,1530 @@
+{
+  "metadata": {
+    "municipality": "Lowell",
+    "county": "Orleans",
+    "state": "Vermont",
+    "bylaw_date": "0304-20-03",
+    "source_pdf": "Orleans_Lowell_Text_eff03042003.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 33,
+    "word_count": 11606,
+    "articles_found": 7,
+    "sections_found": 78,
+    "subsections_found": 84,
+    "regulation_rows": 0,
+    "list_items": 4
+  },
+  "articles": [
+    {
+      "number": "1",
+      "title": "ENACTMENT AND INTENT",
+      "sections": []
+    },
+    {
+      "number": "2",
+      "title": "ESTABLISHMENT OF DISTRICTS & DISTRICT REGULATIONS",
+      "sections": [
+        {
+          "number": "206.01",
+          "title": "Permitted upon issuance of a conditional use permit by the Board of Adjustment after",
+          "page": 9,
+          "paragraphs": [
+            "public notice and hearing are those uses specified in Tables 204.01 to 204.04 as conditional uses. In order for a permit to be granted the proposed use shall not adversely affect: Lowell Zoning Bylaw Page 10 Adopted 03/04/03"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The capacity of existing or planned community facilities;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The character of the area affected;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Traffic on roads and highways in the vicinity;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Bylaws in effect, and;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Utilization of renewable energy resources",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "206.02",
+          "title": "In permitting a conditional use, the Board may impose, in addition to the regulations and",
+          "page": 10,
+          "paragraphs": [
+            "standards specified by this bylaw, other conditions found necessary to protect the best interests of the surrounding property, the neighborhood or the municipality as a whole. These conditions may include the following:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Increasing the required lot area or yard dimensions in order to protect adjacent",
+              "paragraphs": [
+                "properties."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Limiting the coverage or height of buildings because of obstruction to view and",
+              "paragraphs": [
+                "reduction of light and air to adjacent property."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Controlling the location and number of vehicular access points to the property and the",
+              "paragraphs": [
+                "hours and amount of the vehicular traffic permitted."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Increasing street width",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Increasing the number of off-street parking or loading spaces required",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Limiting the number, location and size of signs",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Requiring suitable landscaping where necessary to reduce noise and glare and to",
+              "paragraphs": [
+                "maintain the property in a character in keeping with the surrounding area."
+              ],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "Specifying a specific time limit for the completion of construction, alteration, or",
+              "paragraphs": [
+                "enlargement of a structure to house a conditional use."
+              ],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "Requiring that any future enlargement or alteration of the use be reviewed by the Board",
+              "paragraphs": [
+                "of Adjustment to permit the specifying of new conditions."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "206.03",
+          "title": "As a condition of the grant of a conditional use, the Board of -Adjustment may attach such",
+          "page": 10,
+          "paragraphs": [
+            "additional reasonable conditions and safeguards as it may deem necessary to implement the purposes 24 VSA, Chapter 117 and this zoning bylaw."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "206.04",
+          "title": "A change of use, expansion or contraction of floor area, or alteration of structures or uses",
+          "page": 10,
+          "paragraphs": [
+            "which are designated as conditional uses within the district in which they are located and are existing therein, prior to the effective date of this bylaw, shall conform to all regulations herein pertaining to conditional uses."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "206.05",
+          "title": "An applicant for a Conditional Use Permit must submit with their application sufficient,",
+          "page": 10,
+          "paragraphs": [
+            "clear, and truthful data to allow the Board to make a determination. The following are required:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Two copies of a site map to scale showing all buildings (including height), driveways,",
+              "paragraphs": [
+                "parking, traffic circulation, loading areas, pedestrian walks, fences screening, landscaping plans, site grading, position, and size of signs and all other facts relating to the site plan that may be important."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "An estimate of the amount of traffic to be generated. This should be broken down to",
+              "paragraphs": [
+                "specify: Lowell Zoning Bylaw Page 11 Adopted 03/04/03 1.Passenger cars - numbers and frequency. 2.Trucks - numbers, type, size, weight, and frequency."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Noise level of any equipment to be used and hours of operation",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Lights to be used that may be visible from the exterior",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Water and sewer information",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Act 250 permit",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Number of employees",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "Projected growth",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "All other necessary information that pertains to your specific application",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "206.06",
+          "title": "Prior to a conditional use hearing the Board shall attempt to notify by mail adjacent",
+          "page": 11,
+          "paragraphs": [
+            "landowners and other parties as the Board sees fit. S 207: Lot Classification: Water Supply/Sewage Service"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "207.01",
+          "title": "Table 204.01 refers to three separate classes of lots denominated Class 1, 2, or 3. Whether a",
+          "page": 11,
+          "paragraphs": [
+            "lot is classified as Class 1, 2, or 3 depends on the provision made with respect to such lot for water supply and sewage disposal. Thus, a sliding scale of minimum lot area and minimum area per family is established based on the type and location of the water supply and sewage disposal. The classification hereby established is as follows: Classification Class 1 Class 2 Class 3 Provision For Water and Sewage Disposal Off-lot water and sewage disposal Off-lot water or sewage disposal On-lot water and sewage disposal"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "207.02",
+          "title": "In any case in which it is proposed to provide a dwelling unit for only one family on a",
+          "page": 11,
+          "paragraphs": [
+            "single lot, the Administrative officer shall first determine, by reference to the applicable table, the lot classification in which the lot in question -falls. The Administrative officer shall then determine whether the lot satisfies the \"minimum lot area\" provision for such lot as set forth in such table. In any case in which it is proposed to provide a dwelling unit for more than one family on a single lot, the Administrative officer shall first determine, by reference to the applicable table, the lot classification in which the lot in question falls. Then- the maximum number of such dwelling units that may be located on such lot shall be determined by dividing the acreage of the lot in question by the 'minimum area per family\" provision applicable to a lot of such class as set forth in such table. In all cases, the result of such division shall be rounded up to the nearest whole number. S 208: Application of District Regulations"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "208.01",
+          "title": "Any \"non-conforming use\" or \"non-complying structure\", as such terms are defined in 24",
+          "page": 11,
+          "paragraphs": [
+            "VSA, S 4408, existing on the effective date of this bylaw, may be continued indefinitely to the extent set forth in Article 6 of this bylaw. Otherwise, no building or land may hereafter Lowell Zoning Bylaw Page 12 Adopted 03/04/03 be used or occupied and no building or part thereof shall be erected, moved or altered unless in conformity with the regulations herein specified for the district in which it is located."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "208.02",
+          "title": "No building shall hereafter be erected or altered:",
+          "page": 12,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "To accommodate or house a greater number of families and/or;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "To have narrower or smaller front, side and/or rear yards than is specified herein for the",
+              "paragraphs": [
+                "district in which such building is located."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "208.03",
+          "title": "No part of a yard or other open space about any building required for the purpose of",
+          "page": 12,
+          "paragraphs": [
+            "complying with the provisions of this bylaw shall be included as a yard or other open space similarly required for another building. S 209: Principal Structures All structures, whether attached to the principal structure or not, and, whether open or enclosed including porches, carports, balconies, or platforms above normal grade level, shall not project into any minimum front, side, or rear yard."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "GENERAL PROVISIONS",
+      "sections": [
+        {
+          "number": "301.01",
+          "title": "Any lot in individual and-separate and non-affiliated ownership from surrounding",
+          "page": 12,
+          "paragraphs": [
+            "properties in existence on the effective date of this zoning bylaw may be developed for the purposes permitted in the district in which it is located, even though not conforming to minimum lot area requirements, if such lot is not less than one-eighth acre in area with a minimum width or depth dimension of forty feet."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301.02",
+          "title": "If such lot subsequently comes under common ownership with one or more contiguous lots,",
+          "page": 12,
+          "paragraphs": [
+            "the lot shall be deemed merged with the contiguous lot for the purposes of this bylaw. However such lot shall not be deemed merged and may be separately conveyed, if:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The lots are conveyed in the preexisting, nonconforming configuration; and",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "On the effective date of any zoning regulations, each lot had been developed with a",
+              "paragraphs": [
+                "water supply and wastewater disposal system; and"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "At the time of transfer, each water supply and wastewater system is functioning in an",
+              "paragraphs": [
+                "acceptable manner; and"
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The deeds of conveyance create appropriate easements on both lots for replacement of",
+              "paragraphs": [
+                "one or more wastewater systems in case a wastewater system fails which means the system functions in a manner: Lowell Zoning Bylaw Page 13 Adopted 03/04/03",
+                "ground, discharge directly to surface water, or back up into a building or structure unless the approved design of the system specifically requires the system to function in such a manner;"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "That allows wastewater to be exposed to the open air, pool on the surface of the",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "So that a potable water supply is contaminated or rendered not potable;",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "That presents a threat to human health; or",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "That presents a serious threat to the environment.",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301.03",
+          "title": "If subsequent to separate conveyance, as authorized under S 301.02 of this section, a",
+          "page": 13,
+          "paragraphs": [
+            "wastewater system fails, the owner shall be required to obtain from the secretary of natural resources a wastewater permit as required under the State of Vermont subdivision regulations or a certification that the wastewater system has been modified or replaced, with the result that it no longer constitutes a failed system. S 302: Frontage On, Or Access To, Public Roads or Waters No land development may be permitted on lots which do not have frontage on either a public road or public waters or, with the approval of the Planning Commission, access to such a road or waters by permanent easement or right-of-way of record at least twenty feet in width. S 303: Protection of Home Occupations No regulation may infringe upon the right of any resident to use a minor portion of a dwelling for an occupation which is customary in residential areas and which does not change the residential character thereof. S 304: Lots in Two Zoning Districts Where a district boundary line divides a lot of record at the time such line is adopted, the regulations for the less restricted part of such lot shall extend not more than thirty feet (one hundred feet in the Rural Residential/Agriculture and Conservation/mountain districts) into the more restricted part, providing the lot has frontage on a road in the less restricted district. S 305: Principal Buildings Including Dwellings on Lots There shall be only one principal building on a lot unless otherwise approved under the planned unit development provisions. S 306: Reduction of Lot Area No lot shall be so reduced in area that the area, yards, lot width, frontag e, coverage, or other requirements of this bylaw shall be smaller than herein prescribed for each district. The provisions of this section shall not apply when part of a lot is taken for a public purpose. S 307: Required Area or Yards Lowell Zoning Bylaw Page 14 Adopted 03/04/03 Space required under this bylaw to satisfy area, yard, or other open space requirements in relation to one building shall not be counted as part of a required open space for any other building. S 308: Corner Lots"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "308.01",
+          "title": "Any yard adjoining a street shall be considered a front yard for the purposes of this bylaw",
+          "page": 14,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "308.02",
+          "title": "Lots that abut on more than one street shall provide the required frontage along every street",
+          "page": 14,
+          "paragraphs": [
+            "S 309: Driveways"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "309.01",
+          "title": "All driveways are to be located at least fifty feet from a street line intersection for all uses",
+          "page": 14,
+          "paragraphs": [
+            "except one and two family dwellings."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "309.02",
+          "title": "All proposed driveways that will have access to a town road shall have a driveway permit",
+          "page": 14,
+          "paragraphs": [
+            "issued by the Selectboard as required by 19 VSA, S 1111(b) prior to the establishment of such driveways. S 310: Temporary Uses and Structures Temporary permits may be issued by the Administrative officer for a period not exceeding one year, for non-conforming uses incidental to construction projects, provided such permits are conditioned upon agreement by the owner to remove the struct ure or use upon expiration of the permit. Such permits may be renewed upon application for an additional period not exceeding one year. S 311: Abandonment of Structures"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "311.01",
+          "title": "Within 18 months after any permanent or temporary building or structure has been",
+          "page": 14,
+          "paragraphs": [
+            "destroyed or demolished, all structural materials shall be removed from the site, and the excavation thus remaining shall be covered or filled to the normal grade by the owner."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "311.02",
+          "title": "No owner or occupant of land in any district shall permit fire or other ruins to be left, but",
+          "page": 14,
+          "paragraphs": [
+            "within 18 months shall remove or refill the same to clear ground level or shall repair, rebuild or replace the structure. Lowell Zoning Bylaw Page 15 Adopted 03/04/03 S 312: Off-Street Loading At least two off-street loading spaces, which ar e spaced logically, conveniently located for bulk pickups and deliveries, scaled to the delivery vehicles expected to be used, and accessible to such vehicles when required off-street parking spaces are filled, shall be provided for all commercial and industrial uses. Required off-street loading space is not to be included as off-street parking space. S 313: Off-Street Parking For every building hereafter erected, altered, extended, or changed in use, there shall be a minimum number of off street parking spaces as set forth in the tables below. A. 2 B. 5 C. 10"
+          ],
+          "subsections": [
+            {
+              "label": "D",
+              "title": "2 / dwelling unit",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "1 / 200 sqft of floor area",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "1 / 500 sqft of floor area",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "1 / 1000 sqft of floor area",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "1 / room",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "1 / 3 seats",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "J",
+              "title": "2 / travel trailer site",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "K",
+              "title": "None required",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "L",
+              "title": "Plan. Comm. determines",
+              "paragraphs": [
+                "Use Parking Required Accessory use/structure G Agriculture K Animal hospital/kennel F Auto service station A & E Bank E Cemetery K Church I Contractor's yard B Convenience store B Drive-in restaurant C Dwelling, multi-family D Dwelling, one family D Dwelling, two family D Earth resource extraction L Essential service K Forestry K Use Parking Required Home occupation E Hospital E Lodging house H Manufacturing F Mobile home park D Motel H Motor vehicle sale/repair B+E Newspaper & printing B+E Office E Public assembly use I Public facility F Recreational facility C+F Research/testing lab E Retail store E Travel trailer park J Warehouse/trucking terminal G For purposes of rough computation, an off-street parking space and necessary access and maneuvering room may be estimated to be 300 square feet. However, off-street parking requirements will be considered to be met only when actual spaces meeting the requirements above are provided and maintained, in a manner appropriate to the circumstances of the case, and in accordance with all bylaws and regulations of the Town. S 314: Screened Service Area Requirements Lowell Zoning Bylaw Page 16 Adopted 03/04/03 In any district all areas designated, used or intended to be used as service areas for any building or land use, other than one family and two family dw elling units shall be screened from view with either a wall, a solid fence or a fence or evergreens at a height of at least five feet above the grade level, on all sides where the. adjacent land is in a residential district or residential use. S 315: Home Occupation Any Home Occupation as defined in Sec 303 and Sec 502 shall be permitted as an accessory use if it complies with the requirements of this section."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "315.01",
+          "title": "The home occupation shall be carried on by members of the family. Three on-premise",
+          "page": 16,
+          "paragraphs": [
+            "employees who are not part of the family are permitted."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "315.02",
+          "title": "Only normally permitted exterior signs are allowed. Only visually unobtrusive exterior",
+          "page": 16,
+          "paragraphs": [
+            "storage of materials and only minor exterior indication of the home occupation are allowed."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "315.03",
+          "title": "Objectionable circumstances such as noise, vibration, smoke, dust, electrical disturbances,",
+          "page": 16,
+          "paragraphs": [
+            "odors, heat or glare as defined by performance standards in this by law or by the Town Selectboard or as determined by the Board of Adjustment shall not be produced."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "315.04",
+          "title": "Only a minor increase in neighborhood traffic shall be generated by a home occupation",
+          "page": 16,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "315.05",
+          "title": "For the purposes of section 315 Dwelling includes Accessory Use/Structure when such",
+          "page": 16,
+          "paragraphs": [
+            "Accessory Use/Structure is in harmony with the neighborhood. S 316: Site Plan Approval No zoning permit shall be issued by the Administrative Officer for any use or structure, except for one and two family dwellings, farm structures, and accessory uses until the Planning Commission grants site development plan approval."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "316.01",
+          "title": "Submission of Site Development Plan Map and Supporting Data. The owner shall submit",
+          "page": 16,
+          "paragraphs": [
+            "two sets of site plan maps and supporting data to the Planning Commission which shall include the following information: Proposed structure locations and land use areas; streets, driveways, traffic circulation, parking and loading spaces and pedestrian walks; landscaping plans, including site grading, landscape design and screening."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "316.02",
+          "title": "Site Development Plan Review Procedure. The Planning Commission shall conform to the",
+          "page": 16,
+          "paragraphs": [
+            "requirements of 24 VSA, S 4407(5) before acting upon any application."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "316.03",
+          "title": "In considering its action the Planning Commission shall consider and may impose",
+          "page": 16,
+          "paragraphs": [
+            "appropriate conditions and safeguards only with respect to the adequacy of traffic access, circulation and parking, landscaping and screening."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "316.04",
+          "title": "And to protecting the utilization of renewable energy resources",
+          "page": 16,
+          "paragraphs": [
+            "Lowell Zoning Bylaw Page 17 Adopted 03/04/03 S 317: Planned Unit Development With the approval of a subdivision plat the Pl anning Commission is hereby empowered to vary certain zoning regulations under the criteria and procedures established in 24 VSA, S 4407(12)."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "317.01",
+          "title": "Proposals for planned unit development shall be submitted to the Planning Commission",
+          "page": 17,
+          "paragraphs": [
+            "The material accompanying the proposal shall contain the following: Required site plan shall show all buildings, parking areas, and landscaping at a scale sufficient to permit the study of all elements of the plan. All utilities shall also be shown and described. Typical elevations and floor plans of all buildings may also be required. In addition, the site plans shall show the adjacent building outlines and other outstanding features within 200 feet."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "317.02",
+          "title": "The purpose of planned unit development shall be to encourage a development that will",
+          "page": 17,
+          "paragraphs": [
+            "result in:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "A choice in the types of environment and living units (where applicable) available to",
+              "paragraphs": [
+                "the public, and quality in land uses so that development will be a permanent and long- term asset to the town."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Open space and recreation areas if dwelling units are a part of the development",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "A pattern of development which preserves trees, outstanding natural topography and",
+              "paragraphs": [
+                "geologic features and prevents soil erosion."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "An efficient use of land resulting in smaller networks of utilities and streets",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "An environment in harmony with surrounding development",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "A more desirable environment than would be possible through the strict application of",
+              "paragraphs": [
+                "other sections of this bylaw."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "317.03",
+          "title": "Density may vary within the development. However, in planned unit developments having",
+          "page": 17,
+          "paragraphs": [
+            "dwelling units the total permitted number of dwelling units shall not exceed 25 percent more than the number which could be permitted in the Planning Commission's judgment if the land were subdivided into lots in conformance with the zoning regulations for the district in which the land is situated."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "317.04",
+          "title": "The predominant use of the land shall not differ substantially from the uses permitted in the",
+          "page": 17,
+          "paragraphs": [
+            "district in which the plan is located. In a planned unit development, dwelling units may be multi-family. In a planned unit development in a residential district, commercial, educational, and public facilities may be allowed which are designed to serve the development and the area around the development."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "317.05",
+          "title": "Lot area, width, front yard depth, and side yard requirements may be waived; however,",
+          "page": 17,
+          "paragraphs": [
+            "these will be evaluated by the Planning Commission on their individual merit."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "317.06",
+          "title": "A planned unit development shall comply with the following standards:",
+          "page": 17,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Sha11 be at least ten contiguous acres in all districts",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "At least 25 percent of the development shall remain in open space for public and/or",
+              "paragraphs": [
+                "common usage. The regulations for control and maintenance of this open space shall be approved by the Planning commission. This may be waived by the Planning Commission for commercial and industrial planned unit developments providing adequate screening and landscaping is provided. Lowell Zoning Bylaw Page 18 Adopted 03/04/03"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "317.07",
+          "title": "The Planning Commission may prescribe, from time to time, rules and regulations to",
+          "page": 18,
+          "paragraphs": [
+            "supplement the standards and conditions set forth in this zoning bylaw for planned unit development, provided the rules and regulations are not inconsistent with the zoning bylaw. The Planning Commission shall hold a public hearing after public notice as required by 24 VSA, S 4447 prior to the establishment of any supplementary rules and regulations for planned unit development."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "318.07",
+          "title": "As a condition to the issuance of a permit for a Planned Unit Development The Planning",
+          "page": 18,
+          "paragraphs": [
+            "Commission may impose appropriate and reasonable conditions and safeguards. S 318: Travel Trailers It shall be unlawful for any person to park a campi ng trailer, travel trailer, pick-up coach, and/or motor home on any public or private property, excep t in accordance with these regulations as follows:"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "318.01",
+          "title": "In an approved travel trailer camp",
+          "page": 18,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "318.02",
+          "title": "In an approved travel trailer sales lot",
+          "page": 18,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "318.03",
+          "title": "The owner of a travel trailer may park his or a visitor's trailer on his own property",
+          "page": 18,
+          "paragraphs": [
+            "S 319: Mobile Home and Travel Trailer Parks"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "319.01",
+          "title": "Permit Required. It shall be unlawful for any person to construct, or enlarge any mobile",
+          "page": 18,
+          "paragraphs": [
+            "home park or trailer camp within the limits of Lowell unless he or she or any firm holds a valid permit. Upon approval of the Planning Commission issuance of the permit shall be contingent upon compliance with all health and sanitary laws and regulations of the State of Vermont and Lowell."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "319.02",
+          "title": "Permit - Methods of Application and Requirements. Applications for permits shall be made",
+          "page": 18,
+          "paragraphs": [
+            "'in writing, signed by the applicant who shall file with the application proof of ownership of the premises, a lease or written permission from the owner thereof together with a complete set of plans drawn to scale, showing the location of the proposed mobile home park or trailer camp, and which shall include:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The areas and dimensions of the tract of land",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The maximum number, location, and size of all mobile home and trailer spaces",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "The location of any existing buildings and any proposed structures",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The location and width of access driveways, roads, parking areas, walkways, and turn",
+              "paragraphs": [
+                "arounds."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "The location of electrical, water, storm drainage and sewer lines and the sewage",
+              "paragraphs": [
+                "disposal system."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Each application shall contain a list of the fees and these fees shall be posted on the",
+              "paragraphs": [
+                "park or camp premises in a conspicuous location."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "A contour map showing the proposed grading of the park or camp",
+              "paragraphs": [
+                "Lowell Zoning Bylaw Page 19 Adopted 03/04/03"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "319.03",
+          "title": "Construction or Enlargement of Parks and Camps. No person shall construct or enlarge a",
+          "page": 19,
+          "paragraphs": [
+            "mobile home park or trailer camp without first obtaining site plan approval from the Planning Commission granted after the Planning Commission has held a properly warned public hearing. Before such a permit may be issued, there must be a favorable recommendation by a majority of the Planning Commission. Before giving site plan approval the Planning Commission may require a performance bond from the operator of the park to assure that the park or camp is constructed and maintained in a satisfactory manner. The Planning Commission may require any other improvements and facilities before approving the mobile home park or trailer camp, in the interest of public safety, health, and welfare. The Planning Commission may accept the proposed plan, accept the proposed plan with recommended changes, or reject the plan. The Commission shall submit the application and the plan to the Administrative Officer together with the Commission's action regarding the permit."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "319.04",
+          "title": "Mobile Home Park Standards. The following regulations shall apply with respect to mobile",
+          "page": 19,
+          "paragraphs": [
+            "home parks and all mobile homes in parks:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "A mobile home park shall have an area of not less than 10 acres",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Mobile home parks shall provide for individual mobile home spaces, access driveways,",
+              "paragraphs": [
+                "parking and recreation open space."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Each mobile home space shall be at least 7,200 square feet in area, and at least 60 feet",
+              "paragraphs": [
+                "wide by at least one hundred and twenty feet in depth, and shall front on an access driveway. If a central sewer system is not provided the minimum mobile home space shall be 30,000 square feet."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "All access roads within a mobile home park shall have a right-of-way at least fifty feet",
+              "paragraphs": [
+                "in width. The traveled portion of the right-of-way shall have a compacted gravel surface at least twenty-four feet in width and twelve inches in depth. All weather walkways shall be provided."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Two parking spaces with twelve inches in depth of compacted gravel for each mobile",
+              "paragraphs": [
+                "home space shall be provided, at least ten feet wide by twenty-two feet long."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Mobile home parks shall provided at least ten percent of the total area for recreation",
+              "paragraphs": [
+                "and other open space purposes."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "A suitable non-porous pad shall be provided for each mobile home",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "Each mobile home space shall have an attachment for water supply that is adequate,",
+              "paragraphs": [
+                "safe and potable. The water supply source must be approved by the State Department of Health and meet all local and state regulations."
+              ],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "Each mobile home lot shall have an attachment for sewage disposal. The method of",
+              "paragraphs": [
+                "sewage disposal must be in compliance with the State Department of Health and local regulations."
+              ],
+              "items": []
+            },
+            {
+              "label": "J",
+              "title": "No mobile home, office or service building shall be closer to a public street right-of-",
+              "paragraphs": [
+                "way line than eighty feet or closer to a property line than fifty feet."
+              ],
+              "items": []
+            },
+            {
+              "label": "K",
+              "title": "A strip of land at least twenty five feet in width shall be maintained as a landscaped",
+              "paragraphs": [
+                "area abutting all mobile home park property lines except when the park boundary is adjacent to residential uses where the landscaped area shall be at least fifty feet in width."
+              ],
+              "items": []
+            },
+            {
+              "label": "L",
+              "title": "Provisions for disposal of household garbage and rubbish shall be made",
+              "paragraphs": [
+                "Lowell Zoning Bylaw Page 20 Adopted 03/04/03"
+              ],
+              "items": []
+            },
+            {
+              "label": "M",
+              "title": "An electrical source supplying at least 100 amps, 220 volts shall be provided for each",
+              "paragraphs": [
+                "mobile home -space. The installation shall comply with all State and local electrical laws and regulations. Such electrical outlets shall be weatherproof. The use of underground utility installation shall be required unless waived by the Planning Commission."
+              ],
+              "items": []
+            },
+            {
+              "label": "N",
+              "title": "A mobile home shall be located on the mobile home space so that it is at least twenty",
+              "paragraphs": [
+                "feet from the right-of-way of the access driveway and ten-feet from any other lot line of the mobile home space."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "319.05",
+          "title": "Travel Trailer Camp Standards. The following regulations shall apply with respect to all",
+          "page": 20,
+          "paragraphs": [
+            "travel trailer camps:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "A travel trailer camp shall have an area of not less than 10 acres",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Travel trailer camps shall provide for individual travel trailer spaces, access driveways",
+              "paragraphs": [
+                "and parking."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Each travel trailer lot shall be at least 1,800 square feet in area, and at least thirty feet in",
+              "paragraphs": [
+                "width and have a compacted gravel surface at least ten feet in width and twenty feet in depth."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "All access driveways within a travel trailer camp must be at least thirty feet in width",
+              "paragraphs": [
+                "and have a compacted gravel surface at least twenty feet in width."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "No travel trailer space or service building shall be closer to a public street right-of-way",
+              "paragraphs": [
+                "line than eighty feet, nor closer to a property line than fifty feet."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "A strip of land at least twenty five feet in width shall be maintained as a landscaped",
+              "paragraphs": [
+                "area abutting all travel trailer camp property lines except when the camp boundary is adjacent to residential uses when the landscaped area shall be at least fifty feet in width."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "319.06",
+          "title": "Other Provisions",
+          "page": 20,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Mobile homes and travel trailers that are part of traveling circuses, fairs, carnivals, etc.,",
+              "paragraphs": [
+                "may secure a temporary permit not to exceed 21 days, provided that all health and sanitary laws and regulations of the State of Vermont and Lowell are met."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Non-conforming uses. Any lawful travel trailer camp or mobile home park existing at",
+              "paragraphs": [
+                "the time of this bylaw or amendment thereto is adopted may continue although such use does not conform to the provisions of this bylaw. However, all travel trailer camps and mobile home parks must comply with the sanitation and health laws of the State of Vermont and Lowell. A non-conforming use that has been discontinued for a period of twelve consecutive months shall not be re-established except in conformity with this bylaw. Any additions, extensions or enlargements shall be made as provided for in this bylaw. S 320: Accessory Uses or Structures Accessory uses or structures shall not exceed, in area, 50 percent of the principal use or structure. S 321: Signs - Regulations and Restrictions Lowell Zoning Bylaw Page 21 Adopted 03/04/03 No signs shall be permitted in the Town of Lowell except as follows:"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "321.01",
+          "title": "All signs must be well constructed and maintained in stable and legible condition",
+          "page": 21,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "321.02",
+          "title": "No sign shall hang so as to endanger the public",
+          "page": 21,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "321.03",
+          "title": "Residence and professional signs shall only be erected on the premises, and located not",
+          "page": 21,
+          "paragraphs": [
+            "more than 1,500 feet from the main entrance of the business. Signs may only be illuminated when the premises are open for business. These signs shall not be larger than nine square feet."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "321.04",
+          "title": "Business and commercial signs: Hanging or standing signs shall have a maximum area of",
+          "page": 21,
+          "paragraphs": [
+            "twelve square feet. Signs painted on or permanently attached to the wall of a building shall not occupy more than 10% of the wall."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "321.05",
+          "title": "No flashing, intermittent or moving lights shall be permitted. Lighted signs must be",
+          "page": 21,
+          "paragraphs": [
+            "shielded to prevent glare on adjoining roads. A sign must be removed if the indicated activity is discontinued. S 322: Dumping, Disposal, or Storage of Solid Waste The dumping, disposal or storage of all types of solid waste is prohibited. With the exception of household refuse, animal manure used for soil en richment, wood waste and sawdust, and mining waste generated immediately in the Town. S 323: Light Industries Any Light Industry as defined in Sec 502 shall be permitted as a conditional use if it complies with the requirements of this section."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "323.01",
+          "title": "Any business that does not use shifts, uses 10 or fewer employees (including management)",
+          "page": 21,
+          "paragraphs": [
+            "in total, will be in operation between the hours of 7 am to 8 pm only, conforms to Lowell's noise level standards and does not generate excessive traffic that would have a significant detrimental effect on the property values and/or quality of life of the neighborhood in which it is situated shall be deemed Light Industry."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "323.02",
+          "title": "Quiet Equipment and/or machinery, such as computer terminals are also allowed and may",
+          "page": 21,
+          "paragraphs": [
+            "be in use 24 hours of the day and may be economically connected to a business with more than 10 employees."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "323.03",
+          "title": "Only normally permitted exterior signs are allowed. Only moderate exterior storage of",
+          "page": 21,
+          "paragraphs": [
+            "materials is allowed."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "323.04",
+          "title": "Objectionable circumstances such as noise, vibration, smoke, dust, electrical disturbances,",
+          "page": 21,
+          "paragraphs": [
+            "odors. heat or glare as defined by performance standards in this by law or by the Town Selectboard or as determined by the Board of Adjustment shall not be produced."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "323.05",
+          "title": "Only a moderate increase in neighborhood traffic shall be generated by a Light Industry",
+          "page": 21,
+          "paragraphs": [
+            "S 324: Expansion of a Light Industry Lowell Zoning Bylaw Page 22 Adopted 03/04/03 An applicant for a Light Industry Conditional use permit or a current Light Industry permit holder may request an exemption to the 10 or fewer employees limit at any time. If a permit has already been granted a new hearing is required. At that time the board may impose reasonable conditions as specified in S 206.02 in addition to those conditions required when the original permit was issued. S 325: Agriculture and Forestry"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "325.01",
+          "title": "Nothing contained herein shall restrict accepted agricultural or farming practices, or",
+          "page": 22,
+          "paragraphs": [
+            "accepted silvicultural practices, including the construction of farm structures, as such practices are defined by the Commissioner of agriculture, food and markets or the Commissioner of forests, parks and recreation, respectively, under 10 VSA, SS1021(f) and 1259(f) and 6 VSA, S4810."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "325.02",
+          "title": "Zoning permits need not be obtained for farm structures. However, any landowner",
+          "page": 22,
+          "paragraphs": [
+            "proposing to erect a farm structure shall notify the Zoning Administrator of such intent prior to the erection of such structure."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "325.03",
+          "title": "Farm structures shall comply with setbacks approved by the Commissioner of agriculture,",
+          "page": 22,
+          "paragraphs": [
+            "food, and markets. The approved setbacks are those setbacks contained in S204 of this bylaw."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "325.04",
+          "title": "A person proposing to construct a farm structure with setbacks less restrictive than those",
+          "page": 22,
+          "paragraphs": [
+            "contained herein shall submit, in writing, a request for a variance to the Commissioner of agriculture, food, and markets. Such request must include the following information:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "A statement of the reason or reasons less restrictive setbacks are necessary;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "A copy of this zoning bylaw;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "A sketch plan of the proposed structure(s) showing the distance from all property lines,",
+              "paragraphs": [
+                "and;"
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "A description of the adjoining land uses",
+              "paragraphs": [
+                "S 326: Subdivisions"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "326.01",
+          "title": "Minor subdivisions, as defined in S 502 herein, may be commenced following the issuance",
+          "page": 22,
+          "paragraphs": [
+            "of a zoning permit by the Zoning Officer. The permit application must include a site plan with sufficient data and a scale to allow the Zoning Officer to determine the lots compliance with this bylaw. Such site plan shall show the lots being created, their area, and frontage."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "326.02",
+          "title": "Major subdivisions, as defined in S 502 herein, shall require conditional use approval by the",
+          "page": 22,
+          "paragraphs": [
+            "Zoning Board of Adjustment prior to the issuance of a permit by Zoning Officer. Such subdivisions shall comply with the following prior to the issuance of a permit:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The applicant shall submit with his application for a permit a site plan with sufficient",
+              "paragraphs": [
+                "detail and at a scale to allow the Zoning Board of Adjustment to determine compliance. Such site plan shall show the lots being created, their area, and frontage, as well as roads, and any utilities that are to be installed."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The Zoning Board of Adjustment shall review the application as a conditional use",
+              "paragraphs": [
+                "under the requirements of S 206 of this bylaw. Such review shall be conducted at public Lowell Zoning Bylaw Page 23 Adopted 03/04/03 following the posting and publication of a public hearing notice at least 15 days prior to the hearing."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "The installation of roads and utilities shall be done in compliance with any and all town",
+              "paragraphs": [
+                "standards for such utilities and facilities."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The Zoning Board of Adjustment may require a bond to insure the completion of new",
+              "paragraphs": [
+                "roads and utilities in compliance with town standards."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "The Zoning Board of Adjustment may impose any reasonable conditions to insure the",
+              "paragraphs": [
+                "creation of a subdivision that will be an asset to the Town of Lowell."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "NON-CONFORMING USES",
+      "sections": [
+        {
+          "number": "402.01",
+          "title": "Shall not be enlarged or extended by any means whatsoever unless such enlargement has",
+          "page": 23,
+          "paragraphs": [
+            "been approved by the Board of Adjustment following a properly warned public hearing and a finding that such enlargement will not adversely affect the surrounding area. Such enlargements shall be reviewed under the same criteria for conditional uses."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "402.02",
+          "title": "Shall not be replaced with another non-conforming use without the approval of the",
+          "page": 23,
+          "paragraphs": [
+            "Planning Commission, and then only to a use, which, in the opinion of the Planning Commission, is of the same or of a more restricted nature."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "402.03",
+          "title": "Shall not be re-established if such use has been discontinued for any reason for a period of",
+          "page": 23,
+          "paragraphs": [
+            "one year, or has been changed to, or replaced by, a conforming use. Intent to resume a non-conforming use shall not confer the right to do so. S403: Non-Complying Buildings The following provisions shall apply to all structur es existing on the effective date of this bylaw which do not comply with the lot area, setback and other requirements set forth in this bylaw and Lowell Zoning Bylaw Page 24 Adopted 03/04/03 all structures which in the future do not comply by reason of any subsequent amendment to this bylaw. Non-complying structures may be continued indefinitely, however, such structures:"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "403.01",
+          "title": "Shall not be moved unless such action increases the structure's degree of compliance",
+          "page": 24,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "403.02",
+          "title": "Shall not be enlarged or extended unless su ch enlargement or extension complies with",
+          "page": 24,
+          "paragraphs": [
+            "the requirements of this bylaw."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "403.03",
+          "title": "Shall not be replaced on the original foundati on after the removal of such structure for",
+          "page": 24,
+          "paragraphs": [
+            "any reason unless such construction is commenced within one year following the date of such removal."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "403.04",
+          "title": "May receive normal maintenance and repair provided that such action does not increase",
+          "page": 24,
+          "paragraphs": [
+            "the degree of non-compliance. S 404: Expansion The Board of Adjustment may, after public no tice and hearing, allow expansion of any non- conforming use providing it does not adversely affect the surrounding area and provided it meets the same criteria for conditional uses."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "title": "DEFINITIONS",
+      "sections": []
+    },
+    {
+      "number": "6",
+      "title": "ADMINISTRATION AND ENFORCEMENT",
+      "sections": [
+        {
+          "number": "602.01",
+          "title": "No land development, as defined in 24 VSA, S 4303(3), may be commenced without a",
+          "page": 30,
+          "paragraphs": [
+            "permit therefore issued by the Administrative Officer. No zoning permit may be issued by the Administrative officer except _in conformance with this bylaw."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.02",
+          "title": "Applications for zoning permits shall be made to the Administrative Officer on forms",
+          "page": 30,
+          "paragraphs": [
+            "provided by him for that purpose."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.03",
+          "title": "Prior to the issuance of any permit the Admi nistrative officer shall first satisfy himself",
+          "page": 30,
+          "paragraphs": [
+            "that the subject of the application is in conformance with these regulations. He may request from an applicant any information he deems necessary for this purpose. No such permit shall be issued unless an application, fee, plot plan and any other approvals of the Planning Commission or the Board of Adjust ment required by this bylaw have been properly obtained and are submitted in connection with the application. The Administrative officer shall, within 30 days of submission of the application, data and approvals, either issue or deny a zoning perm it. If denied, the Administrative officer shall so notify the applicant in writing, stating his reasons therefor. If the zoning permit is approved, all activities authorized by its issuance shall be completed within two years of its date of issue, or the zoning permit shall become null and ' void and reapplication to complete any activities shall be required."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.04",
+          "title": "In the issuance of zoning permits, the Admini strative Officer shall comply with all of",
+          "page": 30,
+          "paragraphs": [
+            "the provisions of 24 VSA, S 4443. Lowell Zoning Bylaw Page 31 Adopted 03/04/03"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.05",
+          "title": "The fee for a zoning permit shall be established by the Legislative Body. It may be a",
+          "page": 31,
+          "paragraphs": [
+            "sliding scale depending on the cost of the land development. Said fee shall accompany each application for a permit."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.06",
+          "title": "No zoning permit issued pursuant to 24 VSA, S 4443 shall take effect until the time for",
+          "page": 31,
+          "paragraphs": [
+            "appeal in 24 VSA, S 4464(a) has passed, or in the event that a notice of appeal is properly filed, such permit shall not take effect until final adjudication of said appeal"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.07",
+          "title": "Exemption. No zoning permit is required for accessory structures with a floor area not",
+          "page": 31,
+          "paragraphs": [
+            "exceeding 81'square feet which are not intended for human occupancy. Such structures must be located behind the principal structure on the lot. S 603: Penalties Any violation of this bylaw after the effective date thereof shall be punished as provided in 24 VSA, SS 4444 and 4445. S 604: Board of Adjustment"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604.01",
+          "title": "There is hereby established a Board of Adju stment whose members shall consist of the",
+          "page": 31,
+          "paragraphs": [
+            "Planning Commission, until such time that the Board of Selectmen appoints a separate Zoning Board of Adjustment as provided by 24 VSA, S 4461."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604.02",
+          "title": "Rules of procedure applicable to the Board of Adjustment, the nature of appeals to the",
+          "page": 31,
+          "paragraphs": [
+            "Board from actions of the Administrative officer, notice requirements, public notice, conditions for variance relief, and all other matters governing the action of said Board shall be as provided in 24 VSA, Chapter 117, Subchapter 8. Lowell Zoning Bylaw Page 32 Adopted 03/04/03 S 605: Referral to State Agency In accordance with 24 VSA, S 4409(c), no zoning pe rmit for the development of land in certain locations specified in said section shall be i ssued by the Administrative officer without first submitting a report to the appropriate state agency, and compliance with the terms of S 4409(c). S 606: Public Notice Any requirements of public notice required by this bylaw, whether or not required by any provision of 24 VSA, Chapter 117, and whether applicable to the Board of Adjustment or the Planning Commission, shall be given by the publication of the date, place and purpose of such hearing in a newspaper of general circulation in Lowell and th e posting of such notice in two or more public places within the municipality not less than fifteen days prior to the date of the public hearing. In every case in which public notice is required, such public notice shall include a brief summary of the purpose of the hearing."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "title": "AMENDMENTS, INTERPRETATION, EFFECTIVE DATE",
+      "sections": []
+    }
+  ]
+}

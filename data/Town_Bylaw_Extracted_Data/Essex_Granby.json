@@ -1,0 +1,2211 @@
+{
+  "metadata": {
+    "municipality": "Granby",
+    "county": "Essex",
+    "state": "Vermont",
+    "bylaw_date": "1227-20-11",
+    "source_pdf": "Essex_Granby_Text_eff12272011.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 40,
+    "word_count": 15235,
+    "articles_found": 7,
+    "sections_found": 98,
+    "subsections_found": 109,
+    "regulation_rows": 0,
+    "list_items": 49
+  },
+  "articles": [
+    {
+      "number": "I",
+      "title": "Enactment and Intent",
+      "sections": []
+    },
+    {
+      "number": "II",
+      "title": "Establishment of Districts and District Regulations",
+      "sections": [
+        {
+          "number": "202.01",
+          "title": "Regardless of the existence of other printed copies of the zoning map, the official",
+          "page": 4,
+          "paragraphs": [
+            "zoning map shall be located in the Granby Town Clerk's office. The official zoning map shall be the final authority as to the current zoning status of all properties within the Town of Granby."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "202.02",
+          "title": "When the Zoning Administrator cannot definitely determine the location of a district",
+          "page": 4,
+          "paragraphs": [
+            "boundary by the scale or dimensions shown on the zoning map, he or she shall refuse action, and the Planning Commission shall interpret the location of the district boundary with reference to the scale of the zoning map and purposes set forth in all relevant portions of this regulation. S203: District Objectives and Land Use Control"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "203.01",
+          "title": "The following table establishes the objectives of the district hereby established and",
+          "page": 4,
+          "paragraphs": [
+            "the provisions of these regulations that apply in the district. Any land development designated as a \"Permitted Use\" in the table may be commenced pursuant to S604 of this regulation. Any land development designated as a \"Conditional Use\" in the table may be commenced pursuant to S604 and S608 of this regulation. Town of Granby Zoning Bylaw December 27, 2011 Page 5"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "203.02",
+          "title": "Except as hereinafter provided, no division of a parcel into two or more parcels, nor",
+          "page": 5,
+          "paragraphs": [
+            "any construction, reconstruction, conversion, structural alteration, relocation or enlargement of any building or other structure, or any mining, excavation or landfill, nor any change in the use of land shall commence unless in conformity with the regulations herein specified for the district in which such land or structure is located. All development in the Special Flood Hazard Area needs review in accordance with S307."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "203.03",
+          "title": "The application of this bylaw is subject to 24 V.S.A. Subchapter 7",
+          "page": 5,
+          "paragraphs": [
+            "Table 203.04:\"V\" Village District Objective: The Village District provides for residential development and neighborhood type commercial facilities at a high density to create a clustered, compact village center. Area Definition: The land within 500 feet in any direction is measured from the center of Town Highway #4 and Town Highway #1 and extending from the Town Boundary with Victory to School House Brook to the Roger's Rangers grave site. See zoning map.",
+            "Permitted Uses",
+            "Permitted Upon Issuance of Conditional Use Permit",
+            "Area and Dimensions Town of Granby Zoning Bylaw December 27, 2011 Page 6 Minimum Lot Size Minimum yard dimensions and building coverage Table 203.05: \"RR\" Rural Residential District Objective: The Rural Residential District provides for rural residential development and neighborhood type commercial facilities at a moderate density while allowing for the continuance of agricultural and forestry activities. Area Definition: All land within 500 feet of any Town owned, public roads except that which is in the Village district. See zoning map.",
+            "Permitted Uses",
+            "Permitted Upon Issuance of Conditional Use Permit",
+            "Area and Dimensions Town of Granby Zoning Bylaw December 27, 2011 Page 7 Minimum Lot Size *Travel Trail Camps must be located on 10 acres or more. Minimum yard dimensions and building coverage Table 203.06: \"F\" Forest District Objective: The Forest District is designed to maintain the traditional land use of long term forest management while allowing traditional seasonal camp development. Area Definition: All land not in any other district. See zoning map.",
+            "Permitted Uses",
+            "Permitted Upon Issuance of Conditional Use Permit",
+            "Area and Dimensions Minimum Lot Size Minimum yard dimensions and building coverage S204: Uses S204.01 Permitted Uses: Permitted uses are those uses that are allowed, providing the standards established by this bylaw are met. Unless a special action by the Planning Commission or Board of Adjustment is required, the necessary permit may be issued by the Zoning Administrator. Town of Granby Zoning Bylaw December 27, 2011 Page 8 S204.02 Conditional Uses: Permitted upon issuance of a conditional use permit, are those uses that may allowed by the Board of Adjustment in accordance with S607 of this bylaw. S204.03 Prohibited Uses: Any use or structure not specifically mentioned or referenced in this document is prohibited within the Town of Granby. S204.04 Uses Exempt from Zoning: This zoning bylaw shall not regulate:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "public utility power generating plants and transmission facilities, which are",
+              "paragraphs": [
+                "regulated under 30 V.S.A. S248;"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Silvicultural (forestry) activities conducted in accordance with the Vermont",
+              "paragraphs": [
+                "Department of Forest and Parks Acceptable Management Practices;"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Agricultural activities conducted in accordance with the Vermont Department of",
+              "paragraphs": [
+                "Agriculture's Accepted Agricultural Practices (AAP). Prior to the construction of farm structures, the farmer must notify the Zoning Administrator in writing of the proposed activity. The notice must contain a sketch of the proposed structure including setbacks."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Hunting, fishing, and trapping as specified under 24 V.S.A. S2295 on private or",
+              "paragraphs": [
+                "public land. This does not include facilities supporting such activities, such as firing ranges or rod and gun clubs, which for the purposes of these regulations are defined as outdoor recreation facilities;"
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Antenna structures, wind turbines with blades less than 20 feet in diameter, or",
+              "paragraphs": [
+                "rooftop solar collectors less than 10 feet high, provided that they are mounted on conforming structures that are located outside of the Special Flood Hazard Area; and"
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Accessory structures smaller than 500 square feet, provided that the structure is",
+              "paragraphs": [
+                "not located in the Special Flood Hazard Area."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Residential landings or stairways less than 25 square ft. (excluding decks and",
+              "paragraphs": [
+                "porches), handicap access ramps, and walkways which do not extend into or obstruct public rights-of-way, or interfere with corner visibilities or sight distances for vehicular traffic, provided that these structures are located outside of the Special Flood Hazard Area."
+              ],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "Exterior alterations to structures which do not result in any change to the footprint",
+              "paragraphs": [
+                "or height of the structure or a change in use, provided that the structure is located outside of the Special Flood Hazard Area."
+              ],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "Normal maintenance, repair, or interior alterations of an existing structure that",
+              "paragraphs": [
+                "does not result in a change in use, additional sewage flow, or any change to the footprint, height dimensions or expansion in the total floor area of the structure. Examples of normal maintenance include, but are not limited to: roof replacement keeping the same ridgeline, new siding and replacing windows keeping the same Town of Granby Zoning Bylaw December 27, 2011 Page 9 window opening, provided that the structure is located outside of the Special Flood Hazard Area."
+              ],
+              "items": []
+            },
+            {
+              "label": "J",
+              "title": "Fences not exceeding eight (8) feet in height which do not extend into or obstruct",
+              "paragraphs": [
+                "public rights-of-way; interfere with corner visibilities or sight distances for vehicular traffic;"
+              ],
+              "items": []
+            },
+            {
+              "label": "K",
+              "title": "Driveways, provided that the driveway is located outside of the Special Flood",
+              "paragraphs": [
+                "Hazard Area."
+              ],
+              "items": []
+            },
+            {
+              "label": "L",
+              "title": "Yard sales, garage sales, or similar activities that do not exceed more than (3)",
+              "paragraphs": [
+                "consecutive days, nor more than twelve (12) calendar days in any calendar year."
+              ],
+              "items": []
+            },
+            {
+              "label": "M",
+              "title": "Grading involving less than fifty (50) cubic yards, site clearing, excavation for",
+              "paragraphs": [
+                "foundations, and installation of utility infrastructure , provided that the grading takes place outside of the Special Flood Hazard Area."
+              ],
+              "items": []
+            },
+            {
+              "label": "N",
+              "title": "Minor grading and excavation associated with road and driveway maintenance",
+              "paragraphs": [
+                "(e.g., including culvert replacement and resurfacing),lawn and yard maintenance (e.g., for gardening or landscaping), or which is otherwise incidental to an approved use, provided that the grading takes place outside of the Special Flood Hazard Area."
+              ],
+              "items": []
+            },
+            {
+              "label": "O",
+              "title": "Outdoor recreational trails (e.g., walking, hiking, cross-country skiing, mountain",
+              "paragraphs": [
+                "biking and snowmobile trails) which do not require paving or the installation of structures or parking areas. This exemption does not apply to trails on commercial properties;"
+              ],
+              "items": []
+            },
+            {
+              "label": "P",
+              "title": "Temporary structures accessory to a residential use erected for no more than",
+              "paragraphs": [
+                "seven (7) days."
+              ],
+              "items": []
+            },
+            {
+              "label": "Q",
+              "title": "The ordinary use of a room of a dwelling for personal office use for business",
+              "paragraphs": [
+                "activity carried on elsewhere as long as there are no employees, clients or customers on the premises. (E.g. a graphic designer who works out of his or her home.) S205: Limitations of this Zoning Bylaw The following uses may be regulated only with respect to location, size, height, building bulk, yards, courts, setbacks, density of buildings, off-street parking, loading facilities, traffic, noise, lighting, landscaping, and screening requirements, and only to the extent that regulations do not have the effect of interfering with the intended functional use:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "State- or community-owned and operated institutions and facilities",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Public and private schools and other educational institutions certified by the state",
+              "paragraphs": [
+                "department of education."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Churches and other places of worship, convents, and parish houses",
+              "paragraphs": [
+                "Town of Granby Zoning Bylaw December 27, 2011 Page 10"
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Public and private hospitals",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Regional solid waste management facilities certified under 10 V.S.A. Chapter 159",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Hazardous waste management facilities for which a notice of intent to construct has been",
+              "paragraphs": [
+                "received under 10 V.S.A. S 6606a. S206: Application of District Regulations"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Agriculture",
+              "use_type": "by_right"
+            },
+            {
+              "number": "2",
+              "text": "Church",
+              "use_type": "by_right"
+            },
+            {
+              "number": "3",
+              "text": "Dwelling, single-family",
+              "use_type": "by_right"
+            },
+            {
+              "number": "4",
+              "text": "Dwelling, two-family",
+              "use_type": "by_right"
+            },
+            {
+              "number": "5",
+              "text": "Forestry, primary",
+              "use_type": "by_right"
+            },
+            {
+              "number": "6",
+              "text": "Recreation, public",
+              "use_type": "by_right"
+            },
+            {
+              "number": "1",
+              "text": "Auto service station",
+              "use_type": "by_right"
+            },
+            {
+              "number": "2",
+              "text": "Cemetery",
+              "use_type": "by_right"
+            },
+            {
+              "number": "3",
+              "text": "Clinic",
+              "use_type": "by_right"
+            },
+            {
+              "number": "4",
+              "text": "Club, private",
+              "use_type": "by_right"
+            },
+            {
+              "number": "5",
+              "text": "Essential service",
+              "use_type": "by_right"
+            },
+            {
+              "number": "6",
+              "text": "Forestry, secondary",
+              "use_type": "by_right"
+            },
+            {
+              "number": "7",
+              "text": "Lodging house",
+              "use_type": "by_right"
+            },
+            {
+              "number": "8",
+              "text": "Neighborhood commercial",
+              "use_type": "by_right"
+            },
+            {
+              "number": "9",
+              "text": "Public facility",
+              "use_type": "by_right"
+            },
+            {
+              "number": "10",
+              "text": "Public assembly",
+              "use_type": "by_right"
+            },
+            {
+              "number": "11",
+              "text": "Recreation, private",
+              "use_type": "by_right"
+            },
+            {
+              "number": "12",
+              "text": "Restaurant",
+              "use_type": "by_right"
+            },
+            {
+              "number": "1",
+              "text": "Agriculture",
+              "use_type": "by_right"
+            },
+            {
+              "number": "2",
+              "text": "Church",
+              "use_type": "by_right"
+            },
+            {
+              "number": "3",
+              "text": "Dwelling, seasonal",
+              "use_type": "by_right"
+            },
+            {
+              "number": "4",
+              "text": "Dwelling, single family",
+              "use_type": "by_right"
+            },
+            {
+              "number": "5",
+              "text": "Dwelling, two-family",
+              "use_type": "by_right"
+            },
+            {
+              "number": "6",
+              "text": "Forestry, primary",
+              "use_type": "by_right"
+            },
+            {
+              "number": "7",
+              "text": "Recreation, public",
+              "use_type": "by_right"
+            },
+            {
+              "number": "1",
+              "text": "Auto service station",
+              "use_type": "by_right"
+            },
+            {
+              "number": "2",
+              "text": "Cemetery",
+              "use_type": "by_right"
+            },
+            {
+              "number": "3",
+              "text": "Clinic",
+              "use_type": "by_right"
+            },
+            {
+              "number": "4",
+              "text": "Club, private",
+              "use_type": "by_right"
+            },
+            {
+              "number": "5",
+              "text": "Earth Resource extraction",
+              "use_type": "by_right"
+            },
+            {
+              "number": "6",
+              "text": "Essential service",
+              "use_type": "by_right"
+            },
+            {
+              "number": "7",
+              "text": "Forestry, secondary",
+              "use_type": "by_right"
+            },
+            {
+              "number": "8",
+              "text": "Lodging house",
+              "use_type": "by_right"
+            },
+            {
+              "number": "9",
+              "text": "Neighborhood commercial",
+              "use_type": "by_right"
+            },
+            {
+              "number": "10",
+              "text": "Overnight Cottages",
+              "use_type": "by_right"
+            },
+            {
+              "number": "11",
+              "text": "Public assembly",
+              "use_type": "by_right"
+            },
+            {
+              "number": "12",
+              "text": "Public facility",
+              "use_type": "by_right"
+            },
+            {
+              "number": "13",
+              "text": "Recreation, private",
+              "use_type": "by_right"
+            },
+            {
+              "number": "14",
+              "text": "Restaurant",
+              "use_type": "by_right"
+            },
+            {
+              "number": "15",
+              "text": "Travel trailer camp*",
+              "use_type": "by_right"
+            },
+            {
+              "number": "1",
+              "text": "Agriculture",
+              "use_type": "by_right"
+            },
+            {
+              "number": "2",
+              "text": "Dwelling, seasonal",
+              "use_type": "by_right"
+            },
+            {
+              "number": "3",
+              "text": "Forestry, primary",
+              "use_type": "by_right"
+            },
+            {
+              "number": "4",
+              "text": "Open faced shelters",
+              "use_type": "by_right"
+            },
+            {
+              "number": "1",
+              "text": "Cemetery",
+              "use_type": "by_right"
+            },
+            {
+              "number": "2",
+              "text": "Dwelling, single family",
+              "use_type": "by_right"
+            },
+            {
+              "number": "3",
+              "text": "Earth Resource Extraction",
+              "use_type": "by_right"
+            },
+            {
+              "number": "4",
+              "text": "Forestry, secondary",
+              "use_type": "by_right"
+            }
+          ]
+        },
+        {
+          "number": "206.01",
+          "title": "No building shall hereafter be erected or altered:",
+          "page": 10,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "To accommodate or house a greater number of families, and/or",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "To have narrower or smaller rear yards, front yards, or side yards than is specified",
+              "paragraphs": [
+                "herein for the district in which such building is located."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "206.02",
+          "title": "No part of a yard or other open space about any building required for the purpose of",
+          "page": 10,
+          "paragraphs": [
+            "conforming with the provisions of this regulation shall be included as a yard or other open space similarly required for another building. S207: Lots"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "207.01",
+          "title": "Lots which abut on more than one street shall provide the required frontage along",
+          "page": 10,
+          "paragraphs": [
+            "every street."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "207.02",
+          "title": "All structures, whether attached to the principal structure or not, and, whether open or",
+          "page": 10,
+          "paragraphs": [
+            "enclosed, including porches, carports, balconies, or platforms above normal grade level, shall not project into any minimum front, side, or rear yard."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "207.03",
+          "title": "If two or more adjacent lots are in single or affiliated ownership on the effective date",
+          "page": 10,
+          "paragraphs": [
+            "of this regulation, and if all or part of the lots do not meet the requirements for a lot width and area as established by this regulation, the lots involved shall be considered to be an individual lot for the purpose of this regulation and no portion of said lot shall be used or sold which does not meet lot width and area requirements established by this regulation, nor shall any division of the lot be made which leaves remaining any lot width or area below the requirements stated in this regulation."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "207.04",
+          "title": "A nonconforming lot that meets the criteria of subsection 206.03 shall not be deemed",
+          "page": 10,
+          "paragraphs": [
+            "merged and may be separately conveyed if all of the following apply:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The lot is conveyed in its preexisting, nonconforming configuration",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "On the date that this bylaw was enacted, the lot was developed with both a water",
+              "paragraphs": [
+                "supply and wastewater disposal system."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "At the time of transfer, the on-site water supply or wastewater system is",
+              "paragraphs": [
+                "functioning normally. A Town of Granby Zoning Bylaw December 27, 2011 Page 11"
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "In the case of a nonconforming lot with on-site sewage disposal, the deed of",
+              "paragraphs": [
+                "conveyance identifies, through a deed restriction on the nonconforming lot or easement on a contiguous lot, a suitable area for a replacement wastewater system, should the existing system fail, as defined in 10 V.S.A. Chapter 64."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "III",
+      "title": "General Provisions",
+      "sections": [
+        {
+          "number": "301.01",
+          "title": "This bylaw shall not have the effect of excluding low- and moderate-income housing",
+          "page": 11,
+          "paragraphs": [
+            "from the municipality."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301.02",
+          "title": "Pursuant to 24 V.S.A. S4412(1)(B), mobile homes, modular homes, and prefabricated",
+          "page": 11,
+          "paragraphs": [
+            "homes shall be considered single-unit dwellings, except when unoccupied and displayed in a mobile home sales establishment or allowed as a temporary structure under this bylaw."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301.03",
+          "title": "An accessory dwelling unit that is located within or appurtenant to an owner occupied",
+          "page": 11,
+          "paragraphs": [
+            "single-unit dwelling shall be a permitted use. An accessory dwelling unit shall be defined as an efficiency or one-bedroom apartment, located within or appurtenant to an owner-occupied single-unit dwelling that is clearly subordinate to a single-unit dwelling and has facilities and provisions for independent living, including sleeping, food preparation, and sanitation, provided there is compliance with all of the following:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The property has sufficient wastewater capacity",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The unit does not exceed either 50% of the total habitable floor area of the single-",
+              "paragraphs": [
+                "unit dwelling."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Applicable setback, coverage, and parking requirements specified in the bylaws",
+              "paragraphs": [
+                "are met."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301.04",
+          "title": "Notwithstanding the provisions above, the creation of an accessory dwelling unit will",
+          "page": 11,
+          "paragraphs": [
+            "require conditional use approval when one or more of the following is involved:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "A new accessory structure, constructed after the enactment of these bylaws,",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "An increase in the height or floor area of the existing dwelling, or",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "An increase in the dimensions of the parking area",
+              "paragraphs": [
+                "S302: Existing Small Lots Any lot in individual and separate and non-affiliated ownership from surrounding properties in existence on the effective date of any zoning regulation, including an interim zoning regulation, may be developed for the purposes permitted in the district in which it is located, even though not conforming to minimum lot size requirements. Town of Granby Zoning Bylaw December 27, 2011 Page 12 S303: Required Frontage Required frontage on, or access to, public roads or public waters. No land development may be permitted on lots which do not either have frontage on a public road or public waters or, with the Site Plan approval of the Planning Commission pursuant to S605 of this bylaw, access to such a road or waters by a permanent easement or right-of-way of record at least twenty feet in width. S304: Protection of Home Occupations"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304.01",
+          "title": "No regulation may infringe upon the right of any resident to use a minor portion of a",
+          "page": 12,
+          "paragraphs": [
+            "dwelling for an occupation which is customary in residential areas and which does not change the character thereof."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304.02",
+          "title": "Exterior storage or display, other than that characteristic of a residential use, is",
+          "page": 12,
+          "paragraphs": [
+            "specifically prohibited."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304.03",
+          "title": "The activities associated with the home occupation shall be carried out in an",
+          "page": 12,
+          "paragraphs": [
+            "enclosed structure on the premises or shall be screened from public view."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304.04",
+          "title": "The home occupation shall not generate noise, smoke, vibrations, dust, glare, odor,",
+          "page": 12,
+          "paragraphs": [
+            "electrical interference or heat which is detectable at the property line, or which otherwise presents a hazard to public health and safety, or to neighboring properties. S305: Family Childcare Homes A family child care home serving six or fewer children shall be considered to constitute a permitted use of a single-unit dwelling. A family child care home serving no more than six full- time children and four part-time children, as defined in 33 V.S.A. S 4902(3)(A), shall be considered to constitute a permitted use of a single-unit dwelling but requires site plan approval from the Planning Commission. S306 Residential Care and Group Homes"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "306.01",
+          "title": "A residential care home or group home, to be operated under state licensing or",
+          "page": 12,
+          "paragraphs": [
+            "registration, serving not more than eight persons who have a handicap or disability as defined in 9 V.S.A. S4501, shall be considered to constitute a permitted use of a single-unit dwelling, except that no such home shall be so considered if it locates within 1,000 feet of another existing or permitted such home."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "306.02",
+          "title": "A residential care home or group home, to be operated under state licensing or",
+          "page": 12,
+          "paragraphs": [
+            "registration, serving nine or more who have a handicap or disability as defined in 9 V.S.A. S4501, shall be reviewed as a multi-unit dwelling and shall be subject to conditional use review. S307: Flood Hazard Area Regulations Any development within areas at risk of flood damage in the Town of Granby, Vermont shall be regulated to provide for the protection of health, safety, and welfare of town residents, in accordance with these provisions set forth in 10 V.S.A. Chapter 32 and 24 V.S.A. Chapter 117 Town of Granby Zoning Bylaw December 27, 2011 Page 13 S4424, S4411, and S4414, and shall not in any way impair or remove the necessity of compliance with any other local, state, federal laws or regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "307.01",
+          "title": "These regulations shall apply in all areas identified as Special Flood Hazard Areas on",
+          "page": 13,
+          "paragraphs": [
+            "the most current Flood Insurance Studies and Flood Insurance Rate Maps published by the Federal Emergency Management Agency (FEMA), National Flood Insurance Program, which are hereby adopted by reference and declared to be part of these regulations. These hazard areas overlay any other existing zoning districts and the regulations herein are the minimum standards that must be met before meeting the additional standards applicable in the underlying district.307.02Base flood elevations and floodway limits provided by the National Flood Insurance Program (NFIP) and in the Flood Insurance Study and accompanying maps shall be used to administer and enforce these regulations. In Special Flood Hazard Areas where base flood elevations and/or floodway limits have not been provided by the National Flood Insurance Program in the Flood Insurance Study and accompanying maps, it is the applicant's responsibility to develop the necessary data. Where applicable, the applicant shall use data provided by FEMA, or State, or Federal Agencies."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "307.03",
+          "title": "The information presented on any maps, or contained in studies, adopted by reference",
+          "page": 13,
+          "paragraphs": [
+            "to this bylaw is presumed accurate. If uncertainty exists with respect to boundaries of the Special Flood Hazard Area or the floodway, the location of the boundary shall be determined by the Zoning Administrator. If the applicant disagrees with the determination made by the Zoning Administrator, a Letter of Map Amendment from FEMA shall constitute proof."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "307.04",
+          "title": "Prohibited Development:",
+          "page": 13,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Development prohibited from the floodway includes new residential or",
+              "paragraphs": [
+                "nonresidential structures (including the placement of mobile homes); and accessory structures."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Development prohibited from the Special Flood Hazard Area includes new",
+              "paragraphs": [
+                "residential or non‐residential structures (including the placement of mobile homes); storage or junk yards; new fill except as necessary to elevate structures above the base flood elevation; critical facilities; and, all development not exempted, permitted, or conditionally permitted under Section 307 of this bylaw."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "307.05",
+          "title": "Permitted Development:",
+          "page": 13,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Permitted development within the Special Flood Hazard Area requires, at a",
+              "paragraphs": [
+                "minimum, Administrative Review by the Zoning Administrator and must meet the Development Standards outlined in Subsection 307.10."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Permitted development in the Special Flood Hazard Area (outside of the floodway)",
+              "paragraphs": [
+                "includes non‐substantial improvements; accessory structures; development related to on‐site septic or water supply systems; building utilities; at‐grade parking for existing buildings; and, recreational vehicles. Town of Granby Zoning Bylaw December 27, 2011 Page 14"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "307.06",
+          "title": "Conditional Development:",
+          "page": 14,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Conditional development within the Special Flood Hazard Area is subject to",
+              "paragraphs": [
+                "Conditional Use Review and approval by the Zoning Board of Adjustment, prior to the issuance of a permit by the Zoning Administrator."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Conditional development must meet the Development Standards outlined in",
+              "paragraphs": [
+                "Subsection 307.10."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Conditional development in the Special Flood Hazard Area outside of the",
+              "paragraphs": [
+                "floodway includes substantial improvement, elevation, relocation, or flood proofing of existing structures; new or replacement storage tanks for existing structures; improvements to existing structures in the floodway; grading, excavation, or the creation of a pond; improvements to existing roads; bridges, culverts, channel management activities, or public projects which are functionally dependent on stream access or stream crossing; and, public utilities."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "307.07",
+          "title": "Exempted Activities:",
+          "page": 14,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Activities considered exempt from these regulations include the removal of a",
+              "paragraphs": [
+                "building or other structure in whole or in part; maintenance of existing roads and storm water drainage; and accepted silvicultural or agricultural activities as defined under Section 204.04 (B) of this bylaw."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "307.08",
+          "title": "Summary Table: Development Review in Hazard Areas",
+          "page": 14,
+          "paragraphs": [
+            "Activity Hazard Zone P Permitted C Conditional Use X Prohibited A Exempted Special Flood Hazard Area Floodway New Structures X X Storage X X Improvements to Existing Structures P,C C Accessory Structures P X At Grade Parking P C Replacement water supply or septic systems C C Fill as needed to elevate existing structures C C Fill X X Grading C C Road Maintenance A A Road Improvements C C Bridges and Culverts C C Channel Management C C Recreational Vehicles P P Open space, recreation A A Forestry A A Agriculture A A"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "307.09",
+          "title": "Nonconforming Structures & Uses:",
+          "page": 14,
+          "paragraphs": [
+            "Town of Granby Zoning Bylaw December 27, 2011 Page 15"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The Zoning Board of Adjustment may after public notice and hearing, approve",
+              "paragraphs": [
+                "the repair, relocation, replacement, or enlargement of a nonconforming structure within a flood hazard area provided that: i. The proposed development is in compliance with all Development Standards in Subsection 307.10 of this bylaw; ii. A nonconforming structure that is substantially damaged or destroyed may be reconstructed only in circumstances when the structure cannot be relocated to a less hazardous location on the parcel. The lowest floor of the reconstructed structure must be rebuilt to at least one foot above the base flood elevation, and the structure must otherwise comply with all requirements of the NFIP."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "307.10",
+          "title": "Development Standards:",
+          "page": 15,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The following Standards are considered the minimum standards allowed for",
+              "paragraphs": [
+                "development in the Special Flood Hazard Areas: i. All development shall be designed to be (a) reasonably safe from flooding, (b) minimize flood damage to the proposed development and to other public/private facilities and utilities, and (c) to provide adequate drainage to reduce exposure to flood hazards. ii. Structures shall be (a) designed (or modified) and adequately anchored to prevent flotation, collapse or lateral movement of the structure during the occurrence of a base flood, (b) be constructed with materials resistant to flood damage, (c) be constructed by methods and practices that minimize flood damage, and (d) be constructed with electrical, heating, ventilation, plumbing and air conditioning equipment and other service facilities that are designed and/or located so as to prevent water from entering or accumulating within the components during conditions of flooding. iii. Development must maintain flood carrying capacity and be located so as to minimize conflict with changes in the channel location over time. iv. Fuel storage tanks (as needed to serve an existing building in the Special Flood Hazard Area) shall be required to locate a minimum of one foot above the base flood elevation and be securely anchored to prevent flotation; or storage tanks for existing non‐residential purposes may be placed underground, if securely anchored as by a qualified engineer. v. New and replacement water supply and sanitary sewer systems shall be designed to minimize or eliminate the infiltration of flood waters into the systems and discharges from the systems into flood waters. vi. On‐site waste disposal systems shall be located to avoid impairment to them or contamination from them during flooding. vii. Replacement mobile homes shall be elevated such that the top of the fill (the pad) under the entire mobile home is at least one (1) foot above the base flood elevation. Town of Granby Zoning Bylaw December 27, 2011 Page 16 viii. In Zones AE, AH, and A1‐A30 (where base flood elevations and/or floodway limits have not been determined), development shall not be permitted unless it is demonstrated that the cumulative effect of the proposed development, when combined with all other existing and anticipated encroachment, will not increase the base flood elevation more than one (1) foot at any point within the community. The demonstration must be supported by technical data that conforms to standard hydraulic engineering principles and certified by a registered professional engineer. ix. Existing structures (including mobile homes) to be substantially improved for residential purposes in Zones A, A1‐30, AE, and AH shall be located such that the lowest floor is at least one (1) foot above base flood elevation; this must be documented, in as‐built condition with a FEMA Elevation Certificate. Historic structures in the Special Flood Hazard Area are exempted from such mitigation requirements, provided that their historic designation is maintained. x. Structures to be substantially improved for non‐residential purposes shall either meet the requirements of Subsection 307.10 (A)(ix), or have the lowest floor, including basement, together with attendant utility and sanitary facilities, be designed to be watertight up to two (2) feet above base flood elevation with walls substantially impermeable and with structural components having the capability of resisting hydrostatic and hydrodynamic loads and effects of buoyancy. A permit for a building proposed to be flood proofed shall not be issued until a registered professional engineer or architect has reviewed the structural design, specifications, and plans, and has certified that the design and proposed methods of construction are in accordance with accepted standards of practice for meeting the provisions of this subsection. xi. Fully enclosed areas below grade on all sides (including below grade crawlspaces and basements) are prohibited. xii. Fully enclosed areas that are above grade, below the lowest floor, below BFE and subject to flooding shall (a) be solely used for parking of vehicles, storage, or building access, and such a condition shall clearly be stated on any permits; and (b) be designed to automatically equalize hydrostatic flood forces on exterior walls by allowing for the entry and exit of floodwaters. Such designs must be certified by a registered professional engineer or architect, or meet or exceed the following minimum criteria: A minimum of two openings on two walls having a total net area of not less than one square inch for every foot of enclosed area subject to flooding shall be provided. The bottom of all openings shall be no higher than one foot above grade. Openings may be equipped with screens, louvers, valves, or other coverings or devices provided that they permit the automatic entry and exit of floodwaters. Town of Granby Zoning Bylaw December 27, 2011 Page 17 xiii. Bridges and culverts, which by their nature must be placed in or over the stream, must have a stream alteration permit from the Agency of Natural Resources where applicable. xiv. Subdivisions must be accessible by dry land access outside of the Special Flood Hazard Area. xv. Recreational vehicles placed on sites within the Special Flood Hazard Area shall either be on the site for fewer than 180 consecutive days and must be fully licensed and ready for highway use; or, meet all the standards of"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "60.3",
+          "title": "(b)(1) of the National Flood Insurance Program Regulations and",
+          "page": 17,
+          "paragraphs": [
+            "the elevation and anchoring requirements for \"manufactured homes\" of"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "60.3",
+          "title": "(c)(6)",
+          "page": 17,
+          "paragraphs": [
+            "xvi. A small accessory structure of 500 square feet or less that represents a minimal investment need not be elevated to the base flood elevation in this area, provided the structure is placed on the building site so as to offer the minimum resistance to the flow of floodwaters and shall meet the criteria of Subsection 307.10 (A)(xii)."
+          ],
+          "subsections": [
+            {
+              "label": "B",
+              "title": "The following standards are considered the minimum standards allowed for",
+              "paragraphs": [
+                "encroachments or development in the floodway: i. Encroachments or development in the floodway that is above grade and less than one foot above the base flood elevation, are prohibited unless hydrologic and hydraulic analyses are performed in accordance with standard engineering practice, by a registered professional engineer, certifying that the proposed development will not result in any increase in flood levels (0.00 feet) during the occurrence of the base flood; and, not increase any risk to surrounding properties, facilities, or structures from erosion or flooding. ii. Public utilities may be placed underground and the analyses be waived, where a registered professional engineer certifies that there will be no change in grade and the utilities will be adequately protected from scour."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "307.11",
+          "title": "Administration:",
+          "page": 17,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "In addition to the application materials required under Section 604.03 and 606.03",
+              "paragraphs": [
+                "of this bylaw, applications for development within the Special Flood Hazard Area shall include: i. Where applicable, a site plan (drawn to scale) depicting existing and proposed development, all water bodies, Special Flood Hazard Areas, floodways, the shortest horizontal distance from the proposed development to the top of the bank of any stream, any existing and proposed drainage, any proposed fill, pre and post development grades, and the elevations of the proposed lowest floor and flood proofing (if applicable), as referenced to the same vertical datum as the elevation on the current Flood Insurance Rate Maps; and Town of Granby Zoning Bylaw December 27, 2011 Page 18 ii. A Vermont Agency of Natural Resources Project Review Sheet for the proposal. The Project Review Sheet shall identify all State and Federal agencies from which permit approval is required for the proposal, and shall be filed as a required attachment to the municipal permit application. The identified permits, or letters indicating that such permits are not required, shall be submitted to the Zoning Administrator and attached to the permit before work can begin."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Prior to issuing a permit for substantial improvement or new construction in the",
+              "paragraphs": [
+                "Special Flood Hazard Area, a copy of the application shall be submitted by the Zoning Administrator to the State National Flood Insurance Program Coordinator at the Vermont Agency of Natural Resources, in accordance with 24 V.S.A. S",
+                "Agency, or the expiration of 30 days from the date the application was mailed to the Agency, whichever is sooner."
+              ],
+              "items": [
+                {
+                  "number": "4424",
+                  "text": "A permit may be issued only following receipt of comments from the",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "If the applicant is seeking a permit for the alteration or relocation of a",
+              "paragraphs": [
+                "watercourse, copies of the application shall be submitted by the Zoning Administrator to the adjacent communities, the Stream Alteration Engineer at the Vermont Agency of Natural Resources, and the Army Corps of Engineers. Copies of such notice shall also be provided to the State National Flood Insurance Program Coordinator. A permit may be issued only following receipt of comments from the Agency, or the expiration of 30 days from the date the application was mailed to the Agency, whichever is sooner."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The Zoning Administrator shall properly file and maintain a record of all permits",
+              "paragraphs": [
+                "issued for development in areas covered by these regulations; an Elevation Certificate with the as‐built elevation (consistent with the datum elevation on the current Flood Insurance Rate Map) of the lowest floor, including basement, of all new, substantially improved, or flood proofed buildings in the Special Flood Hazard Area; all flood proofing and other certifications required under this regulation; and, all decisions of the Zoning Board of Adjustment (including variances and violations) and all supporting findings of fact, conclusions and conditions."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "307.12",
+          "title": "Conditional Use Review:",
+          "page": 18,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "In addition to the provisions outlined under Section 607 of this bylaw, the Board",
+              "paragraphs": [
+                "of Adjustment shall consider the evaluation of the State National Flood Insurance Program Coordinator at the Vermont Agency of Natural Resources."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The Board of Adjustment may also consider the availability of alternative",
+              "paragraphs": [
+                "locations not subject to flooding for the proposed use; the susceptibility of the proposed improvement to flood damages; the safety of access to the property in times of flood of ordinary and emergency vehicles; the potential for damage to the property caused by erosion; the danger that materials may be swept onto other lands and cause damage to others; and such other factors as are relevant to the purposes of this ordinance."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "307.13",
+          "title": "Certificate of Occupancy:",
+          "page": 18,
+          "paragraphs": [
+            "Town of Granby Zoning Bylaw December 27, 2011 Page 19 In accordance with Chapter 117 S4449, it shall be unlawful to use or occupy, or permit the use or occupancy of any land or structure, or part thereof, created, erected, changed, converted, or wholly or partly altered or enlarged in its use or structure within Special Flood Hazard Area until a certificate of occupancy is issued therefore by the Zoning Administrator as outlined under Section 613 of this bylaw."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "307.14",
+          "title": "Variances:",
+          "page": 19,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "A variance may be granted in writing by the Board of Adjustment only in",
+              "paragraphs": [
+                "accordance with the provisions of Section 609 of this bylaw and the Code of Federal Regulations (44 CFR Section 60.6); and upon a determination that the structure or other development is protected by methods that minimize flood damages during the base flood; create no additional threats to public safety; nor result in increased flood levels during the base flood discharge."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Any variance issued in the Special Flood Hazard Area will inform the applicant in",
+              "paragraphs": [
+                "writing over the signature of a community official that the issuance of a variance to construct a structure below the base flood elevation increases risk to life and property and will result in increased flood insurance premiums up to amounts as high as $25 for $100 of coverage. Such notification shall be maintained with a record of all variance actions."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "307.14",
+          "title": "Enforcement & Penalties:",
+          "page": 19,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "If a violation exists, a copy of any notice of violation will be mailed by the",
+              "paragraphs": [
+                "Zoning Administrator to the State National Flood Insurance Program Coordinator."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "If the violation remains after all appeals have been resolved, the Zoning",
+              "paragraphs": [
+                "Administrator shall submit a declaration to the Administrator of the National Flood Insurance Program requesting a denial of flood insurance for the property pursuant to Section 1316 of the National Flood Insurance Act of 1968, as amended."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Violations of the Accepted Agricultural Practices shall be enforced under this",
+              "paragraphs": [
+                "Section as violations of this bylaw. Such violations shall also be immediately reported to the Secretary of Agriculture for enforcement under 6 V.S.A. Section 4812."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "307.15",
+          "title": "Warning of Disclaimer of Liability:",
+          "page": 19,
+          "paragraphs": [
+            "This bylaw does not imply that land outside of the areas covered by this bylaw will be free from flood damages. This regulation shall not create liability on the part of the Town of Granby, or any municipal official or employee thereof, for any flood damage that result from reliance on this regulation, or an administrative decision lawfully made hereunder. S308: Accessory Uses Allowed Accessory uses or buildings (those which are customarily incidental and subordinate to the principal use or structure) do not need a permit as long as they do not exceed 500 square feet and Town of Granby Zoning Bylaw December 27, 2011 Page 20 are not located in the Special Flood Hazard Area. Structures larger than 500 square feet need a conditional use permit. S309: Temporary Uses and Structures Temporary permits may be issued by the Zoning Administrator for a period not exceeding two year, for non-conforming uses incidental to construction projects, provided such permits are conditioned upon agreement by the owner to remove the structure or use upon expiration of the permit. Such permits may be renewed upon application for an additional period not exceeding one year. S310: Shoreland Vegetation"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "310.01",
+          "title": "Dwelling Lots: Structures shall be set back at least 75 feet from any surface water",
+          "page": 20,
+          "paragraphs": [
+            "(pond, stream, river). The area of trees between the front of the structure and the water are not to be cleared for a view. All natural vegetation greater than 3 inches at mean breast height (6 feet) shall be left. Dead or dangerously leaning or broken trees may be cut in this area."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "310.02",
+          "title": "Shoreland Buffers: Following the Acceptable Management Practices for Maintaining",
+          "page": 20,
+          "paragraphs": [
+            "Water Quality on Longing Jobs in Vermont (August 15, 1987) there will be a protective strip of vegetation left along all shoreland areas."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "310.03",
+          "title": "Except for necessary construction of stream crossings, a protective strip shall be left",
+          "page": 20,
+          "paragraphs": [
+            "along streams and other bodies of water (shoreland) in which only light thinning or selection harvesting can occur so that breaks made in the canopy are minimal and a continuous cover is maintained. Log transport machinery must remain outside a 25 foot margin along the stream or water body. Including this 25 foot margin, the width of the protective strip shall be according to Table 1. Table 1: Protective Strip Width Guide Slope of Land Between Roads, Structures or lands and steambanks or shorelands (in percent)** Width of Strip between Roads or landings and stream (feet along surface of ground) 0-10 50 11-20 70 21-30 90 31-40* 110 Town of Granby Zoning Bylaw December 27, 2011 Page 21 *Add 20 feet for each additional 10% side slope. ** See Slope definition for details."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "IV",
+      "title": "Non-Conformities",
+      "sections": [
+        {
+          "number": "402.01",
+          "title": "Shall not be changed to another non-conforming use without approval by the Zoning",
+          "page": 21,
+          "paragraphs": [
+            "Board of Adjustment, and then only to a use which, in the opinion of Zoning Board of Adjustment is of the same or of a more restricted nature."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "402.02",
+          "title": "Shall not be re-established if such use has been discontinued for a period of three",
+          "page": 21,
+          "paragraphs": [
+            "years, or has been changed to, or replaced by, a conforming use. Intent to resume a non-conforming use shall not confer the right to do so. For example if a house burns down, it may be replaced as long as construction is substantially commenced within three years."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "402.03",
+          "title": "Shall not be restored for other than a conforming use after damage from any cause,",
+          "page": 21,
+          "paragraphs": [
+            "unless the non-conforming use is reinstated within three years of such damage; if the restoration of such building is not substantially commenced within three years, the non- conforming use of such building shall be deemed to have been discontinued, unless such non-conforming use is carried on without interruption in the undamaged part of the building.."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "402.04",
+          "title": "Such permits may be renewed upon application for an additional period not exceeding",
+          "page": 21,
+          "paragraphs": [
+            "one year. S403: Non-Conforming Structures Nothing in this section shall be deemed to prevent normal maintenance and repair of a non- conforming structure provided that such action does not increase the degree of non-compliance."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "404",
+          "title": "Expansion on Non-Conforming Structures",
+          "page": 21,
+          "paragraphs": [
+            "Town of Granby Zoning Bylaw December 27, 2011 Page 22 No permit is required to expand a non-conforming structure as long as it meets the set back requirements and does not increase the amount of non-conformance."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "V",
+      "title": "Definitions:",
+      "sections": []
+    },
+    {
+      "number": "VI",
+      "title": "Administration and Enforcement",
+      "sections": [
+        {
+          "number": "602.01",
+          "title": "There is herby established a Planning Commission. The Planning Commission shall",
+          "page": 31,
+          "paragraphs": [
+            "consist of not fewer than three (3) nor more nine (9) members. Pursuant to SS4321- 4323 of the Act, members of the Planning Commission shall be appointed by the Legislative Body. At least a majority of members shall be residents of the municipality."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.02",
+          "title": "The Planning Commission shall adopt rules of procedure and rules of ethics with",
+          "page": 31,
+          "paragraphs": [
+            "respect to conflicts of interest to guide its official conduct, as required under 24 V.S.A. S4461(a) and Vermont's Open Meeting Law."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.03",
+          "title": "The Planning Commission shall have all powers and duties as set forth in the Act to",
+          "page": 31,
+          "paragraphs": [
+            "administer the provisions of these regulations, including but not limited to the power to hear and act upon:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "to prepare proposed amendments to this bylaw, and consider proposed amendments",
+              "paragraphs": [
+                "submitted by others, including amendments supported by a petition signed by at least five percent of the voters of the Town of Granby;"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "to prepare and approve written reports on any proposed amendment to this bylaw; and",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "to hold one or more warned public hearings on proposed amendments to these",
+              "paragraphs": [
+                "regulations, prior to submission of a proposed amendment and written report to these regulations."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "to approve the development of non-frontage lots as provided for in S303 of these",
+              "paragraphs": [
+                "regulations."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "to approve major subdivisions",
+              "paragraphs": [
+                "S603: Board of Adjustment"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "603.01",
+          "title": "There is hereby established a Board of Adjustment. The Board of Adjustment shall",
+          "page": 31,
+          "paragraphs": [
+            "consist of not fewer than three (3) nor more than nine (9) persons. Pursuant to Town of Granby Zoning Bylaw December 27, 2011 Page 32 S4460(b) of the Act, the Board of Adjustment shall be appointed by the Legislative Body and may consist of the members of the Planning Commission."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "603.02",
+          "title": "The Board of Adjustment shall adopt rules of procedure and rules of ethics with",
+          "page": 32,
+          "paragraphs": [
+            "respect to conflicts of interest to guide its official conduct, as required under 24 V.S.A. S4461(a) and Vermont's Open Meeting Law."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "603.03",
+          "title": "The Board of Adjustment shall have all powers and duties as set forth in the Act to",
+          "page": 32,
+          "paragraphs": [
+            "administer the provisions of these regulations, including but not limited to the power to hear and act upon:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "appeals from any decision, act or failure to act by the Zoning Administrator, as",
+              "paragraphs": [
+                "described in S608 of this bylaw, and any associated variance requests, as described in S609 of this bylaw; and"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "applications for conditional use approval, as described in S607 of this bylaw",
+              "paragraphs": [
+                "S604 Zoning Permit"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604.01",
+          "title": "No land development as defined in 24 V.S.A. S4303(10) may be commenced without",
+          "page": 32,
+          "paragraphs": [
+            "a permit issued by the Zoning Administrator. No zoning permit may be issued by the Zoning Administrator unless the proposed development complies with all applicable sections of this bylaw."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604.02",
+          "title": "No zoning permit shall be required for the accepted agricultural practices, including",
+          "page": 32,
+          "paragraphs": [
+            "the construction of farm structures, as those practices are defined by the Secretary of Agriculture, Food and Markets, in accordance with 24 V.S.A. S4413(d). Written notification, including a sketch plan showing structure setback distances from road rights-or-way, property lines, and surface waters shall be submitted to the Zoning Administrator prior to any construction, as required for accepted agricultural practices."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604.03",
+          "title": "No zoning permit shall be required for the uses listed in S204.04",
+          "page": 32,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604.04",
+          "title": "Applications for zoning permits shall be made to the Zoning Administrator on forms",
+          "page": 32,
+          "paragraphs": [
+            "provided by him or her for that purpose."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604.05",
+          "title": "Prior to the issue of any zoning permit, the Zoning Administrator shall first satisfy",
+          "page": 32,
+          "paragraphs": [
+            "himself that the subject of the application is in conformance with these regulations. He may request from an applicant any information deemed necessary for this purpose. No such permit shall be issued unless an application, fee, plot plan and any other approvals of the Planning Commission or the Board of Adjustment required by this regulation have been properly obtained and are submitted in connection with the application."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604.06",
+          "title": "Within thirty (30) days of receipt of a complete application, including all application",
+          "page": 32,
+          "paragraphs": [
+            "materials and fees, the Zoning Administrator shall act to either issue or deny a zoning permit in writing, or to refer the application to the Planning Commission or Board of Adjustment for consideration. In accordance with 24 V.S.A. SS4448 and 4449, if the Town of Granby Zoning Bylaw December 27, 2011 Page 33 Zoning Administrator fails to act within the 30-day period, a permit shall be deemed issued on the 31st day."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604.07",
+          "title": "The fee for a zoning permit shall be established by the Legislative Body. It may be a",
+          "page": 33,
+          "paragraphs": [
+            "sliding scale depending on the cost of the land development. Said fee shall accompany each application for a permit."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604.08",
+          "title": "Zoning permits and letters of denial shall include a statement of the time within which",
+          "page": 33,
+          "paragraphs": [
+            "appeals may be taken under S608 of this regulation; and shall require posting of a notice of permit, on a form prescribed by the Town of Granby. The applicant shall post this notice of permit within view from the public right-of-way nearest the subject property until the time for appeal has expired."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604.09",
+          "title": "The Zoning Administrator, within three (3) days of the date of issuance, shall deliver",
+          "page": 33,
+          "paragraphs": [
+            "a copy of the zoning permit to the Town of Granby Listers; and shall post a copy of the permit in the Town of Granby municipal offices for a period of fifteen (15) days from the date of issuance."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604.10",
+          "title": "No zoning permit shall take effect until the time for appeal under S608 of this bylaw",
+          "page": 33,
+          "paragraphs": [
+            "has passed, or in the event that a notice of appeal is properly filed, until final adjudication of the appeal."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604.11",
+          "title": "Zoning permits shall remain in effect for two years from the date of issuance. All",
+          "page": 33,
+          "paragraphs": [
+            "development authorized by the permit shall be substantially commenced within this two-year period or reapplication shall be required to continue development."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604.12",
+          "title": "Within 30 days of the issuance of a zoning permit, the Zoning Administrator shall",
+          "page": 33,
+          "paragraphs": [
+            "deliver the original, a legible copy, or a notice of the permit to the Granby Town Clerk for recording in the Town of Granby land records. S605: Site Plan Review After public notice and hearing, the Planning Commission shall grant site plan approval in accordance with 24 V.S.A. S4416. In reviewing site plans, the Planning Commission may impose appropriate safeguards with respect to the following:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The adequacy of parking",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Traffic access and circulation for pedestrians and vehicles",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Landscaping and screening",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The protection of the utilization of renewable energy resources",
+              "paragraphs": [
+                "S606: Subdivisions of Land"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "606.01",
+          "title": "Applications for minor subdivisions of land shall be reviewed by the Zoning",
+          "page": 33,
+          "paragraphs": [
+            "Administrator under the Administrative Review process. Town of Granby Zoning Bylaw December 27, 2011 Page 34"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "606.02",
+          "title": "Applications for major subdivisions of land (six or more lots to be created over a",
+          "page": 34,
+          "paragraphs": [
+            "continuous five year period) shall also be subject to Site Plan Review by the Board of Adjustment after public notice and hearing in accordance with S610 of this bylaw."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "606.03",
+          "title": "Any application for subdivision of land shall be accompanied by a plat of sufficient",
+          "page": 34,
+          "paragraphs": [
+            "scale and clarity to portray existing conditions and proposed development. The plat shall include all lot lines and boundary dimensions, names of roads abutting the property, location and size of existing improvements identified as \"existing,\" location and size of proposed improvements identified as \"proposed,\" setback dimensions of proposed and existing structures, location of existing and proposed driveways and culverts, location of existing and proposed wells and/or septic systems and location of waterways, wetlands, and flood plains. In addition, a topographic survey may be required."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "606.04",
+          "title": "Subdivision Standards:",
+          "page": 34,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "C",
+              "title": "No lot that is created as the result of subdivision of land shall have more than 50%",
+              "paragraphs": [
+                "of its buildable area in slopes greater than 20%."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The dimensions of lots to be created by subdivision shall conform to the",
+              "paragraphs": [
+                "requirements of the district in which the lot is located."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Irregularly shaped lots are to be avoided, unless necessary to protect historic",
+              "paragraphs": [
+                "resources. Side lot lines should generally be at right angles to roads in order to ensure adequate frontage."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Subdivision boundaries, lot lines, and building envelopes shall be located and",
+              "paragraphs": [
+                "configured to avoid undue adverse impacts to historic features identified in the Granby Town Plan."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Roads to be created by the subdivision shall be designed, to the fullest extent",
+              "paragraphs": [
+                "feasible, to allow future extensions to adjacent parcels or nearby roads."
+              ],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "Roads to be created by the subdivision shall allow for access by emergency",
+              "paragraphs": [
+                "vehicles."
+              ],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "The subdivider may be required to install culverts and other drainage and erosion",
+              "paragraphs": [
+                "control techniques as may be necessary."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "606.05",
+          "title": "The Planning Commission may waive any or all standards that are:",
+          "page": 34,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "not necessary in the interest of public health, safety, and general welfare;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "inappropriate due to the inadequacy or lack of connecting facilities adjacent to or in",
+              "paragraphs": [
+                "proximity of the subdivision."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "606.06",
+          "title": "The approved subdivision may not be officially filed until all appeal periods have",
+          "page": 34,
+          "paragraphs": [
+            "expired and/or all appeals are concluded. Town of Granby Zoning Bylaw December 27, 2011 Page 35"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "606.07",
+          "title": "A final plat on mylar must be submitted to the Zoning Administrator for approval",
+          "page": 35,
+          "paragraphs": [
+            "before the subdivision is filed in the Town's land records. S607: Conditional Use Review"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "607.01",
+          "title": "After public notice and hearing, the Board of Adjustment, in accordance",
+          "page": 35,
+          "paragraphs": [
+            "withS4414(3), shall determine if a proposed use shall not have an undue adverse effect on the following:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The capacity of existing or planned community facilities;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The character of the area affected; as defined by the purpose or purposes of the",
+              "paragraphs": [
+                "zoning district within which the project is located, and specifically stated policies and standards of the Town Plan;"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Traffic on roads and highways in the vicinity;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Bylaws in effect with special reference to these zoning regulations, and",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "The utilization of renewable energy resources",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "607.02",
+          "title": "In permitting a conditional use, the Board of Adjustment may impose, in addition to",
+          "page": 35,
+          "paragraphs": [
+            "the regulations and standards expressly specified by this regulation, other conditions found necessary to protect the best interests of the surrounding property, the neighborhood, or the municipality as a whole. These conditions may include the following:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Increasing the required lot size or yard dimensions in order to protect adjacent",
+              "paragraphs": [
+                "properties;"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Limiting the coverage or height of buildings because of obstruction to view and",
+              "paragraphs": [
+                "reduction of light and air to adjacent property;"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Controlling the location and number of vehicular access points to the property;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Increasing the street width;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Increasing the number of off-street parking or loading spaces required;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Limiting the number, location, and size of signs;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Requiring suitable landscaping where necessary to reduce noise and glare and to",
+              "paragraphs": [
+                "maintain the property in a character in keeping with the surrounding area;"
+              ],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "Specifying a specific time limit for construction, alteration, or enlargement to",
+              "paragraphs": [
+                "begin for a structure to house a conditional use;"
+              ],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "Requiring that any future enlargement or alteration of the use be reviewed by the",
+              "paragraphs": [
+                "Board of Adjustment to permit the specifying of new conditions; Town of Granby Zoning Bylaw December 27, 2011 Page 36"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "607.03",
+          "title": "As a condition of the grant of a conditional use, the Board of Adjustment may attach",
+          "page": 36,
+          "paragraphs": [
+            "such additional reasonable conditions and safeguards as it may deem necessary to implement the purposes of the Act and these zoning regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "607.04",
+          "title": "A change in use, expansion or contraction of land, area, or alteration of structures or",
+          "page": 36,
+          "paragraphs": [
+            "uses which are designated as conditional uses within the district in which they are located and are existing therein, prior to the effective date of this regulation, shall conform to all regulations herein, pertaining to conditional uses. S608: Appeals of Zoning Administrator Decisions"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "608.01",
+          "title": "Any interested person may appeal a decision or act of the Zoning Administrator",
+          "page": 36,
+          "paragraphs": [
+            "within 15 days of the date of the decision or act by filing a notice of appeal with the Town Clerk. A notice of appeal filed under this section shall be in writing and include the following information:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "the name and address of the appellant,",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "a brief description of the property with respect to which the appeal is taken,",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "a reference to applicable provisions of these regulations,",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "the relief requested by the appellant, including any request for a variance from one",
+              "paragraphs": [
+                "or more provisions of these regulations, and"
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "the alleged grounds why such relief is believed proper under the circumstances",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "608.02",
+          "title": "The Board of Adjustment shall hold a public hearing on a notice of appeal within 60",
+          "page": 36,
+          "paragraphs": [
+            "days of its filing, as required in 24 V.S.A. S4468."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "608.03",
+          "title": "The Board of Adjustment may reject an appeal or request for reconsideration without",
+          "page": 36,
+          "paragraphs": [
+            "hearing, and render a decision which shall include findings of fact within 10 days of the filing of a notice of appeal, if the Board determines that the issues raised by the appellant have been decided in an earlier appeal or are based on substantially or materially the same facts presented by or on behalf of the appellant."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "608.04",
+          "title": "All appeal hearings shall be open to the public and shall be conducted in accordance",
+          "page": 36,
+          "paragraphs": [
+            "with the Board of Adjustment's rules of procedures, as required by 24 V.S.A. S4461. Any interested person or body may appear and be heard in person or be represented by an agent or attorney at the hearing."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "608.05",
+          "title": "A decision on appeal shall be rendered within 45 days after the final adjournment of",
+          "page": 36,
+          "paragraphs": [
+            "the hearing. The decision shall be sent by certified mail to the appellant within the 45 day period. Copies of the decision shall be mailed to every person appearing and having been heard at the hearing, and filed with the Zoning Administrator and the Municipal Clerk as part of the public records of the municipality, in accordance with these regulations. If the Board of Adjustment fails to issue a decision within this 45- Town of Granby Zoning Bylaw December 27, 2011 Page 37 day period, the appeal will be deemed approved and shall be effective on the 46th day. S609: Variances The Board of Adjustment shall hear and decide requests for variances in accordance with 24 V.S.A. S4469(a) and appeal procedures under S608 of these regulations. In granting a variance, the Board of Adjustment may impose conditions it deems necessary and appropriate under the circumstances to implement the purposes of these regulations and the municipal plan currently in effect. The Board of Adjustment may grant a variance and render a decision in favor of the appellant only if all of the following facts are found, and the findings are specified in its written decision:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "There are unique physical circumstances or conditions, including irregularity,",
+              "paragraphs": [
+                "narrowness, or shallowness of lot size or shape, or exceptional topographical or other physical conditions peculiar to the particular property, and that unnecessary hardship is due to these conditions and not the circumstances or conditions generally created by the provisions of these regulations in the neighborhood or district in which the property is located;"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Because of these physical circumstances or conditions, there is no possibility that the",
+              "paragraphs": [
+                "property can be developed in strict conformity with the provisions of these regulations and that the authorization of a variance is necessary to enable the reasonable use of the property;"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "The unnecessary hardship has not been created by the appellant;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The variance, if authorized, will not alter the essential character of the neighborhood or",
+              "paragraphs": [
+                "district in which the property is located, substantially or permanently impair the appropriate use or development of adjacent property, reduce access to renewable energy resources, or be detrimental to the public welfare; and"
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "The variance, if authorized, will represent the minimum that will afford relief and will",
+              "paragraphs": [
+                "represent the least deviation possible from these regulations and from the plan. S610: Public Notice and Hearing"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "610.01",
+          "title": "In accordance with 24 V.S.A. S4464, all development review processes will be",
+          "page": 37,
+          "paragraphs": [
+            "conducted in a public hearing, with notice of hearing given not less than 15 days prior to the date of the public hearing:"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "610.02",
+          "title": "Warning of all development review hearings shall be issued accordingly:",
+          "page": 37,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "by publishing the date, place and purpose of the hearing in a local newspaper of",
+              "paragraphs": [
+                "general circulation; and"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "by posting the same information in three (3) or more public places within the",
+              "paragraphs": [
+                "municipality, including posting of a notice within view from the public right-of-way nearest to the property for which the application is being made; and Town of Granby Zoning Bylaw December 27, 2011 Page 38"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "by written notification to the applicant and to owners of all properties adjoining the",
+              "paragraphs": [
+                "property subject to development, without regard to public rights-of-way. This written notice shall include a description of the proposed project, clearly identify how and where additional information may be obtained, and state that participation in the local proceeding is a prerequisite to the right to take any subsequent appeal."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "610.03",
+          "title": "All hearings of the Planning Commission and Board of Adjustment, except for",
+          "page": 38,
+          "paragraphs": [
+            "deliberative sessions, shall be open to the public and conducted in accordance with duly adopted Rules of Procedure and Vermont's Open Meeting Law."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "610.04",
+          "title": "In any public hearing, there shall be an opportunity for each person to attempt to",
+          "page": 38,
+          "paragraphs": [
+            "demonstrate interested party status. The Secretary of the Planning Commission or Board of Adjustment shall keep a record of the name, address, and participation of these persons."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "610.05",
+          "title": "In accordance with 24 V.S.A. S4464(b), the Planning Commission or Board of",
+          "page": 38,
+          "paragraphs": [
+            "Adjustment shall issue all decisions within 45 days after the adjournment of the hearing. Failure to issue a decision within the 45-day period shall be deemed approval and shall be effective the 46th day."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "610.06",
+          "title": "All decisions shall be issued in writing and shall separately state findings of fact and",
+          "page": 38,
+          "paragraphs": [
+            "conclusions of law. Findings of fact shall explicitly and concisely restate the underlying facts that support the decision, based exclusively on evidence of the record. Conclusions shall be based on the findings of fact. The decision shall also include a statement of the time within which appeals may be taken. The minutes of a meeting may suffice, provided that the factual basis and conclusions relating to the review standards are provided in accordance with these requirements."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "610.07",
+          "title": "In rendering a decision in favor of the applicant, the Planning Commission or Board",
+          "page": 38,
+          "paragraphs": [
+            "of Adjustment may attach additional reasonable conditions and safeguards as it deems necessary to implement these regulations and the town plan currently in effect."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "610.08",
+          "title": "All decisions shall be sent by certified mail, within the required 45-day period, to the",
+          "page": 38,
+          "paragraphs": [
+            "applicant or the appellant on matters of appeal. Copies of the decision also shall be mailed to every person appearing and having been heard at the hearing, and filed with the Zoning Administrator and Clerk as part of the public record of the municipality. S611: Appeals to Environmental Court"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "611.01",
+          "title": "In accordance with 24 V.S.A. S4471, an interested person who has offered oral or",
+          "page": 38,
+          "paragraphs": [
+            "written testimony in a hearing of the Planning Commission or Board of Adjustment may appeal a decision within 30 days of such decision, to the Vermont Environmental Court."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "611.02",
+          "title": "The notice of appeal shall be filed by certified mailing, with fees, to the",
+          "page": 38,
+          "paragraphs": [
+            "Environmental Court and by mailing a copy to the Zoning Administrator of the Town of Granby, who shall supply a list of interested persons (including the applicant if not the appellant), to the appellant within five (5) working days. Town of Granby Zoning Bylaw December 27, 2011 Page 39"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "611.03",
+          "title": "Upon receipt of the list of interested persons, the appellant shall, by certified mail,",
+          "page": 39,
+          "paragraphs": [
+            "provide a copy of the notice of appeal to every interested person. If any one or more of those persons are not then parties to the appeal, upon motion they shall be granted leave by the court to intervene. S612: Interested Persons The definition of an interested person under 24 V.S.A. S4465(b) includes the following:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "A person owning title to property, or a municipality or solid waste management district",
+              "paragraphs": [
+                "empowered to condemn it or an interest in it, affected by a bylaw, who alleges that the bylaw imposes on the property unreasonable or inappropriate restrictions of present or potential use under the particular circumstances of the case;"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The Town of Granby or any adjoining municipality;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "A person owning or occupying property in the immediate neighborhood of a property",
+              "paragraphs": [
+                "which is the subject of a decision or act taken under these regulations, who can demonstrate a physical or environmental impact on the person's interest under the criteria reviewed, and who alleges that the decision or act, if confirmed, will not be in accord with the policies, purposes or terms of the town plan or bylaw of Granby;"
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Any ten (10) voters or property owners within the Town of Granby who, by signed",
+              "paragraphs": [
+                "petition to the Board of Adjustment, allege that any relief requested by a person under this section, if granted, will not be in compliance with the policies, purposes or terms of the town plan or bylaw of Granby; and"
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Any department or administrative subdivision of the state owning property or any interest",
+              "paragraphs": [
+                "therein within the municipality, and the Vermont Agency of Commerce and Community Development. S613: Certificate of Occupancy"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "613.01",
+          "title": "No use or occupancy of any land or structure may commence until the Zoning",
+          "page": 39,
+          "paragraphs": [
+            "Administrator has issued a Certificate of Occupancy in accordance with 24 V.S.A. S4449(2)."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "613.02",
+          "title": "When the Zoning Administrator issues a zoning permit, he or she shall also issue an",
+          "page": 39,
+          "paragraphs": [
+            "application for a Certificate of Occupancy. Prior to the use or occupancy of the land or structure, the applicant shall submit a completed Certificate of Occupancy application to the Zoning Administrator."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "613.03",
+          "title": "At the time the application for a Certificate of Occupancy is submitted, the applicant",
+          "page": 39,
+          "paragraphs": [
+            "shall also submit a copy of the septic permit from the State of Vermont, or a letter of determination stating that no such permit is required."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "613.04",
+          "title": "A Certificate of Occupancy shall not be issued until all necessary approvals and",
+          "page": 39,
+          "paragraphs": [
+            "permits required by these regulations have been obtained for the project, and the Zoning Administrator determines that the project has been fully completed in conformance with all such approvals and permits. Town of Granby Zoning Bylaw December 27, 2011 Page 40"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "613.05",
+          "title": "Within 30 days of receipt of the application for a certificate of occupancy, the Zoning",
+          "page": 40,
+          "paragraphs": [
+            "Administrator may inspect the premises to ensure that all work has been completed in conformance with the zoning permit and associated approvals, including all applicable permit conditions. If the Zoning Administrator fails to either grant or deny the Certificate of Occupancy within 30 days of the submission of an application, the certificate shall be deemed issued on the 31st day. S614: Penalties Any violation of these regulations after the effective date thereof shall be punished as provided for in SS4451 and 4452 of the Act."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "VII",
+      "title": "Amendments, Interpretations, Effective Date",
+      "sections": [
+        {
+          "number": "702.01",
+          "title": "In their interpretation and application, the provisions of these regulations shall be held to",
+          "page": 40,
+          "paragraphs": [
+            "be minimum requirements adopted for the promotion of the public health, safety, comfort, convenience, and general welfare."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "702.02",
+          "title": "Except for S4413 of the Act and where, in these regulations, specifically provided to",
+          "page": 40,
+          "paragraphs": [
+            "the contrary, it is not intended by these regulations to repeal, annul or in any way to impair any regulations or permits previously adopted or issued, provided, however, that where these regulations impose a greater restriction upon use of a structure or land than are required by any other statute, ordinance, rule, regulation permit, easement, or agreement, the provisions of these regulations shall control. S703: Effective Date These regulations shall take effect in accordance with the procedures contained in S4442 of the Act. S704: Separability The invalidity of any article or section of these regulations shall not invalidate any other article or section thereof. S705: Repeal Upon the adoption of this Zoning By-Law, the former Town of Granby Zoning By-Law, adopted September 8, 1993, is herby declared repealed and shall have no further force or effect."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    }
+  ]
+}

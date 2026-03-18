@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "municipality": "Burke",
+    "county": "Caledonia",
+    "state": "Vermont",
+    "bylaw_date": "0410-20-18",
+    "source_pdf": "Caledonia_Burke_Text_eff04102018.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 106,
+    "word_count": 41028,
+    "articles_found": 10,
+    "sections_found": 0,
+    "subsections_found": 0,
+    "regulation_rows": 0,
+    "list_items": 0
+  },
+  "articles": [
+    {
+      "number": "9",
+      "title": "Amendments, Interpretation, Effective Date,",
+      "sections": []
+    },
+    {
+      "number": "1",
+      "title": "Enactment, Purpose and Intent",
+      "sections": []
+    },
+    {
+      "number": "2",
+      "title": "Establishment of Districts and Regulations",
+      "sections": []
+    },
+    {
+      "number": "7",
+      "title": "Planned Unit Development (PUD)",
+      "sections": []
+    },
+    {
+      "number": "3",
+      "title": "General Provisions",
+      "sections": []
+    },
+    {
+      "number": "4",
+      "title": "Specific Use Standards",
+      "sections": []
+    },
+    {
+      "number": "5",
+      "title": "of this bylaw; and",
+      "sections": []
+    },
+    {
+      "number": "6",
+      "title": "Subdivision Review",
+      "sections": []
+    },
+    {
+      "number": "10",
+      "title": "Definitions",
+      "sections": []
+    },
+    {
+      "number": "8",
+      "title": "Administration and Enforcement",
+      "sections": []
+    }
+  ]
+}

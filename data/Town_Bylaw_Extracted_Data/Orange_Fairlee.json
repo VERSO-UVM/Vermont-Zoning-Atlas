@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "municipality": "Fairlee",
+    "county": "Orange",
+    "state": "Vermont",
+    "bylaw_date": "0711-20-23",
+    "source_pdf": "Orange_Fairlee_Text_eff07112023.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 82,
+    "word_count": 32866,
+    "articles_found": 8,
+    "sections_found": 0,
+    "subsections_found": 0,
+    "regulation_rows": 0,
+    "list_items": 0
+  },
+  "articles": [
+    {
+      "number": "I",
+      "title": "GENERAL PROVISIONS",
+      "sections": []
+    },
+    {
+      "number": "II",
+      "title": "ZONING DISTRICTS and OVERLAY AREAS",
+      "sections": []
+    },
+    {
+      "number": "III",
+      "title": "These classifications and criteria consist of Home Occupation, Home Based Business",
+      "sections": []
+    },
+    {
+      "number": "IV",
+      "title": "GENERAL REGULATIONS",
+      "sections": []
+    },
+    {
+      "number": "V",
+      "title": "ADMINISTRATION AND ENFORCEMENT",
+      "sections": []
+    },
+    {
+      "number": "VI",
+      "title": "SUBDIVISIONS",
+      "sections": []
+    },
+    {
+      "number": "VII",
+      "title": "FLOOD HAZARD REGULATIONS",
+      "sections": []
+    },
+    {
+      "number": "VIII",
+      "title": "DEFINITIONS",
+      "sections": []
+    }
+  ]
+}

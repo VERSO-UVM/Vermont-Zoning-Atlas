@@ -1,0 +1,946 @@
+{
+  "metadata": {
+    "municipality": "Waterford",
+    "county": "Caledonia",
+    "state": "Vermont",
+    "bylaw_date": "0306-20-18",
+    "source_pdf": "Caledonia_Waterford_Text_eff03062018.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 76,
+    "word_count": 29729,
+    "articles_found": 8,
+    "sections_found": 49,
+    "subsections_found": 53,
+    "regulation_rows": 0,
+    "list_items": 2
+  },
+  "articles": [
+    {
+      "number": "",
+      "title": "",
+      "sections": [
+        {
+          "number": "101",
+          "title": "Enactment 4 327 RVs and Campgrounds 21",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "102",
+          "title": "Intent 4 328 Mobile Home Parks 23",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "201",
+          "title": "Zoning Map 4 329 Performance Standards 24",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "202",
+          "title": "Copies of Map 4 330 Discontinuance of Use 25",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "203",
+          "title": "District Boundaries 4 331 Septic Systems 25",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "204",
+          "title": "District Objectives 5 332 Access to Public Row 25",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "204.1",
+          "title": "table IND-COM 5 333 Accessory Dwellings 25",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "204.2",
+          "title": "table WVD 6 336 Residential Care or Group Homes 26",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "204.3",
+          "title": "table RR 7 337 Child Care Facilities 26",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "205",
+          "title": "Permitted Uses 8 338 Private Helipads 26",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "206",
+          "title": "Conditional Uses 8 339 Short Term Rentals 26",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "207",
+          "title": "Application of Regulations 9 Article IV Flood Hazard Regulations 28",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "208",
+          "title": "Lots Abutting Two Public ROW 9 401 Statutory Authorization 28",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "209",
+          "title": "Limitations on Bylaws 9 402 table Development Review 30",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301",
+          "title": "Existing Small Lots 11 403 Development Review 30",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302",
+          "title": "Frontage and Access 11 404 Development Standards 32",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "303",
+          "title": "Home Businesses 11 405 Administration 35",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304",
+          "title": "Lots in Two Districts 14 406 Certificate of Compliance 36",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "305",
+          "title": "Principal Buildings 14 407 Enforcement and Penalties 37",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "306",
+          "title": "Reduction of lot Area 14 Article V Subdivisions 38",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "307",
+          "title": "Required Area or Yards 14 501 Subdivision Approval Procedures 38",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "308",
+          "title": "Yards on Corner Lots 14 502 Plat Submission Requirements 40",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "309",
+          "title": "Projections into Required Yards 15 503 Major Subdivision Requirements 41",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "310",
+          "title": "Location of Driveways 15 504 General Conditions 45",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "311",
+          "title": "Temporary Uses or Structures 15 Article VI Administration 48",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "312",
+          "title": "Collapsed or Burned Structures 15 601 Zoning Administration 48",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "313",
+          "title": "Obstruction of Vision 15 602 Development Review Board DRB 49",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "314",
+          "title": "Height Regulations 15 603 Conditional Uses 49",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "315",
+          "title": "Private Swimming Pools 16 604 Appeals: Variances 50",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "316",
+          "title": "Auto Service Stations 16 605 Approval of Site Plans 51",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "317",
+          "title": "Off Street Loading 16 606 Landscape Screening Setbacks 53",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "318",
+          "title": "Off Street Parking 16 607 Administrative Review 53",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "319",
+          "title": "Screened Service Area Require. 17 608 Hearing & Notice Requirements 54",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "320",
+          "title": "Non-conformities 18 609 Certificate of Compliance 56",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "321",
+          "title": "Signs 19 610 Appeals 56",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "322",
+          "title": "Extraction of Soil Sand or Gravel 19 611 Penalties 57",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "323",
+          "title": "Landscape Requirements 20 Article VII Definitions 58",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "324",
+          "title": "Grading 20",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "325",
+          "title": "Fences for Excavations 21",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "326",
+          "title": "Primitive Camps 21",
+          "page": 3,
+          "paragraphs": [
+            "4 | P a g e"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "I",
+      "title": "Enactment and Intent",
+      "sections": []
+    },
+    {
+      "number": "II",
+      "title": "Establishment of Districts and District Regulations",
+      "sections": [
+        {
+          "number": "4810",
+          "title": "of Title 6",
+          "page": 10,
+          "paragraphs": [
+            "(1) For purposes of this section, \"farm structure\" means a building, enclosure, or fence for housing livestock, raising horticultural or agronomic plants, or carrying out other practices associated with accepted agricultural or farming practices, including a silo, as \"farming\" is defined by the Secretary of Agriculture, Food and Markets and the Commissioner of Forests Parks and Recreation respectively, but excludes a dwelling for human habitation. (2) A person shall notify a municipality of the intent to build a farm structure and shall abide by setbacks approved by the secretary of agriculture, food and markets. No municipal permit for a farm structure shall be required. (3) A municipality may enact a bylaw that imposes forest management practices resulting in a change in a forest management plan for land enrolled in the use value appraisal program pursuant to 32 V.S.A. chapter 124 only to the extent that those changes are silviculturally sound, as determined by the commissioner of forests, parks and recreation, and protect specific natural, conservation, aesthetic, or wildlife features in properly designated zoning districts. These changes also must be compatible with 32 V.S.A. S 3755."
+          ],
+          "subsections": [
+            {
+              "label": "E",
+              "title": "A bylaw enacted under this chapter shall be subject to the restrictions created under",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2295",
+          "title": "of this title, with respect to the limits on municipal power to regulate",
+          "page": 10,
+          "paragraphs": [
+            "hunting, fishing, trapping, and other activities specified under that section."
+          ],
+          "subsections": [
+            {
+              "label": "F",
+              "title": "Notwithstanding any provision of law to the contrary, a bylaw adopted under this",
+              "paragraphs": [
+                "chapter shall not prohibit or have the effect of prohibiting the installation of solar collectors, clotheslines, or other energy devices based on renewable resources. 11 | P a g e"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "III",
+      "title": "General Provisions",
+      "sections": [
+        {
+          "number": "2000",
+          "title": "Waterford Zoning Bylaw that are valid on the effective date of this Bylaw may be utilized",
+          "page": 18,
+          "paragraphs": [
+            "even if such permits result in structures and/or uses considered non -conforming under the requirements of this Bylaw. In addition, nothing contained herein shall require any changes to the plans or construction of previously permitted structures and/or uses. However, such structures and/or uses shall be established within the perm it's effective period of two years. Applications to renew expired permit s issued under the March 7, 2013 Waterford Zoning Bylaw will not be approved unless the structure and/or use for which the original permit was issued complies with the requirements of this Bylaw. S320.2 Non-conforming Uses In accordance with Title 24 VSA 4412(7), the following provisions shall apply to all non -conforming uses existing on the effective date of this bylaw. Any non - conforming use of structures or land, except those specified below, may be continued indefinitely, but:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "A non-conforming use may not be changed to another non-conforming use without",
+              "paragraphs": [
+                "conditional use approval being granted by the DRB, and then only if the DRB finds the proposed use more appropriate in the zoning district than the previous use."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The expansion of a non-conforming use must receive approval as a conditional use from",
+              "paragraphs": [
+                "the DRB prior to the issuance of a zoning permit by the Administrative Officer;"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "A non-conforming use may not be resumed once it has been discontinued for a period",
+              "paragraphs": [
+                "in excess of two (2) years. S320.3 Non-conforming Structures and Lots In accordance with Title 24 VSA, S 4408, the following provisions shall apply to all nonconforming structures. Any non -conforming structure or lot, except those specified below, may be continued indefinitely but:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "A non-conforming structure may not be enlarged or changed in a manner that increases",
+              "paragraphs": [
+                "its degree of non-conformance."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The use conducted within a non-conforming structure or on a non-conforming lot may",
+              "paragraphs": [
+                "not be changed to another use that would increase the structure's degree of non- conformance."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "A non-conforming structure damaged or destroyed by fire, collapse, explosion, normal",
+              "paragraphs": [
+                "deterioration or other peril may be repaired or completely reconstructed if such repair or reconstruction is completed within two (2) years of the date of damage, destruction or observance of deterioration."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "A non-conforming structure may not be reconstructed once it is completely or",
+              "paragraphs": [
+                "substantially removed voluntarily."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Nothing contained in this section regarding the use of non-conforming lots shall restrict",
+              "paragraphs": [
+                "the right conferred by S 301 of this bylaw to develop and use an existing small lot. 19 | P a g e S321 Signs Signs, as defined in Article VII, are specifically prohibited except as provided herein:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "All signs must be constructed of durable materials and shall be maintained in good",
+              "paragraphs": [
+                "condition and repair at all times."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "In any residential district, a sign not exceeding twelve square feet of surface area per",
+              "paragraphs": [
+                "side is permitted which announces the name, address, profession, residential business or home occupation of the occupant of the premises on which said sign is located."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "A bulletin board not exceeding twenty-four square feet of surface area, in connection",
+              "paragraphs": [
+                "with any church, school or similar public structure."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "A temporary real estate or construction sign, not exceeding twenty-four square feet of",
+              "paragraphs": [
+                "surface area, on the property being sold, leased, or developed. Such sign shall be removed promptly when it has fulfilled its function."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "A business sign in connection with any legal business or industry located on the same",
+              "paragraphs": [
+                "premises and meeting the following requirements: (1) Two signs are permitted for any legally established business, one free standing, the other attached to the building. (2) Signs shall not extend above the roof or parapet of the building. The height of a freestanding sign shall not exceed 15 feet. (3) Illuminated signs shall be shielded in such a way as to produce no glare, undue distraction, confusion or hazard to the surrounding area or to vehicular traffic. Illumination shall be properly focused upon or from within the sign itself. (4) Signs which are animated, flashing, or with intermittent illumination are prohibited. (5) Signs shall not project over public rights-of-way or property lines. (6) Maximum square footage of any sign shall be 100 square feet or a total of one hundred-fifty square feet for the two signs. (7) Signs shall meet side yard setbacks and rear yard setbacks of the zone in which the sign is located. (8) All signs shall be illuminated by an exterio r light source, signs shall not be lit from the interior of the sign in any fashion. S322 Extraction of Soil, Sand, or Gravel In any district where permitted as a conditional use, the removal of soil, sand or gravel for sale, except when incidental to construction of a building on the same premises, shall be permitted only 20 | P a g e upon the DRB's approval of a plan, after a public hearing, for the rehabilitation of the site. In any district, the following provisions shall apply:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "Before approval of any new sand or gravel operation, a performance bond shall be",
+              "paragraphs": [
+                "secured from the applicant sufficient to ensure that, upon completion of the extraction operations, the abandoned site will be left in a safe, attractive and useful condition in the interest of the public safety and general welfare. The owner shall submit a plan of proposed improvements to accomplish this end."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The removal of all material shall be conducted so as to result in the improvement of the",
+              "paragraphs": [
+                "land, giving due regard to the contours in the vicinity, such as leveling slopes and removing hills. Vegetation sufficient to prevent erosion shall be installed to the satisfaction of the Administrative Officer."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Stripping of topsoil for sale or for use on other premises, except as may be incidental to",
+              "paragraphs": [
+                "a construction project, shall be prohibited."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The DRB may attach any additional conditions, as it may find necessary for the safety",
+              "paragraphs": [
+                "and general welfare of the public. S323 Landscaping Requirements Landscaping, where required under this bylaw to be installed and maintained in front, side and rear yards, shall take the form of shade trees, deciduous shrubs, evergreens, well -kept grassed areas and ground cover. All such landscaping shall be maintained in healthy, growing condition, with ground cover or grassed area. Following are the minimum landscaping requirements:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "Where any land use in non-residential districts abuts land in any residential district, a",
+              "paragraphs": [
+                "strip of land, at least twenty-five feet in width shall be maintained as a landscape and utility area in the front, side and rear yards which adjoin these other districts."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Where any non-residential land use in a residential district abuts any land use in a",
+              "paragraphs": [
+                "residential district, a strip of land at least fifteen feet in width shall be maintained as a landscape and utility area in the front, side and rear yards which adjoin these uses."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "In a village district, a strip of land at least five feet in width shall be maintained as a",
+              "paragraphs": [
+                "landscape and utility area in the front, side and rear yards."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "In an industrial district each industrial lot or use shall have a strip of land at least fifteen",
+              "paragraphs": [
+                "feet in width in the front yard and at least five feet in width in the rear and side yards, which shall be maintained as a landscape and utility area."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "The requirements of this section may be waived by the DRB",
+              "paragraphs": [
+                "S324 Grading No grading, cut, or fill shall be carried out in any district, which leaves the slope of the finished grade in excess of a two to one slope. 21 | P a g e S325 Fences to Excavations Excavations with slopes exceeding two to one shall be protected from encroachment by a fence at least four (4) feet in height. S326 Primitive Camps Primitive camps using outdoor privies are allowed under the following circumstances:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "Must meet the state definition of primitive camp",
+              "paragraphs": [
+                "(1) Shall not have plumbing more elaborate than a kitchen sink. (2) Shall not be inhabited more than six weeks a year (42 days) and no more than three weeks (21 days) continuously."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Must be located on a parcel not less than ten acres in area",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "The camp and outdoor privy shall be located at least 500 feet from all property lines",
+              "paragraphs": [
+                "S327 Recreational Vehicles and Campgrounds S327.01 Recreational Vehicles. It shall be unlawful for any person to park a recreational vehicle on any public or private property, except in accordance with the regulations as follows:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "In an approved campground",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "In an approved recreational vehicle sales lot",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Any property owner may park his recreational vehicle, or that of a visitor, on his own",
+              "paragraphs": [
+                "property, provided the vehicle is parked to meet front, rear, and side yard setbacks for the zone it is located in. A recreational vehicle so parked shall not be used as living quarters for more than 28 cumulative nights in any calendar year. S327.02 Campgrounds. It shall be unlawful for any person to construct, enlarge, maintain, or operate any campground unless he or she or any firm holds a valid permit issued by the Administrative Officer. The issuance of a permit shall require conditional u se approval by the DRB. The following standards shall apply with respect to all campgrounds:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "Applications for permits shall be made in writing, signed by the applicant who shall file",
+              "paragraphs": [
+                "with the application proof of ownership of the premises or of a lease or written permission from the owner thereof together with a complete set of plans drawn to scale, showing: (1) The location of the proposed campground. (2) The areas and dimensions of the tract of land. (3) The maximum number, location and size of all campsites. (4) The location of any existing buildings and any proposed structures. 22 | P a g e (5) The location and width of access driveways, roadways, parking areas, walkways, and turnarounds. (6) The location of electrical, water, storm drainage and sewer lines and the sewage disposal systems. (7) A contour map showing the proposed grading of the campground."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The DRB may require a performance bond from the operator of the campground to",
+              "paragraphs": [
+                "assure that the campground is constructed and maintained in a satisfactory manner. The DRB may require any other improvements deemed necessary."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Campground requirements",
+              "paragraphs": [
+                "(1) Area and Dimensional Requirements. a. A campground shall have an area of not less than 10 acres. b. Campgrounds shall provide for individual campsites, access driveways, and parking. c. Each campsite shall be at least 1,800 square feet in area, at least 30 feet in width and include an area at least 10 feet wide and 20 feet long covered with a layer of compacted gravel 12 inches deep. d. All access driveways within a campground shall have a right-of-way at least thirty feet in width and have a compacted gravel surface at least twenty feet in width. e. No campsite or service building shall be closer to any public street right- of-way line than eighty feet or closer to any property line than fifty feet. (2) Landscaping shall be provided as required in S 323 of this bylaw. (3) Utilities a. An electrical source supplying at least 50 amps, 110 volts with weatherproof electrical outlets shall be provided for each campsite. The installation shall comply with all applicable laws and regulations. b. An accessible, adequate, safe and potable supply of water shall be available at each campsite. c. Every campground shall have a dumping station for sewage disposal meeting applicable state and local laws and regulations. d. Provisions for the disposal of solid waste shall be made. (4) Each campground shall provide one or more service buildings in accordance with the following specifications: a. Flush-type toilets shall be placed in buildings that are not more than a maximum distance of 300 feet from any campsite nor less than 15 feet from 23 | P a g e any campsite. No service building shall be located within 80 feet of any public street or highway. Separate toilets shall be provided for males and females. b. Each room of the building that is accessible by the campground's guests shall be illuminated with a light intensity of 2 watts per square foot of floor area. c. The building shall be a permanent structure sheathed with impervious material, adequately ventilated and with all openings to the outside effectively screened, and supplied with a floor drain. d. Toilet rooms shall contain one lavatory with hot and cold running water for each two toilets, but in no case shall any toilet room be without one lavatory with hot and cold running water. e. Each service building shall have heating facilities to maintain a minimum temperature of 60 degrees F. f. Each service building shall have two showers with hot and cold running water for every ten campsites."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "327.03",
+          "title": "Recreational vehicles that are part of traveling circuses, fairs, carnivals, etc. may secure a",
+          "page": 23,
+          "paragraphs": [
+            "temporary permit not to exceed 21 days. S328 Mobile Home Parks The following requirements shall apply with respect to mobile home parks:"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "328.1",
+          "title": "Area and dimensional requirements:",
+          "page": 23,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "A mobile home park shall have an area of not less than 10 acres",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "A mobile home shall be located on the mobile home space so that it is at least twenty",
+              "paragraphs": [
+                "feet from the right-of-way of the access driveway and ten feet from any other lot line of the mobile home space."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "No mobile home office or service building shall be closer to a public street right-of-way",
+              "paragraphs": [
+                "line than eighty feet, nor closer to a property line than fifty feet."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "328.2",
+          "title": "Mobile home parks shall provide for individual mobile home spaces, access driveways,",
+          "page": 23,
+          "paragraphs": [
+            "parking and recreation open space as follows:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Each mobile home space shall be at least 8,000 square feet in area, and at least sixty feet",
+              "paragraphs": [
+                "wide by at least one hundred and twenty feet in depth, and shall front on an access driveway."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "A suitable non-porous pad shall be provided on each mobile home space",
+              "paragraphs": [
+                "24 | P a g e"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "All roads within a mobile home park shall have a right-of-way at least fifty feet in width",
+              "paragraphs": [
+                "and have a surface of treated compacted gravel at least twenty-four feet in width and twelve inches in depth. All weather walkways shall be provided."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Two parking spaces with a compacted gravel surface twelve inches in depth, each ten",
+              "paragraphs": [
+                "feet wide by twenty-two feet long, shall be provided for each mobile home space."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Mobile home parks shall provide at least ten percent of the total area for recreation and",
+              "paragraphs": [
+                "other open space purposes."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "328.3",
+          "title": "Utilities",
+          "page": 24,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Each mobile home space shall have an attachment for water supply that is adequate,",
+              "paragraphs": [
+                "safe and potable."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Each mobile home space shall have an attachment for sewage disposal. The sewage",
+              "paragraphs": [
+                "disposal system shall not be located on the mobile home space unless the mobile home space is at least one acre in size."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Provisions for disposal of household garbage and rubbish shall be made",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "An electrical source supplying at least 100 amps, 220 volts, shall be provided for each",
+              "paragraphs": [
+                "mobile home space. Such electrical outlets shall be weatherproof. The use of underground utility installation shall be required unless waived by the DRB. S328.4 Landscaping shall be provided as required under S323. S329 Performance Standards In accordance with 24 VSA, S 4414(5), in all districts the following performance standards together with all applicable state standards must be met. The DRB shall decide whether proposed uses meet the standards. No use shall: S329.1 Emit noise in excess of 70 decibels on a one -hour average and/or spontaneous levels of 100 decibels according to an \"A\" frequency weighting, at the property line. S329.2 Emit any noxious gases, odor, dust, liquid or substance which endangers the health, comfort, safety or welfare of any person, or which has a tendency to cause injury or damage to property, business or vegetation, or which unreasonably interferes with the use of other property. S329.3 Emit any smoke in excess of Ringleman Chart No. 2. 25 | P a g e S329.4 Cause, as a result of normal operations, a vibration that creates displacement of 0.002 of one inch. S329.5 Create lighting or signs that create glare, which could impair the vision of a driver of any motor vehicle. S329.6 Cause any condition that violates Vermont Occupational Safety and Health Administration (VOSHA) regulations. S330 Discontinuance of Use Any use that has been discontinued for a period of 2 years or more shall not be resumed without a zoning permit. Intent to resume a discontinued use after such 2 -year period shall not confer the right to do so. Dwelling unit and agricultural uses are exempt from any time period. S331 Septic Systems The State of Vermont regulates all on-site septic systems. All lots shall have a system designed by a certified engineer or a state certified site technician before building construction can commence except where exempted for primitive camps . The person or persons designing the system shall inspect and approve the system before it is buried or covered, and shall file a form verifying these facts with the town clerk. S332 Access to Public Rights-of-Way Prior to construction of any driveway or other private access to a public right -of- way, the landowner shall obtain the approval of the Board of Selectmen or their duly appointed agent as authorized by 19 VSA, S 1111. S333 Accessory Dwellings An accessory dwelling unit that is located on the same parcel as an owner-occupied single-family dwelling in any land use area or one - and two-family dwellings in the village use area shall be a permitted use so long as the unit is in compliance with the following: (a) the property has sufficient wastewater capacity; (b) the unit does not exceed 30 percent of the total habitable floor area of the single-family dwelling or 900 square feet, whichever is greater; (c) applicable setback, coverage and parking requirement as stipulated in the Regulations are met. 26 | P a g e (d) Owner of the parcel shall occupy either the original dwelling or the accessory dwelling unit. S336 Residential Care or Group Homes A residential care home or group home to be operated under state licensing or registration, serving not more than eight persons who have a handicap or disability as defined in 9 V.S.A. S 4501, shall be considered by right to constitute a permitted single-family residential use of property, except that no such home shall be so considered if it is located within 1,000 feet of another existing or permitted such home. S337 Child Care Facilities A \"family child care home or facility\" as used in this subdivision means a home or facility where the owner or operator is to be licensed or registered by the state for child care. A family child care home serving six or fewer children shall be considered to constitute a permitted single family residential use of property. A family child care home serving no more than six full-time children and four part-time children, as defined in subdivision 33 V.S.A. S 4902(3)(A), shall be considered to constitute a permitted use of property but shall require site plan approval based on local zoning requirements. A family child care facility serving more than six full-time and four part-time children shall be subject to all applicable municipal bylaws. S338 Private Helipads Private helipads which are designed to facilitate the landing of general aviation helicopters operated by private pilots and not regulated by the FAA as commercial or public facilities are strictly prohibited."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "339",
+          "title": "Short Term Rentals",
+          "page": 26,
+          "paragraphs": [
+            "The Town recognizes the benefit of Short -Term Rentals to homeowners, visitors, and the community. However, it is important not to create a nuisance or change the residential character of the area. An annual permit from the Selectboard is not required when the owner or primary tenant is in residence throughout the rental period and the provisions of A. -I. are met. The conditional use approval only clears the property for the use, the use of the property for short-term rentals may be subject to further ordinance provisions in addition to the Unified Development Bylaw. The Following provisions shall apply to ensure that the commercial use of residential property does not adversely affect the neighborhood in which short -term rentals are located. In addition, homeowners have the responsibility to comply with Vermont Department of Taxes re: rooms and meals tax rules and regulations. 27 | P a g e"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Conditional Use approval by Development Review Board is required for rental periods of fewer",
+              "paragraphs": [
+                "than 30 days."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Only one Short-Term Rental use is allowed per property",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Occupancy shall be restricted to two persons per bedroom as permitted by an Agency of Natural",
+              "paragraphs": [
+                "Resources Wastewater and Potable Water Supply Permit, with a six-person maximum per household."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "All associated parking shall be on-site in designated spaces and comply with Section 318 Off-",
+              "paragraphs": [
+                "Street Parking."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Rubbish service shall be provided, and containers shall be maintained out-of-sight, not viewable",
+              "paragraphs": [
+                "from the street."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Prohibitions:",
+              "paragraphs": [],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Signage and other outside indications the dwelling is used as a short-term rental.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Outdoor activities between 9 PM and 7 AM.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "H",
+              "title": "Notice to renters of house rules pertaining to parking, rubbish, noise, parties etc. shall be visibly",
+              "paragraphs": [
+                "displayed in the dwelling."
+              ],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "Name, address, and telephone number of a manager shall be filed with the application and kept",
+              "paragraphs": [
+                "up to date. The manager shall live within 30 minutes of the property and shall be able to respond 24 hours a day, 7 days a week. 28 | P a g e"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "IV",
+      "title": "FLOOD HAZARD REGULATIONS",
+      "sections": []
+    },
+    {
+      "number": "V",
+      "title": "SUBDIVISIONS",
+      "sections": []
+    },
+    {
+      "number": "VI",
+      "title": "ADMINISTRATION AND ENFORCEMENT",
+      "sections": []
+    },
+    {
+      "number": "VII",
+      "title": "DEFINITIONS",
+      "sections": [
+        {
+          "number": "3",
+          "title": "of these Regulations, certification of such failure to act by the Town Clerk, and recording",
+          "page": 59,
+          "paragraphs": [
+            "of the approved application and subdivision plan with the Town Clerk, in accordance with the conditions set forth in Article II, Section 3 of these Regulations. Aquifer - A geological formation, group of formations of part of a formation either composed of unconsolidated rock, sand, gravel, or other unconsolidated soils, or composed of bedrock with an interconnected series of crevasses, fractures, joints, faults, cleavages, bedding planes, porosity, or other geologic features which allow g roundwater to move in the subsurface environment and are capable of storing and yielding groundwater to wells and springs. Area of Shallow Flooding - a designated AO or AH zone on a town's Flood Insurance Rate Map (FIRM) with a one percent or greater chance of flooding to an average depth of one to three feet where a clearly defined channel does not exist, where the path of flooding is unpredictable an d where velocity of flow may be evident. Such flooding is characterized by ponding or sheet flow. Area of Special Flood Hazard - The land in the floodplain within a town subject to a one percent or greater chance of flooding in a given year. Bank - Institution that provides retail financial services to the general public. 60 | P a g e Base Flood - The flood having a 1% chance of being equaled or exceeded in any given year. Basement - any area of a building having its floor sub-graded (below ground level) on all sides. Buffer -- Any space between adjoining uses intended and designed to reduce the impact of one use upon the other including open space, woodland, landscaped areas and other types of visual and sound barriers. Building -- A structure having a roof supported by columns or walls , to include gas or liquid storage tanks and intended for the shelter or enclosure of persons, animals or chattel. Buildings Accessory - A building customarily incidental and subordinate to the principal building and located on the same lot. Building Setback - The distance measured from the centerline of a permanent right -of-way or public road to the front portion of a building closest to said centerline. Such a distance shall include porches, whether enclosed or unenclosed but does not include steps. Buildout Analysis - A form of analysis predicting the total amount of development that could possibly occur in a given area under existing or proposed legal constraints (e.g. zoning ordinance) and environmental constraints (e.g. wetlands, floodplains, steep slopes, etc.). Bylaws - Municipal regulations applicable to land development adopted under the authority of Chapter 117 (including Zoning and Subdivision Regulations, Flood Hazard Bylaws, Source Protection Regulations, Official Map). See 24 VSA S4403(4). Capacity Study - an inventory of available natural and manmade resources, based on detailed data collection, which identifies the capacities and limits of those resources to absorb land development. Carrying Capacity - The capability of a resource to sustain a level of use without having its qualitative features degraded in any significant way. Cemetery - Land use entailing the internment of the dead. Certificate of Compliance - A permit, typically issued at the completion of construction documenting compliance with all of a community's land use regulations and building codes and authorizing the owner to use the property for the purposes specified in the permit. Character of the Neighborhood - Qualities that make a neighborhood distinct relative to factors such as architectural styles, structures, appearance, physical components street design, etc. Child Care - A home or facility where the owner or operator is to be licensed or registered by the state for child care. 61 | P a g e Cluster Development - Land development that concentrates land u ses on lots that sometimes have been reduced in size below the minimum size required by the zoning bylaw to allow the remaining land on a site to be used for recreation, common open space, community infrastructure and services, or the preservation of environmentally sensitive areas. Commercial Use - Use of a building or land for the manufacture, purchase, sale, or exchange of goods and commodities, services, and amenities. Commercial Camp Sites and Campgrounds - Commercial use for the accommodation of transient guests sleeping in tents or recreational vehicles. Commercial Nursery, Landscape Yard - Commercial use entailing the growing of plants for sale, the storage and sale of landscaping materials and equipment. Commercial Summer Camps - Commercial use entailing the housing, feeding, entertainment and education of both children and adults in an outdoor setting for seasonal lengths of time. Community Sewage Disposal System - Any sewage disposal system, other than a municipal sewage disposal system, owned by the same person, which disposes of sewage created by two or more domestic, commercial, industrial, or institutional sources. Community Water System - Any water system that supplies water for domestic, commercial, industrial, or institutional uses to two or more customers or users. Compatibility - The characteristic when multiple land uses may be located next to or near one another without causing significant adverse impacts on one another. Construction - The undertaking of the first improvement on a tract of land, including work preparatory to construction such as clearing, the staking out or use of a right-of-way or in any way incidental to the altering of land according to a plan or intention to impro ve or to divide land by sale, lease, partition or otherwise transfer an interest in the land. Activities which are principally for the preparation of plans and specifications that may be required and necessary for making application for a permit such as test wells and pits, percolation tests and line of sight clearing for surveys are not commencement of construction. Contamination - An impairment of water quality by chemicals, biologic organisms, or other extraneous matter whether or not it affects the potential or intended beneficial use of water. Contractor's Yard - Commercial land use entailing the storage of heavy equipment, vehicles and materials for uses off site. Correctional Facility - A public or privately operated institution for holding persons in legal custody. Cul de Sac - A road intersecting another road at one end, and terminated at the other end by some form of vehicular turnaround. 62 | P a g e Cottage Industry - Home businesses that involve the manufacture of goods or the provision of services using: chemical processes; high heat; equipment or technique that produces high levels of sound or vibration; or produces emission of dust, smoke or odors. Examples of a cottage industry include but are not limited to commercial auto repair, black smithy, silk screen printing, firing of ceramics or pottery, welding, and commercial scale woodworking. Dedication - The formal a cceptance by the Town of Waterford of title to streets, easements, or land to be used for public purpose. Deeryard - A place where deer congregate in the winter; winter deer habitat or winter feeding grounds. Density - The number of dwelling units or units of non -residential use that are authorized or planned for a unit of land area. Design Standard - A minimum or maximum standard prescribed by a bylaw that governs a physical characteristic of a Land Development, Building or Structure (such as its size or shape). Development - The division of a parcel into two or more lots, the construction, reconstruction, conversion, structural alteration, relocation or enlargement of any building or other structure, or of any mining, excavation of landfill and any change in the use of any building or other structure, or land or extension of use of land. Development Review Board - The Development Rev iew Board of the Town of Waterford , Vermont, as created under 24 V.S.A. Chapter 117, the AMP intended to interpret and uphold the land use bylaws of the Town of Waterford. Disapproval - The form of disapproval is by a written Notice of Decision by the Development Review Board and attached an application and a recording of the disapproved application and plan with the Town Clerk, in accordance with the provisions of this bylaw. Dwelling Unit - One room or rooms connected together, constituting, a separate housekeeping unit with independent cooking, sanitary and sleeping facilities, and physically separated from any other rooms or dwelling units which may be in the same structure. Not included are motels, hotels, tourist homes, lodges, clubs, hospitals, or similar structures. Dwellings, One Family - A detached residential building including mobile and manufactured homes, designed for and occupied by one family only. Dwellings, Two Family - A residential building designed for or occupied by two (2) .families living independently of each other in individual attached dwelling units. Dwelling, Multi-Family - A residential building designed for or occupied by three (3) or more families, with the number of families in residence not exceeding the number of dwelling units 63 | P a g e provided, for purposes of this Bylaw multi -family dwellings are broken into the categories of apartment house and apartment building. Dwellings Year-Round - Building used as living quarters for a family designed and used for year round residence, containing properly functioning sewer and water systems for the proposed or existing intensity of use. Economic Development - The sustained, concerted actions of the policy makers and communities that promote the standard of living and economic health of a specific area. FAA - Federal Aviation Administration. Facility - Something that is built, installed, or established for a particular purpose. FCC- Federal Communications Commission. FEMA - Federal Emergency Management Agency. FHBM - The Flood Hazard Boundary Map, an official map if the Town, issued by FEMA, where the boundaries of the flood, mudslide (i.e. mudflow) related to erosion areas having special hazards have been designated as zones A, M and /or E. FIRM - The Flood Insurance Rate Map, an official map of a community on which the Administrator has delineated both the areas of special flood hazard and the risk premium zones applicable to the community. Flood Hazard Area - Those lands subject to flooding from the 100 year flood, as defined in the existing or subsequently revised \"Flood Insuranc e Study for the Town of Waterford Vermont\", and the \"Flood Insurance Rate Map\" (FIRM), published by the Federal Emergency Management Agency (FEMA), and available at the Town Clerk's office. Flood Insurance Study - an examination, evaluation and determination of flood hazards and if appropriate corresponding surface elevations. Floodplain - Land adjoining rivers and streams identified by the Army Corps of Engineers and FHBM Flood Hazard Boundary Map as being subject to occasional flooding. Floodproofing - Any combination of structural and nonstructural additions, changes, or adjustments to structures which eliminate flood damage to real estate or improved real property, water and sanitary facilities, structures or their contents. Floodway - The channel of a river or other watercourse and the adjacent land areas that must be reserved in order to discharge the base flood without cumulatively increasing the water surface elevation more than a designated height. 64 | P a g e Fragmentation - Dividing areas used by wildlife for habitat with land uses or development into areas that are too small or lack all of the needed features to serve as habitat for specific species. Fringe Area - As defined by the floodway schematic. Frontage - That portion of a lot which is adjacent and parallel to a street, road or right-of-way. Gray Water - All domestic wastewater except toilet discharge water. Groundwater - Water below the land surface in a zone of saturation. Growth Center - Land Use term defined by Vermont statute as an area of land that incorporates a mix of uses that typically or potentially include uses such as; retail, office commercial, civic, recreational, industrial and residential within a densely developed, compact area that promotes social interaction. Growth Centers are located in or adjacent to a designated downtown, village center or new town center with clearly defined boundaries that have been approved by one or more municipalities in their municipal plans to accommodate a majority of growth anticipated over a 20 year period. Halfway House, Halfway Housing - Community release institution. Hazard Area - Land subject to landslides, soil erosion, earthquakes, water supply contamination, or other natural or man-made hazards as identified within a local mitigation plan in conformance with and approved pursuant to the provisions of 44 C.F.R. S201.6. See 24 VSA S4303(8)(C). Hazardous Material - means all petroleum and toxic, corrosive or other chemicals and related sludge included in any of the following:1) any substance defined in section 101(14) of the federal Comprehensive Environmental Response, Compensation and Liability Act of 1980; 2) petroleum, including crude oil or any fraction thereof; 3) hazardous wastes, as defined in this Article; 4) \"Hazardous material\" does not include herbicides and pesticides when applied consistent with good practice conducted in conformity with federal, state and local laws and regulations and according to manufacturer's instructions; 5) \"Hazardous material\" does not include livestock wastes. Hazardous Waste - Any waste or combination of wastes of a solid, liquid, contained gaseous, or semi-solid form, including, but not limited to those which are toxic, corrosive, ignitable, reactive, strong sensitizers, or which generate pressure through decomposition, heat or other means, which in the judgment of the Secretary of the Vermont Agency of Natural Resources may cause, or contribute to, an increase in mortality or an increase in serous irreversible or incapacitating reversible illness, taking into account the toxicity of such waste, its persistence and degradability in nature, and its potential for assimilation, or concentration in tissue, and other factors that may otherwise cause or contribute to adverse acute or chronic effects on the health of persons or other living organisms, or any matter which may have an unusually destructive effect on water quality if discharged to ground or surface waters of the state. All special nuclear, source, or by -product material, as defined by the Atomic Energy Act of 1954 and amendments thereto, codified in 42 65 | P a g e U.S.C. S 2014, is specifically excluded from this definition. The storage and handling of livestock wastes and by-products are specifically excluded from this definition. Heavy Equipment Yard - Commercial use of a lot for the storage and sale of heavy equipment. Historic Preservation - The research, protection, restoration and rehabilitation of buildings, structures, objects, districts, areas and sites significant in the history, architecture, archaeology or culture of the state of Vermont, its communities or the nation (22 VSA S701(5)). Historical Structure - Any structure that is either: a) listed individually in the National Register of Historic Places (a listing maintained by the Secretary of the Interior as meeting the requirements for individual listing on the National Register; or b) certified or prelimin arily determined by the Secretary of the Interior as contributing to the historic significance of a registered historic district or a district preliminarily determined to by the secretary to qualify as a historic district; or c) individually listed on a state inventory of historic places in states with historic preservation programs that have been certified either (1) by an approved state program as determined by the Secretary of the Interior or (2) directly by the Secretary of the In terior in states without approved programs. Home Occupation - Any occupation customarily carried on by a resident occupying a minor portion of a dwelling or accessory structure which is clearly secondary to the principal use and does not materially change the character thereof, including but not limited to the opera tion of a beauty parlor, insurance office or professional office as defined and regulated in the Waterford Zoning Regulations S303. Hospital - Public or private medical facility providing inpatient services. Hotel - A building and use providing lodging and usually meals and alcoholic beverages for the public, especially transients. Impact - A consequence of an effect generated by a Land Use. An impact is most often considered to be significant when it is experienced off of the lot or parcel of the Land Use that generated the effect. Industrial is a principal commercial use as defined by the following categories: Light Industrial: Mechanical transformation of materials or substances that does not entail the handling of molten metals, the use of chemicals or materials that are hazardous in the quantities or concentrations that would be present at the manufacturing location, does not produce liquid or gaseous waste products requiring special treatment or control processes, or produces solid waste requiring special handling or long term storage at the site of the industrial use. Light industrial shall not produce dust, smoke, noise, vibration, heat, odors or electrical or magnetic disturbances detectable outside of the manufacturing structure or equipment. The assembly of component parts into finished products is considered light manufacturing where the activity does not entail the use of substances or the production of byproducts excluded from this definition. 66 | P a g e Medium Industrial: Mechanical or chemical transformation of materials or substances into new products that does not entail the handling of molten metals, does not produce liquid or gaseous waste products that cannot be rendered non-hazardous by onsite treatment and control p rocesses, or produces solid waste requiring special handling. Manufacturing activities shall not use chemicals that would be hazardous in the quantities present at the site, produce dust, vibration, heat, odors or electrical or magnetic disturbances detectable beyond the property line, and noise levels at the property line shall not exceed 50dbl. Heavy Industrial: Mechanical or chemical transformation of materials or substances into new products that entails the handling of molten metals, the production of liquid or gaseous waste products that cannot be rendered non -hazardous by onsite treatment and control processe s, production of solid waste requiring special handling and/or long term on site storage, Where such industrial activity entails the use of chemicals or substances that are hazardous in the quantities or concentrations that would be present at the manufacturing location, open storage of these materials is prohibited, and plans for the control of these materials must be approved by the Development Review Board., manufacturing activities shall not produce dust, vibration, heat, odors, electr ical or magnetic disturbances, or noise levels in excess of 50dbl detectable beyond the property line. Infrastructure - Facilities and installations (such as streets and utilities) that are necessary for the use and development of land. The term's usual usage is in reference to public facilities but may also be applied to planned improvements for subdivisions or PUDs, esp ecially those that will be dedicated to the town. Land Development - The construction, reconstruction, conversion, structural alteration, relocation, or enlargement of any building or structure, or any mining, excavation, or landfill, and any change in the use of any building or structure, or land or extension of use of la nd, excepting agricultural forestry, outdoor recreation, and wildlife refuge uses within the floodplain district. Land Use - The purpose for which land or the structures thereon are being utilized (e.g. commercial, residential or retail). Also used as a description of activities found throughout a specified area. Level of Service - The operating conditions that a driver will experience while traveling on a particular street or highway, including frequency of stops, operating speed, travel time, traffic density. Liquor Store - a state franchised retail shop that sells prepackaged alcoholic beverages to consumers, typically in bottles, intended to be consumed off the store's premises; liquor store is not a permitted or conditional use in the Town of Waterford. Lot - Land occupied or to be occupied by a building and its accessory buildings, together with the required open spaces, having not less than the minimum area, width and depth required for a lot in the district in which such land is situated and having frontage on a street, or other means of access as may be determined by the Development Review Board to be adequate as a condition of the issuance of a zoning permit. A portion of land in a subdivision or plat that is separated from other portions of land by a proposed property line. 67 | P a g e Lot Area - The total area within the property lines of the lot, excluding public streets, roads, and rights-of-way and meeting the district requirements of these Regulations. For purposes of subdivision proceedings, the total surveyed land area within the boundaries of a proposed lot, exclusive of any land area designated for a public road as measured to the boundary of such right of way or easement. Lot Frontage Minimum - That portion of a lot that is adjacent and parallel to a public road or street. Lowest Floor - The lowest floor if the lowest enclosed area (including basement), an unfinished or flood resistant enclosure, usable solely for parking of vehicles, building access or storage in an area other than a basement area, is not considered a building's lowest fl oor; provided that such enclosure is not built so as to render the structure in violation of the applicable non-elevation design requirements of S404. Lot Line Adjustment - A mutually agreed to shift in a boundary line between two parcels. Major Subdivision - Any residential subdivision containing four or more lots, or requiring any new road in excess of 800 feet in length, or any commercial, industrial or commercial recreational project, multifamily housing project, planned residential development or planne d unit development, or a series of minor subdivisions of a tract of land occurring over a period of five years creating four or more lots, that meets the definition of a subdivision. Manufactured Home - A structure transportable in one or more sections, which is built on a permanent chassis and designed to be used with or without a permanent foundation when connect to the required utilities. It does not include recreational vehicles or travel trailers. Manufactured Home Park or Manufactured Home Subdivision - A parcel of land divided into two or more manufactured home lots for rent or sale. Marijuana Establishment - a cultivator, product manufacturer, testing laboratory, retailer, dispensary or marijuana lounge involved with the commercial production, manufacture, distribution or commercial sale of marijuana; marijuana establishment is not a permitted or conditional use in the Town of Waterford. Marijuana Lounge - an entity registered to sell marijuana or marijuana -infused products to consumers for on-site or off-site consumption; marijuana lounge is not a permitted or conditional use in the Town of Waterford. Marijuana Product Manufacturer - an entity registered to manufacture, prepare, and package marijuana-infused products and hashish, and to sell marijuana, including hashish, and marijuana - infused products to a retailer, marijuana lounge, or another product manufacturer; marijuana product manufacture is not a permitted or conditional use in the Town of Waterford. 68 | P a g e Master Plan - An officially adopted plan that describes, analyses and makes Policies about a wide range of topics (such as community facilities, economy, housing, land use, population and transportation) to guide the development of an entire area (municipality, region or state). See 24 VSA S4382 and S4348a. Mean Sea Level - For purposes of the National Flood Insurance Program, the National Geodetic Vertical Datum (NGVD) of 1929 or other successor datum, to which base flood elevations shown on a Town's Flood Insurance Rate Map are referenced. Medical Outpatient Clinic - A non-profit or for profit medical facility that offers outpatient and emergent care services to the exclusion of inpatient housing. Membership Club - A private facility for use of members of a private organization. Methadone Clinic - A medical facility whose primary function is the distribution of methadone or other treatments to patients for the outpatient treatment of opioid addiction. Methadone clinic is not a permitted or condition use in the Town of Waterford. Minor Subdivision - Minor subdivisions are characterized by lot counts below the trigger for Act 250 permitting, they lack complicated site conditions and involve relatively simple access and easement arrangements. Mobile Home Park - Any parcel of land under single or common ownership or control which contains at least 10, nor more than 25 mobile home units, or is designed, laid out, or adapted to accommodate homes, nothing herein shall be construed to apply to premises used solely for display or storage of mobile homes. Motel - Building containing rooms which are rented as a series of sleeping units for transients, each sleeping unit consisting of at least a bedroom and a bathroom. Motor Vehicle Sales - Commercial use entailing the buying and selling of motor vehicles. Municipal Services - Waterford street lighting, policing, snow clearance, library, transfer station, Town Clerk and Town recreational operations. Municipality - A town, city, an incorporated village or an unincorporated town or gore. Natural Area - An area of land or water that is not dominated by manmade features containing significant flora, fauna and geological features. Neighborhood - An area that shares a common function and/or character. It may refer specifically to and area whose residents regard it to be a separate community or a collection of residential, commercial and institutional land uses that form a basic unit of community planning. New Construction - For the purposes of determining insurance rates, structures for which the \"start of construction\" is commenced on or after the effective date of an initial FIRM of after 69 | P a g e December 31, 1974, whichever is later and includes any subsequent improvements to such structures. For floodplain management purposes \"new construction\" means structures for which the \"start of construction\" commenced on or after the effective date of a fl oodplain management regulation adopted by a community and includes any subsequent improvements to such structures. Noncompliance, also Noncompliant - Nonconformity in violation of the existing ordnances and as such actionable under violation procedures. Nonconforming Lots or Parcels - lots or parcels that do not conform to the present bylaws covering dimensional requirements but were in conformance with all applicable laws, ordinances and regulations prior to the enactment of the present bylaws, including a lot or a parcel improperly authorized as a result of error by the administrative officer. Nonconforming Use - A use of land, building, or premises which is not a use permitted by the provisions of this ordinance for the district in which such land, building or premises are situated but which was legally existing at the effective date hereof. Nonconforming Structure - A structure not complying with the zoning regulations for the district in which it is located, where such structure complied with all applicable laws, ordinances and regulations prior to the enactment of this ordinance. Nonconformity - a nonconforming use, structure, lot or parcel; the quality of a use, structure, lot or parcel that is nonconforming to the current bylaw. Normal Waterfront Facilities - Any docks, wharves, floats, and boat houses without toilet facilities. Office - Commercial enterprise primarily providing services to the public or other commercial enterprises. Open Space - Land not occupied by structures, buildings, roads, rights of way, recreational facilities and parking lots. Outdoor Recreation - Uses including public or privately owned golf courses, parks, tennis courts, playing fields, and similar places for outdoor recreation. Overlay District (Overlay Zone) - A Zoning District (with boundaries that may or may not coincide with those of regular zoning districts) used to define special areas or uses. Overlay Districts may be used to impose regulations that supplement those of the underlying zoning districts. Parcel - An area of land containing one or more lots under common ownership or control. As applies to subdivision proceedings, a parcel is the original area of land subject to subdivision into lots. 70 | P a g e Permitted Use (Permitted by Right Use) - A residential Land Use that does not require action by an AMP before a Zoning Permit is issued or a commercial Land Use only subject to site plan review. Person - Any individual, partnership, corporation, association, unincorporated organization, trust or other legal or commercial entity, including a joint venture or affiliated ownership which owns or controls the tract or tracts of land to be developed. The word \"person\" also means any municipality or State agency. Personal Services - a commercial use featuring services provided on site, i.e. barber, hair or nail salon. Retail of goods may only be secondary and directly related to the service offered. Phased Development - Required timing or other limitations on a particular development under the authority of a Bylaw to avoid or mitigate any undue adverse impact on existing or planned community facilities or services. See 24 VSA S4422. Planned Residential Development (PRD) - A type of Planned Unit Development that provides for a mixture of housing types or densities and typically involves Cluster Development. Planned Unit Development (PUD) - One or more lots, tracts or parcels of land to be developed as a single entity, the plan for which may propose any authorized combination of density or intensity transfers or increases, as well as the mixing of land uses. The plan, as authorized, may deviate from bylaw requirements that are otherwise applicable to the area in which it is located with respect to lot size, bulk or type of dwelling or building, use, density, intensity, lot coverage, parking, required common open space or other standards. See 24 VSA S4303(19) and S4417. Planning Commission - The Planning Commission of the Town of Waterford Vermont as created under 24 VSA Chapter 117. Plat - A map or representation on paper or mylar of a piece of land subdivided into lots and roads, drawn to scale. A plat in this context is submitted by a subdivider or developer to determine if the proposed Land Development will comply with the requirements of the Bylaw. Plats are required to meet standards concerning format and information. Policy - Any goal, objective, strategy or action that is recommended in a Comprehensive Plan or a special plan as a guide for subsequent decision making. Premises - A lot as defined in this section, including any buildings thereon. Primary Retail - A commercial use designed to sell goods directly to the public on a walk -in basis. Primary Containment Facility - A tank, pit, container, pipe or vessel of first containment of a liquid or chemical, excluding the storage and handling of livestock wastes and by-products 71 | P a g e Professional Offices - Offices of an architect, accountant, dentist, doctor of medicine, land surveyor lawyer, real estate or insurance agent and other similar type uses. Public Facility - Buildings or other improvements owned by a government entity. Public Improvement - Any improvement which shall be owned or maintained by the Town of Waterford. Public Notice - The form of notice prescribed by 24 VSA S4444, S4449 or S4464 as context requires but broadly meant to refer to the required posting in public places, publication in newspaper of record and web listing of the time and place of a public hearing or other proceeding warning of that public hearing or proceeding the required number of days before taking place. Public Road - a state highway as defined in 19 VSA S1 or a class 1, 2 or 3 town highway as defined in 19 VSA S302(a), or a class 4 town highway if the Town has so selected. For purposes of setting front setbacks all road frontages require front setback distances. Public Water Supply - Any system(s) or combination of systems owned or controlled by a person, that provides drinking water through pipes or other constructed conveyances to the public and that has at least 15 service connections or serves an average of at least 25 individuals daily for at least 60 days out of the year. Such term includes all collection, treatment, storage and distribution facilities under the control of the water supplier and used primarily in connection with such system, and any collection or pretreatment storage facilities not under such control that are used primarily in connection with such system. In addition, this includes any water supply system with ten or more residential connections. Rear Setback - Setback between the principal building or accessory use building and a rear lot line, and extending through from the front yard to the rear yard. Recreational Vehicle - Is a vehicle used for camping or temporary living quarters' it does not include snow machines, travel bikes or boats. Redevelopment - The conversion, reuse and/or reconstruction of buildings, structures, neighborhoods and communities. Release - Any unplanned or improper discharge, leak, or spill of a potential contaminant including a hazardous material and/or hazardous waste, excluding the storage and handling of livestock wastes and by-products. Residential Business or Service - a home business larger in scale than a home occupation to be conducted from a portion of a dwelling not to exceed 50% of the livable floor space, or fro m an accessory structure; in no circumstance shall more than 25% of a residential lot be devoted to a residential business or service including; the footprints of the portions of all structures used for the residential business or service, any permitted open storage areas, and any required parking areas. Exterior alteration of the accessory structure or dwelling to indicate its use as a business or service 72 | P a g e is prohibited. Upon determination of the DRB bed and breakfast operations may be exempt from this criterion and outdoor storage of materials may be permitted. Residential Development - One or more homes or structures intended to be used as a residence or residences along with accompanying accessory structures such as garages, sheds, storage buildings, etc. Resort - A multi -faceted recreational facility to which persons go for relaxation, customarily offering lodging and food. Resort Accommodations - Commercial accessory uses and buildings associated with the housing, feeding and entertainment of resort guests. Restaurant - Commercial use that features sale of food ready to eat to the public for consumption on site or for take away. Road - A highway, street or other way which exists for vehicular travel, exclusive of a driveway serving not more than two single family residential uses or lots. The word \"road\" shall mean the entire right of way. See also Public Road. Sawmill - Commercial processing of timber into lumber and other wood related products on an industrial scale. Scale - The size and proportion of a Building, Structure or Land Development in comparison with nearby development. School - Public or private institution that provides educational services in classroom settings. Secondary Containment Facility - A second tank, catchment pit, pipe, or vessel that limits and contains a hazardous material or hazardous waste leaking or leaching from a primary containment area; monitoring and recovery are required excluding the storage and handling of livestock wastes and by-products. Setback - Space on a lot not occupied with a building. Porches, whether enclosed or unenclosed, shall be considered part of the main building and shall not project into the required setback. Shoreland - Land between the normal mean water mark of a lake, pond or impoundment exceeding 20 acres and a line not less than 500 feet or more than 1,000 feet from such mean high water mark. See 10 VSA S1422(8) and S4424. Short term rental -- a publicly promoted rental for stays of less than 30 days of any residential home unit or accessory building that is not regulated as a commercial use or residential business or service. Side Setback- Setback between the principal building or accessory use building and a side lot line, and extending through from the front yard to rear yard. 73 | P a g e Sign, Signage - As regulated per S320 of this regulation, any assemblage of materials for the purpose of attracting public notice, whether for a commercial purpose or not, either freestanding or attached to a building. Site Plan - A Plat that depicts the general layout of a proposed Land Development. Site Plan Review - The process by which an AMP reviews the Site Pl an for a proposed development to ensure that the development will conform to applicable regulations. See VSA S4416. Smart Growth - The pattern of land development that uses land efficiently, reinforces community vitality and protects natural resources. Smart Growth strategies include efforts to maintain Vermont's historic settlement pattern, encourage concentrated development in and around downtowns and villages while supporting Vermont's rural working land. Source Protection Overlay District - Mapped area designed to protect the quality of public drinking water supplies though enhanced regulations and Development Review Board oversight. Spill Response Plans - Detailed plans for control, re -containment, recovery and cleanup of hazardous material and/or hazardous waste releases, such as during fires or equipment failures. Sprawl - A scattered untimely and poorly planned development. It is an inefficient planning practice, which is usually motor vehicle dependent and consumes land necessary for agricultural or natural resource protection. Sprawl typically manifests in the form of; leapfrog development, strip mall or ribbon development and large lot single family units, strip commercial land development so each individual establishment has direct access to road and parking areas. Stormwater Runoff - Precipitation that does not infiltrate the soil, including material dissolved or suspended in it, but does not include discharges from undisturbed natural terrain or wastes from combined sewer overflows. Stormwater Treatment Practice (STP) - A stormwater treatment practice that is a specific device or technique designed to provide stormwater qualify treatment and or quality control. Start of Construction - Technically defined in S1909.1 of FEMA current National Flood Insurance Program rules and regulations. Street - Any street, avenue, boulevard, road, and other right-of-way excluding private driveways. Streetscape - The appearance or view of a street. Structure - An assembly of materials for occupancy or use, including but not limited to a building, mobile home, vehicles used as structures, swimming pools, signs and free standing renewable energy devices. For the purpose of these regulations, the term does not include driveways, fences, stonewalls, mailboxes, flagpoles, dog houses, tents, and other minor structures and installations. 74 | P a g e Subdivider - Any person who shall lay out for the purpose of transfer of ownership or right to use any subdivision or part thereof. The term shall include an applicant for subdivision approval. Subdivision- The division of a parcel of land into two or more lots, plots, or parcels. For the purposes of this regulation, see definitions of major and minor subdivisions. Subdivision Regulation - A municipal bylaw that may regulate the procedures and requirements for the submission and processing of plats; and establish standards for the design and layout of streets, curbs, gutters, street lights, fire hydrants, shade trees, water, sewage, draina ge facilities, public utilities and other necessary public improvements. See 24 VSA S4418 and S4463. Substantial Damage - Damage of any origin sustained by a structure whereby the cost of restoring the structure to it's before damaged condition would equal or exceed 50% of the market value of the structure before the damage occurred. Substantial Improvements - Any repair, reconstruction, rehabilitation, addition or other improvement of a structure, the cost of which equals or exceeds 50% of the market value of the structure before the \"start of construction\" of the improvement. This term includes structures which have incurred \"substantial damage\", regardless of the actual repair work performed. The term does not include either (1) any project for improvement of a structure to correct existing violations of state or local health, sanitary or safety code specifications which have been identified by a code enforcement official and which are the minimum necessary to assure safe living conditions or (2) any alteration of a \"historic structure\", provided that the alteration will not preclude the structure's continued designation as a \"historic structure\". Time-Of-Travel Distance - The distance that groundwater will travel in a specified time. This distance is generally a function of the permeability and slope of the aquifer. Tower- A structure more than 20 feet in height above the ground elevation, built for the purpose of supporting, elevating, or placement of antennas for broadcast services or wireless services. Trip-end- Traffic count term referring to a vehicle arriving or leaving a location via the public roads. Trucking Terminal - Freight transportation facility for the loading and transfer of cargo into and between freight vehicles and trailers. Variance - An exception to the Zoning Regulations resulting from the physical circumstance, or characteristics of the particular property in question that causes a hardship not created by the property owner (i.e. purchasing a non-conformity is a self-created hardship). Vehicle Fuel Sales - Retail or fleet sale of motor vehicle fuels, this commercial use is conditional in any zone in which it is allowed. 75 | P a g e Waiver - An exception to the setback requirements granted by the AO to improve ADA compliant access. Warehouse/Storage Units - Facility operated for the interior storage of goods by both businesses and the public. Waterfront Setback - The distance measured from the mean water level to the nearest building excluding normal waterfront facilities. Watershed - An area of land that drains water, sediment and dissolved material to a common outlet at some point along a stream channel. Wetland - An area of the state that is inundated by surface or groundwater with a frequency sufficient to support vegetation or aquatic life that depend on saturated or seasonally saturated soil conditions for growth and reproduction. See 24 VSA S4303(32). Wholesale Sales - Commercial use involving the sale of goods primarily for resale to retail customers. Wildlife Corridor - An area of habitat connecting wildlife populations separated by human activity or structures such as roads, development or logging. Wireless Communications Facility- A tower, pole, antenna, guy wire, or related fixtures or equipment intended for use in connection with transmission or receipt of radio or television signals or any other electromagnetic spectrum based transmission reception and for which a license is sought or has been granted by the FCC; the construction or improvement of a road, trail, building, or structure incidental to a communications facility. Vantage Point- A point located on a public highway or public water body in Fairlee from which a proposed wireless communication facility will be visible. Yard Sale, also Garage Sale, Lawn Sale, Tag Sale - The sale of pre-owned household goods by the owner of those goods from a residence on an incidental basis. Yard sales may be held no more than six (6) times a year from any single residence and may not feature the sale of goods specifically purchased for re-sale. Items for sale and display paraphernalia shall be removed upon the conclusion of each event. Zoning - A type of land use regulation governing the location, type and density of development within a community through the delineation of one or more zones or zoning districts, as depicted on a zoning map. Local zoning regulations must conform to the municipal plan, including the plan's land use goals and recommendations and proposed land use map. Zoning Administrator (ZA) - Local administrator in charge of enforcing the municipal zoning regulations. The ZA is responsible for providing information to the public, reviewing plans and documentation for compliance and assisting applicants with their requests for permits, site pl an reviews, conditional use permits, waivers and variances. 76 | P a g e Zoning Map (Official Zoning Map) - The map officially adopted as part of a Zoning Bylaw that identifies Zoning District boundaries (Land Use Map)."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    }
+  ]
+}

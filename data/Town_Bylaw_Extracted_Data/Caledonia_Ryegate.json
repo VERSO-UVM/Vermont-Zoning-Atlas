@@ -1,0 +1,469 @@
+{
+  "metadata": {
+    "municipality": "Ryegate",
+    "county": "Caledonia",
+    "state": "Vermont",
+    "bylaw_date": "0130-20-17",
+    "source_pdf": "Caledonia_Ryegate_Text_eff01302017.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 55,
+    "word_count": 20797,
+    "articles_found": 9,
+    "sections_found": 13,
+    "subsections_found": 32,
+    "regulation_rows": 0,
+    "list_items": 0
+  },
+  "articles": [
+    {
+      "number": "1",
+      "title": "ENACTMENT, PURPOSE",
+      "sections": [
+        {
+          "number": "103.01",
+          "title": "No division of a parcel of land, construction, reconstruction, conversion, structural alteration,",
+          "page": 5,
+          "paragraphs": [
+            "relocation or enlargement of any mining, excavation, or landfill, or any change in the use of any building or other structure, or extension of use of land shall commence except in compliance with all the regulations in this by-law for the district in which such building or land is located."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "103.02",
+          "title": "Any use not permitted by this bylaw shall be deemed to be prohibited",
+          "page": 5,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "ZONING DISTRICTS AND ZONING MAP",
+      "sections": [
+        {
+          "number": "202.01",
+          "title": "The location and boundaries of Zoning Districts are established as described below and shown",
+          "page": 6,
+          "paragraphs": [
+            "on the Official Zoning Map. The Official Zoning Map is hereby made a part of this bylaw, together with all future amendments. No changes of any nature shall be made in the Official Zoning Map except in conformity with 24 V.S.A. SS 4441-4442."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "202.02",
+          "title": "Regardless of the existence of copies of the Official Zoning Map which may from time to time be",
+          "page": 6,
+          "paragraphs": [
+            "made or published, the Official Zoning Map, which shall be located in the office of the clerk of the municipality, shall be the final authority as to the current zoning status of land and water areas. S 203: Interpretation of Zoning District and Overlay Boundaries Where uncertainty exists as to the boundaries of districts as shown on the Official Zoning Map, the following rules shall apply:"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "203.01",
+          "title": "Boundaries indicated as approximately following the center lines of roads, streams,",
+          "page": 6,
+          "paragraphs": [
+            "transportation and utility rights-of-ways shall be construed to follow such center-lines;"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "203.02",
+          "title": "Boundaries indicated as approximately following lot lines shall be construed to follow such lot",
+          "page": 6,
+          "paragraphs": [
+            "lines;"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "203.03",
+          "title": "Boundaries indicated as following shorelines shall be construed as following the normal mean",
+          "page": 6,
+          "paragraphs": [
+            "water level;"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "203.04",
+          "title": "Boundaries indicated as parallel to or extensions of features in 203.01 through 203.03 above",
+          "page": 6,
+          "paragraphs": [
+            "shall be so construed;"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "203.05",
+          "title": "Where circumstances are not covered by 203.01 through 203.04 above, the Zoning Board of",
+          "page": 6,
+          "paragraphs": [
+            "Adjustment shall interpret the district boundaries."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "203.06",
+          "title": "If uncertainty exists with respect to the boundaries of the Special Flood Hazard Area or the",
+          "page": 6,
+          "paragraphs": [
+            "floodway, the location of the boundary shall be determined by the Zoning Administrator. If the applicant disagrees with the determination by the Zoning Administrator, a Letter of Map Amendment from FEMA shall constitute proof. S 204: Lots in Two Zoning Districts Where a district boundary line divides a lot of record at the time such line is adopted, the regulations for the less restricted part of such lot shall extend not more than 100 feet into the more restricted part, provided the lot has frontage on a road in the less restricted district. S 205: Projection into Required Yards No part of any principal or accessory structure, including porches or carports open at the sides but roofed, shall extend into any required front, side, or rear yard. S 206: Lots in Affiliated Ownership Ryegate Zoning Bylaw Adopted 1.09.17 7 If two or more contiguous lots are in single or affiliated ownership, and if one or more of the lots do not meet the minimum lot size requirements as established by the bylaw, the nonconforming lot shall be deemed merged with the contiguous lot. However, a nonconforming lot shall not be deemed merged and may be separately conveyed if all the following apply:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The lots are conveyed in their preexisting, nonconforming configuration",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "On the effective date of any bylaw, each lot was developed with a water supply and wastewater",
+              "paragraphs": [
+                "disposal system."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "At the time of transfer, each water supply and wastewater system is functioning in an acceptable",
+              "paragraphs": [
+                "manner."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The deeds of conveyance create appropriate easements on both lots for replacement of one or more",
+              "paragraphs": [
+                "wastewater systems, potable water systems, or both, in case there is a failed system or failed supply as defined in 10 V.S.A. Chapter 64. S 207: Reduction of Lot Area No lot shall be so reduced in area that the area, yards, lot width, frontage, coverage or other requirements of this bylaw shall be smaller than herein prescribed for each district. The provisions of this section shall not apply when part of a lot is taken for public purpose. S 208: Required Area or Yards Space required under this bylaw to satisfy area, yard, or other open space requirements in relation to one building shall not be counted as part of a required open space for any other building. S 209: Building Coverage No residential building will cover greater than 30 percent of area of a lot. S 210: Yards/Frontage of Corner Lots"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "209.01",
+          "title": "Any yard adjoining a street shall be considered a front yard for the purposes of this by-law and",
+          "page": 7,
+          "paragraphs": [
+            "shall meet the minimum front yard setback requirements."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "209.02",
+          "title": "Lots which abut on more than one street shall provide the required frontage along every street",
+          "page": 7,
+          "paragraphs": [
+            "S 211: Other Land Use and Relevant Regulations State and federal government may regulate certain aspects of land use; compliance with this zoning bylaw in no way implies compliance with such state or federal regulations. Such regulations include, but are not limited to: * Onsite wastewater and potable water systems; * Outdoor furnaces (i.e. \"Outdoor Wood Boilers); * Placement of underground storage tanks; * Alteration of a perennial stream that involves more than movement, excavation, or fill or more than 10 cubic yards annually; * Activities in a wetland; Ryegate Zoning Bylaw Adopted 1.09.17 8 * Development, redevelopment or clearing of shorelands along bodies of water greater than 10 acres in size, regulated by the Watershed Management Division of the Vermont Agency of Natural Resources. This list is by no means inclusive. Anyone contemplating development activity should consult with the Vermont Department of Environmental Conservation Permit Specialist. To contact your Permit Specialist, visit www.anr.state.vt.us/dec/ead/pa/index.htm or ask the Ryegate Zoning Administrator. Table 2.01: Land Uses in All Zoning Districts* P= Permitted; C=Conditional; E= Exempt from Zoning; -- = not allowed in the district (*Different standards and review processes may apply to development in the Special Flood Hazard Area. See Article 4.) Residential and related to residential MDR LD RL C1 C2 I S Accessory Use/Structure P P P P P P C Agriculture P P P P P P P Boarding House P P C -- P -- -- Camp, shoreland -- -- -- -- -- -- C Camp, woodland -- -- P -- -- -- -- Dam and water impoundment C C C C C C C Dwelling, multi- family C -- -- -- C -- -- Dwelling, one family, and two- family P P P C P P C Forestry P P P P P P P Home Occupation E E E E E E E Nursing home -- C -- -- -- -- -- Mobile Home Park C -- -- -- C -- -- Civic MDR LD RL C1 C2 I S Cemetery C C C -- C -- -- Community Center C C C P -- -- -- Essential services P C C P P P -- Hospital C -- -- -- C -- -- Municipal use P P P P P P P Ryegate Zoning Bylaw Adopted 1.09.17 9 Public facility -- -- -- -- -- P -- Religious Facility C C C -- C -- -- School, private C C C -- C -- -- School, public P C C -- P -- -- Hospitality, Recreation and Tourism MDR LD RL C1 C2 I S Bed and Breakfast P P C -- -- -- -- Campgrounds, commercial C C C -- C -- -- Club, private C C -- P C -- -- Drive-in Restaurant or refreshment stand -- -- -- C C -- -- Hotel P -- -- P P -- -- Indoor Recreation Facility -- -- -- P -- -- -- Motel P -- -- P P -- -- Outdoor Recreation C -- -- P C -- -- Recreation, public and private C C C -- -- P -- Summer camp and retreat -- -- -- -- -- -- C Industry MDR LD RL C1 C2 I S Contractor's Yard -- C C C -- C -- Earth Resource Removal -- C -- -- -- -- -- Industrial C C C C P -- Light Industry C C C P C P -- Quarrying -- -- P -- -- -- -- Sawmill C C C P C P -- Commerce and Professional Services MDR LD RL C1 C2 I S Animal Hospital C C C P P P -- Ryegate Zoning Bylaw Adopted 1.09.17 10 Auto Service Station C -- -- C C -- -- Car wash -- -- -- C -- -- -- Commercial -- -- -- P C C -- Community Center C C C P -- -- -- Daycare Center C -- -- C C -- -- Funeral Home C C C P C -- -- Hospital C -- -- -- C -- -- Kennel C C C -- C -- -- Neighborhood Commercial Facilities C C __ P C -- -- Table 2.02: Medium Density Residential (MDR) This district contains Ryegate's residential areas in small villages and along the main travel corridors. The recommended uses of this district are for residential, small commercial and recreation. Public water and/or sewer utilities are or can be reasonably expected in the future to service this area.",
+            "Permitted Uses Accessory Structure Accessory Use Agriculture Bed and Breakfast Boarding House Dwelling, one family Dwelling, two family Essential services Forestry Hotel Motel Municipal use School, public",
+            "Conditional Use Animal Hospital Auto Service Station Campgrounds, commercial Cemetery Club, private Community Center Dam and water impoundments* Daycare Center Dwelling, multi- family Funeral Home Hospital Industrial Kennel Light Industry Mobile Home Park Neighborhood Commercial Facilities Outdoor Recreation Recreation, public and private Religious Facility Sawmill School, private *An alteration to a perennial stream that involves the movement, excavation, or fill of more than 10 cubic yards of material annually requires a Stream Alteration from the Watershed Management Division of the Agency of Natural Resources. Ryegate Zoning Bylaw Adopted 1.09.17 11 Minimum Lot Area and Dimensional Requirements Minimum Yard in Feet Minimum Lot/Family Minimum Lot Width in Feet Front Side Rear 20,000 (off-lot water and sewer) 100 25 15 35 40,000 (off-lot water or sewer) 100 25 25 50 60,000 (on-lot water and sewer) 150 75 25 50 80,000 (neighborhood commercial) 200 75 50 50 200,000 (industrial) 400 75 100 100 Table 2.03: Low Density (LD) The low density district is designed to permit one-family dwellings at a lower density while encouraging agriculture, non-intensive uses, and maintenance of the open character of the area.",
+            "Permitted Uses Accessory structure Accessory uses Agriculture Bed and Breakfast Boarding House Dwelling, one family Dwelling, two family Forestry Municipal use",
+            "Conditional Use Animal Hospital Campgrounds, commercial Cemetery Club, private Community Center Contractor's Yard Dams and water impoundments* Earth Resource Removal Essential Services Funeral Home Industrial Kennel Light Industry Neighborhood Commercial Facilities Nursing Home Recreation, public and private Religious Facility Sawmill School, private School, public *An alteration to a perennial stream that involves the movement, excavation, or fill of more than 10 cubic yards of material annually requires a Stream Alteration from the Watershed Management Division of the Agency of Natural Resources. Minimum Lot Area and Dimensional Requirements Minimum Yard in Feet Minimum Lot/Family Minimum lot size in feet Minimum lot width in feet Front Side Rear 5 acres 217,800 400 50 50 75 Commercial 80,000 400 50 50 50 Industrial 200,000 400 50 100 100 Ryegate Zoning Bylaw Adopted 1.09.17 12 Table 2.04: Rural Land (RL) The land in the Rural Land district is characterized by poor soil, poor access, steep topography and general remoteness from existing settlements which make public utilities unduly expensive. The primary uses should be forestry, agriculture, and other non-intensive uses.",
+            "Permitted Uses Accessory structure Accessory uses Agriculture Camp, woodland Dwelling, one family Dwelling, two family Forestry Municipal use",
+            "Conditional Use Animal Hospital Bed and Breakfast Boarding House Campgrounds Cemetery Community Center Contractor's Yard Dam and water impoundments* Earth Resource Removal Essential Services Funeral Home Kennel Light Industry Recreation, public and private Religious Facility Sawmill School, private School, public Quarrying *An alteration to a perennial stream that involves the movement, excavation, or fill of more than 10 cubic yards of material annually requires a Stream Alteration from the Watershed Management Division of the Agency of Natural Resources. Minimum Lot Area and Dimensional Requirements Minimum Yard in Feet Minimum lot Minimum area per dwelling unit Minimum width on frontage Front Side Back 10 acres 10 acres 400 feet 50 50 100 Ryegate Zoning Bylaw Adopted 1.09.17 13 Table 2.05: Industrial (I) The industrial district provides for the continuation and expansion of industrial development.",
+            "Permitted Uses Accessory structure Accessory uses Agriculture Animal Hospital Dwellings, one family Dwellings, two family Essential services Forestry Industrial Light Industry Municipal use Public facility Sawmill Recreation, public and private",
+            "Conditional Use Commercial Contractor's yard Dams and Water Impoundments* *An alteration to a perennial stream that involves the movement, excavation, or fill of more than 10 cubic yards of material annually requires a Stream Alteration from the Watershed Management Division of the Agency of Natural Resources. Minimum Lot Area and Dimensional Requirements Minimum Yard in Feet Minimum lot in sq. ft. Minimum Lot Width in Feet Front Side Rear 20,000 (off -lot water and sewer) 100 25 10 20 60,000 (off -lot water or sewer) 100 75 20 20 120,000 (on -lot and sewer) 200 75 20 20 Ryegate Zoning Bylaw Adopted 1.09.17 14 Table 2.06: Commercial One (C1) The Commercial One district provides areas to concentrate commercial activity within existing developed areas.",
+            "Permitted Uses Accessory structure Accessory uses Agriculture Animal Hospital Club, private Commercial Community Center Essential services Forestry Funeral home Hotel Indoor Recreation Facility Light Industry Membership Clubhouse Motel Municipal use Neighborhood Commercial Outdoor Recreation Sawmill",
+            "Conditional Use Auto service station Car wash Contractor's Yard Dams and Water Impoundments* Daycare Center Drive-In Restaurant Dwelling, one family Dwelling, two family Industry *An alteration to a perennial stream that involves the movement, excavation, or fill of more than 10 cubic yards of material annually requires a Stream Alteration from the Watershed Management Division of the Agency of Natural Resources. Minimum Lot Area and Dimensional Requirements Minimum Yard in Feet Minimum lot/family Minimum Lots in Feet Front Side Rear 20,000 (off -lot water and sewer) 100 25 10 20 40,000 (off -lot water or sewer) 100 75 10 50 60,000 (on -lot water and sewer) 150 75 10 50 Ryegate Zoning Bylaw Adopted 1.09.17 15 Table 2.07: Commercial Two (C2) This district contains Ryegate's area suited for low density commercial development along Route 5 south of East Ryegate.",
+            "Permitted Uses Accessory structure Accessory uses Agriculture Animal Hospital Boarding House Dwelling, one family Dwelling, two family Essential services Forestry Hotel Motel Municipal use School, public",
+            "Conditional Use Auto Service Station Campgrounds, commercial Cemetery Club, private Commercial Community Center Dams and water impoundments* Daycare Center Drive-in Restaurant or refreshment stand Dwelling, multi-family Funeral Home Hospital Industrial Kennel Light Industry Neighborhood Commercial Facilities Mobile Home Park Outdoor Recreation Religious Facility Sawmill School, private *An alteration to a perennial stream that involves the movement, excavation, or fill of more than 10 cubic yards of material annually requires a Stream Alteration from the Watershed Management Division of the Agency of Natural Resources. Minimum Lot Area and Dimensional Requirements Minimum Yard in Feet Minimum lot/family Minimum Lot Width in Feet Front Side Rear 20,000 (off -lot water and sewer) 100 25 15 35 40,000 (off -lot water or sewer) 100 25 25 50 60,000 (on -lot water and sewer) 150 75 25 50 80,000 (neighborhood commercial) 200 75 50 50 200,000 (industrial) 400 75 100 100 Ryegate Zoning Bylaw Adopted 1.09.17 16 Table 2.08: Shoreland (S) The shoreland district maintains the less developed character of the shoreline while allowing limited residential development. Shoreland includes the land within 250 feet of the mean water level of all bodies of water. Note: The dimensional standards of this district do not supercede the standards of the Vermont Shoreland Protection Act, which became effective on July 1, 2014. All development, redevelopment, or clearing within 250 feet of the mean water level of lakes or ponds larger than 10 acres in size will require a Shoreland Permit from the Agency of Natural Resources. In Ryegate, the following water bodies will require a Shoreland Permit from the Agency of Natural Resources: Coburn Pond Lower Symes Pond Ticklenaked Pond McLam Pond",
+            "Permitted Uses Agriculture Forestry Municipal use",
+            "Conditional Uses Accessory structure Accessory use Camp, shoreland Dams and water impoundments* Dwelling, one family Dwelling, two family Summer camp and retreat *An alteration to a perennial stream that involves the movement, excavation, or fill of more than 10 cubic yards of material annually requires a Stream Alteration from the Watershed Management Division of the Agency of Natural Resources. Minimum Lot Area and Dimensional Requirements Minimum Yard in Feet Minimum Lot Minimum Lot Width on frontage Front Side Back 40,000 sq. ft. 200 200 15 15 District standards (1) Front yards are considered the shoreland side toward the water. Front yard setbacks are to be measured from the mean water mark of the lake. Back yards are considered the side toward the primary road. (2) The area of natural vegetation and trees at least 50 feet in width along the shoreland shall not be cut except for one opening per lot of no more than 50 feet. The intent of the buffer strip is to maintain the dense natural vegetation to protect water quality, provide wildlife habitat and screen the structures from view while on the water. The buffer is required on lots with new structures and encouraged on lots with existing structures. Ryegate Zoning Bylaw Adopted 1.09.17 17 (3) If a non-conforming structure is enlarged in accordance with Article 5 of this bylaw, the Zoning Board of Adjustment shall require, as a mitigation measure, to return any mowed or cleared areas to a naturally vegetated state with supplemental planting of appropriate native vegetation. (4) Except for necessary stream crossings, a protective strip shall be left along streams and shoreland areas in which only light thinning or selective harvesting can occur so that breaks made in the canopy are minimal and a continuous cover is maintained. (5) This bylaw incorporates the guidelines set forth in the current version of the Acceptable Management Practices (AMPs) for Maintaining Water Quality on Logging Jobs in Vermont (August 15, 1987) as adopted by the Commissioner of the Vermont Department of Forest Parks and Recreation. Guideline of particular significance to Ryegate are stream crossings and vegetative buffer strips which state the following:"
+          ],
+          "subsections": [
+            {
+              "label": "I",
+              "title": "There will be a protective strip of vegetation of at least 50 feet in depth left along all surface",
+              "paragraphs": [
+                "waters. II. Except for necessary stream crossings, a protective strip shall be left along streams and shoreland areas in which only light thinning or selective harvesting can occur so that breaks made in the canopy are minimal and a continuous cover is maintained. III. Landowners are encouraged to consult with a professional forester prior to beginning any large timber harvesting operation. Large clearcuts are discouraged while sustainable timber harvesting techniques as prescribed in a management plan are encouraged. (6) Logging equipment and machinery should remain outside a protective strip a distance according to Table 2.08.01. Table 2.08.01: Protective Strip Width Guide Slope of land between roads or landings and streambanks on shorelands (percent) Width of strip between roads or landings and stream (feet along surface of ground) 0-10 50 11-20 70 21-30 90 31-40 110 * Add 20 feet for each additional 10% side slope. Slope percent is calculated by dividing the rise or change in elevation by the run or horizontal distance. For example a slope that gains 10 feet of elevation over 100 feet of horizontal distance is a 10 percent slope: 10/100 = 10%. Ryegate Zoning Bylaw Adopted 1.09.17 18"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "GENERAL PROVISIONS",
+      "sections": []
+    },
+    {
+      "number": "6",
+      "title": "SPECIAL PROVISIONS",
+      "sections": [
+        {
+          "number": "1111",
+          "title": "permit",
+          "page": 34,
+          "paragraphs": [
+            "S 601.04 Site Plan Review Procedure. In considering its action, the Commission shall consider the objectives hereinafter recited, and may impose appropriate conditions and safeguards hereinafter recited, and may impose appropriate conditions and safeguards only with respect to the adequacy of traffic access, circulation and parking, landscaping and screening. S 601.05 The Planning Commission shall review the site plan map and supporting data before approval and approval with stated conditions, or disapproval is given, and taking into consideration the following objectives:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Harmonious relationship between proposed uses and existing adjacent uses. Maximum",
+              "paragraphs": [
+                "safety of vehicular circulation between the site and the street network."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Adequacy of circulation, parking and loading facilities with particular attention to safety",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Adequacy of landscaping, screening and setbacks in regard to achieving maximum",
+              "paragraphs": [
+                "compatibility and protection to adjacent property. S 602: Conditional Uses S 602.01 Any use designated as a \"Conditional Use\" in the table relating to a particular district may be commenced, enlarged or altered in such district after receipt of all approvals and permits as required by these bylaws and then only upon the issuance of a conditional use permit by the Zoning Board of Adjustment as provided in 24 V.S.A. S4414(3) after public notice and hearing. S 602.02 Conditional Review Application. Conditional Use applications shall consist of the items identified in 601.03. S 602.03 Conditional Use Review Procedure. The Zoning Board of Adjustment, after public notice and hearing, shall consider the following general standards before granting, and shall not grant a permit unless it finds that the proposed conditional use will not have an undue adverse effect on any of the following:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "The Capacity of Existing or Planned Community Facilities:",
+              "paragraphs": [
+                "i. Sufficient water must be available for the short and long term needs of the project and the project shall not result in undue impacts on the municipal water supply. ii. The project shall not cause other undue impacts on the municipality, including public, quasi-public and private providers to provide services or facilities, and further including but not limited to education, fire protection, emergency services, health services, recreation, waste disposal and recycling."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The Character of the Area Affected",
+              "paragraphs": [
+                "i. The proposed project, by its nature, scale, appearance or operation shall not adversely change the character of the potentially affected area as defined by the purpose or Ryegate Zoning Bylaw Adopted 1.09.17 35 purposes of the zoning district within which the project is located, and specifically stated policies and standards of the municipal plan. ii. Consideration shall be made with respect to the proposed development's effect on aesthetics, open spaces and the scenic and historic integrity of the area affected. Measures to mitigate or restore any such adverse impacts shall be considered."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Traffic on Roads and Highways in the Vicinity",
+              "paragraphs": [
+                "i. The project shall not significantly reduce the safety of existing pedestrian, vehicular or recreational uses of the highways affected. ii. The proposed use shall not exhaust or exceed the physical capacity of the affected highway. iii. In general, the project shall not substantially overburden the municipality in providing adequate highway construction and maintenance services."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Bylaws Then in Effect",
+              "paragraphs": [
+                "i. The proposed conditional use shall comply with the bylaws and regulations adopted at the time of submission of the application."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Utilization of Renewable Energy Resources",
+              "paragraphs": [
+                "i. A conditional use shall not excessively inhibit or restrict access to or the use of renewable natural resources (including, but not necessarily limited to, water, solar and forest resources) for energy conservation and utilization. S602.04 Supplemental considerations. In addition to its review of the general criteria, the Zoning Board of Adjustment may address the following considerations and performance standards and may make such additional requirements as it deems necessary to fulfill the intent of these regulations:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "Economic benefit",
+              "paragraphs": [
+                "i. The effect of the overall economic benefit to the community shall be considered including numbers of jobs and effects on the tax rate. Such benefits shall not, however, be used to rationalize or justify waiver of any of the supplemental considerations."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Minimum lot size, width and building setbacks",
+              "paragraphs": [
+                "i. Where the Zoning Board of Adjustment determines that the minimum standard applicable to the zoning district is inadequate to avoid negative impacts to neighboring uses, it may increase the minimum requirement. This can be applied to increase setback requirements, decrease development density or increase minimum frontage requirements."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Air/water/noise/light pollution and soil erosion",
+              "paragraphs": [
+                "i. The conditional use shall not have an undue adverse effect or exceed the intrinsic or inherent capability of the land to support the use. ii. The development shall not result in groundwater or surface water pollution or cause an undue impact on air quality nor cause undue noise or light pollution or soil erosion. iii. Consideration shall be made regarding the nature of soils and topography, proximity to streams, aquifer recharge areas, groundwater table and floodplains and to stormwater runoff and drainage. Ryegate Zoning Bylaw Adopted 1.09.17 36 iv. Consideration shall also be given to the preservation, to the greatest extent possible, of the natural terrain, shorelines of lakes and streams, retention of vegetation and erosion control. v. Consideration shall be given to the impact of the pollution source on adjacent properties. vi. Landscaping plans shall include number, size, type and location of plantings. Plans shall not allow for introduction of noxious or invasive species harmful to native vegetation types. vii. The ambient air and water quality standards shall be maintained or improved and under no circumstances shall the development be allowed to create a condition hazardous to the public health, safety or welfare. viii. Hours of operation shall be compatible with existing uses in the area."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Wildlife habitat, agricultural and forest resources",
+              "paragraphs": [
+                "i. The conditional use shall be designed to the greatest extent practicable to preserve critical habitats including but not necessarily limited to deer yards, wetlands, endangered or threatened species habitats and stream and shoreline corridors. ii. The conditional use shall, to the extent feasible, preserve the viability and productivity of agricultural resources."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Off-Street vehicular parking and pedestrian traffic",
+              "paragraphs": [
+                "i. Adequate off-street parking for conditional uses must be provided where on-street parking is at, or near capacity, or nonexistent. ii. Adequacy of traffic circulation, parking and loading facilities and access to and egress from public highways must be designed with particular attention to safety of the public and employees. iii. Pedestrian and bicycle access shall be encouraged."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Lighting, signs and fences",
+              "paragraphs": [
+                "i. Lighting and fences shall be in keeping with the natural and/or historic beauty of both the town as a whole and the particular zoning district. The Zoning Board of Adjustment shall consider the size, materials and location. ii. In the interest of maintaining the rural character of Ryegate and reduction of light pollution, lighting, except that which is primarily for security purposes, will not generally be permitted for use outside of normal business hours. S603: Planned Unit Development S 603.01 Planned unit development, as authorized under 24 V.S.A. S4417 allows flexibility in the application of the town's zoning regulations in order to promote development that better conforms to the Ryegate Town Plan. Specifically, the purposes of planned unit development under this bylaw are to encourage a development which will result in:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "A choice in the types of environment and living units available to the public, and quality in",
+              "paragraphs": [
+                "residential land uses so that development will be a permanent and long-term asset to the town."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Open space and recreation areas",
+              "paragraphs": [
+                "Ryegate Zoning Bylaw Adopted 1.09.17 37"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "A pattern of development which preserves trees, outstanding natural topography and",
+              "paragraphs": [
+                "geologic features and prevents soil erosion."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "An efficient use of land resulting in smaller networks of utilities and streets",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "An environment in harmony with surrounding development",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "A more desirable environment than would be possible through the strict application of",
+              "paragraphs": [
+                "other sections of these regulations. S 603.02 Planned Unit Development is allowed in the Rural and Low Density Districts, subject to Conditional Use Approval by the Planning Commission. Upon approval of a subdivision plan pursuant to the criteria and procedures established in) of the Act, the Planning Commission is, after public notice and hearing, hereby empowered to modify the applicable density, lot size and set back, and other comparable provisions, with respect to the district in which the Planned Unit Development is located. S 603.03 Proposals for Planned Unit Development shall be submitted to the Planning Commission. The material accompanying the proposal shall contain the following:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "Required site plan shall show all buildings, parking areas, and landscaping at a scale",
+              "paragraphs": [
+                "sufficient to permit the study of all elements of the plan. All utilities shall also be shown and described. Typical elevations and floor plans of all building may also be required. In addition, the site plans shall show the adjacent building outlines and other outstanding features within 200 feet."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The application shall also state the nature of all proposed modifications, changes or",
+              "paragraphs": [
+                "supplementation of existing zoning regulations for which approval is sought. S 603.04 The predominant use of land shall not differ substantially from the uses permitted in the district in which the plan is located. In a Planned unit development, dwelling units may be multi-family. S 603.05 A Planned Unit Development shall comply with the following standards:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "Shall be at least ten (10) contiguous acres",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Off-lot water and sewer may be required when there are six or more units",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "At least 50 percent of the development shall remain as open space for common usage",
+              "paragraphs": [
+                "S 603.06 Management of open space. Designated open space areas shall be managed by the owner for its intended purpose and use, as approved by Planning Commission. The Board may require the submission of a long-term management plan for the protection and sustainable management of conserved resources. S 603.08 Protection of open space. No future subdivision or development of designated open space, as approved by the Planning Commission shall be allowed, except as incidental to its intended use."
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "Designated open space areas shall be clearly identified on the site plan or subdivision plat",
+              "paragraphs": [
+                "recorded in the town land records as \"protected open space,\" with an accompanying notation that no further subdivision or development is allowed."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "A planned unit development shall carry with it provisions, whether by deed restrictions,",
+              "paragraphs": [
+                "restrictive covenants, easements, or other appropriate legal means as approved by the Planning Commission to ensure the permanent retention of designated open space. Ryegate Zoning Bylaw Adopted 1.09.17 38"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "Flood Hazard Regulations",
+      "sections": []
+    },
+    {
+      "number": "5",
+      "title": "NON-CONFORMING USES AND NON-CONFORMING STRUCTURES",
+      "sections": []
+    },
+    {
+      "number": "7",
+      "title": "ADMINISTRATION AND ENFORCEMENT",
+      "sections": []
+    },
+    {
+      "number": "8",
+      "title": "AMENDMENTS, INTERPRETATION, EFFECTIVE DATE",
+      "sections": []
+    },
+    {
+      "number": "9",
+      "title": "DEFINITIONS",
+      "sections": []
+    }
+  ]
+}

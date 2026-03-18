@@ -1,0 +1,4047 @@
+{
+  "metadata": {
+    "municipality": "NorthHero",
+    "county": "GrandIsle",
+    "state": "Vermont",
+    "bylaw_date": "0607-20-10",
+    "source_pdf": "GrandIsle_NorthHero_Text_eff06072010.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 48,
+    "word_count": 17214,
+    "articles_found": 5,
+    "sections_found": 93,
+    "subsections_found": 231,
+    "regulation_rows": 0,
+    "list_items": 219
+  },
+  "articles": [
+    {
+      "number": "I",
+      "title": "ENACTMENT, PURPOSE AND AMENDMENTS",
+      "sections": [
+        {
+          "number": "100",
+          "title": "History",
+          "page": 4,
+          "paragraphs": [
+            "These bylaws replace the bylaws previously adopted by the Town of North Hero on June 19, 2006."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "110",
+          "title": "Enactment",
+          "page": 4,
+          "paragraphs": [
+            "In accordance with the Vermont Planning and Development Act (hereinafter referred to as the \"Act\"), 24 V.S.A. S4420, there are hereby established zoning bylaws for North Hero that are set forth in the following text and map. These bylaws shall be known as the \"Town of North Hero Zoning Bylaws\"."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "120",
+          "title": "Purpose",
+          "page": 4,
+          "paragraphs": [
+            "It is the intent of these bylaws to provide for orderly community growth and to further the purposes established in the North Hero Town Plan and in the Act."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "130",
+          "title": "Application of Bylaws",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The application of these bylaws is subject to the Act",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Except as herein provided, no land devel opment can take place nor can any land or",
+              "paragraphs": [
+                "structure, or part thereof, be occupied or used unless in compliance with the bylaws herein specified for the district in which it is located.",
+                "refers to the construction, reconstruction, conversion (i.e., seasonal use to year round use), structural alteration, relocation or enlargement of the footprint of any building or other structure, or of any mining, excavation, or landfill, and any change in the use of any building or other structure, or land or extension of the use of land.",
+                "limited to, a building, mobile home or trailer, deck, gazebo, concrete slab, billboard, sign, wall or fence. A wall or fence on an operating farm is exempt."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Land Development means the division of a parcel into two (2) or more parcels. It also",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Structure means the assembly of materials for occupancy or use, including, but not",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Any use that is not permitted by these bylaws is prohibited",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Not withstanding any other statement set forth in these bylaws to the contrary, the failure",
+              "paragraphs": [
+                "to obtain a required municipal permit including, but not limited to, any zoning, planning, subdivision, site plan, health, street or building permit, or the failure to record such certificate, is hereby waived. All development existing as of the 1 January 1990 is hereby approved with the exception of any and all sewage disposal or septic systems which are found to constitute an existing or a potential health hazard to the general health, safety, and welfare to the citizens of the Town of North Hero. Such conditions are specifically not grandfathered by the adoption of these bylaws. Said conditions must be corrected June 7, 2010 pursuant to these bylaws and any and all duly adopted regulations of the Town of North Hero."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "140",
+          "title": "Interpretation",
+          "page": 5,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Where these bylaws impose a greater restriction upon a use of a structure or land than is",
+              "paragraphs": [
+                "required by any other statute, ordinance, rule, regulation, permit, easement or agreement, the provisions of these bylaws govern."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Except, it is not the intention of these bylaws to repeal, annul or in anyway impair any",
+              "paragraphs": [
+                "permits previously issued."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "150",
+          "title": "Amendments",
+          "page": 5,
+          "paragraphs": [
+            "These regulations may be amended according to the requirements and procedures established in 24 V.S.A. S4441 and S4442."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "160",
+          "title": "Invalidation of a Provision",
+          "page": 5,
+          "paragraphs": [
+            "The invalidity of any provision of these bylaws does not invalidate any other part."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "170",
+          "title": "Effective Date",
+          "page": 5,
+          "paragraphs": [
+            "These bylaws take effect when adopted in accordance with the voting and other procedures contained in 24 V.S.A. S4442(d)."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "II",
+      "title": "ESTABLISHMENT OF ZONING DISTRICTS",
+      "sections": [
+        {
+          "number": "200",
+          "title": "Establishment of Zoning Districts",
+          "page": 5,
+          "paragraphs": [
+            "The Town of North Hero is hereby divided into the following zoning districts as stipulated in the approved Town Plan and shown on the Town Zoning Map: RURAL LANDS ONE DISTRICT RL-1 RURAL LANDS TWO DISTRICT RL-2 SHORELANDS DISTRICT SL OFF ISLANDS DISTRICT OI VILLAGE DISTRICT V"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "210",
+          "title": "Rural Lands One District (RL-1)",
+          "page": 5,
+          "paragraphs": [
+            "This district contains all those lands within North Hero requiring the most protection and is composed mainly of low swampy sections serving as cover and habitat for many forms of wildlife. These lands include but are not limited to Class 1 and Class 2 wetlands as defined by the Vermont Department of Environmental Conservation (DEC). These Lands can occur within or across all zoning districts and are subject to all regulations as defined by the DEC June 7, 2010 and typically administered through the DEC's Water Quality Division. Filling or other development is prohibited. These lands cannot be used as density reserve. This area is designated as a conservation zone."
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Subdivision. Allowed but, except for the adjustment of property lines, no parcel of land",
+              "paragraphs": [
+                "can be created which contains less than ten (10.00) acres. No development is allowed. An acre as used in these bylaws is defined as 43,560 square feet."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Permitted Uses. Subject to State limitations on:",
+              "paragraphs": [],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Fishing, hunting and trapping.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Agricultural use to include grazing and forestry.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Permitted by Conditional Use. Subject to State limitations on public use",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "220",
+          "title": "Rural Lands Two District (RL-2)",
+          "page": 6,
+          "paragraphs": [
+            "While farming is the primary use in this district, medium density residential areas, as well as recreational, commercial and light industrial usage can be approved."
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Required Building Lot Area, Dimensions and Total Required Area",
+              "paragraphs": [
+                "Minimum total area including density reserve Three (3.00) acres Consisting of the following: Minimum building lot size One and 1/2 (1.50) acres Minimum density per single family dwelling One and 1/2 (1.50) acres Minimum lot frontage One hundred (100.00) feet Minimum lot width One hundred (100.00) feet"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Permitted Uses",
+              "paragraphs": [],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Agriculture.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Forestry.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Single family dwellings.",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Home occupations. (See Section 452)",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Accessory buildings.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Permitted by Conditional Use",
+              "paragraphs": [
+                "June 7, 2010"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Two-family and multi-family dwellings.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "More than one (1) dwelling on a lot for agricultural workers.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Public buildings and uses.",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Essential services.",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Private schools, hospitals and churches.",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Commercial facilities.",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Light industrial uses.",
+                  "use_type": null
+                },
+                {
+                  "number": "8",
+                  "text": "Gasoline service stations.",
+                  "use_type": null
+                },
+                {
+                  "number": "9",
+                  "text": "PUDs.",
+                  "use_type": null
+                },
+                {
+                  "number": "10",
+                  "text": "Recreational facilities.",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "230",
+          "title": "Shorelands District (SL)",
+          "page": 7,
+          "paragraphs": [
+            "This district includes all land from the low-water mark of Lake Champlain (elevation 92.50 feet) inland for a distance of five hundred (500.00) feet."
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Required Building Lot Area, Dimensions and Total Required Area",
+              "paragraphs": [
+                "Minimum total area including density reserve Two (2.00) acres Consisting of the following: Minimum building lot size One (1.00) acre Minimum density per single family dwelling One (1.00) acre Minimum lot frontage One hundred (100.00) feet on lake Minimum lot width One hundred (100.00) feet at lake"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Permitted Uses",
+              "paragraphs": [],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Agriculture.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Single family dwellings.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Temporary piers, docks and floats that do not impede navigation.",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Home occupations (See Section 452)",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Accessory buildings.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Permitted by Conditional Use",
+              "paragraphs": [],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Public uses.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Marinas.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Commercial facilities.",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Hotels and motels.",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Youth or club camps.",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Two-family and multi-family dwellings.",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "PUDs.",
+                  "use_type": null
+                },
+                {
+                  "number": "8",
+                  "text": "Recreational facilities.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Miscellaneous:",
+              "paragraphs": [
+                "must be above elevation of 102.00 feet."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "See Section 470, Flood Hazard Areas - the lowest floor, including basement or cellar,",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "See Section 456, Marina and Yacht Clubs - for mooring requirements.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "E",
+              "title": "Shoreline Protection. To protect the natural remaining shoreline vegetation and to",
+              "paragraphs": [
+                "prevent erosion, no more than fifty (50.00) per cent of the existing live trees that are equal to or exceed four (4.0) inches in diameter may be cut within twenty-five (25.00) feet of the natural bank of the Lake over a five year period. Clear cutting is prohibited."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "240",
+          "title": "Off Islands District (OI)",
+          "page": 7,
+          "paragraphs": [
+            "This district includes several small islands: Butler, Knight, Gull, Hen, Diadama (Dameas) and Grand Ma's."
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Required Building Lot Area, Dimensions and Total Required Area",
+              "paragraphs": [
+                "June 7, 2010 Minimum total area including density reserve Two (2.00) acres Consisting of the following: Minimum building lot size One (1.00) acre Minimum density per single family dwelling One (1.00) acre Minimum lot frontage One hundred (100.00) feet on lake Minimum lot width One hundred (100.00) feet at lake"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Permitted Uses",
+              "paragraphs": [],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Single family dwellings",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Temporary use",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Temporary piers, docks and floats that do not impede navigation",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Accessory buildings",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Permitted by Conditional Use",
+              "paragraphs": [],
+              "items": [
+                {
+                  "number": "3",
+                  "text": "Public use.",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "PUDs.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Miscellaneous",
+              "paragraphs": [
+                "permanent easement or right of way not less than twenty (20.00) feet wide.",
+                "must be above elevation of 102.00 feet."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Each lot not having the required frontage on the lake must have lakeshore access by",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "See Section 470, Flood Hazard Areas - the lowest floor, including basement or cellar,",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "See Section 456, Marina and Yacht Clubs - for mooring requirements.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "E",
+              "title": "Shoreline Protection. To protect the natural remaining shoreline vegetation and to",
+              "paragraphs": [
+                "prevent erosion, no more than fifty (50.00) per cent of the existing live trees that are equal to or exceed four (4.0) inches in diameter may be cut within twenty-five (25.00) feet of the natural bank of the Lake over a five year period. Clear cutting is prohibited."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "250",
+          "title": "Village District (V)",
+          "page": 8,
+          "paragraphs": [
+            "This district is largely one and two family residences but is characterized by a mix of residential, commercial, town and recreational uses."
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Required Building Lot Area, Dimensions and Total Required Area",
+              "paragraphs": [
+                "Minimum total area including density reserve Two (2.00) acres Consisting of the following: Minimum building lot size One (1.00) acre Minimum density per single family dwelling One (1.00) acre Minimum lot frontage One hundred (100.00) feet Minimum lot width One hundred (100.00) feet"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Permitted Uses",
+              "paragraphs": [
+                "June 7, 2010"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Agriculture.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Forestry.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Single family dwellings.",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Home occupations. (See Section 452)",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Accessory buildings.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Permitted by Conditional Use",
+              "paragraphs": [],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Two-family and multi-family dwellings.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "More than one dwelling on a lot for agricultural workers.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Public buildings and uses.",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Essential services.",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Private schools, hospitals and churches.",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Commercial facilities.",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Light Industrial uses.",
+                  "use_type": null
+                },
+                {
+                  "number": "8",
+                  "text": "Recreational facilities.",
+                  "use_type": null
+                },
+                {
+                  "number": "9",
+                  "text": "PUDs.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Building Permits. Before the Administrative Officer can accept an application for a",
+              "paragraphs": [
+                "building permit in the village district, the applicant must:",
+                "showing all elevations of the proposed structure or addition. This submission must indicate the exterior materials to be used.",
+                "that the design complies with the intent of the Town Plan, along with one (1) copy of the drawing or sketch with the approval of the Development Review Board endorsed thereon."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Submit to the Development Review Board four (4) copies of a drawing or sketch",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Attach to the application one (1) copy of the Development Review Board letter stating",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "260",
+          "title": "Zoning Map and Interpretation of Boundaries",
+          "page": 9,
+          "paragraphs": [
+            "The location and boundaries of zoning districts are established as shown on the attached Zoning Map, which is part of these bylaws. Where uncertainty exists with respect to the boundary of any zoning district, the Development Review Board determines the location as indicated on the official large-scale map located in the office of the Town Clerk."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "III",
+      "title": "ADMINISTRATION",
+      "sections": [
+        {
+          "number": "310",
+          "title": "Referral to State Agencies",
+          "page": 9,
+          "paragraphs": [
+            "In accordance with 24 V.S.A. S4424(c), no zoning permits for the development of land of certain types or located in designated areas may be granted by any municipality prior to the expiration of a period of thirty (30) days following the submission of a report to the appropriate state agency."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "320",
+          "title": "Administrative Officer",
+          "page": 9,
+          "paragraphs": [
+            "The Administrative Officer is hereby designated to administer the zoning bylaws as provided for in 24 V.S.A. S4448. The Administrative Officer is appointed by the Selectboard as a municipal employee, reporting to the Planning Commission. The administrative officer is also referred to herein as the Zoning Administrator. June 7, 2010"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "322",
+          "title": "Fees",
+          "page": 10,
+          "paragraphs": [
+            "The Selectboard will establish fees for building permits, certificates of compliance, conditional use permits, land use permits, filing Notices of Appeal, public hearings, new septic systems, site plan review, subdivision of land, variances, and for any other actions. The payment of such fee is a condition to the validity of any such filing and must be paid within thirty (30) days."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "323",
+          "title": "Filing Procedures",
+          "page": 10,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Applications:",
+              "paragraphs": [
+                "the Zoning Administrator or the appropriate Board for action.",
+                "within thirty days of the receipt of the application. (See Section 323 C).",
+                "appropriate, or returned for additional information within thirty days of the receipt of the application. (See Section 323 D, E or F)",
+                "V.S.A. S4465 or 24 V.S.A. S4471."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "All applications and appeals shall be made to the Zoning Clerk who shall forward it to",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The Zoning Administrator shall approve, deny or return an application for completion",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Applications to the Development Review Board and appeals shall be warned, as is",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "The Development Review Board shall issue a finding. (See Section 323 D, E or F)",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Appeals of decisions shall be in accordance with Section 323 D, E and F, and 24",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "Terminology:",
+              "paragraphs": [
+                "payment of the appropriate fee. (See Section 322, 325)",
+                "an application to the applicant for information or fees, or approval.",
+                "meeting is recessed, the place and time must be stated. (See 24 V.S.A. S4464)",
+                "additional testimony is permitted, and which may, at the discretion of the Board, be either public or closed to the public. (See 24 V.S.A. S4461)",
+                "the property within view from the public right-of-way, and warned within 15 days prior to the public hearing. (See 24 V.S.A. S4464, See Section 325,380)",
+                "passed. (See 24 V.S.A. S4465, 4471, See Section 325)"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Application- An application will not be considered unless it is complete, including",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Action- Action on an application shall include denial, scheduling of a hearing, return of",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Continuation or recess- A hearing may be adjourned and be continued. When a",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Deliberative Session- A Board may move into deliberative session, where no",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Adjournment- A hearing is adjourned when a vote is taken.",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Public Notice- Posting notice of zoning actions in three or more places , including on",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Permit, Effective Date- Permits shall not take effect until the time for appeal has",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Zoning Administrator: The Administrative Officer is empowered to act on some",
+              "paragraphs": [
+                "applications. (See 24 V.S.A. S4448, 4449.) Action on applications is required within thirty days. If the Administrative Officer fails to act within thirty (30) days on an application for a permit, a permit is deemed issued on the thirty-first (31st) day. (See 24 V.S.A. S4448, See"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "325",
+          "title": ")",
+          "page": 10,
+          "paragraphs": [
+            "June 7, 2010"
+          ],
+          "subsections": [
+            {
+              "label": "D",
+              "title": "Development Review Board:",
+              "paragraphs": [
+                "of the date of that decision or act. (See 24 V.S.A. S4465, See Section 385) The Development Review Board shall hear the appeal within 60 days of the filing. (See 24 V.S.A. S4468, See Section 385)",
+                "a decision within 45 days of adjournment. Action on applications is required within forty-five days. The failure to act within the above time period is deemed approval on the forty-sixth day. (See 24 V.S.A. S4464)",
+                "a. Preliminary site plan application: An application for a preliminary site plan must be submitted to the Town Clerk at least fourteen days prior to any regularly scheduled meeting of the Development Review Board and must be included on the agenda. (See Section 345) b. Preliminary site plan approval: The Development Review Board must approve, modify and approve, or disapprove the preliminary site plan within forty-five (45) days after the close of the public hearing or be extended by mutual agreement of the applicant and the Development Review Board. Action on applications is required within forty-five days. The failure to act within the above time period is deemed approval on the forty-sixth day. (See 24 V.S.A. S4464, See Section 345) c. Preliminary site plan report: the Deve lopment Review Board will send out a written report to the applicant within fifteen days after the preliminary site plan review. (See Section 345) d. Final site plan submission: The applicant has six (6) months to submit a completed application for final site plan approval. (See Section 345) e. Final site plan action: The Development Review Board shall act to approve or deny a final site plan within forty-five (45) days after the close of the public hearing or be extended by mutual agreement of the applicant and the Development Review Board. Action on applications is required within forty-five days. The failure to act within the above time period is deemed approval on the forty-sixth day. (See 24 V.S.A. S4464, See Section 345) f. Final site plan recording: Filing an approved final site plan with the Town Clerk must be done within ninety days after the date of Development Review Board approval. (See Section 345)",
+                "a. Application- An application of a Conditional Use Permit and a Preliminary Site Plan or appropriate applications shall be made in accordance with the Bylaws. (See"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Appeals: An appeal of a decision of the Zoning Administrator shall be within 15 days",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Decisions, Conditional Use and Variance: The Development Review Board shall issue",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Site Plan Approval.",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Planned Unit Developments:",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "322",
+          "title": ", 325)",
+          "page": 11,
+          "paragraphs": [
+            "b. Preliminary review report: If the Development Review Board conducts a preliminary review, it must send out a written report to the applicant within fifteen (15) days. (See Section 356) c. Final site plan submission: The applicant must submit a final site plan within thirty (30) days after the close of the public hearing. (See Section 356) d. Action on a final site plan: The Development Review Board must act to approve or deny a final site plan within forty-five days after the date it received the proposed June 7, 2010 site plan. The failure to act within the above time period is deemed approval on the forty-sixth day. (See 24 V.S.A. S4464, See Section 345) e. Decisions on Conditional Uses: The Development Review Board shall issue a decision within 45 days of adjournment. Action on applications is required within forty-five days. The failure to act within the above time period is deemed approval on the forty-sixth day. (See 24 V.S.A. S4464, See Section 345)"
+          ],
+          "subsections": [
+            {
+              "label": "E",
+              "title": "Referral to State Agencies: Zoning permits for certain development may require",
+              "paragraphs": [
+                "submission of a report to the appropriate state agency and will not take effect for thirty days. (See 24 V.S.A. S4424(c), See Section 310)"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "325",
+          "title": "Building Permits",
+          "page": 12,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "No land or building development can commence, nor can any structure be altered or",
+              "paragraphs": [
+                "extended, nor any land or structure used in any way or occupied unless the Administrative Officer has issued a building permit and subsequently, a certificate of compliance. Exceptions for qualifying farm structures are covered by Section 401C."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Any owner(s) of record or a designated agent of an owner may make an application for a",
+              "paragraphs": [
+                "permit. A person must be designated in writing to be an agent within these bylaws."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "The Administrative Officer ca nnot issue a building permit unless an application, fee, site",
+              "paragraphs": [
+                "plan and any other approval or information required by these bylaws has been properly submitted."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The Administrative Officer cannot issue a building permit unless the proposed",
+              "paragraphs": [
+                "development is part of an existing valid site plan and/ or is permitted as a conditioned use, and the lots legally exist, and the use is for:"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "A one-family or subordinate dwelling unit.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Accessory buildings.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "E",
+              "title": "If, after an examination of the town records, the Administrative Officer determines that the",
+              "paragraphs": [
+                "parcel of land on which development is proposed may not comply with the zoning bylaws, the Administrative Officer shall deny the permit and refer the applicant to the Development Review Board."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "No permit issued pursuant to these bylaws takes effect until the time for appeal in 24",
+              "paragraphs": [
+                "V.S.A. S4465(a) has passed or in the event that a Notice of Appeal is properly filed. Such permit does not take effect until final adjudication of said appeal."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Each permit issued must contain a statement as to the period of time within which an",
+              "paragraphs": [
+                "appeal may be taken."
+              ],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "Within three (3) days of issuing a permit, using municipal forms, the Administrative Officer",
+              "paragraphs": [
+                "must:",
+                "(15) days from the date of issuance of the permit. June 7, 2010",
+                "Administrator within view from the public right of way most nearly adjacent to the subject property until time for appeal as described in 24 V.S.A. S4465 has passed."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Deliver a copy of the permit to the Listers of the Town of North Hero.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Post a copy of the permit in the office of the Town Clerk until the expiration of fifteen",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Post a notice of any zoning action by the Development Review Board or the Zoning",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "I",
+              "title": "All permits and certifications of compliance issued by the Administrative Officer follow the",
+              "paragraphs": [
+                "title. All permits have an automatic expiration of two (2) years from the date of issuance unless substantial work has been complete. Once expired, such permits may be reapplied for upon payment of the appropriate fee."
+              ],
+              "items": []
+            },
+            {
+              "label": "J",
+              "title": "If it is discovered that a false statement or representation has been made in the",
+              "paragraphs": [
+                "application for the permit, the Administrative Officer shall institute appropriate action as authorized by 24 V.S.A. S4452."
+              ],
+              "items": []
+            },
+            {
+              "label": "K",
+              "title": "If the Administrative Officer fails to act within thirty (30) days on an application for a",
+              "paragraphs": [
+                "permit, a permit is deemed issued on the thirty-first (31st) day."
+              ],
+              "items": []
+            },
+            {
+              "label": "L",
+              "title": "Handicap access will require a building permit for which no fee will apply",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "M",
+              "title": "In the event that the parcel being developed contains areas of RL-1 or other observed",
+              "paragraphs": [
+                "wetland areas, the Administrative Officer and/or DRB can consult with state agencies in determining if development has significant harmful impacts on wetlands. For example: The DRB may request an applicant to have setbacks from a known or suspected wetland location verified by the appropriate state agency."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "326",
+          "title": "Temporary Uses and Structures",
+          "page": 13,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Non-complying structures uses incidental to a construction project can be used only until",
+              "paragraphs": [
+                "project completion and does not require a conditional use permit. Temporary roadside stands for the sale of agricultural products do not require conditional use permits."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "All other temporary structures, except thos e specifically allowed by either an existing",
+              "paragraphs": [
+                "conditional use permit or by these bylaws, require a conditional use permit."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "327",
+          "title": "Conditional Uses",
+          "page": 13,
+          "paragraphs": [
+            "Conditional uses are those uses that may be permitted by the Development Review Board after review of 24 V.S.A. S4414 (2) and pertaining North Hero Bylaws. No permits of any nature can be issued by the Administrative Officer for any use or structure that requires a conditional use permit under these bylaws until the Development Review Board grants such approval. Any proposed conditional use shall not adversely affect:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The capacity of existing or planned community facilities",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The character of the area affected",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Traffic on roads and highways in the vicinity",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Bylaws then in effect",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Utilization of renewable energy resources",
+              "paragraphs": [
+                "June 7, 2010"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "328",
+          "title": "Certificate of Compliance",
+          "page": 14,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "For all new land development, the Administrati ve Officer will conduct site investigations to",
+              "paragraphs": [
+                "determine whether there has been compliance with the requirements of these bylaws and with any conditions imposed by Development Review Board. Should additional inspections be needed, an additional fee may be charged."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "More than one certificate of compliance may be required",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "For all new construction, after the foundations have been completed, the Administrative",
+              "paragraphs": [
+                "Officer must be contacted to verify that all setback requirements have been met. If said requirements have been met, a certificate of compliance for the foundation will be issued."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "It is unlawful to use, occupy, or permit the use or occupancy of any land or structure, or",
+              "paragraphs": [
+                "part thereof, created, erected, changed, converted (i.e., from seasonal to year round use) or enlarged in its use or structure until a certificate of compliance is issued by the Administrative Officer stating that all bylaws, regulations and imposed conditions are satisfied."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Individual septic systems shall meet the requirements of the Town's",
+              "paragraphs": [
+                "subsurface sewage disposal ordinance, if any, and all other applicable municipal and state regulations and standards. As part of the application for a Certificate of Compliance, the applicant shall provide a copy of the Installation Certificate when required under the Vermont Wastewater and Potable Water Supply Rules."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Each certificate of compliance will be recor ded in the office of the Town Clerk and one",
+              "paragraphs": [
+                "copy will be made available to the owner(s) or his/ her agent."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "329",
+          "title": "Variances",
+          "page": 14,
+          "paragraphs": [
+            "Variances for structures may be granted to property owners who are prevented from developing their properties because of restrictions of physical circumstances and applicable zoning regulations. Permitted development shall include a primary dwelling and one accessory building of not more than 600 square feet. Additional structures, including accessory structures for subordinate dwelling units, are only permitted if those structures can be developed in compliance with zoning regulations. Variances are granted by the Development Review Board under 24 V.S.A. S4469 and applicable North Hero Bylaws. Permitted development on an existing small lot under 24 V.S.A. S4412 (2) shall include a primary dwelling and one attached accessory building. Additional structures and structures related to additional uses, including subordinate dwellings, are only permitted if those structures can be developed in compliance with zoning regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "330",
+          "title": "Abandonment of Structures",
+          "page": 14,
+          "paragraphs": [
+            "June 7, 2010 Within two (2) years after a permanent or temporary structure has been either destroyed, demolished, become structurally unsafe or is no longer used for the purpose for which it was permitted, the landowner must present to the Development Review Board a plan for the removal of debris and material, along with a plan for the purpose of safeguarding the area from trespass. In the case of an expired building permit, reapplication can be made in accordance with Section 325 I. Violations will be regulated in accordance with Section 335."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "335",
+          "title": "Penalties",
+          "page": 15,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Violations of these regulations will be r egulated as prescribed in 24 V.S.A. S4451 and",
+              "paragraphs": [
+                "S4452."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "A fine, not to exceed the amount estab lished in 24 V.S.A. S4451, will be assessed for",
+              "paragraphs": [
+                "each day a violation exists."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "The owner(s) of any building, structure, lot, land or part thereof is liable for the above-",
+              "paragraphs": [
+                "specified fine where anything in violation of these bylaws is placed or exists on such building, structure, lot, land or part thereof."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "All complaints of suspected violations of these bylaws should be reported to the",
+              "paragraphs": [
+                "Administrative Officer. The officer is promptly required to investigate any reasonable complaint."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "337",
+          "title": "Filing of Land Use Permits",
+          "page": 15,
+          "paragraphs": [
+            "Within 30 days after a municipal land use permit has been issued or within 30 days of the issuance of any notice of violation, the appropriate municipal official shall:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "deliver the original or a legible copy of the municipal land use permit or notice of violation",
+              "paragraphs": [
+                "or a notice of municipal land use permit generally in the form set forth in 24 V.S.A. S1154(c) of this title to the town clerk for recording as provided in 24 V.S.A. S1154(a); and"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "file a copy of that municipal land use permit in the offices of the municipality in a location",
+              "paragraphs": [
+                "where all municipal land use permits shall be kept."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "340",
+          "title": "Subdivision",
+          "page": 15,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Subdivision is the creation of two or more lots or parcels of land from a larger parcel of",
+              "paragraphs": [
+                "land."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "All subdivisions must comply with all the general provisions of these bylaws, as well as to",
+              "paragraphs": [
+                "the specific requirements of the applicable zoning district. Modification of these provisions and requirements is allowed only under certain circumstances as detailed in Sections 350 to 356 pertaining to PUDs."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "For all subdivisions a sketch plan must be submitted in accordance with Section 345E",
+              "paragraphs": [
+                "June 7, 2010"
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Submission of a final si te plan will be in accordance with Sections 345F and G",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "No subdivision may be approved unless the streets and other required public",
+              "paragraphs": [
+                "improvements have been satisfactorily sited. In lieu of the required improvements, the Development Review Board may require an approved performance bond in an amount sufficient to cover the full cost of streets and other required public improvements on or in said streets and their maintenance for a period of two (2) years after completion."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "In the evaluation of any subdivision, the Development Review Board must verify",
+              "paragraphs": [
+                "compliance with zoning bylaws."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "The Development Review Board must, within forty-five (45) days after the close of the",
+              "paragraphs": [
+                "public hearing, approve, modify and approve, or disapprove the final site plan. This time limit may be extended only by mutual agreement of the applicant and the Development Review Board. The failure of the Development Review Board to act within the above time period is deemed approval on the forty-sixth day."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "345",
+          "title": "Site Plan Approval",
+          "page": 16,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The approval by the Development Review Board of a site plan is required for any use",
+              "paragraphs": [
+                "other than:"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "A one-family or two-family dwelling.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Accessory buildings.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Qualifying farm structures.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "In reviewing site plans, the Development Review Board may impose appropriate",
+              "paragraphs": [
+                "conditions and safeguards with respect to the adequacy of traffic access, of circulation and parking, of landscaping and screening, and to protect the utilization of renewable energy sources. It may also consider other matters specified in these bylaws."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "The Development Review Board shall act to approve or deny a site plan within forty-five",
+              "paragraphs": [
+                "days after the date it received the proposed site plan. However, the time periods for a site plan for a subdivision and PUD are governed by Sections 340G and 356G, respectively. The failure to act within the above time period is deemed approval on the forty-sixth day."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Approval of the final site plan, either by a vote of the Development Review Board or by the",
+              "paragraphs": [
+                "failure of the Development Review Board to act on the final site plan within the established time limit, expires ninety (90) days after the date of such approval if the mylar (approved final site plan) has not been duly recorded in the office of the Town Clerk. The Town Clerk cannot accept a mylar for filing or recording unless it has been marked \"Approved\" by the Development Review Board and signed by the Chairperson and one other Board member. Requirements for filing/recording are available in the office of the Town Clerk."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "A sketch plan is to be submitted for preliminary review and discussion. These reviews do",
+              "paragraphs": [
+                "not require a warned hearing but must be conducted in open session at a regularly June 7, 2010 scheduled meeting of the Development Review Board for which the preliminary review is on the Agenda. A completed application, fee payment, and a minimum of three (3) large copies and two 8 x 11 copies of the sketch plan of all presently existing features must be submitted to the Town Clerk not less than fourteen (14) days prior to any regularly scheduled meeting of the Development Review Board. The sketch plan must, at a minimum, include the following information:",
+                "means property adjacent to any and all sides of the specified property to include property separated by roads or deeded rights of way.",
+                "be created.",
+                "systems, etc. and their size, type and location relative to the property lines.",
+                "the island."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Names and addresses of the owner(s) and/or his agent.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Names of the owners of contiguous proper ties. For these bylaws contiguous property",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Date, north arrow and scale (numeric and graphic).",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Existing property lines, with rough dimensions, and the area of the subject parcel.",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Proposed property lines, with rough dimensions , and the areas of all lots or parcels to",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Significant features such as the location of wetlands, streams, etc.",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Existing structures (indicating type), public roads, deeded rights-of-way, wells, septic",
+                  "use_type": null
+                },
+                {
+                  "number": "8",
+                  "text": "Vicinity map, which is a map inset that shows the location of the subject property on",
+                  "use_type": null
+                },
+                {
+                  "number": "9",
+                  "text": "Proposed name or identifying title of parcel(s) and name of the Town.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "F",
+              "title": "Within fifteen (15) days after the prelimin ary review, the Development Review Board will",
+              "paragraphs": [
+                "send out a written report to the applicant. The applicant has six (6) months from the date of such notification to submit a completed application for final site plan approval, along with the required fee payment. The applicant will be notified in writing of the date, time and place of the warned hearing for consideration of the application. Not less than ten (10) days prior to the scheduled hearing date, the applicant must deliver three (3) large copies and two (2) 8 x 11 copies of the site plan, along with three (3) copies of a written description of the proposal to the Town Clerk. The site plan must incorporate the requirements of the sketch plan as well as the following requirements",
+                "land surveyor.",
+                "public roads, deeded rights of way, boundary and lot lines and to reproduce such lines upon the ground.",
+                "shown if parcel is located in either Shorelands District or in more than one (1) district.",
+                "each district must be calculated separately and listed. (See Section 412)."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The name, address, telephone number, license number and the seal of the licensed",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Sufficient data to readily determine the location and length of all existing and proposed",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Lots within a subdivision will be numbered in numerical order.",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Contour lines for elevation less than 102.00 feet above sea level.",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Name of zoning district where parcel is located. Boundary lines of districts must be",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "For any proposed lot located in more than one (1) zoning district, the area of the lot in",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Corner pins must be shown.",
+                  "use_type": null
+                },
+                {
+                  "number": "8",
+                  "text": "Land held in common and density reserves.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "G",
+              "title": "The Development Review Board may require that the site plan contain additional",
+              "paragraphs": [
+                "information, including but not limited to the following: June 7, 2010",
+                "Board.",
+                "more.",
+                "and peak hour traffic generation.",
+                "collection areas, septic fields, and other structures or developments to the land. June 7, 2010"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Existing topographic contours at intervals stipulated by the Development Review",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Proposed contours where the change of exis ting elevations will be two (2) feet or",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Access points on adjacent property.",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Codicils and deed restrictions.",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Proposed site development including walkways, landscaping and screening.",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Provisions for traffic access, circulation and parking, as well as estimates of both daily",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Suggested locations of buildings and structures.",
+                  "use_type": null
+                },
+                {
+                  "number": "8",
+                  "text": "Proposed improvements, including storage areas, loading dock, sewage and/or waste",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "350",
+          "title": "PUD Common Standards for a Planned Unit Development",
+          "page": 19,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The proposed development must be an effective and unified treatment of the development",
+              "paragraphs": [
+                "possibilities on the project site and make appropriate provision for the preservation of streams and stream banks, steep slopes, wet areas, soils unsuitable for development, forested areas, agricultural land and unique natural or man-made features."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The proposed development must be cons idered as a complete and unified proposal",
+              "paragraphs": [
+                "Accessory uses and buildings, parks, recreational and essential services facilities, as well as future development, must be included in the application."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "The Development Review Board may require that a reasonable percentage of the land be",
+              "paragraphs": [
+                "utilized for open space, recreation areas or necessary municipal purposes. The amount of land to be so designated must be determined on the merits, purposes and conditions of the individual application. The open space must be an integral part of the design of the whole development and not simply a tract of land to meet density requirements."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Development of the open space shall either be completed prior to the conveyance of lots",
+              "paragraphs": [
+                "or dwelling units or a satisfactory cash escrow or performance bond, in an amount determined by the Development Review Board, must be posted with the Town to insure completion of the development open space within the time stipulated."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "For all lands made available for park, recrea tion, open space or other municipal purposes,",
+              "paragraphs": [
+                "the Development Review Board, as a condition of its approval, may establish such conditions on the ownership and maintenance of such lands, as it deems necessary to assure the preservation of such lands for their intended purpose."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Design of roads must comply with the Se lectmen's specifications and be constructed",
+              "paragraphs": [
+                "logically in relation to the topography and potential future development of the area."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Parking is required and must be in compliance with Section 438 of these bylaws",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "The Development Review Board will impose such conditions as it may deem necessary to",
+              "paragraphs": [
+                "achieve the protection of shorelands as permitted by 24 V.S.A. S4414(a)."
+              ],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "The Development Review Board may, at its discretion, allow land from more than one",
+              "paragraphs": [
+                "zoning district, excluding RL-1 District, to be used to meet density requirements."
+              ],
+              "items": []
+            },
+            {
+              "label": "J",
+              "title": "If a site plan has been approved, the Development Review Board is authorized to modify",
+              "paragraphs": [
+                "the application of the zoning bylaws simultaneously with the approval of a final site plan."
+              ],
+              "items": []
+            },
+            {
+              "label": "K",
+              "title": "For further requirements see Sections 351 and 352",
+              "paragraphs": [
+                "June 7, 2010"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "351",
+          "title": "Planned Unit Development Exclusively for Residential Use",
+          "page": 20,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "As provided for in 24 V.S.A. S4417(3), Planned Unit Development for Residential",
+              "paragraphs": [
+                "development on parcels of land containing more than four (4.00) acres are permitted and may be required in RL-2, SL, OI and V zoning districts."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The purposes of this authorization are to enable and encourage flexibility of design and",
+              "paragraphs": [
+                "development of land in such a manner as to:",
+                "services and utilities."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Promote the most appropriate use of the land.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Preserve and maintain agricultural and forestry lands.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Facilitate the adequate and economical provision of roads, town and community",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Preserve the natural and scenic qualities of the open land of North Hero.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "The dwelling units permitted, may at the discretion of the Development Review Board, be",
+              "paragraphs": [
+                "of varied types, including one-family, two-family or multi-family and either attached or detached."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The permitted number of dwelling units may be increased to not more than twenty-five",
+              "paragraphs": [
+                "(25) percent beyond the number that could be permitted if the land were subdivided into lots in accordance with the zoning bylaws for that zoning district."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "The following specific standards apply:",
+              "paragraphs": [
+                "required minimum building lot."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Frontage cannot be less than two hundred (200.00) feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Building coverage of the development cannot exceed twenty (20.00) percent of the",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "352",
+          "title": "Planned Unit Development (PUD)",
+          "page": 20,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "As provided for in 24 V.S.A. S4417(12), PUDs on parcels of land containing more than",
+              "paragraphs": [
+                "four (4) acres are permitted and are required for all multiple use applications in the RL-2, SL, OI and V zoning districts."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The purpose of this authorization is to enable and encourage flexibility of design and",
+              "paragraphs": [
+                "development of land as a single entity for a variety of uses within a zoning district and the more efficient use of land."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Development must be consistent with the planning goals established in the Town Plan",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Permitted uses include:",
+              "paragraphs": [
+                "a. Associations, clubs and lodges; b. Motels, inns and hotels; c. Restaurants and lounges; d. Light manufacturing (maximum of twenty-five employees) and warehouses; e. Retail and wholesale sales and service; June 7, 2010 f. Self-service laundries; g. Professional or business offices; h. Greenhouses;"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Dwelling units in detached, semi-detached or multi-story structures.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Non-residential uses, including but not limited to:",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "I",
+              "title": "Health care facilities;",
+              "paragraphs": [
+                "j. Churches; k. Essential services; l. Accessory uses and structures; m. Recreational facilities."
+              ],
+              "items": [
+                {
+                  "number": "3",
+                  "text": "Public and private educational facilities.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "E",
+              "title": "The Development Review Board may allow a greater concentration of residential land use",
+              "paragraphs": [
+                "upon a particular section or sections of the development. Accordingly, this greater concentration on one section must be offset by a lesser concentration of residential use in another section or by an appropriate reserve of common open space on the remaining land."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Mixed uses must be so arranged as to be compatible and to insure visual and aural",
+              "paragraphs": [
+                "privacy for both residents of the development and adjoining property owners."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "The following specific standards apply:",
+              "paragraphs": [
+                "minimum building lot.",
+                "Development Review Board.",
+                "twenty-five (25) feet and be kept free of development.",
+                "effects on surrounding areas are minimized."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Frontage cannot be less than two hundred (200.00) feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Building coverage of the development cannot exceed (20.00) percent of the required",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Total coverage of all impervious surfaces will be determined and approved by the",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "A buffer zone around the boundary of t he development will be a minimum width of",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "It must be landscaped, screened or protected by natural features so that adverse",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "No unscreened exterior storage of materials or equipment is permitted.",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "356",
+          "title": "Application for Approval of a PUD",
+          "page": 21,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "For all PUDs, a sketch plan must be submitted in accordance with Section 345E",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Submission of a final site plan for a PUD will be in accordance with Sections 345 F and G",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "All PUDs require a conditional use permit",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "A service road may be required",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Both the preliminary review and all warned hearings will be conducted by the",
+              "paragraphs": [
+                "Development Review Board. June 7, 2010"
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "With the submission of the site plan and written description of the proposal, the applicant",
+              "paragraphs": [
+                "must include a statement setting forth the nature of all proposed modifications, changes or supplementations to the application of existing zoning bylaws."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "After the preliminary review, the Development Review Board, in its consideration of a",
+              "paragraphs": [
+                "conditional use permit, must also send out a written report to the applicant within fifteen (15) days."
+              ],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "The applicant must submit a final site plan within thirty (30) days after the close of the",
+              "paragraphs": [
+                "public hearing. The Development Review Board must act to approve or disapprove the final site plan within forty-five days after the date of the receipt of the final site plan. This time limit may be extended only by the mutual agreement of the applicant and the Development Review Board. The failure of the Development Review Board to act within the above time period is deemed approval on the forty-sixth day."
+              ],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "One or more certificates of compliance will be required",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "360",
+          "title": "Pre-existing Lots",
+          "page": 22,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Any lot in individual, separate and non-affilia ted ownership, as per 24 V.S.A. S4412, from",
+              "paragraphs": [
+                "surrounding properties in existence prior to the adoption of zoning bylaws in North Hero (February 1, 1972) may be developed for the purposes permitted in the district in which it is located after review by the Development Review Board, even though not complying to minimum lot size requirements, if such lot is not less than one-eighth (1/8) acre in area with a minimum width or depth dimension of forty (40.00) feet."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Any lot that was in existence prior to the adoption of zoning bylaws in North Hero",
+              "paragraphs": [
+                "(February 1, 1972) will not be considered \"merged\" with any adjoining lot if there are dwellings, either for seasonal or full-time residency, on both of said lots at the time of application and that were placed on such lots prior to February 1, 1972."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Applications for variance shall require a pre-hearing conference by the Development",
+              "paragraphs": [
+                "Review Board. Such meetings must be recorded and made public. In the pre-hearing conference, the following may be discussed: what relief is being sought, the applicable ordinances, provisions and state laws and other documents and information. Since a pre- hearing conference is not a hearing, the following restrictions may be maintained: no evidence can be taken or considered, no arguments can be made concerning points of law and no testimony can be taken."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Accessory structures for subordinate dwelling units must satisfy the requirements listed in",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "453",
+          "title": "and 376 if applicable",
+          "page": 22,
+          "paragraphs": [
+            "June 7, 2010"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "370",
+          "title": "Non-complying Uses",
+          "page": 23,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Any non-complying use which does not comply with Bylaws in existence prior to February",
+              "paragraphs": [
+                "1, 1972 may be continued indefinitely but cannot be extended in such a way as to increase the non-complying use."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "No non-complying use can be changed to another non-complying use, unless, in the",
+              "paragraphs": [
+                "opinion of the Development Review Board, the new use is in greater compliance with the zoning bylaws."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "A non-complying use, which has been abandoned, cannot thereafter be returned to such",
+              "paragraphs": [
+                "non-complying use without approval by the Development Review Board."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "A non-complying use is considered abandoned when one of the following occurs:",
+              "paragraphs": [
+                "been removed from the premises and have not been replaced by similar equipment within two (2) years."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The characteristic activity, equipment and/or furnishings of the non-complying use have",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "It has been replaced by a complying use.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "It has been changed to another use under an approved permit.",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "375",
+          "title": "Non-complying Building and Structures",
+          "page": 23,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Nothing in Section 370 is to be deemed to prevent normal maintenance or repair of a non-",
+              "paragraphs": [
+                "complying building or structure provided that such action does not increase the degree of noncompliance."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Vertical additions to non complying buildings and structures may be allowed by",
+              "paragraphs": [
+                "Conditional Use Permit as long as the additions do not extend horizontally beyond the outside of the original building or beyond the perimeter of the original structure, or as permitted by Section 503."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Additions to the foot print to any non-complying building or structure which was in",
+              "paragraphs": [
+                "existence prior to the adoption of Zoning Regulations in North Hero (February 1, 1972) may be allowed by Conditional Use Permit. The maximum area of any such addition cannot exceed the development as provided by small lot regulation 24 V.S.A. S4412 or North Hero Zoning or Section 503 - Setbacks, Reduced by Conditional Use."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "If all or part of a non-complying building or structure has been destroyed by fire or other",
+              "paragraphs": [
+                "natural causes, replacement is allowed if a building permit has been obtained and construction is started within one (1) year of such destruction. If construction has not started within the one (1) year period, a conditional use permit from the Development Review Board is required before a building permit can be issued."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "See Section 470 for regulations governing non-complying pre-existing structures in",
+              "paragraphs": [
+                "flood hazard areas. June 7, 2010"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "376",
+          "title": "Development on Small Lots",
+          "page": 24,
+          "paragraphs": [
+            "All new dwellings and additions to dwellings and any accessory structures which require a variance on pre-existing small lots as defined under 24 V.S.A. Section 4412 shall be considered under a conditional use permit. Development on such lots shall not exceed the number of structures permitted under North Hero Zoning Bylaws. See Sections 329 for permitted development and 502 for required setbacks. Accessory structures, including open porches and decks, which do not require a variance may be permitted by the Zoning Administrator."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "380",
+          "title": "Public Hearing Notice",
+          "page": 24,
+          "paragraphs": [
+            "See 24 V.S.A. S4466 for warning or notice requirements for public hearings. See also"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "323",
+          "title": "",
+          "page": 24,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "385",
+          "title": "Appeals",
+          "page": 24,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "An interested person, as defined by 24 V.S.A. S4465, may file an appeal",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Any interested person may appeal to the Development Review Board any Administrative",
+              "paragraphs": [
+                "Officer's decision or act by doing the following:",
+                "or with Town Clerk if no such secretary has been elected and filing a copy of the notice of appeal with the Administrative Officer.",
+                "or act.",
+                "the property with respect to which the appeal is taken, a reference to the regulatory provisions applicable to that appeal, the relief requested by the appellant and the alleged grounds why such requested relief is believed proper under the circumstances."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Filing a written notice of appeal with the secretary of the Development Review Board",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "This notice of appeal must be filed within fifteen (15) days of the date of such decision",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Such notice must include the name and address of the appellant, a brief description of",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Any interested person may appeal a decision of the Development Review Board to the",
+              "paragraphs": [
+                "State of Vermont Environmental Court as provided under 24 V.S.A. S4471. Notice of the appeal must be sent by mail to every interested person appearing and having been heard at the hearing before the Development Review Board. If any one or more of those persons are not then parties to the appeal, upon motion to the court, they may be granted leave to intervene."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "IV",
+      "title": "GENERAL",
+      "sections": [
+        {
+          "number": "400",
+          "title": "Interaction with Other Articles",
+          "page": 24,
+          "paragraphs": [
+            "The provisions of all other articles of these bylaws are subject to any additions, modifications or exceptions as provided by the bylaws contained in this article. June 7, 2010"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "401",
+          "title": "Miscellaneous Requirements",
+          "page": 25,
+          "paragraphs": [
+            "In accordance with 24 V.S.A. S4412, no municipality may adopt zoning bylaws that do not provide for the following:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Required frontage on or access to public roads or public waters. No land development",
+              "paragraphs": [
+                "may be permitted on lots that do not have frontage on either a public road or public waters. An exception is when the Development Review Board has approved of an access to such a road or waters by the grant of a permanent easement or right-of-way at least twenty (20.00) feet in width."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Equal treatment of housing",
+              "paragraphs": [
+                "excluding mobile homes, modular housing, or other forms of prefabricated housing from the municipality, except upon the same terms and conditions as conventional housing is excluded.",
+                "population as determined in 24 V.S.A. S4382(C) from the municipality.",
+                "home parks pursuant to Chapter 153 of 10 V.S.A."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Except as provided in 24 V.S.A. S4414(6) , no zoning bylaw shall have the effect of",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "No zoning bylaw shall have the effect of excluding housing to meet the needs of the",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "No provision of the Act shall be construed to prevent the establishment of mobile",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Subordinate dwelling units mu st satisfy the following requirements listed below and in",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "453",
+          "title": "No Bylaw shall have the effect of excluding as a permitted use one",
+          "page": 25,
+          "paragraphs": [
+            "subordinate dwelling unit that is located within or appurtenant to an owner occupied single-family dwelling. The subordinate dwelling unit shall be located in an appurtenant structure which is either contained within or attached to the dwelling, and shall mean an efficiency or one-bedroom apartment that is clearly subordinate to a single-family dwelling, and has facilities and provisions for independent living, including sleeping, food preparation and sanitation provided there is compliance with all the following: wastewater capacity, does not exceed 30 percent of the total habitable floor area of the single family dwelling, and setback, lot coverage, and parking are met. (V.S.A S4412 (1) (E)) A Conditional Use Permit is required if a subordinate dwelling requires an accessory building, an increase in height or floor area of the existing dwelling, or an increase in the parking area. (V.S.A S4412 (1) (F))",
+            "considered by right to constitute a permitted single-family residential use of property.",
+            "than six (6) persons who are developmentally disabled or physically handicapped shall be considered by right to constitute a permitted single-family residential use of property. However, no such home shall be so considered if it locates within one thousand (1,000.00) feet of another such home."
+          ],
+          "subsections": [
+            {
+              "label": "C",
+              "title": "Farm structures",
+              "paragraphs": [
+                "raising horticultural or agronomic plants, or for carrying out other practices associated with agricultural or farming practices as \"farming\" is defined in 10 V.S.A. S6001(22). However, this definition excludes a dwelling for human habitation. June 7, 2010",
+                "silvicultural practices, including the construction of farm structures, as such practices are defined by the Commissioner of Agriculture, Food and Markets or the Commissioner of Forests, Parks and Recreation, respectively, under 10 V.S.A. S1021(f) and 1259(f) and 6 V.S.A. S4810 of Vermont Statutes.",
+                "structure and shall abide by setbacks approved by the Commissioner of Agriculture, Food and Markets. No municipal permit is required for a farm structure (See 24 V.S.A. S4413(c))."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "For purposes of this section, \"farm structure\" means a building for housing livestock,",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "No plan or bylaw shall restrict accepted agr icultural or farming practices or accepted",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "A person shall notify the Zoning Administrator in writing of the intent to build a farm",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": [
+            {
+              "number": "5",
+              "text": "A state registered residential day care facilit y serving six (6) or fewer children shall be",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "A state licensed or registered residential care home or group home serving not more",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "404",
+          "title": "Public Uses",
+          "page": 26,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Existing private, commercial and some government facilities and/or uses by the public",
+              "paragraphs": [
+                "Within the community there already are churches, parish houses, parsonages, state parks and campgrounds, state highway maintenance facilities and electric and communication transmission facilities. Any of the following facilities in existence on November 6, 1990, can only be regulated with respect to size, height, bulk, yards, courts, setbacks, density of buildings, off-street parking and loading facilities and landscaping or screening requirements:",
+                "Department of Education.",
+                "been received under 10 V.S.A. S6606(a)."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Private utility power generati ng plants and transmission lines.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "State or community owned and operated institutions and facilities.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Public and private schools and other educational institutions certified by the Vermont",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Churches, convents and parish houses.",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Public and private hospitals",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Regional solid waste management facilities certified under 10 V.S.A.",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Hazardous waste management facilities for which a notice of intent to construct has",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "Changes to existing private, commercial and so me government facilities and/or uses by",
+              "paragraphs": [
+                "the public. Any change in use or extension of use of an existing facility and/or use set forth above requires a conditional use permit."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "New private, commercial and some government facilities and/or uses by the public. Any",
+              "paragraphs": [
+                "new facility and/or use may be permitted in all districts except for RL-1 upon issuance of a conditional use permit. Such facilities include the following:",
+                "all state or community owned and operated institutions and facilities; all public and private schools and other educational institutions/facilities certified by the Vermont Department of Education; and all churches, convents and parish houses.",
+                "windmills; solid waste or sewage treatment facilities; public offices; health care out- patient and detoxification facilities; training centers; shelter homes; law enforcement and judicial facilities; jails and correctional institutions; fish hatcheries; livestock and wildlife disease control centers; laboratories; marinas and ferry services; inspection stations; picnic areas, parks and campgrounds; fishing and boating access areas; June 7, 2010 housing; armories; libraries and museums; motor vehicle garages; storage depots; animal shelters; water supply and treatment facilities; senior citizen centers; and state registered or licensed day care centers.",
+                "permit, a performance bond sufficient to cover the cost of removing a structure if its use is discontinued. If the use of structure is discontinued, removal must occur within one (1) year of the discontinued use or else the performance bond will be used to cover the cost of removal."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "All private utility power generating plants, including windmills and transmission lines;",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "All radio, television and other broadc asting antennae or systems such as towers;",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "As stated in Section 130C, anything not permitted is prohibited.",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "The Development Review Board may require, as a condition of a conditional use",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "410",
+          "title": "Minimum Lot Sizes and Residential Density",
+          "page": 27,
+          "paragraphs": [
+            "The requirements for minimum lot size and maximum residential density for each of the zoning districts in the Town of North Hero are contained in Article II of these bylaws."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "411",
+          "title": "Lot Dimensions Establishment",
+          "page": 27,
+          "paragraphs": [
+            "Lot dimensions are established by frontage and width. Lot frontage is determined by the length of the boundary of a lot measured along the near edge of the established right-of-way of a state highway or town road or measured in a straight line at the natural bank of Lake Champlain. Lot width is determined by the mean (average) width between lot sidelines and measured parallel to the front boundary of the lot."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "412",
+          "title": "Calculation of Required Lot Area",
+          "page": 27,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "In calculating the required lot area or residential density both existing and proposed rights-",
+              "paragraphs": [
+                "of-way shall be included."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "In order to meet the requirements for a specific zoning district, area calculations must",
+              "paragraphs": [
+                "include only land located in that zoning district. (For exceptions relative to PUDs see"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "350I",
+          "title": ")",
+          "page": 27,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "C",
+              "title": "When a lot is made up of two or more zoning districts, the district that a majority of the lot",
+              "paragraphs": [
+                "falls within will govern the requirement for minimum required total area. Where the majority of land does not fall in any one district, the Development Review Board will determine the district that will govern the requirement for minimum required total area."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "413",
+          "title": "Calculation of Building Coverage",
+          "page": 27,
+          "paragraphs": [
+            "All principal and accessory buildings, carports, decks and both open and enclosed porches must be included in determining the percentage of building coverage of a lot. See 24 V.S.A. S4449 for further explanation. June 7, 2010"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "414",
+          "title": "Building Coverage",
+          "page": 28,
+          "paragraphs": [
+            "In all zoning districts, excluding RL-1, the maximum area permitted to be covered by buildings is twenty (20) percent of the building lot area."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "416",
+          "title": "Dwellings on a Lot",
+          "page": 28,
+          "paragraphs": [
+            "There can be only one (1) residential building on a lot. The only exceptions are the following:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Approved by the Development Review Board under a PUD, see 24 V.S.A. S4418",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "In RL-2, additional residential buildings for agricultural workers may be approved by the",
+              "paragraphs": [
+                "Development Review Board as a conditional use. The occupant of an additional dwelling unit can only be engaged in agricultural work on the premises."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "When the buildings were in existence as residences prior to February 1, 1972 and the",
+              "paragraphs": [
+                "Development Review Board has granted a conditional use permit."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "One subordinate dwelling unit is a permitted appurtenance to the primary residence",
+              "paragraphs": [
+                "Appurtenant to shall mean that the unit must be contained within and attached to a dwelling. The owner(s) shall occupy either the dwelling or subordinate dwelling. The subordinate dwelling may not exceed 30 percent of the primary dwelling. The subordinate dwelling unit may be approved by the Zoning Administrator, see Section 451. Other dwellings or kinds of dwellings on a lot must be approved under provisions of section A of this Bylaw or Section 417. If a subordinate dwelling unit requires reclassification, see Section 453, to a two-family or multi-family dwelling, the property must comply with the above regulations for lot size, density and total area and be applied for under Sections 417 or 418."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "If a subordinate dwelling unit requires reclassification, see Section 453, to a two-family or",
+              "paragraphs": [
+                "multi-family dwelling, the property must comply with the above regulations for lot size, density and total area and be applied for under Sections 417 or 418."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "417",
+          "title": "Two-Family Dwellings",
+          "page": 28,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Minimum building lot size. A two-family dwelling requires a minimum building lot size that",
+              "paragraphs": [
+                "is one and a half (1.50) times the minimum building lot size of the district in which it is located. Accordingly, in the V, SL and OI districts the minimum building lot size would be"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1.50",
+          "title": "acres and in the RL-2 district the minimum building lot size would be 2.25 acres",
+          "page": 28,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "B",
+              "title": "Minimum density. The density required for a two-family dwelling is two (2) times the",
+              "paragraphs": [
+                "density required in that zoning district. Accordingly, in the V, SL and OI districts the required density would be 2.00 acres and in the RL-2 district the required density would be 3.00 acres. June 7, 2010"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Total area required. Accordingly, the total ar ea required for a two-family dwelling in the V,",
+              "paragraphs": [
+                "SL and OI districts would be 3.50 acres and in the RL-2 district would be 5.25 acres."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "418",
+          "title": "Multi-Family Dwellings",
+          "page": 29,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "A multi-family dwelling requires a PUD",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Minimum building lot size. A multi-family dwelling requires a minimum building lot size",
+              "paragraphs": [
+                "equal to the number of units in the dwelling times one and a half (1.50) times the minimum building lot size of the district in which it is located."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Minimum density. The density required for a multi-family dwelling is the number of unit's",
+              "paragraphs": [
+                "times the density required in that zoning district."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Total area required is the sum of the required building lot plus the required density as",
+              "paragraphs": [
+                "determined in B and C above."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "420",
+          "title": "Accessory Buildings in RL-2, SL, OI and V Districts",
+          "page": 29,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "If there is no attached garage, one (1) detached one-car or two-car garage can be allowed",
+              "paragraphs": [
+                "as a conditional use if all of the following conditions are met: In addition to the primary residential dwelling and attached structures, a residential property can have only two (2) accessory buildings. Accessory buildings include storage sheds, greenhouses and other structures if approved by the Development Review Board."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "If there is no attached garage, one (1) detached one-car or two-car garage can be allowed",
+              "paragraphs": [
+                "as a conditional use if all of the following conditions are met:",
+                "storage."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Garage is for private use only.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Any attic, or other upper level, is used for no other purpose than noncommercial",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Setback regulations are complied with.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "The following structures must meet setback regulations but are not to be counted as",
+              "paragraphs": [
+                "accessory buildings:"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Dish antennae.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "A private swimming pool.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "A pump house need not comply with setback requirements and is not included in the",
+              "paragraphs": [
+                "count of accessory buildings if its above-ground dimensions do not exceed an area of sixty (60) square feet and a height of six (6) feet. However, such a structure still requires a building permit. June 7, 2010"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "422",
+          "title": "Height Limitations",
+          "page": 30,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "In all zoning districts, permitted buildings and structures are limited to a height of thirty five",
+              "paragraphs": [
+                "(35.00) feet above finish grade. Buildings and structures for agricultural use on working farms are exempt from this limitation."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Radio and television towers, water and cooling towers, oil or gas storage facilities,",
+              "paragraphs": [
+                "windmills (including those with blades less than twenty feet in diameter), chimneys or smokestacks, elevator bulkheads, rooftop solar collectors (including those less than ten feet high mounted on complying structures), and other similar structures are limited to a height of forty five (45) feet above finish grade. The Development Review Board may allow a greater height after a public hearing, if it determines that a greater height would not interfere with the health, welfare and visual character of the community nor the solar access of neighboring properties."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "All other land development shall not exceed a height of six (6) feet without first obtaining a",
+              "paragraphs": [
+                "variance from the Development Review Board."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "423",
+          "title": "Required Frontage",
+          "page": 30,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "No land development is permitted on parcels or lots that do not have frontage on a public",
+              "paragraphs": [
+                "road or public waters. The minimum frontage required for each zoning district is contained in Article II."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "With the approval of the Development Review Board, development may be permitted",
+              "paragraphs": [
+                "when there is access to such road or public waters by deeded right-of way at least twenty (20) feet in width."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "424",
+          "title": "Intersections",
+          "page": 30,
+          "paragraphs": [
+            "All driveway and right-of-way intersections with town roads must be located at least one hundred (100.00) feet from a road or highway intersection."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "426",
+          "title": "Fences",
+          "page": 30,
+          "paragraphs": [
+            "No wall, fence or shrubbery can be erected, maintained or planted on any lot in a position where it could obstruct or interfere with either traffic visibility or the vision of a motorist, cyclist or pedestrian on a highway, road or right-of-way. This restriction applies to, but is not limited to, areas on a curve or on a tangent to a curve and on a corner lot to the triangular area formed by the lot lines along the highways, roads or rights-of-way and a line connecting them at points thirty (30.00) feet from the intersection. All fences over six (6) feet require a building permit. June 7, 2010"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "430",
+          "title": "Signs",
+          "page": 31,
+          "paragraphs": [
+            "All signs or outdoor advertising must comply with the regulations on outdoor advertising of the State of Vermont and/or the Vermont State Highway limitations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "435",
+          "title": "Grading",
+          "page": 31,
+          "paragraphs": [
+            "All grading, cutting or filling done in any district must not leave a finished grade with a slope in excess of one (1.00) foot vertical on two (2.00) feet horizontal. (Also see Section 448 Removal of Soil, Shale and Other Materials)"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "436",
+          "title": "Landscaping",
+          "page": 31,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Any nonresidential use, which adjoins any residential property, must provide and maintain",
+              "paragraphs": [
+                "a landscaped area with a minimum width of twenty-five (25.00) feet between the areas being used and such adjoining properties. The Development Review Board is authorized to approve a conditional use permit reducing the width to not less than ten (10) feet."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "For PUDs, the Development Review Board will establish what landscaping, if any is",
+              "paragraphs": [
+                "required."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "437",
+          "title": "Screened Service Areas",
+          "page": 31,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Except in conjunction with one-family and tw o-family dwelling units, all areas designated,",
+              "paragraphs": [
+                "used or intended to be used as service areas for any building or land use must be screened from view from all adjacent residential properties."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Screening must extend at least five (5.00) feet above finish grade and may be a wall, a",
+              "paragraphs": [
+                "solid fence or a fence of evergreens."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "438",
+          "title": "Parking Lots (Off Road Parking)",
+          "page": 31,
+          "paragraphs": [
+            "All applications for use permits requiring parking must be accompanied by a site plan complying with the requirements of Section 345. Parking must comply with the following standards:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Parking lots must be designed so that no parking or maneuvering will be necessary on",
+              "paragraphs": [
+                "any public road or highway. Entrances and exits are to be clearly marked and comply with all public road requirements."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Parking spaces must be at least nine (9.0 0) feet by twenty-two (22.00) feet. Minimum",
+              "paragraphs": [
+                "requirements for the number of spaces to be provided are as follows:",
+                "a. One family, two family: Two spaces fo r each unit. Subordinate dwelling units: one space, or if larger than 600 square feet, two spaces. June 7, 2010 b. Multi-family dwellings: Two spaces for eac h of the first two units and one space for each additional unit. c. Professional residence/office: One (1) space plus one (1) additional space for each three hundred (300) square feet, or part thereof, of office space.",
+                "guestroom.",
+                "there are no seats, one space for each two hundred (200) square feet, or part thereof, of floor area.",
+                "used in the business plus one (1) additional space for each two hundred (200) square feet, or part thereof, of floor area.",
+                "hundred fifty (150) square feet, or part thereof, of floor area."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Residential:",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Hotels, motels, tourist homes and b oarding houses: One (1) space for each",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Places of public assembly: One (1) space for each five (5) seats, or part thereof. If",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Commercial, professional and business us es: One (1) space for each motor vehicle",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Restaurants, eating and/or drinking establishments: One (1) space for each one",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Marinas and yacht clubs: One (1) space for each mooring and/or docking berth.",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Other uses: As required by the Development Review Board.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Any new development must provide adequate screen plantings for a parking lot if it is",
+              "paragraphs": [
+                "located within twenty (20.00) feet of the line of any public road or highway. Residential and present non-complying uses are exempted."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "439",
+          "title": "Handicapped Access",
+          "page": 32,
+          "paragraphs": [
+            "Handicap access will require a building permit for which no fee will apply. (See Section 325) Handicap ramps can be exempt from setback requirements by a conditional use permit if they do not interfere with the health and safety of the community and if the ramp cannot be constructed in strict compliance with the regulations. (See Section 504)"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "440",
+          "title": "Standards for Use",
+          "page": 32,
+          "paragraphs": [
+            "In all districts, for a use to be permitted it must not:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Emit any sustained noise, odors, dust, smoke or noxious gases that endanger the health,",
+              "paragraphs": [
+                "safety or welfare of any person or that have a tendency to cause injury or damage to property, business or vegetation."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Use any lighting or signs that create a glare and could interfere with the vision of the",
+              "paragraphs": [
+                "operator of any motor vehicle or that pose an annoyance to neighbors whether on adjacent property or within sight of the source."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Present a potential for explosion, fire or any other calamity or disaster",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Discharge any harmful or hazardous wastes into any sewage disposal system or into",
+              "paragraphs": [
+                "Lake Champlain or any pond, stream, or other body of water or watercourse. June 7, 2010"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "445",
+          "title": "Uses - Not Permitted",
+          "page": 33,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The following uses are not permitted, except in an industrial district with approval of the",
+              "paragraphs": [
+                "Development Review Board and after issuance of a conditional use permit:"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Junk and machinery wrecking yards",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Bulk storage of gasoline, fuel oil, butane or propane",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The unenclosed manufacturing or processing of goods or materials.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "Although not all inclusive, the following is a list of all uses not permitted within any district:",
+              "paragraphs": [
+                "Smelters; blast furnaces; slaughter houses; rendering plants; hide tanning or curing plants; the manufacture or processing of fertilizer, bone, rubber, asphalt, ammonia, chlorine, acetylene gas, bleaching powder, animal-black, lampblack, bone-black, printing ink, disinfectant, insecticide, poison, dyestuffs, glue and gelatin where process includes refining of products from fish or animal, refuse or offal, paint, varnish, shellac, soap, acid (sulfurous, sulfuric, nitric, picric, carbolic and hydrochloric); the manufacture or refining of gas, petroleum and explosives; bulk storage of explosives; dumps (except municipally operated sanitary landfill); boiler works; truck terminals; paper or pulp mills; dry-cleaning and rug-cleaning establishments; and concrete plants."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "446",
+          "title": "Mobile Home Parks and Travel Trailer Camps and Parks",
+          "page": 33,
+          "paragraphs": [
+            "In order for mobile home parks, travel trailer parks and camps, as well as repair, sales and display facilities to be permitted, they must be approved under a PUD and comply with all state regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "448",
+          "title": "Removal of Soil, Shale and Other Materials",
+          "page": 33,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "In all districts, the removal of sod, topsoil, loam, fill, sand, shale, gravel or quarried stone",
+              "paragraphs": [
+                "is prohibited except when in connection with the construction of a building on the same lot or when related to normal agricultural procedure."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The Development Review Board is authorized to grant a conditional use permit for the",
+              "paragraphs": [
+                "removal of the above materials in the RL-2, SL and V zoning districts. C Finished Grades: Applicants to the Development Review Board must:",
+                "grades in the area from where the material is to be taken. No slope is to exceed one (1.00) foot vertical on two (2.0) feet horizontal.",
+                "rock, with a minimum of four (4.0) inches of topsoil and seed with a suitable crop cover.",
+                "Board, post a performance bond with the town of North Hero to guarantee compliance with the above rehabilitation requirements. The Development Review Board will set the amount of the bond. June 7, 2010"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Submit an acceptable plan showing both existing grades and proposed finished",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Upon completion of the operation cover the finished grades, except for exposed ledge",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Except for mining and quarrying operations, if required by the Development Review",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "450",
+          "title": "Gasoline Stations and Auto/Motor Vehicle Service Stations",
+          "page": 34,
+          "paragraphs": [
+            "The above stations, when permitted, must comply with all applicable Vermont and Federal regulations and meet the following standards:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "A gasoline station lot cannot be located within five hundred (500.00) feet of any lot",
+              "paragraphs": [
+                "occupied by a school, public building, library, hospital, or religious institution."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Minimum lot size is one and one-half (1.50) acres and both lot depth and width not less",
+              "paragraphs": [
+                "than two hundred (200) feet."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "No fuel or oil storage nor any pumps, lubricating or other service equipment can be",
+              "paragraphs": [
+                "located within fifty (50) feet of any property line."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "All motor vehicle parts, dismantled vehi cles, junk and trash must be stored within a",
+              "paragraphs": [
+                "building and no repair work can be performed outside of a building."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "There can be no more than two (2) access driveways and a suitable curbed landscape",
+              "paragraphs": [
+                "area of at least six (6.00) feet in depth is to be provided and maintained along all frontage not used by the access driveways."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "451",
+          "title": "Home Occupations and Subordinate Dwelling Units",
+          "page": 34,
+          "paragraphs": [
+            "The Zoning Administrator may approve uses for Home Occupations or Subordinate Dwelling Units. Applicants must provide signed documents to the Zoning Administrator attesting that the proposed activity meets the all of the standards described in Section 452 or 453. The Zoning Administrator may approve an application for Home Occupations or Subordinate Dwelling Units and does not require a Conditional Use Permit when the applicant provides a signed document to the Zoning Administrator attesting that the proposed activity meets all of the following standards described in Section 452 or 453. In all other cases a Conditional Use permit is required.",
+            "sales, is customary in residential areas, and does not change the character thereof, it does not require a conditional use permit when it meets the Home Occupation standards as defined in Section 452. In all other cases a Conditional Use permit is required.",
+            "all of the standards as defined in Section 453. All other dwellings on a lot must be approved under Sections 416, and 417 or 418, or are not permitted."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "If a home occupation uses a minor portion of the dwelling, does not involve retail",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "A subordinate dwelling unit whic h is appurtenant to the dwelling is permitted if it meets",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "452",
+          "title": "Home Occupations",
+          "page": 34,
+          "paragraphs": [
+            "If a home occupation uses a minor portion of the dwelling, does not involve retail sales, is customary in residential areas, and does not change the character thereof, it does not require a conditional use permit when it meets the Home Occupation standards as defined below:",
+            "June 7, 2010",
+            "additional full-time or part-time employee position that is filled by persons who are not home occupants.",
+            "properties, roads and the Lake. Such screening must extend at least five (5.00) feet above finished grade and may be a wall, a solid fence or a fence of evergreens.",
+            "neighborhood.",
+            "odors, heat or glare."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Be carried on wholly within the principal dwelling or accessory structures.",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Be carried on only by residents of the premises and not have more than one (1)",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Exterior storage of material is not permitted unless screened from view from adjacent",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Does not generate a greater volume of traffic than would normally be expected in the",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Does not cause any objectionable noise, vibr ation, smoke, dust, electrical disturbance,",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Provides \"off-street\" parking for two vehicles.",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "Does not utilize more than twenty-five (25) per cent of the total area of the structure.",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "453",
+          "title": "Subordinate Dwelling Units",
+          "page": 35,
+          "paragraphs": [
+            "One subordinate dwelling unit is permitted on a lot. Upon submission of an application which completes all of the following standards, the Zoning Administrator can issue a permit for this use. No Bylaw shall have the effect of excluding as a permitted use one subordinate dwelling unit that is appurtenant to, which shall mean that the unit must be contained within and attached to a dwelling. Attached is defined as: at least two walls of the subordinate dwelling unit must be permanently connected, above the ground, to the primary unit. A subordinate dwelling unit means an efficiency or one-bedroom apartment that is clearly subordinate to a single- family dwelling, and has facilities and provisions for independent living, including sleeping, food preparation and sanitation provided there is compliance with all the following: wastewater capacity, does not exceed 30 percent of the total habitable floor area of the single family dwelling, and setback, lot coverage, and parking are met. (V.S.A S4412 (1) (E)) A Conditional Use Permit is required if a subordinate dwelling unit requires an accessory building, an increase in height or floor area of the existing dwelling, or an increase in the parking area. (V.S.A S4412 (1) (F)) The following are standards for subordinate dwelling units:",
+            "shall mean that the unit must be contained within and attached to a dwelling. Pre- existing dwelling units on a lot, other than the primary dwelling, shall be considered pre-existing appurtenant dwelling unit(s). Floor space for the subordinate dwelling shall not exceed thirty (30) percent of the living area of the single family dwelling.",
+            "required to be submitted with the application.",
+            "sole resident of one of the dwellings. In order to maintain the subordinate use rather than to establish a non-complying or commercial high density use, the permit shall June 7, 2010 expire when the owner(s) no longer occupies, rents, or leases one of the dwelling units.",
+            "the owner(s) does not occupy one of the dwellings, the use of the subordinate dwelling unit must either be discontinued or the property must be reclassified, under a separate permit, as PUD, a Two-Family Dwelling, or a Multi-Family Dwelling, see Sections 352, 417, or 418.",
+            "not an occupant, the subordinate dwelling would be eligible for consideration as a Two Family, or Multi-Family Dwelling, the application shall include information relating the lot to the requirements for lot size, density and total acreage required for future consideration for two or multi-family dwellings."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "The subordinate dwelling unit must be appurtenant to the dwelling. Appurtenant to",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "The application must show sewage capacity. A state permit or written waiver is",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "The application must provide a site plan which shows all structures on the lot.",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "The application must show parking to comply with Section 438.",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "The application must be accompanied by a statement describing use of each building.",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "The application shall indicate the name of the owner(s) who must be the full-time and",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "Owner occupancy shall be a condition of any permit from the Zoning Administrator. If",
+              "use_type": null
+            },
+            {
+              "number": "8",
+              "text": "As an advisory to applicants, information showing if, in the event that the owner(s) is",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "454",
+          "title": "Hotels and Motels",
+          "page": 36,
+          "paragraphs": [
+            "The land requirement for motels and hotels is governed by the Act 250 Regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "456",
+          "title": "Marina and Yacht Clubs",
+          "page": 36,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "More than two (2) moorings and/or docking berths is considered to be either a marina or a",
+              "paragraphs": [
+                "yacht club.",
+                "rental of boats and/or the sale or rental of moorings or docking berths.",
+                "benefit of members or associates. The land may be held or controlled by either an individual or a business entity."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "A marina is a business or place whose purpose is the sale, servicing, launching, or",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "A yacht club is a facility similar to a marina but operated on a non-profit basis for the",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "Marinas and yacht clubs must comply with all the regulations governing the shorelands",
+              "paragraphs": [
+                "district and require a shoreline of not less than one hundred (100.00) feet, which entitles them to a total of ten (10) moorings and/or docking berths. For each additional ten (10.00) feet of shoreline, one (1) additional mooring or docking berth may be permitted by conditional use."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Marinas and yacht clubs must:",
+              "paragraphs": [],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Provide a minimum of two (2) toilets for use by customers, members or associates.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Have an on-shore, on premises holding tank for receiving boat sewage.",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "458",
+          "title": "Public Utility Substations",
+          "page": 36,
+          "paragraphs": [
+            "When permitted, public utility substations and similar utility structures must comply with the following requirements:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The facility is to be surrounded by a fence set back from the property lines in compliance",
+              "paragraphs": [
+                "with the setbacks required in the district in which it is located. June 7, 2010"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "A landscaped area at least twenty (20.00) feet wide is to be maintained on all sides of the",
+              "paragraphs": [
+                "facility."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "460",
+          "title": "Storage of Flammable Liquids",
+          "page": 37,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Above ground storage of flammable and combustible liquids in tanks with a capacity of",
+              "paragraphs": [
+                "more than five hundred fifty (550) gallons or of liquefied petroleum gas in tanks with a capacity of more than five hundred (500) gallons is prohibited without a conditional use permit."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "All tank installation must comply with all applicable Vermont and Federal regulations",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "462",
+          "title": "Swimming Pools",
+          "page": 37,
+          "paragraphs": [
+            "Swimming pools, both public and private, must be installed and maintained to meet the requirements of the State health code. A swimming pool requires a building permit and is subject to all regulations for the district in which it is located. Private pools are not counted as accessory buildings."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "464",
+          "title": "Travel Trailers",
+          "page": 37,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "A travel trailer is designed for short-term occupancy. As used in these bylaws, the term \"travel trailer\"",
+              "paragraphs": [
+                "also includes but is not limited to a camper trailer, motor home, recreational vehicle, tent trailer and truck camper."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The owner(s) of a travel trailer may store it on his/her own property, as inconspicuously as possible, and",
+              "paragraphs": [
+                "in accordance with the setback requirements for the specific zoning district."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "A legally registered travel trailer designed and manufactured for recreational camping uses, may be",
+              "paragraphs": [
+                "stored or parked on a developed residential lot provided it meets the following requirements: a. It shall not be permanently attached to the land. b. It shall not be occupied for residential use while on the lot. c. It shall not be attached to a septic system d. There shall not be more than two such units on a lot. e. Such use shall not conflict with any provision of this Regulation."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "A legally registered travel trailer designed and manufactured for recreational camping uses, may be",
+              "paragraphs": [
+                "placed on an undeveloped lot and used for limited seasonal occupancy provided it meets the following requirements: a. It shall not be permanently attached to the land. b. It may be occupied seasonally (for not more than a total of 180 days between May 1 and November 30 and no more than 60 days between November 1 and May 31) if it is hooked up to a water supply and a legally existing septic syst em that has been cont inuously used for that purpose, or a system approved under these regulations. c. There shall not be more than one such unit on a lot. d. Such use shall not conflict with any provision of this or other applicable regulations. June 7, 2010"
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "A legally registered travel trailer designed and manufactured for recreational camping purposes, may be",
+              "paragraphs": [
+                "placed on an undeveloped lot and used for recreational camping purposes, only, provided it meets the following requirements: a. It shall not be permanently attached to the ground b. It may be occupied for recreational camping purposes, only, for not more than a total of 45 days between May 1 st and November 30th if it is not hooked up to a water supply or septic system. c. It has a self contained storage tank for waste water, which is either emptied off site in an approved disposal facility or the owner and occupant enters into a service contract with an approved hauler for collection and disposal off site in an approved facility, OR, an approved self contained porta-let is provided on site and the owner or occupant enters into a service contract with an approved hauler for collection and disposal off site in an approved facility d. There is not more than one unit on a lot. e. Such use does not conflict with any provision of this or any other applicable regulations."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Any travel trailer usage on private property for commercial purpose or gain is regulated as stated in",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "446",
+          "title": "",
+          "page": 38,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "470",
+          "title": "Flood Hazard Areas",
+          "page": 38,
+          "paragraphs": [
+            "This section, which is based upon both 24 V.S.A. S4424 and Federal requirements, applies to all areas of the town below the elevation of 102.00 feet on the National Geodetic Vertical Datum and established as the one hundred year flood level."
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "All land development, including the placement of clean fill, in flood hazard areas requires",
+              "paragraphs": [
+                "a conditional use permit from the Development Review Board."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Applications to the Development Review Board must include a site plan containing the",
+              "paragraphs": [
+                "information as required in Section 345F and G and an explanation of any flood proofing measures to be taken."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Upon receipt of any completed application, the Administrative Officer must promptly send",
+              "paragraphs": [
+                "one copy to the Vermont Agency of Natural Resources. No permit may be issued for such application until the expiration of thirty (30) days following such transmittal or the agency delivers comment on the application."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The Development Review Board will determi ne if the proposed land development is",
+              "paragraphs": [
+                "reasonably safe from flooding and meets these minimum standards:",
+                "damage.",
+                "Where necessary, excavation, fill and shoreline protection work should be designed and will be completed in a manner to minimize failure of banks, erosion and turbidity in adjacent waters. June 7, 2010",
+                "damage.",
+                "anchoring to prevent flotation, lateral movement or collapse."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "All necessary State and Federal permits have either been received or applied for.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "All subdivision and other development proposals are designed to minimize flood",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Insofar as possible and reasonable, existing shoreline vegetation will be retained.",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "All construction is designed to utilize mate rials and utility equipment resistant to flood",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "The design utilizes methods and practices that minimize flood damage, including",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Adequate surface drainage is provided to reduce exposure to possible flood damage.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "E",
+              "title": "All new construction of or substantial impr ovement to any residential structure must have",
+              "paragraphs": [
+                "the lowest floor, including the basement or cellar, above elevation 102.00 Feet."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "All new construction of or substantial im provement to any nonresidential structure must",
+              "paragraphs": [
+                "have the lowest floor, including the basement or cellar, either:",
+                "registered professional engineer or architect stating that the structure and attendant utility and sanitary facilities are/will be flood-proofed watertight and the walls are capable of resisting hydrostatic and hydrodynamic loads and the effects of buoyancy."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Above an elevation of 102.00 Feet, or",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Flood-proofed to above an elevation of 102.00 feet with certification from either a",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "G",
+              "title": "All new construction and substantial improvements with fully enclosed areas, below the",
+              "paragraphs": [
+                "lowest floor areas, that are subject to flooding must be designed to automatically equalize hydrostatic flood forces on exterior walls by allowing for the entry and exit of floodwaters. Designs must either be certified by a registered professional engineer or architect or meet the following criteria:",
+                "square Inch for every square foot of enclosed area subject to flooding.",
+                "grade.",
+                "provided that they permit the automatic entry and exit of floodwaters."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Provide a minimum of two (2) openings with a total net area of not less than one (1.00)",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The bottom of all openings must be no higher than one (1.00) foot above finished",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Openings may be equipped with screens, louvers, valves or other coverings or devices",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "H",
+              "title": "Structures must be constructed with electrical, plumbing, heating, ventilation and air-",
+              "paragraphs": [
+                "conditioning equipment, services, circuits, equipment, appliances and other facilities that are designed and/or located so as to prevent water from entering or accumulating within the components during flood conditions."
+              ],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "All new and replacement water supply systems must be designed to minimize or prevent",
+              "paragraphs": [
+                "infiltration of floodwaters."
+              ],
+              "items": []
+            },
+            {
+              "label": "J",
+              "title": "All new and replacement waste disposal systems must be located to avoid damage or",
+              "paragraphs": [
+                "contamination during flooding."
+              ],
+              "items": []
+            },
+            {
+              "label": "K",
+              "title": "Mobile homes must comply with all other requirements of these regulations and also be",
+              "paragraphs": [
+                "anchored to resist flotation, collapse, and/or lateral movement. The anchorage must be designed and certified by a registered professional engineer or architect."
+              ],
+              "items": []
+            },
+            {
+              "label": "L",
+              "title": "Pre-existing non-complying structures (those in existence prior to February 1, 1972) are",
+              "paragraphs": [
+                "regulated as follows: June 7, 2010",
+                "section. Substantial improvement means any repair, reconstruction or improvement, the cost of which equals or exceeds fifty (50) percent of the market value of the structure either before the improvement or repair is started or if the structure has been damaged and is being restored, before the damage occurred.",
+                "a. Normal continuation and maintenance. b. Any improvement solely required for the purpose of and necessary to complying with any safety, health, environmental or energy codes, laws or regulations and providing that reasonable efforts are taken to comply with the requirements of this sub-section. c. Any improvements solely required for maintaining the structural integrity and historical significance of a building or place on the National Register or the Vermont Inventory of Historic Places. June 7, 2010"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Substantial improvements may be permitted if they meet the requirements of this",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Nothing in this sub-section shall prevent the following:",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "M",
+              "title": "The Administrative Officer must maintain records of:",
+              "paragraphs": [
+                "new construction and substantial improvement of structures and whether or not such structures have basements or cellars."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The elevation above sea level of the lowest floor, including basement or cellar, of all",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The elevation above sea level to which such structures have been flood-proofed.",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "476",
+          "title": "Deeded Access to the Lake (Shorelands District)",
+          "page": 41,
+          "paragraphs": [
+            "In order to prevent water pollution and to conserve the scenic beauty of shorelands, the use of shorelands district property as deeded access for others to Lake Champlain is permitted only with Development Review Board approval and is also subject to this section. This restriction and these bylaws also apply to property that is to be held in common ownership for access to the lake. There is no requirement for lake access in any subdivision. In order to grant deeded access, the following are required:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Minimum lot size allowed to grant deeded access:",
+              "paragraphs": [],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Total required area One (1.00) acre",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Lot frontage on lake One hundred (100.00) feet",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Lot Width One hundred (100.00) feet",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "The grantee is prohibited from constructing or maintaining the following:",
+              "paragraphs": [],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Buildings or structures.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Dockage, other than required, to aid in boat launching.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "More than two (2.0) moorings per lot.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "On-site parking as required by the Development Review Board",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "To protect the natural remaining shoreline vegetation and to prevent erosion, no more",
+              "paragraphs": [
+                "than fifty (50.00) per cent of the existing live trees that are equal to or exceed four (4.0) inches in diameter may be cut within twenty-five (25.00) feet of the natural bank of the Lake over a five year period. Clear cutting is prohibited."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "480",
+          "title": "Wastewater System (Septic) and Potable Water Supply",
+          "page": 41,
+          "paragraphs": [
+            "All wastewater systems and potable water supplies are governed by the State rules and regulations, specifically 1 V.S.A. of the State Environmental Protection Rules. Local regulations of a stricter nature may be imposed."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "490",
+          "title": "Storage of Seasonal Vehicles and Equipment",
+          "page": 41,
+          "paragraphs": [
+            "Seasonal vehicles and equipment should be stored inconspicuously from the roadway so as to prevent visibility and setback requirements must be met. June 7, 2010"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "V",
+      "title": "SETBACKS",
+      "sections": [
+        {
+          "number": "500",
+          "title": "General Setback Information",
+          "page": 42,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "All land development is subject to the setbacks contained herein unless specifically",
+              "paragraphs": [
+                "exempt by these bylaws. For a definition of \"land development\" see Section 130B1 of these bylaws."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "In all instances, building setbacks are to be measured from the near edge of established",
+              "paragraphs": [
+                "rights-of-way for both state highways and town roads, from the near edge of a deeded right-of-way, from the natural bank of Lake Champlain, or from a property line."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "The required setbacks from state highways, town roads and from Lake Champlain take",
+              "paragraphs": [
+                "precedence over any other requirements contained in these bylaws."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "In the SL and OI districts, on all lots having one hundred (100.00) feet or more frontage on",
+              "paragraphs": [
+                "Lake Champlain, the front property line is deemed to be the lake front. In all other instances, the front property line is deemed to be that property line adjoining the highway, road or right-of-way used for access to the lot."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "In RL-2 and V districts, the front property line is deemed to be that property line adjoining",
+              "paragraphs": [
+                "the highway, road or right-of-way used for access to the lot."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "501",
+          "title": "Projection into Setbacks",
+          "page": 42,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "All setbacks established by these bylaws must be entirely free of land development other",
+              "paragraphs": [
+                "than the following:",
+                "into any required setback.",
+                "not more than eight (8.0) inches into any required setback."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Cornices, eaves, bay windows and oriels may project no more than three (3.00) feet",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Sills, leaders (downspouts), belt courses and similar ornamental features may project",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Chimneys, stacks and flues may project not more than two (2.00) feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "An open balcony or fire escape may project not more than four (4.00) feet.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "These requirements do not apply to retaining walls, steps and fences that do not exceed",
+              "paragraphs": [
+                "four (4.00) feet in height. A conditional use permit can be granted if the Development Review Board feels that additional height is necessary."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "502",
+          "title": "Setback Requirements",
+          "page": 42,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "From a state highway One hundred (100.00) feet",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "From a town road Seventy-five (75.00) feet",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "From Lake Champlain Seventy-five (75.00) feet",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "From side & rear property lines Twenty-five (25) feet",
+              "paragraphs": [
+                "June 7, 2010"
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "From a deeded right-of-way:",
+              "paragraphs": [],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Front only- Fifty (50.00) feet",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Side and rear- Twenty-five (25.00) feet",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "F",
+              "title": "Subdivision access roads must meet the 25 foot side setback for a deeded right of way",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "From any designated Class 1 or Class 2 wetland area. Setback shall be defined by",
+              "paragraphs": [
+                "Vermont Department of Environmental Conservation."
+              ],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "For pre-existing non-confo rming lots only, the Administrative Officer may grant a 10'",
+              "paragraphs": [
+                "minimum setback for one accessory structure when all of the following can be satisfied:",
+                "structure measuring at least 8'."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Setback is from side and/or rear property lines only",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The proposed structure is less than or equal to 150 SF with one side of the",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Administrative Officer conducts a site visit",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "No other variance or conditional use is required",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "503",
+          "title": "Setbacks Reduced by Conditional Use",
+          "page": 43,
+          "paragraphs": [
+            "It is the intention of these regulations to preserve and continue existing development patterns. Accordingly, if existing buildings within Two Hundred (200.00) Feet of the proposed building or on adjacent properties have setbacks less than required by Section 502, or if the lot is an existing small lot as defined by 24 V.S.A. S4412, the Development Review Board is hereby authorized to grant a Conditional Use Permit reducing the required setback as described in this section. Provisions of this bylaw shall not be used for a lot with more than one dwelling or on lots with accessory structures which exceed the number allowed by the Bylaws."
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The applicant for the conditional use reduction of a building setback shall submit a",
+              "paragraphs": [
+                "detailed drawing showing the location of existing buildings, driveways and rights of way, water, and sewage on the lot, the lot dimensions, and all other buildings within Two Hundred (200.00) Feet of to the proposed structure including those on adjacent properties. The detailed drawing should identify other information that the Board shall request. In determining a setback to be reduced by Conditional Use, the Development Review Board shall consider topography, lot configuration, reasonable use of the property, the location or proposed placement of the dwelling and other buildings on the applicant's property, septic and water systems, visual access to the lake, and established vegetation, character of the area including development on neighboring properties, and the minimum variance that will afford relief and the least deviation possible from the applicable zoning regulation. June 7, 2010 Structures conditioned under this provision shall be considered Noncomplying and Noncomplying structures and may not be changed, except as provided under Section 375, or except by application for a new conditional use permit."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "For a setback to the front of a dwelling to be reduced by Conditional Use, the front most",
+              "paragraphs": [
+                "portion of such existing buildings are to be connected by a line which then establishes the minimum setback that can be granted. If, within Two Hundred Feet, there are existing buildings on only one side of the proposed building, the line shall be drawn from the front most portion of said existing building to a point located at the required Front Setback on the Side Property Line away from said building. No portion of the proposed building can be located in front of said line, nor closer than Twenty-five (25.00) Feet to the Front Property Line."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "For a setback for an addition to a dwelli ng to be reduced by Conditional Use, the",
+              "paragraphs": [
+                "Development Review Board may establish setbacks for an addition to a structure by extending the lines of the existing dwelling to establish a setback in the following ways: A lateral addition to a structure could be extended along the line established by a side of the dwelling. The front of a structure can be used to establish the front setback to allow an addition to the rear of a dwelling. The Development Review Board shall not vary two setbacks at the same time (i.e., side and front)."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Setback for Small Lots. The Conditional Use permit shall establish a development",
+              "paragraphs": [
+                "window that shall establish setbacks and which will enable further development without an additional Conditional Use hearing if conditions attached are unchanged. Provisions of this bylaw shall not be used for a lot with more than one dwelling."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "For a setback for an accessory structure to be reduced by Conditional Use, the",
+              "paragraphs": [
+                "Development Review Board may establish setbacks for accessory buildings of less than 150 square feet."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "For a setback for open decks to be reduced by Conditional Use, decks may be permitted",
+              "paragraphs": [
+                "which shall have as a condition that the deck shall be kept open without a roof and that the deck shall not project beyond the natural bank."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "504",
+          "title": "Exceptions to Setbacks",
+          "page": 44,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Pump houses complying with Section 420C are exempt from setback requirements",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "One (1) set of stairs and landings will be a llowed for access to the lake and is exempt",
+              "paragraphs": [
+                "from setback requirements. No landing can exceed thirty-two (32.00) square feet in area. June 7, 2010"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Handicap ramps can be exempt from setback requirements by a conditional use permit if",
+              "paragraphs": [
+                "they do not interfere with the health and safety of the community and if the ramp cannot be constructed in strict compliance with the regulations."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "See Section 401C for those farm structures exempt from these bylaw setbacks",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "505",
+          "title": "Setbacks for Wastewater (Septic) Systems",
+          "page": 45,
+          "paragraphs": [
+            "The inspection of wastewater systems is required to protect the health and safety of the public and to maintain the clean waters of the State of Vermont. Setbacks for wastewater systems should be in accordance with 1 V.S.A. S503 of the State Environmental Protection Rules. June 7, 2010 Reference Section abandonment of structures 330 accessory buildings 420 access road set back, subdivision 502 action on a final site plan 323 administrative officer 320 amendments 150 antennae, broadcasting 404 appeal, Zoning Administrator 385 appeal, Development Review Board 385 appeal, Development Review Board 385 appeals 385 application of bylaws 130 application 323 application, PUD approval 356 balcony, setback exception 501 boating access 404 building coverage 414 building coverage, maximum 414 building coverage, percentage 413 building permit issuance 325 building permits 325 buildings noncomplying 375 calculation of building coverage 413 calculation of required lot area 412 campgrounds 404 certificate of compliance 328 change of use 130 chimneys, setback exception 501 complaints 345 conditional uses 327 conditions reduced setback 503 continuation 323 conversion, year round use 328 cornices, setback exceptions, 501 correctional institutions 404 day care centers 404 decisions, Development Review Board 323 decisions, Development Review Board 323 deeded access lot size 476 deeded access parking 476 deeded access structures 476 deeded access to lake 476 deliberative session 323 density residential 410 density residential 412 designated agent 325 development on small lots 376 dimensions, lot, calculation 411 disease control centers 404 dish antennae 420 district, off islands 240 district, rural lands one 210 district, rural lands two 220 district, shorelands 230 Reference Section district, village 250 drinking water supply 480 dwellings on a lot 416 earth removal 448 eaves, setback exceptions, 501 effective date 170 enactment 110 equipment storage 490 establishment of zoning districts 200 exceptions to setbacks 504 facilities community 404 facilities, public, changes 404 facilities, public, new 404 failure to act 323 failure to act, DRB 340 failure to act, PUD 356 failure to act, ZA 325 farm structures 423 fees 322 fence 426 fence, shrubbery 426 fences 426 fences, setbacks exception 501 ferry services 404 filing of land use permits 337 filing procedures 323 final site plan action 323 final site plan recording 323 final site plan submission 323 fire escape, setbacks exception 501 fish hatcheries 404 fishing access 404 flood hazard areas 470 frontage required 401 frontage, deeded r.o.w. 423 frontage, lake as front property 500 frontage, public water 423 frontage, required 423 frontage, road as front property 500 frontage, road 423 fuel storage 445 gas station oil storage 450 gas station 450 gasoline stations 450 general setback information 500 grade slope 422 grades, finished 448 grading 435 group home 401 handicap access 439 handicap access 325 June 7, 2010 Reference Section handicap setback exceptions 504 handicapped access 439 health 440 height limitations 422 height limitations, exceptions 422 highway setback 502 history 100 home occupations 451 home occupations 452 hospitals 404 hotels and motels 454 inspection stations 404 interaction with other articles 400 interpretation of boundaries 260 interpretation of bylaws 140 intersections 424 invalidation of a provision 160 judicial facilities 404 junk yards 445 laboratories 404 lake setback 502 land development 130 landscaping 436 landscaping, nonresidential 436 landscaping, required 436 law enforcement 404 libraries 404 lighting 440 lot area, r.o.w. 412 lot area, 412 lot dimension calculation 411 lot frontage 411 lot size 410 lot width 411 lots, multiple district 412 lots, pre-existing 360 manufacturing processing 445 marina and yacht clubs 456 marina 456 marina, definition 456 marinas 404 medical, parking 404 minimum lot sizes 410 minimum residential density 410 miscellaneous requirements 401 mobile home parks 446 motels 454 motor vehicle garages 404 multi-family dwelling density 418 multi-family dwelling lot size 418 multi-family dwellings 418 museums 404 Reference Section non-complying structures 375 non-complying uses 370 off islands district 240 off road parking 438 office, parking 438 owner(s) of record 325 parking lot, set back 438 parking lots 438 parking, hotel 438 parking, marina 438 parking, multi-family dwelling 438 parking, off road 438 parking, public assembly 438 parking, residential 438 parking, restaurants 438 parks 404 penalties 335 performance bond 404 permit effective date 323 picnic areas 404 potable water supply 480 power facilities 404 pre-existing development 130 pre-existing lots 360 preliminary review report 323 preliminary site plan application 323 preliminary site plan approval 323 preliminary site plan report 323 projection into setbacks 501 property lines setback 502 public hearing notice 380 public notice 323 public notice 325 public notice 380 public use 404 public utility substations 458 PUD 352 PUD, application for 356 PUD, common standards 350 PUD, conditional uses 323 PUD, final site plan Action 323 PUD, final site plan submission 356 PUD, preliminary review report 323 PUD, residential use 351 pump house 420 pump house, setback 504 purpose 120 referral to State agencies 310 religious facilities 404 removal of materials 448 removal of shale 448 removal of soil 448 June 7, 2010 Reference Section repairs 375 replacement 375 required frontage 423 residences on a lot 416 residences, agricultural 416 residences, appurtenant 416 residential day care facility 401 residential density 410 residential right of way 412 right-of-way setback 502 rural lands one district 210 rural lands two district 220 seasonal to year round, change 130 schools, certified 404 screened service areas 437 screening, service areas 436 septic systems 328 septic systems 505 service stations 450 setback requirements 502 setback, by conditional use 503 setback, rear 502 setback, reduced 503 setback, reduced, application 503 setback, reduced, limitations 503 setback, town road 502 setbacks, lake 500 setbacks, measured 500 setbacks, property line 500 setbacks, reduced 503 setbacks, right-of-way 500 setbacks, septic systems 505 setbacks, side 502 shelter homes 404 shorelands district 230 shoreline vegetation protection 476 signs 430 sills, setback exceptions, 501 site plan 345 site plan, approval 345 site plan, requirements 345 small lot, development on 376 small lot, reduced setback 503 special public use exceptions 404 specific standards 352 stairs setback exceptions 504 standards for a PUD 350 standards for use 440 state facilities 404 state highway, setback 502 Reference Section steps, setbacks exception 501 storage of flammable liquids 460 storage of seasonal equipment 490 storage of seasonal vehicles 490 structure 130 structures 326 structures, accessory, garage 420 structures, attached 420 structures, exceptions 420 structures, maximum 420 structures, noncomplying 375 structures, subordinate dwelling 453 subdivisions 340 access road set back, subdivision 502 subordinate dwelling units 451 subordinate dwelling units 453 swimming pool 420 swimming pools 462 temporary structures 326 temporary uses 326 town road setback, 502 training centers 404 travel trailer 464 travel trailer, camps and parks 446 travel trailer, setback 464 travel trailer, storage 464 travel trailer, use 464 two-family dwelling 417 two-family dwelling, density 417 two-family dwelling, lot size 417 uses not permitted 445 uses, noncomplying 370 variances 329 vegetation 470 vehicle storage 490 vertical additions 375 village district 250 wall 426 walls, setbacks exception 501 waste, discharge 440 waste, facilities 404 wastewater systems 480 wastewater systems 505 water facilities 404 windmills 404 yacht clubs 456 year round, change to 130 Zoning Admin, Appeal hearing 323 Zoning Admin, Appeal of 385 zoning map, boundaries 260"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    }
+  ]
+}

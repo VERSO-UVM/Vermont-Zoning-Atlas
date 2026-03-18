@@ -1,0 +1,1432 @@
+{
+  "metadata": {
+    "municipality": "Glastenbury",
+    "county": "Bennington",
+    "state": "Vermont",
+    "bylaw_date": "0715-20-21",
+    "source_pdf": "Bennington_Glastenbury_Text_eff07152021.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 25,
+    "word_count": 8706,
+    "articles_found": 1,
+    "sections_found": 112,
+    "subsections_found": 0,
+    "regulation_rows": 0,
+    "list_items": 51
+  },
+  "articles": [
+    {
+      "number": "",
+      "title": "",
+      "sections": [
+        {
+          "number": "1",
+          "title": "- DEFINITIONS 1",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2",
+          "title": "- DISTRICTS 1",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.1",
+          "title": "Zoning Districts 1",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.2",
+          "title": "Zoning Map 1",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.3",
+          "title": "Zoning of Roads 1",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.4",
+          "title": "Land Under Water 1",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.5",
+          "title": "Interpretation of Zoning Map 1",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3",
+          "title": "- GENERAL REGULATIONS 2",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.1",
+          "title": "Compliance With Bylaws 2",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.2",
+          "title": "Dimensional Requirements 2",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.3",
+          "title": "Use Regulations 2",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.4",
+          "title": "Administrative Requirements 2",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.5",
+          "title": "Required Notification to Vermont Department of Water Resources 2",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.6",
+          "title": "Approval of Conditional Use 3",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4",
+          "title": "- FOREST #1 DISTRICTS 3",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.1",
+          "title": "Purpose 3",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.2",
+          "title": "Permitted Uses in F1 Districts 3",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.3",
+          "title": "Conditional Uses in F1 Districts 4",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.4",
+          "title": "Dimensional Requirements - F1 Districts 6",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5",
+          "title": "- FOREST #2 DISTRICTS 6",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.1",
+          "title": "Purpose 6",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.2",
+          "title": "Permitted Uses in F2 Districts 6",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.3",
+          "title": "Conditional Uses in F2 Districts 7",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.4",
+          "title": "Dimensional Requirements - F2 Districts 7",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6",
+          "title": "- PLANNED UNIT DEVELOPMENT (PUD) 7",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.0",
+          "title": "Purpose 7",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.1",
+          "title": "Where Permitted 8",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.2",
+          "title": "Permitted Uses in PUD 8",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.3",
+          "title": "Density of Occupied Units 8",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.4",
+          "title": "Site Development Plan Approval, Public Hearing 8",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.5",
+          "title": "Dimensional Requirements 8",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.6",
+          "title": "Sewage Disposal 9",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.7",
+          "title": "Utilities 9",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.8",
+          "title": "Open Space Requirements 9",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.9",
+          "title": "Community Association 9",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.10",
+          "title": "Open Space Ownership 9",
+          "page": 2,
+          "paragraphs": [
+            "PAGE"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7",
+          "title": "- SPECIAL REGULATIONS 10",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.1",
+          "title": "Nonconforming Uses and Noncomplying Structures 10",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.2",
+          "title": "Protection of Streams, Drainageways, and Wetlands 11",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.3",
+          "title": "Aquifer Protection Area (APA) 11",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.4",
+          "title": "Earth Products Removal 11",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.5",
+          "title": "Mobile Home and Travel Trailer Occupancy 12",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.6",
+          "title": "Accessory Dwelling Units 12",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.7",
+          "title": "Family Child Care Facility 13",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.8",
+          "title": "Site Development Plan 13",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8",
+          "title": "- ADMINISTRATION AND ENFORCEMENT 13",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8.1",
+          "title": "Permits 14",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8.2",
+          "title": "Interpretation of Bylaws 14",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8.3",
+          "title": "Waivers 15",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8.4",
+          "title": "Variances 16",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8.5",
+          "title": "Appeals 16",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8.6",
+          "title": "Penalties and Remedies 16",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8.7",
+          "title": "Validity 17",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8.8",
+          "title": "Public Notice 17",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8.9",
+          "title": "Amendments 17",
+          "page": 3,
+          "paragraphs": [
+            "APPENDIX 1 - DEFINITIONS 18 GLASTENBURY ZONING BYLAWS PURPOSE AND AUTHORITY: The purpose of these bylaws is to encourage appropriate development in the town that will serve the public health, environment, economy, and general welfare and to provide methods for preventing unharmonious and inefficient land development. Glastenbury is an unorganized town with limited governmental services, and therefore any direct or indirect impacts on services from adjoining municipalities should be minimized. These bylaws shall be in effect from the date of adoption as provided in 24 V.S.A. Chapter 117, Section 4410. The bylaws shall be administered and enforced in accordance with the provisions of the above referenced title."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1",
+          "title": "- DEFINITIONS",
+          "page": 4,
+          "paragraphs": [
+            "For the purpose of these bylaws, certain terms or words shall be as defined in Appendix 1 of the bylaws."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2",
+          "title": "- DISTRICTS",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.1",
+          "title": "Zoning Districts: For the purpose of these bylaws, the town is divided into zoning districts",
+          "page": 4,
+          "paragraphs": [
+            "designated by the abbreviations set forth below. Forest #1 - F1 Districts Forest #2 - F2 Districts"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.2",
+          "title": "Zoning Map: The map and boundaries of these districts are hereby established, as shown on",
+          "page": 4,
+          "paragraphs": [
+            "the Zoning Map, and are hereby declared to be part of these bylaws."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.3",
+          "title": "Zoning of Roads: Zoning Districts shall include the beds of roads lying within them. Where",
+          "page": 4,
+          "paragraphs": [
+            "opposite sides of a road lie in different districts, the boundary shall be deemed to be the center of the right-of-way."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.4",
+          "title": "Land Under Water: Zoning Districts shall include any land under rivers, streams, lakes, or",
+          "page": 4,
+          "paragraphs": [
+            "ponds lying within them. Where opposite sides of a river or stream lie in different districts, the boundary shall be the thread of the river or stream. Where opposite sides of a lake, pond, swamp, or water body lie in different districts, the boundary shall be deemed to be the center thereof."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.5",
+          "title": "Interpretation of Zoning Map: Any question as to the location of a district boundary line on",
+          "page": 4,
+          "paragraphs": [
+            "the Zoning Map shall be resolved by the Administrative Officer with appeals of any decision made to the Board."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3",
+          "title": "- GENERAL REGULATIONS",
+          "page": 5,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.1",
+          "title": "Compliance With Bylaws:",
+          "page": 5,
+          "paragraphs": [
+            "a building complying with local laws in force prior to these bylaws."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "No land development shall be realized except in conformity with these bylaws.",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Nothing contained in these bylaws shall require any change in the structure or use of",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "3.2",
+          "title": "Dimensional Requirements: Development may be permitted only on lots which have a",
+          "page": 5,
+          "paragraphs": [
+            "minimum of 300 feet frontage on a public road or, with the approval of the Development Review Board (the \"Board\"), have access to such a road by a permanent easement or right- of-way not less than 50 feet wide."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.3",
+          "title": "Use Regulations: No land or buildings, or part thereof, shall be used for any use other than",
+          "page": 5,
+          "paragraphs": [
+            "one listed as a permitted use in the district in which it is located. Any use not specifically permitted shall not be permitted."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.4",
+          "title": "Administrative Requirements:",
+          "page": 5,
+          "paragraphs": [
+            "available from the Administrative Officer. Application fee schedules are set by the Town Supervisor.",
+            "purposes permitted in the district in which it is located, even though not conforming to the minimum lot size requirements.",
+            "located so that each dwelling, with any buildings accessory to it, could be set off as a separate lot conforming to all of the applicable provisions of these bylaws, and no building shall be sold into separate ownership except in compliance with the above. This rule shall not apply to accessory dwelling units or planned unit developments.",
+            "one district, the dimensional requirements of the district that contains the greater portion of the lot shall apply. Any residential structure must be located in the Forest 1 district."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "A zoning permit is required for any land development. A permit application is",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Any lot in existence on the effective date of these bylaws may be developed for the",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "If more than one dwelling is to be placed on any one lot, such dwellings shall be",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Where a pre-existing lot meeting the requirements of Section 3.4.2 lies in more than",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "3.5",
+          "title": "Required Notification to the Vermont Regional Floodplain Manager: No zoning permit for",
+          "page": 5,
+          "paragraphs": [
+            "the development of land located within a designated flood hazard area may be granted prior to the expiration of a period of thirty (30) days following the submission of a report to the Vermont Department of Conservation Floodplain Manager describing the proposed use and the location requested for such use."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.6",
+          "title": "Approval of Conditional Use: A conditional use may be approved by the Board only after a",
+          "page": 5,
+          "paragraphs": [
+            "public hearing and upon a finding by the Board that such use shall not adversely affect:",
+            "zoning district within which the project is located, and specifically stated policies and standards of the Town Plan;",
+            "Glastenbury applicable thereto; or Each use so approved shall meet any standards applicable to the specific uses as to lot and building dimensional requirements, landscaping, design, and locations of service areas, and other standards that may be imposed by the Board. Approval shall be based on a site development plan, prepared in conformance with the requirements of Section 7.8, and failure of the development to conform to such site plan shall constitute a violation of these bylaws. The Board shall act to approve or disapprove any such requested conditional use within forty-five (45) days after the date of the final public hearing, and failure to so act within such period shall be deemed approval."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "The capacity of existing or planned community facilities and services;",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "The environment and character of the area affected, as defined by the purpose of the",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Traffic on roads and highways in the vicinity;",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Other provisions of ordinances, regulations, town plan, and bylaws of the Town of",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "4",
+          "title": "- FOREST #1 DISTRICTS",
+          "page": 6,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.1",
+          "title": "Purpose: To guide the growth of the area in an orderly manner by concentrating residential",
+          "page": 6,
+          "paragraphs": [
+            "and other development where it will be served most efficiently by public facilities, utilities, and roads; to preserve tracts suitable for perpetuating the forest resources and forest-related industries which have been an important part of the State's economy; to protect the vital sources of pure water for public supplies; to maintain a high quality environment for forest or mountain based recreation; and to assure the preservation of the natural rural and scenic qualities."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.2",
+          "title": "Permitted Uses in F1 Districts:",
+          "page": 6,
+          "paragraphs": [
+            "and farm structures accessory to and necessary for such agricultural uses;",
+            "consisting of a building or tent not suitable for use as a dwelling, but used occasionally or seasonally for temporary shelter in connection with a recreational activity, but not operated as a business, and provided that the sewage disposal systems shall meet the requirements of the Water and Wastewater Division of the Vermont Department of Environmental Conservation.",
+            "7.6). There may be no more than one such accessory dwelling unit on a lot."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Agricultural uses, including: maple sugaring, pasturage of livestock, crop raising,",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Commercial forestry and forestry carried on for research, demonstration, education;",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "A private recreational, hunting, or fishing camp, on a minimum lot of 25 acres,",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "An accessory dwelling unit on a lot occupied by a principal dwelling (See Section",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Accessory uses or structures that are customary to a permitted or conditional use.",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "4.3",
+          "title": "Conditional Uses in F1 Districts: The following uses, subject to the limitations and",
+          "page": 7,
+          "paragraphs": [
+            "requirements of Sections 3.6:",
+            "Development Act, the following uses are provided for as conditional uses in the F1 District. Such uses shall conform to applicable provisions of these bylaws regulating size, height, building bulk, yards, setbacks, density of buildings, off-road parking, loading facilities, traffic, noise, lighting, landscaping or screening requirements. a. State or municipally owned and operated institutions and facilities; b. Public and private schools and other institutions certified by the Vermont Agency of Education; c. Churches and other places of worship, convents, and parish houses; d. Public and private hospitals; e. Regional solid waste facilities certified under 10 V.S.A. Chapter 159; f. Hazardous waste management facilities for which notice of the intent to construct has been received under Section 6606; g. A state licensed or registered family care facility, serving not more than eight persons who are developmentally disabled or physically handicapped; h. A state licensed or registered family child-care facility as provided for in"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Public Services: In accordance with Section 4413 of the Vermont Planning and",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "7.7",
+          "title": ";",
+          "page": 7,
+          "paragraphs": [
+            "minimum lot of twenty- five (25) acres, and subject to the following: a. Topography shall be mapped at ten (10) foot intervals, and construction shall be avoided on slopes greater than 15%; b. Natural drainage shall be maintained; c. Soil types based on the USDA soils classification, soil percolation, and depth to bedrock shall be identified; d. Sewage disposal systems shall meet the requirements of the Water and Wastewater Division of the Vermont Department of Environmental Conservation; e. A narrative shall be prepared by the applicant and submitted to the Board 21 days prior to the public hearing documenting the following: i. Impact on surface water flow and quality; ii. Impact on ground water flow and quality; iii. Effects on important wildlife habitats; historical, botanical or geologic features or scenic resources; iv. Capability of soils, natural characteristics of the site, vegetation cover, and proposed erosion control efforts to support the proposed development without danger of erosion, silting or other instability; v. The protection or loss of timber resources; vi. The impacts on the Town of providing services and any potential impacts on surrounding municipalities or governmental services; vii. The nature of existing or proposed roads and access to the development.",
+            "granted for such residential dwelling, carried on in a dwelling or in a building accessory thereto by a resident of the premises, provided that such use does not change the residential character thereof.",
+            "periodic non-commercial training events on residential property. Special training events require a zoning permit from the Administrative Officer. Applicants must demonstrate that training events will not alter the rural residential character of the property nor the ability of other town residents to peacefully enjoy their land. Special training event uses are subject to the following rules and conditions: a. Applicability. Permitted special training events are limited to the following: i. Outdoor wilderness skills trainings; ii. Firearms, K-9, field maneuvering, ATV, and snow mobile trainings organized, facilitated, and attended by local or state law enforcement agencies or Vermont National Guard; iii. Hunter education trainings. b. Application. A complete zoning permit application shall be submitted to the Administrative Officer. Permit application shall include the following: i. Site Plan. Proposed site plan shall show entire area to be used and impacted by proposed trainings and shall include the following: property boundaries, roadways, all existing or temporary buildings and other infrastructure. The plan shall also include a parking plan and the location of sanitary facilities; ii. Description of Activities. Description of proposed training event including the range of activities to be realized, the groups and individuals attending, any and all rights and restrictions regarding their use of the residential property, and a draft schedule for the event. c. Application Review. In reviewing applications per 3.6, the Board will consider and may impose conditions regarding the following points in order to preserve the quiet residential and wilderness area character of the town, to avoid overtaxing public infrastructure, and to protect public health and welfare: i. Frequency, timing, and duration of event; ii. Site-generated noise levels; iii. Number of individuals participating; iv. Site conditions; v. The type of materials, vehicles, or other supplies to be used; vi. Public notification of activities. d. Permits shall cover a specified period of time not to exceed two years from the date of issuance, with the provision that the approved use will cease upon expiration of the permit."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "2",
+              "text": "Single family dwelling and multiple-family dwellings as defined in this Bylaw, on a",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Customary home occupations, provided that a conditional use permit has been",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Planned Unit Developments as provided for in Section 6.",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Earth products removal as identified in Section 7.4.",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Special Training Events. Special training events are temporary, stand-alone or",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "4.4",
+          "title": "Dimensional Requirements - F1 Districts:",
+          "page": 9,
+          "paragraphs": [
+            "Principal Accessory Building Building Minimum lot area 25 acres Not applicable Minimum lot area per family unit 25 acres Not applicable Minimum lot width 300 feet Not applicable Minimum front yard (setback) 50 feet 50 feet Minimum side yard (setback) 50 feet 50 feet Minimum rear yard (setback) 50 feet 50 feet Maximum building height Two stories Two stories plus roof plus roof"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5",
+          "title": "- FOREST #2 DISTRICTS",
+          "page": 9,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.1",
+          "title": "Purpose: To preserve tracts suitable for perpetuating the forest resources and forest-related",
+          "page": 9,
+          "paragraphs": [
+            "industries which have been an important part of the State's economy; to maintain a high- quality environment for forest or mountain based recreation and wildlife habitat; to assure the preservation of natural rural and scenic qualities; to avoid land development because of:",
+            "environmental limitations to development in the area;"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Topography, soil depth, drainage, slope, or other natural conditions presenting",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "The inefficient development of roads, utilities, and public services; and",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Watershed areas that require protection.",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "5.2",
+          "title": "Permitted Uses in F2 Districts:",
+          "page": 10,
+          "paragraphs": [
+            "and farm structures accessory to and necessary for such agricultural uses;",
+            "suitable for use as a permanent primary dwelling, but used only occasionally or seasonally for temporary shelter in connection with a recreational activity, but not operated as a business, and subject to the following: a. Only chemical, incinerator, composting, or privy-type toilet facilities that meet requirements of the Water and Wastewater Division of the Vermont Department of Environmental Conservation will be permitted. The camp may not be served by a sewage disposal system consisting of a tank and/or leaching field. b. No privy-type toilet facilities, or any discharge of wastewater from sinks, showers, washing machines, or other sources shall be located within 200 feet of any spring, well, stream, brook, river, pond, or wetland on the subject lot or any other lot."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Agricultural uses, including: maple sugaring, pasturage of livestock, crop raising,",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Commercial forestry and forestry carried on for research, demonstration, education;",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "A private recreational, hunting, or fishing camp, consisting of a building or tent not",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Accessory uses or structures that are customary to a permitted or conditional use.",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "5.3",
+          "title": "Conditional Uses in F2 Districts:",
+          "page": 10,
+          "paragraphs": [
+            "or theme park."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Low-impact recreational use, not to include amusement facilities such as water slides",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Planned unit development of private recreational, hunting, or fishing camps.",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Earth products removal as identified in Section 7.4.",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Special training events as described in Section 4.3.6.",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "5.4",
+          "title": "Dimensional Requirements - F2 Districts:",
+          "page": 10,
+          "paragraphs": [
+            "Principal Accessory Structure Structure Minimum lot area 25 acres Not applicable Minimum lot area per family unit 25 acres Not applicable Minimum lot width 300 feet Not applicable Minimum front yard (setback) 50 feet 50 feet Minimum side yard (setback) 50 feet 50 feet Minimum rear yard (setback) 50 feet 50 feet"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6",
+          "title": "- PLANNED UNIT DEVELOPMENT",
+          "page": 11,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.0",
+          "title": "Purpose: The purpose of planned unit development (PUD) is to enable and encourage",
+          "page": 11,
+          "paragraphs": [
+            "flexibility of design and development of tracts of land for single family detached dwellings or camps in groups, so as to promote the most appropriate use of land, to facilitate the economical provision of roads and utilities, and to enhance the environmental quality of the area through maximum preservation of open space."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.1",
+          "title": "Where Permitted: PUDs may be permitted as a conditional use in the Forest 1 District in",
+          "page": 11,
+          "paragraphs": [
+            "accordance with the provisions of Sections 3.7 and 4.3. In the Forest 2 District, a PUD containing private camps, as defined in Section 5.2.4, may be permitted as a conditional use in accordance with Sections 3.7, 5.2, and 5.3."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.2",
+          "title": "Permitted Uses in PUD:",
+          "page": 11,
+          "paragraphs": [
+            "(1) Single family detached dwellings located in the Forest 1 District. (2) Private camps, as defined in Section 5.2.3, located within the Forest 2 District. (3) In the Forest 1 District, customary home occupations as permitted in that district. (4) In the Forest 1 District, any other permitted or conditional use in the F1 District. The area occupied by such use shall be separately shown on the site plan, and the area thereof shall be included as any part of the area to be developed for purposes of determining the permitted density. (5) Accessory uses incidental to a permitted or conditional use on the same lot."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.3",
+          "title": "Density of Occupied Units: In PUDs, the total number of occupied units shall not exceed",
+          "page": 11,
+          "paragraphs": [
+            "the number which could be permitted if the tract were subdivided into lots conforming to the provisions of the district in which the subdivision is located."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.4",
+          "title": "Site Development Plan Approval, Public Hearing: All permit applications for PUDs shall be",
+          "page": 11,
+          "paragraphs": [
+            "accompanied by a site development plan conforming to the guidelines of Section 7.8. No permit shall be issued for the PUD until the Board has approved the site development plan. The Board shall hold a public hearing on the application and site development plan prior to approval. The Board shall act to approve or disapprove the application and site development plan within 60 days of the close of the final public hearing. Failure to act within the 60-day period shall be deemed approval."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.5",
+          "title": "Dimensional Requirements: Given the 25-acre minimum lot per occupied unit for",
+          "page": 11,
+          "paragraphs": [
+            "determining the overall density of a PUD, individual lots may be reduced in required area, width, and yard dimensions to not less than the following: Forest 1 District: Minimum area per occupied unit 2 acres Minimum lot width 150 feet Minimum front yard 50 feet Minimum side yard 50 feet Minimum rear yard 50 feet Maximum building height 2 stories + roof Forest 2 District: Minimum area per occupied unit 5 acres Minimum lot width 300 feet Minimum front yard 50 feet Minimum rear yard 50 feet Minimum side yard 50 feet"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.6",
+          "title": "Sewage Disposal: For dwellings in the F1 District, the method and installation of facilities",
+          "page": 12,
+          "paragraphs": [
+            "for individual or communal sewage disposal shall be subject to all the applicable regulations of the Water and Wastewater Division of the Vermont Department of Environmental Conservation."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.7",
+          "title": "Utilities: All utilities outside of a public or private right-of-way, including but not limited to",
+          "page": 12,
+          "paragraphs": [
+            "electric and telephone lines, shall be buried underground."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.8",
+          "title": "Open Space Requirements: The land area not included for occupied units or in roads, rights-",
+          "page": 12,
+          "paragraphs": [
+            "of-way, or easements for utilities, shall be permanently reserved as open space for recreation, conservation, agriculture, or forestry. Such open space shall be of a character, size, extent, and shape suitable for the above purposes, and located in an appropriate location in relation to the occupied units. Such open space shall contain not less than 50 percent of the gross area of the cluster subdivision. Further subdivision of open land or its use for other than recreation, conservation, agriculture, or forestry, except for easements for underground utilities and septic systems, shall be prohibited. Structures or buildings accessory to recreation, conservation, agricultural, or forestry uses may be erected but shall not exceed 5% coverage of such open land. The design of the road and lot layout, and location of open space, shall implement the stated objectives of the Town Plan and shall be subject to the approval of the Board."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.9",
+          "title": "Community Association: A non-profit community association shall be organized in",
+          "page": 12,
+          "paragraphs": [
+            "accordance with the laws of the State of Vermont, requiring membership of all present and future lot owners in the cluster subdivision. Each occupied unit shall be entitled to one vote, to be cast by the owners thereof. The community association shall be responsible for the permanent maintenance of all communal water and septic systems, common open space, recreational and thoroughfare facilities. A community association agreement or covenant shall be submitted with the conditional use permit guaranteeing continuing maintenance of such common utilities, land, and facilities, and assessing each lot a share of maintenance expenses. Such agreement shall be subject to the review and approval of the Board."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.10",
+          "title": "Open Space Ownership: All open land shall be conserved in one of several ways:",
+          "page": 13,
+          "paragraphs": [
+            "(1) Conveyed to a community association owned or to be owned by the owners of the subdivision. If such a community association is utilized, ownership thereof shall pass with conveyances of the lots in perpetuity; (2) Conveyed to a non-profit organization, the principal purpose of which is the conservation or preservation of open space; (3) Conveyed to the Town, at no cost, and be accepted by it for a park or open space use. Such conveyance shall be at the option of the Town. In any case where such land is not conveyed to the Town, a restriction enforceable by the Town shall be recorded to ensure that such land shall continue to meet open space requirements, and not built for residential use. Such restrictions shall further provide for maintenance of the open land in a manner which will ensure its suitability for its function, appearances, cleanliness, and proper drainage, utilities, and the like."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7",
+          "title": "- SPECIAL REGULATIONS",
+          "page": 13,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.1",
+          "title": "Nonconforming Uses and Noncomplying Structures:",
+          "page": 13,
+          "paragraphs": [
+            "lawfully existing at the time of adoption of these bylaws, or any pertinent amendment thereto, may be continued, and any building so existing which was designed, arranged, intended for, or devoted to a nonconforming use, may be reconstructed and structurally altered, and the nonconforming use therein changed, subject to the following regulations: a. A nonconforming use may not be changed, except to a conforming use, or with the approval of the Board, to another nonconforming use not more objectionable in character. b. If a nonconforming use is changed into a conforming use, it shall not be changed back into a nonconforming use. c. No nonconforming use shall be extended or expanded, except with the approval of the Board, provided that said Board shall have found that such extension or expansion will have no adverse effect upon the environment, public health, safety, convenience, and upon property values in the vicinity, and where, in the opinion of the Board, strict enforcement of these bylaws would result in exceptional and unnecessary hardship on the owner of an established nonconforming use. d. No nonconforming use, which has been discontinued for a period of one year, shall be resumed thereafter.",
+            "requirements of these bylaws regarding building height limit, area and width of lot, and required setbacks shall not be enlarged or substantially altered (extension of building footprint or construction of additional usable floor area on an upper floor) unless such enlarged or altered portion conforms to the regulations, including dimensional, use, and health regulations, applying to the district in which it is located. If such enlarged or altered portion fails to conform to dimensional requirements, construction may only occur if the Board approves a variance.",
+            "permit for restoration or reconstruction within 18 months of a building being damaged or destroyed by fire, explosion, accident, or vandalism. Any other reconstruction on the site after 18 months will be subject to all requirements of these bylaws."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Nonconforming Uses: Any nonconforming use of a building or premises which was",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Noncomplying Structures: Any building which does not conform to the dimensional",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Restoration and Reconstruction: The Administrative Officer may grant a building",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "7.2",
+          "title": "Protection of Streams, Drainageways, and Wetlands:",
+          "page": 14,
+          "paragraphs": [
+            "or graded within a distance of one hundred feet from the top of bank of any stream or watercourse, or within a distance of one hundred feet from the shore line of any natural pond, wetland, lake, or water body.",
+            "under 10 V.S.A. Chapter 41 or a permit for construction of a dam under 10 V.S.A. Chapter 43 must present evidence that all required State permits have been granted prior to review by the Board.",
+            "practices and best management practices as defined by the Secretary of Agriculture and the Commissioner of Forests, Parks, and Recreation under Section 4810 of Title"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "No structure or septic system shall be placed, and no land shall be excavated, filled,",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "The applicant for any land development which requires a Stream Alteration Permit",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "All agricultural and forestry activities shall adhere to the required agricultural",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "7.3",
+          "title": "Aquifer Protection Area (APA):",
+          "page": 14,
+          "paragraphs": [
+            "A substantial portion of the State-designated APAs for the North Bennington-Shaftsbury and the Bennington water supply lie in Glastenbury. No activity within these special designations shall have a negative impact on surface and ground water (see map)."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.4",
+          "title": "Earth Products Removal:",
+          "page": 14,
+          "paragraphs": [
+            "no removal from the premises in any district of earth, sand, gravel, clay, or stone, except as surplus material resulting from a bona fide construction, landscape, or agricultural operation being executed on the premises, and provided that no significant damage is done to the landscape.",
+            "a permit for the removal of earth, sand, gravel, clay, or stone, under the following conditions: a. The applicant shall submit a plan showing existing grades in the area from which the above material is to be removed, together with finished grades and vegetative cover at the conclusion of the operation. b. The operator shall provide for proper drainage of the area of the operation during and after completion, and no bank shall exceed a slope of one foot of vertical rise in two feet of horizontal distance, except in ledge rock at the completion of the operation. No removal shall take place within 100 feet of a property line. c. Permits for Removal of Earth Products will be issued on a maximum three-year basis and may be renewed by the Board at that time free of charge.",
+            "operations, must conform to these bylaws from the effective date.",
+            "Planning and Development Act, and before a permit is granted under this section, the applicant may be required to post a surety bond with the Supervisor of the Town in an amount and in form approved by the Board as sufficient to guarantee conformity with the permit issued hereunder. Those operations existing prior to the adoption of these bylaws shall be exempt from posting a surety bond."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Removal Restricted: Except as otherwise provided in this subsection, there shall be",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Permit for Removal of Earth Products: The Board, after a public hearing, may grant",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Existing Sand and Gravel Operations: Existing sand and gravel, or other extractive",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Surety Bond: In accordance with the provisions of Section 4407 (8) of the Vermont",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "7.5",
+          "title": "Mobile Home and Travel Trailer Occupancy:",
+          "page": 15,
+          "paragraphs": [
+            "a. A trailer, trailer coach, mobile home, or travel trailer may be used for not over six months as a temporary residence or field office, accessory to a construction or logging operation on the premises.",
+            "a. A mobile home may be used as a one-family occupied unit providing that it is located on a lot meeting all of the requirements of these bylaws applicable to a one-family occupied unit in the district in which it is located, is suitably anchored to a permanent masonry foundation, and is enclosed by some form of permanent skirting. b. A non-paying guest of the owner of such lot may occupy a travel trailer on any lot for a period not exceeding thirty days in any twelve-month period."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "General Regulations:",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Mobile Home as a Dwelling:",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "7.6",
+          "title": "Accessory Dwelling Units:",
+          "page": 15,
+          "paragraphs": [
+            "Pursuant to 24 V.S.A. Section 4412, an accessory dwelling unit is permitted as a use subordinate to a single-family dwelling on an owner-occupied lot. The owner may occupy the single-family dwelling or the accessory unit. The accessory dwelling unit may be located in or appurtenant to the single-family dwelling. If creation of the accessory dwelling unit involves the construction of a new accessory structure or an increase in the height or floor area of an existing structure conditional use review shall be required pursuant to"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.6",
+          "title": "of this bylaw",
+          "page": 16,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.7",
+          "title": "Family Child Care Facility:",
+          "page": 16,
+          "paragraphs": [
+            "Pursuant to 24 V.S.A. Section 4413(5), a state licensed or registered family child care home serving six or fewer children shall be considered to constitute a permitted single-family residential use of property. A family child care home serving no more than six full-time and four part-time children, as defined in 33 V.S.A. Section 4902(3)(A), shall be considered to constitute a permitted single-family residential use of property, but shall be subject to site plan approval pursuant to Section 151 of this Bylaw."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.8",
+          "title": "Site Development Plan: Except for special training events covered under Section 4.3.6, site",
+          "page": 16,
+          "paragraphs": [
+            "development plans shall contain: a. Boundaries, dimensions, and area of the lot or proposed lots. b. Existing and proposed site conditions, including contours, water courses, floodplain areas, important natural features, and forest cover. c. Location and dimensions of all existing and proposed buildings and structures. Also, locations of buildings on adjacent lots within 200 feet of the subject lot or development. d. Existing and proposed pedestrian and vehicular circulation systems and rights-of- way, including internal roads and driveways, and points of access to public rights-of- way. Curb cuts and driveways within 200 feet of the property boundaries should also be included. e. Location and size of all land areas to be reserved as open space, open space linkages, etc. f. Landscaping details and proposed grading. g. The proposed treatment of the perimeter of the parcel, including materials and techniques used for buffers and landscaping, and integration with adjacent properties, as appropriate. h. Existing and proposed utility systems, including water supply and fire protection, sewage disposal, storm drainage, and natural drainage and water courses. Also, wells, springs, and wastewater disposal systems within 300 feet of any property boundary."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8",
+          "title": "- ADMINISTRATION AND ENFORCEMENT",
+          "page": 16,
+          "paragraphs": [
+            "The provisions of these bylaws shall be administered and enforced by the Administrative Officer, appointed by the Board with the approval of the Town Supervisor, as provided by law. As provided in 24 V.S.A. Chapter 117, the Supervisor of Glastenbury acts as the legislative body, and has designated the Bennington County Regional Commission as the Municipal Planning Commission. The Administrative Officer shall enforce the provisions of these regulations, inspect land developments, maintain records of all actions, and perform all other necessary and required tasks to carry out the provisions of these regulations and the duties of the office."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8.1",
+          "title": "Permits:",
+          "page": 17,
+          "paragraphs": [
+            "to the construction, reconstruction, conversion, structural alteration, relocation, or enlargement of any building or other structure -- whether said building or other structure is intended for permanent or temporary occupancy or use -- a zoning permit shall be obtained from the Administrative Officer. A zoning permit shall also be obtained prior to the division of a parcel into two or more parcels, any mining, excavation, or landfill, and any change or extension in the use of any building or other structure, or land. Application for such permit shall be made on a prescribed form accompanied by a fee as set by the Town Supervisor. Before issuing any such permit, the Administrative Officer shall certify that the proposed building or use complies with all of the provisions of these bylaws. The Administrative Officer shall maintain a full and accurate record of all applications, permits, and violations acted upon by him, which records shall be filed with the Listers and Supervisor of the Town, and the County Clerk. Permits shall be voided in the event of misrepresentation or failure to undertake construction within 120 days of the date of approval. If the Administrative Officer or the Board fails to act within thirty days, a permit shall be deemed issued on the 31st day.",
+            "which an appeal may be taken. No permit shall take effect until the time for appeal has passed, as provided for in 24 V.S.A. Section 4465. If an appeal is taken, the permit shall not take effect until final adjudication of the appeal by the appropriate municipal panel or environmental court, as provided for in 24 V.S.A. Section 4449. Within 3 days of the issuance of a zoning permit, the Administrative Officer shall post the permit at the Town Offices of Arlington, Bennington, Shaftsbury, and Sunderland, and Woodford, the Bennington County Regional Commission, and the County Clerk's office, and file a copy with the Listers. The supervisors of abutting unincorporated towns shall also be notified. Permits shall remain posted for at least 15 days from the date of issuance. A notice of permit also shall be posted at a location within view from the public right-of-way most nearly adjacent to the subject property until the time for appeal has passed."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Zoning Permit Applications may be obtained from the Administrative Officer. Prior",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Each zoning permit issued shall contain a statement of the period of time within",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "8.2",
+          "title": "Interpretation of Bylaws: In their interpretation and application, the provisions of these",
+          "page": 17,
+          "paragraphs": [
+            "bylaws shall be held to be the minimum requirements adopted for the promotion of the public health, environment, safety, comfort, convenience, and general welfare. It is not intended by these bylaws to repeal, abrogate, annul, or in any way impair or interfere with existing provisions of the law or ordinance, or any rules, regulations, or permits previously adopted or issued, or which shall be adopted or issued pursuant to law, relating to the use of buildings or premises; nor is it intended by these bylaws to interfere with or abrogate or annul any easements, covenants, or other agreement between parties, provided, however, that where these bylaws impose a greater restriction upon the use of buildings or premises, or upon the height of buildings, or requires larger yards, courts, or other open spaces than are imposed or required by existing provisions of law or ordinance, or by such rules, regulations, or permits, or by such easements, covenants, or agreement, the provisions of these bylaws shall control."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8.3",
+          "title": "Waivers: Requests for waivers of dimensional requirements are considered by the Board",
+          "page": 18,
+          "paragraphs": [
+            "The purpose of waivers is to allow for minor additions to a principal or accessory structure that would not be counter to the purpose of this Bylaw or the Town Plan, but which do not meet the standards for the granting of a variance. Additionally, a reduction in the setbacks from streams and waterways may be considered as described below. A waiver may be granted only to reduce dimensional requirements as provided below, and compliance with all other requirements of this Bylaw is required. The Board may grant a waiver provided all of the following conditions are satisfied: i. The proposal is for an addition to an existing principal or accessory structure, and said addition does not increase the footprint of the structure by more than 5 percent or 200 square feet, whichever is less; ii. The addition is the minimum size that is necessary for it to serve its intended function; iii. The addition is specifically intended to improve access or safety, for renewable energy facilities, or for a minor addition to an existing building that is beneficial or necessary for continued reasonable use of the property; iv. For stream and waterway setbacks, the applicant must demonstrate that unique site conditions and hardship necessitate a deviation from the standard setback. Additionally, the Board must determine that no impeded drainage, flood hazard, erosion, silting, or other adverse effect on natural conditions or fish or wildlife habitat will result, referencing the Vermont Handbook for Soil Erosion and Sediment Control on Construction Sites and Vermont Streambank Conservation Manual. Minimum stream setbacks established by the State shall apply. v. The Board shall not grant waivers that violate any other use or density provisions of the Bylaw. The Board may impose conditions regarding the design and screening of the addition to mitigate any impacts on neighboring properties. Development in the flood hazard area must meet all requirements of the Town's Flood Hazard Regulations. Application: The applicant must submit a complete zoning permit application and a written request for a waiver with the Administrative Officer that includes all of the following: i. A brief description of the subject property and proposed land development. ii. A reference to the dimensional standard of these regulations from which the applicant is requesting a waiver. iii. The specific modification that the applicant is requesting. Public Hearing. The Development Review Board must hold a public hearing and act on the waiver request in accordance with the process outlined in Section 3.6. If the applicant is requesting a waiver from the required setback from a state highway, notice of the hearing must also be sent to the Vermont Secretary of Transportation."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8.4",
+          "title": "Variances: On an appeal of the decision of the Administrative Officer, where a variance",
+          "page": 19,
+          "paragraphs": [
+            "from the strict requirements of these bylaws is requested, the Board must adhere to and act strictly within the limitations of 24 V.S. A. Section 4469. The Board may render a decision in favor of the appellant only if it makes a positive finding on all of the following facts:",
+            "narrowness, or shallowness of lot size or shape, or exceptional topographical or other physical conditions peculiar to the particular property, and that unnecessary hardship is due to such conditions and not the circumstances or conditions generally created by the provisions of these bylaws in the district or neighborhood in which the property is located;",
+            "that the property can be developed in strict conformity with the provisions of the zoning regulation and that the authorization of a variance is therefore necessary to enable the reasonable use of the property;",
+            "neighborhood or district in which the property is located, substantially or permanently impair the appropriate use or development of adjacent property, reduce access to renewable energy resources, nor be detrimental to the public welfare or the environment; and",
+            "relief and will represent the least deviation possible from the zoning bylaws and the town plan."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "That there are unique physical circumstances or conditions, including irregularity,",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "That because of such physical circumstances or conditions, there is no possibility",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "That the unnecessary hardship has not been created by the appellant;",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "That the variance, if authorized, will not alter the essential character of the",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "That the variance, if authorized, will represent the minimum variance that will afford",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "8.5",
+          "title": "Appeals: An interested person, as defined in 24 V.S.A 4465, may appeal any decision or act",
+          "page": 19,
+          "paragraphs": [
+            "taken by the Administrative Officer or the Board by filing a notice of appeal with the Town Supervisor. Such notice of appeal of a decision or act of the Administrative Officer must be filed within 15 days of the decision or act, and a copy of the notice of appeal shall be filed with the Administrative Officer. Appeals denied by the Town Supervisor may be appealed to the Vermont Superior Court."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8.6",
+          "title": "Penalties and Remedies: Any person who violates the provisions of these bylaws shall be",
+          "page": 19,
+          "paragraphs": [
+            "subject to the penalties and remedies prescribed in 24 V.S.A. 4451 and 4452."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8.7",
+          "title": "Validity: If any section or provision of these bylaws is adjudged to be unconstitutional or",
+          "page": 19,
+          "paragraphs": [
+            "otherwise invalid, such decision shall not affect the validity of these bylaws as a whole, or of any part thereof other than the part so adjudicated."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8.8",
+          "title": "Public Notice: Any public notice required for public hearing under these bylaws shall be",
+          "page": 20,
+          "paragraphs": [
+            "given as required by law."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8.9",
+          "title": "Amendments: These bylaws, or the boundaries of zone districts established herein, may be",
+          "page": 20,
+          "paragraphs": [
+            "amended from time to time after a public hearing, as provided by Sections 4441, 4442, and 4444 of the Vermont Planning and Development Act. APPENDIX 1- DEFINITIONS Unless otherwise expressly stated, the following words shall, for the purpose of these bylaws, have the meaning herein indicated. Words used in the present tense include the future. The singular number includes the plural and the plural the singular. The word \"person\" includes a partnership, corporation or other entity. The word \"building\" includes the word \"structure\". The word \"shall\" is mandatory, not directory. Accessory Dwelling Unit (also accessory apartment): A distinct dwelling unit that is clearly subordinate to a single-family dwelling, and has facilities and provisions for independent living, including sleeping, food preparation, and sufficient water and wastewater capacity. The unit shall not exceed 30 percent of the total habitable floor area of the single-family dwelling or 900 square feet, whichever is greater. Accessory Use or Structure: A use or structure customarily incidental and subordinate to a principal use on the same lot, or on an adjoining lot under the same ownership. A detached accessory structure shall be one that is not attached to the principal by any covered porch, breezeway, or other structure. Agriculture (also agricultural use, practice or operation): For the purposes of this ordinance, agriculture shall mean (a) the cultivation or other use of land for growing food, fiber, trees, or horticultural and orchard crops; or (b) the raising, feeding or management of livestock, poultry, equines, fish or bees; or (c) the operation of greenhouses; or (d) the production of maple syrup; or (e) the onsite storage, preparation and sale of agricultural products principally produced onsite; or (f) the onsite production of fuel or power from agricultural products or wastes produced onsite. Alteration: Any change to or replacement of exterior doors, windows, porches, decks, siding, architectural details, lighting or location Building: Any structure having a roof and intended for the shelter, housing, or enclosure of persons, animals or materials. Building Area: The ground area enclosed by walls of a building, together with the area of all covered porches, other roofed and unroofed portions and patios. Building Coverage: The ground area covered by any portion of a structure. Building Front Line: A line parallel to the front lot line transecting that point of the building face that is closest to the front lot line. This face included decks, steps, and porches whether enclosed or unenclosed. Building Height: The vertical distance from the average finished grade within ten feet of the walls of the building to the highest point of the ridge line or roofed surface (not including the chimney). In the case of structures without a roof, the building height is the highest point on the structure Camp: Land on which is located a cabin, shelter or other accommodation suitable for and restricted to seasonal or temporary living purposes, excluding mobile homes. Change of Use: Within any zoning district, a change from one numbered category to another numbered category of use. Conditional Use: A use permitted in each district only by approval of the Board, if the Board determines, after a public notice and public hearing, that the proposed use will conform to general and specific standards, as provided in the Zoning Bylaws. Customary Home Occupation: A business that is customary in residential areas and practiced within a dwelling unit. Deck: An elevated outdoor living structure, with or without a covering or roof, attached to or abutting another structure on the lot. District: A specific portion of the town as established by the provisions of Section 2 of these bylaws. Development: The division of a parcel into two or more parcels, the construction, reconstruction, conversion, alteration, relocation, or enlargement of any building, or other structure, or of any mining, excavation or landfill, and any change in the use of any building or other structure, or land, or extension of use of land. Driveway: An access way serving no more than two dwelling units. Dwelling, Multiple: A building containing separate dwelling units for two or more families, having separate entrances, services, or facilities. Dwelling, One Unit: A building or part of a building occupied or intended to be occupied by one family for residential purposes, containing accommodations for living, eating and sleeping. Dwelling Unit, Accessory: An efficiency, one or two bedroom dwelling unit located within or appurtenant to an owner-occupied one-unit dwelling that is clearly subordinate to the one-unit dwelling, which has facilities and provisions for independent living, including sleeping, food preparation, and sanitation, provided that the property has sufficient wastewater capacity and that the unit does not exceed 30 percent of the total habitable floor area of the one-unit dwelling, but is at least 400 square feet in floor area. An accessory dwelling unit does not require any additional lot area beyond that which is required for the one-unit dwelling. Family: A person or persons living together in the same building and sharing the same kitchen and other facilities. Farm Structure: a building, enclosure, or fence for housing livestock, raising horticultural or agronomic plants, or carrying out other practices associated with accepted agricultural or farming practices, including a silo, but excluding a dwelling for human habitation. Forestry: The growing, management, and harvesting of trees or timber using accepted Management Practices as defined by the Commissioner of Forests, Parks, and Recreation. Frontage: A lot line that is adjacent or parallel to a public road or permanent right-of-way. Front Setback: The open, unoccupied space extending across the full width of the lot and lying between the road line of the lot and the nearest line of the building. The front setback shall be the minimum distance between the building and the front lot line, measured at right angles to the front line of the lot. Grade, Finished: The complete surface grade of ground, lawns, walks, paved areas and roads brought to grades as shown on site plans relating thereto. Land Development: the division of a parcel into two or more parcels, the construction, reconstruction, conversion, structural alteration, relocation, or enlargement of any building or other structure, or of any mining, excavation, or landfill, and any change in the use of any building or other structure, or land, or extension of use of land. Lot: A parcel of land undivided by any road, and occupied or to be occupied by only one primary structure or principal use and the accessory buildings or uses customarily incidental to such structures or uses. A lot shall be of sufficient size to meet the minimum zoning requirements for use, coverage and area, and to provide such yard and other open spaces as are herein required. Such lot shall have frontage on an improved public road or right-of -way approved by the Board. In no case shall the division or combination of land result in the creation of a parcel that does not meet the requirement of these Bylaws. Lot Area: The total area within the property lines excluding any part thereof lying within the boundaries of a public road or proposed road. Lot, Corner: A lot at the intersection of and abutting on two or more roads where the angle of the intersection is not more than 135 degrees, or where the intersection is rounded by a curve having a radius of less than one hundred feet. Lot Line: The established division line between lots or between a lot and a road. Lot, Minimum Width of: The distance between the side lot lines measured in a straight line at right angles to the mean direction of such side lot lines, which line of measurement shall touch, but not be in front of the building line. In the case of a corner lot, the minimum width shall be similarly measured, but measured from the side lot line to the opposite road line. Mobile Home: A prefabricated dwelling unit built for long term and continuous residential occupancy, which is designed to be moved on wheels, as a whole or in sections, and, on arrival at the site, is complete and ready for occupancy, except for incidental unpacking, assembly, placing on support or permanent foundation, and containing comparable water supply, waste disposal, and major housekeeping appliances as immobile housing. Noncomplying Building: A building, the location, size, height, or construction of which does not conform to all the applicable provisions of these bylaws, but which was legally existing at the effective date hereof, or of any pertinent amendment hereto. Nonconforming Use: A use of land or building which is not a use permitted by these bylaws for the district which such land or building are situated, but which was legally existing at the effective date hereof, or of any pertinent amendment hereto. Occupied Unit: A camp or tent for seasonal recreational use where residences are not permitted. Open Space-Green Space: The areas on any lot not occupied by structures, parking areas or driveways. Open space is intended to be synonymous with green space whether natural or landscaped. Patio: A hard surfaced outside living structure, at ground level, with or without a covering or roof, and which abuts another structure. Premises: A lot, as defined in this section, or a specific part of a lot or building referred to in the context of these bylaws. Principal Building: The building on the lot containing the major permitted use or uses, as opposed to a building containing a minor use customarily incidental to the principal use. Property Line: The line dividing adjacent lots. Public Road: A road that has been constructed for public travel and is open and available for public use. \"Road\" shall mean the entire width of the right-of-way. Recreational Facility, Private: A recreational facility catering exclusively to members and their guests and not to transients. Recreational Facility, Public: A recreational facility catering to the public. Setback: The distance from any lot line to a building or structure, excepting fences and stonewalls, measured to its nearest wall, steps, porch or deck, but not normal roof overhangs. Site Plan: The plan for development, including change of use, of one or more lots. Site plans shall be drawn in accordance with the requirements of these bylaws. Stream: A body of running water flowing in a regular course throughout the year. Temporary interruptions of flow during times of drought shall not cause a stream to be considered seasonal. Structure: An assembly of materials for occupancy or use which require a permit, including but not limited to a building, mobile home or trailer, sign, satellite antennae, walls or fences over five feet high, except a wall or fence for agricultural purposes. Subdivision: The division of a lot, tract, or parcel of land into two or more lots, plat sites or other division of land for the purpose, whether immediate or future, of transfer of ownership or right of use, or of building development. It includes subsequent subdivision, and the division of land held in common and subsequently divided into parts among several owners. Trailer, Travel Coach or Travel Trailer: Any vehicle used for sleeping or camping or short term living quarters mounted on wheels or a camper body usually mounted on a truck. Any vehicle which is customarily towed by a motor vehicle and used for carrying goods, equipment, machinery, boats or an office. Yard: The space on a lot not occupied with a building or structure. Porches, decks and steps, whether enclosed or unenclosed, shall be considered as part of the building and shall not project into the required setbacks."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    }
+  ]
+}

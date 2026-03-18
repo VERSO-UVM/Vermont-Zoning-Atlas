@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "municipality": "Sunderland",
+    "county": "Bennington",
+    "state": "Vermont",
+    "bylaw_date": "0803-20-20",
+    "source_pdf": "Bennington_Sunderland_Text_eff08032020.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 70,
+    "word_count": 33882,
+    "articles_found": 1,
+    "sections_found": 1,
+    "subsections_found": 0,
+    "regulation_rows": 0,
+    "list_items": 0
+  },
+  "articles": [
+    {
+      "number": "",
+      "title": "",
+      "sections": [
+        {
+          "number": "60.6",
+          "title": ", after a noticed public hearing",
+          "page": 70,
+          "paragraphs": [
+            "VIOLATION: The failure of a structure or other development to be fully compliant with this bylaw. A structure or other development without the elevation certificate, other certifications, or other evidence of compliance required in 44 C.F.R. S 60.3 is presumed to be in violation until such time as that documentation is provided. WATERCOURSE: Any perennial stream and shall not include ditches or other constructed channels primarily associated with land drainage or water conveyance through or around private or public infrastructure. WASTEWATER DISPOSAL SYSTEM: A system designed to treat and dispose of domestic, commercial, or industrial wastewater, in accordance with State of Vermont regulations. WET-FLOODPROOFING: Permanent or contingent measures applied to a structure that prevent or provide resistance to damage from flooding by allowing water to enter the structure in accordance with Technical Bulletin 7 published by FEMA. https://www.fema.gov/media-library/assets/documents/3503 WETLANDS: Areas that are inundated by surface or groundwater with a frequency sufficient to support vegetation or aquatic life that depend on saturated or seasonally saturated soil conditions for growth and reproductions. Such areas include marshes, swamps, sloughs, potholes, fens, river and lake overflows, mud flats, bogs, and ponds, but excluding such areas that grow food or crops in connection with farming activities. WILDLIFE CORRIDOR: See Habitat Connector. ZONING ADMINISTRATOR (ZA): The Administrative Official administering this Bylaw, as created pursuant to the Act. ZONING BOARD OF ADJUSTMENT (ZBA): The Sunderland Zoning Board of Adjustment, as created pursuant to the Act."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    }
+  ]
+}

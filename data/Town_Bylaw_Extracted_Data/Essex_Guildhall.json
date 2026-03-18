@@ -1,0 +1,2235 @@
+{
+  "metadata": {
+    "municipality": "Guildhall",
+    "county": "Essex",
+    "state": "Vermont",
+    "bylaw_date": "0910-20-13",
+    "source_pdf": "Essex_Guildhall_Text_eff09102013.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 64,
+    "word_count": 21324,
+    "articles_found": 7,
+    "sections_found": 108,
+    "subsections_found": 61,
+    "regulation_rows": 0,
+    "list_items": 90
+  },
+  "articles": [
+    {
+      "number": "1",
+      "title": "__________ ENACTMENT & INTENT",
+      "sections": []
+    },
+    {
+      "number": "II",
+      "title": "ESTABLISHMENT OF DISTRICTS & DISTRIC T",
+      "sections": [
+        {
+          "number": "0.002",
+          "title": "of one inch",
+          "page": 14,
+          "paragraphs": [
+            "(5) Lighting or signs which create glare, which could impair the vision of a driver of any motor vehicle. (6) Cause a fire, explosion or safety hazard. (7) Cause harmful wastes to be discharged into the sewer system, streams or other bodies of water. Effluent disposal shall comply with the most current State wastewater regulations (Wastewater System and Potable Water Supply Rules, Vermont Department of Environmental Conservation, Wastewater Management Division).",
+            "Permitted Uses",
+            "Conditional Uses",
+            "Lot Area and Dimensions Minimum lot area (acres): 2 Minimum area per family (acres): 2 Road frontage (ft.): 200 Front, side, and rear setbacks (ft.)*: 50 *Setback is the distance from the property line to the structure. Front setback is distance from the center of the road. Sec 206: Permitted Uses Permitted uses are uses that are allowed, provided the standards established by this bylaw are met. Unless a waiver, variance, or other special action by the Board of Adjustment or Planning Commission is required, the necessary permit may be issued by the Zoning Administrative Officer. Sec 207: Conditional Uses"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Manufacturing",
+              "use_type": "by_right"
+            },
+            {
+              "number": "2",
+              "text": "Light Industry",
+              "use_type": "by_right"
+            },
+            {
+              "number": "3",
+              "text": "Warehouse",
+              "use_type": "by_right"
+            },
+            {
+              "number": "4",
+              "text": "Office",
+              "use_type": "by_right"
+            },
+            {
+              "number": "5",
+              "text": "Recreational Facility",
+              "use_type": "by_right"
+            },
+            {
+              "number": "6",
+              "text": "Retail Sales",
+              "use_type": "by_right"
+            },
+            {
+              "number": "7",
+              "text": "Essential Services",
+              "use_type": "by_right"
+            },
+            {
+              "number": "8",
+              "text": "Agricu ltural Use",
+              "use_type": "by_right"
+            },
+            {
+              "number": "9",
+              "text": "Forestry Use",
+              "use_type": "by_right"
+            },
+            {
+              "number": "1",
+              "text": "Earth Resources Extraction",
+              "use_type": "conditional"
+            },
+            {
+              "number": "2",
+              "text": "Recycling Center",
+              "use_type": "conditional"
+            },
+            {
+              "number": "3",
+              "text": "Transfer Station",
+              "use_type": "conditional"
+            },
+            {
+              "number": "4",
+              "text": "Animal Shelter",
+              "use_type": "conditional"
+            }
+          ]
+        },
+        {
+          "number": "207.01",
+          "title": "Conditional uses are those uses that may be allowed by the Board",
+          "page": 15,
+          "paragraphs": [
+            "of Adjustment as provided for in Section 4414(3) of the Act after public notice and hearing. In order for the permit to be granted the proposed use shall not have an undue adverse impact on any of the following:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The capacity of existing or planned community",
+              "paragraphs": [
+                "facilities;"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The character of the area affected, as defined by purpose or",
+              "paragraphs": [
+                "purposes of the zoning district in which the project is located, and specifically stated policies and standards of the municipal plan."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Traffic on roads and highways in the vicinity;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Bylaws then in effect, and;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "The utilization of renewable energy resources",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "207.02",
+          "title": "In addition to the provisions of 207.01, the proposed use must be",
+          "page": 15,
+          "paragraphs": [
+            "found to be in conformance with the specific standards for the district in which it is located."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "207.03",
+          "title": "As a condition of approval, the Board of Adjustment may attach",
+          "page": 15,
+          "paragraphs": [
+            "such additional reasonable conditions and safeguards, as it deems necessary to implement the purposes of the Act, the goals of the Town Plan, and these zoning regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "207.04",
+          "title": "Submission of Conditional Use Permit Application. Along with a",
+          "page": 15,
+          "paragraphs": [
+            "completed zoning permit application, the applicant shall submit one set of site plans, drawn to scale, along with supporting data to the Board of Adjustment. Such application shall include the following information presented in drawn form and accompanied by written text:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Name and address of the owner of record of the land in",
+              "paragraphs": [
+                "question and of adjoining lands. Name and address of the person or firm preparing the map, scale of map, north point and date;"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Site plan showing existing and proposed structure",
+              "paragraphs": [
+                "locations and land use areas, streets, driveways, traffic circulation, parking and loading spaces and pedestrian walks."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "207.05",
+          "title": "A conditional use permit only expires if the allowed use is not",
+          "page": 16,
+          "paragraphs": [
+            "substantially commenced within two years. Once approved that approval runs with the land and binds its owner by all permit conditions. Sec. 208 Other Land Use and Relevant Regulations State and Federal Government may regulate certain aspects of land use; compliance with the zoning bylaw in no way implies compliance with such state and federal regulations. It is the applicant's responsibility to obtain any state and/or federal permits prior to initiating construction."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "III",
+      "title": "GENERAL PROVISIONS",
+      "sections": [
+        {
+          "number": "301",
+          "title": "Limitations on Municipal Bylaws",
+          "page": 16,
+          "paragraphs": [
+            "The following uses may be regulated only with respect to location, size, height, building bulk, yards, courts, setbacks, density of buildings, off-street parking, loading facilities, traffic, noise, lighting, landscaping, and screening requirements, and only to the extent that regulations do not have the effect of interfering with the intended functional use: (1) State-or community-owned and operated institutions and facilities. (2) Public and private schools and other educational institutions certified by the state Department of Education. (3) Churches and other places of worship, convents, and parish houses. (4) Public and private hospitals. (4) Regional solid waste management facilities certified under 10 V.S.A. Chapter 159. (5) Hazardous waste management facilities for which a notice of intent to construct has been received under 10 V.5.A. S6606a. Sec 302: Uses Exempt from Zoning (1) This zoning bylaw shall not regulate public power generating plants and transmission facilities regulated under 30 V.S.A, S248. (2) Except in the Special Flood Hazard Area as regulated under Section 320 of this Bylaw, and in accordance with 24 V.5.A. S4413( d) this zoning bylaw shall not regulate accepted agricultural and silvicultural practices, including the construction of farm structures, as defined by the Secretary of Agriculture, Food and Markets or the Commissioner of Forests, Parks and Recreation respectively. However, any person intending to build a farm structure shall notify the Town Zoning Administrator and shall abide by setbacks approved by the Secretary of Agriculture, Food and Markets. Sec 303: Accessory Dwelling Units Except in the Special Flood Hazard Area as regulated under Section 320 of this Bylaw, an accessory dwelling unit that is located within or appurtenant to an owner occupied single-family dwelling shall be a permitted use. An accessory dwelling unit shall be defined as efficiency or one-bedroom apartment, located within or appurtenant to an owner-occupied single-family dwelling, that is clearly subordinate to a single-family dwelling, and has facilities and provisions for independent living, including sleeping, food preparation, and sanitation, provided there is compliance with all the following: (1) The property has sufficient wastewater capacity. (2) The unit does not exceed 50 percent of the total habitable floor area of the single- family dwelling, up to 1,500 sq. ft. (3) Applicable setback, coverage, and parking requirements specified in the bylaws are met. Sec 304 _________ Existing Small Lots"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304.1",
+          "title": "If two or more adjacent lots are in single or affiliated ownership on the",
+          "page": 17,
+          "paragraphs": [
+            "effective date of this bylaw (insert date), and if all or part of the lots do not meet the requirements for lot frontage and area as established by this bylaw, the lots involved shall be considered to be an individual lot for the purpose of this regulation and no portion of said lot shall be used or sold which does not meet lot frontage and area requirements established by this bylaw, nor shall any division of the lot be made which leaves remaining any lot which is not in conformity with the requirements stated in this bylaw."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304.2",
+          "title": "Existing small lots. Any lot in individual and separate and non-affiliated",
+          "page": 18,
+          "paragraphs": [
+            "ownership from surrounding properties in existence on the effective date of any zoning regulation, including an interim zoning regulation, may be developed for the purposes permitted in the district in which it is located, even though not conforming to minimum lot size requirements, if such lots is not less than one -eighth acre in are a with a minimum width or depth dimension of forty feet."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304.3",
+          "title": "If such lot subsequently comes under common ownership with one or",
+          "page": 18,
+          "paragraphs": [
+            "more contiguous lots, the lot shall be deemed merged with the contiguous lot for purposes of this chapter. However, such lot s hall not be deemed merged and may be separately conveyed, if: (i) the lots are conveyed in their preexisting, nonconforming configuration; and (ii) on the effective date of any zoning regulations, each lot had been developed with a water supply and wastewater dispo sal system; and (iii) at the time of transfer, each water supply and wastewater system is functioning in an acceptable manner; and (iv) the deeds of conveyance create appropriate easements on both lots for replacement of one or more wastewater systems in case a waste water system fails, which means the system functions in a manner: (I) that allows wastewater to be exposed to the open air, pool on the surface of the ground, discharge directly to surface water, or back up into a building or structure unless the approved design of the system specifically requires the system to function in such a manner; (II) so that a potable water supply is contaminated or rendered not potable; (Ill) that presents a threat to human health; or (1V) that presents a serious threat to the environm ent."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304.04",
+          "title": "If, subsequent to separate conveyance, as authorized under",
+          "page": 18,
+          "paragraphs": [
+            "subdivision B of this section, a wastewater system fails, the owner shall be required to obtain from the secretary of natural resources a wastewater permit as required under the subdivision regulations or a certification that the wastewater system has been modified or replaced, with the result that it no longer constitutes a failed system. Sec 305: Frontage on, or Access to, Public Roads or Waters No land development may be permitted on lots which do not have either frontage on a public road or public waters or, access to such a road or waters by a permanent deeded easement or deeded right-of-way at least twenty feet in width. Land development may be permitted on land that does not have frontage either on a public road or public waters, provided that access through a permanent deeded easement or deeded right-of-way has been approved in accordance with standards and process specified in the bylaws. This approval shall be pursuant to subdivision bylaws adopted in accordance with section 4418 of this title, or where subdivision bylaws have not been adopted or do not apply, through a process and pursuant to standards defined in bylaws adopted for the purpose of assuring safe and adequate access. Any permanent easement or right-of-way providing access to such a road or waters shall be at least 20 feet in width. Sec 306: Protection of Home Occupations No regulation herein is intended to infringe upon the right of any resident to use a minor portion of a dwelling for an occupation which is customary in residential areas and which does not change the character thereof. A home occupation shall conform to the following standards:"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "306.01",
+          "title": "The home occupation shall be carried on by me mbers of the family. Two",
+          "page": 19,
+          "paragraphs": [
+            "employees who are not members of the family are permitted;"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "306.02",
+          "title": "The home occupation shall be carried on within the principal or",
+          "page": 19,
+          "paragraphs": [
+            "accessory structures;"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "306.03",
+          "title": "Exterior storage of material shall be screened from view;",
+          "page": 19,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "306.04",
+          "title": "Obnoxious or excessive noise, smoke, vibration, dust, glare, odors,",
+          "page": 19,
+          "paragraphs": [
+            "electrical interference or heat that is detectable shall be confined to the boundaries of the business property line;"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "306.05",
+          "title": "Parking shall be provided off-street and shall not be located in front",
+          "page": 19,
+          "paragraphs": [
+            "yards except for the first two cars;"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "306.06",
+          "title": "Yard sales shall not be held for periods longer than three days at a",
+          "page": 19,
+          "paragraphs": [
+            "time. Sec 307: __________ Lots in Two Zoning Districts Where a district boundary line divides a lot of record at the time such line is adopted, the regulations for the less restricted part of such lot shall extend no more than fifty feet into the more restricted part, provided the lot has frontage on, or approved access to, a public road in the less restricted district. Sec 308: Reduction of Lot Area No lot shall be so reduced in area such that the area, setbacks, lot width, frontage, coverage or other requirements of this bylaw shall be smaller than herein prescribed for each district. The provisions of this section shall not apply when a part of a lot is taken for a public purpose. Sec 309: Required Area or Setbacks Space required under this bylaw to satisfy area, setback or other open space requirements in relation to one building shall not be counted as part of a required open space for any other building. Sec 310: Projections Into Required Setbacks All structures, whether attached to the principal structure or not, and, whether open or enclosed, including porches, carports, balconies, or platforms above normal grade level, shall not project into any minimum setback, setback being defined as the distance from the structure to the property line. Sec 311: Lots Abutting More Than One Public Road Lots that abut on more than one public road shall provide the required frontage along each public road and any setback from a public road shall be considered a front setback for the purposes of this bylaw. Sec 312: Location of Driveways Title 19 VSA, S1111 states that permits must be obtained from the Selectboard for use of any curb cut along any Town highway and from the Agency of Transportation for State highways. The Selectboard has the only authority in the Town for road issues. Refer to Town of Guildhall town highway access/driveway policy. Sec 313: Temporary Uses and Structures Temporary permits may be issued by the Zoning Administrative Officer for a period not exceeding one year, for non-conforming uses incidental to construction projects, provided such permits are conditioned upon agreement by the owner to remove the structure or use upon expiration of the permit. Such permits may be renewed upon application for an additional period not exceeding one year. Sec 314: Collapsed or Burned Buildings and Structures No owner or occupant of land in any district shall permit a demolished, collapsed or burned building to remain as such, but within one year shall remove the building or structure and clear the site to ground level, or shall repair, rebuild or replace the building or structure. The Board of Adjustment may grant an extension of one year to meet this requirement. Sec 315: Off Street Parking Off street parking shall be provided as follows:"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "315.01",
+          "title": "Two spaces per dwelling unit for residential uses",
+          "page": 21,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "315.02",
+          "title": "One space per one hundred square feet of floor area for",
+          "page": 21,
+          "paragraphs": [
+            "commercial/industrial uses open to the general public."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "315.03",
+          "title": "One and one-half spaces per employee for commercial and/or",
+          "page": 21,
+          "paragraphs": [
+            "industrial uses not open to the general public."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "315.04",
+          "title": "No parking is allowed within the town right of way or on the traveled",
+          "page": 21,
+          "paragraphs": [
+            "portion of the road or highway. Sec 316: Signs All signs shall be non-offensive in nature. In any district the following signs shall be permitted when located on the immediate property:"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "316.01",
+          "title": "A sign not exceeding twenty-four square feet which announces the name,",
+          "page": 21,
+          "paragraphs": [
+            "address, profession, or home occupation of the occupant of the premises on which said sign is located."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "316.02",
+          "title": "A bulletin board not exceeding twenty-four square feet, in connection with",
+          "page": 21,
+          "paragraphs": [
+            "any church, school or similar public structure."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "316.03",
+          "title": "A temporary sign, not exceeding twenty-four square feet does not",
+          "page": 21,
+          "paragraphs": [
+            "require a permit. Such sign shall be removed promptly when it has fulfilled its function. The following signs are included but not limited to: Sandwich Boards Real Estate Signs Construction Signs Event Signs Signs required for public health and safety Political Signs"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "316.04",
+          "title": "A business sign in connection with any legal business or industry",
+          "page": 22,
+          "paragraphs": [
+            "located on the same premises and meeting the following requirements:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Two signs are permitted for any legally established business,",
+              "paragraphs": [
+                "one free standing, the other attached to the building. The height of a freestanding sign shall not exceed 20 feet."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Illuminated signs shall be shielded in such a way as to produce",
+              "paragraphs": [
+                "no glare, undue distraction, confusion or hazard to the surrounding area or to vehicular traffic. Illumination shall be properly focused upon or from within the sign itself."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Maximum square footage of any sign shall be 100 square feet",
+              "paragraphs": [
+                "or a total of one hundred-fifty square feet for the two signs."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "316.05",
+          "title": "A portable temporary on -site display sign not exceeding a time period of",
+          "page": 22,
+          "paragraphs": [
+            "7 days will be permitted. (i.e.: flea market, non-profit event) No permit required."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "316.06",
+          "title": "Setbacks for signs: Signs shall not obstruct view and be set back out of",
+          "page": 22,
+          "paragraphs": [
+            "right of way. Sec 317: Auto Service Stations In addition to the district regulations, all auto service stations and repair facilities shall comply with the following requirements:"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "317.01",
+          "title": "Pumps, lubricating and other service devices shall be located at least",
+          "page": 22,
+          "paragraphs": [
+            "50 feet from the front lot line and 35 feet from side and rear lot lines."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "317.02",
+          "title": "There shall be no more than two access driveways from the road. The",
+          "page": 22,
+          "paragraphs": [
+            "maximum width of each access driveway shall be 40 feet."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "317.03",
+          "title": "A suitably curbed and landscaped area shall be maintained at",
+          "page": 22,
+          "paragraphs": [
+            "least 5 feet in depth along all road frontages not used as driveway. Sec 318: Earth Resource Extraction The extraction of earth resources for sale, except when incidental to construction of a building or lot improvement on the same premises, shall be considered a conditional use and permitted only upon approval by the Board of Adjustment after a public hearing. The following provisions shall apply:"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "318.01",
+          "title": "Before the approval of any earth resource extraction operation the",
+          "page": 22,
+          "paragraphs": [
+            "applicant shall agree to leave the site in a safe, attractive, and useful condition upon completion of the extraction operations. The Board of Adjustment may require a performance bond or other means of security to ensure rehabilitation of the site."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "318.02",
+          "title": "Cut slopes, soil banks, and deep pits created by extraction operations",
+          "page": 23,
+          "paragraphs": [
+            "shall not be allowed to remain but shall be graded smooth and left in a neat condition."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "318.03",
+          "title": "No excavation, blasting, or stock piling of materials shall be located",
+          "page": 23,
+          "paragraphs": [
+            "within two hundred (200) feet of any public road or neighboring property line."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "318.04",
+          "title": "No power-activated sorting machinery or equipment shall be located",
+          "page": 23,
+          "paragraphs": [
+            "within three hundred (300) feet of any public road or neighboring property line."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "318.05",
+          "title": "Steep slopes created by excavating which constitutes a safety hazard",
+          "page": 23,
+          "paragraphs": [
+            "shall be fenced and appropriately screened as determined by the Board of Adjustment."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "318.06",
+          "title": "The Board of Adjustment may attach any additional conditions as it",
+          "page": 23,
+          "paragraphs": [
+            "may find necessary for the safety and general welfare of the public. Sec 319: Setback from Streams/Brook/Creek/Flowing Body of Water No zoning permit will be issued for any structure having a setback of less than seventy-five feet from any designated flowing body of water. Sec 320: Flood Hazard Regulations These regulations shall apply for development in all areas in the Town of Guildhall identified as areas of special flood hazard on the (current National Flood Insurance Program maps and study) which are hereby adopted by reference and declared to be part of these regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "320.01",
+          "title": "Statutory Authorization",
+          "page": 23,
+          "paragraphs": [
+            "To effect the purposes of 10 V.S.A. Chapter 32, and in accordance with 24 V.S.A. S 4424, there is hereby established a regulation for areas of special flood hazard in the Town of Guildhall, Vermont. It is the purpose of this regulation to: (A) Minimize and prevent the loss of life and property, the disruption of commerce, the impairment of the tax base, and the extraordinary public expenditures and demands on public services that result from flooding and other flood related hazards; (B) Ensure that the design and construction of development in flood and other hazard areas are accomplished in a manner that minimizes or eliminates the potential for flood and loss or damage to life and property; (C) Manage all flood hazard areas designated pursuant to 10 V.S.A. S 753; (D) Make the state, municipalities, and individuals eligible for federal flood insurance and other federal disaster recovery and hazard mitigation funds as may be available."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "320.02",
+          "title": "Lands to Which These Regulations Apply",
+          "page": 24,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Regulated Flood Hazard Areas",
+              "paragraphs": [
+                "These regulations shall apply to the Special Flood Hazard Area in and on the most current flood insurance studies and maps published by the Department of Homeland Security, Federal Emergency Management Agency, National Flood Insurance Program, as provided by the Secretary of the Agency of Natural Resources pursuant to 10 V.S.A. Chapter 32 S 753, which are hereby adopted by reference and declared to be part of these regulations. The location of the boundary shall be determined by the Zoning Administrator (ZA). If the applicant disagrees with the determination made by the ZA, a Letter of Map Amendment from FEMA shall constitute proof."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Base Flood Elevations and Floodway Limits in Special Flood Hazard",
+              "paragraphs": [
+                "Areas Where available, base flood elevations and floodway limits provided by the National Flood Insurance Program and in the Flood Insurance Study and accompanying maps shall be used to administer and enforce these regulations. In Special Flood Hazard Areas where base flood elevations and/or floodway limits have not been provided by the National Flood Insurance Program in the Flood Insurance Study and accompanying maps, it is the applicant's responsibility to develop the necessary data. Where available, the applicant shall use data provided by FEMA, or State, or Federal agencies."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "320.03",
+          "title": "Development Permit Required",
+          "page": 24,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Permit",
+              "paragraphs": [
+                "A permit is required from the Administrative Officer for all development in all areas defined in Section IV. Development that requires conditional use approval, non- conforming use approval, or a variance from the Zoning Board of Adjustment (ZBA) under these flood hazard regulations, must have such approvals prior to the issuance of a permit by the ZA. Any development subject to municipal jurisdiction in the designated hazard areas shall meet the criteria in this section and Section"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "320.06",
+          "title": "Any permit issued will require that all other necessary permits from State",
+          "page": 24,
+          "paragraphs": [
+            "or Federal Agencies have been received before work may begin."
+          ],
+          "subsections": [
+            {
+              "label": "B",
+              "title": "Permitted Development",
+              "paragraphs": [
+                "For the purposes of review under these regulations, the following development activities in the Special Flood Hazard area where outside of the floodway and outside of the Fluvial Erosion Hazard Zone, and meeting the Development Standards in Section 320.06, require only an administrative permit from the ZA:"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Non-substantial improvements;",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Accessory structures;",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Development related to on-site septic or water supply systems;",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Building utilities;",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "At-grade parking for existing buildings; and,",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Recreational vehicles.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Prohibited Development in Special Flood Hazard Area and Fluvial Erosion",
+              "paragraphs": [
+                "Hazard Zone",
+                "manufactured homes);",
+                "elevation;",
+                "hazards; and,"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "New residential or non-residential structures (including the placement of",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Storage or junk yards;",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "New fill except as necessary to elevate structures above the base flood",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Accessory structures in the floodway;",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Critical facilities are prohibited in all areas affected by mapped flood",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "All development not exempted, permitted, or conditionally permitted.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Conditional Use Review",
+              "paragraphs": [
+                "Conditional use review and approval by the ZBA, is required prior to the issuance of a permit by the ZA for proposed development within the following:",
+                "structures;",
+                "are functionally dependent on stream access or stream crossing;",
+                "Zone that do not expand the footprint of the existing structure more than 500 square feet;",
+                "or less, that represents a minimal investment"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Substantial improvement, elevation, relocation, or flood proofing of existing",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "New or replacement storage tanks for existing structures;",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Improvements to existing structures in the floodway;",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Grading, excavation; or the creation of a pond;",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Improvements to existing roads;",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Bridges, culverts, channel management activities, or public projects which",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Public utilities;",
+                  "use_type": null
+                },
+                {
+                  "number": "8",
+                  "text": "Improvements to existing primary structures in the Fluvial Erosion Hazard",
+                  "use_type": null
+                },
+                {
+                  "number": "9",
+                  "text": "Accessory structures in the Fluvial Erosion Hazard Zone, of 500 square feet",
+                  "use_type": null
+                },
+                {
+                  "number": "10",
+                  "text": "Building utilities in the Fluvial Erosion Hazard Zone; and,",
+                  "use_type": null
+                },
+                {
+                  "number": "11",
+                  "text": "At-grade parking for existing buildings in the Fluvial Erosion Hazard Zone",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "E",
+              "title": "Exempted Activities",
+              "paragraphs": [
+                "The following are exempt from regulation under this bylaw:",
+                "Department of Forests and Parks Acceptable Management Practices; and,",
+                "Department of Agriculture's Accepted Agricultural Practices (AAP). Prior to the construction of farm structures the farmer must notify the ZA in writing of the proposed activity. The notice must contain a sketch of the proposed structure including setbacks"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The removal of a building or other structure in whole or in part;",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Maintenance of existing roads and storm water drainage;",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Silvicultural (forestry) activities conducted in accordance with the Vermont",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Agricultural activities conducted in accordance with the Vermont",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "F",
+              "title": "Certificate of Occupancy (Note - Certificates of Occupancy apply only to properties",
+              "paragraphs": [
+                "within the Special Flood Hazard Area) In accordance with Chapter 117 S4449, it shall be unlawful to use or occupy, or permit the use or occupancy of any land or structure, or part thereof, created, erected, changed, converted, or wholly or partly altered or enlarged in its use or structure within Special Flood Hazard Area until a Certificate of Occupancy is issued by the Zoning Administrator, stating that the proposed use of the structure or land conforms to the requirements of these bylaws. A Certificate of Occupancy is not required for structures that were built in compliance with the bylaws at the time of construction and have not been improved since the adoption of this bylaw. Within 14 days of the receipt of the application for a Certificate of Occupancy, the ZA shall inspect the premises to ensure that all permits identified on the Project Review Sheet have been acquired and all that all work has been completed in conformance with the zoning permit and associated approvals. If the ZA fails to grant or deny the Certificate of Occupancy within 14 days of the submission of the application, the certificate shall be deemed issued on the 15th day. If a Certificate of Occupancy cannot be issued, notice will be sent to the owner and filed with the Town Clerk."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Variances",
+              "paragraphs": [
+                "Variances may be granted in writing by the ZBA only in accordance with all the criteria in 24 V.S.A. S 4469, S 4424 (E), and 44 CFR Section 60.6, after a public hearing noticed as described in Section VIII.",
+                "allowed if, based on a review by VT ANR, it is determined that the proposed development will not obstruct the establishment and maintenance of fluvial geomorphic equilibrium for the watercourse.",
+                "flood heights, and will inform the applicant in writing over the signature of a community official that the issuance of a variance to construct a structure below the base flood elevation increases risk to life and property and will result in increased flood insurance premiums up to amounts as high as $25 for $100 of coverage. Such notification shall be maintained with a record of all variance actions."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "A variance for development within the Fluvial Erosion Hazard Zone may be",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Any variance issued in the Special Flood Hazard Area will not increase",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "H",
+              "title": "Nonconforming Structures and Uses",
+              "paragraphs": [
+                "The ZBA may, after public notice and hearing, approve the repair, relocation, replacement, or enlargement of a nonconforming structure within a flood hazard area provided that:",
+                "Standards in Section VII of this bylaw;",
+                "may be reconstructed only in circumstances when the structure cannot be relocated to a less hazardous location on the parcel. The lowest floor of the reconstructed structure must be rebuilt to one foot or more above the base flood elevation and the structure must otherwise comply with all requirements of the National Flood Insurance Program;",
+                "such structures or uses are discontinued for more than 12 months; and",
+                "park that is vacated shall not be considered a discontinuance or abandonment of nonconformity. Replacement manufactured homes must be placed so as to meet the development standards in this bylaw (320.06)."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The proposed development is in compliance with all the Development",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "A nonconforming structure that is substantially damaged or destroyed",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Nonconforming structures or uses shall be considered abandoned where",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "An individual manufactured home lot in an existing manufactured home",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "320.04",
+          "title": "Procedures",
+          "page": 27,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Application Submission Requirements. Applications for development shall",
+              "paragraphs": [
+                "include:",
+                "water bodies, Special Flood Hazard Areas, floodways, Fluvial Erosion Hazard Zone, the shortest horizontal distance from the proposed development to the top of bank of any stream, any existing and proposed drainage, any proposed fill, and pre and post development grades, and the elevation of the proposed lowest floor, as referenced to the same vertical datum as the elevation on the current Flood Insurance Rate Maps;",
+                "proposal. The Project Review Sheet shall identify all State and Federal agencies from which permit approval is required for the proposal, and shall be filed as a required attachment to the municipal permit application. The identified permits, or letters indicating that such permits are not required, shall be submitted to the ZA and attached to the permit before work can begin;"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Where applicable, a site plan that depicts the proposed development, all",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "A Vermont Agency of Natural Resources Project Review Sheet for the",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "Referrals",
+              "paragraphs": [
+                "new construction the ZA shall submit a copy of the application and supporting information to the State National Flood Insurance Program (NFIP) Coordinator at the Vermont Agency of Natural Resources, in accordance with 24 V.S.A. S 4424",
+                "or the expiration of 30 days from the date the application was mailed to the Agency, whichever is sooner.",
+                "watercourse, copies of the application shall also be submitted to the adjacent communities, the Stream Alteration Engineer at the Vermont Agency of Natural Resources, and the Army Corps of Engineers. Copies of such notice shall be provided to the State National Flood Insurance Program (NFIP) Coordinator at the Vermont Agency of Natural Resources, Department of Environmental Conservation. A permit may be issued only following receipt of comments from the Vermont Agency of Natural Resources, or the expiration of 30 days from the date the application was mailed to the Vermont Agency of Natural Resources, whichever is sooner. The Board should consider comments from the NFIP Coordinator at ANR."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Upon receipt of a complete application for a substantial improvement or",
+                  "use_type": null
+                },
+                {
+                  "number": "18",
+                  "text": "A permit may be issued only following receipt of comments from the Agency,",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "If the applicant is seeking a permit for the alteration or relocation of a",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Decisions. The ZBA shall consider comments from the NFIP Coordinator at",
+              "paragraphs": [
+                "ANR. The ZBA may recess the proceedings on any application pending submission of additional information."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "320.05",
+          "title": "Base Flood Elevations and Floodway Limits",
+          "page": 28,
+          "paragraphs": [
+            "(A) The \"Regulatory Floodway\" in Town of Guildhall means the channel of a river or other watercourse and the adjacent land areas that must be reserved in order to discharge the base flood without cumulatively increasing the water surface elevation more than one foot at any point. Where available, base flood elevations and floodway limits (or data from which a community can designate regulatory floodway limits) provided by the National Flood Insurance Program in the Flood Insurance Study and accompanying maps shall be used to administer and enforce these regulations. (B) Where available, base flood elevations and floodway limits provided by the National Flood Insurance Program and in the Flood Insurance Study and accompanying maps shall be used to administer and enforce these regulations. In Special Flood Hazard Areas where base flood elevations and/or floodway limits have not been provided by the National Flood Insurance Program in the Flood Insurance Study and accompanying maps, it is the applicant's responsibility to develop the necessary data. Where available, the applicant shall use data provided by FEMA, or State, or Federal agencies (C) Until a regulatory floodway has been designated, no new construction, substantial improvements, or other development shall be permitted unless it is demonstrated that the cumulative effect of the proposed development, when combined with all other existing development and anticipated development will not increase the water surface elevation of the base flood more than one foot at any point within the community."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "320.06",
+          "title": "Development Standards",
+          "page": 28,
+          "paragraphs": [
+            "(A) Floodway Areas (1) Encroachments or development above grade and less than one foot above the base flood elevation, are prohibited unless hydrologic and hydraulic analyses are performed in accordance with standard engineering practice, by a registered professional engineer, certifying that the proposed development will:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Not result in any increase in flood levels (0.00 feet) during the",
+              "paragraphs": [
+                "occurrence of the base flood;"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Not increase any risk to surrounding properties, facilities, or structures",
+              "paragraphs": [
+                "from erosion or flooding. (2) Public utilities may be placed underground, and the analyses may be waived, where a registered professional engineer certifies that there will be no change in grade and the utilities will be adequately protected from scour. (3) Junkyards, on-site wastewater disposal systems, and storage facilities for floatable materials, chemicals, explosives, flammable liquids, or other hazardous or toxic materials, are prohibited within the floodway. (B) All Special Flood Hazard Areas (within mapped Floodway Areas, the following Section B provisions are additive to the Section A provisions above).",
+                "and: (a) designed (or modified) and adequately anchored to prevent flotation, collapse, or lateral movement of the structure during the occurrence of the base flood, (b) constructed with materials resistant to flood damage, (c) constructed by methods and practices that minimize flood damage, and (d) constructed with electrical, heating, ventilation, plumbing and air conditioning equipment and other service facilities that are designed and/or located so as to prevent water from entering or accumulating within the components during conditions of flooding.",
+                "(a) Existing buildings and manufactured homes to be substantially improved or replaced and are located in Zones A1-30, AE, and AH shall be located such that the lowest floor is at least one foot above base flood elevation. This must be documented, in as-built condition, with a FEMA Elevation Certificate. (b) Non-residential structures to be substantially improved must meet the standards 2(a), or may have the lowest floor, including basement, together with attendant utility and sanitary facilities be designed so that two feet above the base flood elevation the structure is watertight with walls substantially impermeable to the passage of water and with structural components having the capability of resisting hydrostatic and hydrodynamic loads and effects of buoyancy; A permit for flood proofing shall not be issued until a registered professional engineer or architect has reviewed the structural design, specifications and plans, and has certified that the design and proposed methods of construction are in accordance with accepted standards of practice for meeting the provisions of this subsection. A permit for an improvement proposed to be flood proofed shall not be issued until a registered professional engineer or architect has reviewed the structural design, specifications and plans, and has certified that the design and proposed methods of construction are in accordance with accepted standards of practice for meeting the provisions of this subsection.",
+                "(a) New subdivision of land proposals and other proposed improvements that are greater than 50 lots or 5 acres, whichever is the lesser, shall include base flood elevation data. (b) Subdivisions of land shall be designed to assure: i. such proposals minimize flood damage within the flood-prone area, ii. public utilities and facilities, such as sewer, gas, electrical, and water systems are located and constructed to minimize or eliminate flood damage, and iii. adequate drainage is provided to reduce exposure to flood hazards.",
+                "(a) Fully enclosed areas below grade on all sides (including below grade crawlspaces and basements) are prohibited. (b) Fully enclosed areas that are above grade, below the lowest floor, below BFE and subject to flooding, shall: (1) Be solely used for parking of vehicles, storage, or building access, and such a condition shall clearly be stated on any permits; and, (2) Be designed to automatically equalize hydrostatic flood forces on exterior walls by allowing for the entry and exit of floodwaters. Such designs must be certified by a registered professional engineer or architect, or meet or exceed the following minimum criteria: A minimum of two openings on two walls having a total net area of not less than one square inch for every square foot of enclosed area subject to flooding shall be provided. The bottom of all openings shall be no higher than one foot above grade. Openings may be equipped with screens, louvers, valves, or other coverings or devices provided that they permit the automatic entry and exit of floodwaters.",
+                "highway use.",
+                "designed to minimize or eliminate infiltration of flood waters into the systems.",
+                "designed to minimize or eliminate infiltration of flood waters into the systems and discharges from the systems into flood waters.",
+                "shall be located to avoid impairment to them or contamination from them during flooding. Wastewater disposal systems shall not be located in a floodway area.",
+                "altered or relocated portion of a watercourse shall be maintained."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Improvements - All improvements shall be reasonably safe from flooding",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Substantial Improvements",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Subdivisions:",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Enclosed Areas Below the Lowest Floor:",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Recreational Vehicles (RVs): RVs must be fully licensed and ready for",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Water Supply Systems: Replacement water supply systems shall be",
+                  "use_type": null
+                },
+                {
+                  "number": "8",
+                  "text": "Sanitary Sewage Systems: Replacement sanitary sewage systems shall be",
+                  "use_type": null
+                },
+                {
+                  "number": "9",
+                  "text": "On-Site Waste Disposal Systems: On-site wastewater disposal systems",
+                  "use_type": null
+                },
+                {
+                  "number": "10",
+                  "text": "Watercourse Carrying Capacity: The flood carrying capacity within any",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "320.07",
+          "title": "Duties and Responsibilities of the Administrative Officer",
+          "page": 30,
+          "paragraphs": [
+            "Records. The Administrative Officer shall properly file and maintain a record of:",
+            "datum of the elevation on the current Flood Insurance Rate Maps for the community) of the lowest floor, including basement, of all new, substantially improved, or flood proofed buildings (not including accessory buildings) in the Special Flood Hazard Area;",
+            "and,",
+            "supporting findings of fact, conclusions and conditions."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "All permits issued in areas covered by this bylaw;",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "An Elevation Certificate with the as-built elevation (consistent with the",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "All flood proofing and other certifications required under this regulation;",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "All decisions of the DRB (including variances and violations) and all",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "320.09",
+          "title": "Warning of Disclaimer of Liability",
+          "page": 31,
+          "paragraphs": [
+            "This regulation does not imply that land outside of the areas of special flood hazard or land use permitted within such districts will be free from flooding or flood damages. This regulation shall not create liability on the part of the Town of Guildhall or any town official or employee thereof for any flood damages that result from reliance on this regulation or any administrative decision lawfully made hereunder."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "320.10",
+          "title": "Validity and Severability",
+          "page": 31,
+          "paragraphs": [
+            "If any portion of this regulation is held unconstitutional or invalid by a competent court, the remainder of this regulation shall not be affected."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "320.11",
+          "title": "Precedence of Regulation",
+          "page": 31,
+          "paragraphs": [
+            "The provisions of this regulation shall not in any way impair or remove the necessity of compliance with any other applicable regulations. Where this regulation imposes a greater restriction, the provisions of this regulation shall take precedence."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "320.12",
+          "title": "Enforcement and Penalties",
+          "page": 31,
+          "paragraphs": [
+            "(A) It shall be the duty of the Administrative Officer to enforce the provisions of this regulation. Whenever any improvements or subdivision occur contrary to these flood hazard area regulations, the Administrative Officer, in his/her discretion, shall institute appropriate action in accordance with the provisions of 24 V.S.A. S1974a or pursuant to 24 V.S.A. S 4451 or 24 V.S.A. S 4452 to correct the violation. No action may be brought unless the alleged offender has had at least a seven-day warning notice by certified mail. An action may be brought without the seven-day notice and opportunity to cure if the alleged offender repeats the violation after the seven-day notice period and within the next succeeding twelve months. The seven-day warning notice shall state that a violation exists, that the alleged offender has an opportunity to cure the violation within the seven days, and that the alleged offender will not be entitled to an additional warning notice for a violation occurring after the seven days. If the structure is still non-compliant after the opportunity to cure has passed, the Administrator Officer shall submit a declaration to the Administrator of the NFIP requesting a denial of flood insurance. Section 1316 of the National Flood Insurance Act of 1968, as amended, authorizes FEMA to deny flood insurance to a property declared by a community to be in violation of their flood hazard area regulations. The declaration shall consist of: (a) the name of the property owner and address or legal description of the property sufficient to confirm its identity or location, (b) a clear and unequivocal declaration that the property is in violation of a cited State or local law, regulation, or ordinance, (c) a clear statement that the public body making the declaration has authority to do so and a citation to that authority, (d) evidence that the property owner has been provided notice of the violation and the prospective denial of insurance, and (e) a clear statement that the declaration is being submitted pursuant to Section 1316 of the National Flood Insurance Act of 1968, as amended. . Sec 321: Structures"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "321.01",
+          "title": "Structure. Anything constructed or erected that requires location",
+          "page": 32,
+          "paragraphs": [
+            "on the ground or attached to something having location on the ground."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "321.02",
+          "title": "Movable Structure. A structure designed to be moved. These",
+          "page": 32,
+          "paragraphs": [
+            "structures must conform to applicable setbacks, permits, and other conditions."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "321.03",
+          "title": "Temporary Structure. A structure removed when the activity",
+          "page": 32,
+          "paragraphs": [
+            "or use for which the temporary structure was erected has ceased."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "321.04",
+          "title": "Micro Structure. A freestanding structure of 24 square feet or",
+          "page": 32,
+          "paragraphs": [
+            "less in size. A permit is not required. Ex.: Springhouse cover, tree house, doghouse."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "321.05",
+          "title": "Green houses are exempt from requiring a permit as it is an",
+          "page": 32,
+          "paragraphs": [
+            "agricultural building."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "321.06",
+          "title": "Any structures located within a Special Flood Hazard Area are",
+          "page": 32,
+          "paragraphs": [
+            "regulated under Section 320 of this Bylaw, including movable, temporary, micro-structures, and greenhouses. Sec 322: Planned Unit Development In accordance with the provisions set forth in Section 4417 of the Act, the modification of district regulations is permitted subject to the requirements of this section. No zoning permit shall be issued by the Zoning Administrative Officer for a planned unit development until the Planning Commission grants such approval in accordance with the following procedures:"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "322.01",
+          "title": "The purpose of the planned unit development provision is to",
+          "page": 33,
+          "paragraphs": [
+            "encourage compact, pedestrian oriented, affordable housing, innovation in design and layout, and more efficient use of land."
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "To provide for the conservation of open space features",
+              "paragraphs": [
+                "recognized as worthy of conservation in the municipal plan and bylaws, such as the preservation of agricultural land, forest land, trails, and other recreational resources, critical and sensitive natural areas, scenic resources, and protection from natural hazards."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "To encourage and preserve opportunities for energy efficient",
+              "paragraphs": [
+                "development and redevelo pment."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "322.02",
+          "title": "Proposals for planned unit developments shall be submitted to",
+          "page": 33,
+          "paragraphs": [
+            "the Planning Commission in duplicate and shall include a site plan map and supporting data as required by this section."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "322.03",
+          "title": "Supporting Data Required. The following data is req uired and must",
+          "page": 33,
+          "paragraphs": [
+            "be submitted in a written text:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Name and address of the owner of record of the land in",
+              "paragraphs": [
+                "question."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Names and addresses of the owners of all abutting",
+              "paragraphs": [
+                "properties."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Name and address of the person or firm preparing the site",
+              "paragraphs": [
+                "plan map."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Construction sequence and time schedule for",
+              "paragraphs": [
+                "completion of each phase for buildings, parking spaces, and landscaped areas of the entire development."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Any land use and/or deed restrictions",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "322.04",
+          "title": "Site Plan Map Required. A site plan map is required and must",
+          "page": 33,
+          "paragraphs": [
+            "show the following features:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Existing features, including contours, structures, large trees,",
+              "paragraphs": [
+                "streets, utility easements, and rights -of-way."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Proposed structure locations and land use areas, streets,",
+              "paragraphs": [
+                "driveways, traffic circulation, parking and loading spaces, pedestrian walks, landscaping plans, including site grading, landscape design and screening."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "322.05",
+          "title": "Uses shall be limited to those permitted and conditional uses",
+          "page": 33,
+          "paragraphs": [
+            "within the district in which the planned unit development is proposed."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "322.06",
+          "title": "Density may vary within the development but the total number of",
+          "page": 34,
+          "paragraphs": [
+            "dwelling units shall not exceed 25% more than the number that would be permitted, in the Planning Commission's judgment, if the land were subdivided into lots in conformance with the zoning regulations for the district in which it is located."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "322.07",
+          "title": "Lot size, width, depth, and frontage requirements may be waived;",
+          "page": 34,
+          "paragraphs": [
+            "however, these will be evaluated by the Planning Commission on their individual merit."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "322.08",
+          "title": "A planned unit development shall comply with the following",
+          "page": 34,
+          "paragraphs": [
+            "standards:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "It shall be at least ten contiguous acres",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Off-lot water and sewer may be required if for over six",
+              "paragraphs": [
+                "residential units."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "At least 25% of the development shall be open space for public",
+              "paragraphs": [
+                "and/or common usage. The regulations for control and maintenance of this open space shall be approved by the Planning Commission."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "322.09",
+          "title": "The Planning Commission may prescribe, from time to time, rules",
+          "page": 34,
+          "paragraphs": [
+            "and regulations to supplement the standards and conditions set forth in these zoning regulations for planned unit development, provided the rules and regulations are consistent with the zoning regulations. The Planning Commission shall hold a public hearing after public notice, as required by Section 4464 of the Act, prior to the establishment of any supplementary rules and regulations for planned unit development. Standards for the review of proposed planned unit developments, which may vary the density of intensity of land use otherwise applicable under the provisions of the bylaw in consideration of and with respect to any of the following:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The location and physical characteristics of the",
+              "paragraphs": [
+                "proposed planned unit development."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The location, design, type, and use of the lots and",
+              "paragraphs": [
+                "structures proposed."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "The amount, location and proposed use of open",
+              "paragraphs": [
+                "space. Sec 323: ___ Historical District As provided for in Section 4414(F) of the Act, provision is hereby made for establishment of Historical Districts. Within the Historical District, no structure may be erected, reconstructed, substantially altered, restored, moved, demolished, or changed in use or type of occupancy without approval of plans by the Planning Commission. The procedure for obtaining approval of plans shall be as follows:"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "323.01",
+          "title": "Any application for a zoning permit for construction, reconstruction,",
+          "page": 35,
+          "paragraphs": [
+            "or alteration of any structure shall be made to the Zoning Administrative Officer with two copies of proposed plans and elevations, and a description of materials to be used on the exterior of any structure, and any proposed landscaping."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "323.02",
+          "title": "The Zoning Administrative Officer shall, within 15 days of receiving",
+          "page": 35,
+          "paragraphs": [
+            "such plans, submit them to the Planning Commission for review and schedule hearing within 45 day of receiving such plans"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "323.03",
+          "title": "The Planning Commission shall, within 45 days of the public",
+          "page": 35,
+          "paragraphs": [
+            "hearing, render a decision as to the acceptability of the plans based on the following considerations:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Harmony of exterior design with other properties",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Compatibility of exterior materials to be used with",
+              "paragraphs": [
+                "other properties."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Compatibility of the proposed landscaping",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Prevention of the use of incompatible designs of",
+              "paragraphs": [
+                "buildings, color schemes or exterior materials."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "323.04",
+          "title": "The Planning Commission shall review and either accept or",
+          "page": 35,
+          "paragraphs": [
+            "reject the proposed plans. If the plans are rejected, the Planning Commission shall state in a report to the Zoning Administrative Officer reasons for such rejection."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "323.05",
+          "title": "No zoning permit shall be issued by the Zoning Administrative",
+          "page": 35,
+          "paragraphs": [
+            "Officer for any structure in the Historical District unless the Planning Commission fails to render a written decision within 45 days. Sec 324: Travel Trailers & Travel Trailer Camps"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "324.01",
+          "title": "Travel Trailers. It shall be unlawful for any person to park a",
+          "page": 35,
+          "paragraphs": [
+            "camping trailer, travel trailer, pick-up coach and/or motor home on any public or private property, except in accordance with the regulations as follows:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "In an approved travel trailer camp",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "In an approved travel trailer sales lot",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Any property owner may park his travel trailer, or that of a",
+              "paragraphs": [
+                "visitor, on his own property, provided the trailer is parked no closer than six feet to any lot line."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "A parked travel trailer shall not be used as living",
+              "paragraphs": [
+                "quarters for more than six months in any calendar year."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "324.02",
+          "title": "Travel Trailer Camps. It shall be unlawful for any person to",
+          "page": 36,
+          "paragraphs": [
+            "construct, maintain or operate any trailer camp unless he or she or any firm holds a valid permit issued by the Zoning Administrative Officer. The issuance of a permit shall require conditional use approval by the Zoning Board of Adjustment where applicable, and proof of compliance or intent to comply with applicable state regulations. In addition to any applicable state regulations the following standards shall apply in respect to all travel trailer camps:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "All access driveways within a trailer camp must be at least",
+              "paragraphs": [
+                "thirty feet in width and have a compacted grave l surface at least twenty feet in width."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "A strip of land at least twenty-five feet in width shall be",
+              "paragraphs": [
+                "maintained as a landscaped area abutting all trailer camp property lines except when the camp boundary is adjacent to residential uses when the landscaped area shall be at least fifty feet in width."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "All trailer camps must comply with the sanitation and health",
+              "paragraphs": [
+                "laws of the State of Vermont and Town of Guildhall."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "324.03",
+          "title": "Other Provisions. Mobile homes and trailers that are a part of",
+          "page": 36,
+          "paragraphs": [
+            "traveling circuses, fairs, carnivals, etc., may secure a temporary permit not to exceed 21 days, provided that all health and sanitary laws and regulations of the State of Vermont and Town of Guildhall are met. Sec 325: Telecommunications"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "325.01",
+          "title": "Authority",
+          "page": 36,
+          "paragraphs": [
+            "(A) Under authority granted by 24 V.S.A. Chapter 117, the Town of Guildhall adopts this Wireless Telecommunication Facility (WTF) Zoning Bylaw. (B) Pursuant to 24 V.S.A. S4414(12), the Planning Commission (PC) shall have the authority to regulate construction, alteration, and development, decommissioning and dismantling of WTFs in the Town of Guildhall."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "325.02",
+          "title": "Purpose",
+          "page": 37,
+          "paragraphs": [
+            "The purpose of these regulations is to promote the public health, safety, and welfare of the residents of the Town of Guildhall, and preservation of the environment, while accommodating the telecommunication needs of the Town's residents."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "325.03",
+          "title": "Consistency with Federal and State Law; Severability",
+          "page": 37,
+          "paragraphs": [
+            "This Bylaw is intended to be consistent with the Telecommunications Act of 1996 and Title 24, Chapter 117 of Vermont Statutes Annotated (V.S.A.). If any section of this Bylaw is held by a court of competent jurisdiction to be invalid, such finding shall not invalidate any other part of this regulation."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "325.04",
+          "title": "Permit Required; Exemptions",
+          "page": 37,
+          "paragraphs": [
+            "(A) WTFs may be permitted as conditional uses upon compliance with the provisions of this Bylaw in the following zoning districts: Guildhall Village District, Guildhall Village District, Rural Lands District, and Conservation District. No installation or construction of, or significant addition or modification to, any WTF shall commence until a permit has been issued by the PC. However, in accordance with 24 V.S.A. S 4412(9), a permit shall be issued for a WTF that in, the determination of the PC will impose no impact or merely a de minimis impact upon any criteria established in (I) below. The PC's determination regarding no impact or de minimis impact shall be in writing and shall be subject to appeal under 24 V.S.A. S 4471. (B) No permit shall be required for a WTF that is used exclusively for municipal radio dispatch service or emergency radio dispatch service and which does not exceed 50 feet in elevation. (C) This Bylaw shall not apply to amateur radio, citizens band radio, AM or FM radio, or broadcast television service. (D) No permit shall be required for a WTF that has received a certificate of public good pursuant to 30 V.S.A. S 248a. (E) This Bylaw shall not prohibit a property owner's ability to place or allow placement of antennae used to transmit, receive, or transmit and receive communications signals on the property owner's premises if the aggregate area of the largest face of the antennae is not more than eight square feet, and if the antennae and the mast to which they are attached do not extend more than 12 feet above the roof of that portion of the building to which they are attached."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "325.05",
+          "title": "Permit Application Requirements",
+          "page": 38,
+          "paragraphs": [
+            "In addition to information otherwise required in the Town of Guildhall's Zoning Bylaw, applicants shall include the following supplemental information: (A) The applicant's legal name, address, telephone number, and e-mail. If the applicant is not a natural person, the applicant shall provide the state in which it is incorporated and the name and address of its resident agent. (B) The name, title, address, telephone number, and e-mail of the person to whom correspondence concerning the application should be sent. (C) The name, address, telephone number, and e-mail of the owner or lessee of the property on which the WTF will be located. (D) The names and addresses of all adjoining property owners. Adjoining property owners shall be determined without regard to any public right-of-way. (E) A vicinity map showing the entire vicinity within a 1,000 foot radius of the Facility, including the location of any tower, topography, public and private roads and driveways, buildings and structures, utilities, water bodies, wetlands, landscape features, historic sites and necessary wildlife habitats. It shall indicate the property lines of the proposed Facility site parcel and all easements or rights-of-way needed for access from a public way to the Facility. (F) The location of the Facility on a U.S. Geological Survey (USGS) Topographic Map or a Geographic Information Systems (GIS) -generated map compatible with Vermont Center for Geographic Information (VCGI) standards and encompassing the area within at least a two-mile radius of the proposed tower site. (G) Elevations and proposed site plans of the Facility showing all facades and indicating all exterior materials and colors of towers, buildings and equipment, as well as all landscaping, utility wires, guy wires and screening. (All plans shall be drawn at a minimum scale of 1 inch = 50 feet.) (H) In the case of a site that is forested, the approximate average elevation of the existing vegetation within 50 feet of any tower base. (I) Construction sequence and time schedule for completion of each phase of the entire project. (J) A report from a qualified engineer that:",
+            "for antennas to be collocated on a tower and the minimum distances between antennas.",
+            "antennas that the tower is proposed to accommodate.",
+            "structures within five miles of the site cannot reasonably be modified to provide adequate coverage and adequate capacity to the community.",
+            "that would enable them to provide adequate coverage.",
+            "per channel for each antenna. In the alternative, a coverage map may be provided.",
+            "Bylaw or other applicable standards.",
+            "compliance with all Federal Communications Commission (FCC) regulations, standards and requirements, and includes a statement that the applicant commits to continue to maintain compliance with all FCC regulations, standards and requirements for Radio Frequency Radiation (RFR).",
+            "application.",
+            "shared use of any tower if the additional users agree to meet reasonable terms and conditions for shared use, including compliance with all applicable FCC regulations, standards, and requirements and the provisions of this Bylaw and all other applicable laws.",
+            "be installed on an existing Facility, a copy of the executed contract with the owner of the existing structure.",
+            "and as administered by the FCC, a complete Environmental Assessment (EA) draft or final report describing the probable impacts of the Facility, or a written statement by the applicant that an EA is not required for the facility."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Describes any tower's design and elevation,",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Documents the elevation above grade for all proposed mounting positions",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Describes a tower's capacity, including the number, elevation, and types of",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "In the case of new Facilities, demonstrates that existing towers and",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Describes potential changes or additions to existing structures or towers",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Describes the output frequency, number of channels and the power output",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "Demonstrates the Facility's compliance with the standards set forth in this",
+              "use_type": null
+            },
+            {
+              "number": "8",
+              "text": "Provides proof that at the proposed Facility site the applicant will be in",
+              "use_type": null
+            },
+            {
+              "number": "9",
+              "text": "Includes such other information as determined by the PC to evaluate the",
+              "use_type": null
+            },
+            {
+              "number": "10",
+              "text": "A letter of intent committing the Facility owner and its successors to permit",
+              "use_type": null
+            },
+            {
+              "number": "11",
+              "text": "In the case of an application for additional antennas or other equipment to",
+              "use_type": null
+            },
+            {
+              "number": "12",
+              "text": "To the extent required by the National Environmental Policy Act (NEPA)",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "325.06",
+          "title": "Independent Consultants",
+          "page": 39,
+          "paragraphs": [
+            "Upon submission of an application for a WTF permit, the PC may retain independent consultants whose services shall be paid for by the applicant. These consultants shall be qualified professionals in telecommunications engineering, structural engineering, monitoring of electromagnetic fields and such other fields as determined by the PC. The consultant(s) shall work at the PC's discretion and shall provide the PC such reports and assistance as the PC deems necessary to review an application."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "325.07",
+          "title": "Balloon Test",
+          "page": 40,
+          "paragraphs": [
+            "The PC may require the applicant to fly a four-foot diameter brightly colored balloon at the location and maximum elevation of any proposed tower. If a balloon test is required, the applicant shall advertise the date, time, and location of this balloon test at least 14 days in advance of the test in a newspaper with a general circulation in the Town. The applicant shall also inform the PC, in writing, of the date, time, and location of the test, at least 15 days in advance of the test. The balloon shall be flown for at least eight consecutive daylight hours on four days. If visibility and weather conditions are inadequate for observers to clearly see the balloon test, further tests may be required by the PC."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "325.08",
+          "title": "Criteria for Approval and Conditions",
+          "page": 40,
+          "paragraphs": [
+            "An application for a WTF permit shall be approved when the PC finds all the following criteria have been met: (A) The Facility will not be built on speculation. If the applicant is not a WTSP, the PC may require the applicant to provide a copy of a contract or letter of intent showing that a WTSP is legally obligated to locate a WTF on lands owned or leased by the applicant. (B) The Facility will not project more than 20 feet above the average elevation of the tree line measured within 50 feet of the highest vertical element of the WTF, unless the proposed elevation is necessary to provide adequate Wireless Telecommunication Service capacity or coverage or to facilitate collocation of facilities. (C) The minimum distance from the base of any tower to any property line is not less than 100% the total elevation of the tower, including antenna or equipment. (D) The Facility will not be illuminated by artificial means and will not display any lights or signs except for such lights and signs as required by the FAA, federal or state law, or this Bylaw. (E) The applicant will remove the Facility, should the Facility be abandoned or cease to operate. The PC may require the applicant to provide a bond, or other form of financial guarantee acceptable to the PC, to cover the cost of removal of the Facility, should the Facility be abandoned or cease to operate. (F) The applicant demonstrates that the facility will be in compliance with all FCC standards and requirements regarding RFR. (G) The applicant will maintain adequate insurance on the Facility. (H) The Facility will be properly identified with appropriate warnings indicating the presence of RFR. The PC may condition a permit on the provision of appropriate fencing. (I) The proposed equipment cannot be reasonably collocated at an existing WTF. In determining this, the PC shall consider the following factors:",
+            "the existing facility and the existing facility cannot be reinforced, modified, or replaced to accommodate planned equipment at a reasonable cost.",
+            "equipment at the existing facility and such impact cannot be mitigated or prevented at a reasonable cost.",
+            "create radio frequency interference and/or RFR in violation of federal standards.",
+            "equipment at an elevation necessary to function reasonably or are too far from the area of needed coverage to function adequately.",
+            "aesthetic impact. (J) The Facility provides reasonable opportunity for collocation of other equipment. (K) The Facility will not unreasonably interfere with the view from any public park, natural scenic vista, historic building or district, or major view corridor. (L) The Facility will not have an undue adverse aesthetic impact. In determining this, the PC shall consider the following factors:",
+            "designed to blend into the surrounding environment through the use of screening, camouflage, architectural design, and/or imitation of natural features.",
+            "contour of the land and will be constructed within forest or forest fringe areas and not open fields.",
+            "public highway or from public property.",
+            "topography, or existing structures.",
+            "the Facility more conspicuous.",
+            "Facility that is above the skyline.",
+            "important historic or scenic resource. (M) The Facility will not destroy or significantly imperil necessary wildlife habitat or that all reasonable means of minimizing the destruction or imperilment of such habitat or species will be utilized. (N) The Facility will not generate undue noise."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "The proposed equipment would exceed the structural or spatial capacity of",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "The proposed equipment would materially impact the usefulness of other",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "The proposed equipment, alone or together with existing equipment, would",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Existing towers and structures cannot accommodate the proposed",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Collocation of the equipment upon an existing tower would cause an undue",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "The results of the balloon test, if conducted.",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "The extent to which the proposed towers and equipment have been",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "The extent to which access roads have been designed to follow the",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "The duration and frequency with which the Facility will be viewed on a",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "The degree to which the Facility will be screened by existing vegetation,",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Background features in the line of sight to the Facility that obscure or make",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "The distance of the Facility from the point of view and the proportion of the",
+              "use_type": null
+            },
+            {
+              "number": "8",
+              "text": "The sensitivity or unique value of a particular view affected by the Facility.",
+              "use_type": null
+            },
+            {
+              "number": "9",
+              "text": "Any significant disruption of a viewshed that provides context to an",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "325.09",
+          "title": "Continuing Obligations for Wireless",
+          "page": 42,
+          "paragraphs": [
+            "Telecommunication Facilities The Owner of a WTF shall, at such times as requested by the PC, file a certificate showing that it is in compliance with all FCC standards and requirements regarding RFR, and that adequate insurance has been obtained for the Facility. Failure to file a certificate within the timeframe requested by the PC shall mean that the Facility has been abandoned."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "325.10",
+          "title": "Removal of Abandoned or Unused Facilities",
+          "page": 42,
+          "paragraphs": [
+            "Unless otherwise approved by the PC, an abandoned or unused WTF or Small Scale Facility shall be removed within 90 days of abandonment or cessation of use. If the Facility is not removed within 90 days of abandonment or cessation of use, the PC may cause the Facility to be removed. The costs of removal shall be assessed against the Facility owner. Unused portions of a WTF or Small Scale Facility shall be removed within 180 days of the time that such portion is no longer used. Replacement of portions of a Facility previously removed shall require a new permit, pursuant to Section E. Sec 326: Aqricultural and Forestry Uses Nothing contained herein shall restrict accepted agricultural farming practices, or accepted silvicultural practices, including the construction or farm structures, as such practices are defined by the Commissioner of agriculture, food and markets or the Commissioner of forests, parks and recreation, respectively, under 10 VSA, SS1021(f) and 1259(f) and 6 VSA, S4810. Also see S323. A Zoning permits need not be obtained for farm structures. However, any landowner proposing to erect a farm structure shall notify the Zoning Administrative Officer of such intent prior to the erection of such structure. No permit is required. B Farm structures shall comply with setbacks approved by the Commissioner of agriculture, food, and markets. C A person proposing to construct a farm structure with setbacks less restrictive than those contained herein shall submit, in writing, a request for a variance to the Commissioner of agriculture, food, and markets. Such request must include the following information: 1 A statement of the reason or reasons less restrictive setbacks are necessary; A copy of this zoning bylaw 3 A sketch plan of the proposed structure(s) showing the distance from all property lines, and 4 A description of the adjoining land uses. D A person may notify the Zoning Administrator regarding forest management practices resulting in a change in a forest management plan for land enrolled in the use value appraisal program pursuant to 32 V.S.A. Chapter 124 only to the extent that those changes are silviculturally sound, as determined by the commissioner of forests, parks and recreation, and protect specific natural, conservation, aesthetic, or wildlife features in properly designated zoning districts. These changes also must be compatible with 32 V.S.A. Section 3755. Sec. 328: Residential Care or Group Homes A residential care home or group home to be operated under state licensing or registration, serving not more than eight persons who have a handicap or disability as defined in 9 V.S.A. Section 4501, shall be considered by right to constitute a permitted single -family residential use of property, except that no such home shall be so considered if it is located within 1,000 feet of another existing or permitted such home. This is treated as a conditional use in all land zones. Sec 329: Child Care A \"family child care home or facility\" as used in this subdivision means a home or facility where the owner or operator is to be licensed or registered by the state for childcare. A family childcare home serving six or fewer children shall be considered to constitute a permitted single-family residential use of property. A family child care home serving no more than six full-time children and four part- time children, as defined in subdivision 33 V.S.A. Section 4902(3)(A), shall be considered to constitute a permitted use of property but may require site plan approval. A family childcare facility serving more than six full-time and four part- time children may, at the discretion of the municipality, be subject to a conditional use in all land zones. Sec. 330 Private Swimming Pool Private swimming pools installed below ground level require a zoning permit. Sec. 331 Outdoor Wood Furnace/Boilers Vermont law regulates outdoor wood furnace/boilers. Applicants should check with the State Permit Specialist."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "IV",
+      "title": "NON-CONFORMING USES and STRUCTURES",
+      "sections": [
+        {
+          "number": "402.01",
+          "title": "Shall not be expanded, enlarged, or extended (except-as specifically",
+          "page": 44,
+          "paragraphs": [
+            "provided), nor shall any external evidence of such use be increased by any means whatsoever."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "402.02",
+          "title": "Shall not be changed to another non-conforming use",
+          "page": 44,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "402.03",
+          "title": "Shall not be re-established if such use has been discontinued for a",
+          "page": 44,
+          "paragraphs": [
+            "period of six months, or has been changed to, or replaced by, a conforming use. Intent to resume a non-conforming use shall not confer the right to do so."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "402.04",
+          "title": "Shall not be restored for other than a conforming use after damage",
+          "page": 45,
+          "paragraphs": [
+            "from any cause, unless the non-conforming use is reinstated within one year of such damage. If the restoration of such building is not completed within one year, the non-conforming use of such building shall be deemed to have been discontinued, unless carried on without interruption in the undamaged part of the building. Sec 403: Expansion of a Non-Conforming Use The Zoning Board of Adjustment may, after public notice and hearing, allow expansion of any non-conforming use up to 20 percent greater than its existing size at the time of adoption of these regulations provided it conforms to any other applicable requirements of this bylaw. Sec 404: Non-Conforming Structures In accordance with Title 24 VSA 4412(7), the following provisions shall apply to all non-conforming structures:"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "404.01",
+          "title": "A non-conforming structure may be continued indefinitely and may",
+          "page": 45,
+          "paragraphs": [
+            "be expanded, subject to approval by the Zoning Board of Adjustment, provided the expansion is in accordance with any applicable requirements of this bylaw, does not increase the degree of non-conformance and meets the requirements of Section 403 regarding expansion of a non-conforming use."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "404.02",
+          "title": "Nothing in this section shall be deemed to prevent normal",
+          "page": 45,
+          "paragraphs": [
+            "maintenance and repair of a non-conforming structure provided that such action does not increase the degree of non-compliance."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "V",
+      "title": "DEFINITIONS",
+      "sections": []
+    },
+    {
+      "number": "VI",
+      "title": "ADMINISTRATION & ENFORCEMENT",
+      "sections": [
+        {
+          "number": "600.01",
+          "title": "The Administrative Officer shall literally administer and strictly",
+          "page": 57,
+          "paragraphs": [
+            "enforce the provisions of these regulations, and in doing so shall inspect development, maintain records, and perform other related tasks as is necessary and appropriate."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "600.02",
+          "title": "The Zoning Administrative Officer or an acting Zoning",
+          "page": 57,
+          "paragraphs": [
+            "Administrative Officer shall be appointed for a three year term by the Selectboard after nomination by the Planning Commission. Said officer shall literally enforce this bylaw. Sec 601: Zoning Permits"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "601.01",
+          "title": "No land development may be commenced without a permit therefore",
+          "page": 57,
+          "paragraphs": [
+            "issued by the Administrative Officer. No zoning permit may be issued by the Zoning Administrative Officer except in conformance with this bylaw."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "601.02",
+          "title": "Applications for zoning permits shall be made to the Zoning",
+          "page": 57,
+          "paragraphs": [
+            "Administrative Officer on forms provided by him/her for that purpose."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "601.03",
+          "title": "Prior to the issuance of any zoning permit the Zoning Administrative",
+          "page": 57,
+          "paragraphs": [
+            "Officer shall first satisfy himself/herself that the subject of the application is in conformance with this bylaw. He/she may request from an applicant any information he/she deems necessary for this purpose. No such permit shall be issued unless an application, fee, plot plan, and any other approvals of the Planning Commission or the Board of Adjustment required by this regulation have been properly obtained and are submitted in connection with the application. The Zoning Administrative Officer shall, within 30 days of submission of the application, data and approvals, either issue or deny a zoning permit. If denied, the Zoning Administrative Officer shall so notify the applicant in writing, stating his reasons therefore. If the zoning permit is approved, all activities authorized by its issuance shall not commence before 15 days from the date of approval, and actions authorized by its issuance shall substantially commence within two years of its date of issue, or the zoning permit shall become null and void and reapplication to complete any activities shall be required."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "601.04",
+          "title": "No zoning permit issued pursuant to Section 4449 of the Act shall",
+          "page": 58,
+          "paragraphs": [
+            "take effect until the time for Appeal in Section 4465 of the Act has passed, or in the event that a notice of appeal is properly filed, such permit shall not take effect until final adjudication of said appeal."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "601.05",
+          "title": "In the issuance of zoning permits, the Zoning",
+          "page": 58,
+          "paragraphs": [
+            "Administrative Officer shall comply with all of the provisions of Section 4449 of the Act."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "601.06",
+          "title": "Failure of the ZA to act on an application within 30 days deems",
+          "page": 58,
+          "paragraphs": [
+            "approval."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "601.07",
+          "title": "The fee for a zoning permit shall be established by the",
+          "page": 58,
+          "paragraphs": [
+            "Board of Selectmen. Said fee shall accompany each application for a permit."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "601.08",
+          "title": "The zoning bylaw fee schedule shall be posted in the Guildhall",
+          "page": 58,
+          "paragraphs": [
+            "Town Office. Sec 602 Zoning Appeals"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.01",
+          "title": "Appeals of the actions of the Zoning Administrative Officer must be",
+          "page": 58,
+          "paragraphs": [
+            "submitted to the Board of Adjustment within 15 days of the Zoning Administrative Officer's action."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602.01",
+          "title": "Any interested person as defined under 24 V.S.A. S4465 may appeal a",
+          "page": 58,
+          "paragraphs": [
+            "decision or act of the Zoning Administrator within 15 days of the date of the decision or act by filing a notice of appeal with the Town Clerk, and by filing a copy of the notice with the Zoning Administrator. A notice of appeal filed under this section shall be in writing and include the following information:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "the name and address of the appellant,",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "a brief description of the property with respect to which the appeal is",
+              "paragraphs": [
+                "taken,"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "a reference to applicable provisions of these regulations,",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "the relief requested by the appellant, including any request for a variance",
+              "paragraphs": [
+                "from one or more provisions of these regulations, and"
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "the alleged grounds why such relief is believed proper under the",
+              "paragraphs": [
+                "circumstances. The Zoning Board of Adjustment shall hold a public hearing on a notice of appeal within 60 days of its filing, as required in 24 V.S.A. S4468. The Zoning Board of Adjustment shall give public notice of the hearing under S510 of this bylaw, and shall mail a copy of the hearing notice to the appellant not less than 15 days prior to the hearing date. The Zoning Board of Adjustment may reject an appeal or request for reconsideration without hearing, and render a decision which shall include findings of fact within 10 days of the filing of a notice of appeal, if the Board determines that the issues raised by the appellant have been decided in an earlier appeal or are based on substantially or materially the same facts presented by or on behalf of the appellant. All appeal hearings shall be open to the public and shall be conducted in accordance with the Zoning Board of Adjustment's rules of procedures, as required by 24 V.S.A. S4461. Any interested person or body may appear and be heard in person or be represented by an agent or attorney at the hearing. The hearing may be adjourned by the Board from time to time, provided that the date, time, and place of the continuation of the hearing are announced at the hearing. A decision on appeal shall be rendered within 45 days after the final adjournment of the hearing. The decision shall be sent by certified mail to the appellant within the 45 day period. Copies of the decision shall be mailed to every person or body appearing and having been heard at the hearing, and filed with the Zoning Administrator and the Town Clerk as part of the public records of the Town, in accordance with S510 of this bylaw. If the Zoning Board of Adjustment fails to issue a decision within this 45day period, the appeal will be deemed approved and shall be effective on the 46th day. Sec. 603: Variances The Zoning Board of Adjustment shall hear and decide requests for variances in accordance with 24 V.S.A. S4469(a) and appeal procedures of this bylaw. In granting a variance, the Zoning Board of Adjustment may impose conditions it deems necessary and appropriate under the circumstances to implement the purposes of these regulations and the municipal plan currently in effect. The Zoning Board of Adjustment may grant a variance and render a decision in favor of the appellant only if all of the following facts are found, and the findings are specified in its written decision: (1) There are unique physical circumstances or conditions, including irregularity, narrowness, or shallowness of lot size or shape, or exceptional topographical or other physical conditions peculiar to the particular property, and that unnecessary hardship is due to these conditions and not the circumstances or conditions generally created by the provisions of these regulations in the neighborhood or district in which the property is located; (2) Because of these physical circumstances or conditions, there is no possibility that the property can be developed in strict conformity with the provisions of these regulations and that the authorization of a variance is necessary to enable the reasonable use of the property; (3) The unnecessary hardship has not been created by the appellant; (4) The variance, if authorized, will not alter the essential character of the neighborhood or district in which the property is located, substantially or permanently impair the appropriate use or development of adjacent property, reduce access to renewable energy resources, or be detrimental to the public welfare; and (5) The variance, if authorized, will represent the minimum that will afford relief and will represent the least deviation possible from these regulations and from the plan. Sec 604: Appeals to Environmental Court In accordance with 24 V.S.A. S4471, an interested person who has offered oral or written testimony in a hearing of the Planning Commission or Zoning Board of Adjustment may appeal a decision within 30 days of such decision, to the Vermont Environmental Court. The notice of appeal shall be filed by certified mailing, with fees, to the Environmental Court and by mailing a copy to the Zoning Administrator, who shall supply a list of interested persons (including the applicant if not the appellant), to the appellant within five (5) working days. Upon receipt of the list of interested persons, the appellant shall, by certified mail, provide a copy of the notice of appeal to every interested person. If any one or more of those persons are not then parties to the appeal, upon motion they shall be granted leave by the court to intervene. Sec 605: Waivers (1) The Board of Adjustment shall hear and decide requests for waivers on dimensional requirements (including signage) as needed to allow for disability accessibility, fire safety, energy conservation, transportation access, and renewable energy structures, and other requirements of the law. (2) The waiver, if authorized, shall not result in an undue adverse affect on the essential character of the neighborhood or district in which the property is located, substantially or permanently impair the appropriate use or development of adjacent property, reduce access to renewable energy resources, or be detrimental to the public welfare, including the safety and maintenance of the Town's roadways. (3) Waivers may not be issued for any of the development standards outlined in Section 320 (9) of this bylaw. (4) Approval or denial of a waiver may be appealed to the Environmental Court as specified in Section 510 of this bylaw. Sec 606: Enforcement"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "606.01",
+          "title": "Penalties",
+          "page": 61,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Any person who violates any bylaw after it has been adopted",
+              "paragraphs": [
+                "under chapter 24 V.S.A. Chapter 117 or who violates a comparable ordinance or regulation adopted under prior enabling laws shall be fined not more than $100.00 for each offense. No action may be brought under this section unless the alleged offender has had at least seven days' warning notice by certified mail. An action may be brought without the seven-day notice and opportunity to cure if the alleged offender repeats the violation of the bylaw or ordinance after the seven-day notice period and within the next succeeding 12 months. The seven-day warning notice shall state that a violation exists, that the alleged offender has an opportunity to cure the violations within the seven days, and that the alleged offender will not be entitled to an additional warning notice for a violation occurring after the seven days. In default of payment of the fine, the person, the members of any partnership, or the principal officers of the corporation shall each pay double the amount of fine. Each day that a violation is continued shall constitute a separate offense. All fines collected for the violation of bylaws shall be paid to the Town of Guildhall."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Any person who, being the owner or agent of the owner of",
+              "paragraphs": [
+                "any lot, tract, or parcel of land, lays out, constructs, opens, or dedicates any street, sanitary sewer, storm sewer, water main, or other improvements for public use, travel, or other purposes or fo r the common use of occupants of buildings abutting thereon, or sells, transfers, or agrees or enters into an agreement to sell any land in a subdivision or land development whether by reference to or by other use of a plat of that subdivision or land development or otherwise, or erects any structure on that land, unless a final plat has been prepared in full compliance with 24 V.S.A. chapter 117 and has been recorded as provided in 24 V.S.A. chapter 117, shall be fined not more than $100.00, and each lot o r parcel so transferred or sold or agreed or included in a contract to be sold shall be deemed a separate violation. All fines collected for these violations shall be paid to the Town of Guildhall. The description by metes and bounds in the instrument of t ransfer or other document used in the process of selling or transferring shall not exempt the seller or transferor from these penalties or from the remedies provided in 24 V.S.A. chapter 117. The above provision for creation of plats is it done in site plan review"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "606.02",
+          "title": "Remedies",
+          "page": 62,
+          "paragraphs": [
+            "If any street, building, structure, or land is or is proposed to be erected, constructed, reconstructed, altered, converted, maintained, or used in violation of any bylaw adopted under this chapter, the administrative officer shall institute in the name of the Town of Guildhall any appropriate action, injunction, or other proceeding to prevent, restrain, correct, or abate that construction or use, or to prevent, in or about those premises, any act, conduct, business, or use constituting a violation. A court action under 24 V.S.A. chapter"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "117",
+          "title": "Section 4452 may be initiated in environmental court, or as",
+          "page": 62,
+          "paragraphs": [
+            "appropriate, before the judicial bureau, as provided under 24 V.S.A. chapter 117 Section 1974a."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "606.03",
+          "title": "Limitations",
+          "page": 62,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "An action, injunction, or other enforcement proceeding relating",
+              "paragraphs": [
+                "to the failure to obtain or comply with the terms and conditions of any required municipal land use permit may be instituted under 24 V.S.A. chapter 117 Sections 1974a, 4451, or 4452 against the alleged offender if the action, injunction, or other enforcement proceeding is instituted within 15 years from the date the alleged violation first occurred and not thereafter. The burden of proving the date the alleged violation first occurred shall be on the person against whom the enforcement action is instituted."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "No action, injunction, or other enforcement proceeding may be",
+              "paragraphs": [
+                "instituted to enforce an alleged violation of a Town of Guildhall land use permit that received final approval from the applicable board, commissioner, or officer of the Town of Guildhall after July 1, 1998, unless the municipal land use permit or a notice of the permit generally in the form provided for in 24 V.S.A. chapter 117 subsection 1154(c) was recorded in the land records of the Town of Guildhall as required by 24 V.S.A. chapter 117 subsection 4454."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Nothing in this section shall prevent any action, injunction,",
+              "paragraphs": [
+                "or other enforcement proceeding by a municipality under any other authority it may have, including a municipality's authority under Title 18, relating to the authority to abate or remove public health risks or hazards. Sec 607: Zoning Board of Adjustment"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "607.01",
+          "title": "There is hereby established a Zoning Board of Adjustment, whose",
+          "page": 62,
+          "paragraphs": [
+            "five members are appointed by the Board of Selectmen."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "607.02",
+          "title": "Rules of procedure applicable to the Board of Adjustment, the nature",
+          "page": 63,
+          "paragraphs": [
+            "of appeals to the Board from actions of the Administrative Officer, notice requirements, public notice, conditions for variance relief, and all other matters governing the action of said Board Boards are now required to adopt their own Rules of Procedure and Conflicts of Interest Policies."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "607.03",
+          "title": "For Variance Decision format refer to see flow chart available at",
+          "page": 63,
+          "paragraphs": [
+            "the town office as a bylaw attachment."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "607.04",
+          "title": "All decisions shall be in compliance with 24 V.S.A. Sec. 4464 and the",
+          "page": 63,
+          "paragraphs": [
+            "Town of Guildhall zoning bylaws. Decisions shall be based on objective analysis of the facts and evidence to assure an impartial process."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "607.05",
+          "title": "The Zoning Ad ministrator issues the zoning permit once the",
+          "page": 63,
+          "paragraphs": [
+            "conditional use application is approved. Sec 608: Public Notice Any requirements of public notice required by this bylaw, whether or not required by any provisions of the Act, and whether applicable to the Board of Adjustment or the Planning Commission, shall be given by the publication of the date, place and purpose of such hearing in The North Woods Journal or Caledonia Record all of general circulation in Guildhall. The posting of such notice in one or more public places within the municipality not less than fifteen days prior to the date of the public hearing. In every case in which public notice is required, such public notice shall include a brief summary of the purpose of the hearing."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "VII",
+      "title": "AMENDMENTS, INTERPRETATION EFFECTIVE DATE",
+      "sections": []
+    }
+  ]
+}

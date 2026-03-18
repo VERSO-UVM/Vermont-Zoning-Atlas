@@ -1,0 +1,2623 @@
+{
+  "metadata": {
+    "municipality": "Troy",
+    "county": "Orleans",
+    "state": "Vermont",
+    "bylaw_date": "0621-20-22",
+    "source_pdf": "Orleans_Troy_Text_eff06212022.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 60,
+    "word_count": 22448,
+    "articles_found": 1,
+    "sections_found": 131,
+    "subsections_found": 128,
+    "regulation_rows": 0,
+    "list_items": 50
+  },
+  "articles": [
+    {
+      "number": "",
+      "title": "",
+      "sections": [
+        {
+          "number": "101",
+          "title": "Enactment………………………………………………………… Page 4",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "102",
+          "title": "Intent……………………………………………………………… Page 4",
+          "page": 2,
+          "paragraphs": [
+            "ART 2: ESTABLISHMENT OF DISTRICTS & DISTRICT REGULATIONS"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "201",
+          "title": "Zoning Map & Districts………………………………………… Page 4",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "202",
+          "title": "Copies of Zoning Maps………………………………………… Page 4",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "203",
+          "title": "Interpretation of District Boundaries…………………………… Page 4",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "204",
+          "title": "District Objectives & Land Use Control……………………….. Page 5",
+          "page": 2,
+          "paragraphs": [
+            "Table 204.1: Rural District…………………………………………………… Page 6 Table 204.2: Village District…………………………………………………. Page 7 Table 204.3: Village Center District…………………………………………. Page 9 Table 204.4: Central Business District……………………………………….. Page 10 Table 204.5: Commercial-Residential District……………………………….. Page 12 Table 204.6: Industrial District……………………………………………….. Page 13"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "204.7",
+          "title": "River Corridor Overlay (RCO) District………………………. Page 14",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "205",
+          "title": "Permitted & Conditional Uses………………………………….. Page 18",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "206",
+          "title": "Other Land Uses and Relevant Regulations……………………. Page 18",
+          "page": 2,
+          "paragraphs": [
+            "ART: 3 GENERAL PROVISIONS"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301",
+          "title": "Limitations on Municipal Bylaws………………………………. Page 18",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302",
+          "title": "Uses Exempt from Zoning……………………………………… Page 19",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "303",
+          "title": "Accessory Dwelling Units……………………………………… Page 19",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304",
+          "title": "Protection of Home Occupations……………………………….. Page 19",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "305",
+          "title": "Home Child Care……………………………………………….. Page 20",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "306",
+          "title": "Residential Care and Group Homes…………………………….. Page 20",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "307",
+          "title": "Existing Small Lots……………………………………………… Page 20",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "308",
+          "title": "Calculation of Required Lot Area……………………………….. Page 21",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "309",
+          "title": "Lots in Two Zoning Districts……………………………………. Page 21",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "310",
+          "title": "Reduction of Lot Area…………………………………………… Page 21",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "311",
+          "title": "Required Area or Yards…………………………………………. Page 21",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "312",
+          "title": "Lots Abutting More Than One Public Road…………………….. Page 21",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "313",
+          "title": "Frontage On, or Access to Public Roads or Waters……………… Page 21",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "314",
+          "title": "Location of Driveways…………………………………………… Page 21",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "315",
+          "title": "Collapsed or Burned Buildings & Structures……………………. Page 22",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "316",
+          "title": "Off Street Parking………………………………………………… Page 22",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "317",
+          "title": "Signs……………………………………………………………… Page 22",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "318",
+          "title": "Auto Service Stations…………………………………………….. Page 23",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "319",
+          "title": "Extraction of Soil, Sand, or Gravel………………………………. Page 23",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "320",
+          "title": "Flood Hazard Area Regulations………………………………….. Page 24",
+          "page": 2,
+          "paragraphs": [
+            "Troy Zoning Bylaw Page 3 of 60"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "321",
+          "title": "Planned Unit Development………………………………………… Page 30",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "322",
+          "title": "Travel Trailers & Travel Trailer Camps…………………………… Page 32",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "323",
+          "title": "Obstruction of Vision……………………………………………… Page 32",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "324",
+          "title": "Open Storage in Residential Areas………………………………… Page 33",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "325",
+          "title": "Private Swimming Pool…………………………………………… Page 33",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "326",
+          "title": "Outdoor Wood Boilers……………………………………………… Page 33",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "327",
+          "title": "Performance Standards……………………………………………… Page 33",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "328",
+          "title": "Storage of Flammable Liquids……………………………………… Page 34",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "329",
+          "title": "Wellhead Protection Area………………………………………….. Page 34",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "330",
+          "title": "Landscaping & Screening Requirements…………………………… Page 34",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "331",
+          "title": "Mobile Home Parks………………………………………………… Page 35",
+          "page": 3,
+          "paragraphs": [
+            "ART 4: NON-CONFORMITIES"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "401",
+          "title": "Permits Approved Prior to Amendment of Bylaw…………………. Page 36",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "402",
+          "title": "Non-Conforming Uses……………………………………………… Page 36",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "403",
+          "title": "Non-Conforming Structures………………………………………… Page 37",
+          "page": 3,
+          "paragraphs": [
+            "ART 5: ADMINISTRATION & ENFORCEMENT"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "501",
+          "title": "Zoning Administrator………………………………………………. Page 37",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "502",
+          "title": "Planning Commission……………………………………………… Page 38",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "503",
+          "title": "Development Review Board……………………………………….. Page 38",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "504",
+          "title": "Administrative Review…………………………………………….. Page 39",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "505",
+          "title": "Site Plan Review…………………………………………………… Page 41",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "506",
+          "title": "Subdivisions of Land………………………………………………. Page 42",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "507",
+          "title": "Conditional Use Review…………………………………………… Page 43",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "508",
+          "title": "Combined Review…………………………………………………. Page 44",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "509",
+          "title": "Appeals of Zoning Administrator Decisions………………………. Page 44",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "510",
+          "title": "Appeals to Environmental Court…………………………………... Page 45",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "511",
+          "title": "Public Notice………………………………………………………. Page 45",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "512",
+          "title": "Variances…………………………………………………………… Page 46",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "513",
+          "title": "Waivers…………………………………………………………….. Page 46",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "514",
+          "title": "Penalties……………………………………………………………. Page 47",
+          "page": 3,
+          "paragraphs": [
+            "ART 6: AMENDMENTS, INTERPRETATION, EFFECTIVE DATE"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "601",
+          "title": "Amendments……………………………………………………….. Page 47",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602",
+          "title": "Interpretation……………………………………………………….. Page 47",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "603",
+          "title": "Effective Date………………………………………………………. Page 48",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604",
+          "title": "Separability…………………………………………………………. Page 48",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "605",
+          "title": "Repeal………………………………………………………………. Page 48",
+          "page": 3,
+          "paragraphs": [
+            "ART 7: DEFINITIONS"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "701",
+          "title": "Word Definitions…………………………………………………… Page 48",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "702",
+          "title": "Term Definitions…………………………………………………… Page 48",
+          "page": 3,
+          "paragraphs": [
+            "Troy Zoning Bylaw Page 4 of 60 ART 1: ENACTMENT & INTENT"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "101",
+          "title": "Enactment",
+          "page": 4,
+          "paragraphs": [
+            "In accordance with the Vermont Municipal and Regional Planning and Development Act [24 V.S.A., Chapter117] hereinafter referred to as the \"Act\", there is hereby established a zoning bylaw for the Town of Troy which is set forth in the text and map that constitute this bylaw. This bylaw shall be known and cited as the \"Town of Troy Zoning Bylaw\"."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "102",
+          "title": "Intent",
+          "page": 4,
+          "paragraphs": [
+            "It is the intent of this zoning bylaw to implement the goals of the town plan and to provide for orderly community growth and to further the purposes established in S4302 of the Act. ART 2: ESTABLISHMENT OF DISTRICTS & DISTRICT REGULATIONS"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "201",
+          "title": "Zoning Map & Districts",
+          "page": 4,
+          "paragraphs": [
+            "The zoning map officially entitled \"Town of Troy Zoning Map\" is hereby adopted as part of this bylaw. The zoning map shows a division of the town into the following districts: Rural District Village District Commercial-Residential District Industrial District Village Center District Central Business District River Corridor Overlay District"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "202",
+          "title": "Copies of Zoning Maps",
+          "page": 4,
+          "paragraphs": [
+            "Regardless of the existence of other printed copies of the zoning map which, from time to time may be made or published, the official zoning map, shall be located in the Troy Town Clerk's office. The official zoning map shall be the final authority as to the current status of the land, and water areas, buildings, and other structures in the town."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "203",
+          "title": "Interpretation of District Boundaries",
+          "page": 4,
+          "paragraphs": [
+            "District boundaries shown within the lines of roads, streams and transportation rights-of-way shall be deemed to follow the center lines. The abandonment of roads shall not affect the location of district boundaries. When the Zoning Administrator (ZA) cannot definitely determine the location of a district boundary by such center lines, by the scale or dimensions stated on the zoning map, or by the fact that it clearly coincides with a property line, he shall refer action, and the Development Review Board shall interpret the location of the district boundary with reference to the scale of the zoning map and the purposes set forth in all relevant provisions of this bylaw. Troy Zoning Bylaw Page 5 of 60"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "204",
+          "title": "District Objectives & Land Use Control",
+          "page": 5,
+          "paragraphs": [
+            "Tables 204.1 to 204.4 set forth the objectives and provisions that apply respectively in each district established in this bylaw. Any use designated as a \"Permitted Use\" or \"Conditional Use\" may be commenced pursuant to Sec 205 of this bylaw. Unless otherwise indicated, only one principal use is permitted per lot. Any use not designated by this bylaw as a \"Permitted Use\" or a \"Conditional Use\" shall be deemed to be prohibited. Except as hereinafter provided, no division of a parcel into two or more parcels, nor any construction, reconstruction, conversion, structural alteration, relocation or enlargement of any building or other structure, of any mining, excavation or landfill, nor any change in the use of land shall commence unless in conformity with the regulations herein specified for the district in which such land or structure is located. The application of this bylaw is subject to 24 V.S.A Subchapter 7. Troy Zoning Bylaw Page 6 of 60 Table 204.1: Rural District Objective: To provide for low-density development of various types while maintaining the natural qualities and rural character of the Town.",
+            "Permitted Uses Accessory Use or Structure Dwelling, Single-family Agriculture1 Dwelling, Two-family Cemetery Forestry1 Dwelling, Accessory Home Occupation2",
+            "Conditional Uses Airport Personal Services Animal Hospital Dwelling, Multi-family Auto Sales & Service Mobile Home Park Contractor's Yard Religious Institution3 Private Club School3 Health Care Facility3 Retail Fuel Oil Light Industry Auto Repair Essential Service Public Facility3 Lodging Facility Sand and Gravel Pit Restaurant Recreational Facility Office Bed & Breakfast Warehouse Mortuary Minimum Lot Area and Dimensions Lot area (acres): 5 Frontage (ft): 125 Front yard (ft): 40 Side yard (ft): 25 Rear yard (ft): 25 1 See Section 302: Uses Exempt from Zoning 2 See Section 304: Protection of Home Occupations 3 See Section 301: Limitations on Municipal Bylaws Troy Zoning Bylaw Page 7 of 60 Table 204.2: Village District Objective: To maintain the villages of Troy as the high-density, mixed-use, pedestrian friendly centers for commercial and social activities.",
+            "Permitted Uses Accessory Use or Structure Dwelling, Two-family Dwelling, Accessory Home Occupation1 Dwelling, Single-family",
+            "Conditional Uses Animal Hospital Auto Repair Bank Dwelling, Multi-family Contractor's Yard Essential Service Health Care Facility2 Lodging Facility Commercial Day Care Bed & Breakfast Office** Religious Institution2 Personal Service Public Facility2 Mixed Use** Restaurant Retail Sales & Service** School2 Light Industry** Wholesale Sales** Auto Service Station Cemetery Minimum Lot Area and Dimensions Lot classification*: 1 2 3 Lot area (sqft): 12,500 20,000 40,000 Frontage (ft): 100 100 100 Front yard (ft): 30 30 30 Side yard (ft): 20 20 20 Rear yard (ft): 20 20 20 *Lot Classification Lot classification is based upon the proposed supply of water and method of sewage disposal on the property and is hereby established as follows: Class 1 Municipal water and sewer Class 2 Municipal water or sewer Class 3 On lot water and sewer ____________________________________ 1See Section 304: Protection of Home Occupations 2See Section 301: Limitations on Municipal Bylaws Troy Zoning Bylaw Page 8 of 60 **District Standards (1) Mixed use development in this district may include more than one principle use, as allowed within the district, in one or more buildings on a single lot, subject to conditional use review. All other applicable standards of these regulations, including district dimensional standards and parking requirements for each use shall apply. (2) Maximum square footage requirements shall apply to the following uses, and refer to maximum gross floor area: Office 2,500 sq. ft. Retail Sales & Service 12,000 sq. ft. Light Industry 15,000 sq. ft. Wholesale Sales 15,000 sq. ft. Troy Zoning Bylaw Page 9 of 60 Table 204.3: Village Center District Objective: To maintain the existing pattern of higher-density residential and mixed-use development, and facilitate the development of new compact housing in the village center areas which are served by public water and sewer.",
+            "Permitted Uses Accessory Use or Structure Dwelling, Two-family Dwelling, Accessory Home Occupation1 Dwelling, Single-family",
+            "Conditional Uses Animal Hospital Bank Dwelling, Multi-family Essential Service Health Care Facility2 Lodging Facility Commercial Day Care Bed & Breakfast Office** Religious Institution2 Personal Service Public Facility2 Mixed Use** Restaurant Retail Sales & Service** School2 Light Industry** Minimum Lot Area and Dimensions Lot area (sqft): 10,000 Frontage (ft): 80 Front yard (ft): 15 Side yard (ft): 10 Rear yard (ft): 15 **District Standards (1) Mixed use development in this district may include more than one principle use, as allowed within the district, in one or more buildings on a single lot, subject to conditional use review. All other applicable standards of these regulations, including district dimensional standards and parking requirements for each use shall apply. (2) Maximum square footage shall apply to the following uses, and refer to maximum gross floor area: Office 2,500 sq. ft. Retail Sales & Service 12,000 sq. ft. Light Industry 15,000 sq. ft. ____________________________________ 1See Section 304: Protection of Home Occupations 2See Section 301: Limitations on Municipal Bylaws Troy Zoning Bylaw Page 10 of 60 Table 204.4: Central Business District Objective: To encourage the revitalization of the historic commercial core of the village center with new commercial and mixed uses. The provision of parking areas to the rear of the building on larger sites will help maintain a pedestrian-friendly pattern of development. Permitted Uses (all non-residential uses and multi-family dwellings require site plan approval by the DRB) Accessory Use or Structure Animal Hospital Bank Bed & Breakfast Commercial Day Care Dwelling, Multi-family Dwelling, Single-family Dwelling, Two-family Essential Service Health Care Facility Home Occupation Light Industry** Lodging Facility Mixed Use** Office** Personal Service Public Facility Religious Institution Restaurant Retail Sales & Service** School",
+            "Conditional Uses: Auto Service Station Minimum Lot Area and Dimensions Lot area (sqft): 5,000 Frontage (ft): 60 Front yard (ft): TBD ǂ Side yard (ft): 5 ǂ ǂ Rear yard (ft): 15 **District Standards (1) Mixed use development in this district may include more than one principle use, as allowed within the district, in one or more buildings on a single lot, subject to conditional use review. All other applicable standards of these regulations, including district dimensional standards and parking requirements for each use shall apply. (2) Maximum square footage shall apply to the following uses, and refer to maximum gross floor area: Office 2,500 sq. ft. Retail Sales & Service 12,000 sq. ft. Light Industry 15,000 sq. ft. Troy Zoning Bylaw Page 11 of 60 ǂ Front setback of building shall be aligned with adjacent properties, but not farther than 15 feet from the front property line. ǂ ǂ The DRB may grant a waiver from the side setback requirement if the proposed building is designed to abut the adjacent building built to the property line. Troy Zoning Bylaw Page 12 of 60 Table 204.5: Commercial - Residential District Objective: To provide, in limited areas, for residential and complementary rural-commercial development outside of or adjacent to present village areas.",
+            "Permitted Uses Accessory Use or Structure Dwelling, Two-family Dwelling, Accessory Home Occupation1 Dwelling, Single-family",
+            "Conditional Uses Animal Hospital Private Club Office Public Facility2 Bank Religious Institution2 Dwelling, Multi-family Recreation Facility Essential Service Retail Sales & Service Health Care Facility2 Restaurant Lodging Facility School2 Personal Service Bed & Breakfast Minimum Lot Area and Dimensions Lot area (acres): 1 Frontage (ft.): 150 Front yard (ft.): 50 Side yard (ft.): 25 Rear yard (ft.): 25 1See Section 304: Protection of Home Occupations 2See Section 301: Limitations on Municipal Bylaws Troy Zoning Bylaw Page 13 of 60 Table 204.6: Industrial District Objective: To increase the Town's tax and employment base by providing areas for the development of industrial uses.",
+            "Permitted Uses Accessory Use or Structure Auto Sales and Service Animal Hospital Auto Service Station Essential Service Auto Repair",
+            "Conditional Uses Contractor's Yard Wholesale Sales Light Industry Heavy Industry Trucking Terminal Retail Fuel Oil Public Facility1 Religious Institution1 Health Care Facility1 Warehouse School1 Minimum Lot Area and Dimensions Lot area (acres): 5 Frontage (ft.): 150 Front yard (ft.): 50 Side yard (ft.): 25 Rear yard (ft.): 25 1 See Section 301: Limitations on Municipal Bylaws Troy Zoning Bylaw Page 14 of 60"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "204.7",
+          "title": "River Corridor Overlay (RCO) District",
+          "page": 14,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "I",
+              "title": "Objective: Protection of the river corridor provides rivers and streams with the lateral space",
+              "paragraphs": [
+                "necessary to maintain or reestablish floodplain access and minimize erosion hazards through natural, physical processes. It is the intent of these regulations to allow for wise use of property within river corridors that minimizes potential damage to existing structures and development from flood-related erosion, to discourage encroachments in undeveloped river corridors and to reasonably promote and encourage infill and redevelopment of designated centers that are within river corridors. The boundaries of the RCO District are the Statewide River Corridors as published by the Agency of Natural Resources (ANR), including refinements to that data based on field-based assessments which are hereby adopted by reference. This includes the river corridor small streams setback measured as 50 feet from top of the stream bank or slope for streams draining watersheds between 0.5 and 2 square miles. The RCO is an overlay district. All other requirements of the underlying district shall apply in addition to the provisions herein, unless it is otherwise so indicated. Some areas of this overlay district coincide with areas of Special Flood Hazard as depicted on the Flood Insurance Rate Maps created by FEMA, which are subject to the provisions of Section 320 of this bylaw. If there is a conflict with the provisions of another district, the stricter provision shall apply. II. Jurisdictional Determination and Interpretation The information presented on any maps, or contained in any studies, adopted by reference, is presumed accurate. If uncertainty exists with respect to the boundaries of the RCO, the location of the boundary on the property shall be determined by the Zoning Administrator (ZA). If the applicant disagrees with the determination made by the ZA or the river corridor as mapped, the applicant has the option to either:",
+                "Corridor boundary on the property; or",
+                "river corridor boundary.1 When ANR receives a request for a letter of determination, ANR evaluates the site and existing data to see if a change to the river corridor delineation is justified, necessitating a river corridor map update. An ANR letter of determination will either confirm the existing river corridor delineation or will result in an update to the river corridor delineation for the area in question. If a map update is justified, an updated map will be provided with the letter of determination.",
+                "that bring the river corridor delineation into question (e.g. the presence of bedrock or other features that may confine lateral river channel adjustment.) Troy Zoning Bylaw Page 15 of 60 III. Development Review in River Corridors"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Hire a licensed land surveyor or registered professional engineer to stake out the RCO/River",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Request a letter of determination from ANR which shall constitute proof of the location of the",
+                  "use_type": null
+                },
+                {
+                  "number": "1",
+                  "text": "In support of a letter of determination request, applicants must provide a description of the physical characteristics",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "A",
+              "title": "Exempted Activities",
+              "paragraphs": [
+                "The following activities do not require a permit under this section of the bylaw:",
+                "elevations under and adjacent to the removed structure remain unchanged.",
+                "change to the footprint of the structure or a change in use.",
+                "include expansions.",
+                "include expansions.",
+                "transportation and utility networks2, dams, dry hydrants, and other functionally dependent uses that must be placed in or over rivers and streams that are not located in a flood hazard area and that have coverage under a Stream Alteration Permit, if required, under 10 V.S.A. Chapter 41 and the rules adopted thereunder.",
+                "\"Vermont Flood Hazard Area and River Corridor Rule\" (Environmental Protection Rule, Chapter 29): a. State-owned and operated institutions and facilities. b. Forestry operations or silvicultural (forestry) activities conducted in accordance with the Vermont Department of Forests and Parks Acceptable Management Practices for Maintaining Water Quality on Logging Jobs in Vermont or other accepted silvicultural practices, as defined by the Commissioner of Forests, Parks and Recreation. c. Agricultural activities conducted in accordance with the Vermont Agency of Agriculture, Food and Market's Required Agricultural Practices (RAPs). Prior to the construction of farm structures, the farmer shall notify the ZA in writing of the proposed activity. The notice shall contain a sketch of the proposed structure including setbacks. d. Public utility power generating plants and transmission facilities regulated under 30 V.S.A. S 248. e. Telecommunications facilities regulated under 30 V.S.A. S 248a.",
+                "with 24 V.S.A. S 4424(c).",
+                "Troy Zoning Bylaw Page 16 of 60"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The removal of a building or other improvement in whole or in part, so long as the ground",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Any changes, maintenance, repairs, or renovations to a structure that will not result in a",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Maintenance of existing sidewalks, roads, parking areas, or stormwater drainage; this does not",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Maintenance of existing bridges, culverts, and channel stabilization activities; this does not",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Construction or repair of stream crossing structures (bridges and culverts), associated",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Activities exempt from municipal regulation and requiring a permit under the State's",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Planting projects which do not include any construction or grading activities in accordance",
+                  "use_type": null
+                },
+                {
+                  "number": "8",
+                  "text": "Subdivision of land that does not involve or authorize development.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "Permits",
+              "paragraphs": [
+                "Except as provided in Section III.A above[Exempted Activities], a permit is required from the ZA for all development that is located within the River Corridor. Development that requires conditional use approval or a variance from the Development Review Board (DRB) under this bylaw must have such approvals prior to the issuance of a permit by the ZA. Any development that is also subject to municipal jurisdiction in the designated flood hazard areas shall meet the criteria in Section 320.",
+                "federal agencies before work may begin."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "All permits shall require that a permittee have all other necessary permits from state and",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Prohibited Development in the RCO District",
+              "paragraphs": [
+                "The following are prohibited in the RCO District:",
+                "Section IV below [Development Standards];",
+                "would cause or contribute to fluvial erosion hazards."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "New structures, fill, development, and accessory dwellings that do not meet the standards in",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Any other development that is not exempt, permitted, or listed as a conditional use which",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Administrative Review; Permitted Development",
+              "paragraphs": [
+                "The following development activities in the RCO District meeting the Development Standards in Section V, require an administrative review from the ZA and may receive a permit from the ZA without review by the DRB:",
+                "and is located no less than 100 feet from the top of bank.",
+                "improvements, and which have written confirmation from the ANR Regional Floodplain Manager that the project is designed to meet or exceed the applicable standards in this bylaw."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Small accessory structures not larger than 500 square feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Improvements to existing utilities that are along an existing right of way and serve a building.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Replacement on-site septic systems.",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "An attached deck or patio to an existing structure that is 200 square feet or less",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "River or floodplain restoration projects that do not involve fill, structures, utilities, or other",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "E",
+              "title": "Conditional Use Review",
+              "paragraphs": [
+                "In accordance with 24 V.S.A. S 4414, conditional use review and approval by the DRB is required prior to the issuance of a permit by the ZA for any activity in the RCO District that is not exempt or eligible for administrative review. IV. Development Standards The criteria below are the minimum standards for development in the (RCO District Corridor). Where more than one district is involved, the most restrictive standard shall take precedence. Troy Zoning Bylaw Page 17 of 60"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "Development within designated centers shall be allowed within the river corridor if the",
+              "paragraphs": [
+                "applicant can demonstrate that the proposed development will not be any closer to the river than pre-existing adjacent development."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Development outside of designated centers shall meet the following criteria:",
+              "paragraphs": [
+                "than the adjacent existing primary structures, within a gap that is no more than 300 feet, or",
+                "that is adjacent to an existing structure, shall be located in the shadow area directly behind and further from the channel than the existing structure, or within 50 feet to the downstream side and no closer to the top of bank. Below-ground utilities may also be placed within the same shadow dimensions of an existing below-ground system."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "In-Fill Between Existing Development: Development must be located no closer to the channel",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Down River Shadow: An addition to an existing habitable structure, or an accessory structure",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "River Corridor Performance Standard",
+              "paragraphs": [
+                "Standards] A or B must demonstrate and the DRB must find that the proposed development will: a. not be placed on land with a history of fluvial erosion damage or be imminently threatened by fluvial erosion; b. not cause the river reach to depart from or further depart from the channel width, depth, meander pattern, and slope associated with natural stream processes and equilibrium conditions; and c. not result in an immediate need or anticipated future need for stream channelization solely as a result of the proposed development, that would increase flood elevations and velocities or alter the sediment regime triggering channel adjustments and erosion in adjacent and downstream locations.",
+                "or B, are presumed to meet the River Corridor Performance Standard. However, The DRB has the option to require an applicant to demonstrate that a proposal meets the River Corridor Performance Standard if there is a concern that the proposed development is at particular risk from fluvial erosion or may increase fluvial erosion, based on location or past flood damage.",
+                "the River Corridor Performance Standard, including: a. a description of why the shadowing and infill criteria in IV.A or B cannot be met; b. data and analysis from a consultant qualified in the evaluation of river dynamics and erosion hazards; c. Comments provided by the DEC Regional Floodplain Manager on whether the proposal meets the River Corridor Performance Standard. Troy Zoning Bylaw Page 18 of 60"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Proposals that do not meet the infill or shadowing criteria in section IV [Development",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Proposals that meet the infill or shadowing criteria in section IV.[Development Standards] A",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The DRB may request or consider additional information to determine if the proposal meets",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "V",
+              "title": "Permit Conditions",
+              "paragraphs": [
+                "Permits for public water accesses and unimproved paths that provide access to the water for the general public and promote the public trust uses of the water shall include a condition prohibiting the permittee from actively managing the section of river to solely protect the public water access from lateral river channel adjustment."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "205",
+          "title": "Permitted & Conditional Uses",
+          "page": 18,
+          "paragraphs": [
+            "[See Article 5: Administration and Enforcement for a complete explanation of the permitting process.] (1) Permitted uses are uses that require, at a minimum, Administrative Review by the Zoning Administrator. All permitted uses other than one-family and two-family dwellings, accessory uses or structures, and agricultural uses, shall also be subject to Site Plan Review by the Development Review Board after public notice and hearing. (2) Conditionally approved uses are uses that require, following Administrative Review by the Zoning Administrator, referral to the Development Review Board for Conditional Use Review after public notice and hearing, pursuant to Section 507 of this bylaw."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "206",
+          "title": "Other Land Use and Relevant Regulations",
+          "page": 18,
+          "paragraphs": [
+            "State and federal government may regulate certain aspects of land use; compliance with this zoning bylaw in no way implies compliance with such state or federal regulations. ART 3: GENERAL PROVISIONS"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301",
+          "title": "Limitations on Municipal Bylaws",
+          "page": 18,
+          "paragraphs": [
+            "The following uses may be regulated only with respect to location, size, height, building bulk, yards, courts, setbacks, density of buildings, off-street parking, loading facilities, traffic, noise, lighting, landscaping, and screening requirements, and only to the extent that regulations do not have the effect of interfering with the intended functional use. Except for State-owned and operated institutions and facilities, the uses listed below may be regulated for compliance with"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "320",
+          "title": ", Flood Hazard Area:",
+          "page": 18,
+          "paragraphs": [
+            "(1) State-or community-owned and operated institutions and facilities. (2) Public and private schools and other educational institutions certified by the state Department of Education. (3) Churches and other places of worship, convents, and parish houses. (4) Public and private hospitals. (5) Regional solid waste management facilities certified under 10 V.S.A. Chapter 159. (6) Hazardous waste management facilities for which a notice of intent to construct has been received under 10 V.S.A. S6606a. Troy Zoning Bylaw Page 19 of 60"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302",
+          "title": "Uses Exempt from Zoning",
+          "page": 19,
+          "paragraphs": [
+            "(1) This zoning bylaw shall not regulate public power generating plants and transmission facilities regulated under 30 V.S.A. S248. In accordance with 24 V.S.A. S4413(d) this zoning bylaw shall not regulate required agricultural and accepted silvicultural practices, or forestry operations including the construction of farm structures, as defined by the Secretary of Agriculture, Food and Markets or the Commissioner of Forests, Parks and Recreation respectively. In addition, any person intending to build a farm structure shall notify the Town Zoning Administrator and shall abide by setbacks approved by the Secretary of Agriculture, Food and Markets. In accordance with 24 V.S.A. S4413 (g) (1), this bylaw shall not regulate the installation, operation, and maintenance, on a flat roof (i.e., having a slope less than or equal to five degrees) of an otherwise complying structure, of a solar energy device that heats water or space or generates electricity. In accordance with 24 V.S.A. S4413 (h) (1)(A), this bylaw shall not regulate an ancillary improvement to a telecommunications facility that does not exceed a footprint of 300 square feet and a height of 10 feet, except as necessary to ensure compliance with the National Flood Insurance Program."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "303",
+          "title": "Accessory Dwelling Units",
+          "page": 19,
+          "paragraphs": [
+            "An accessory dwelling unit that is located within or appurtenant to an owner occupied single- family dwelling shall be a permitted use. An accessory dwelling unit shall be defined as efficiency or one-bedroom apartment, located within or appurtenant to an owner-occupied single-family dwelling, that is clearly subordinate to a single-family dwelling, and has facilities and provisions for independent living, including sleeping, food preparation, and sanitation, provided there is compliance with all the following: (1) The property has sufficient wastewater capacity. (2) The unit does not exceed 50 percent of the total habitable floor area of the single-family dwelling, up to 1,500 sq. ft. (3) Applicable setback, coverage, and parking requirements specified in the bylaws are met."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304",
+          "title": "Protection of Home Occupations",
+          "page": 19,
+          "paragraphs": [
+            "No regulation herein is intended to infringe upon the right of any resident to use a minor portion of a dwelling for an occupation which is customary in residential areas, which does not have an adverse effect upon the character of the residential area in which the dwelling is located. Home occupations are permitted as an accessory use in all districts where residential uses are permitted subject to the following provisions: (1) The home occupation shall be clearly incidental and secondary to the residential use of the property, and shall be conducted wholly within the principal or accessory structures; Troy Zoning Bylaw Page 20 of 60 (2) The home occupation shall be carried on by members of the family residing in the dwelling unit. Two additional employees who are not members of the family are permitted; (3) No traffic shall be generated which would be uncharacteristic of the neighborhood; (4) Exterior displays or signs (limited to 4 sq. ft.) other than those normally permitted in the district."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "305",
+          "title": "Home Child Care",
+          "page": 20,
+          "paragraphs": [
+            "A home child care facility serving six or fewer children shall be considered to constitute a permitted single family residential use of property. A family child care facility serving no more than six full-time and four part-time children, as defined by 33 V.S.A. S4902(3)(A), shall be considered to constitute a permitted use of property but requires site plan approval from the Development Review Board. A home child care facility serving more than six full-time and four part-time children shall be treated as a conditional use."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "306",
+          "title": "Residential Care and Group Homes",
+          "page": 20,
+          "paragraphs": [
+            "(1) A residential care home or group home, to be operated under state licensing or registration, serving not more than eight persons who have a handicap or disability as defined in 9 V.S.A. S4501, shall be considered to constitute a permitted single family residential use of property. (2) A residential care home or group home, to be operated under state licensing or registration, serving nine or more persons who have a handicap or disability as defined in 9 V.S.A. S4501, shall be reviewed as a multi-family dwelling and shall be subject to conditional use review."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "307",
+          "title": "Existing Small Lots",
+          "page": 20,
+          "paragraphs": [
+            "If a lot not conforming to the minimum lot size requirements in the district in which it is located subsequently comes under common ownership with one or more contiguous lots, the nonconforming lot(s) shall be deemed merged with the contiguous lot. However, a nonconforming lot shall not be deemed merged and may be separately conveyed if all of the following apply: (1) The lots are conveyed in their preexisting, nonconforming configuration. (2) On the effective date of any bylaw, each lot was developed with a water supply and wastewater disposal system. (3) At the time of transfer, each water supply and wastewater system is functioning in an acceptable manner. (4) The deeds of conveyance create appropriate easements on both lots for replacement of one or more wastewater systems, potable water systems, or both, in case there is a failed system or failed supply as defined in 10 V.S.A. Chapter 64. Troy Zoning Bylaw Page 21 of 60"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "308",
+          "title": "Calculation of Required Lot Area",
+          "page": 21,
+          "paragraphs": [
+            "When calculating the required lot area, lot width, and yards, existing rights-of-way or proposed rights-of-way shown on the official map shall not be considered."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "309",
+          "title": "Lots in Two Zoning Districts",
+          "page": 21,
+          "paragraphs": [
+            "Where a zoning district boundary line divides a lot of record at the time such line is adopted, the regulations for the less restricted district of such lot shall extend no more than thirty feet into the more restricted portion of the lot, provided the lot has frontage on, or approved access to a public road in the less restricted district."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "310",
+          "title": "Reduction of Lot Area",
+          "page": 21,
+          "paragraphs": [
+            "No lot shall be so reduced in area such that the area, yards, lot width, frontage, coverage or other requirements of this bylaw shall be smaller than herein prescribed for each district. The provisions of this section shall not apply when part of a lot is condemned or conveyed for a public purpose."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "311",
+          "title": "Required Area or Yards",
+          "page": 21,
+          "paragraphs": [
+            "(1) Space required under this bylaw to satisfy yard, area or other open space requirements in relation to one building shall not be used to satisfy the same requirements for any other structure or use. (2) All structures, whether attached to the principal structure or not, and, whether open or enclosed, including porches, carports, balconies, or platforms above normal grade level, shall not project into any minimum front, side, or rear yard."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "312",
+          "title": "Lots Abutting More Than One Public Road",
+          "page": 21,
+          "paragraphs": [
+            "Lots which abut on more than one public road shall provide the required frontage along each public road and any yard abutting a public road shall be considered a front yard for the purposes of this bylaw."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "313",
+          "title": "Frontage on, or Access to Public Roads or Waters",
+          "page": 21,
+          "paragraphs": [
+            "No land development may be permitted on lots which do not either have frontage on a public road or public waters or access to such a road or waters by a permanent easement or right-of- way. Access easements or rights-of-way shall not be less than fifty feet in width, excepting when a pre-existing access easement or right of way of at least 20 feet in width provides access to the property. Access to non-frontage lots shall be submitted to the Development Review Board for Site Plan Review."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "314",
+          "title": "Location of Driveways",
+          "page": 21,
+          "paragraphs": [
+            "All driveways are to be located at least twenty five feet from a road line intersection in the village districts and at least fifty feet from a road line intersection in all other districts. Troy Zoning Bylaw Page 22 of 60"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "315",
+          "title": "Collapsed or Burned Buildings & Structures",
+          "page": 22,
+          "paragraphs": [
+            "No owner or occupant of land in any district shall permit a demolished, collapsed, burned, or condemned building to remain as such, but within one year shall remove the building or structure and clear the site to ground level, or shall repair, rebuild or replace the building or structure. The Development Review Board may grant an extension of one year to meet this requirement."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "316",
+          "title": "Off Street Parking",
+          "page": 22,
+          "paragraphs": [
+            "Off street parking shall be provided as follows: 2 spaces per detached single-family dwelling unit; 1 space per accessory dwelling unit; and 1.5 spaces per unit of a multi-unit dwelling. Off street parking for all other permitted uses must be approved under Site Plan Review; off street parking for all other conditionally permitted uses under Conditional Use Review. Each parking space shall be 10' by 22'. Spaces must be provided on the lot with the use requiring parking, or may be provided on an adjacent lot."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "317",
+          "title": "Signs",
+          "page": 22,
+          "paragraphs": [
+            "No signs shall be permitted except as follows: (1) Signs in the Village District, Village Center District, Central Business District, Commercial- Residential District, and Rural District for purposes of home occupation or professional offices shall not exceed four (4) square feet; for purposes of non-residential uses, signs shall not exceed a total of twenty (20) square feet. (2) Signs in the Industrial District shall not exceed a total of twenty (20) square feet. (3) Signs in the commercial or industrial district may be larger if affixed to or painted on the building, subject to conditional use review. (4) Lighting for signs shall meet the performance standards in Section 327 and shall be directed downwards. (5) The following signs shall not to be permitted in any district:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Advertising billboards",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Flashing, oscillating, or revolving signs (unless necessary for public safety or",
+              "paragraphs": [
+                "welfare)."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Free standing signs in excess of twenty feet in height",
+              "paragraphs": [
+                "(6) Sign dimension and placement requirements:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "Wall signs and roof signs shall not exceed the highest point of the building's roof",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Projecting signs shall not extend into the street line, interfere with public walkways,",
+              "paragraphs": [
+                "nor exceed twenty square feet in area."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Free standing signs shall abide by district setbacks, not exceed twenty feet in height,",
+              "paragraphs": [
+                "nor exceed the square footage allowable by district and use. Troy Zoning Bylaw Page 23 of 60 (7) When computing the total permissible sign area for any use existing signs shall be included; signs consisting of free standing letters, numerals or other devices shall include any intervening space between them; and back to back signs may be counted as one sign. (8) Every sign shall be designed and located in such a manner as not to impair public safety, restrict clear vision between a sidewalk and street, interfere with snow removal, be confused with any traffic sign or signal, or prevent free access to any door, window or fire escape. (9) Signs may be illuminated by a steady light provided that such lighting will not illuminate or reflect onto other properties or into traffic. (10) Small directional signs, such as entrance and exit signs, or other secondary identifying signs shall not to exceed four (4) square feet in total area. Entrance or exit signs will only be permitted when the driveway is not obvious or otherwise identifiable with a particular business activity. (11) Temporary signs are exempt from these regulations and include sandwich boards, real estate signs, construction signs, event signs, signs necessary for public welfare, and signs for yard sales."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "318",
+          "title": "Auto Service Stations",
+          "page": 23,
+          "paragraphs": [
+            "In addition to the district regulations, all auto service stations and repair facilities shall comply with the following requirements: (1) Pumps, lubricating and other service devices shall be located at least 50 feet from the front lot line and 35 feet from side and rear lot lines. (2) There, shall be no more than two access driveways from the road. The maximum width of each access driveway shall be 40 feet. (3) All fuel and oil shall be stored at least thirty-five feet from any property line. (4) All automobile parts and dismantled vehicles are to be stored within a building, and no repair work is to be performed outside a building."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "319",
+          "title": "Extraction of Soil, Sand, or Gravel",
+          "page": 23,
+          "paragraphs": [
+            "The removal of soil, sand, or gravel for sale, except when incidental to construction of a building on the same premises, shall be considered a conditional use and permitted only upon approval by the Development Review Board after a public hearing. The following provisions shall apply: (1) Before approval of any new sand or gravel operation, the applicant shall agree to leave the site in a safe, attractive and useful condition upon completion of the extraction operations. The Development Review Board may require a performance bond to ensure rehabilitation of the site. (2) Cut slopes, soil banks, and deep pits created by extraction operations shall not be allowed to remain but shall be graded smooth and left in a neat condition. Troy Zoning Bylaw Page 24 of 60 (3) No excavation, blasting, or stock piling of materials shall be located within two hundred (200) feet of any public road or neighboring property line. (4) No power-activated sorting machinery or equipment shall be located within three hundred (300) feet of any public road or neighboring property line. (5) Steep slopes created by excavating which constitutes a safety hazard shall be fenced and appropriately screened as determined by the Development Review Board. (6) The Development Review Board may attach any additional conditions as it may find necessary for the safety and general welfare of the public."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "320",
+          "title": "Flood Hazard Area Regulations",
+          "page": 24,
+          "paragraphs": [
+            "Any development within areas at risk of flood damage in the Town of Troy and Village of North Troy, Vermont shall be regulated to provide for the protection of health, safety, and welfare of town residents, in accordance with these provisions set forth in 10 V.S.A. Chapter 32 and 24 V.S.A. Chapter 117 S4424, S4411 and S4414, and shall not in any way impair or remove the necessity of compliance with any other local, state, federal laws or regulations. (1) These regulations shall apply in all areas identified as Special Flood Hazard Areas on the most current Flood Insurance Studies and Flood Insurance Rate Maps published by the Federal Emergency Management Agency (FEMA), National Flood Insurance Program, which are hereby adopted by reference and declared to be part of these regulations. These hazard areas overlay any other existing zoning districts and the regulations herein are the minimum standards that must be met before meeting the additional standards applicable in the underlying district. (2) Base flood elevations and floodway limits provided by the National Flood Insurance Program (NFIP) and in the Flood Insurance Study and accompanying maps shall be used to administer and enforce these regulations. In Special Flood Hazard Areas where base flood elevations and/or floodway limits have not been provided by the National Flood Insurance Program in the Flood Insurance Study and accompanying maps, it is the applicant's responsibility to develop the necessary data. Where applicable, the applicant shall use data provided by FEMA, or State, or Federal Agencies. (3) The information presented on any maps, or contained in studies, adopted by reference to this bylaw is presumed accurate. If uncertainty exists with respect to boundaries of the Special Flood Hazard Area or the floodway, the location of the boundary shall be determined by the Zoning Administrator. If the applicant disagrees with the determination made by the Zoning Administrator, a Letter of Map Amendment from FEMA shall constitute proof. (4) Prohibited Development: a. Development prohibited from the floodway includes new residential or non- residential structures (including the placement of mobile homes); and accessory structures. Troy Zoning Bylaw Page 25 of 60 b. Development prohibited from the Special Flood Hazard Area includes new residential or non-residential structures (including the placement of mobile homes); storage or junk yards; new fill except as necessary to elevate structures above the base flood elevation; critical facilities; and, all development not exempted, permitted, or conditionally permitted under Section 320 of this bylaw. (5) Permitted Development: a. Permitted development within the Special Flood Hazard Area requires, at a minimum, Administrative Review by the Zoning Administrator and must meet the Development Standards outlined in Subsection 9. b. Permitted development includes non-substantial improvements; development related to on-site septic or water supply systems; building utilities; at-grade parking for existing buildings; and, recreational vehicles. (6) Conditional Development:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Conditional development within the Special Flood Hazard Area is subject to",
+              "paragraphs": [
+                "Conditional Use Review and approval by the Development Review Board, prior to the issuance of a permit by the Zoning Administrator."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Conditional development must meet the Development Standards outlined in",
+              "paragraphs": [
+                "Subsection 9."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Conditional development includes accessory structures in the Special Flood Hazard",
+              "paragraphs": [
+                "Area outside of the floodway; substantial improvement, elevation, relocation, or flood proofing of existing structures; new or replacement storage tanks for existing structures; improvements to existing structures in the floodway; grading, excavation, or the creation of a pond; improvements to existing roads; bridges, culverts, channel management activities, or public projects which are functionally dependent on stream access or stream crossing; and, public utilities. (7) Exempted Activities:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "Activities considered exempt from these regulations include the removal of a building or",
+              "paragraphs": [
+                "other structure in whole or in part; maintenance of existing roads and storm water drainage; and accepted silvicultural or agricultural activities as defined under Section 504 (2)(A-B) of this bylaw. (8) Nonconforming Structures & Uses:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "The Development Review Board may after public notice and hearing, approve the",
+              "paragraphs": [
+                "repair, relocation, replacement, or enlargement of a nonconforming structure within a flood hazard area provided that:",
+                "Standards in Subsection 9 of this bylaw; Troy Zoning Bylaw Page 26 of 60",
+                "reconstructed only in circumstances when the structure cannot be relocated to a less hazardous location on the parcel. The lowest floor of the reconstructed structure must be rebuilt to at least one foot above the base flood elevation, and the structure must otherwise comply with all requirements of the NFIP. (9) Development Standards:"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The proposed development is in compliance with all the Development",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "A nonconforming structure that is substantially damaged or destroyed may be",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "A",
+              "title": "The following standards are considered the minimum standards allowed for",
+              "paragraphs": [
+                "development in the Special Flood Hazard Areas:",
+                "(b) minimize flood damage to the proposed development and to other public/private facilities and utilities, and (c) to provide adequate drainage to reduce exposure to flood hazards.",
+                "prevent flotation, collapse or lateral movement of the structure during the occurrence of a base flood, (b) be constructed with materials resistant to flood damage, (c) be constructed by methods and practices that minimize flood damage, and (d) be constructed with electrical, heating, ventilation, plumbing and air conditioning equipment and other service facilities that are designed and/or located so as to prevent water from entering or accumulating within the components during conditions of flooding.",
+                "minimize conflict with changes in the channel location over time.",
+                "Flood Hazard Area) shall be required to locate a minimum of one foot above the base flood elevation and be securely anchored to prevent flotation; or storage tanks for existing non-residential purposes may be placed underground, if securely anchored as by a qualified engineer.",
+                "designed to minimize or eliminate the infiltration of flood waters into the systems and discharges from the systems into flood waters.",
+                "or contamination from them during flooding.",
+                "pad) under the entire mobile home is at least one (1) foot above the base flood elevation.",
+                "limits have not been determined), development shall not be permitted unless it is demonstrated that the cumulative effect of the proposed development, when combined with all other existing and anticipated encroachment, will not Troy Zoning Bylaw Page 27 of 60 increase the base flood elevation more than one (1) foot at any point within the community. The demonstration must be supported by technical data that conforms to standard hydraulic engineering principles and certified by a registered professional engineer.",
+                "residential purposes in Zones A, A1-30, AE, and AH shall be located such that the lowest floor is at least one (1) foot above base flood elevation; this must be documented, in as-built condition with a FEMA Elevation Certificate.",
+                "either meet the requirements of Subsection 9, or have the lowest floor, including basement, together with attendant utility and sanitary facilities, be designed to be watertight up to two (2) feet above base flood elevation with walls substantially impermeable and with structural components having the capability of resisting hydrostatic and hydrodynamic loads and effects of buoyancy. A permit for a building proposed to be flood proofed shall not be issued until a registered professional engineer or architect has reviewed the structural design, specifications, and plans, and has certified that the design and proposed methods of construction are in accordance with accepted standards of practice for meeting the provisions of this subsection.",
+                "crawlspaces and basements) are prohibited.",
+                "and subject to flooding shall (a) be solely used for parking of vehicles, storage, or building access, and such a condition shall clearly be stated on any permits; and (b) be designed to automatically equalize hydrostatic flood forces on exterior walls by allowing for the entry and exit of floodwaters. Such designs must be certified by a registered professional engineer or architect, or meet or exceed the following minimum criteria: A minimum of two openings on two walls having a total net area of not less than one square inch for every foot of enclosed area subject to flooding shall be provided. The bottom of all openings shall be no higher than one foot above grade. Openings may be equipped with screens, louvers, valves, or other coverings or devices provided that they permit the automatic entry and exit of floodwaters.",
+                "stream, must have a stream alteration permit from the Agency of Natural Resources.",
+                "access outside of the Special Flood Hazard Area. Troy Zoning Bylaw Page 28 of 60",
+                "shall either be on the site for fewer than 180 consecutive days and must be fully licensed and ready for highway use; or, meet all the standards of Section 60.3(b)(1) of the National Flood Insurance Program Regulations and the elevation and anchoring requirements for \"manufactured homes\" of Section 60.3(c)(6)."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "All development shall be designed to be (a) reasonably safe from flooding,",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Structures shall be (a) designed (or modified) and adequately anchored to",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Development must maintain flood carrying capacity and be located so as to",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Fuel storage tanks (as needed to serve an existing building in the Special",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "New and replacement water supply and sanitary sewer systems shall be",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "On-site waste disposal systems shall be located to avoid impairment to them",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Replacement mobile homes shall be elevated such that the top of the fill (the",
+                  "use_type": null
+                },
+                {
+                  "number": "8",
+                  "text": "In Zones AE, AH, and A1-A30 (where base flood elevations and/or floodway",
+                  "use_type": null
+                },
+                {
+                  "number": "9",
+                  "text": "Existing structures (including mobile homes) to be substantially improved for",
+                  "use_type": null
+                },
+                {
+                  "number": "10",
+                  "text": "Structures to be substantially improved for non-residential purposes shall",
+                  "use_type": null
+                },
+                {
+                  "number": "11",
+                  "text": "Fully enclosed areas below grade on all sides (including below grade",
+                  "use_type": null
+                },
+                {
+                  "number": "12",
+                  "text": "Fully enclosed areas that are above grade, below the lowest floor, below BFE",
+                  "use_type": null
+                },
+                {
+                  "number": "13",
+                  "text": "Bridges and culverts, which by their nature must be placed in or over the",
+                  "use_type": null
+                },
+                {
+                  "number": "14",
+                  "text": "Subdivisions and planned unit developments must be accessible by dry land",
+                  "use_type": null
+                },
+                {
+                  "number": "15",
+                  "text": "Recreational vehicles placed on sites within the Special Flood Hazard Area",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "The following standards are considered the minimum standards allowed for",
+              "paragraphs": [
+                "encroachments or development in the floodway:",
+                "above the base flood elevation, are prohibited unless hydrologic and hydraulic analyses are performed in accordance with standard engineering practice, by a registered professional engineer, certifying that the proposed development will not result in any increase in flood levels (0.00 feet) during the occurrence of the base flood; and, not increase any risk to surrounding properties, facilities, or structures from erosion or flooding.",
+                "registered professional engineer certifies that there will be no change in grade and the utilities will be adequately protected from scour. (10) Administration:"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Encroachments or development in the floodway that is above grade and less than one foot",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Public utilities may be placed underground and the analyses be waived, where a",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "A",
+              "title": "In addition to the application materials required under Section 504 of this bylaw,",
+              "paragraphs": [
+                "applications for development within the Special Flood Hazard Area shall include:",
+                "development, all water bodies, Special Flood Hazard Areas, floodways, the shortest horizontal distance from the proposed development to the top of the bank of any stream, any existing and proposed drainage, any proposed fill, pre and post development grades, and the elevations of the proposed lowest floor and flood proofing (if applicable), as referenced to the same vertical datum as the elevation on the current Flood Insurance Rate Maps; and",
+                "Project Review Sheet shall identify all State and Federal agencies from which permit approval is required for the proposal, and shall be filed as a required attachment to the municipal permit application. The identified permits, or letters indicating that such permits are not required, shall be submitted to the Zoning Administrator and attached to the permit before work can begin."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Where applicable, a site plan (drawn to scale) depicting existing and proposed",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "A Vermont Agency of Natural Resources Project Review Sheet for the proposal. The",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "Prior to issuing a permit for substantial improvement or new construction in the",
+              "paragraphs": [
+                "Special Flood Hazard Area, a copy of the application shall be submitted by the Zoning Administrator to the State National Flood Insurance Program Coordinator at the Vermont Agency of Natural Resources, in accordance with 24 V.S.A. S 4424. A permit may be issued only following receipt of comments from the Agency, or the Troy Zoning Bylaw Page 29 of 60 expiration of 30 days from the date the application was mailed to the Agency, whichever is sooner."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "If the applicant is seeking a permit for the alteration or relocation of a watercourse,",
+              "paragraphs": [
+                "copies of the application shall be submitted by the Zoning Administrator to the adjacent communities, the Stream Alteration Engineer at the Vermont Agency of Natural Resources, and the Army Corps of Engineers. Copies of such notice shall also be provided to the State National Flood Insurance Program Coordinator. A permit may be issued only following receipt of comments from the Agency, or the expiration of 30 days from the date the application was mailed to the Agency, whichever is sooner."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The Zoning Administrator shall properly file and maintain a record of all permits",
+              "paragraphs": [
+                "issued for development in areas covered by these regulations; an Elevation Certificate with the as-built elevation (consistent with the datum elevation on the current Flood Insurance Rate Map) of the lowest floor, including basement, of all new, substantially improved, or flood proofed buildings in the Special Flood Hazard Area; all flood proofing and other certifications required under this regulation; and, all decisions of the Development Review Board (including variances and violations) and all supporting findings of fact, conclusions and conditions. (11) Conditional Use Review:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "In addition to the provisions outlined under Section 507 of this bylaw, the",
+              "paragraphs": [
+                "Development Review Board shall consider the evaluation of the State National Flood Insurance Program Coordinator at the Vermont Agency of Natural Resources."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The Development Review Board may also consider the availability of alternative",
+              "paragraphs": [
+                "locations not subject to flooding for the proposed use; the susceptibility of the proposed improvement to flood damages; the safety of access to the property in times of flood of ordinary and emergency vehicles; the potential for damage to the property caused by erosion; the danger that materials may be swept onto other lands and cause damage to others; and such other factors as are relevant to the purposes of this ordinance. (12) Variances:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "A variance may be granted in writing by the Development Review Board only in",
+              "paragraphs": [
+                "accordance with the provisions of Section 512 of this bylaw and the Code of Federal Regulations (44 CFR Section 60.6); and upon a determination that the structure or other development is protected by methods that minimize flood damages during the base flood; create no additional threats to public safety; nor result in increased flood levels during the base flood discharge."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Any variance issued in the Special Flood Hazard Area will inform the applicant in",
+              "paragraphs": [
+                "writing over the signature of a community official that the issuance of a variance to construct a structure below the base flood elevation increases risk to life and property Troy Zoning Bylaw Page 30 of 60 and will result in increased flood insurance premiums up to amounts as high as $25 for $100 of coverage. Such notification shall be maintained with a record of all variance actions. (13) Enforcement & Penalties:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "If a violation exists, a copy of any notice of violation will be mailed by the Zoning",
+              "paragraphs": [
+                "Administrator to the State National Flood Insurance Program Coordinator."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "If the violation remains after all appeals have been resolved, the Zoning",
+              "paragraphs": [
+                "Administrator shall submit a declaration to the Administrator of the National Flood Insurance Program requesting a denial of flood insurance for the property pursuant to"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1316",
+          "title": "of the National Flood Insurance Act of 1968, as amended",
+          "page": 30,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "C",
+              "title": "Violations of the Required Agricultural Practices shall be enforced under this Section",
+              "paragraphs": [
+                "as violations of this bylaw. Such violations shall also be immediately reported to the Secretary of Agriculture for enforcement under 6 V.S.A. Section 4812. (14) Warning of Disclaimer of Liability. This bylaw does not imply that land outside of the areas covered by this bylaw will be free from flood or erosion damages. This regulation shall not create liability on the part of the Town of Troy and Village of North Troy, or any municipal official or employee thereof, for any flood or erosion damage that result from reliance on this regulation, or an administrative decision lawfully made hereunder."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "321",
+          "title": "Planned Unit Development",
+          "page": 30,
+          "paragraphs": [
+            "In accordance with the provisions set forth is S4417 of the Act, the modification of district regulations is permitted subject to the requirements of this section. No zoning permit shall be issued by the Zoning Administrator for a planned unit development until the Development Review Board grants such approval, in accordance with the following procedures: (1) The purpose of a planned unit development is to encourage:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Innovation in design and layout, resulting in more choice in the types of environment",
+              "paragraphs": [
+                "and living units available to the public, and quality in residential land uses."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "A more efficient use of land, roads and infrastructure; to preserve open space, natural",
+              "paragraphs": [
+                "resources and recreational areas. (2) Proposals for planned unit developments will be reviewed by the Development Review Board under the Site Plan Review process as described in Section 505 of this bylaw, but in accordance with 24 V.S.A. S4464(a)(1), the warning period for the hearing shall not be less than 15 days. (3) Supporting Data Required. The following data is required and must be submitted in a written text:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "Name and address of the owner of record of the land in question",
+              "paragraphs": [
+                "Troy Zoning Bylaw Page 31 of 60"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Names and addresses of the owners of all abutting properties",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Name and address of the person or firm preparing the site plan map",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Construction sequence and time schedule for completion of each phase for buildings,",
+              "paragraphs": [
+                "parking spaces, and landscaped areas of the entire development."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Any land use and/or deed restrictions",
+              "paragraphs": [
+                "(4) Site Plan Map Required. Proposals presented to the Development Review Board shall consist of a site plan map showing all of the following features:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "Existing features, including contours, structures, large trees, streets, utility easements,",
+              "paragraphs": [
+                "and rights-of-way. Any adjacent outstanding features within 200 feet of the development."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Proposed structure locations and land use areas, streets, driveways, traffic circulation,",
+              "paragraphs": [
+                "parking and loading spaces, pedestrian walks, landscaping plans, including site grading, landscape design and screening. All proposed utilities, on-site water and wastewater facilities or municipal water and sewer connections. Typical elevations and floor plans of all buildings may also be required. (5) Uses shall be limited to those permitted and conditional uses within the district in which the planned unit development is proposed. (6) Density may vary within the development but the total number of dwelling units shall not be more than twice the number which would be permitted in the Development Review Board's judgment, if the land were subdivided into lots in conformance with the zoning regulations for the district in which it is located. (7) Lot size, width, and depth and front, rear and side yard requirements may be waived; however these will be evaluated by the Development Review Board on their individual merit. (8) A planned unit development shall comply with the following standards:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "It shall be at least five contiguous acres",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Off-lot water and sewer may be required if for over six residential units",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "At least 25% of the development shall be open space for public and/or common",
+              "paragraphs": [
+                "usage. The regulations for control and maintenance of this open space shall be approved by the Development Review Board. (9) The Development Review Board may prescribe, from time to time, rules and regulations to supplement the standards and conditions set forth in these zoning regulations for planned unit development provided the rules and regulations are consistent with the zoning regulations. Troy Zoning Bylaw Page 32 of 60 (10) The Development Review Board shall hold a public hearing after public notice, as required by S4464 of the Act, prior to the establishment of any supplementary rules and regulations for planned unit development."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "322",
+          "title": "Travel Trailers & Travel Trailer Camps",
+          "page": 32,
+          "paragraphs": [
+            "(1) It shall be unlawful for any person to park a camping trailer, travel trailer, pick-up coach and/or motor home on any public or private property, except in accordance with the regulations as follows:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "In an approved travel trailer camp",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "In an approved travel trailer sales lot",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Any property owner may park his travel trailer, or that of a visitor, on his own",
+              "paragraphs": [
+                "property, provided the trailer is parked no closer than six feet to any lot line. A trailer so parked shall not be used as living quarters for more than four weeks in any calendar year. If the trailer is to be occupied for more than 4 weeks, a temporary zoning permit is required. If the trailer remains for more than 90 days, it will need to meet all zoning requirements for a single family residence, as well as obtain a potable water permit and wastewater permit issued by the State. (2) It shall be unlawful for any person or firm to construct, maintain or operate any travel trailer camp unless such person or firm holds a valid permit issued by the Zoning Administrator. The issuance of a permit shall require conditional use approval by the Development Review Board where applicable, and proof of compliance or intent to comply with applicable state regulations. In addition to any applicable state regulations the following standards shall apply with respect to all travel trailer camps:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "All access driveways within a trailer camp must be at least thirty feet in width and",
+              "paragraphs": [
+                "have a compacted gravel surface at least twenty feet in width."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "A strip of land at least twenty five feet in width shall be maintained as a landscaped",
+              "paragraphs": [
+                "area abutting all trailer camp property lines except when the camp boundary is adjacent to residential uses, in which case the landscaped area shall be at least fifty feet in width."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "All trailer camps must comply with the sanitation and health laws of the State of",
+              "paragraphs": [
+                "Vermont and Town of Troy. (3) Travel trailers which are a part of traveling circuses, fairs, carnivals, etc., may secure a temporary permit not to exceed 21 days. Temporary permits for travel trailers shall be issued by the Zoning Administrator provided that all health and sanitary laws and regulations of the State of Vermont and Town of Troy are met."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "323",
+          "title": "Obstruction of Vision",
+          "page": 32,
+          "paragraphs": [
+            "In all districts on a corner lot, within the triangular area formed by the intersection of two street property lines and a third line joining them at points twenty-five feet away from their Troy Zoning Bylaw Page 33 of 60 intersection, there shall be no obstruction to vision between the heights of one foot and ten feet above the average grade of each street."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "324",
+          "title": "Open Storage in Residential Areas",
+          "page": 33,
+          "paragraphs": [
+            "(1) Inoperable vehicles, household appliances, fishing shanties, and other household debris shall not be stored on any property unless shielded from view of any public roads. (2) No more than one unregistered yet operable vehicle shall be parked in any yard of any property for more than 30 days."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "325",
+          "title": "Private Swimming Pool",
+          "page": 33,
+          "paragraphs": [
+            "Private swimming pools installed below ground level shall be enclosed by a lockable fence not less than four feet in height."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "326",
+          "title": "Outdoor Wood Boilers",
+          "page": 33,
+          "paragraphs": [
+            "(1) Outdoor wood boilers may be installed and operated in the following districts:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Rural",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Commercial/Residential",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Industrial",
+              "paragraphs": [
+                "(2) The installation and operation of outdoor wood boilers is prohibited in the Village Districts. (3) All outdoor wood boilers shall be in compliance. (4) In accordance with Vermont Air Pollution Control Regulations, outdoor wood boilers shall not be used to burn any materials other than untreated wood and shall be located at least 200 feet from any abutting property lines and be positioned on a non-combustible foundation."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "327",
+          "title": "Performance Standards",
+          "page": 33,
+          "paragraphs": [
+            "In accordance with S 4414(5) of the Act, in all districts the following performance standards together with all applicable State standards must be met. The Development Review Board shall decide whether proposed uses meet these standards. In all districts uses are not permitted which exceed any of the following standards measured at the property line: (1) Emit noise in excess of 70 decibels. (2) Emit any smoke, in excess of Ringlemann Chart No. 2. (3) Emit any noxious gases which endanger the health, comfort, safety or welfare of any person, or which have a tendency to cause injury or damage to property, business or vegetation. (4) Cause, as a result of normal operations, a vibration which creates displacement of 0.002 of one inch. Troy Zoning Bylaw Page 34 of 60 (5) Lighting or signs which create glare, which could impair the vision of a driver of any motor vehicle. (6) Cause a fire, explosion or safety hazard. (7) Cause harmful wastes to be discharged into the sewer system, streams or other bodies of water. Effluent disposal shall comply with the most current local and State wastewater regulations (Wastewater System and Potable Water Supply Rules, Vermont Department of Environmental Conservation, Wastewater Management Division)."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "328",
+          "title": "Storage of Flammable Liquids",
+          "page": 34,
+          "paragraphs": [
+            "The storage of any highly flammable liquid in tanks above ground with a capacity greater than five hundred and fifty gallons shall be prohibited, unless such tanks up to and including ten thousand gallon capacity are placed not less than eighty feet from all property lines, and unless all such tanks of more than ten thousand gallon capacity are placed not less than two hundred feet from all property lines. All tanks having a capacity greater than five hundred and fifty gallons shall be properly retained with dikes having a capacity not less than one and one-half times the capacity of the tanks surrounded."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "329",
+          "title": "Wellhead Protection Area Overlay",
+          "page": 34,
+          "paragraphs": [
+            "Development within a wellhead protection area is subject to these regulations which overlay any other existing zoning districts and regulations, and shall not in any way impair or remove the necessity of compliance with any other local, state, federal laws or regulations. (1) Development proposed within the wellhead protection area shall be subject to Conditional Use Review. (2) Lots within the wellhead protection area shall have no more than 5% coverage of impermeable surfaces, excluding the roof of the building. (3) Driveways and internal roads in areas within the wellhead protection area shall have crushed gravel surfaces."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "330",
+          "title": "Landscaping & Screening Requirements",
+          "page": 34,
+          "paragraphs": [
+            "Landscaping may be required under Site Plan Review and Conditional Use Review for screening and/or stormwater management purposes, and for ground-mounted solar plants regulated by the Public Utility Commission, in accordance with 24 V.S.A. Section 4414(15). When required, landscaping shall be installed and maintained in front, side and rear yards, shall take the form of shade trees, deciduous shrubs, evergreens, grassed areas and ground cover. All such landscaping shall be maintained in a healthy, growing condition, with ground cover or grassed area. Minimum landscaping requirements include the following: (1) Where any land use in non-residential districts abuts land in any residential district, a strip of land at least twenty-five feet in width shall be maintained as a landscape and utility area in Troy Zoning Bylaw Page 35 of 60 the front yard, side yards, and rear yard which adjoin these other districts, unless waived by the Development Review Board. (2) Where any non-residential land use in a residential district abuts residential land uses, a strip of at least 15 feet in width shall be maintained as a landscape and utility area in the front yard, side yards, and rear yard which adjoin these uses, unless waived by the Development Review Board. (3) In the residential districts a strip of land at least five feet in width shall be maintained as a landscape and utility area in the front, side and rear yards, unless waived by the Development Review Board. (4) In any Planned Unit Development as required by the Development Review Board."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "331",
+          "title": "Mobile Home Parks",
+          "page": 35,
+          "paragraphs": [
+            "The following requirements shall apply with respect to mobile home parks: (1) Area and dimensional requirements."
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "A mobile home park shall have an area of not less than 10 acres",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "A mobile home shall be located on the mobile home space so that it is at least",
+              "paragraphs": [
+                "twenty feet from the right-of-way of the access driveway and ten feet from any other lot line of the mobile home space."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Mobile home park offices and/or service buildings shall be located at least fifty",
+              "paragraphs": [
+                "feet from all public street right-of-way lines and property lines. (2) Mobile home parks shall provide for individual mobile home spaces, access driveways, parking and recreation open space as follows:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "Each mobile home space shall be at least 8,000 square feet in area, and at least sixty",
+              "paragraphs": [
+                "feet wide by at least one hundred and twenty feet in depth, and shall front on an access driveway."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "A suitable non-porous pad shall be provided on each mobile home space",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "All access driveways within a mobile home park shall have a right-of-way at least",
+              "paragraphs": [
+                "fifty feet in width and have a surface of treated compacted gravel at least twenty-four feet in width and twelve inches in depth. All weather walkways shall be provided."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Two parking spaces with a compacted gravel surface twelve inches in depth, each",
+              "paragraphs": [
+                "ten feet wide by twenty-two feet long, shall be provided for each mobile home space."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Mobile home parks shall provide at least ten percent of the total area for recreation",
+              "paragraphs": [
+                "and other open space purposes. (3) Utilities: Troy Zoning Bylaw Page 36 of 60"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "Each mobile home space shall have an attachment for water supply which is",
+              "paragraphs": [
+                "adequate, safe and potable."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Each mobile home space shall have an attachment for sewage disposal. The sewage",
+              "paragraphs": [
+                "disposal system shall not be located on the mobile home space unless the mobile home space is at least one acre in size."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Provisions for disposal of household garbage and rubbish shall be made",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "An electrical source supplying at least 60 amps, 220 volts shall be provided for each",
+              "paragraphs": [
+                "mobile home space. Such electrical outlets shall be weatherproof. The use of underground utility installation shall be required unless waived by the Development Review Board. (4) A strip of land at least twenty-five feet in width shall be maintained as a landscaped area abutting all mobile home park property lines except when the park boundary is adjacent to residential uses where the landscaped area shall be at least fifty feet in width. ART 4: NON-CONFORMITIES"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "401",
+          "title": "Permits Approved Prior to Amendment of Bylaw",
+          "page": 36,
+          "paragraphs": [
+            "Permits issued prior to the enforcement of this bylaw that are valid on the effective date of this bylaw may be utilized, even if such permits will result in a nonconformity. In addition, nothing contained herein shall require any changes to the plans or construction of previously permitted structures and/or uses. Such nonconformities, however, shall be established within the permit's effective period of two years. Applications to renew expired permits issued under the prior bylaw will not be approved unless the structure or use for which the original permit was issued conforms to the requirements of this bylaw."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "402",
+          "title": "Non-Conforming Uses",
+          "page": 36,
+          "paragraphs": [
+            "In accordance with Title 24 VSA S 4412(7), the following provisions shall apply to all non- conforming uses existing on the effective date of this bylaw: (1) A non-conforming use shall not be expanded, enlarged, or extended, except in accordance with (5), nor shall any external evidence of such use be increased by any means whatsoever. (2) A non-conforming use shall not be changed to another non-conforming use. (3) A non-conforming use shall not be re-established if such use has been discontinued for a period of one year, and has been changed to, or replaced by a conforming use. Intent to resume a non-conforming use shall not confer the right to do so. (4) A non-conforming use shall not be restored for other than a conforming use after the structure devoted to the non-conforming use has been damaged from any cause, unless the restoration of that structure is substantially commenced within one year of such damage. If the restoration of such building is not substantially commenced within one year, the non- Troy Zoning Bylaw Page 37 of 60 conforming use of such building shall be deemed to have been discontinued, unless carried on without interruption in the undamaged part of the building. (5) The Development Review Board may, after public notice and hearing, allow the expansion of any non-conforming use up to 20 percent greater than its existing footprint, provided it does not adversely affect the character of the surrounding area and complies with any applicable requirements of this bylaw."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "403",
+          "title": "Non-conforming Structures",
+          "page": 37,
+          "paragraphs": [
+            "In accordance with Title 24 VSA S 4412(7), the following provisions shall apply to all non- conforming structures: (1) A non-conforming structure may be continued indefinitely and may be expanded, subject to approval by the Development Review Board, provided the expansion does not increase the degree of non-compliance and meets the requirements of Section 402 (5) regarding expansion of a non-conforming use. (2) A non-conforming structure shall not be restored to other than a conforming structure after the Development Review Board has determined that the structure is substantially damaged from any cause, unless the restoration of such building is substantially commenced within one year. (3) Nothing in this section shall be deemed to prevent normal maintenance and repair of a non- conforming structure provided that such action does not increase the degree of non- compliance. ART 5: ADMINISTRATION & ENFORCEMENT"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "501",
+          "title": "Zoning Administrator",
+          "page": 37,
+          "paragraphs": [
+            "(1) The Zoning Administrator shall be appointed by the Selectboard, following the nomination by the Planning Commission, to administer the zoning bylaws, as provided for in 24 V.S.A. S 4448. The Selectboard may remove a Zoning Administrator for cause at any time after consultation with the Planning Commission. (2) The Zoning Administrator shall literally administer and strictly enforce the provisions of this bylaw, and in so doing shall inspect developments, maintain records, and perform all other necessary tasks as is necessary and appropriate to carry out the provisions of these regulations. All development review is initiated with the Zoning Administrator. (3) The Zoning Administrator is responsible for posting, on the applicant's property, within view of the public right-of-way, any permit issued by the Zoning Administrator or any development application awaiting a hearing by the Development Review Board. Such posting shall occur within 24 hours of any permit issued by the Zoning Administrator. (4) An acting Zoning Administrator may be appointed by the Selectboard, from nominations submitted by the Planning Commission, who shall have the same duties and responsibilities of the Zoning Administrator in the Zoning Administrator's absence, or if the Zoning Troy Zoning Bylaw Page 38 of 60 Administrator has a conflict of interest. In the event an acting Zoning Administrator is appointed, the Selectboard shall establish clear policies regarding the authority of the Zoning Administrator relative to the authority of the acting Zoning Administrator."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "502",
+          "title": "Planning Commission",
+          "page": 38,
+          "paragraphs": [
+            "(1) The Planning Commission shall consist of not less than three (3) or more than nine (9) voting members appointed by the Selectboard in accordance with 24 V.S.A. S4321-4323. At least a majority of the members shall be residents of the municipality. Any member of the Planning Commission may be removed at any time by a unanimous vote of the Selectboard. (2) The Planning Commission shall adopt rules of procedure and rules of ethics with respect to conflicts of interest to guide its official conduct, as required under 24 V.S.A. S4461(a) and Vermont's Open Meeting Law. (3) The Planning Commission shall have the following duties regarding this bylaw, in accordance with 24 V.S.A. S4441:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "To prepare proposed amendments to this bylaw, and consider proposed",
+              "paragraphs": [
+                "amendments submitted by others, including amendments supported by a petition signed by at least five percent of the voters of the Town of Troy."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "To prepare and approve written reports on any proposed amendment to this",
+              "paragraphs": [
+                "bylaw; and,"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "To hold one or more warned public hearings on proposed amendments to these",
+              "paragraphs": [
+                "regulations, prior to submission of a proposed amendment and written report to the Selectboard."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "503",
+          "title": "Development Review Board",
+          "page": 38,
+          "paragraphs": [
+            "(1) In accordance with 24 V.S.A. Section 4460, the Development Review Board (DRB) shall consist of no fewer than five (5) nor more than nine (9) members. Members of the DRB may consist of the members of the members of the Planning Commission, or one or more members of the Planning Commission. (2) The DRB shall adopt rules of procedure and rules of ethics with respect to conflicts of interest to guide its official conduct, as required under 24 V.S.A. S4461(a) and Vermont's Open Meeting Law. (3) The DRB shall have all powers and duties set forth in 24 V.S.A. Chapter 117 to administer the provisions of these regulations, including but not limited to the power to hear and act upon:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Applications for rights-of-way or easements for development lacking frontage",
+              "paragraphs": [
+                "(Section 313),"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Applications for Planned Unit Development (Section 321),",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Applications for site plan approval (Section 505),",
+              "paragraphs": [
+                "Troy Zoning Bylaw Page 39 of 60"
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Applications for subdivision (Section 506),",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Applications for conditional use approval (Section 507)",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Appeals from any decision, act or failure to act by the Zoning Administrator (Section",
+              "paragraphs": [
+                "601), and any associated variance requests (Section 512)"
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Requests for waivers from one or more dimensional standards (Section 513)",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "504",
+          "title": "Administrative Review",
+          "page": 39,
+          "paragraphs": [
+            "(1) No land development, as defined in S4303(10) of the Act, may be commenced without a permit therefore issued by the Zoning Administrator. No zoning permit may be issued by the Zoning Administrator unless the proposed development complies with all applicable sections of this bylaw, and all applicable approvals required by the Development Review Board have been granted. (2) Special Events (e.g., concerts, festivals, fairs and other cultural events, trade and antique shows), may be allowed as a temporary use, provided that such use occurs for no more than seven days within any twelve-month period, and adequate off-street parking and circulation, sanitary and trash collection facilities are provided. Special events may be issued a zoning permit by the Zoning Administrator, for a specified period of time not to exceed one year from the date of issuance, with the provision that the use will be discontinued upon the expiration of the permit. In addition:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Family or household events associated with a residential use (e.g., weddings,",
+              "paragraphs": [
+                "reunions) are exempt from this provision, and shall not require a zoning permit."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Special Events with an expected attendance of over 100 people, or extending more",
+              "paragraphs": [
+                "than seven days within a twelve-month period, shall be subject to conditional use review by the DRB under Section 507 prior to the issuance of a zoning permit. (3) Temporary permits may be issued by the Zoning Administrator for a period not exceeding one year, for non-conforming uses incidental to construction projects, for handicapped access ramps, and for temporary roadside stands for the sale of agricultural products raised on the property, provided such permits are conditioned upon agreement by the owner to remove the structure or use upon expiration of the permit. Such permits may be renewed upon application for an additional period not exceeding one year. (4) No Zoning Permit shall be required for the following activities:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "Required agricultural practices, including the construction of farm structures, as those",
+              "paragraphs": [
+                "practices are defined by the Secretary of Agriculture, Food and Markets, in accordance with 24 V.S.A. S4413(d). Written notification, including a sketch plan showing structure setback distances from the road rights-of-way, property lines, and surface waters shall be submitted to the Zoning Administrator prior to any construction, as required for required agricultural practices. Such structures shall meet all setback requirements under these regulations, unless specifically waived by the Secretary. Troy Zoning Bylaw Page 40 of 60"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Accepted management practices for silviculture (forestry) as those practices are",
+              "paragraphs": [
+                "defined by the Commissioner of Forests, Parks and Recreation, in accordance with 24 V.S.A. S4413(d)."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Power generation and transmission facilities, which are regulated under 30 V.S.A",
+              "paragraphs": [
+                "S248 by the Vermont Public Utilities Commission. Such facilities, however, should conform to policies and objectives specified for such development in the Municipal Plan, including screening requirements for ground mounted solar installations."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Hunting, fishing, and trapping as specified under 24 V.S.A. S2295 on private or",
+              "paragraphs": [
+                "public land. This does not include facilities supporting such activities, such as firing ranges or rod and gun clubs, which for the purpose of these regulations are defined as outdoor recreation facilities."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "With exception of the Special Flood Hazard Area, small accessory buildings",
+              "paragraphs": [
+                "associated with residential uses which are less than thirty-two (32) square feet of floor area and less than eight (8) feet in height, and not located within required setbacks."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Garage sales, yard sales, auctions, or similar activities that do not exceed 4",
+              "paragraphs": [
+                "consecutive days, nor more than 12 days in any calendar year."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "A solar energy device that heats water or space or generates electricity that is located",
+              "paragraphs": [
+                "on a flat roof of an otherwise complying structure. \"Flat roof\" means a roof having a slope less than or equal to five degrees."
+              ],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "Improvements association with the construction or installation of a communications",
+              "paragraphs": [
+                "line, as defined in 24 V.S.A. S4413. (5) An application for a zoning permit shall be filed with the Zoning Administrator on forms provided by him for that purpose. All required application fees for all relevant development review processes, as set by the Town of Troy Selectboard, shall be submitted with the application as well. The applications for a permitted use shall include a sketch plan, no smaller than 8.5\" x 11\", drawn to scale, that depicts the following:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "the dimensions of the lot, including existing property boundaries,",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "the location, footprint and height of existing and proposed structures or additions,",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "the location of existing and proposed accesses (curb cuts), driveways and parking",
+              "paragraphs": [
+                "areas,"
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "the location of existing and proposed easements and rights-of-way,",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "existing and required setbacks from property boundaries, road rights-of-way,",
+              "paragraphs": [
+                "surface waters and wetlands,"
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "the location of existing and proposed water and wastewater systems,",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "snow removal/storage; and,",
+              "paragraphs": [
+                "Troy Zoning Bylaw Page 41 of 60"
+              ],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "other such information as required by the Zoning Administrator to determine",
+              "paragraphs": [
+                "conformance with these regulations. (6) Within thirty (30) days of receipt of a complete application, including all applicable application materials and fees, the Zoning Administrator shall act to either issue or deny a zoning permit in writing, or to refer it to the Development Review Board for consideration. In accordance with 24 V.S.A. S4448 and S4449, if the Zoning Administrator fails to act within the 30-day period, a permit shall be deemed issued on the 31st day. (7) No zoning permit shall be issued by the Zoning Administrator for any use or structure which requires the approval of the Development Review Board until such approval has been obtained. (8) No zoning permit issued by the Zoning Administrator shall take effect until the timeframe for appeal (15 days) has passed [see S4449(a)(3)], or in the event that a notice of appeal is properly filed, such permit shall not take effect until final adjudication of the appeal. (9) The Zoning Administrator, within three (3) days of the date of issuance, shall deliver a copy of the permit to the Town of Troy Listers; and shall post a copy of the permit in the Town Clerk's office for a period of fifteen (15) days from the date of issuance. (10) Within 30 days of the issuance of a zoning permit, the Zoning Administrator shall deliver the original, a legible copy, or a notice of the permit to the Troy Town Clerk for recording in the Town of Troy land records. (11) Zoning permits shall remain in effect for two years from the date of issuance. All development authorized by the permit shall be substantially commenced within this two- year period or reapplication shall be required to continue development. (12) Appeals of the actions of the Zoning Administrator must be submitted to Development Review Board within 15 days of the Zoning Administrator's action."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "505",
+          "title": "Site Plan Review",
+          "page": 41,
+          "paragraphs": [
+            "No zoning permit shall be issued by the Zoning Administrator for any use or structure except for one-family and two-family dwellings, accessory uses or structures, and agricultural uses, until the Development Review Board grants site plan approval after public notice and hearing in accordance with 24 V.S.A. S4416. The owner shall submit two sets of maps and supporting data to the Development Review Board which shall include the following: (1) Site plan drawn to scale showing:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Existing features, contours, structures, easements, and proposed structure",
+              "paragraphs": [
+                "locations and land use areas."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Streets, driveways, circulation, parking and loading spaces, and pedestrian walks",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Landscaping, including site grading and screening",
+              "paragraphs": [
+                "Troy Zoning Bylaw Page 42 of 60"
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Structures utilizing renewable energy resources",
+              "paragraphs": [
+                "(2) In reviewing site plans, the Development Review Board may impose appropriate conditions and safeguards with respect to the following:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "The adequacy of parking",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Traffic access and circulation for pedestrians and vehicles",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Landscaping and screening",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The protection of the utilization of renewable energy resources",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Exterior lighting",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "The shape and design of lots",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "The size, location, and design of signs",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "Erosion and sedimentation control",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "Snow removal/storage areas",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "506",
+          "title": "Subdivisions of Land",
+          "page": 42,
+          "paragraphs": [
+            "(1) Applications for subdivisions of land shall be subject to Site Plan Review by the Development Review Board after public notice and hearing. In accordance with 24 V.S.A. S4464(a)(1), the warning period for public hearing shall not be less than 15 days. (2) Any application for subdivision of land shall be accompanied by a plat of sufficient scale and clarity to portray existing conditions and proposed development. The plat shall include all lot lines and boundary dimensions, names of roads abutting the property, location and size of existing improvements identified as \"existing\", location and size of proposed improvements identified as \"proposed,\" setback dimensions of proposed and existing structures, location of existing and proposed driveways and culverts, location of existing and proposed wells and/or septic systems and location of waterways, wetlands, and flood plains. In addition, a topographic survey may be required. (3) An undersized lot resulting from subdivision of land may be created, provided it is combined with land for an adjacent property to form a conforming lot, and a single property description with a new warranty or similar deed is filed in the Town's land records. (4) All proposed new subdivision roads must have a 50-foot right of way and, if a cul de sac, a turnaround with a 100 foot radius. (5) The approved subdivision may not be officially filed until all appeal periods have expired and/or all appeals are concluded. (6) A final plat on mylar must be submitted to the Town Clerk for filing in the Town's land records. Troy Zoning Bylaw Page 43 of 60"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "507",
+          "title": "Conditional Use Review",
+          "page": 43,
+          "paragraphs": [
+            "(1) After public notice and hearing, the Development Review Board shall determine if a proposed conditional use has the potential to have an undue adverse effect on the following:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The capacity of existing or planned community facilities;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The character of the area affected, as defined by the purpose or purposes of the",
+              "paragraphs": [
+                "zoning district within which the project is located, and specifically stated policies and standards of the municipal plan;"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Traffic on roads and highways in the vicinity;",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Bylaws in effect with special reference to this zoning bylaw; and,",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "The utilization of renewable energy resources",
+              "paragraphs": [
+                "(2) In permitting a conditional use, the Development Review Board may impose, in addition to the regulations and standards expressly specified by the bylaw, other conditions found necessary to protect the best interests of the surrounding property, the neighborhood, or the municipality as a whole. These conditions may include the following:"
+              ],
+              "items": []
+            },
+            {
+              "label": "A",
+              "title": "Increasing the required lot size or yard dimensions in order to protect adjacent",
+              "paragraphs": [
+                "properties."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Limiting the coverage or height of buildings because of obstruction of view or",
+              "paragraphs": [
+                "reduction of light or air to nearby properties."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Controlling the location and number of vehicular access points to the property",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Increasing the road width",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Increasing the number of off-street parking or loading spaces required",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Limiting the number, location, and size of signs",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Requiring suitable landscaping where necessary to reduce noise and glare and to",
+              "paragraphs": [
+                "maintain the property of a character in keeping with the surrounding area."
+              ],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "Specifying a specific time limit for construction, alteration, or enlargement of a",
+              "paragraphs": [
+                "structure to house a conditional use."
+              ],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "Requiring that any future enlargement of alteration of the use be reviewed by the",
+              "paragraphs": [
+                "Development Review Board to permit the specifying of new conditions."
+              ],
+              "items": []
+            },
+            {
+              "label": "J",
+              "title": "As a condition of the grant of a conditional use, the Development Review Board may",
+              "paragraphs": [
+                "attach such additional reasonable conditions and safeguards as it may deem necessary to implement the purposes of 24 V.S.A. and this bylaw. (3) Change of use, expansion or contraction of land area or expansion of structures for uses which are designated as conditional uses within the district in which they are located, and which are existing therein prior to the effective date of the bylaw, shall conform to all regulations herein. Troy Zoning Bylaw Page 44 of 60"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "508",
+          "title": "Combined Review",
+          "page": 44,
+          "paragraphs": [
+            "(1) In accordance with 24 V.S.A. S4462, in cases where a proposed project will require more than one type of development review, the Development Review Board may warn and hold a hearing for the purpose of reviewing and acting on the proposal. The Zoning Administrator shall identify proposed projects appropriate for combined review and assist applicants in preparing and submitting coordinated applications to facilitate combined review. (2) Notice for a combined review hearing shall be made in accordance with 24 V.S.A. S4464(a)(1). The hearing notice shall include a statement that the hearing will be a combined review of the proposed project and list each review process that will be conducted at the hearing. (3) As applicable, the combined review process shall be conducted in the following order:",
+            "approval",
+            "(4) All hearing and decision requirements, and all deadlines applicable to each review process shall apply. Separate written decisions may be issued for each review conducted as part of the combined review, but shall be coordinated where appropriate."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Site Plan",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Access by right-of-way",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Requests for Waivers or Variances",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Subdivision Approval (preliminary and final) or Planned Unit Development",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Conditional Use Review",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "509",
+          "title": "Appeals of Zoning Administrator Decisions",
+          "page": 44,
+          "paragraphs": [
+            "(1) Any interested person as defined under 24 V.S.A. S4465 may appeal a decision or act of the Zoning Administrator within 15 days of the date of the decision or act by filing a notice of appeal with the Town Clerk, and by filing a copy of the notice with the Zoning Administrator. A notice of appeal filed under this section shall be in writing and include the following information:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The name and address of the appellant,",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "A brief description of the property with respect to which the appeal is taken,",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "A reference to applicable provisions of these regulations,",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The relief requested by the appellant, including any request for a variance from",
+              "paragraphs": [
+                "one or more provisions of these regulations,"
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "The alleged grounds why such relief is believed proper under the circumstances",
+              "paragraphs": [
+                "(2) The Development Review Board shall hold a public hearing on a notice of appeal within 60 days of its filing, as required in 24 V.S.A. S4468. The Development Review Board shall Troy Zoning Bylaw Page 45 of 60 give public notice of the hearing under Section 511 of this bylaw, and shall mail a copy of the hearing notice to the appellant not less than 15 days prior to the hearing date. (3) The Development Review Board may reject an appeal or request for reconsideration without hearing, and render a decision which shall include findings of fact within 10 days of the filing of a notice of appeal, if the Board determines that the issues raised by the appellant have been decided in an earlier appeal or are based on substantially or materially the same facts presented by or on behalf of the appellant. (4) All appeal hearings shall be open to the public and shall be conducted in accordance with the Development Review Board's rules of procedures, as required by 24 V.S.A. S4461. Any interested person or body may appear and be heard in person or be represented by an agent or attorney at the hearing. The hearing may be adjourned by the Board from time to time, provided that the date, time, and place of the continuation of the hearing are announced at the hearing. (5) A decision on appeal shall be rendered within 45 days after the final adjournment of the hearing. The decision shall be sent by certified mail to the appellant within the 45 day period. Copies of the decision shall be mailed to every person or body appearing and having been heard at the hearing, and filed with the Zoning Administrator and the Municipal Clerk as part of the public records of the municipality. If the Development Review Board fails to issue a decision within this 45-day period, the appeal will be deemed approved and shall be effective on the 46th day."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "510",
+          "title": "Appeals to Environmental Court",
+          "page": 45,
+          "paragraphs": [
+            "(1) In accordance with 24 V.S.A. S4471, an interested person who has offered oral or written testimony in a hearing of the Development Review Board may appeal a decision rendered by either of those bodies, within 30 days of such decision, to the Vermont Environmental Court. (2) The notice of appeal shall be filed by certified mailing, with fees, to the Environmental Court and by mailing a copy to the Zoning Administrator of the Town of Troy, who shall supply a list of interested persons (including the applicant if not the appellant) within five (5) working days. (3) Upon receipt of the list of interested persons, the appellant shall, by certified mail, provide a copy of the notice of appeal to every interested person. If any one or more of those persons are not then parties to the appeal, upon motion they shall be granted leave by the court to intervene."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "511",
+          "title": "Public Notice",
+          "page": 45,
+          "paragraphs": [
+            "Any requirements of public notice required by this bylaw, whether or not required by any provision of 24 V.S.A., Chapter 117, and whether applicable to the Development Review Board, shall be given by the publication and posting of a public hearing notice as required by 24 V.S.A. S4464. Troy Zoning Bylaw Page 46 of 60"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "512",
+          "title": "Variances",
+          "page": 46,
+          "paragraphs": [
+            "The Development Review Board shall hear and decide requests for variances in accordance with 24 V.S.A. S4469(a) and appeal procedures under S508 of this bylaw. In granting a variance, the Development Review Board may impose conditions it deems necessary and appropriate under the circumstances to implement the purposes of these regulations and the municipal plan currently in effect. The Development Review Board may grant a variance and render a decision in favor of the appellant only if all of the following facts are found, and the findings are specified in its written decision: (1) There are unique physical circumstances or conditions, including irregularity, narrowness, or shallowness of lot size or shape, or exceptional topographical or other physical conditions peculiar to the particular property, and that unnecessary hardship is due to these conditions and not the circumstances or conditions generally created by the provisions of these regulations in the neighborhood or district in which the property is located; (2) Because of these physical circumstances or conditions, there is no possibility that the property can be developed in strict conformity with the provisions of these regulations and that the authorization of a variance is necessary to enable the reasonable use of the property; (3) The unnecessary hardship has not been created by the appellant; (4) The variance, if authorized, will not alter the essential character of the neighborhood or district in which the property is located, substantially or permanently impair the appropriate use or development of adjacent property, reduce access to renewable energy resources, or be detrimental to the public welfare; and (5) The variance, if authorized, will represent the minimum that will afford relief and will represent the least deviation possible from these regulations and from the plan."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "513",
+          "title": "Waivers",
+          "page": 46,
+          "paragraphs": [
+            "(1) The Development Review Board shall hear and decide requests for waivers on dimensional requirements (including signage) as needed to allow for disability accessibility, fire safety, energy conservation, transportation access, and renewable energy structures, and other requirements of the law. (2) The waiver, if authorized, shall not result in an undue adverse affect on the essential character of the neighborhood or district in which the property is located, substantially or permanently impair the appropriate use or development of adjacent property, reduce access to renewable energy resources, or be detrimental to the public welfare, including the safety and maintenance of the Town's roadways. (3) Waivers may not be issued for any of the development standards outlined in Section 320 (9) of this bylaw. (4) Approval or denial of a waiver may be appealed to the Environmental Court as specified in"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "510",
+          "title": "of this bylaw",
+          "page": 46,
+          "paragraphs": [
+            "Troy Zoning Bylaw Page 47 of 60"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "514",
+          "title": "Penalties",
+          "page": 47,
+          "paragraphs": [
+            "The commencement or continuation of any land development that does not meet the requirements of these regulations shall constitute a violation. All violations shall be pursued in accordance with 24 V.S.A. S4451 and S4452. Each day that a violation continues shall constitute a separate offence. The Zoning Administrator shall institute, in the name of the Town of Troy, any appropriate action, injunction or other proceeding to enforce the provisions of these regulations. All fines imposed and collected shall be paid over to the municipality. (1) No action may be brought under this section unless the alleged offender has had at least seven (7) days warning notice by certified mail that a violation exists, as required under 24 V.S.A. S4451. The notice of violation also shall be recorded in the land records of the municipality. The notice shall state that a violation exists; that the alleged offender has an opportunity to cure the violation within the seven (7) day notice period, and that the alleged offender will not be entitled to additional warning notice for a violation occurring after the seven days. Action may be brought without notice and opportunity to cure if the alleged offender repeats the violation of the regulations after the seven-day notice period and with the next 12 months. (2) An action, injunction or other enforcement proceeding relating to the failure to obtain or comply with the terms and conditions of any required or duly recorded municipal land use permit may by instituted against the alleged offender if the action, injunction, or other enforcement proceeding is instituted within 15 years from the date the alleged violation first occurred, and not thereafter, in accordance with 24 V.S.A. S4454. The burden of proving the date the alleged violation first occurred shall be on the person against whom the enforcement action is instituted. No enforcement proceeding may be instituted to enforce an alleged violation of a municipal land use permit unless the permit or notice of the permit has been recorded in the land records of the municipality under Section 504(8) of this bylaw. ART 6: AMENDMENTS, INTERPRETATION, EFFECTIVE DATE"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "601",
+          "title": "Amendments",
+          "page": 47,
+          "paragraphs": [
+            "This bylaw may be amended according to the requirements and procedures established in S4441 and S4442 of the Act."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602",
+          "title": "Interpretation",
+          "page": 47,
+          "paragraphs": [
+            "In their interpretation and application, the provisions of this bylaw shall be held to be minimum requirements adopted for the promotion of the public health, safety, comfort, convenience, and general welfare. Except for S4413(c) of the Act and where, in this bylaw, specifically provided to the contrary, it is not intended by this bylaw to repeal, annul or in any way to impair any regulations or permits previously adopted or issued, provided, however, that where this bylaw imposes a greater restriction upon use of a structure or land than are required by any other statute, ordinance, rule, regulation, permit, easement, or agreement, the provisions of this bylaw shall control. Troy Zoning Bylaw Page 48 of 60"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "603",
+          "title": "Effective Date",
+          "page": 48,
+          "paragraphs": [
+            "This bylaw shall take effect in accordance with the voting and other procedures contained in S4442 of the Act."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604",
+          "title": "Separability",
+          "page": 48,
+          "paragraphs": [
+            "The invalidity of any article or section of this bylaw shall not invalidate any other article or section thereof."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "605",
+          "title": "Repeal",
+          "page": 48,
+          "paragraphs": [
+            "The existing ordinance relating to zoning regulations together with all changes and amendments thereto is repealed as of the effective date of this bylaw. ART 7: DEFINITIONS For the purpose of this bylaw, certain terms or words used herein shall be interpreted as follows:"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "701",
+          "title": "Word Definitions",
+          "page": 48,
+          "paragraphs": [
+            "The word PERSON includes firms, associations, organizations, partnerships, trusts, companies, corporations and individuals. The present tense includes the future tense, the singular number includes the plural and the plural number includes the singular. The word SHALL is mandatory, the word MAY is permissive. The words USED or OCCUPIED include the words INTENDED, DESIGNED, or ARRANGED TO BE USED or OCCUPIED. The word LOT includes the words PLOT or PARCEL."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "702",
+          "title": "Term Definitions",
+          "page": 48,
+          "paragraphs": [
+            "ACCESSORY USE OR STRUCTURE: A use or structure on the same lot with, and of a nature customarily incidental and subordinate to, the principal use or structure. ACRE: 43,560 square feet. ALTERATION: Structural change that increases the exterior height, width, or length of the building, including relocation of, or addition to, an existing building. AGRICULTURE: The business of cultivating the soil, producing crops and/or raising livestock useful to man, and all other practices outlined in the statutory definition of farming according to Title 10 S6001(22):The cultivation or other use of land for growing food, fiber, Christmas trees, maple sap, or horticultural and orchard crops; or (1) The raising, feeding, or management of livestock, poultry, fish, or bees; or (2) The operation of greenhouses; or (3) The production of maple syrup; or Troy Zoning Bylaw Page 49 of 60 (4) The onsite storage, preparation, and sale of agricultural products principally produced on the farm; or (5) The on-site production of fuel or power from agricultural products or wastes produced on the farm; or (6) The raising, feeding, or management of four or more equines owned or boarded by the farmer, including training, showing, and providing, instruction and lessons in riding, training, and the management of equines. AIRPORT: A place where aircraft can land and take off, usually equipped with hangers, facilities for refueling and repair, and various accommodations for passengers. ANIMAL HOSPITAL: A place where animals or pets are given medical or surgical treatment and the boarding of animals is limited to short-term care incidental to the hospital use. AREA OF SPECIAL FLOOD HAZARD: A synonymous meaning with the phrase \"Special Flood Hazard Area\" for purposes of these regulations. AUTO SALES & SERVICE: The use of any building, land area or other premise for the display and sale of new or used automobiles, trucks or vans, trailers, or recreational vehicles and may include any warranty repair work and other repair service conducted as an accessory use. AUTO REPAIR: Any area of land, including structures thereof, which is used or designed to be used for the general repair, rebuilding, or reconditioning of engines, motor vehicles, or trailers. AUTO SERVICE STATION: Any building, land area, or other premises, or portion thereof, used for the retail dispensing or sales of vehicular fuels and/or the servicing and repair of automobiles, and may include as an accessory use the sale of convenience goods, or the sale and/or installation of lubricants, tires, batteries, and similar vehicle accessories. BANK: An establishment concerned especially with the custody, loan exchange, or issue of money, the extension of credit, and the transmission of funds. BASE FLOOD: That flood having a one percent chance of being equaled or exceeded in any given year (commonly referred to as the 100-year flood). BASE FLOOD ELEVATION (BFE): The elevation of the water surface resulting from a flood that has a 1 percent chance of equaling or exceeding that level in any given year. On the Flood Insurance Rate Map the elevation is usually in feet, in relation to the National Geodetic Vertical Datum of 1929, the North American Vertical Datum of 1988, or other datum referenced in the Flood Insurance Study report, or the average depth of the base flood, usually in feet, above the ground surface. BASEMENT: Any area of the building having its floor elevation below ground level on all sides. BED & BREAKFAST: A building serving as a dwelling unit, and occupied by the owner, which has the capacity to provide overnight accommodations and morning meals to transient guests for compensation. Troy Zoning Bylaw Page 50 of 60 BOUNDARY LINE ADJUSTMENT: If a boundary line adjustment is proposed that will not result in one of the parcels becoming non-conforming as to lot size or required setbacks, and if less than an acre is being transferred, site plan review by the DRB is not required. If the boundary line adjustment results in an acre or more being transferred, site plan review is required. BUILDING: Any structure having a roof supported by columns or walls and intended for the shelter, housing, or enclosure of any individual, animal, process, equipment, or materials of any kind. CEMETERY: Property used for the interring of the dead. CHANNEL: An area that contains continuously or periodic flowing water that is confined by banks and a streambed. CHANNEL WIDTH (or Bankfull Width): The width of a stream channel when flowing at a bankfull discharge. The bankfull discharge is the flow of water that first overtops the natural banks. This flow occurs, on average, about once every 1 to 2 years. COMMON PLAN OF DEVELOPMENT: When a structure will be refurbished over a period of time. Such work might be planned unit by unit. COMMERCIAL DAY CARE: Any place operated as a business or service on a regular or continuous basis whose primary function is the protection, care and supervision of children outside of their homes and by a person other than a child's own parent, guardian, or relative, but not including kindergarten approved by the state board of education. CONTRACTOR'S YARD: An area of land, including buildings, used by a contractor for the storage of tools, equipment and/or materials. CRITICAL FACILITIES: Critical facilities include police stations, fire and rescue facilities, hospitals, emergency shelters, schools, nursing homes, water supply and waste handling facilities, and other structures the community identifies as essential to the health and welfare of the population during and following disaster situations. DEVELOPMENT: Any human-made change to improved or unimproved real estate, including but not limited to the division of a parcel into two or more parcels, the construction, reconstruction, conversion, structural alteration, relocation, or enlargement of any building or other structure, or of any mining, dredging, grading, filling, paving, excavation or drilling operations, and any change in the use of any building or other structure, or land, or extension of use of land. DWELLING: A building or structure thereof which is used exclusively for human habitation. DWELLING, ACCESSORY: An accessory or one-bedroom apartment, located within or appurtenant to an owner-occupied single family dwelling, that is clearly subordinate to a single- family dwelling, and has facilities and provisions for independent living, including sleeping, food preparation, and sanitation. Troy Zoning Bylaw Page 51 of 60 DWELLING, MULTI-FAMILY: A residential building designed for or occupied by three or more families living independently of each other in individual dwelling units, each equipped with separate kitchen and bathroom facilities, where the number of families in residence does not exceed the number of dwelling units provided. DWELLING, SINGLE FAMILY: A detached residential dwelling unit, including a mobile home or a modular home, designed for and occupied by only one family. DWELLING, TWO FAMILY: A residential building designed for or occupied by two families living independently of each other in individual dwelling units. DWELLING UNIT: One room, or rooms connected together, constituting a separate and single independent housekeeping establishment for owner occupancy, rental or lease, physically separated from any other rooms or dwelling units which may be in the same structure, and containing independent cooking and sleeping facilities. It shall include prefabricated, modular units and mobile homes, but shall not include motels, hotels, or similar structures. ESSENTIAL SERVICE: Services and utilities needed for the health, safety, and general welfare of the community, such as fire, police, road maintenance, water, sewerage, and other utilities, and the building, equipment, and appurtenances necessary for such systems to furnish an adequate level of service for the area in which they are located. EXISTING MOBILE HOME PARK OR SUBDIVISION: A mobile home park or subdivision for which the construction of facilities for servicing the lots on which the mobile homes are to be affixed (including, at a minimum, the installation of utilities, the construction of streets, and either final site grading of the pouring of concrete pads) is completed before the effective date of the floodplain management regulations adopted by a community. EXPANSION TO AN EXISTING MOBILE HOME PARK OR SUBDIVISION: The preparation of additional sites by the construction of facilities for servicing the lots on which the mobile homes are to be affixed (including the installation of utilities, the construction of streets, and either final site grading of the pouring of concrete pads). FAMILY: One or more persons living, sleeping, cooking, and eating on the same premises as a single housekeeping unit. FILL: Any placed material that changes the natural grade, increases the elevation, or diminishes the flood storage capacity at the site. FLOOD: (a) A general and temporary condition of partial or complete inundation of normally dry land areas from: the overflow of inland or tidal waters; the unusual and rapid accumulation or runoff of surface waters from any source; and mudslides which are proximately caused by flooding and are akin to a river of liquid and flowing mud on the surfaces of normally dry land areas, as when earth is carried by a current of water and deposited along the path of the current. (b) The collapse or subsidence of land along the shore of a lake or other body of water as a result of erosion or undermining caused by waves or currents of water exceeding anticipated cyclical levels or suddenly caused by an unusually high water level in a natural body of water, accompanied by a severe storm, or by an unanticipated force of nature, such as a flash flood or Troy Zoning Bylaw Page 52 of 60 subnormal tidal surge, or by some similarly unusual and unforeseeable even which results in flooding. FLOOD INSURANCE RATE MAP (FIRM): An official map of a community, on which the Federal Insurance Administrator has delineated both the Special Flood Hazard Areas and the risk premium zones applicable to the community. FLOOD INSURANCE STUDY: An examination, evaluation, and determination of flood hazards and, if appropriate, the corresponding water surface elevations or an examination, evaluation and determination of mudslide and/or flood related erosion hazards. FLOODPLAIN OR FLOOD-PRONE AREA: Any land area susceptible to being inundated by water from any source (see definition of \"flood\"). FLOOD PROOFING: Any combination of structural and nonstructural additions, changes, or adjustments to structures which reduce or eliminate flood damage to real estate or improved real property, water and sanitary facilities, structures and their contents. FLOODWAY: The channel of a river or other watercourse and the adjacent land areas that must be reserved in order to discharge the base flood without cumulatively increasing the water surface elevation more than one foot at any height. Please note that Special Flood Hazard Areas and floodways may be shown on separate map panels. FLOODWAY, REGULATORY IN TOWN OF TROY/VILLAGE OF NORTH TROY: The channel of a river or other watercourse and the adjacent land areas that must be reserved in order to discharge the base flood without cumulatively increasing the water surface elevation more than one foot at any point. FORESTRY: The harvesting of timber and the erection of temporary structures and the construction of logging roads for the purpose of harvesting timber. FRONTAGE or FRONT LOT LINE: The side of a lot abutting on a public or private right-of- way. GROUP HOME: Any residential facility operating under a license or registration granted or recognized by a state agency, that serves not more than eight unrelated persons, who have a handicap or disability as defined in 9 V.S.A. S 4501, and who live together as a single housekeeping unit. In addition to room, board and supervision, residents of a group home may receive other services at the group home meeting their health, developmental or educational needs. HEALTH CARE FACILITY: A facility or institution, whether public or private, principally engaged in providing services for health maintenance, diagnosis or treatment of human disease, pain injury, deformity or physical condition, including, but not limited to, a general hospital, special hospital, mental hospital, public health center, diagnostic center, treatment center, rehabilitation center, extended care facility, skilled nursing home, nursing home, intermediate care facility, tuberculosis hospital, chronic disease hospital, maternity hospital, outpatient clinic, dispensary, home health care agency, and bio-analytical laboratory or central services facility Troy Zoning Bylaw Page 53 of 60 serving one or more such institutions, but excluding institutions that provide healing solely by prayer. HEAVY INDUSTRY: Any facility for the assembly, manufacture, compounding, processing, packing, treatment, or testing of materials, goods, or products, where these activities are carried out in such a manner that they require the use of public water and sewer and may possibly generate noise, smoke, vibration, dust, glare, odors, electrical interference, or heat that is detectable at the boundaries of the lot. HISTORIC STRUCTURE: Any structure that is: (a) listed individually in the National Register of Historic Places (a listing maintained by the Department of the Interior) or preliminarily determined by the Secretary of the Interior as meeting the requirements for individual listing on the National Register; (b) certified or preliminarily determined by the Secretary of the Interior as contributing to the historical significance of a registered historic district or a district preliminarily determined by the Secretary to qualify as a registered historic district; (c) individually listed on a state inventory of historic places in states with historic preservation programs which have been approved by the Secretary of the Interior; or (d) individually listed on a local inventory of historic places in communities with historic preservation programs that have been certified either (i) by an approved state program as determined by the Secretary of the Interior or (ii) directly by the Secretary of the Interior in states without approved programs. HOME OCCUPATION: An occupation, carried on within a principal or accessory residential structure, which is customarily incidental and secondary to the use of the premises for dwelling purposes, and which does not substantially alter the character thereof. HOME CHILD CARE: A family day care home is a day care facility which provides for care on a regular basis in the caregiver's own residence for not more than ten children at any one time. Of this number, up to six children may be provided care on a full-time basis and the remainder on a part-time basis. For the purpose of this subdivision, care of a child on a part-time basis shall mean care of a school-age child for not more than four hours a day. These limits shall not include children who reside in the residence of the caregiver; except: (a) these part-time school-age children may be cared for on a full-day basis during school closing days, snow days and vacation days which occur during the school year; and (b) during the school summer vacation, up to 12 children may be cared for provided that at least six of these children are school age and a second staff person is present and on duty when the number of children in attendance exceeds six. These limits shall not include children who are required by law to attend school (age 7 and older) and who reside in the residence of the caregiver. LETTER OF MAP AMENDMENT (LOMA): A letter issued by the Federal Emergency Management Agency officially removing a structure or lot from the flood hazard zone based on information provided by a certified engineer or surveyor. This is used where structures or lots that are located above the base flood elevation and have been inadvertently included in the mapped special flood hazard area. LIGHT INDUSTRY: Any facility for the assembly, manufacture, compounding, processing, packing, treatment, or testing of materials, goods, or products, provided these activities are Troy Zoning Bylaw Page 54 of 60 conducted in such a manner so as not to generate noise, smoke, vibration, dust, glare, odors, electrical interference or heat that is detectible at the boundaries of the lot. LODGING FACILITY: A facility in which rental accommodations are provided as a series of sleeping units lacking individual kitchen facilities and in which meals also may be supplied as part of the rent. The use of a lodging facility is distinct from the use of multi-family housing. LOT: A designated area of land established by subdivision or otherwise permitted by law, that exists as depicted or described on a plat or deed in the Town of Troy's land records. LOWEST FLOOR: The lowest floor of the lowest enclosed area, including basement, except an unfinished or flood resistant enclosure, usable solely for parking of vehicles, building access or storage in an area other than a basement area is not considered a building's lowest floor provided that such enclosure is not built so as to render the structure in violation of the applicable non-elevation design requirements. LOT LINE, FRONT: That lot line separating a lot from a public right-of-way. LOT LINE, REAR: That lot line opposite and most distant from the front lot line. In the case of triangular or otherwise irregularly shaped lots, a line 10 feet in length entirely within the lot, parallel to and at a maximum distance from the front lot line. LOT LINE, SIDE: Any lot line which is not a front or rear lot line. LOT OF RECORD: A lot which is part of a subdivision recorded in the office of the Town Clerk, or a lot or parcel described by metes and bounds, the description of which has been so recorded. LOT WIDTH: The widest distance between the side lines of the lot, measured along a straight line parallel to the front lot line. MANUFACTURED HOME: See Mobile Home. MANUFACTURED HOME PARK OR SUBDIVISION: See Mobile Home Park or Subdivision. MIXED USE DEVELOPMENT: The development of a tract of land, building, or structure with a variety of complementary and integrated uses, such as, but not limited to, residential, office, retail, public, and recreation, in a compact urban form. MOBILE HOME: A structure or type of manufactured home that is built on a permanent chassis and is designed to be used as a dwelling with or without a permanent foundation, includes plumbing, heating, cooling, and electrical systems, and is: (1) transportable in one or more sections; and (2) at least eight feet wide or 40 feet long or when erected has at least 320 square feet or if the structure was constructed prior to June 15, 1976, at least eight feet wide or 32 feet long; or (3) any structure that meets all the requirements of this subdivision except for size and for which the manufacturer voluntarily files a certification required by the U.S. Department of Housing and Urban Development and complies with the standards established under Title 42 of the U.S. Code. Troy Zoning Bylaw Page 55 of 60 MOBILE HOME PARK: Any parcel of land under single or common ownership or control which contains, or is designed, laid out or adapted to accommodate, more than two mobile homes. Nothing herein shall be construed to apply to premises used solely for storage or display of mobile homes. Mobile Home Park does not mean any parcel of land under the ownership of an agricultural employer who may provide up to four mobile homes used by full-time workers or employees of the agricultural employer as a benefit or condition of employment or any parcel of land used solely on a seasonal basis for vacation or recreational mobile homes. MORTUARY: A place for the storage of human bodies prior to their burial or cremation. NEIGHBORHOOD RETAIL STORE: Any commercial facility such as a grocery general, newspaper or drug store or retail service establishment intended principally to serve the area in which it is located. NEW CONSTRUCTION: Structures commenced on or after the effective date of this bylaw. For floodplain management purposes, \"new construction\" means structures commenced on or after the effective date of the flood hazard area regulations of this bylaw (Section 320) and includes any subsequent improvements to such structures. For the purposes of determining flood insurance rates, \"new construction\" means structures for which the start of construction commenced on or after the effective date of an initial FIRM or after December 31, 1974, whichever is later, and includes any subsequent improvements to such structures. NEW MOBILE HOME PARK OR SUBDIVISION: a mobile home park or subdivision for which the construction of facilities servicing the lots on which the mobile homes are to be affixed (including at a minimum, the installation of utilities, the construction of streets, and either final site grading or the pouring of concrete pads) is completed on or after the effective date of floodplain management regulations adopted by a community. NONCONFORMING LOT OR PARCEL: Lots or parcels that do not conform to the present bylaws covering dimensional requirements but were in conformance with all applicable laws, ordinances, and regulations prior to the enactment of the present bylaws, including a lot or parcel improperly authorized as a result of error by the Zoning Administrator. NON-CONFORMING STRUCTURE: A structure or part of a structure that does not conform to the present bylaws but was in conformance with all applicable laws, ordinances, and regulations prior to the enactment of the present bylaws, including a structure improperly authorized as a result of error by the Zoning Administrator. NON-CONFORMING USE: Use of land that does not conform to the present bylaws but did conform to all applicable laws, ordinances, and regulations prior to the enactment of the present bylaws, including a use improperly authorized as a result of error by the Zoning Administrator. NONCONFORMITY: A nonconforming use, structure, lot or parcel. NON-RESIDENTIAL: includes uses other than single-family, two-family, multifamily, and accessory dwellings. Troy Zoning Bylaw Page 56 of 60 OFFICE: A room or group of rooms used for conducting the affairs of business, profession, service, industry, or government and generally furnished with desks, tables, files, and communication equipment. OFF-LOT WATER & SEWER: The providing of water from a source and the disposal of sewage not located on the lot on which the building is located for which these utilities are provided. OFF-STREET PARKING SPACE: A temporary storage area for a motor vehicle that is directly accessible to an access aisle and that is not located on a dedicated street right-of-way. ON-LOT WATER & SEWER: The providing of water from a source such as a drilled well and the disposal of the sewage by such means as septic and drainage field located on the same or adjacent lot as the building for which these utilities are provided. OUTDOOR WOOD BOILER: (a.k.a., outdoor wood-fired hydronic heater or outdoor wood furnace) is a fuel burning device: (1) designed to burn primarily wood; (2) that the manufacturer specifies should or may be installed outdoors or in structures not normally occupied by humans, such as attached or detached garages or sheds; and, (3) which heats spaces or water by the distribution through pipes of a fluid heated in the device, typically water or a mixture of water and antifreeze. PERSONAL SERVICE: Establishments primarily engaged in providing services involving the care of a person or his or her personal goods or apparel, including barber, hairdresser, beauty parlor, spa, shoe repair, shoe shine, laundry, dry cleaner, photographic studio, and other businesses providing similar services of a personal nature. PLANNED UNIT DEVELOPMENT: One or more lots, tracts or parcels of land to be developed as a single entity, the plan for which may propose any authorized combination of density or intensity transfers or increases, as well as the mixing of land uses. This plan, as authorized, may deviate from bylaw requirements that are otherwise applicable to the zoning district in which it is located with the respect to lot size, bulk or type of dwelling or building, use, density, intensity, lot coverage, parking, required common open space, or other standards. PRIVATE CLUB: A building and related facilities owned or operated by a corporation, association, or group of individuals established for the fraternal, social, educational, recreational or cultural enrichment of its members and not primarily for profit, and whose members meet certain prescribed qualifications for membership and pay dues. PUBLIC FACILITY: Usage by agencies and departments of local, county, state and federal government. Includes auditorium, theater, public hall, and meeting hall. MUNICIPAL WATER, MUNICIPAL SEWER: Water supply and/or sewage disposal systems approved and provided by the town for municipal operation. RECREATIONAL FACILITY: Includes any indoor or outdoor recreational facility, that is used for sports, leisure time activities, and other customary and usual recreational activities that can be performed by members of the general public. Troy Zoning Bylaw Page 57 of 60 RECREATIONAL VEHICLE: A vehicle which is (a) built on a single chassis; (b) 400 square feet or less when measured at the largest horizontal projection; (c) designed to be self propelled or permanently towable by a light duty truck; and (d) designed primarily not for use as a permanent dwelling but as a temporary living quarters for recreational, camping, travel or seasonal use. RELIGIOUS INSTITUTION: A structure or place in which worship, ceremonies, rituals and education pertaining to a particular system of beliefs are held. RESIDENTIAL CARE HOME: A place, however named, excluding a licensed foster home, which provides, for profit or otherwise, room, board and personal care to three or more residents unrelated to the home operator. RESTAURANT: An establishment where food and drink are prepared, served, and consumed primarily within the principal building. RETAIL FUEL OIL: Establishments engaged in selling heating fuels and other petroleum products to the general public for personal or household consumption and rendering services incidental to the sale of such goods. RETAIL SALES & SERVICE: Establishments engaged in the selling or rental of goods for personal use or household consumption and may include services incidental to the sale of such goods. RIGHT OF WAY: The right to one to pass over the property of another. SAND & GRAVEL PIT: A place where rock, ore, stone and similar materials are excavated from the surface and/or subsurface and for sale or off-tract use. SCHOOL: Any building or part thereof which is designed, constructed or used for education or instruction in any branch of knowledge SIGN: Any object, device, display, or structure, or part thereof, situated outdoors that is used to advertise, identify, display, direct, or attract attention to an object, person, institution, organization, business, product, service, event, or location by any means, including words, letters, figures, design, symbols, fixtures, colors, illumination, or projected images. SPECIAL FLOOD HAZARD AREA: The floodplain within a community subject to a 1 percent or greater chance of flooding in any given year. For purposes of these regulations, the term \"area of special flood hazard\" is synonymous in meaning with the phrase \"special flood hazard area'. This area is usually labeled Zone A, AO, AH, AE, or A1-30 in the most current flood insurance rates studies and on the maps published by the Federal Emergency Management Agency (FEMA). Maps of this area are available for viewing in the municipal office or online from the FEMA Map Service Center: www.msc.fema.gov. Base flood elevations have not been determined in Zone A where the flood risk has been mapped by approximate methods. Base flood elevations are shown at selected intervals on maps of Special Flood Hazard Areas that are determined by detailed methods. Please note, where floodways have been determined they may be shown on separate map panels from the Flood Insurance Rate Maps. Troy Zoning Bylaw Page 58 of 60 START OF CONSTRUCTION: For purposes of flood plain management, the \"start of construction\" determines the effective map or bylaw that regulated development in the Special Flood Hazard Area. The \"start of construction\" includes substantial improvement, and means the date the building permit was issued provided the actual start of construction, repair, reconstruction, rehabilitation, addition, placement, or other improvement was within 180 days of the permit date. The actual start means either the first placement of permanent construction of a structure on a site, such as the pouring of slabs or footings, the installation of piles, the construction of columns, or any work beyond the stage of excavation; or the placement of a mobile home on a foundation. Permanent construction does not include land preparation, such as clearing, grading and filling; nor does it include the installation of streets and/or walkways; nor does it include excavation for a basement, footing piers, or foundations or the erection of temporary forms; nor does it include the installation on the property of accessory buildings, such as garages or sheds not occupied as dwelling units or not part of the main structure. For substantial improvement, the actual start of construction means the first alteration of any wall, ceiling, floor, or other structural part of a building, regardless of whether that alteration affects the external dimensions of the building. STORAGE OR SHIPPING CONTAINER: storage or shipping containers (including CONEX boxes) shall be considered structures that require a permit and must comply with all setbacks required of permanent structures. STREET: Public right-of-way for vehicular traffic which affords the principal means of access to abutting properties. STREET LINE: Right-of-way line of a street as dedicated by a deed of record. Where the width of the street right-of-way has not been established, the street line shall be considered to be twenty-five feet from the center line of the traveled portion of the right-of-way. STRUCTURE: An assembly of materials for use, occupancy, or ornamentation whether installed on, above, or below the surface of land or water. For flood insurance purposes, means: (1) a building with two or more outside rigid walls and a fully secured roof, that is affixed to a permanent site; (2) a mobile home; or (3) a travel trailer without wheels, built on a chassis and affixed to a permanent foundation, that is regulated under the flood hazard area regulations and any building ordinances or laws. For floodplain management purposes, \"structure\" also includes gas or liquid storage tanks. SUBSTANTIAL DAMAGE: The damage of any origin sustained by a structure whereby the cost of restoring the structure to its before damage condition would equal or exceed 50% of the market value of the structure before the damage occurred. SUBSTANTIAL IMPROVEMENT: Any reconstruction, rehabilitation, addition, or other improvement of a structure after the date of this bylaw, the cost of which, over three years, or over a period of a common plan of development, cumulatively equals or exceeds 50 percent of the market value of the structure before the \"start of construction\" of the improvement. This term includes structures which have incurred \"substantial damage\" regardless of the actual repair work to be performed. The term does not, however include either (1) any project for improvement of a structure to correct existing violations of state or local health, sanitary, or Troy Zoning Bylaw Page 59 of 60 safety code specifications which have been identified by the local code enforcement official and which are the minimum necessary to assure safe living conditions or (2) any alteration of a \"historic structure\" provided that the alteration will not preclude the structure's continued designation as a historic structure. SUBDIVISION: The division of a lot, parcel, or tract of land into two or more lots, parcels, or tracts for development, sale, or lease. SUBSTANTIALLY COMMENCED: Visible signs of activity on new construction of a new structure or repair of a damaged structure, including the commitment of resources and materials to a project, such as the pouring of a foundation, the completion of a frame, or the delivery of all required building materials to the construction site. TOP OF BANK: The vertical point along a stream bank where an abrupt change in slope is evident. For streams in wider valleys it is the point where the stream is generally able to overflow the banks and enter the floodplain. For steep and narrow valleys, it will generally be the same as the top of slope. TRAVEL TRAILER CAMP: A plot of ground on which two or more trailers are located and occupied for sleeping purposes for a fee. TRAVEL TRAILER OR TRAILER: any vehicle used or so constructed as to permit its being used as a conveyance on the public streets and highways, whether licensed or not, and constructed in such a manner as will permit occupancy thereof as a dwelling or sleeping place for one or more persons. A trailer under this bylaw shall also mean tent trailers, truck campers, vehicles converted to sleeping facilities, other than a mobile home and/or what normally constitutes a permanent dwelling unit. This definition includes uses to which trailers might be put. TRUCK SALES & SERVICE: (See definition of AUTO SALES & SERVICE.) TRUCKING TERMINAL: An establishment providing services incidental to shipping or transportation, such as loading and unloading truck or rail cargo and freight, forwarding, packing services, short-term storage, and arranging passenger freight for transportation. VIOLATION: The commencement or continuation of any land development or use that does not meet the requirements of this bylaw. For purposes of the Flood Hazard Area Regulations: a structure or other development without the elevation certificate, other certifications, or other evidence of compliance required in the Code of Federal Regulations (44 CFR 60.3) is presumed to be in violation until such time as that documentation is provided. WAREHOUSE: A building used primarily for the storage of goods and materials, and available to the general public for a fee. WELLHEAD PROTECTION AREA: The area within 1,000 ft. radius from a well serving a public water source. WHOLESALE SALES: Establishments or places of business primarily engaged in selling merchandise to retailers; to industrial, commercial, institutional, or professional business users, Troy Zoning Bylaw Page 60 of 60 or to other wholesalers; or acting as agents or brokers and buying merchandise for, or selling merchandise to, such individuals or companies. YARD: Space on a lot not occupied with a building or structure. Porches, whether enclosed or unenclosed, shall be considered as part of the main building and shall not project into a required yard. YARD, FRONT: The space between the front lot line and the front line of a building extended to the side lot lines of the lot. The depth of the front yard shall be measured from the street line to the front line of the building. YARD, REAR: The space between the rear lot line and rear line of a building extended to the side lot lines of the lot. The depth of the rear yard shall be measured from the rear lot line to the rear line of the building. YARD, SIDE: The space between the principal building or accessory building and a side lot line, extending through from the front yard to the rear yard."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    }
+  ]
+}

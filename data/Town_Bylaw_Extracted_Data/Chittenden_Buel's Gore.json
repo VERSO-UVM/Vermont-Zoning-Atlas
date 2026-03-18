@@ -1,0 +1,1016 @@
+{
+  "metadata": {
+    "municipality": "Buel's Gore",
+    "county": "Chittenden",
+    "state": "Vermont",
+    "bylaw_date": "0823-20-10",
+    "source_pdf": "Chittenden_Buel's Gore_Text_eff08232010.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 15,
+    "word_count": 4833,
+    "articles_found": 5,
+    "sections_found": 59,
+    "subsections_found": 42,
+    "regulation_rows": 0,
+    "list_items": 0
+  },
+  "articles": [
+    {
+      "number": "1",
+      "title": "Enactment; Application of Regulations; Establishment of Zoning Districts",
+      "sections": [
+        {
+          "number": "1.1",
+          "title": "Enactment Of Regulations",
+          "page": 2,
+          "paragraphs": [
+            "In accordance with the Vermont Municipal and Regional Planning and Development Act, 24 V.S.A., Chapter 117, hereinafter called the \"ACT\", there are hereby established Zoning Regulations for Buel's Gore."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1.2",
+          "title": "General Purpose",
+          "page": 2,
+          "paragraphs": [
+            "It is the general purpose of these Zoning Regulations to preserve the values of community, independence and privacy that are essential to the character of Buel's Gore. Without some basic rules governing land use development the future of Buel's Gore will be decided, not by the residents and landowners, but by the larger and impersonal forces of growth. These Zoning Regulations are intended to protect the public health, safety and welfare as stated in section 430 2 of the Act. These Zoning Regulations recognize that while growth may be inevitable, Buel's Gore is a special place, unique in the structure of Vermont, and deserves protection of its incomparable natural resources and wildlife, and, that whatever growth there may be is on terms established by the residents of Buel's Gore. It is the further general purpose of these Zoning Regulations to establish guidelines for the development of land that will minimize disputes between neighbors and will not harm the fi nancial condition of Buel's Gore and its ability to pay for current and future expenses for necessary public services."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1.3",
+          "title": "Application Of Regulations",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "1.3.1",
+              "title": "No land development, as defined in Article 5 of these regulations, shall occur",
+              "paragraphs": [
+                "unless in conformity with these Zoning Regulations, and with each and every provision of these Zoning Regulations whether or not a zoning permit is required."
+              ],
+              "items": []
+            },
+            {
+              "label": "1.3.2",
+              "title": "Any use not expressly designated as a permitted or conditional use by these",
+              "paragraphs": [
+                "Zoning Regulations shall be deemed prohibited."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1.4",
+          "title": "Establishment Of Zoning Districts",
+          "page": 2,
+          "paragraphs": [
+            "Buel's Gore is hereby divided into the following zoning districts as shown on the \"Zoning Map\". (1) Design Review (2) Forestry and Conservation One (3) Forestry and Conservation Two (4) Ridgetop Buel's Gore Zoning Ordinance 2"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1.5",
+          "title": "Zoning Map",
+          "page": 3,
+          "paragraphs": [
+            "The location and boundaries of zoning districts are established and described in Article 4 shown representatively on the Zoning Map. The Zoning Map is hereby made a part of these regulations, and a part to all future amendments to these regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1.6",
+          "title": "The Zoning District Chart",
+          "page": 3,
+          "paragraphs": [
+            "DISTRICT PERMITTED USES CONDITIONAL USES SIZE Design Review Forestry Single family homes 10 A Agriculture Roads (other than forestry or agricultural) Home occupation \"Mother-in-Law\" Apartment Outdoor recreation Commercial Public utilities Forestry/ Conservation One Forestry Single family homes 10 A Agriculture Roads (other than forestry or agricultural Home occupation Outdoor recreation \"Mother-in-Law\" Apartment Commercial Public utilities Forestry/ Conservation Two Outdoor recreation Forestry 25 A Agricultural Wind Power Structures Ridgetop Outdoor recreation Commercial (only in those areas now occupied by Mad River Glen Ski Area & American Tower) 25 A Wind Power Structures Forestry Agricultural"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1.7",
+          "title": "Purpose Of Zoning Districts",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "1.7.1",
+              "title": "Design Review",
+              "paragraphs": [
+                "It is the only district with easy access to a public road and public utilities, but every effort should be made to protect agricultural and silvacultural uses and the preservation of the scenic beauty of the land. Any structure in the district should be architecturally in keeping with the other houses on Gore Road in Buel's Gore and Starksboro. Therefore, any structure over 120 square feet in this district must be approved by the Board of Adjustment. Buel's Gore Zoning Ordinance 3"
+              ],
+              "items": []
+            },
+            {
+              "label": "1.7.2",
+              "title": "Forestry/Conservation One",
+              "paragraphs": [
+                "This district is intended to protect the natural qualities of the land that is generally not suitable for development f or many reasons, including poor soils, steep slopes and poor access to public roads and utilities. However, it is recognized that there are selected areas within the district that are capable of supporting some development."
+              ],
+              "items": []
+            },
+            {
+              "label": "1.7.3",
+              "title": "Forestry/Conservation Two",
+              "paragraphs": [
+                "This district is intended to recognize the existing land owned by the Vermont Department of Forests and Parks and the Vermont Department of Fish and Wildlife as well as land owned by private landowners. Only forestry and agricultural use will be permitted in this district. Wind power structures will be considered as a conditional use."
+              ],
+              "items": []
+            },
+            {
+              "label": "1.7.4",
+              "title": "Ridgetop",
+              "paragraphs": [
+                "This district is intended to recognize the existing commercial properties of the American Tower Corp. microwave tower and the Mad River Glen Ski Area li fts and trails and limits any development to activities associated with their current use. Wind power development would also be considered as appropriate, but, like any other development in this district, shall be considered a conditional use."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "General Regulations",
+      "sections": [
+        {
+          "number": "2.1",
+          "title": "Existing Small Lots",
+          "page": 4,
+          "paragraphs": [
+            "Any lot in individual and separate and non -affiliated ownership from surrounding properties in existence on the effective date of the regulations or any interim regulations may be developed for the purposes permitted in the district in which it is located, even though not conforming to minimum lot size requirements, if such lot is not less than one- eighth acre in area with a minimum width or depth dimension of forty feet. Any existing small lot must still meet all requirements of the district in which it is located."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.2",
+          "title": "Required Road Frontage",
+          "page": 4,
+          "paragraphs": [
+            "There shall be a public road frontage or road frontage on a private road of at least one - third the lot depth, unless otherwise approved by the Planni ng Commission. No land development may be permitted on lots which do not either have frontage on a public road or, with the approval of the Planning Commission, on a private road with a permanent easement or right-of-way at least fifty feet in width."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.3",
+          "title": "Required Setbacks",
+          "page": 4,
+          "paragraphs": [
+            "Design Review District There shall be a minimum distance of 50 feet from the use and the property line, and a minimum distance of 50 feet from the use and the centerline of the public or private road or right-of-way. Buel's Gore Zoning Ordinance 4 All Other Districts There shall be a minimum distance of 50 feet from the use and the property line, and a minimum distance of 100 feet from the use and the centerline of the public or private road or right-of-way."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.4",
+          "title": "Accessory Uses",
+          "page": 5,
+          "paragraphs": [
+            "Accessory uses in a land use district shall be considered to the same extent and subject to the same standards as permitted and conditional uses."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.5",
+          "title": "Protection of Home Occupations and Industries",
+          "page": 5,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "2.5.1",
+              "title": "No regulation herein is intended to infringe upon the right of any resident or",
+              "paragraphs": [
+                "landowner to use a minor portion of a dwelling for an occupation that is customary to the district in which it is located and does not change the character thereof."
+              ],
+              "items": []
+            },
+            {
+              "label": "2.5.2",
+              "title": "A home occupation or industry application shall be submitted to the zoning",
+              "paragraphs": [
+                "administrator on a form approved by the Planning Commission so that a determination can be made as to whether the proposed use is, in fact, a home occupation or industry as defined by the following provisions: 2.5.2.1 The business use or structure is clearly secondary to and smaller than the residential use or structure; 2.5.2.2 In addition to the residents of the dwelling, no more than three full time equivalent employees may be employed by the business on the premises; 2.5.2.3 Adequate, off-road parking shall be provided; 2.5.2.4 The business use or structure shall not result in adverse off-site effects on air quality, noise or vibration level, odor, or glare; and 2.5.2.5 No toxic, flammable, noxious, or explosive chemicals or materials shall be stored in the dwelling or in an exposed or otherwise unprotected area of the property, nor will such items be disposed of on the premises. The storing of such items not necessary for the business shall be prohibited."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.6",
+          "title": "Lots in Two Zoning Districts",
+          "page": 5,
+          "paragraphs": [
+            "Where a district boundary line divides a lot of record at the time such line is adopted, the regulations for the less restricted part of such lot shall extend not more than thirty feet into the more restricted part."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.7",
+          "title": "Nonconforming Uses",
+          "page": 5,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "2.7.1",
+              "title": "A nonconforming use may be continued indefinitely, but shall be subject to the",
+              "paragraphs": [
+                "provisions of this section. Buel's Gore Zoning Ordinance 5"
+              ],
+              "items": []
+            },
+            {
+              "label": "2.7.2",
+              "title": "A nonconforming use shall not be changed to another nonconforming use without",
+              "paragraphs": [
+                "approval by the Board of Adjustment, and then only to a use which, in the opinion of the Board, is of the same or of a more conforming use."
+              ],
+              "items": []
+            },
+            {
+              "label": "2.7.3",
+              "title": "A nonconforming use shall not be reestablished without the approval of the Board",
+              "paragraphs": [
+                "of Adjustment if such use has been discontinued for a period of at least one year or has been changed to, or replaced by, a conforming use. Intent to resume a nonconforming use shall not confer the right to do so. If a nonconforming use is not reestablished within one year, the future use of the lot or structure shall be in conformance with the provisions of these regulations."
+              ],
+              "items": []
+            },
+            {
+              "label": "2.7.4",
+              "title": "A nonconforming use shall not be restored or continued for other than a",
+              "paragraphs": [
+                "conforming use after damage from any cause unless such nonconforming use is carried on uninterrupted in the undamaged part of the structure or unless the nonconforming use is reinstated by the commencement of within one year of such damage, the construction or restoration of such is completed within two years, and approval is obtained by the Board of Adjustment. Otherwise, the n onconforming use of such structure shall be deemed to have been discontinued."
+              ],
+              "items": []
+            },
+            {
+              "label": "2.7.5",
+              "title": "A nonconforming use shall not be moved, extended, or enlarged unless the Board",
+              "paragraphs": [
+                "of Adjustment shall find that such movement, extension, or enlargement does not create a greater nuisance or detriment than currently exists; is consistent with the objectives and intent of the Buel's Gore plan; complies with the provisions of Section 4.8; and is in conformance with the general regulations of the applicable district."
+              ],
+              "items": []
+            },
+            {
+              "label": "2.7.6",
+              "title": "With regard to nonconforming uses, the Board of Adjustment may make findings,",
+              "paragraphs": [
+                "hold hearings, and attach conditions as deemed necessary in accordance with the Act."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.8",
+          "title": "Noncomplying Structures",
+          "page": 6,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "2.8.1",
+              "title": "Any noncomplying structure may be allowed to conti nue indefinitely, but shall be",
+              "paragraphs": [
+                "subject to the provision of this section."
+              ],
+              "items": []
+            },
+            {
+              "label": "2.8.2",
+              "title": "A noncomplying structure may be restored or reconstructed after damage from any",
+              "paragraphs": [
+                "cause provided that the intended use of the structure is a permitted use under the applicable zoning and the reconstruction does not increase the degree of noncompliance which existed prior to the damage. Restoration or reconstruction of a noncomplying structure to permit continuation of a nonconforming use must also comply with the provisions of Section 2.7."
+              ],
+              "items": []
+            },
+            {
+              "label": "2.8.3",
+              "title": "A noncomplying structure may be enlarged or expanded, upon approval of the",
+              "paragraphs": [
+                "Board of Adjustment, provided that the intended use of the structure is a permitted use under the applicable zoning and that the expansion does not increase the existing degree of noncompliance. Enlargement or expansion of a noncomplying structure which is devoted to a nonconforming use may only be done in compliance with the provisions of"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.7",
+          "title": "",
+          "page": 6,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "2.8.4",
+              "title": "Nothing in this section shall be deemed to prevent normal maintenance and repair",
+              "paragraphs": [
+                "of a noncomplying structure provided that such action does not increase the degree of noncompliance. Buel's Gore Zoning Ordinance 6"
+              ],
+              "items": []
+            },
+            {
+              "label": "2.8.5",
+              "title": "With regard to restoration, reconstruction, enlargement or expansion of a",
+              "paragraphs": [
+                "noncomplying structure, an application shall be filed with the Board of Adjustment which may make findings, hold hearings, and attach such conditions as deemed necessary, in accordance with the provisions of the Act."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.9",
+          "title": "Construction Approved Prior to Adoption of or Amendment to",
+          "page": 7,
+          "paragraphs": [
+            "Regulations"
+          ],
+          "subsections": [
+            {
+              "label": "2.9.1",
+              "title": "No permit shall be required for any building upon which substantial construction",
+              "paragraphs": [
+                "had begun prior to the adoption of these regulations, provided such construction is completed within two years from the date of these regulations."
+              ],
+              "items": []
+            },
+            {
+              "label": "2.9.2",
+              "title": "Buel's Gore s hall not require any change in the plans for, or construction of, a",
+              "paragraphs": [
+                "structure or use for which a zoning permit has been issued and which has subsequently been made non -complying or nonconforming by an amendment to these by -laws if the activities authorized by the zoning permit are completed while the permit is valid."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.10",
+          "title": "Mobile Homes, Prefabricated Homes and Modular Homes",
+          "page": 7,
+          "paragraphs": [
+            "Mobile homes, prefabricated and modular homes shall be considered the same as conventional homes."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.11",
+          "title": "Prohibited Uses",
+          "page": 7,
+          "paragraphs": [
+            "Notwithstanding any other provisions of these regulations, in all districts the following uses are prohibited: the manufacturing, processing, storage or disposal of hazardous or radioactive chemicals, materials, products or waste; and landfills of any type. If a use that is prohibited under the provisions of this section, or that is prohibited by reason of failure to list the use as permitted or conditional in a district, is required to be considered under state law, the proposed use shall be considered as a conditional use and subject to the standards and procedures required for conditional use approval in that district."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "Administration And Enforcement",
+      "sections": [
+        {
+          "number": "3.1",
+          "title": "Zoning Administrator",
+          "page": 7,
+          "paragraphs": [
+            "The Zoning Administrator shall literally administer and en force the provisions of these regulations in accordance with the terms of the regulations and provisions of the Act."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.2",
+          "title": "Zoning Permit",
+          "page": 7,
+          "paragraphs": [
+            "Except as provided in Section 3.4 of this section, no land development, as defined in"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "District Boundaries",
+      "sections": [
+        {
+          "number": "4.1",
+          "title": "Interpretation of Zoning District Boundaries",
+          "page": 10,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "4.1.1",
+              "title": "Boundaries indicated as approximately following roads, highways, utility rights -of-",
+              "paragraphs": [
+                "way or streams shall be construed as following the centerline of such roads, highways, utility rights-of-way or streams."
+              ],
+              "items": []
+            },
+            {
+              "label": "4.1.2",
+              "title": "Boundaries indicated as following property lines or Gore an d Town lines shall be",
+              "paragraphs": [
+                "construed as following such lines as they exist on the effective date of these regulations."
+              ],
+              "items": []
+            },
+            {
+              "label": "4.1.3",
+              "title": "Boundaries indicated as being parallel to or extensions of lines or features",
+              "paragraphs": [
+                "described in subsections 4.1.1 and 4.1.2 above shall be c onstrued as parallel to or extension of such line or features."
+              ],
+              "items": []
+            },
+            {
+              "label": "4.1.4",
+              "title": "Boundaries indicated as being lines perpendicular to lines or features described in",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "4.1.1",
+              "title": "and 4.1.2 above shall be construed to proceed at right angles from such lines or",
+              "paragraphs": [
+                "features. Di stances not specifically indicated shall be determined by the scale of the Buel's Gore Zoning Ordinance 10 map."
+              ],
+              "items": []
+            },
+            {
+              "label": "4.1.5",
+              "title": "Boundaries indicated as following existing contour lines shall be construed to",
+              "paragraphs": [
+                "follow the line of the elevation indicated as determined on the ground."
+              ],
+              "items": []
+            },
+            {
+              "label": "4.1.6",
+              "title": "The abandonment or relocation of a right -of-way, highway or road, or the change",
+              "paragraphs": [
+                "in a line or feature which references a district boundary line, after the effective date of these regulations, shall not effect the location of such boundary line."
+              ],
+              "items": []
+            },
+            {
+              "label": "4.1.7",
+              "title": "When the Zoning Administrator cannot definitely determine the location of a district",
+              "paragraphs": [
+                "boundary, the Planning Commission shall interpret the location of the district boundary with reference to the Zoning Map. If uncertainty exists with respect to the boundary of any z oning district on the Zoning Map, the Planning Commission shall determine the location of such boundary."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.2",
+          "title": "District Boundary Descriptions",
+          "page": 11,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "4.2.1",
+              "title": "Design Review District:",
+              "paragraphs": [
+                "This district is in two sections, all located in the Northwestern corner of Buel's Gore. The northernmost section is triangular in shape, bounded on the north by the Huntington town like, the west by the Starksboro town line and the south by the State of Vermont Department of Fish and Wildlife land. The main portion is bounded on the west by the Starksboro/Gore line from the State of Vermont Department of Fish and Wildlife southern border south to Stave Brook; on the north by the said State of Vermont Department of Fish and Wildlife southern border from the corner of the Buel's Gore/Starksboro line east to the nearest height of land as seen from the Gore Road; on the east by the height of land as seen from the Gore Road south, along said height of land to Stave Brook; and on the south by Stave Brook. The eastern boundary approximately follows the 1300 foot contour line."
+              ],
+              "items": []
+            },
+            {
+              "label": "4.2.2",
+              "title": "Forestry/Conservation One District:",
+              "paragraphs": [
+                "This district includes all of the land in private ownership located between the Design Review District and the properties owned by the State of Vermont, Department of Forest and Parks and Department of Fish and Wildlife. It is bounded on the west by the height of land that is the eastern boundary of the Design Review District; on the north by the lands owned by the State of Vermont Department of Forests and Parks and Department of Fish and Wildlife; and, on the east and south by the lands of the State of Vermont, Department of Forests and Parks and Department of Fish and Wildlife and all of the lands now, or formerly, in private ownership encompassing the southern tip of Buel's Gore."
+              ],
+              "items": []
+            },
+            {
+              "label": "4.2.3",
+              "title": "Forestry/Conservation Two District:",
+              "paragraphs": [
+                "The boundaries of this district are the boundaries of all the lands owned by the State of Vermont."
+              ],
+              "items": []
+            },
+            {
+              "label": "4.2.5",
+              "title": "Ridgetop District:",
+              "paragraphs": [
+                "The boundaries of this district are the boundaries of all the lands currently owned by the American Tower Corporation and the Mad River Glen Corporation. Buel's Gore Zoning Ordinance 11"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.1",
+          "title": "Doubt as to the precise meaning of any word used in these regulations shall be",
+          "page": 12,
+          "paragraphs": [
+            "clarified by the Planning Commission in its discretion."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.2",
+          "title": "ACCESSORY USE OR BUILDING: A building or use customarily incidental and",
+          "page": 12,
+          "paragraphs": [
+            "subordinate to the principal use of the building and located on the same lot."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.3",
+          "title": "AGRICULTURE: Land or structure used for farming, farms, or the storage of",
+          "page": 12,
+          "paragraphs": [
+            "farming supplies or equipment, and includes, but is not limited to, riding stables, forestry, nurseries, and roadside stands. Uses not included are any agricultural processing plants."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.4",
+          "title": "COMMERCIAL USE: The business of providing goods, services or facilities for",
+          "page": 12,
+          "paragraphs": [
+            "sale or distribution, on a profit or nonprofit basis."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.5",
+          "title": "CONDITIONAL USE: Use which may be permitted only by approval of the Board",
+          "page": 12,
+          "paragraphs": [
+            "of Adjustment (see 3.8.1 above) to determine whether the proposed use will conform to general and specific standards as set for th or referred to in these regulations and pursuant to Section 4407(2) of the Act."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.6",
+          "title": "DENSITY: Number of units allowed per parcel",
+          "page": 12,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.7",
+          "title": "DEPTH OF LOT: The distance between any point on the road frontage and the",
+          "page": 12,
+          "paragraphs": [
+            "most distant point on the lot that is not on the road frontage."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.8",
+          "title": "FAMILY: One or more persons living, sleeping, cooking and eating on the same",
+          "page": 12,
+          "paragraphs": [
+            "premises as a single housekeeping unit."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.9",
+          "title": "FORESTRY: The practice of managing land to preserve an existing stand of trees",
+          "page": 12,
+          "paragraphs": [
+            "or to grow or harvest tr ees in accordance with generally accepted and environmentally sound forestry practices."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.10",
+          "title": "FRONT YARD SETBACK: The distance from the centerline of the road to the front",
+          "page": 12,
+          "paragraphs": [
+            "of the building."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.11",
+          "title": "HOME: Building, structure or part thereof used as living quarters for a family. The",
+          "page": 12,
+          "paragraphs": [
+            "terms \"home, single family home, two-family home or multi-family home\" shall not include a tourist home, motor lodge, inn, or a temporary residence for rent or hire."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.12",
+          "title": "HOME INDUSTRY: A commercial, or light industrial use whic h is housed in an",
+          "page": 12,
+          "paragraphs": [
+            "accessory building to a residential dwelling or on a lot abutting the residential dwelling of the business owner. All home industries under this definition must conform to the general requirements for home occupations and industries spec ified in Section 2.5 of these regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.13",
+          "title": "HOME OCCUPATION: An accessory commercial use contained within a minor",
+          "page": 12,
+          "paragraphs": [
+            "portion of a dwelling by the residents. Home occupations shall also be subject to the provisions outlined in Section 2.5. Buel's Gore Zoning Ordinance 12"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.14",
+          "title": "LAND D EVELOPMENT: The division of a lot into two or more lots; the",
+          "page": 13,
+          "paragraphs": [
+            "construction, reconstruction, conversion, structural alteration, relocation, or enlargement of any building or other structure, or of any mining, extraction or landfill; the construction or alteration of a stream, pond or other body of water; any change in the use of any building or other structure or land, or extension of use of land."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.15",
+          "title": "LANDFILL: Land used for the disposal, abandonment, dumping, burial, burning, or",
+          "page": 13,
+          "paragraphs": [
+            "any other means and for w hatever purpose, of garbage, sewage, trash, refuse, junk, discarded machinery, vehicles or parts thereof, or waste material of any kind."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.16",
+          "title": "LEGISLATIVE BODY: This means the Buel's Gore Supervisor, as per Section",
+          "page": 13,
+          "paragraphs": [
+            "4303 (2) of the Act."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.17",
+          "title": "LOT: Land having not less than the minimum area, width, and depth required for a",
+          "page": 13,
+          "paragraphs": [
+            "lot in the district in which such land is situated and having frontage on a public or private road, or other means of access as may be required by these regulations. A lot must also contain sufficient developable land area to support the proposed use or development. this definition includes existing small lots, per Section 2.1, which may not meet minimum area, width, depth or development land area requirements."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.18",
+          "title": "LOT SIZE: Total ar ea within the property lines excluding any part thereof lying",
+          "page": 13,
+          "paragraphs": [
+            "within the boundaries of an existing or proposed road."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.19",
+          "title": "MOBILE, PREFABRICATED AND MODULAR HOME: A prefabricated dwelling",
+          "page": 13,
+          "paragraphs": [
+            "unit which is designed for long-term and continuous occupancy, is designed to be moved on wheels as a whole or in sections, and is ready for occupancy upon arrival at the site except for incidental unpacking, assembly, connections with utilities and placement on supports or foundation."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.20",
+          "title": "MUNICIPALITY: This means Buel's Gore, as per Section 4303(4) of the Act",
+          "page": 13,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.21",
+          "title": "NONCONFORMING USE: Use of land or structure which does not comply with all",
+          "page": 13,
+          "paragraphs": [
+            "zoning regulations where such use conformed to all applicable laws, ordinances, and regulations prior to enactment of these regulations as amended."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.22",
+          "title": "NON-COMPLYING STRUCTURE: Structure not complying with the zoning",
+          "page": 13,
+          "paragraphs": [
+            "regulations covering bulk, dimensions, height, area, setbacks, density, off street loading or parking requirements, where such structure complied with all applicable laws, ordinances, and regulations prior to enactment of these regulations as amended."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.23",
+          "title": "PERMITTED USE: Use specifically allowed in the district, excluding illegal uses",
+          "page": 13,
+          "paragraphs": [
+            "and nonconforming uses."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.24",
+          "title": "PUBLIC USE: A use of property eligible for property tax exemption under 32 VSA,",
+          "page": 13,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3802",
+          "title": "A public use owned or operated by Buel's Gore. A public use owned or",
+          "page": 13,
+          "paragraphs": [
+            "operated by a government entity other than Buel's Gore, or by a religious or other not for profit organization."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.25",
+          "title": "ROAD: Any public or priv ate highway, avenue, street, land or way between right -",
+          "page": 13,
+          "paragraphs": [
+            "of-way lines, used for vehicular traffic exclusive of a driveway serving not more than two Buel's Gore Zoning Ordinance 13 single family homes."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.26",
+          "title": "STRUCTURE: An assembly of materials for occupancy or use",
+          "page": 14,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.27",
+          "title": "VARIANCE: A departure from the zoning regulations which is granted or denied by",
+          "page": 14,
+          "paragraphs": [
+            "the Board of Adjustment. The conditions specified in Section 4469 of the Act must exist in order for a variance to be granted. Buel's Gore Zoning Ordinance 14"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "title": ", may commence without a zoning permit issued by the Zoning Administrator",
+      "sections": [
+        {
+          "number": "3.3",
+          "title": "Zoning Application Procedure",
+          "page": 7,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "3.3.1",
+              "title": "An application for a zoning permit shall be made on a form approved by the",
+              "paragraphs": [
+                "Planning Commission. Buel's Gore Zoning Ordinance 7"
+              ],
+              "items": []
+            },
+            {
+              "label": "3.3.2",
+              "title": "The Zoning Administrator shall act on the a pplication as soon as possible, but no",
+              "paragraphs": [
+                "later than 30 days of filing a completed application. Public notice shall be provided in accordance with the provisions of section 4443(b) of the Act."
+              ],
+              "items": []
+            },
+            {
+              "label": "3.3.3",
+              "title": "If the application is denied, the Zoning Administrator s hall notify the applicant of",
+              "paragraphs": [
+                "the reasons in writing. If a permit is issued, all authorized activities shall be completed within two years or reapplication shall be required."
+              ],
+              "items": []
+            },
+            {
+              "label": "3.3.4",
+              "title": "Appeals from the decisions of the Zoning Administrator shall be in accordance with",
+              "paragraphs": [
+                "the Act."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.4",
+          "title": "Exemptions",
+          "page": 8,
+          "paragraphs": [
+            "All other provisions of these zoning regulations apply to activities exempted by this section in accordance with their terms."
+          ],
+          "subsections": [
+            {
+              "label": "3.4.1",
+              "title": "No zoning permit is required for the following:",
+              "paragraphs": [
+                "3.4.1.1 Fences, hedges, or walls which do not interfere with road access visibility. 3.4.1.2 Any accessory buildings, including sheds, garages, doghouses, agricultural buildings, or similar nonresidential, noncommercial structures having less than 120 square feet in floor area and less than 15 feet high. 3.4.1.3 Any sign erected by Buel's Gore or State for directional information or traffic control. Any sign erected by a landowner if said sign conforms to the requirements as set forth by State of Vermont Statute. 3.4.1.4 Replacement of a single family home, accessory building or seasonal camp with a similar type structure with the same footprint if such a home is permitted or a conditional use in the district and construction is commenced within one year from the removal or destruction of the original building. 3.4.1.5 Private, non-commercial renewable energy source, such as a wind turbine, solar array or small-scale hydro generator. This does not include bio fuel powered generation due to possible pollution issues."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.5",
+          "title": "Fees",
+          "page": 8,
+          "paragraphs": [
+            "The Legislative Body shall establish all fees to be charged, with the intention of covering the costs of administering the regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.6",
+          "title": "Administration and Enforcement; Appeals",
+          "page": 8,
+          "paragraphs": [
+            "Administration and enforcement of the regulations and appeals shall be as prescribed in subchapters 7 and 8 of the Act. Buel's Gore Zoning Ordinance 8"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.7",
+          "title": "Board of Adjustment",
+          "page": 9,
+          "paragraphs": [
+            "There is hereby established a Board of Adjustment whose members shall be appointed by the Legislative Body, and who may consist of the members of the Planning Commission."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.8",
+          "title": "Conditional Uses",
+          "page": 9,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "3.8.1",
+              "title": "In any district a conditional use may be permitted only by approval of the Board of",
+              "paragraphs": [
+                "Adjustment. Any commercial development, new building that will be occupied or when setback requirements are not met a public hearing will be required. Otherwise, the Board will determine if public notice and a hearing are necessary. The Board will determine that the proposed use conform s to the standards required by this section and all other requirements of these regulations."
+              ],
+              "items": []
+            },
+            {
+              "label": "3.8.2",
+              "title": "The applicant for a proposed conditional use shall submit an application, to the",
+              "paragraphs": [
+                "Board of Adjustment on a form approved by the Board."
+              ],
+              "items": []
+            },
+            {
+              "label": "3.8.3",
+              "title": "When determining the appropriateness of a proposed conditional use, the Board",
+              "paragraphs": [
+                "of Adjustment shall determine whether the development or use will comply with the conditional use standards set forth in the Act as well as he following requirements and standards: 3.8.3.1 Character of the Land: All land to be developed shall be, in the judgment of the Board, of such a character that it can be used for building purposes without danger to public health, safety or the environment. Land subject to periodic flooding, poor drainage, inadequate capacity to withstand structures (including roads, utilities and bui ldings), wetlands or land with other hazardous conditions, shall not ordinarily be developed. 3.8.3.2 Preservation of Existing Features: Due regard shall be given to the preservation and protection of existing features, trees, scenic points, brook, streams, rock outcroppings, water bodies, wetlands, open lands, other natural resources and historic resources. 3.8.3.3 Runoff and Erosion: Development proposals shall include adequate provisions for the control of runoff and erosion during and after construction. 3.8.3.4 Lot Layout and Configuration: The layout and configuration of lots shall be appropriate for the intended construction, the character of the land and the preservation of natural features. Consideration of lot layout shall be given to topographic and soil conditions. Subdivision of land into parcels that may become economically or environmentally nonviable because of their shape shall be prohibited. 3.8.3.5 Traffic on Roads and Highways: Proposed development shall not cause unreasonable highway congestion or unsafe conditions and sight distances with respect to current and projected use of highways and roads in Buel's Gore. Buel's Gore Zoning Ordinance 9 3.8.3.6 Municipal Services and Facilities: Proposed development shall not place an unreasonable burden on the abilit y of Buel's Gore to provide municipal, educational or other governmental and public services or facilities. 3.8.3.7 Compliance and Compatibility: A proposed development shall comply with Buel's Gore Plan and any other bylaws in effect, as well as be comp atible with surrounding properties whether in Buel's Gore or not. 3.8.3.8 Air, Noise, Light and Water Pollution: Proposed development shall not cause unreasonable air, noise, light or water pollution. 3.8.3.9 Energy Conservation: The design and constr uction of proposed development shall include reasonable, cost -effective investments and other decisions in energy efficiency and other energy conservation measures."
+              ],
+              "items": []
+            },
+            {
+              "label": "3.8.4",
+              "title": "In granting a permit for a conditional use the Board of Adjustment may attach",
+              "paragraphs": [
+                "such reasonable conditions, bonds, and safeguards as it may deem necessary to implement the purposes of the Act and these regulations."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.9",
+          "title": "Variances",
+          "page": 10,
+          "paragraphs": [
+            "The Board of Adjustment may grant a variance from the provisions of these regulations in accordance with the provisions of the Act."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.10",
+          "title": "Severability",
+          "page": 10,
+          "paragraphs": [
+            "If any provision of the regulations or the application thereof to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of these regulations which can be given effect without the invalid provision or application, and for this purpose the provisions of these regulations are severable."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    }
+  ]
+}

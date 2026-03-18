@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "municipality": "Londonderry",
+    "county": "Windham",
+    "state": "Vermont",
+    "bylaw_date": "0518-20-20",
+    "source_pdf": "Windham_Londonderry_Text_eff05182020.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 1,
+    "word_count": 491,
+    "articles_found": 1,
+    "sections_found": 1,
+    "subsections_found": 0,
+    "regulation_rows": 0,
+    "list_items": 2
+  },
+  "articles": [
+    {
+      "number": "",
+      "title": "",
+      "sections": [
+        {
+          "number": "402",
+          "title": "Access and Frontage Requirements [Amended 5/18/2020]",
+          "page": 1,
+          "paragraphs": [
+            "(A) In accordance with the Act [Section 4412(3)], except as provided below, no land development may be permitted on lots which do not have either frontage on a maintained public road [Class I, II, III, state] or public waters, or access to such a road or waters by a permanent ease ment or right-of-way at least fifty (50) feet in width.",
+            "Review procedures as set forth in Zoning Bylaw Section 503.",
+            "a. The Administrative Officer may allow for enlargements and renovations to existing structures, and/or construction of new structures accessory to existing legal uses on a lot, regardless of the width of the permanent easement or right -of-way providing access, provided such enlargements, renovations or new accessory structures contain less than 40% of total floor area of the existing primary structure. b. The Administrative Officer may allow for land disturbance (though not mining, pond excavation or landfilling) on a lot, regardless of the width of the permanent easement or right-of-way providing access, provided such land disturbance is less than one-quarter acre in size. An access road or driveway may serve a maximum of three (3) lots including fron tage lots. Roads serving more than three lots must meet the Town of Londonderry Road Ordinance as adopted by the Selectboard. Access onto public roads shall also be subject to the approval of the Londonderry Selectboard, and for State highways (Vermont Routes 11 and 100), the Vermont Agency of Transportation. As a condition to such permits, compliance with all local ordinances and regulations pertaining to highways and land use shall be required. The Selectboard and/or Agency may, as a condition of the permit, provide for the elimination of accesses previously permitted and require the construction of a common frontage road or other access improvements which may serve more than one property or lot [19 V.S.A., 1111(f)]. For access subject to Development Review approval, the Development Review Board may consider intended use, safety, traffic, lot configuration and road and site conditions in granting or denying approval. Lots created after the effective date of this Bylaw are subject to all access and/or frontage requirements contained herein, as well as applicable provisions under Subdivisions (Section 314), and Site Plan Review (Section 504). (B) No lot shall be served by more than one (1) access road or driveway unless otherwise permitted under Subdivision (Section 314) and Site Plan Review (Section 504). Accesses (curb cuts) are to be installed in accordance with Town and/or State regulations, and shall not be permitted to extend along the length of road frontage. Driveways are to be located at least one hundred (100) feet from a street or highway right-of-way intersection for all uses, except one-and two-family residential uses, which shall be at least fifty (50) feet from the same."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "The Development Review Board may allow land development subject to Conditional Use",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Exceptions to the foregoing are:",
+              "use_type": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

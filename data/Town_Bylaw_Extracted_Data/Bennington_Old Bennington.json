@@ -1,0 +1,2780 @@
+{
+  "metadata": {
+    "municipality": "Old Bennington",
+    "county": "Bennington",
+    "state": "Vermont",
+    "bylaw_date": "0407-20-20",
+    "source_pdf": "Bennington_Old Bennington_Text_eff04072020.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 35,
+    "word_count": 14334,
+    "articles_found": 11,
+    "sections_found": 102,
+    "subsections_found": 96,
+    "regulation_rows": 0,
+    "list_items": 161
+  },
+  "articles": [
+    {
+      "number": "I",
+      "title": "PURPOSE",
+      "sections": [
+        {
+          "number": "10",
+          "title": "Purpose",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "II",
+      "title": "DEFINITIONS",
+      "sections": [
+        {
+          "number": "20",
+          "title": "Definitions",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "III",
+      "title": "CREATION OF DISTRICT",
+      "sections": [
+        {
+          "number": "30",
+          "title": "Creation of District",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "31",
+          "title": "Zoning Map",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "32",
+          "title": "Zoning of Streets",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "33",
+          "title": "Land Under Water",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "IV",
+      "title": "GENERAL REGULATIONS",
+      "sections": [
+        {
+          "number": "40",
+          "title": "Compliance with Bylaws",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "41",
+          "title": "Creation of Substandard Lots",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "42",
+          "title": "Pre-Existing Substandard Lots",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "43",
+          "title": "Additional Principal Dwellings on a Lot",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "44",
+          "title": "Accessory Dwelling Units",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "45",
+          "title": "Required Street Frontage",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "46",
+          "title": "Limitations on Municipal Laws",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "47",
+          "title": "Referral to State Departments",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "V",
+      "title": "RESIDENTIAL DISTRICT",
+      "sections": [
+        {
+          "number": "50",
+          "title": "Permitted Uses",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "51",
+          "title": "Conditional Uses",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "52",
+          "title": "Accessory Uses",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "53",
+          "title": "Dimensional and Lot Line (Yard) Setback Requirements",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "54",
+          "title": "Signs, Ornamentation and Illumination",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "55",
+          "title": "Off-Street Parking Requirements",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "VI",
+      "title": "NONCONFORMING USES AND STRUCTURES",
+      "sections": [
+        {
+          "number": "60",
+          "title": "Nonconforming Uses",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "61",
+          "title": "Enlargement of Nonconforming Structures",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "62",
+          "title": "Reconstruction After Damage",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "VII",
+      "title": "SPECIAL REGULATIONS",
+      "sections": [
+        {
+          "number": "70",
+          "title": "Parking",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "71",
+          "title": "Storage of Garbage and Waste Materials",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "72",
+          "title": "Storage of Roll-Off Dumpsters/Containers",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "73",
+          "title": "Storage of Motor Vehicles, Trailers, Mobile Homes or Boats",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "74",
+          "title": "Storage of Commercial Vehicles",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "VIII",
+      "title": "ADMINISTRATION AND ENFORCEMENT",
+      "sections": [
+        {
+          "number": "80",
+          "title": "Administrative Officer",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "81",
+          "title": "Planning Commission and Zoning Board of Adjustment",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "82",
+          "title": "Zoning Permits",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "83",
+          "title": "Minor Permits",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "84",
+          "title": "Certificates of Use",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "85",
+          "title": "Site Development Plan",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "86",
+          "title": "Conditional Use Approval, Variances and Waiver",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "87",
+          "title": "Public Notice and Public Hearings",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "88",
+          "title": "Planning Commission and Zoning Board Decisions and Appeals",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "89",
+          "title": "Enforcement Procedures, Penalties",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "IX",
+      "title": "DESIGN REVIEW",
+      "sections": [
+        {
+          "number": "90",
+          "title": "Purpose",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "91",
+          "title": "Definitions",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "92",
+          "title": "Organization for Design Review",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "93",
+          "title": "Procedures for Design Review",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "94",
+          "title": "Basis for Decision",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "95",
+          "title": "Design Review Criteria",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "96",
+          "title": "General Criteria",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "97",
+          "title": "Specific Criteria",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "X",
+      "title": "INTERPRETATION OF BYLAWS",
+      "sections": [
+        {
+          "number": "100",
+          "title": "Interpretation of Bylaws",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "101",
+          "title": "Severability",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "XI",
+      "title": "AMENDMENT AND REVIEW",
+      "sections": [
+        {
+          "number": "110",
+          "title": "Amendements",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "111",
+          "title": "Review",
+          "page": 2,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "10",
+          "title": "- PURPOSE",
+          "page": 3,
+          "paragraphs": [
+            "The purpose of the Zoning Bylaws is to protect the Village's historical and cultural sites; to preserve the existing appearance of the Village as a community predominantly composed of older, single-fam- ily dwellings of eighteenth and nineteenth century design; to ensure that any future development complies with Design Review provisions; to preserve the existing low population density and ample open space; to limit commercial activity to the few existing commercial uses; to provide adequate public facilities for present and future growth; to provide for public safety, well-being and conven- ience, and to channel future development towards these purposes."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "20",
+          "title": "- DEFINITIONS",
+          "page": 3,
+          "paragraphs": [
+            "For the purpose of these bylaws, the following terms or words shall have the meaning stated below: ABUTTING NEIGHBORS - Neighbors sharing a common property line, and neighbors within a di- rect line of sight, which may be separated by a road. ACCESSORY STRUCTURES - Any structure which is subordinate to, and the use of which is inci- dental and accessory to, the use of and existing principal structure on the same lot, or an adjoining lot under the same ownership. A detached accessory structure shall be one that is not attached to the principal structure by any covered porch, breezeway, or other roofed structure. ACCESSORY USE - A use customarily incidental and subordinate to a principal use on the same lot. For the purposes of this bylaw, accessory uses shall include, but not be limited to garages, terraces and patios, swimming pools, ponds, tennis courts, storage sheds, gazebos, stables, energy- producing installations, and greenhouses. ALTERATIONS - Any change to a structure because of construction, maintenance or other means, including addition or replacement of exterior doors, windows, porches, decks, siding, architectural details, energy and communications installations, lighting or location of TV or radio sending or re- ceiving devices. BED & BREAKFAST - A small lodging establishment, usually in an owner-occupied residence, that offers overnight accommodations and breakfast. BOARDING HOUSE - A house in which people pay to live as guests with the family who owns it, often for an extended period of time. BUILDING - A roofed structure intended to house persons, animals, or materials including any at- tached porches, decks, etc. which enclose or cover ground area on a lot. BUILDING HEIGHT - The vertical distance from the finished grade at the primary entrance to the structure to the highest point of the roof of the structure. BUILDING LINE - A line parallel to a street at a distance equal to the required front yard, or at a greater distance when otherwise established by the municipality or by private covenant. CONDITIONAL USE - A use of property otherwise prohibited by zoning bylaws but permitted by the Village including, but not limited to, churches, schools, museums, public monuments, and select commercial ventures. COVERAGE AREA - The ground area covered, or enclosed by a building, other roofed entities, any adjacent patios and attached decks, covered or uncovered. DECK - An open platform used as an outdoor seating area generally made of wood. DEVELOPMENT ENVELOPE - A specific area delineated on a lot within which all structures, ac- cessory structures, accessory use structures, and other designated site improvements (e.g., parking area) are to be located, and outside of which no structures, accessory structures, accessory use struc- tures, are to be located. The Commission may, as a condition(s) of plat approval, limit other site de- velopment activities, such as cutting trees, outside of the development envelope. DISTRICT- A district established by the provisions of Section 30 of this bylaw. DWELLING, MULTI-FAMILY - A detached residential structure, consisting of three or more com- plete residential units, each unit of which is configured for occupancy by one family, and each unit of which is occupied solely by:",
+            "one or more needs of family members, such as personal caregivers or property caretakers. Such use shall not include bed and breakfast, boarding house, or rooming house use. DWELLING, ONE-FAMILY - A detached residential structure occupied solely by:",
+            "one or more needs of family members, such as personal caregivers or property caretakers. Such use shall not include bed and breakfast use, boarding house or rooming house use. DWELLING, TWO-FAMILY - A detached residential structure consisting of two complete residential units, each unit of which is configured for occupancy by one family, and each unit of which is occupied solely by: 1.The property owner and his or her family; OR",
+            "one or more needs of family members, such as personal caregivers or property caretakers. Such use shall not include bed and breakfast use, boarding house or rooming house use. DWELLING UNIT - A dwelling or part of a dwelling occupied or intended to be occupied by one family for residential purposes, containing full housekeeping facilities for the exclusive use of the oc- cupants. A house trailer or mobile home shall not be deemed to be a dwelling unit. DWELLING UNIT, ACCESSORY - An efficiency or one bedroom dwelling unit located within, or appurtenant to, an owner-occupied one-family dwelling, that is clearly subordinate to the one-family dwelling, which has facilities and provisions for independent living, including sleeping, food prepara- tion, and sanitation; provided that the property has sufficient wastewater capacity, and that the unit does not exceed 30 percent of the total habitable floor area of the one-family dwelling, but is at least 400 square feet in floor area. ERECTION OF A STRUCTURE - Any construction designed to create a structure or to modify an existing edifice so that it becomes a structure. FAMILY - Any number of individuals related by blood, marriage or adoption, living together as a single housekeeping unit provided that a group of not more than three persons keeping house to- gether, but none related by blood or marriage to each other, may be considered a family. FAMILY CHILD CARE HOME OR FACILITY - A home or facility where the owner or operator is licensed or registered by the State for childcare. HOME OCCUPATION - A business customarily conducted in a minor portion of a dwelling, and not changing the residential character and appearance of the dwelling. INN - A structure providing lodging for persons with or without meals, and intended for the accom- modation of transients, and so designated that normal ingress and egress are controlled from a central point. An inn is not a dwelling unit. INOPERATIVE MOTOR VEHICLE - An automobile, motorcycle, truck, or other such vehicle, or parts of said vehicle, which is mechanically incapable of self-propelled motion or is not currently reg- istered. LAND DEVELOPMENT - The division of a parcel into two or more parcels, the construction, re- construction, conversion, structural alteration, relocation or enlargement of any building or other structure, or of any mining, excavation or landfill, and any change in the use of any building or other structure, or land, or extension of use of land. LOT - A plot or parcel of land occupied or capable of being occupied by one principal structure and any accessory structures or uses customarily incident to it, including such open spaces as are required by the bylaw. In the case of multiple dwellings and public, institutional, commercial or agricultural structures, a group of structures on the same or contiguous premises all under the same ownership, may be considered as occupying the same lot. LOT, CORNER - A lot at the intersection of and abutting on, two or more streets where the angle of intersection is not more than 135 degrees or where the intersection is rounded by a curve having a ra- dius of less than one hundred feet. LOT COVERAGE - The ratio of the aggregate coverage area to the total area of the lot. LOT, INTERIOR - A lot other than a corner or through lot. LOT, THROUGH - A lot, other than a corner lot, which abuts two or more streets which do not inter- sect at the lot. LOT LINE - The established division line between lots or between a lot and a street. (See Section 53 Lot Line (Yard) Setback Requirements). MOBILE HOME - Any vehicle or object on wheels, with or without motor power of its own, and which is so designed and constructed, or added to so as to permit the use and occupancy thereof for human habitation whether resting on wheels, jacks or other foundation. NEW CONSTRUCTION - Is: - The initial erection or placement of any structure on a lot, or - Relocation of a structure to another portion of the same lot, or to another lot, or - Additions to structures - Modifications to any of the above are alterations, as defined in Section 20. NEW OR CHANGED USE - Any proposed use that differs from the present use of a lot. NONCONFORMING STRUCTURE - A structure, the location, size, height or construction of which does not conform to all the applicable provisions of this bylaw, but was legally existing at the effective date hereof, or of any pertinent amendment hereto. NONCONFORMING USE - A use of land, structure, or premises which is not a use permitted by the provisions of this bylaw for the district in which such land, structure or premises are situated, but which was legally existing at the effective date thereof, or any pertinent amendment hereto. OPEN LAND - Since present zoning laws require at least 80,000 square feet for development, open land is defined as a parcel within Village borders of 160,000 square feet or more with one dwelling, or an undeveloped parcel of 80,000 square feet or more. ORNAMENTATION - Objects used to decorate, embellish or adorn the exterior of a residence, gar- den or structure. PERSON - An individual, a corporation, a partnership, a limited liability company, an association and any other incorporated or unincorporated organization or group. PREMISES - A lot as defined in this section. PRINCIPAL STRUCTURE - The structure on the lot containing the major permitted use of the lot. PUBLIC SEWER - A system of sanitary sewers owned and operated by a municipality or other gov- ernmental unit. PUBLIC WATER SUPPLY - A system of water supply owned and operated by a municipality or other governmental unit or by a corporation authorized and regulated by the State of Vermont for purposes of public water supply. RENTAL PROPERTY - An entire one-family dwelling, an accessory dwelling unit located within or appurtenant to an owner occupied one-family dwelling, or one or more complete units in either a two- family or multi-family dwelling, that may be leased subject to the provisions of SECTION 50 of this Bylaw. REPAIR - Work required to restore a structure or area to its condition prior to damage or injury, so as to render the repaired structure or area indistinguishable from its condition and appearance prior to the damage or injury. Consult the Administrative Officer to determine whether a zoning permit is required due to the nature or extent of the work contemplated. (Also see \"Replacement in Kind\") REPLACEMENT IN KIND - Correction of a defect or damage to a structure or area, solely by the addition, replacement or substitution of the same materials, so as to render the structure or area indistinguishable from its condition and appearance prior to occurrence of the defect or damage. Consult the Administrative Officer to determine whether a zoning permit is required due to the nature or extent of the work contemplated. (Also see \"Repair\") ROOMING HOUSE - A place where a person lives, and shares a kitchen and bathroom with others. SIGN - An object, made of any material, including, but not limited to, garden or other statuary, orna- mentation, objects d'art, or bearing symbols, lettering, or logos; freestanding, or located on any sur- face, the purpose of which is to call attention to, advertise or decorate a place, building, structure, product, land use, service or person from without the building. STREET - A town or state highway, a street of an incorporated Village or a street shown on a subdi- vision plan approved by the planning commission. The word \"street\" shall include the entire right-of- way thereof. If a boundary of the right-of-way has not been surveyed and so recorded, and is not marked by fence line or other physical feature, the boundary shall be deemed to be 25 feet from the center of the traveled way. STREET LINE - The line dividing the street and the lot. STRUCTURE - An assembly of materials for occupancy or use, including but not limited to a build- ing, mobile home or trailer, billboard, sign, wall, fence, driveway (paved or unpaved), pond, pool, en- ergy and communications installations, or tennis court. SUBDIVISION - The division of a single parcel of property into two or more parcels, suitable for development in accordance with pertinent regulations or ordinances. SUBSTANTIAL ALTERATION OF A STRUCTURE - Any modification of an existing structure designed to alter its height, change the distance of its outside walls to any lot line, increase the build- ing coverage or change the architectural style of the structure. TAG SALE - The sale of used articles including household effects, clothing, furnishings, and other such items that belong to residents. YARD, REQUIRED FRONT, REAR OR SIDE - So much of the front, rear or side yard as required by the applicable provisions of this bylaw. YARD, SIDE - An open space between a structure and a side lot line, extending the full length of the lot. YARDS, DEPTH OR WIDTH OF - The depth of front and rear yards and the width of side yards shall be measured perpendicular to the perspective lot lines."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "The property owner and his or her family; OR",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "A lessee and his or her family, subject to the provisions of SECTION 50 of this Bylaw.",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Persons employed by the property owner or lessee of one of the residential units, who fulfill",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "The property owner and his or her family; OR",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "A lessee and his or her family, subject to the provisions of SECTION 50 of this Bylaw.",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Persons employed by the property owner or lessee of one of the residential units, who fulfill",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "A lessee and his or her family, subject to the provisions of SECTION 50 of this bylaw.",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Persons employed by the property owner or lessee of one of the residential units, who fulfill",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "30",
+          "title": "- CREATION OF DISTRICT",
+          "page": 8,
+          "paragraphs": [
+            "There shall be only one zoning district in the Village of Old Bennington, which is designated as a ru- ral residential district, with a minimal lot size of 80,000 square feet."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "31",
+          "title": "- ZONING MAP",
+          "page": 8,
+          "paragraphs": [
+            "The boundaries of said district are set forth on the Zoning Map, which map is hereby declared to be part of this bylaw, a copy of which is appended hereto"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "32",
+          "title": "- ZONING OF STREETS",
+          "page": 8,
+          "paragraphs": [
+            "The zoning district shall include the beds of streets lying within the Village boundaries."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "33",
+          "title": "- LAND UNDER WATER",
+          "page": 8,
+          "paragraphs": [
+            "The zoning district shall include any land under streams, wetlands or ponds lying within it."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "40",
+          "title": "- COMPLIANCE WITH BYLAWS",
+          "page": 8,
+          "paragraphs": [
+            "No structure or part hereof shall be constructed, reconstructed, extended, enlarged, moved or altered, except in conformity with this bylaw."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "41",
+          "title": "- CREATION OF SUBSTANDARD LOTS",
+          "page": 8,
+          "paragraphs": [
+            "No lot shall be created or diminished in size nor shall any open space be reduced, except in strict con- formity with Section 53 of these bylaws."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "42",
+          "title": "- PRE-EXISTING SUBSTANDARD LOTS",
+          "page": 8,
+          "paragraphs": [
+            "Any lot which has an area less than the required minimum lot size specified in Section 53 of these bylaws, may be developed for purposes permitted by Article V of these bylaws, as set forth by 24 VSA 4406(1) provided that:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Said lot has remained in separate and distinct ownership from adjoining lots since a time be-",
+              "paragraphs": [
+                "fore the adoption of the original bylaws in 1973; and"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Said lot has a minimum lot size of 5,000 square feet in area; and",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Said lot has a minimum width of forty feet",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "If a pre-existing substandard lot subsequently comes under common ownership with one or",
+              "paragraphs": [
+                "more contiguous lots, the nonconforming lot shall be deemed merged with the contiguous lot. However, the nonconforming lot shall not be deemed merged and may be separately con- veyed if all of the following apply:",
+                "the adoption of the original bylaws in 1973;",
+                "acceptable manner;",
+                "one or more wastewater systems, potable water systems, or both, in case there is a failed system or failed supply as defined in 10 V.S.A. Chapter 64."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The lots are conveyed in their preexisting, nonconforming configuration;",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Each lot was developed with a water supply and wastewater disposal system prior to",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "At the time of transfer, each water supply and wastewater system is functioning in an",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "The deeds of conveyance create appropriate easements on both lots for replacement of",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "43",
+          "title": "- ADDITIONAL PRINCIPAL DWELLING UNITS ON A LOT",
+          "page": 9,
+          "paragraphs": [
+            "If more than one principal dwelling is to be placed on any lot, such additional dwelling(s) shall be placed so that each dwelling, and accessories to each, could be set off as a separate lot, with separate electric, water and septic utilities, and shall conform to the applicable dimensional requirements of these bylaws. No such structures shall be sold into separate ownership unless a valid subdivision per- mit is obtained from the Planning Commission."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "44",
+          "title": "- ACCESSORY DWELLING UNITS",
+          "page": 9,
+          "paragraphs": [
+            "An accessory dwelling unit may be located either within a one-family dwelling, or in a structure ap- purtenant to an owner occupied single-family dwelling. Such accessory dwelling unit shall be an ef- ficiency or one bedroom apartment that is clearly subordinate to a single-family dwelling, and has fa- cilities and provisions for independent living, including sleeping, food preparation, and sanitation."
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Accessory dwelling units within a one-family dwelling: An accessory dwelling unit,",
+              "paragraphs": [
+                "located within a one-family dwelling, is permitted as a use subordinate to the one-family dwelling, provided such accessory dwelling unit meets all applicable setback, coverage, wastewater and parking requirements, does not exceed 30 percent of the total habitable floor area of the one-family dwelling, but is at least 400 square feet in floor area."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Accessory dwelling units in a structure appurtenant to a one-family dwelling: A",
+              "paragraphs": [
+                "dwelling unit appurtenant to, but not located within, a one-family dwelling shall meet all of the requirements of subsections, A and B herein. Conditional Use review, pursuant to Section 86 of this Bylaw, is required if creation of the accessory dwelling unit involves:"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The construction of a new accessory structure,",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "An increase in the height or floor area of any existing structure, or",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "An increase in the dimension of a parking area,",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "45",
+          "title": "- REQUIRED STREET FRONTAGE",
+          "page": 10,
+          "paragraphs": [
+            "Land development will be permitted only on lots which have a front lot line of at least one hundred fifty (150) feet in length, or with approval of the Planning Commission, have access to such a street by a permanent easement or right-of-way not less than twenty feet wide."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "46",
+          "title": "- LIMITATIONS ON MUNICIPAL LAWS",
+          "page": 10,
+          "paragraphs": [
+            "In accordance with Section 4413 of the Vermont Municipal and Regional Planning and Development Act, Title 24 V.S.A. Chapter 117, the following uses may be regulated only with respect to location, size, height, building bulk, yards, courts, setbacks, density of buildings, off-street parking, loading facilities, traffic, noise, lighting, landscaping and screening requirements, and only to the extent that regulations do not have the effect of interfering with the intended use:",
+            "partment of education.",
+            "ceived pursuant to 30 V.S.A. 6606(a).",
+            "30 V.S.A. 248.",
+            "farm structures, as those practices are defined by the Secretary of Agriculture, Food and Markets, or the Commissioner of Forests, parks and Recreation, respectively, under subsections 1021(f) and 1259(f) of Title 10, and Section 4810 of Title 6."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "State or community-owned and operated institutions and facilities",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Public and private schools and other educational institutions certified by the state de-",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Churches and places of worship, convents and parish houses.",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Public and private hospitals.",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Regional solid waste management facilities certified under 10 V.S.A. Chapter 159.",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Hazardous waste management facilities for which a notice to construct has been re-",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "Public utility and generating plants and transmission facilities regulated under",
+              "use_type": null
+            },
+            {
+              "number": "8",
+              "text": "Accepted agricultural and silvicultural practices, including the construction of",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "47",
+          "title": "- REFERRAL TO STATE DEPARTMENTS",
+          "page": 10,
+          "paragraphs": [
+            "No zoning permit for land development of the following types, located within the following desig- nated areas, may be granted by any municipality prior to the expiration of a period of 30 days follow- ing the submission of a report to the State agency designated in each case, describing the proposed use, the location requested, and an evaluation of the effect of such proposed use on the plan of the municipality, and on the regional plan, if any:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Department of Water Resources: any of the following uses or activities affecting ground",
+              "paragraphs": [
+                "or surface water resources:",
+                "for reservoir or recreational purposes.",
+                "25,000 gallons per day, except that this shall not apply to a well drilled by the owner of a farm or residence for his own use, or the use of the farm."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Any area designated as a flood plain or wetland.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The damming of streams, so as to form an impounding area of five acres or more",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The drilling of wells deeper than 50 feet or with a potential yield greater than",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "Fish and Wildlife Department: Game lands and stream bank area owned or leased by the",
+              "paragraphs": [
+                "State"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Vermont Agency of Transportation: Airports",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Forests and Parks Departments:",
+              "paragraphs": [
+                "more than 500 persons per hour.",
+                "feet."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Ski areas with lifts or other equipment other than tows, with a total capacity of",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Camps with accommodations for more than 50 persons.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Marinas with accommodations for 20 or more boats with lengths in excess of 20",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Public beaches or lands within 1000 feet thereof.",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Natural areas, as defined in 10 V.S.A. Section 1309.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "E",
+              "title": "Highway Department: Any use within 500 feet of the intersection of any entrance or exit",
+              "paragraphs": [
+                "ramp providing access to a limited access highway."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "50",
+          "title": "- PERMITTED USES",
+          "page": 11,
+          "paragraphs": [
+            "The following uses are permitted and no other:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "One family dwellings",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Accessory structures to one-family dwellings and accessory dwelling units",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Rental Properties, subject to the following:",
+              "paragraphs": [
+                "historic village. It underscores the need to protect that unique character by working to minimize the impact of excessive traffic and by effectively managing future growth and development.",
+                "associated with increased noise disturbances in the neighborhood, significantly increased vehicular traffic, excessive parking of vehicles on residential lots in the historic district, and other land-use impacts not typically associated with longer term rentals of entire residential units. Therefore, the following are required: a. Documentary evidence of a rental term of three months or longer. b. Any property rental must include one or more entire dwelling units."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The Village Plan highlights our unique character as a small, quiet, peaceful,",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Short-term residential rentals, or rentals of partial dwelling units, may be",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Applications for rentals that do not meet the term requirements of paragraph \"C\": above,",
+              "paragraphs": [
+                "may be made, by letter, to the Old Bennington Planning Commission. Such applications will be considered on their respective merits."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Customary home occupations subject to the following provisions:",
+              "paragraphs": [
+                "ment or cellar, must remain exclusively in residential use; and",
+                "the premises, with not more than one employee or associate who is not a resident therein; and",
+                "ises; and",
+                "ers or clients to be parked on the premises at a time; and",
+                "terior appearance of the dwelling and shall meet the requirements of the design review provisions of this bylaw; and",
+                "gency conditions when commercial accommodation is not available",
+                "public hearing, after public notice."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Seventy (70%) percent of the gross floor area of the dwelling, exclusive of the base-",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "All activities associated with the home occupation must be carried on by residents of",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "No trading in merchandise may be carried on; and",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "No sign or other outward evidence of the occupation may be displayed on the prem-",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "No occupation shall be carried on which causes more than one automobile of custom-",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Adequate off-street parking must be provided; and",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Physical alterations in conjunction with the home occupation shall not change the ex-",
+                  "use_type": null
+                },
+                {
+                  "number": "8",
+                  "text": "No overnight lodging of guests for payment shall be permitted, except under emer-",
+                  "use_type": null
+                },
+                {
+                  "number": "9",
+                  "text": "A site plan must be prepared and approved by the Planning Commission, at or after a",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "F",
+              "title": "A family childcare home or facility serving six or fewer children. A family childcare",
+              "paragraphs": [
+                "home or facility serving no more than six full-time children and four part-time children, as defined in 33 V.S.A. 4902(3)(A) is permitted, but requires site plan approval pursuant to this bylaw."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "A residential care home or group home operated under state licensing or registration,",
+              "paragraphs": [
+                "serving not more than eight persons who have a handicap or disability as defined in 9 V.S.A. Section 4501, except that no such home shall be permitted if located within 1,000 feet of another such existing or permitted home."
+              ],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "Permitted Special Events. Funerals and weddings held at Old First Church which are coordi-",
+              "paragraphs": [
+                "nated with the Police Commissioner are permitted. Other special events which could pose a traffic problem or result in excessive noise require a permit (See Section 50(I))."
+              ],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "Other Special Events. A special event is any activity which may result in traffic congestion or",
+              "paragraphs": [
+                "unsafe traffic conditions on the roads, along the sidewalks, and in public areas or a disturb- ance of the quiet enjoyment by residents in the Village.",
+                "must be approved by the Administrative Officer. Requests for approval must be submitted to the Administrative Officer immediately following State approval of the calendar of seasonal events or a minimum of 3 weeks prior to the first event, whichever is earlier. Requests shall include the dates and a detailed description of each event, including among other things, likely volume of cars and people, the name of the sponsoring entity, and steps the sponsoring entity plans to take to ameliorate any negative impact on the community of atypical traffic/parking and noise. The State approved list may be subject to provisions individually or collectively. The provisions may include, but are not limited to the following: a. Monument personnel must notify the Police Commissioner upon any ap- proval and abide by any requirements imposed by the Commissioner for the purpose of public safety and traffic control on public roads. b. Monument personnel or the sponsor shall post traffic control signs ap- proved by the Road and Police Commissioners on Monument property and take other measures specified in the approval. c. A requirement to return all property, public and private, to the condition it was in prior to the event as soon as possible to preclude an ongoing hazard or public eyesore. Sponsor is responsible for repairing all damage to Vil- lage property resulting from the event. d. Public notice to residents likely to be affected by the event, as determined by the Administrative Officer, at least 2 weeks prior to the event. Such no- tice shall include a schedule and the approximate time of any, planned dis- turbance such as cannon or musket fire, outdoor music, etc. that could re- sult in excessive noise.",
+                "a. The Old First Church secretary shall notify the Administrative Officer upon receipt of all requests to utilize the Old First Church Barn for a special event to determine if a permit is necessary. If a permit is re- quired, requests consistent with (1)(a) above shall be submitted at least one week in advance of the event. b. Provisions (1)(a)-(d) may apply, along with other possible restrictions.",
+                "conducted by the occupant. Prior to the sale, a permit shall be obtained from the Administrative Officer. Such sales are subject to the following provisions: a. Articles offered for sale must be displayed within the dwelling, an accessory building, or a tent erected for the period of the sale. b. Sales shall not exceed three days in duration. c. One on-premise sign is permitted. Such sign will not exceed six square feet in area including both sides, and is to be removed immediately upon the conclusion of the sale. No off-premise signs shall be displayed. d. A deputy sheriff or parking attendant shall supervise parking. For an auction, a deputy sheriff is mandatory. e. Merchandise to be sold in such sales must meet one of the following i. Is owned by a resident who is moving out of the dwelling within sixty days thereafter, or ii. Was owned previously by a resident who is recently deceased, or iii. Is owned by a resident who has not conducted such a sale with in the last three years. Notwithstanding the above, any nonprofit eleemosynary organization may hold a tag sale for not more than three consecutive days at the Old First Church barn located on Monument Circle. Prior to the sale, permission must be obtained from the Old First Church, as well as a permit from the Administrative Officer. The provisions of Section I(3)(d) above apply to these sales.",
+                "noticeable on-street parking, the erection of a sizable tent or temporary shelters similar in purpose to a tent, or excessive noise, may require a permit. The Village Administrative Officer will determine if a permit is necessary. If so, conditions may apply."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Special Events approved by the State and scheduled to be held on State property",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Special Events held at the Old First Church Barn.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Tag sales or auctions are permitted in any dwelling or accessory structure when",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "All other special events not expressly exempt in these bylaws that may result in",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "51",
+          "title": "- CONDITIONAL USES",
+          "page": 14,
+          "paragraphs": [
+            "The following may be permitted as conditional uses in conformity with the provisions of Section 86 of this bylaw:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Two-family dwellings and multifamily dwellings provided the following conditions are met:",
+              "paragraphs": [
+                "and shall comply with the design review provisions of this bylaw; and",
+                "2200 square feet for a multifamily dwelling, exclusive of additions made within two years of the application; and",
+                "area of at least 1000 square feet. Each additional dwelling unit shall have a floor area of at least 400 square feet.",
+                "sanitary code, if any; and",
+                "site\" manager."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The dwelling shall be at least twenty-five years old; and",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The conversion shall be made without major changes to the exterior of the dwelling,",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The dwelling shall contain at least 1600 square feet for a two-family dwelling and",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "One dwelling unit in each such two-family or multifamily dwelling shall have a floor",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Each dwelling unit shall be connected to the sanitary sewer system or conform to the",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Adequate off-street parking shall be provided for all dwelling units; and",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "No signs shall be erected advertising the dwelling in any way; and",
+                  "use_type": null
+                },
+                {
+                  "number": "8",
+                  "text": "At least one of the dwelling units shall be occupied by the owner, or the owner's \"on-",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "Cultural, religious or eleemosynary institutions operated by a government unit, non-profit cor-",
+              "paragraphs": [
+                "poration, foundation, or community association under the following conditions:",
+                "and",
+                "beautify the structures, as required by the Planning Commission; and"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "All structures shall conform to the dimensional requirements set forth in Section 53;",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Maximum building height shall be 40 feet; and",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Off-street parking shall be provided as required by Section 55; and",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Landscaping and fencing shall be furnished to screen the parking areas, and",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "The total square-foot area of signs shall not exceed 25 square feet.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Exterior lighting of public monuments shall be permitted, provided that the Zoning Board of",
+              "paragraphs": [
+                "Adjustment finds that the following conditions are met:",
+                "thetic goals and limited light intensity set forth below.",
+                "pear excessive when considered in the context of its surrounds, and in no event shall the illumination exceed .01 foot-candle from a distance of 100 feet from the public monument and six feet above the ground.",
+                "be physically and aesthetically unobtrusive.",
+                "and excludes statues, fountains, and places of commerce."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The lighting utilizes only white light.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The lighting lights as much of the monument as is feasible while adhering to the aes-",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The lighting is limited in intensity so as to minimize glare and light pollution, not ap-",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Utilize below ground equipment and fixed light sources to minimize safety risks and",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "For purposes of this section, \"public monuments\" means structures that can be entered",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "52",
+          "title": "- ACCESSORY USES",
+          "page": 15,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Accessory uses, including swimming pools, ponds, telecommunications, energy-producing",
+              "paragraphs": [
+                "installations, tennis courts, and other structures, incidental to a permitted use and structure, may be permitted, provided all dimensional and design review requirements are satisfied. Property line setbacks for private and shared driveways, as well as the distance between a pri- vate or shared driveway, and the residence, are design review matters, for Planning Commis- sion determination."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Uses and structures, including swimming pools, ponds, telecommunications, energy-produc-",
+              "paragraphs": [
+                "ing installations, tennis courts, and other structures, which are accessory to any conditional use in the Village, are permitted only when applied for and granted as part of the conditional use. Similarly, in such matters, property line setbacks for private and shared driveways, as well as the distance between a private or shared driveway, and the residence, are design re- view matters, for Planning Commission determination."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "53",
+          "title": "- DIMENSIONAL AND LOT LINE (YARD) SETBACK REQUIREMENTS",
+          "page": 15,
+          "paragraphs": [
+            "Minimum Lot Size in square feet: 80,000 Lot Width 150' Front Yard Setback 25' Side Yard Setback 25' Rear Yard Setback 25' Lot Coverage 5% Maximum Building Height 30' (cf. Section 20 for Definition of Building Height) The size of any addition to an existing dwelling must be in reasonable proportion to the size of that dwelling, but shall not exceed 30% of the square footage of the original (not necessarily the existing) dwelling. The height limitation set forth in Section 51 (B)(1) for certain conditional uses, and herein for other uses, shall not apply to spires, cupolas, chimneys or similar parts of a structure not used for human occupancy, but shall be in reasonable proportion to the structure on which they are located, as deter- mined in the design review process. Flagpoles, radio or television aerials, satellite dishes, energy producing installations (wind or solar) shall not exceed the height limitation. In addition, all installations shall not compromise the aesthetic beauty of the Village or neighboring owners' views. Please consult the Administrative Officer for guidance and permit needs for any installation."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "54",
+          "title": "- SIGNS, ORNAMENTATION, ILLUMINATION, AND LANDSCAPING",
+          "page": 16,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "SIGNS: Permitted signs shall include only signs showing the house number and name of",
+              "paragraphs": [
+                "the occupant or building; signs telling the original owner and date of construction. Other signs are subject to design review and the following:",
+                "or tag sales and auctions (see Section 50(I)), or signs advertising customary home oc- cupations (see Section 50(C)).",
+                "are limited to 25 square feet in size (see Section 51(B)).",
+                "color, design or location, without approval of the Zoning Board of Adjustment pursu- ant to Section 60 of these bylaws.",
+                "right-of-way or on public property, may be permitted subject to regulations of the Vil- lage Trustees adopted October 7, 1986. Such signs require a permit from the Zoning Administrator.",
+                "a. Signs shall be limited to six (6) square feet in size which includes both sides. b. Signs shall not be illuminated. Reflective materials or paint shall not be used to increase reflection or visibility. c. Free standing signs and their associate support structures shall be installed at least three (3) feet from the inner edge of sidewalks; where sidewalks do not exist, the setback shall be at least ten (10) feet from the traveled way or edge of pavement of the street or highway. Supports and frames should be minimal and unobtrusive."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Signs advertising apartments for rent (see Section 51(A)), or vehicles for sale or rent,",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Signs of conditional uses, operated by cultural, religious and eleemosynary institution,",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Non-conforming signs shall not be expanded in size or number or changed in shape,",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Certain off-premises signs, temporary or permanent, normally placed in the highway",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "General regulations applicable to all signs unless otherwise stated herein:",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "ORNAMENTATION: Installation of garden or other premises ornamentation (statuary,",
+              "paragraphs": [
+                "fountains, etc.), without a zoning permit, is authorized only if the feature is not visible from adjacent properties, rights-of-way, or roads. Installation of garden or other premises ornamentation, if visible from adjacent properties, rights-of-way or roads, shall be subject to design review by the Planning Commission, and permitted only if it is determined that such proposed installation is consistent with the charac- ter of the Village in design, size and scale."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "ILLUMINATION: Except as specifically authorized herein, exterior lighting shall",
+              "paragraphs": [
+                "not be used to illuminate structures or parts of structures (as defined in 24 V.S.A. Section 4303), nor signs, lawns, lawn ornaments, shrubbery, driveways, or walkways for the purpose of (1) drawing attention, or (2) to deter theft.",
+                "Commission, and shall not exceed seven feet in height, unless the Commission determines that a taller installation is appropriate as being in proportion to, and consistent with, the scale of the residence.",
+                "lights marking the edges of driveways or walks, municipal streetlights, seasonal holiday decorations or pre-existing nonconforming lighting.",
+                "shall be removed no more than two weeks after the holiday.",
+                "ited if visible from the street or by adjacent neighbors.",
+                "legally permitted non-conforming use, shall not be changed, moved, increased in intensity or hours of use, or number of lights, changed in color of light, or changed in design or location, without the approval of the Zoning Board of Adjustment pursuant to"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Lamp posts installed on private property are subject to design review by the Planning",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "This provision shall not prevent the use of porch lights, entrance lights, small and dim",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Illuminated seasonal decorations may be installed for a total period of six weeks, and",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Exterior, motion activated lighting in excess of 25 watts or equivalent lumens is prohib-",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Exterior lighting of structures or parts thereof, where such lighting constitutes a -",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "60",
+          "title": "of these bylaws",
+          "page": 17,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "D",
+              "title": "LANDSCAPING: Residents shall maintain their property consistent with the general",
+              "paragraphs": [
+                "aesthetic of the Village, keep such property free from vegetation overgrowth and debris, and shall ensure existing or new plantings do not impinge on sidewalks or public walk ways. Residents also have the responsibility to maintain any portion of their property for which the Village has a right-of-way in a fashion consistent with other Village right-of- ways, public areas, and existing bylaws and ordinances."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "PROPERTY MAINTENANCE: Residents shall maintain their property to ensure that",
+              "paragraphs": [
+                "safety to any person on public right-of-ways is not compromised. For those homeowners who do not reside full-time on that property, contact information should be provided to the Village Administrative Officer."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "55",
+          "title": "- OFF-STREET PARKING REQUIREMENTS",
+          "page": 18,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The provisions of this section shall apply prospectively only to new structures or to applica-",
+              "paragraphs": [
+                "tions made pursuant to Sections 60(C) or 61 of this bylaw."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Parking facilities off the street or highway right-of-way shall be provided on the same lot as",
+              "paragraphs": [
+                "the structures or use they serve and shall provide for not less than the minimum number of parking spaces set forth below, exclusive of driveways and ramps necessary for access:",
+                "and one space for each person normally employed at one time;",
+                "each three legal occupants plus one space for each person normally employed at one time;"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "For dwellings, two parking spaces per dwelling unit.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "For restaurants, theaters, assembly halls or churches, one space for each three seats",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "For places of public assembly or public recreation not otherwise listed, one space for",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "For inns, one space for each sleeping room.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Required minimum parking facilities shall have adequate all-weather surfacing, capable of",
+              "paragraphs": [
+                "free and safe movement of all vehicles customarily using the facility."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Parking space dimensional requirements:",
+              "paragraphs": [
+                "LOT CONFIGURATION 1 ROW 2 ROWS 3 ROWS 4 ROWS Curb PARKING PARKING PARKING PARKING Angle Length Min: + 1 DRIVE + 1 DRIVE +2 DRIVES +2 DRIVES Of Stall Per Stall Drive Sq.Ft. Sq.Ft. Sq.Ft. Sq.Ft. Parking Width Veh. Depth Width Width /Veh. Width /Veh. Width /Veh. Width /Veh. 9' 23' 0\" 9' 0\" 12' 21' 0\" 483 30' 0\" 345 51' 0\" 391 60' 0\" 345 0° 10' 23' 0\" 10' 0\" 12' 22' 0\" 506 32' 0\" 368 54' 0\" 414 64' 0\" 368 9' 18' 0\" 17' 4\" 11' 28' 4\" 510 45' 8\" 411 66' 2\" 397 83' 6\" 376 30° 10' 20' 0\" 18' 3\" 11' 29' 3\" 585 47' 6\" 475 68' 0\" 453 86' 2\" 431 9' 12' 9\" 19' 10\" 13' 32' 10\" 420 52' 8\" 336 79' 0\" 376 98' 10\" 315 45° 10' 14' 2\" 20' 6\" 13' 33' 6\" 490 54' 0\" 383 80' 4\" 379 100' 10\" 358 9' 10' 5\" 21' 0\" 18' 39' 0\" 407 60' 0\" 313 95' 0\" 330 116' 0\" 305 60° 10' 11' 6\" 21' 6\" 18' 39' 6\" 455 61' 0\" 351 95' 6\" 366 116' 6\" 335 9' 9' 0\" 19' 0\" 24' 43' 0\" 387 62' 0\" 279 105' 0\" 315 124' 0\" 279 90° 10' 10' 0\" 19' 0\" 24' 43' 0\" 430 62' 0\" 310 105'0\" 350 125' 0\" 310"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "60",
+          "title": "- NONCONFORMING USES",
+          "page": 19,
+          "paragraphs": [
+            "Any nonconforming use of a structure or premises which was lawfully existing at the time of the original adoption of this bylaw in 1973, or any pertinent amendment thereto, may be continued, and any structure so existing which was designed, arranged, intended for, or devoted to a non-conforming use, may be reconstructed and structurally altered, and the nonconforming use thereof changed, sub- ject to the following regulations:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "A nonconforming use may not be changed, except to a conforming use, or with the approval",
+              "paragraphs": [
+                "of the Board of Adjustment, to another nonconforming use not more objectionable in charac- ter."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "A nonconforming use shall not, if once changed into a conforming use, be changed back into",
+              "paragraphs": [
+                "a nonconforming use."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "A nonconforming use shall not be extended or expanded, except with the approval of the Zon-",
+              "paragraphs": [
+                "ing Board of Adjustment, which must find that:",
+                "property is located, nor substantially or permanently impair the appropriate use or de- velopment of adjacent property, nor be detrimental to the public health, traffic safety or welfare; and",
+                "relief and will represent the least modification possible of these bylaws and the plan; and",
+                "the established non-conforming use."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The proposal will not alter the essential character of the neighborhood in which the",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The proposal will represent the minimum expansion or extension necessary to afford",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Strict enforcement of these bylaws would result in undue hardship upon the owner of",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "A nonconforming use, which has been discontinued for a period of six months, shall not be",
+              "paragraphs": [
+                "resumed thereafter."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "61",
+          "title": "- ENLARGEMENT OF NONCONFORMING STRUCTURES",
+          "page": 20,
+          "paragraphs": [
+            "No structure which does not conform to the requirements of this bylaw regarding building height, limit, area and width of lot, percentage of coverage and required yards and parking facilities shall be enlarged or substantially altered, unless such enlarged or altered portion conforms to the regulations, including use regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "62",
+          "title": "- RECONSTRUCTION AFTER DAMAGE",
+          "page": 20,
+          "paragraphs": [
+            "Nothing in this bylaw shall prevent the restoration or reconstruction, within one year, of a structure that has been damaged or destroyed by fire, explosion, accident, or by public enemy, subsequent to the adoption of this bylaw, to its condition prior to such damage or destruction, nor prevent the resto- ration of an unsafe wall or structural member. The Planning Commission, for good cause shown, may extend the restoration or reconstruction period."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "70",
+          "title": "- PARKING",
+          "page": 20,
+          "paragraphs": [
+            "Overnight parking is restricted to driveways. Parking that blocks a sidewalk or public walkway is prohibited. Parking on landscaped areas is prohibited unless on a temporary basis. Any such park- ing for a period in excess of seven (7) days requires the express approval of the Administrative Of- ficer."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "71",
+          "title": "- STORAGE OF GARBAGE AND WASTE MATERIALS",
+          "page": 20,
+          "paragraphs": [
+            "No garbage, trash or routine waste material shall be stored in open view of the street on any lot; nor placed off the lot by the street. While awaiting haulage, such materials shall be stored in the interior of the lot, in a structure or otherwise obscured from clear view by adjacent neighbors. Material scheduled for regular trash collection shall be placed curb-side no more than twelve hours prior to collection, and removed promptly thereafter."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "72",
+          "title": "- STORAGE OF ROLL-OFF DUMPSTERS/CONTAINERS/HEAVY EQUIP-",
+          "page": 20,
+          "paragraphs": [
+            "MENT No roll-on or roll-off dumpsters or heavy equipment may be stored on any lot for a period in excess of seven (7) days without the express approval of the Zoning Administrator."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "73",
+          "title": "- STORAGE OF INOPERATIVE MOTOR VEHICLES, TRAILERS, MOBILE",
+          "page": 20,
+          "paragraphs": [
+            "HOMES OR BOATS No inoperative or unregistered motor vehicle, or any registered or unregistered trailer, mobile home or boat, may be stored on any lot for a period in excess of seven (7) days, unless within a structure."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "74",
+          "title": "- STORAGE OF COMMERCIAL VEHICLE",
+          "page": 21,
+          "paragraphs": [
+            "A commercially registered vehicle, if parked or stored overnight, should be as far to the rear of the property as is feasible and out of sight from the street and other dwellings. Commercially registered vehicles, in excess of two tons unladen weight may not be parked or stored overnight in the Village."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "80",
+          "title": "- ADMINISTRATIVE OFFICER",
+          "page": 21,
+          "paragraphs": [
+            "The provisions of this bylaw shall be administered and enforced by the Administrative Officer nomi- nated by the Planning Commission and appointed by the Board of Trustees for a term of three years, as provided by law. Such officer shall literally enforce the provisions of these regulations, inspect land development, maintain records of any actions taken and perform all other necessary and required tasks to carry out the provisions of these regulations and the duties of the office."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "81",
+          "title": "- PLANNING COMMISSION AND ZONING BOARD OF ADJUSTMENT",
+          "page": 21,
+          "paragraphs": [
+            "There shall be a Planning Commission and a Zoning Board of Adjustment created as provided in 24 V.S.A. 4460 with the powers and duties provided therein, and as hereinafter set forth."
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "PLANNING COMMISSION: The Old Bennington Village Planning Commission is",
+              "paragraphs": [
+                "the appropriate municipal panel to perform the following review functions:",
+                "from specific design criteria set forth in Article IX of these bylaws.",
+                "in Section 82 of these bylaws. In addition to its review functions, the Planning Commission is also responsible for the periodic re- view and updating of the Village Municipal Plan, and for formulating updated and proposed Village Ordinances, Zoning Bylaws and Subdivision Regulations, for submission to the Board of Trustees for their review, approval, and possible enactment."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Review of proposals for all land development within the Village, including requests to deviate",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Review of Planned Unit Developments as authorized by 24 V.S.A. 4417.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Site plan review as authorized in 24 V.S.A. 4416.",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Review of proposed subdivisions as authorized in 24 V.S.A. 4418.",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Review of wireless telecommunications facilities, pursuant to 24 V.S.A. 4413(13).",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Design Review pursuant to Article IX of these Zoning Bylaws.",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Review of Energy Installations.",
+                  "use_type": null
+                },
+                {
+                  "number": "8",
+                  "text": "All other reviews required by these bylaws, including, but not limited to, those items set forth",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "ZONING BOARD OF ADJUSTMENT: The Old Bennington Village Zoning Board",
+              "paragraphs": [
+                "of Adjustment is the appropriate municipal panel empowered to perform the following functions:",
+                "Appeals from the Administrative Officer's issuance of a Notice of Violation pursuant to 24 V.S.A. 4465."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Review of proposed conditional uses as authorized in 24 V.S.A. 4413(3)",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Review of requests for variances pursuant to 24 V.S.A. 4469.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Review of requests for waivers pursuant to 24 V.S.A. 4418(8).",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "82",
+          "title": "- ZONING PERMITS",
+          "page": 22,
+          "paragraphs": [
+            "A zoning permit must be obtained from the Administrative Officer, subject to Planning Commission approval, before any of the following may occur:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Land development, as defined in 24 V.S.A 4303(10) and Section 20 of these bylaws",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Any land or building that is devoted to a new or changed use, including the addition of",
+              "paragraphs": [
+                "an apartment to a single-family residence, or an accessory building."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "New construction, as defined in Section 20",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Alterations to structures, as defined in Section 20, except those alterations qualifying",
+              "paragraphs": [
+                "as \"Repair(s)\" or \"Replacements in Kind,\" as defined in Section 20."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Any change in exterior color",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Removal of trees over 6\" diameter breast height (DBH) located forward of the building",
+              "paragraphs": [
+                "line of the principal building within any yard fronting a street, and which are also within 150' of the street right-of-way. Removal of dead trees does not require a permit."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "On a vacant lot, removal of more than 20% of trees over 6\" diameter breast height",
+              "paragraphs": [
+                "(DBH) unless the removal is being done under a forest management plan prepared by a licensed forester. On an occupied lot, removal of more than 20% of trees forward of the building line of the principal building in any yard fronting a street. Removal of trees or plantings in the back or sides of the property should be considered in conjunction with an assessment of the contributions they offer to the overall character of the neighborhood, as well as, to the privacy and/or other concerns of the adjoining neighbors."
+              ],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "Razing of a building",
+              "paragraphs": [
+                "Application for such a permit shall be made on a prescribed form, accompanied by a fee in an amount established by the Board of Trustees. Before issuing any such permit, the Administrative Officer shall certify that the proposed structure and use literally complies with all of the provisions of this bylaw. The Administrative Officer shall maintain a full and accurate record of all applications, permits and violations acted upon by the Officer, copies of which shall be filed with the Board of Listers of the Town of Bennington and the town clerk, as provided for in 24 V.S.A. Section 4449. A copy of all permits also must be posted in at least one public place in the municipality until the expiration of 15 days from issuance of the permit. Unless otherwise extended by the authority issuing such permit, all projects authorized by any permit, including any design review permit must be fully completed within one year after the issuance of the permit. For any property for which a permit has been issued, a notice of permit shall be posted within view from the public right-of-way most nearly adjacent to the subject property until the time for appeal (24 V.S.A. Section 4465) has passed. No permit shall take effect until the time for appeal (24 V.S.A. Section 4465) has passed, or in the event that an appeal is properly filed, no such permit shall take effect until adjudication of the appeal by the Board of Adjustment is complete and the time for taking an appeal to the environmental court has passed without an appeal being taken. If an appeal is taken to the environmental court, the permit shall not take effect until the environmental court rules in accordance with 10 V.S.A. Section 8504 on whether to issue a stay, or until the expiration of 15 days, whichever comes first."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "83",
+          "title": "- MINOR PERMITS",
+          "page": 23,
+          "paragraphs": [
+            "Please contact the Administrative Officer regarding any questions about the nature and scope of a proposed project in the Village. When, in the opinion of the Administrative Officer, an application would be of such minor nature as not to have any adverse impact on the existing character of the Vil- lage of Old Bennington, or the property upon which the proposed project is located, or any abutting property, the Administrative Officer may issue a permit for the project. The decision of the Adminis- trative Officer whether or not to issue such a permit shall be in the discretion of the Administrative Officer, after consultation with the Planning Commission Chair, and no party may appeal the deci- sion not to issue such a permit. The sole remedy of an aggrieved party shall be to have review of the application by the Planning Commission. Copies of minor permits shall be posted and mailed to the applicant and the chairperson of the Plan- ning Commission. Fifteen days after the mailing and posting of the minor permit, if no interested person, not any member of the Planning Commission shall request, in writing to the Administrative Officer, a review of the application by the Planning Commission, the permit shall be considered final, without approval of the building plans by the Planning Commission."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "84",
+          "title": "- CERTIFICATES OF USE",
+          "page": 23,
+          "paragraphs": [
+            "It shall be unlawful to use or occupy, or permit use or occupancy of any land or structure, or part thereof created, erected, changed, converted, or wholly or partly altered or enlarged in its use or structure, including any and all infrastructure installed pursuant to a subdivision permit, after the ef- fective date of these bylaws, within the Village of Old Bennington, until a Certificate of Use is issued by the Administrative Officer, stating that the proposed use of the structure or land conforms to the requirements of the zoning regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "85",
+          "title": "- SITE DEVELOPMENT PLAN",
+          "page": 23,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "A site development plan shall be required for new construction, major additions or alterations,",
+              "paragraphs": [
+                "driveway and accessory building changes or relocations, and for any use specified in Sections 50E, 50F, 50G, 51, 52A, or 60C."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Such site development plan shall be at a scale prescribed by the Planning Commission and",
+              "paragraphs": [
+                "shall show where applicable:"
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Such site development plan shall be at a scale prescribed by the Planning Commission and",
+              "paragraphs": [
+                "shall show where applicable:",
+                "200 feet from the boundaries of the lot",
+                "removed",
+                "roof type and other details common in architectural design.",
+                "submitted maps.",
+                "Note: Drawings must be complete, needing no verbal explanations from the applicant to comprehend them."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Scale of drawing",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "North arrow",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The boundaries and area of the affected lot and required setbacks; and",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Easements, Rights of Way or other restrictions",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Existing and proposed structures on the lot and adjacent lots within a distance of",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Proposed energy installations",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Proposed vehicular circulation, driveways, and parking",
+                  "use_type": null
+                },
+                {
+                  "number": "8",
+                  "text": "Proposed pedestrian circulation, and walks",
+                  "use_type": null
+                },
+                {
+                  "number": "9",
+                  "text": "Open space",
+                  "use_type": null
+                },
+                {
+                  "number": "10",
+                  "text": "Park and playground facilities",
+                  "use_type": null
+                },
+                {
+                  "number": "11",
+                  "text": "Landscape details (existing and proposed), including designation of trees to be",
+                  "use_type": null
+                },
+                {
+                  "number": "12",
+                  "text": "Proposed grading",
+                  "use_type": null
+                },
+                {
+                  "number": "13",
+                  "text": "Water supply and fire protection",
+                  "use_type": null
+                },
+                {
+                  "number": "14",
+                  "text": "Sanitary sewage",
+                  "use_type": null
+                },
+                {
+                  "number": "15",
+                  "text": "Storm drainage and natural drainage ways and watercourses",
+                  "use_type": null
+                },
+                {
+                  "number": "16",
+                  "text": "Existing contours and land conditions",
+                  "use_type": null
+                },
+                {
+                  "number": "17",
+                  "text": "Building elevations of all sides included in the work, door and window types, shutters,",
+                  "use_type": null
+                },
+                {
+                  "number": "18",
+                  "text": "Description of exterior building materials and colors.",
+                  "use_type": null
+                },
+                {
+                  "number": "19",
+                  "text": "Existing and proposed exterior lighting",
+                  "use_type": null
+                },
+                {
+                  "number": "20",
+                  "text": "Description of any wetlands and their boundaries as supported by notations and/or",
+                  "use_type": null
+                },
+                {
+                  "number": "21",
+                  "text": "Development envelope",
+                  "use_type": null
+                },
+                {
+                  "number": "22",
+                  "text": "Any other factor which may impact the proposed use.",
+                  "use_type": null
+                },
+                {
+                  "number": "23",
+                  "text": "Other information as required by the Commission.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "The site development plan shall be submitted to the Planning Commission in triplicate. The",
+              "paragraphs": [
+                "Planning Commission must approve the site development plan at or after a public hearing, and before any permit may be issued, and may impose such reasonable conditions as may be nec- essary to achieve the objectives of this section."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Applicants shall consult with the Administrative Officer if they have any questions",
+              "paragraphs": [
+                "concerning the specific information, or degree of detail required to be included, in the site development plan."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "86",
+          "title": "- CONDITIONAL USE APPROVAL, VARIANCES AND WAIVERS",
+          "page": 24,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "CONDITIONAL USES: A conditional use may be approved by the Board of Adjustment",
+              "paragraphs": [
+                "only after a public hearing provided that the Board shall have found the use will not adversely affect:",
+                "bylaws and the Village Plan",
+                "bylaws of the Village applicable thereto, and each use so approved shall meet any standards applicable to the specific use as to lot and building dimensional requirements, landscaping, design and location of signs. Approval of the Board shall be based on a site development plan prepared in conformance with Section 83, and failure of the development to conform to such site development plan shall constitute a violation of this bylaw, punishable pursuant to Section 86. Fifteen days before the public hearing, the Board shall refer the application for a conditional use, to- gether with a copy of the proposed site development plan to the Planning Commission, and the report of the Planning Commission on such application and site development plan shall be made a part of the record of the hearing. The Zoning Board of Adjustment may impose reasonable conditions as may be necessary to achieve the objectives of this section or to mitigate any impact generated by the granting of a permit."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The capacity of existing or planned community facilities",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The character of the area affected, as defined by the policies and objectives of these",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Traffic on roads and highways in the vicinity.",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "The proposed use in accord with other provisions of ordinances, regulations and",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "VARIANCES: The Board of Adjustment shall consider appeals for variances from the",
+              "paragraphs": [
+                "provisions of this bylaw and shall render a decision in favor of the appellant if all of the following facts are found (24 V.S.A. Section 4469):",
+                "narrowness, or shallowness of lot size or shape, or exceptional topographical or conditions peculiar to the particular property, and that unnecessary hardship is due to these conditions, and not the circumstances or conditions generally created by the provisions of the bylaw in the neighborhood or district in which the property is located.",
+                "the property can be developed in strict conformity with the provisions of the by- law, and that the authorization of a variance is therefore necessary to enable the reasonable use of the property.",
+                "hood or district in which the property is located, substantially or permanently impair the appropriate use or development of adjacent property, reduce access to renewable energy resources, or be detrimental to the public welfare.",
+                "relief and will represent the least deviation possible from the bylaw and from the plan."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "There are unique physical circumstances or conditions, including irregularity,",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Because of these physical circumstances or conditions, there is no possibility that",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The unnecessary hardship has not been created by the appellant.",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "The variance, if authorized, will not alter the essential character of the neighbor",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "The variance, if authorized, will represent the minimum variance that will afford",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "WAIVERS: Requests for waivers are considered by the Zoning Board of Adjustment",
+              "paragraphs": [
+                "Any request for a waiver will be warned and a public hearing held pursuant to Section 87 of this bylaw. The purpose of waivers is to allow for minor additions to a principal or accessory structure that would not be counter to the purpose of these bylaws or the Village Plan, but which might not meet the standards for the granting of a variance. A waiver may be granted only to reduce dimensional requirements as provided below, and compliance with all other requirements of this bylaw is required. The Board of Adjustment may grant a waiver provided all of the following conditions are satisfied:",
+                "and said addition shall not increase the building footprint by more than 100 square feet.",
+                "The Board of Adjustment may impose conditions regarding the design and screening of the addition to mitigate any impacts on neighboring properties."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The proposal is for a one-story addition to an existing principal or accessory structure,",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The addition is the minimum size that is necessary for it to serve its intended function.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The addition is specifically intended to improve access for disabled persons.",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "No setback (front, side, or rear) shall be reduced to less than 15 feet.",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "87",
+          "title": "- PUBLIC NOTICE AND PUBLIC HEARINGS",
+          "page": 26,
+          "paragraphs": [
+            "Any public notice that is required for a public hearing under this bylaw shall be given as required by 24 V.S.A. Section 4464. In all cases coming before the Planning Commission or Zoning Board of Adjustment for hearing, the applicant for a permit shall furnish the Administrative Officer with names and addresses of all owners of property adjoining the subject lot, and shall send notice of the hearing, verified by a certificate of mailing, to the adjoining property owners."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "88",
+          "title": "- PLANNING COMMISSION AND ZONING BOARD DECISIONS AND AP-",
+          "page": 26,
+          "paragraphs": [
+            "PEALS"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "DECISIONS: The Planning Commission and Board of Adjustment shall issue a written",
+              "paragraphs": [
+                "decision on any application under review, within 45 days of the adjournment of the public hearing, as required by 24 V.S.A. 4464(b)(1). The Zoning Administrator's Report, when issued on unopposed applications, or pursuant to Section 82 of these bylaws, shall constitute the Planning Commission's written decision thereon."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "APPEALS: An interested person may appeal a decision of the Administrative Officer by",
+              "paragraphs": [
+                "filing a Notice of Appeal with the Zoning Board of Adjustment and the Administrative Officer as provided in 24 V.S.A. 4465 - 4470. An interested person may appeal a decision of the Planning Commission or Zoning Board of Adjustment to the Environmental Court, as provided for in 24 V.S.A. 4471 and 4472."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "89",
+          "title": "- ENFORCEMENT PROCEDURE, PENALTIES",
+          "page": 26,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Section 4451 of the Vermont Municipal and Regional Planning and Development Act",
+              "paragraphs": [
+                "(24 V.S.A. Chapter 117) provides that any person who violates any bylaw after it has been adopted under this chapter, or who violates a comparable ordinance or regulation adopted under prior enabling laws, shall be fined not more than $100 for each offense. No action may be brought under this section unless the alleged offender has had at least seven (7) days warning notice by certified mail. Action may be brought without the seven-day notice and opportunity to cure, if the alleged offender repeats the violation after the seven-day warning period and within the next succeeding twelve months. The seven-day warning notice shall state:",
+                "ter the seven days. Each day the violation continues shall constitute a separate offense. (24 V.S.A.4451)."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "A violation exists; and",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The alleged offender has the opportunity to cure the violation within seven days; and",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The alleged offender will not be entitled to an additional warning notice occurring af-",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "In default of payment of the fine, the owner, members of an owner partnership, the",
+              "paragraphs": [
+                "principal officers of an owner corporation or any other owner entity, shall each pay double the amount of such fine. In addition to any fines that may be imposed in connection with a bylaw violation, the owner or owners of the property may be required to restore the property to its prior condition, or otherwise cure the violation. An enforcement proceeding must be instituted within 15 years from the date the alleged violation first occurred and not thereafter, and any such proceeding shall be subject to such other limitations as are contained in 24 V.S.A. Section 4454."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "The provisions of this bylaw will be enforced by the Administrative Officer in",
+              "paragraphs": [
+                "accordance with 24 VSA 4452 as follows: \" If any street, building, structure or land is, or is proposed to be, erected, constructed, re-constructed, altered, maintained, or used in violation of any bylaw, the administrative officer shall institute in the name of the municipality an appropriate action, injunction or other proceeding to prevent, restrain, correct or abate such construction or use or to prevent, in or about such premises, any act, conduct, business or use constituting a violation. A court action under this section may be initiated in environmental court, or as appropriate, before the judicial bureau, as provided under 24 V.S.A. Section 1974a of this title.\""
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "90",
+          "title": "- PURPOSE",
+          "page": 27,
+          "paragraphs": [
+            "The purpose of design review in Old Bennington is to provide organization, procedures and design criteria, within the context of enabling legislation, to ensure that future development will be compati- ble with and appropriate to the existing character of the Village. This Article is concerned with the visual appearance of structures, their relation to each other and to the area."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "91",
+          "title": "- DEFINITIONS",
+          "page": 27,
+          "paragraphs": [
+            "For the purposes of this Article IX only, the following terms are defined as follows:"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "\"Buildings\" have been defined to include structures with roofs, intended to house persons,",
+              "paragraphs": [
+                "animals or materials, plus other structures over eight feet tall which extends Design Review to storage sheds, barns, stables, gazebos, greenhouses, solar porches, and satellite dish antennas eight feet or more in height."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "\"Structure\" is defined to include buildings, decks, mobile homes, trailers, signs, telecommu-",
+              "paragraphs": [
+                "nication and energy installations, walls, driveways and fences, except walls and fences on an operating farm."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "92",
+          "title": "- ORGANIZATION FOR DESIGN REVIEW",
+          "page": 28,
+          "paragraphs": [
+            "Any person seeking design review shall submit an application to the Administrative Officer pursuant to Section 93. The Planning Commission shall administer the design review provisions. The goal is to ensure that the design review principles and criteria set forth herein are properly observed."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "93",
+          "title": "- PROCEDURES FOR DESIGN REVIEW",
+          "page": 28,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The erection, reconstruction, exterior alteration, movement, demolition, or change in use or",
+              "paragraphs": [
+                "type of occupancy of any structure in the Village, will require the submission of a Zoning Per- mit Application with a site development plan, in triplicate, to the Administrative Officer. In- terior alterations or changes that do not affect, change, or add to the exterior of a structure will not be subject to design review regulations."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Until an application is filed and while it is pending, applicants shall not anticipate approval by",
+              "paragraphs": [
+                "commencing clearing of trees, soil disturbance or other site preparation."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "The site development plan shall conform, in all respects, to the provisions of Section 85, \"Site",
+              "paragraphs": [
+                "Development Plan.\""
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The Administrative Officer shall, within five (5) days after submission by the applicant, refer",
+              "paragraphs": [
+                "all site development plans to the Planning Commission for analysis. If, in the joint opinion of the Administrative Officer and the Chair of the Planning Commission, the proposal consti- tutes a repair, reconstructs an existing structure with the same design and materials, or will not have any impact upon the visual characteristics of the village, the Commission may approve the project without any further proceedings under this article, according to the provisions of"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "83",
+          "title": "\"Minor Permits.\"",
+          "page": 28,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "E",
+              "title": "Unless otherwise directed by the Administrative Officer, the applicant shall give notice of the",
+              "paragraphs": [
+                "application by first class mail to the applicant's abutting neighbors and certify to the Adminis- trative Officer the service of such notice under penalty of perjury."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Within forty-five (45) days after receipt of the site development plan from the applicant, the",
+              "paragraphs": [
+                "Planning Commission shall hold a public hearing on such application. At or after such hear- ing, the Planning Commission shall: issue a permit, issue a permit with special conditions or modifications, defer approval pending receipt of additional information requested by the Commission, or deny the application. All actions and documentation thereof shall be made a part of the permanent records of the Commission. One copy of the approved site development plan, endorsed by the Chair of the Planning Commission, shall be returned to the applicant and must be kept readily available at the site during the construction period. One copy shall also be filed in the permanent records of the Planning Commission. Construc- tion must proceed without variation from the written plans as approved and within the time set forth in Section 81."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "94",
+          "title": "- BASIS FOR DECISION",
+          "page": 28,
+          "paragraphs": [
+            "Fair and proper administration of design review requires criteria that are clear, objective and known. Criteria to be used by the Planning Commission are set forth in Section 95 of this bylaw. The Planning Commission shall use thoughtful judgment in applying the criteria in order to ensure that the legitimate needs of the Village residents are considered within the context of preserving the architecture and character of Old Bennington."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "95",
+          "title": "- DESIGN REVIEW CRITERIA",
+          "page": 29,
+          "paragraphs": [
+            "Old Bennington offers a blend of architectural styles and landscapes, which are harmonious and aes- thetically pleasing. The character basically reflects design patterns common in the late 18th and early 19th centuries. Of the 81 principal buildings in the Village, 33% were built in the Georgian/Federal periods (1764-1820), 5% in the Greek Revival period (1820-1850) and 37% built later but in the Co- lonial Revival style, a total of 75% in these styles. 20% were built in the Shingle Style or Victorian styles (1850-1900) and 5% in miscellaneous styles (Italianate, modern, ranch, etc.) This range offers Old Bennington an adequate mix of architectural styles, while providing a distinctive identity to the Village. Within this framework, the following criteria shall be used by the Planning Commission in the evaluation of site and building plans."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "96",
+          "title": "- GENERAL CRITERIA",
+          "page": 29,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "When the applicant proposes the construction of a new building, the architectural style shall",
+              "paragraphs": [
+                "be in harmony with the character of the Village at large. Appropriate styles include Geor- gian/Federal, Greek Revival, and Colonial Revival. It is recognized that there are many varia- tions within each architectural style. Even architectural historians sometimes disagree on sty- listic classifications. While reinforcing stylistic preferences, the Planning Commission will also consider design compatibility and visual harmony in its evaluations. The Planning Com- mission shall be guided by the context of the neighborhood and what is appropriate to it in terms of siting, styles, scale, building materials, colors and landscaping, giving consideration to applicable zoning regulations, design criteria set forth herein, and guidelines included in the Subdivision Bylaw."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Additions, alterations or restorations of an existing structure shall be architecturally consistent",
+              "paragraphs": [
+                "with the existing principal structure. Accessory buildings shall follow the style of the princi- pal structures."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Dimensional requirements concerning lot area, lot width, front, rear and side",
+              "paragraphs": [
+                "dimensions, building height and coverage and minimum building area shall be governed by the applicable provisions of Section 53 of this bylaw."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Design Review also regulates the following objects and construction: lawn decorations,",
+              "paragraphs": [
+                "swimming pools, artificial ponds, patios, awnings, walks and driveways, trees and land- scaping, roads, gutters, sidewalks, lighting, signs, trees, shrubbery, energy installations, utility lines and poles, as well as historical markers, monuments and statues."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "97",
+          "title": "- SPECIFIC CRITERIA",
+          "page": 29,
+          "paragraphs": [
+            "It is the purpose of this section to provide criteria to ensure that the decisions of the Planning Com- mission will protect the character and ambience of the Village of Old Bennington, and promote decisions that are objective and reasonable, and to allow residents to plan projects for prompt approval. New buildings, additions, alterations, and/or restorations to existing buildings shall exhibit architectural principles of perpendicularity, parallelism and symmetry. Buildings shall be parallel with, and/or perpendicular to, the street."
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Basic design characteristics of the preferred styles include the following:",
+              "paragraphs": [
+                "wood clapboard. Low-pitched, gabled roof. End chimneys. Large, multi-paned windows. Fanlight and narrow sidelights at entrance.",
+                "detailing with columns, pilasters, full entablatures and pediments, ornaments, temple- like gable front, as well as more traditional eaves-front buildings. Stylistic emphasis is often on the main entry, a paneled door, flanked by side lights and robust Doric columns or pilasters and topped by a transom and three part entablature.",
+                "popular from the late 19th century to the present. Decorative features are based on details from the earlier style, but can be distinguished from them by their large scale, and often unusual, placement on the building façade. Among the most typical details are Palladian windows, quoins, garlands, heavy details, pedimented dormers, classical columns or pilasters, multi-paned windows with shutters, entrance with fan light and side-lights."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Federal - Flat, generally undecorated wall surfaces of local material, usually brick or",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Greek Revival - Inspired by the architecture of ancient Greece. Bold, classical",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Colonial Revival - Derived from architectural styles first used in the 18th century, and",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "Exterior: Building materials shall be consistent with materials used in existing village",
+              "paragraphs": [
+                "buildings, including, but not limited to wood clapboard, red brick and stone of the region. Stucco, metal, vinyl, or other synthetic material shall not be used. Building materials must be of similar quality and characteristic so as to be consistent with the historic nature of the Village. The reveal of clapboards or shingles shall be no less than three inches, and no greater than six inches."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Proportions:",
+              "paragraphs": [
+                "and no more than 50 feet in length.",
+                "dormers is acceptable as an additional half-story.",
+                "of 4/12, or a maximum slope of 8/12.",
+                "perpendicular to the principal buildings; shall not be greater in height or proportions than the principal building, and shall have facades similar to the principal building."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Length - Principal buildings shall have facades facing the street no less than 20 feet,",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Height - Principal buildings shall be no more than two full stories tall. An attic with",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Roof Slopes - Roofs shall be of gable construction, and shall have a minimum slope",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Symmetry - Principal building facilities shall be generally symmetrical.",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Secondary Buildings or Wings - Secondary buildings or wings shall be parallel or",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Porches and Decks: Porches shall be constructed using columns, gable roofs and",
+              "paragraphs": [
+                "entablatures appropriate to the architectural style of the building. Proposed enclosure of exist- ing open porches shall be reviewed. Second-story decks should be consistent in style, archi- tecture and character to the existing structure and the floor(s) below."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Open decks shall not be clearly visible from the street",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Doors: The principal entrance door on the street side of the building shall have raised",
+              "paragraphs": [
+                "wooden panels and trim appropriate to the architectural style of the building, and paint color shall be in all ways appropriate."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Windows: Windows shall generally be double hung wood windows, with true divided",
+              "paragraphs": [
+                "lites, or with simulated divided lites with muntins applied to both sides of the glass, appropriate to the architectural style of the building avoiding the use of vinyl, aluminum, or other inappropriate materials. Side, transom, or fan-lights shall also be in a style appropriate to the building. It is inappropriate to install new or replacement windows with applied internal grids to imitate multiple panes.",
+                "a minimum width of 3-1/2 inches. Windows in brick or stone walls shall have brick- mould trim, sills shall be stone or brick, and lintels shall be stone or flat-arched brick."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Glazing - Only clear, colorless glass may be used.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Trim - Windows in wood walls shall have projecting sills, and trim on all sides, with",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "H",
+              "title": "Shutters: Existing shutters are required to remain or be replaced in-kind. Shutters are not",
+              "paragraphs": [
+                "required on new structures, but they may be provided if compatible with the architectural style of the building. Shutters may not be used on doorways.",
+                "panels.",
+                "window frame when closed."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Materials - Shutters shall be made of wood, and may be louvered or have raised",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Proportions - Shutters shall be mounted on shutter hinges and sized to fit within the",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "I",
+              "title": "Cornices: Cornices and eaves shall project not less than 8 inches, nor more than 14 inches",
+              "paragraphs": [
+                "from the wall of the building, and shall be constructed with the crown, soffit and eave moldings appropriate to the architectural style of the building."
+              ],
+              "items": []
+            },
+            {
+              "label": "J",
+              "title": "Roofs: Roof coverings shall extend to the eaves, and shall be made of slate, wooden",
+              "paragraphs": [
+                "shingles, or architectural grade asphalt shingles of a slate-gray color. Copper or matte finished snow slides, that approximate the roof color, may be installed, extending a maximum of four feet up from the eaves.",
+                "to match the color of the building."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Cornice Returns - Gable ends shall have cornices with partial or full returns.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Gutters - If exterior-applied rain gutters are required, they shall be copper, or painted",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "K",
+              "title": "Chimneys: Chimneys shall be located at the interior of the structure, or flush with the",
+              "paragraphs": [
+                "outside face of a gable end wall. Interior chimneys, and that part of the chimney that projects above the roof, shall be made of brick laid horizontally. Chimney masonry that was not previously painted shall not be painted."
+              ],
+              "items": []
+            },
+            {
+              "label": "L",
+              "title": "Foundations:",
+              "paragraphs": [
+                "foundations shall be clad with brick or stone veneer where exposed above grade.",
+                "Above the highest grade around its perimeter."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Materials - Foundations may be made of concrete, stone or brick. Concrete",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Exposure - Foundations shall extend above the ground between one and two feet",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "M",
+              "title": "Wetlands: Residents shall not in any way disturb, alter, or infringe on mapped wetland",
+              "paragraphs": [
+                "areas and their changing boundaries without a permit and written approval from the Vermont Agency of Natural Resources."
+              ],
+              "items": []
+            },
+            {
+              "label": "N",
+              "title": "Site Elements:",
+              "paragraphs": [
+                "bylaw.",
+                "and paved with marble or concrete. Driveways shall be no more than 12 feet wide. Driveways shall be paved, or may be unpaved with pea gravel topping, provided a proper base is installed to prevent washout and rutting. Curbing shall not be used.",
+                "walks. Posts, lamps or lanterns next to doorways shall be replicas of early nineteenth century designs, compatible with the style of the building, and shall be copper, brass, or painted black."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Building Setback - Building setbacks shall conform to the setback provisions of this",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Walkways and Driveways - Walkways shall be parallel or perpendicular to the street,",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Exterior lighting - Outside lighting shall be limited to entry doors and associated",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "O",
+              "title": "Accessory Buildings:",
+              "paragraphs": [
+                "accessory buildings shall, in general, follow the design requirements for principal buildings.",
+                "garages shall be located to the rear of the main structure, so that they do not detract from the streetscape.",
+                "have flat or elliptical archways.",
+                "their doors are not visible from the street or sidewalks."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Design Compatibility - Barns, garages, gazebos, dog shelters, tool sheds, and similar",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Free Standing Accessory Buildings - Free standing accessory buildings, such as",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Garage and Barn Doors - Garage doorways shall be a maximum of 10 feet wide, and",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Garages, whether free-standing, or built into the dwelling, shall be positioned so that",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "P",
+              "title": "Landscape: Site and Building Plans shall include reasonable amounts of plantings,",
+              "paragraphs": [
+                "landscaping and screening, with particular emphasis on trees, as required to maintain and improve the visual quality of the Village. Residents shall maintain their properties care- fully, including landscaping, trees and any right of way. Proposed landscaping and trees shall consider long-term growth and maintenance, with attention to visual appearance from the street and neighboring properties. Residents shall not clear-cut property in the Village, nor remove mature or healthy trees or plantings that contribute to the character of open land, neighboring property and the neighborhood without obtaining a permit."
+              ],
+              "items": []
+            },
+            {
+              "label": "Q",
+              "title": "Solar Installations:",
+              "paragraphs": [
+                "as a side or rear yard, and be screened from view of streets, public rights-of-way, and adjoining properties.",
+                "that can be seen from the street or by neighbors.",
+                "age the structure, alter its character-defining features, including existing roof lines or dormers, nor obstruct significant architectural features, such as overlaying windows or architectural detailing. Attachment points must be minimized and allow for future removal.",
+                "mers, on rear-facing roofs where feasible. Panels are to be mounted flush with, and at the same angle as, the existing roof surface and, on flat roofs, set back from the roof edge to minimize visibility. Setbacks: Except for transmission and distribution lines and utility connections, all energy facilities including substations, commercial, utility and net-metered generation facilities and accessory structures must meet minimum setback requirements for the land use districts in which they are located.",
+                "less intrusive and noticeable than available presently may not be subject to all the pro- visions outlined above."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Ground installations shall be installed in locations that minimize their visibility, such",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Solar panels and other roof-or-wall-mounted structures shall not be placed in a location",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Roof - or building-mounted systems on an historic building shall not physically dam-",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Roof-mounted installations shall be placed below and behind parapet walls and dor-",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Solar technology is improving. New products or applications that are substantially",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "R",
+              "title": "Miscellaneous structures: Trash receptacles, dish antennas, fuel tanks, kennels, stables,",
+              "paragraphs": [
+                "pools, ponds, tennis courts, energy-producing installations, and similar structures, shall be screened from view from the street and neighbors by appropriate shrubbery or fencing. They should be placed on the lot at a sufficient distance from the primary structure to minimize any appearance of overcrowding on the lot. If a structure is a source of noise or odor, that will be an additional consideration for design review."
+              ],
+              "items": []
+            },
+            {
+              "label": "S",
+              "title": "Color: Exterior colors used on structures and fences are subject to design review",
+              "paragraphs": [
+                "The preferred color of the body and trim of a structure is white, though other subtle colors may be approved, if the applicant can demonstrate to the Planning Commission that they are historic and/or appropriate for the structure, and consistent with neighboring structures. Accent colors may be used on separate features, such as shutters and doors, with Planning Commission approval.",
+                "and will include, and address color of both the structure and the trim, approving either white or such other colors as are not vivid, strikingly unusual in the Village context, unbecoming to the architectural style of the building, or in visual conflict with surrounding buildings. Unusual colors, especially when vivid in hue, attract attention to themselves, and away from the overall visual impression.",
+                "review is required."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "If a building is being erected, reconstructed, or altered, design review is required,",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Any change of an existing color is considered a substantial alteration, and design",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "T",
+              "title": "Fences and Walls: Fences and walls shall be parallel and/or perpendicular to the street, or",
+              "paragraphs": [
+                "parallel to the lot lines. Ornamental walls and fences shall have a maximum height of 48\". Walls shall be solid, made of stone, and unpainted. Ornamental fences may be approved for location along boundary lines, or to divide parts of a lot, provided they are constructed of wood or wood composites, are picket and rail design, and are painted white. Fences may only be proposed for installation in the interior of properties, for purposes such as confining animals or protecting children from swimming pools, and provided they are screened from view from adjacent streets or nearby residences."
+              ],
+              "items": []
+            },
+            {
+              "label": "U",
+              "title": "Signs shall be governed by Section 54 of this bylaw",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "100",
+          "title": "- INTERPRETATION OF BYLAWS",
+          "page": 34,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "In their interpretation and application, the provisions of this bylaw shall be held to be the min-",
+              "paragraphs": [
+                "imum requirements necessary for the promotion of the general health, safety, convenience and general welfare of the residents. It is not intended for this bylaw to repeal, abrogate, annul or in any way impair or interfere with existing provisions of the law or ordi- nance or any rules, regulations or permits previously adopted or issued pursuant to the law re- lating to the use of structures or premises, nor is it intended by this bylaw to interfere with or abrogate or annul any easements, covenants or other agreements between parties, provided however that where this bylaw imposes a greater restriction upon the use of structures or premises, or upon the height of structures, or requires larger yards, courts or other open spaces than are imposed or required by existing provisions of law or ordinance, or by such rules, reg- ulations or permits or by such easements, covenants or agreements, the provisions of this by- law shall control."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The masculine shall be deemed to include the feminine and the singular shall be deemed to",
+              "paragraphs": [
+                "include the plural, where appropriate."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "101",
+          "title": "- SEVERABILITY",
+          "page": 34,
+          "paragraphs": [
+            "If a court of competent jurisdiction adjudges any section or provision of this bylaw to be invalid said adjudication shall affect only the portion of the bylaw so adjudged and shall not affect the validity of the remainder of this bylaw."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "110",
+          "title": "- AMENDMENTS",
+          "page": 34,
+          "paragraphs": [
+            "This bylaw may be amended from time to time after a public hearing as provided by law."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "111",
+          "title": "- REVIEW",
+          "page": 34,
+          "paragraphs": [
+            "Every five years, the Planning Commission shall review this bylaw and recommend such changes and amendments, if any, as may be necessary to the Board of Trustees. The Planning Commission shall hold not less than one public hearing at the time of review. THIS ZONING BYLAW WAS COMPLETE AT THE TIME OF PRINTING. SINCE THAT TIME, HOWEVER, AMENDMENTS MAY HAVE BEEN MADE. CHECK WITH THE VILLAGE AD- MINISTRATIVE OFFICER FOR ANY CHANGES. THIS BYLAW SHALL REMAIN IN FULL FORCE AND EFFECT UNTIL SUCH ACTION OF THE BOARD OF TRUSTEES OR VOTERS OF THE VILLAGE, IN ACCORDANCE WITH THE PROCEDURES OF THE VERMONT MUNICIPAL AND REGIONAL PLANNING AND DEVEL- OPMENT ACT, TITLE 24, V.S.A., CHAPTER 117 DETERMINE OTHERWISE."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    }
+  ]
+}

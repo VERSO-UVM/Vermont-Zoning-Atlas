@@ -1,0 +1,2658 @@
+{
+  "metadata": {
+    "municipality": "Essex Junction",
+    "county": "Chittenden",
+    "state": "Vermont",
+    "bylaw_date": "1213-20-16",
+    "source_pdf": "Chittenden_Essex Junction_Text_eff12132016.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 37,
+    "word_count": 16557,
+    "articles_found": 1,
+    "sections_found": 29,
+    "subsections_found": 150,
+    "regulation_rows": 0,
+    "list_items": 197
+  },
+  "articles": [
+    {
+      "number": "6",
+      "title": "ZONING DISTRICTS REGULATIONS",
+      "sections": [
+        {
+          "number": "600",
+          "title": "OFFICIAL ZONING MAP",
+          "page": 1,
+          "paragraphs": [
+            "All land in Essex Junction is divided into Districts as shown on the Official Zoning Map filed with the Village Clerk, a copy of which is attached to this Code. Said Official Zoning Map shall be the official record of the zoning status of all land areas within the Village."
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Map Changes",
+              "paragraphs": [
+                "No changes of any nature affecting property shall be made on the Official Zoning Map. It shall be unlawful for any person to alter or change the map upon adoption by the Village of Essex Junction Board of Trustees. Any changes or amendments to the Official Zoning Map shall be made by the Trustees after Public Hearings pursuant to Title 24, Chapter 117, Section 4404 of Vermont Statutes."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Map Interpretation",
+              "paragraphs": [
+                "Staff shall interpret zoning district boundaries as specified below. Appeals to staff decisions may be made to the Zoning Board.",
+                "construed to follow the centerline.",
+                "to follow the centerline.",
+                "constructed to follow property lines.",
+                "the lot may be extended onto the other portion for distance not exceeding fifty (50) feet.",
+                "determine intent in the establishment of any Zoning District boundary."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "District boundaries adjacent to a street, highway, stream or power line shall be",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "District boundaries adjacent to railroad tracks, or rights of ways shall be construed",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "District boundaries, which approximately follow property lines shall be",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Where a District splits a parcel or lot, the regulations applying to either portion of",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "The Future Land Use Map as filed with the Village Clerk shall be consulted to",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "601",
+          "title": "MULTI-FAMILY RESIDENTIAL 1 (M-F1)",
+          "page": 1,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Purpose. To provide areas for multi-family residential development and accessory uses",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Lot Size/Lot Coverage",
+              "paragraphs": [
+                "feet for the first dwelling unit plus five thousand (5,000) square feet for each additional dwelling unit in the same structure or within an accessory structure existing on the effective date of this Code, as long as the existing accessory structure is not expanded. Any expansion to an existing accessory structure being used as a dwelling shall require seven thousand five hundred (7,500) square feet of lot size for the first dwelling and five thousand (5,000) for each additional dwelling in the same structure. Each new structure requires seven thousand five hundred (7,500) square feet for the first unit and five thousand (5,000) square feet for each additional unit in the structure. One single family home is allowed per lot unless reviewed as a planned development. Village of Essex Junction Land Development Code December 13, 2016"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum lot size shall contain seven thousand five hundred (7,500) square",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The maximum total lot coverage shall be fifty (50) percent.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Setback Requirements",
+              "paragraphs": [
+                "shall be established by the average setback of the principal structures on the two adjacent lots (or the closest two lots on the same side of the same street) and the minimum setback requirement for the underlying zoning district. The principal structure shall have a setback between the established maximum and minimum setback as described above. Semi-attached accessory structures (such as a deck) shall be allowed if there is sufficient space between the principal structure and the minimum setback. Porches that are integrated into the principal structure shall be considered part of the principal structure. If a principal structure is not parallel to the front lot line the setback will be determined by the average setback at the two corners of the structure closest to the front lot line. The Planning Commission may waive this requirement if the following conditions are met: (a) The proposed setback does not negatively impact the character of the neighborhood; and (b) The proposed setback would be in keeping with the setbacks and character of anticipated future development of the area."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum front yard setback shall be thirty (30) feet. The front yard setback",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The minimum side yard setback shall be ten (10) feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The minimum rear yard setback shall be ten (10) feet.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Permitted and Conditional Uses. Permitted and Conditional uses are as indicated on the",
+              "paragraphs": [
+                "Use Chart in Section 620 of this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Parking Requirements. Off-street parking requirements are as specified in Section 703 of",
+              "paragraphs": [
+                "this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Building Height. Building heights shall not exceed three (3) stories or thirty-five (35)",
+              "paragraphs": [
+                "feet, whichever is less."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Planned Unit Development. The Planning Commission may approve a Planned Unit",
+              "paragraphs": [
+                "Development for use as a Multi-Family and/or Single-Family Residential Development. In connection with such PUD approval, the Planning Commission may authorize the construction of structures and facilities to accommodate any of the uses allowed in the Multi-Family Residential 1 District. Any application for proposed development in the Multi-Family Residential 1 District may, at the applicant's request, be reviewed as a Planned Unit Development under the provisions of this Section. Any application for proposed development in the Multi-Family Residential 1 District which contains more than five (5) units shall be reviewed as a Planned Unit Development unless this requirement is specifically waived by the Commission.",
+                "(a) Physical characteristics of the site and relation to surrounding properties. (b) Relationship to major transportation facilities, including mass transit, walkways and bike paths. (c) Design characteristics of the proposal and compatibility to adjoining developed land. (d) Unique design or land planning characteristics. (e) Methods used to provide a transition between adjoining uses and proposed Village of Essex Junction Land Development Code December 13, 2016 uses including, but not limited to, setbacks, screening, fencing, building design and parking design. (f) The preservation of unique natural physical characteristics. (g) Building design compatibility with adjoining structures. (h) Other criteria, as deemed necessary by the Commission to evaluate the merits of a specific proposal.",
+                "(a) Proposed traffic flow and circulation design. (b) Design compatibility with adjoining developed properties. (c) Scale and design of proposed structures. (d) Location and setbacks of all proposed structures. (e) Unique physical characteristics of the proposed use. (f) Unique characteristics of the proposed use. (g) Use of innovative techniques, including but not limited to, clustering, Zero Lot Lines development, purchase/leaseback arrangements, and the provision of amenities including biking and hiking trails.",
+                "parking and height based upon the merits of the specific proposal. Waivers shall be based upon the following criteria and may include specific conditions. (a) Unique physical characteristics of the site proposed for development. (b) Superior building design, lot layout and landscaping design. (c) Provision of public open spaces or superior bicycle and pedestrian access. (d) Joint or combined vehicular access with adjoining properties."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "General Review Standards",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Specific Review Standards",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Waivers. The Commission may waive requirements for lot coverage, setbacks,",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "602",
+          "title": "MULTI-FAMILY RESIDENTIAL 2 (M-F2)",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Purpose. To provide areas for the construction of new multi-family dwellings and",
+              "paragraphs": [
+                "accessory residential uses."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Lot Size/Lot Coverage",
+              "paragraphs": [
+                "feet for the first dwelling unit plus two thousand five hundred (2,500) square feet for each additional dwelling in the same structure or within an accessory structure existing on the effective date of this Code, as long as the existing accessory structure is not expanded. Any expansion to an existing accessory structure being used as a dwelling shall require seven thousand five hundred (7,500) square feet of lot size for the first dwelling and two thousand five hundred (2,500) square feet for each additional dwelling in the same structure. Each new structure requires seven thousand five hundred (7,500) square feet for the first unit and two thousand five hundred (2,500) square feet for each additional unit in the structure. One single family home is allowed per lot unless reviewed as a planned development."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum lot size shall contain seven thousand five hundred (7,500) square",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The maximum lot coverage shall be fifty (50) percent.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Setback Requirements",
+              "paragraphs": [
+                "shall be established by the average setback of the principal structures on the two adjacent lots (or the closest two lots on the same side of the same street) and the minimum setback requirement for the underlying zoning district. The principal structure shall have a Village of Essex Junction Land Development Code December 13, 2016 setback between the established maximum and minimum setback as described above. Semi-attached accessory structures (such as a deck) shall be allowed if there is sufficient space between the principal structure and the minimum setback. Porches that are integrated into the principal structure shall be considered part of the principal structure. If a principal structure is not parallel to the front lot line the setback will be determined by the average setback at the two corners of the structure closest to the front lot line. The Planning Commission may waive this requirement if the following conditions are met: (a) The proposed setback does not negatively impact the character of the neighborhood; and (b) The proposed setback would be in keeping with the setbacks and character of anticipated future development of the area."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum front yard setback shall be fifteen (15) feet. The front yard setback",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The minimum side yard setback shall be ten (10) feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The minimum rear yard setback shall be ten (10) feet.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Permitted and Conditional Uses. Permitted and Conditional uses are as indicated on the",
+              "paragraphs": [
+                "Use Chart in Section 620 of this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Parking Requirements. Off-street parking requirements are as specified in Section 703 of",
+              "paragraphs": [
+                "this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Building Height. Building heights shall not exceed three (3) stories or thirty-five (35)",
+              "paragraphs": [
+                "feet, whichever is less. The Commission may grant a waiver of up to four (4) stories or forty- eight (48) feet, whichever is less under either of the following conditions:",
+                "character of the neighborhood would result; or",
+                "that would cause no adverse impacts on the character of the neighborhood."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The property is located along a major arterial street and no adverse impacts on the",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The project is not located on a major arterial street, but adequate buffering is proposed",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "G",
+              "title": "Planned Unit Development. The Planning Commission may approve a Planned Unit",
+              "paragraphs": [
+                "Development for use as a Multi-Family and/or Single-Family Residential Development. In connection with such PUD approval, the Planning Commission may authorize the construction of structures and facilities to accommodate any of the uses allowed in the Multi-Family Residential 2 District. Any application for proposed development in the Multi-Family Residential 2 District may, at the applicant's request, be reviewed as a Planned Unit Development under the provisions of this Section. Any application for proposed development in the Multi-Family Residential 2 District which contains more than five (5) units shall be reviewed as a Planned Unit Development unless this requirement is specifically waived by the Commission. Refer to Section 601.G.1-3 for general and specific review standards in addition to waiver information for a PUD."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "603",
+          "title": "MULTI-FAMILY RESIDENTIAL 3 (M-F3)",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Purpose. To provide areas for low density multi-family dwellings and accessory",
+              "paragraphs": [
+                "residential uses."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Lot Size/Lot Coverage",
+              "paragraphs": [
+                "feet for the first dwelling unit plus three thousand (3,000) square feet for each additional Village of Essex Junction Land Development Code December 13, 2016 dwelling unit in the same structure or within an accessory structure existing on the effective date of this Code, as long as the existing accessory structure is not expanded. Any expansion to an existing accessory structure being used as a dwelling shall require seven thousand five hundred (7,500) square feet of lot size. Each new structure requires seven thousand five hundred (7,500) square feet for the first unit and three thousand (3,000) square feet for each additional unit in the same structure. One principal structure is allowed per lot. One single family home is allowed per lot unless reviewed as a Planned Development."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum lot size shall contain seven thousand five hundred (7,500) square",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The maximum total lot coverage shall be forty (40) percent.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Setback Requirements",
+              "paragraphs": [
+                "shall be established by the average setback of the principal structures on the two adjacent lots (or the closest two lots on the same side of the same street) and the minimum setback requirement for the underlying zoning district. The principal structure shall have a setback between the established maximum and minimum setback as described above. Semi-attached accessory structures (such as a deck) shall be allowed if there is sufficient space between the principal structure and the minimum setback. Porches that are integrated into the principal structure shall be considered part of the principal structure. If a principal structure is not parallel to the front lot line the setback will be determined by the average setback at the two corners of the structure closest to the front lot line. The Planning Commission may waive this requirement if the following conditions are met: (a) The proposed setback does not negatively impact the character of the neighborhood; and (b) The proposed setback would be in keeping with the setbacks and character of anticipated future development of the area."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum front yard setback shall be thirty (30) feet. The front yard setback",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The minimum side yard setback shall be ten (10) feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The minimum rear yard setback shall be ten (10) feet.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Maximum Number of Dwelling Units. The maximum number of dwelling units on any",
+              "paragraphs": [
+                "individual lot shall be three (3)."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Permitted and Conditional Uses. Permitted and Conditional uses are as indicated on the",
+              "paragraphs": [
+                "Use Chart in Section 620 of this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Parking Requirements. Off-street parking requirements are as specified in Section 703 of",
+              "paragraphs": [
+                "this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Building Height. Building heights shall not exceed three (3) stories or thirty-five (35)",
+              "paragraphs": [
+                "feet, whichever is less."
+              ],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "Planned Unit Development. The Planning Commission may approve a Planned Unit",
+              "paragraphs": [
+                "Development for use as a Multi-Family and/or Single-Family Residential Development. In connection with such PUD approval, the Planning Commission may authorize the construction of structures and facilities to accommodate any of the uses allowed in the Multi-Family Residential 3 District. Any application for proposed development in the Multi-Family Residential 3 District may, at the applicant's request, be reviewed as a Planned Unit Development under the provisions of this Section. Any application for proposed development in Village of Essex Junction Land Development Code December 13, 2016 the Multi-Family Residential 3 District which contains more than five (5) units shall be reviewed as a Planned Unit Development unless this requirement is specifically waived by the Commission. Refer to Section 601.G.1-3 for general and specific review standards in addition to waiver information for a PUD."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "604",
+          "title": "VILLAGE CENTER (VC)",
+          "page": 6,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Purpose. To provide a compact commercial center having a mix of commercial,",
+              "paragraphs": [
+                "governmental, cultural and mixed use buildings that are consistent with the purpose of a designated Village Center District, and a neighborhood development area as both are defined by the State of Vermont. The Village Center shall be the core for an ongoing revitalization that will improve the community's vitality and livability and the goal of having a Center that accommodates growth. Due to the historic nature of the residential neighborhoods surrounding the Five Corners area the design and layout of any new developments or infill projects shall acknowledge the importance of the existing streetscape and enhance the area through an architectural design and site layout that enhances pedestrian connectivity to adjacent properties. It is the intent of this district to allow as new structures only those structures which are designed and constructed to enhance the streetscape and add value aesthetically, economically and socially to the Village Center."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Lot Size/Lot Coverage",
+              "paragraphs": [
+                "Center District shall not have a maximum allowable density. The maximum number of dwelling units shall be determined by the ability to meet the standards of the Land Development Code including, but not limited to, parking, setbacks, lot coverage and building height.",
+                "of Site Plan Review."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum lot size shall be five thousand (5,000) square feet. The Village",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The maximum total lot coverage shall be determined by the Commission as part",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Setback Requirements. No requirements for commercial or mixed use buildings. For",
+              "paragraphs": [
+                "single family buildings the front yard setback shall be established by the average setback of the principal structures on the two adjacent lots (or the closest two lots on the same side of the same street) and the minimum setback requirement for the underlying zoning district. The principal structure shall have a setback between the established maximum and minimum setback as described above. Semi-attached accessory structures (such as a deck) shall be allowed if there is sufficient space between the principal structure and the minimum setback. Porches that are integrated into the principal structure shall be considered part of the principal structure. If a principal structure is not parallel to the front lot line the setback will be determined by the average setback at the two corners of the structure closest to the front lot line. The Planning Commission may waive this requirement if the following conditions are met:",
+                "neighborhood; and",
+                "of anticipated future development of the area."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The proposed setback does not negatively impact the character of the",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The proposed setback would be in keeping with the setbacks and character",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Permitted and Conditional Uses. Permitted and Conditional uses are as indicated on the",
+              "paragraphs": [
+                "Use Chart in Section 620 of this Code. Village of Essex Junction Land Development Code December 13, 2016"
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Design Review and Historic Preservation. Because of the important role the Village",
+              "paragraphs": [
+                "Center plays in the regional economy and the unique historic qualities of some of the existing buildings, the Commission is hereby authorized to undertake a special review, as part of its site plan review. Design review is required by the Planning Commission for any proposed construction, reconstruction, demolition or exterior alteration (including a change of color) of any building in the district with the exception of sign permits, which are approved administratively. Activities involving buildings listed or eligible for the state or national registers of historic places must meet additional standards as described below. All reviews shall be conducted at a public meeting.",
+                "for the State or Federal Register of Historic Places while accommodating new and appropriate infill and redevelopment supporting increased density and multi-modal development. Infill and redevelopment brings opportunities to protect existing historic resources and provide new sources of architectural and urban design for the 21st century while increasing density, activity and economic opportunity in the Village Center District. Demolition may be allowed, but only following a thorough review of the economic and structural characteristics of the building and the proposed redevelopment plan and its community benefits. A building that causes blight in the District may be considered a candidate for demolition. New buildings and modifications to existing ones shall be subject to design review.",
+                "(a) The design review standards are applicable to all development proposals within the Village Center District. The historic preservation design standards with respect to alterations, additions or redevelopment of existing historic structures as defined in Section 604.E.4.B of this Code are applicable to all buildings listed or eligible for the State or National Register of Historic Places. Documentation from the State Division of Historic Preservation documenting a building's eligibility for the State or National Register of Historic Places. (b) Any development proposal for the existing residential structures fronting Pearl, Park, Lincoln, Maple and Main Streets in the Village Center District submitted to the Planning Commission shall be reviewed as a Planned Unit Development (PUD) and are subject to the provisions of Section 724: Planned Unit Development and Chapter 9: Subdivision Regulations.",
+                "approval of a proposed development or modification of a structure if it determines that the intent of this Section has not been met. Accordingly: (a) Within this district, no structure may be demolished, reconstructed, moved, erected, or changed in use, nor may the exterior be altered or restored without design approval from the Planning Commission, issued in conjunction with subdivision or site plan approval. In the event that subdivision or site plan review is not otherwise required, design review shall be conducted in accordance with site plan review procedures under Section 502 or Section 503. (b) Nothing in these design control criteria shall be construed to prevent the ordinary maintenance or repair of any exterior architectural feature in the district, which does not involve a change in the design, material, color or the outward appearance of the feature. (c) The review of plans under this Section by the Planning Commission requires the submission of information listed in Section 502 or Section 503 along with Village of Essex Junction Land Development Code December 13, 2016 building elevations, a description of materials to be used on the exterior of any structure, plans for exterior lighting, signs, drainage and snow removal, and photographs of existing structures and adjacent buildings if applicable. The Planning Commission may require additional information and documentation, as it deems necessary including 3D drawings and/or models of the proposal to assist in understanding the fundamental design elements and important spatial relationships. (d) Should the Planning Commission deem it necessary to employ an architect or other qualified individual to review any development proposal, the cost of employing such an individual shall be borne by the applicant.",
+                "development applications in the Village Center for compliance with the criteria listed below and in accordance with the character of the district as defined by the Village of Essex Junction Comprehensive Plan. The Planning Commission reserves the right to require applicants to undertake their development per the Secretary of Interiors Standards. Staff will review the applicant's proposal and provide guidance as to what the Planning Commission will expect with historic structures. (a) Design Standards for the Village Center (i) The relationship of building mass and architectural detail to open space and to the relative size of a person shall be reviewed by the Commission in this District. (ii) The predominant direction of structural shape, of placement of openings and architectural details at the front façade shall be harmonious with the core principles of a designated Village Center District. (iii) Buildings shall generally have no setback from the street and be at least two stories in height to create a consistent street edge and sense of enclosure. Additional building setback to provide for an expansion of the sidewalk or active pedestrian space such as sidewalk cafes or display areas may be allowed and in some cases encouraged. (iv) The proposed height of structures may be limited to within ten (10) percent of the average height of existing adjacent buildings on predominately residential streets where necessary to protect the residential character of adjacent residential structures. The height limit shall not apply in predominantly commercial and mixed-use areas. (v) The following architectural elements or features shall be harmonious with existing buildings and significant, predominant or established patterns in the district: (aa) The relationship between the width to height of the front elevation of the building. (bb) The relationship of width to height of windows and doors. (cc) The rhythmic relationship of openings to solid areas in front façades. (dd) The spaces between the proposed structure or structural alteration. (ee) The relationship of entranceways to buildings and porches. (ff) The materials, textures, and colors, including primary and accent or trim colors. (gg) Proposed architectural details (such as lintels, arches, Village of Essex Junction Land Development Code December 13, 2016 chimneys). (hh) Proposed roof shapes and lines. (ii) Proposed enclosures, including fences, brick walls, stone walls, evergreen hedgerows and building facades, which are also continuous and cohesive with existing walls in the district. (jj) Proposed landscaping shall be compatible with existing quality and quantity of landscaping in the vicinity, with consideration given to existing landscape mass and continuity. (kk) The proposed ground cover shall be compatible with the predominant ground cover in the district. (ll) Storage areas, service areas, trash receptacles, accessory structures and parking areas shall be screened from view from the street and adjoining properties. (b) Secretary of the Interiors Standards for the Rehabilitation of Historic Structures: (i) An existing property shall be used for its historic purpose or be placed in a new use that requires minimal change to the defining characteristics of the building and its site and environment. (ii) The historic character of a property shall be retained and preserved. The removal of historic materials or alteration of features and spaces that characterize a property shall be avoided. (iii) Each property shall be recognized as a physical record of its time, place, and use. Changes that create a false sense of historical development, such as adding conjectural features or architectural elements from other buildings, shall not be undertaken. (iv) Most properties change over time; those changes that have acquired historic significance in their own right shall be retained and preserved. (v) Distinctive features, finishes, and construction techniques or examples of craftsmanship that characterize a property shall be preserved. (vi) Deteriorated historic features shall be repaired rather than replaced. Where the severity of deterioration requires replacement of a distinctive feature, the new feature shall match the old in design, color, texture, and other visual qualities and, where possible, materials. Replacement of missing features shall be substantiated by documentary, physical, or pictorial evidence. (vii) Chemical or physical treatments, such as sandblasting, that cause damage to historic materials shall not be used. The surface cleaning of structures, if appropriate, shall be undertaken using the gentlest means possible. (viii) Significant archeological resources affected by a project shall be protected and preserved. If such resources must be disturbed, mitigation measures shall be undertaken. (ix) New additions, exterior alterations, or related new construction shall not destroy historic materials that characterize the property. The new work shall be differentiated from the old and shall be compatible with the massing, size, scale, and architectural features to protect the historic integrity of the property and its environment. (x) New additions and adjacent or related new construction shall be Village of Essex Junction Land Development Code December 13, 2016 undertaken in such a manner that if removed in the future, the essential form and integrity of the historic property and its environment would be unimpaired.",
+                "eligible for historic listing is discouraged and it is the intent of this section to limit the demolition of historic structures unless the following standards are met. The intent of this section is to provide a procedure for the review of applications for the demolition of a historic structure. The Planning Commission may require professional assistance in evaluating an application for demolition at the applicants' expense in order to determine compliance with the standards of this section. An application for demolition of a historic structure will be reviewed based on financial, structural, historic, design and community benefits of the proposed redevelopment. (a) Application for Demolition (i) A report from a licensed engineer qualified to assess the structural integrity of historic buildings is required. The report shall address the ability for rehabilitation and reuse of the existing building as it pertains to the buildings structural integrity and cost of rehabilitation. (ii) A report from a qualified professional (planner, economist, business consultant) on the economic feasibility to rehabilitate and/or operate the historic building or site while preserving its historic qualities. The report, at the request of the Planning Commission, may require the report to assess options for sensitive building expansions as it pertains to the economic viability of the building. (iii) A statement from the applicant regarding compliance with the standards for demolition of a historic structure. (iv) Any building in non-compliance with the design requirements for historic structures as a result of a fire, flood or similar unforeseen event shall apply within six months of the date of the event for an application to demolish the building or approval of a plan for restoration. All of the standards in this section shall be fully considered including economic hardship, structural integrity and community benefit. (b) Demolition Review Standards: (i) Economic Hardship. The continued operation of the historic structure is financially infeasible based on existing and potential land uses and any costs of rehabilitation. All options for adaptive reuse, resale, or relocation shall be considered and addressed in the application. (ii) Structural Integrity. The structure is beyond repair or the cost of repairing and operating the building is not financially feasible or reasonable; or (iii) Community Benefit. The redevelopment plan for the site has significant state, regional or community benefits in terms of urban design, ecology, and cultural or economic benefits. The redevelopment proposal shall consider and address impacts on adjacent historic properties and the entire district. The potential of incorporating historic structures into redevelopment plans shall be considered and is encouraged. (c) Approval for Demolition. Historic buildings that are approved for demolition require the applicant to comply with the following: (i) Any approval for the demolition of a historic structure shall require the Village of Essex Junction Land Development Code December 13, 2016 applicant to document the building in accordance with the Historic American Building Survey (HABS). (ii) Assurance from the applicant that the redevelopment plan as approved will be implemented if the historic structure demolition is approved based on the community benefit of the redevelopment plan. In addition, structures approved for demolition based on the community benefit shall not be demolished until construction of the entire project has received all financial resources and regulatory permits. The Planning Commission may require a bond or letter of credit as a condition of approval for the demolition of a historic structure. (iii) The time between demolition and the commencement of construction shall not exceed 3 months unless an alternative timeline is specifically approved as part of the demolition approval from the Planning Commission.",
+                "(a) Purpose. Formula-based retail and restaurants have the potential to negatively impact the unique character and small town atmosphere in the Village Center District unless carefully designed to minimize negative impacts associated with standardized buildings, signs and operations that does not take into account the special qualities and historic features of the District as defined in the Village Comprehensive Plan. (b) Applicability. Formula-based retail and restaurants, as defined in Chapter 2, shall require conditional use review and approval for the establishment or expansion of such an operation in the Village Center District. (c) Review Standards. In addition to the conditional use review standards, the following criteria pertain to all proposed formula-based retail and restaurant establishments and the expansion of existing ones: (i) New buildings shall be designed with attention to the existing site features and shall not consist of a standardized building type used by the formula based business on other sites and locations. Façade detailing and style shall be unique and not part of a standardized set of features used in other locations, but rather complement the historic identity of the Village Center District."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Purpose. The purpose of this section is to protect those buildings listed or eligible",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Applicability",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "District Design Review Procedures. The Planning Commission may deny",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "District Design Requirements. The Planning Commission shall review all",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Demolition of Historic Structures. The demolition of listed, or properties",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Formula-Based Retail and Restaurants.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "F",
+              "title": "Parking. Due to the unique characteristics of this District no minimum parking",
+              "paragraphs": [
+                "requirements are established. However, the Planning Commission may require parking as a part of any Site Plan approval. The Commission shall use the parking standards of Chapter Seven as a guide to determine reasonable parking. If on-site parking is required, it shall be placed on the side or rear of the building, not in front. If parking is placed on the side, it shall not take up more than thirty (30) percent of the linear frontage of the lot. The Planning Commission may waive this requirement due to site constraints. Below grade parking or structured parking may also be approved by the Planning Commission. Municipal parking lots are exempt from the side, rear and thirty (30) percent limit on linear frontage requirements for parking areas."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Planned Unit Development. The Planning Commission may approve a Planned Unit",
+              "paragraphs": [
+                "Development in the Village Center District. In connection with such PUD approval, the Planning Commission may authorize the construction of structures and facilities to accommodate any of the uses allowed in the Village Center District. Any application for proposed Village of Essex Junction Land Development Code December 13, 2016 development in the Village Center District may, at the applicant's request, be reviewed as a Planned Unit Development under the provisions of this Section.",
+                "(a) Activities involving a Commercial PUD shall be reviewed in accordance with the procedures of this Section. Commercial PUD's are authorized in the Village Center District pursuant to Section 604.G. (b) Application Requirements. An application for a Commercial PUD shall be submitted and reviewed in accordance with the procedures of Section 511. (c) Review Standards. An application for a Commercial PUD shall be reviewed under the applicable standards of Section 511.B.1-3. (d) Expiration of Approval. An approval for a Commercial PUD shall expire in accordance with terms set forth in the approval. (e) Appeals. Any interested person may appeal a decision of the Commission regarding a Commercial PUD in accordance with the procedures set forth in"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Commercial PUD.",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1707",
+          "title": "",
+          "page": 12,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "H",
+              "title": "Building Height. Building heights shall not exceed four (4) stories or fifty-eight (58)",
+              "paragraphs": [
+                "feet, whichever is less."
+              ],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "Drive - Through's. Drive - Through's in the Village Center must provide enough",
+              "paragraphs": [
+                "stacking room for three (3) cars, not six (6) cars as required in Section 703.D.2."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "605",
+          "title": "HIGHWAY-ARTERIAL DISTRICT (HA)",
+          "page": 12,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Purpose. To provide areas for retail, wholesale, commercial, residential, service and",
+              "paragraphs": [
+                "professional businesses while minimizing negative impacts due to increased traffic."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Density/Lot Coverage",
+              "paragraphs": [
+                "Arterial District shall not have a maximum allowable density. The maximum number of dwelling units shall be determined by the ability to meet the standards of the Land Development Code including, but not limited to, parking, setbacks, lot coverage and building height.",
+                "(65) percent lot coverage may be increased up to eighty (80) percent through a waiver process granted by the Planning Commission using the same criteria outlined in Section 601.G.3."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum lot size shall be ten thousand (10,000) square feet. The Highway",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The maximum total lot coverage shall be sixty-five (65) percent, the sixty-five",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Setback Requirements. Overhangs or eaves on buildings may encroach into the setback",
+              "paragraphs": [
+                "up to two (2) feet."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum front yard setback shall be twenty (20) feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The minimum side yard setback shall be ten (10) feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The minimum rear yard setback shall be ten (10) feet.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Permitted and Conditional Uses. Permitted and Conditional uses are as indicated on the",
+              "paragraphs": [
+                "Use Chart in Section 620 of this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Parking Requirements. Off-street parking requirements are as specified in Section 703 of",
+              "paragraphs": [
+                "Village of Essex Junction Land Development Code December 13, 2016 this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Building Height. Building height shall not exceed four (4) stories or fifty-eight (58) feet,",
+              "paragraphs": [
+                "whichever is less."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Planned Unit Development. The Planning Commission may approve a Planned Unit",
+              "paragraphs": [
+                "Development in the Highway Arterial District. In connection with such PUD approval, the Planning Commission may authorize the construction of structures and facilities to accommodate any of the uses allowed in the Highway Arterial District. Any application for proposed development in the Highway Arterial District may, at the applicant's request, be reviewed as a Planned Unit Development. Refer to Section 511.B.1-3 for general and specific review standards in addition to waiver information for a PUD.",
+                "(a) Activities involving a Commercial PUD shall be reviewed in accordance with the procedures of this Section. Commercial PUD's are authorized in the Highway-Arterial District pursuant to Section 605.G. (b) Application Requirements. An application for a Commercial PUD shall be submitted and reviewed in accordance with the procedures of Section 511. (c) Review Standards. An application for a Commercial PUD shall be reviewed under the applicable standards of Section 511.B.1-3. (d) Expiration of Approval. An approval for a Commercial PUD shall expire in accordance with terms set forth in the approval. (e) Appeals. Any interested person may appeal a decision of the Commission regarding a Commercial PUD in accordance with the procedures set forth in"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Commercial PUD.",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1707",
+          "title": "",
+          "page": 13,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "606",
+          "title": "MULTI-FAMILY/MIXED-USE-1 DISTRICT (MF-MU1)",
+          "page": 13,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Purpose. The Multi-Family/Mixed-Use-1 District is intended to allow high density multi-",
+              "paragraphs": [
+                "family development along low intensity commercial uses along major transportation and public transit corridors. High Density, Mixed Use developments and affordable housing with parking below grade or on the first floor of the building are encouraged. Development in the MF-MU1 District should support alternative modes of transportation, while accommodating the automobile."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Density/Lot Coverage",
+              "paragraphs": [
+                "square feet. The MF-MU1 District shall not have a maximum allowable density. The maximum number of dwelling units shall be determined by the ability to meet the standards of the Land Development Code including, but not limited to, parking, setbacks, lot coverage and building height.",
+                "(65) percent lot coverage may be increased up to eighty (80) percent through a waiver process granted by the Planning Commission using the same criteria outlined in Section 601.G.3."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum lot size in the MF-MU1 District shall be fifteen thousand (15,000)",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The maximum total lot coverage shall be sixty-five (65) percent, the sixty-five",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Setback Requirements. The Planning Commission may waive the screening and",
+              "paragraphs": [
+                "buffering requirements for new developments upon determining that the development will not Village of Essex Junction Land Development Code December 13, 2016 adversely impact neighboring properties. Overhangs or eaves on buildings may encroach into the setback up to two (2) feet.",
+                "front yard setback shall be thirty (30) feet for the principal structure. At least thirty (30) percent of the front of the principal structure shall be within the minimum and maximum setback."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Side: The side yard setback shall be ten (10) feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Front: The minimum front yard setback shall be twenty (20) feet, the maximum",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Rear: The required rear setback shall be ten (10) feet.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Permitted and Conditional Uses. Permitted and Conditional uses are as indicated on the",
+              "paragraphs": [
+                "Use Chart in Section 620 of this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Parking Requirements. Off-street parking requirements are as specified in Section 703 of",
+              "paragraphs": [
+                "this Code.",
+                "the first floor of the principal structure shall have a residential appearance and shall blend with the upper floors of the building."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "At Grade Parking on First Floor of Building: The building façade for parking on",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "F",
+              "title": "Building Height. Building Height shall not exceed four (4) stories or fifty-eight (58) feet,",
+              "paragraphs": [
+                "whichever is less."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Planned Unit Development. The Planning Commission may approve a Planned Unit",
+              "paragraphs": [
+                "Development for use as a MF-MU1 District. In connection with such PUD approval, the Planning Commission may authorize the construction of structures and facilities to accommodate any of the uses allowed in the Multi-Family Mixed-Use-1 District. Any application for proposed development in the Multi-Family Mixed-Use-1 District may, at the applicant's request, be reviewed as a Planned Unit Development. Refer to Section 511.B.1-3 for general and specific review standards in addition to waiver information for a PUD."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "607",
+          "title": "MULTI-FAMILY/MIXED-USE-2 DISTRICT (MF-MU2)",
+          "page": 14,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Purpose. The Multi-Family/Mixed-Use-2 District is intended to allow high density multi-",
+              "paragraphs": [
+                "family development along low intensity commercial uses along major transportation and public transit corridors. High Density, Mixed Use developments and affordable housing with parking below grade or on the first floor of the building are encouraged. Development in the MF-MU2 District should support alternative modes of transportation, while accommodating the automobile. Developments within this district should be designed in such a way as to build upon the village character found in the core areas of the Village."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Density/Lot Coverage",
+              "paragraphs": [
+                "square feet. The maximum permitted density shall be fifteen (15) units per acre.",
+                "(65) percent lot coverage may be increased up to eighty (80) percent through a waiver process granted by the Planning Commission using the same criteria outlined in Section 601.G.3."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum lot size in the MF-MU2 District shall be fifteen thousand (15,000)",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The maximum total lot coverage shall be sixty-five (65) percent, the sixty-five",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Setback Requirements. The Planning Commission may waive the screening and",
+              "paragraphs": [
+                "Village of Essex Junction Land Development Code December 13, 2016 buffering requirements for new developments upon determining that the development will not adversely impact neighboring properties. Overhangs or eaves on buildings may encroach into the setback up to two (2) feet.",
+                "front yard setback shall be thirty (30) feet for the principal structure. At least thirty (30) percent of the front of the principal structure shall be within the minimum and maximum setback."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Side: The side yard setback shall be ten (10) feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Front: The minimum front yard setback shall be twenty (20) feet; the maximum",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Rear: The required rear setback shall be ten (10) feet.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Permitted and Conditional Uses. Permitted and Conditional uses are as indicated on the",
+              "paragraphs": [
+                "Use Chart in Section 620 of this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Parking Requirements. Off-street parking requirements are as specified in Section 703 of",
+              "paragraphs": [
+                "this Code.",
+                "the first floor of the principal structure shall have a residential appearance and shall blend with the upper floors of the building."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "At Grade Parking on First Floor of Building: The building façade for parking on",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "F",
+              "title": "Building Height. Building Height shall not exceed four (4) stories or fifty-eight (58) feet,",
+              "paragraphs": [
+                "whichever is less."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Planned Unit Development. The Planning Commission may approve a Planned Unit",
+              "paragraphs": [
+                "Development for use as a MF-MU2 District. In connection with such PUD approval, the Planning Commission may authorize the construction of structures and facilities to accommodate any of the uses allowed in the Multi-Family/Mixed-Use-2 District. Any application for proposed development in the Multi-Family/Mixed-Use-2 District may, at the applicant's request, be reviewed as a Planned Unit Development. Refer to Section 511.B.1-3 for general and specific review standards in addition to waiver information for a PUD."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "608",
+          "title": "TRANSIT ORIENTED DEVELOPMENT (TOD)",
+          "page": 15,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Purpose. The purpose of the Transit Oriented Development District (TOD) is to",
+              "paragraphs": [
+                "encourage development that supports a variety of transportation options including public transit (bus and rail), walking, biking and the automobile.",
+                "development within the district shall embody the characteristics of compact urban development and pedestrian oriented design. Mixed use buildings with first floor retail, wide sidewalks, interconnected streets, on-street parking, high density residential development, pedestrian amenities, transit stations and stops, open spaces, and public or shared parking are strongly encouraged and in many cases required as a part of the standards within the TOD District.",
+                "In addition, the TOD District is adjacent to an active rail corridor, which may be used for light rail service in the future. A bike path is also planned for the rail corridor. Therefore, the TOD District is in an ideal location to provide greater transportation options.",
+                "Village of Essex Junction Land Development Code December 13, 2016 (a) Create an environment that is conducive to using public transit, walking and riding a bike; (b) Accommodate a mix of uses in a form that attracts pedestrians; (c) Integrate commercial, institutional and residential development into a compact development pattern arranged around a street grid; (d) Provide pedestrian amenities and open spaces to create a comfortable and attractive environment; (e) Provide public and/or shared parking to accommodate automobiles, but will not detract from the pedestrian environment; (f) High Density Residential development; (g) First Floor Retail; and (h) Encourage the use of Tax Increment Financing to support public improvements in the district."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "In order to achieve the desired goal of providing greater transportation options,",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The area within the TOD District is currently served by public bus transportation.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The specific objectives of the TOD District are:",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "Applicability. Development proposals that involve more than thirty (30) percent or more",
+              "paragraphs": [
+                "of the existing building(s) square footage on the effective date of this ordinance shall be in full compliance with the standards of the TOD District. It is the intent of the TOD District regulations to prohibit the expansion of existing non-conforming structures beyond thirty (30) percent of the existing floor space on the effective date of this ordinance unless a waiver is granted by the Planning Commission upon determination that the expansion would not significantly detract from the goals and intent of the TOD District. Any expansion of existing non-conforming structures shall comply with the provisions of Chapter 8.",
+                "which shall apply on effective date of this code. Non-conforming uses shall comply with the standards in Chapter 8 regarding non-conforming uses.",
+                "established in the Land Development Code. The standards contained within this district shall override and take precedent over other standards when in conflict with the standards of the TOD District."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The use chart in Section 620 identifies the allowed uses in the TOD District,",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The standards within the TOD District in some cases conflict with other standards",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Density/Lot Coverage",
+              "paragraphs": [
+                "There shall be no maximum residential density. Residential development potential shall be determined by the ability to meet the other provisions of the Land Development Code including parking, building height, setbacks and lot coverage."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum lot size in the TOD District is five thousand (5,000) square feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The maximum total lot coverage shall be one hundred (100) percent.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Setback Requirements",
+              "paragraphs": [],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "There shall be no minimum required setbacks.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The maximum front yard setback shall be twenty (20) feet.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "E",
+              "title": "Building Frontage, Façade and Entry",
+              "paragraphs": [
+                "seventy-five (75) percent of the frontage of the lot. The Commission may waive this requirement if the proposed land use warrants less building frontage to accommodate on- site parking on the side of the building or due to site constraints.",
+                "percent of the building façade along the street from three (3) feet to six (6) feet and eight Village of Essex Junction Land Development Code December 13, 2016 (8) inches above the finished sidewalk grade.",
+                "structured parking shall not be allowed unless the parking is on the interior of the structure and a liner building is present along the street frontage on the first floor."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "All buildings shall have a minimum building frontage on a public street of",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "All structures require clear windows, which shall encompass at least fifty (50)",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "At-grade, below grade and above grade parking is allowed. However, at-grade",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "F",
+              "title": "Building Height. The maximum allowable building height shall be four (4) stories or",
+              "paragraphs": [
+                "fifty-eight (58) feet, whichever is less."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Permitted and Conditional Uses. Permitted and Conditional uses are as indicated on the",
+              "paragraphs": [
+                "Use Chart in Section 620 of this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "Access to Public Streets. Curb cuts onto major arterial streets shall be minimized; shared",
+              "paragraphs": [
+                "curb cuts and joint access are strongly encouraged. Each property shall be allowed a single curb cut in accordance with the width requirements of Section 705 unless waived by the Planning Commission upon determination that an additional curb cut is necessary to provide adequate access to the site."
+              ],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "Parking Requirements and Location",
+              "paragraphs": [
+                "Land Use Parking Requirement Residential 1 space per unit Lodging 1 space per room Office 2 spaces per 1,000 SF of net office space Retail 3 spaces per 1,000 SF of net retail space Other As determined by the Planning Commission based on anticipated need. The Commission shall use the requirements of Chapter 7 and other national parking standards as a guide.",
+                "accordance with Section 608.E.1.",
+                "development project may be accepted by the Village as municipal public parking.",
+                "better access, traffic flow, and ample parking."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The parking requirements are as follows:",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Parking shall be provided along the rear of the lot, unless a waiver is granted in",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "At the discretion of the Village Trustees, parking lots created as part of a",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Shared parking and connections between parking lots are encouraged to provide",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "J",
+              "title": "Street and Sidewalk Regulations. For the redevelopment of large (over five (5) acres)",
+              "paragraphs": [
+                "parcels within the TOD District, new streets, blocks, and lots shall be established in order to create a pedestrian friendly environment that supports a variety of transportation options. For new streets, the following standards shall be met:"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Street Design and Layout",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "A",
+              "title": "All new streets within the TOD District shall be provided as public streets",
+              "paragraphs": [
+                "Alleys shall be privately owned and maintained. The overall number of alleys shall be limited to the minimum amount necessary to provide adequate access to the rear of buildings. Alleys shall be designed to minimize the number of access Village of Essex Junction Land Development Code December 13, 2016 points onto public streets."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "New Streets shall not have a block length greater than six hundred (600) feet",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Sidewalks within the TOD District shall have a minimum of eight (8) feet of",
+              "paragraphs": [
+                "unobstructed width."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Major redevelopment projects within the TOD District shall include bike lanes",
+              "paragraphs": [
+                "at least five (5) feet in width within the development in order to provide convenient and safe bicycle access within the district. It is not expected that every new street will have a bike lane, but rather those that provide major bicycle transportation routes within the district. All new streets shall include crosswalks at all intersections, which are in compliance with the Americans with Disabilities Act."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Pedestrian amenities including benches, trash receptacles, and bike racks shall",
+              "paragraphs": [
+                "be incorporated into the design of new streets."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Street trees shall be planted every forty (40) feet on center with tree grates and",
+              "paragraphs": [
+                "structural soil (See Appendix A for Public Works Specifications). Street trees shall be placed between the pedestrian travel way and the curb."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "New streets shall include on-street parallel or forty-five (45) degree angled",
+              "paragraphs": [
+                "parking."
+              ],
+              "items": []
+            },
+            {
+              "label": "H",
+              "title": "Pedestrian street lamps shall be incorporated into all new streets. The lamps",
+              "paragraphs": [
+                "shall be full cut-off fixtures with metal halide bulbs and mounted no higher than fifteen (15) feet. Pedestrian street lamps shall be of a decorative architectural style and approved by the Planning Commission."
+              ],
+              "items": []
+            },
+            {
+              "label": "I",
+              "title": "All new streets shall incorporate bus stops and shall be coordinated with the",
+              "paragraphs": [
+                "Chittenden County Transportation Authority (CCTA). The applicant shall be required to provide written comments from CCTA on the proposed bus stops and facilities."
+              ],
+              "items": []
+            },
+            {
+              "label": "J",
+              "title": "New streets with parallel parking on both sides of the street shall have two",
+              "paragraphs": [
+                "eleven (11) foot travel lanes."
+              ],
+              "items": []
+            },
+            {
+              "label": "K",
+              "title": "New streets with forty-five (45) degree angled parking shall have two (2)",
+              "paragraphs": [
+                "twelve (12) foot travel lanes."
+              ],
+              "items": []
+            },
+            {
+              "label": "K",
+              "title": "Planned Unit Development. The Planning Commission may approve a Planned Unit",
+              "paragraphs": [
+                "Development for use as a mixed use development. In connection with such PUD approval, the Planning Commission may authorize the construction of structures and facilities to accommodate any of the uses allowed in the TOD District. Any application for proposed development in the TOD District may, at the applicant's request, be reviewed as a Planned Unit Development. Refer to Section 511.B.1-3 for general and specific review standards in addition to waiver information for a PUD.",
+                "(a) Activities involving a Commercial PUD shall be reviewed in accordance with the procedures of this Section. Commercial PUD's are authorized in the Transit Oriented Development District pursuant to Section 608.K. (b) Application Requirements. An application for a Commercial PUD shall be submitted and reviewed in accordance with the procedures of Section 511. (c) Review Standards. An application for a Commercial PUD shall be reviewed under the applicable standards of Section 511.B.1-3. (d) Expiration of Approval. An approval for a Commercial PUD shall expire in accordance with terms set forth in the approval. Village of Essex Junction Land Development Code December 13, 2016 (e) Appeals. Any interested person may appeal a decision of the Commission regarding a Commercial PUD in accordance with the procedures set forth in"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Commercial PUD.",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1707",
+          "title": "",
+          "page": 19,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "L",
+              "title": "Special Uses. Uses identified with an \"S\" on the Use Chart in Section 620 of this Code",
+              "paragraphs": [
+                "for the TOD District shall only be allowed on the first story."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "609",
+          "title": "RESIDENTIAL-OFFICE (R-O)",
+          "page": 19,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Purpose. Provide areas for small office conversions of existing residential structures",
+              "paragraphs": [
+                "while maintaining residential type architecture. It is not the intent of this District to allow conversions which substantially alter the residential appearance of the structure or which alter the residential character of the neighborhood."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Density/Lot Coverage",
+              "paragraphs": [
+                "the first dwelling unit plus five hundred (500) square feet for each additional dwelling unit up to a maximum of four (4) dwelling units. One principal structure shall be allowed per lot."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum lot size shall be seven thousand five hundred (7500) square feet for",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The maximum total lot coverage shall be forty (40) percent.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Setback Requirements",
+              "paragraphs": [
+                "shall be established by the average setback of the principal structures on the two adjacent lots (or the closest two lots on the same side of the same street) and the minimum setback requirement for the underlying zoning district. The principal structure shall have a setback between the established maximum and minimum setback as described above. Semi-attached accessory structures (such as a deck) shall be allowed if there is sufficient space between the principal structure and the minimum setback. Porches that are integrated into the principal structure shall be considered part of the principal structure. If a principal structure is not parallel to the front lot line, the setback will be determined by the average setback at the two corners of the structure closest to the front lot line. The Planning Commission may waive this requirement if the following conditions are met: (a) The proposed setback does not negatively impact the character of the neighborhood; and (b) The proposed setback would be in keeping with the setbacks and character of anticipated future development of the area. Applicants may apply for a variance if they do not meet the criteria above but believe they cannot meet the requirements of this Section."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum front yard setback shall be twenty (20) feet. The front yard setback",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The minimum side yard setback shall be eight (8) feet.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Permitted and Conditional Uses. Permitted and Conditional uses are as indicated on the",
+              "paragraphs": [
+                "Use Chart in Section 620 of this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Parking Requirements. Off-street parking requirements are as specified in Section 703 of",
+              "paragraphs": [
+                "this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Building Height. Building height shall not exceed three (3) stories or thirty-five (35) feet,",
+              "paragraphs": [
+                "Village of Essex Junction Land Development Code December 13, 2016 whichever is less."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Special Standards for Residential Conversions. Any proposed residential conversion",
+              "paragraphs": [
+                "which adds one or more dwelling units shall require Site Plan approval. In addition, the following standards shall be met:",
+                "adjoining properties. The Commission may require that screening, landscaping, berming or other techniques be used as a condition of approval.",
+                "character of the structure. Added exits, stairways and window treatments shall be designed to protect the residential character of the structure. The Commission may require that additions or changes be screened from view by berms, fencing and/or landscaping treatments."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Parking for additional dwelling units shall be designed to minimize impact on",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Alterations to the structure shall not substantially change the single family",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "H",
+              "title": "Special Standards for Office Conversions. Proposed conversions to non-residential uses",
+              "paragraphs": [
+                "shall require Conditional Use and Site Plan approval. In addition to Site Plan standards, the Commission shall review the following special standards:",
+                "properties.",
+                "Parking shall not be allowed within any front or side yard. The additional parking shall be effectively screened from ground level view of adjoining residences. The Commission may require that screening, landscaping, berming or other techniques be used as a condition of approval.",
+                "not internally illuminated. Only one sign is allowed per business. The one sign may be a freestanding, projecting or wall sign.",
+                "Commission that there will be no increase in employees without notice. Upon receipt of such notification the Commission may decide to reconsider the Site Plan approval, and shall so notify the applicant within forty-five (45) days of receipt of the notice of increased employees.",
+                "later date, the Commission should determine that the daily number of customers is significantly greater than estimated, the Commission may reconsider the Site Plan approval, and shall so notify the applicant.",
+                "on an appointment only basis, and shall be restricted to the following: (a) Doctor, lawyer, accountant, insurance agent, planner, engineer, architect and similar professions. (b) Real estate offices and travel agencies. (c) Barber shop or beauty parlor. (d) Dance and gymnastics studios, provided that lessons are restricted to not more than ten (10) customers at a time. (e) Retail sales associated with any of the above uses, provided that the space (including storage) allocated to retail goods shall not exceed ten (10) percent of the total floor. (f) Apothecary type pharmacy as an accessory use, provided that the space Village of Essex Junction Land Development Code December 13, 2016 (including storage) allocated to retail goods shall not exceed ten (10) percent of the total floor.",
+                "other conditions necessary to protect the residential character of the neighborhood.",
+                "prohibiting parking in front yards), drainage and landscaping as it deems necessary to protect the residential character of the neighborhood.",
+                "character of the structure. Added exits, stairways and window treatments shall be designed to protect the residential character of the structure. New construction shall be of residential construction and shall fit the established character of the neighborhood. The Commission may require that additions or changes be screened from view by berms, fencing and/or landscaping treatments."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The proposed use shall not cause significant sound or traffic impacts on adjoining",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Parking areas shall be arranged to minimize the impact on adjoining properties.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Signs advertising the use shall be limited to twenty (20) square feet in area and",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "The application shall specify the number of employees and shall certify to the",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "The application shall include an estimate of the number of daily customers. If, at a",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Businesses to be allowed in this district are those which generally serve customers",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "The Commission may restrict hours, employees and customers, and may specify",
+                  "use_type": null
+                },
+                {
+                  "number": "8",
+                  "text": "The Commission may impose conditions on parking, traffic circulation (including",
+                  "use_type": null
+                },
+                {
+                  "number": "9",
+                  "text": "Alterations to the structure shall not substantially change the single family",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "I",
+              "title": "Standards for Existing Non-Residential Structures. Current uses of non-residential type",
+              "paragraphs": [
+                "structures may be sold or leased to support another use, providing it is, in the opinion of the Administrative Officer, similar to the original use and intensity."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "610",
+          "title": "OPEN SPACE DISTRICT",
+          "page": 21,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Purpose. To provide and maintain open lands within the Village and its neighborhoods,",
+              "paragraphs": [
+                "and to provide locations for public recreation and school facilities."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Lot Size/Lot Coverage",
+              "paragraphs": [],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum lot size shall contain three (3) acres.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The maximum total lot coverage shall be twenty (20) percent.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Setback Requirements",
+              "paragraphs": [
+                "(a) For agricultural uses, forty (40) feet. (b) For all other uses, fifty (50) feet.",
+                "(a) For agricultural uses, twenty (20) feet. (b) For all other uses, fifty (50) feet.",
+                "(a) For agricultural uses, twenty (20) feet. (b) For all other uses, fifty (50) feet."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum front yard setback shall be:",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The minimum side yard setback shall be:",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The minimum rear yard setback shall be:",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Permitted and Conditional Uses. Permitted and Conditional uses are as indicated on the",
+              "paragraphs": [
+                "Use Chart in Section 620 of this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Parking Requirements. Off-street parking requirements are as specified in Section 703 of",
+              "paragraphs": [
+                "this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Building Height. Building heights shall not exceed three (3) stories or thirty-five (35)",
+              "paragraphs": [
+                "feet whichever is less. Village of Essex Junction Land Development Code December 13, 2016"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "611",
+          "title": "LIGHT INDUSTRIAL (LI)",
+          "page": 22,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Purpose. To provide areas for manufacturing, warehousing, research and development",
+              "paragraphs": [
+                "while maintaining high air and water quality."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Density/Lot Coverage",
+              "paragraphs": [],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum lot size shall be ten thousand (10,000) square feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The maximum total lot coverage shall be sixty-five (65) percent.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Setback Requirements",
+              "paragraphs": [],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum setback from a public street shall be one hundred (100) feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The minimum setback from an adjoining property line shall be fifty (50) feet.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Permitted and Conditional Uses. Permitted and Conditional uses are as indicated on the",
+              "paragraphs": [
+                "Use Chart in Section 620 of this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Parking Requirements. Off-street parking requirements are as specified in Section 703 of",
+              "paragraphs": [
+                "this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Building Heights. The height of any structure shall not exceed four stories or fifty-eight",
+              "paragraphs": [
+                "(58) feet, whichever is less. The Commission may waive this requirement to no more than six stories or seventy-two (72) feet upon clear determination that the waiver is necessary for proper functioning of any permitted industrial use and that it will not adversely impact any surrounding properties."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Special Standards. Due to the unique characteristics of this district, the following special",
+              "paragraphs": [
+                "standards shall apply:",
+                "which do not generate additional employees may be approved by Staff if the addition is not visible from any adjoining public street.",
+                "approved by Staff, if following public notice of the project, a request for a public hearing is not received with fifteen (15) days of receipt of notice. The request shall be made in writing and shall state the basis for the request.",
+                "which do not exceed one thousand (1,000) square feet in area per story and are not more than sixty-five (65) feet in height may be approved by Staff."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Additions not exceeding two thousand (2,000) square feet in area per story and",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Additions not exceeding ten thousand (10,000) square feet in area may be",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The addition of structures necessary for safety, fire protection or communications",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "612",
+          "title": "PLANNED EXPOSITION (P-E)",
+          "page": 22,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Purpose. To provide an area for special events and exposition facilities while minimizing",
+              "paragraphs": [
+                "adverse traffic, sound and visual impacts. It is the intent of this district to encourage innovation in design and to encourage pedestrian, bicycle and bus access to such events."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Density/Lot Coverage",
+              "paragraphs": [
+                "Village of Essex Junction Land Development Code December 13, 2016"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum lot size shall be one hundred (100) acres.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The maximum total lot coverage shall be forty (40) percent.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Setback Requirements",
+              "paragraphs": [
+                "twenty (20) feet.",
+                "(50) feet.",
+                "be twenty (20) feet.",
+                "fifty (50) feet."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "For front yards abutting commercial districts the minimum setback shall be",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "For front yards abutting residential districts the minimum setback shall be fifty",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "For side and rear yards abutting commercial districts the minimum setback shall",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "For side and rear yards abutting residential districts the minimum setback shall be",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Permitted and Conditional Uses. Permitted and Conditional uses are as indicated on the",
+              "paragraphs": [
+                "Use Chart in Section 620 of this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Parking Requirements. Off-street parking requirements shall be specifically approved by",
+              "paragraphs": [
+                "the Commission. Office uses shall meet the standards specified in \"Professional Office\" in"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "703",
+          "title": "(C). Other uses shall, at a minimum, meet the following standards:",
+          "page": 23,
+          "paragraphs": [
+            "thousand (1,000) Square Foot of Gross Floor Area."
+          ],
+          "subsections": [
+            {
+              "label": "F",
+              "title": "Building Heights. The height of any structure shall not exceed thirty-five (35) feet;",
+              "paragraphs": [
+                "provided that the Commission may waive this requirement for facilities constructed a minimum of one hundred (100) feet from any property line with Conceptual Plan and Site Plan review."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Exposition Center PUD. The Planning Commission may approve a Planned Unit",
+              "paragraphs": [
+                "Development for use as an Exposition Center. In connection with such PUD approval, the Planning Commission may authorize the construction of structures and facilities to accommodate any of the uses allowed in the Planned Exposition District. Development activity involving an Exposition Center PUD shall be reviewed under the provisions of this Subsection. For the purposes of this Code, an Exposition Center PUD shall be defined as the development of a parcel of land with multiple buildings, vehicle parking areas and appurtenant facilities for the purpose of conducting indoor and outdoor exhibits, carnivals, fairs, concerts, trade shows and similar events.",
+                "Conceptual Plan by the Commission in accordance with the requirements of Section 511.C.",
+                "existing buildings or facilities, Site Plan approval is also required; see section 502.F.",
+                "Conceptual Plan specified in Section 511.C, a Conceptual Plan for an Exposition Center PUD shall contain the following: (a) The location and type of all permanent signs. (b) The location of areas proposed for temporary and permanent signs which are visible from any public street. (c) The general location of areas to be used for specific purposes or events, including parking. (d) The general location of permanent fencing, screening and landscaping, including a description of types of plant materials. Village of Essex Junction Land Development Code December 13, 2016 (e) The general location of areas to be occupied by temporary structures, including distances between buildings and from structures to property lines. Temporary structures are those not staying in one location for more than two consecutive weeks or not served by water, sewer, and electric power connections. (f) The approximate location of any proposed roads, sidewalks or bike paths. (g) A proposed phasing schedule and map. (h) A description of methods used to estimate the impact of the proposed development on public infrastructure.",
+                "(a) Physical characteristics of the site and relation to surrounding properties; (b) Relationship to major transportation facilities, including mass transit, walkways and bike paths; (c) Design characteristics of the proposal and compatibility to adjoining developed land; (d) Unique design or land planning characteristics; (e) Methods used to provide a transition between adjoining uses and proposed uses including, but not limited to, setbacks, screening, fencing, building design and parking design; (f) The preservation of unique natural physical characteristics; (g) Building design compatibility with adjoining structures; and (h) Other criteria, as deemed necessary by the Commission, to evaluate the merits of a specific proposal.",
+                "(a) The size of the event; (b) The location of the event within the Planned Exposition District; (c) Anticipated traffic impacts; (d) Proposed hours of operation; and (e) Conformance with performance standards in Section 718 of this Code.",
+                "with conditions designed to meet the standards established in Section 612 of this Code.",
+                "Exposition Center PUD shall be classified by the Community Development Department as permitted activities, temporary activities or major activities, and shall be reviewed in the following manner: (a) Permitted activities. Permitted activities require no permits, provided that no new or temporary structures are proposed. The applicant shall notify Staff in writing, not less than two (2) days, excluding weekends and holidays, prior to the activity to ensure that additional review is not necessary. The following are permitted activities: (i) Agriculture shows or exhibitions and related sales. (ii) Educational workshops. (iii) Special training, including driver's education, surveying techniques and similar training activities. (iv) Reunions. (v) Low intensity recreation activities. (vi) Offices directly related to the Fairground's activities. (vii) Storage facilities for equipment to be used for maintenance of any approved event or as a seasonal use. Village of Essex Junction Land Development Code December 13, 2016 (viii) Horse boarding. (b) Temporary Activities. Temporary activities require staff review and approval. An application for a Temporary Use Permit shall be submitted in accordance with Section 502.D of this Code. In addition to the Temporary Use Permit standards, Staff shall review a temporary activity under the standards in"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Approval of an application for an Exposition Center PUD requires approval of a",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "If the application involves the construction of new buildings or the alteration of",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Submittal Requirements. In addition to the requirements for submittal of a",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Standards of Review of Exposition Center PUD.",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Standards for Review of Temporary Activities in an Exposition Center PUD.",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Conditions. The Commission may approve the proposed Exposition Center PUD",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Classification and Approval of Activities. Plans for specific activities in an",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "One (1) space per three (3) seats in principal seating area or five (5) per one",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Outdoor events - One (1) space per ten (10) visitors.",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "612",
+          "title": "",
+          "page": 25,
+          "paragraphs": [
+            "(i) An application for a temporary activities permit may be submitted for a series of events over a one-year period (an annual permit application) or for individual events. Approval of an annual permit application shall not preclude application for and receipt of any number of single permits for events during the same year. (ii) Annual permit applications shall be reviewed within twenty-one (21) days of receipt. (iii) Single permit applications shall be reviewed within forty-eight (48) hours receipt. (iv) The following shall be deemed temporary activities: (aa) Antique shows; (bb) Dog shows; (cc) Car shows; (dd) Craft shows; (ee) Group sales (retail associations, car dealerships, clearance sales or similar events); (ff) Sales of products associated with another temporary or permitted event; (gg) Concerts; and (hh) Trade shows. (c) Major Activities. The Planning Commission shall hold a public meeting in connection with review of a major activity, and may require a public hearing. (i) Standards of review. The Commission shall review each application for a major activity permit on its individual merits. Special consideration shall be given to mitigation efforts proposed to reduce potential community impacts. In granting such a permit, the Commission may impose conditions regarding: (aa) Time of the events; (bb) Parking and traffic control measures; (cc) Temporary off-site parking of recreational vehicles on public property; (dd) Sound mitigation; (ee) Location of the event within the District; and (ff) Impacts which, in the opinion of the Commission, are reasonable and will mitigate adverse impacts. (ii) The following shall be deemed major activities; (aa) Any event for which a permit has been denied by Staff; (bb) Events which last more than five (5) days (excluding set-up and take-down); (cc) Any event which exceeds the performance standards specified in Section 718 of this Code. (iii) Annual agricultural exhibitions shall be reviewed by staff on an Village of Essex Junction Land Development Code December 13, 2016 annual basis and are classified as a major use. Staff may approve all activities specified below. The Commission shall review any activity denied by Staff. (aa) Normal Activities. Daily shows (other than grandstand shows), education workshops, product demonstrations, agricultural events, food services, booths, carnivals, and any activity within enclosed structures shall be considered as normal activities and shall not be individually reviewed. (bb) Cummulative Effects. The cumulative effects of fair activities shall be reviewed annually with Staff, the Police Department and the applicant. Review is restricted to traffic control, lighting, parking, and sound abatement plans. Reasonable efforts shall be made to reduce potential adverse impacts of annual events. In the event that agreement is not reached, the Commission shall consider the outstanding issues at a public meeting on the next Commission agenda. (cc) Special Events. Special events, including, but not limited to, concerts, demolition derbies, tractor pulls and other grandstand events shall be reviewed for compliance with standards for sound, dust control, parking and traffic flow. Staff may not grant waivers to any standard included in this Code. If it is expected that sound standards may be exceeded, application shall be made to the Trustees for a waiver in accordance with Section 506 of this Code. Staff may approve any special event which does not exceed standards and may impose reasonable conditions regarding control of traffic, sound and dust. In addition, Staff may stipulate hours of operation to ensure conformance with adopted standards.",
+            "Commission as part of Conceptual and/or Site Plan review. (a) The Commission shall consider the following: (i) Compatibility with the Conceptual Plan. (ii) Compatibility with the adjoining property. (iii) Visual design. (iv) Landscaping. (v) Location and size. (b) Specific types of signs which may be approved subject to the above, including a single sign with changeable messages to advertise events and signs near the streets to direct pedestrian, bicycle and vehicular traffic to appropriate entrances. The general location and type of Temporary signs shall be reviewed by the Commission.",
+            "for any activities to be conducted at such PUD shall expire in accordance with terms set forth in the approval.",
+            "(a) Any interested person may appeal a decision of the Planning Commission regarding an Exposition Center PUD or conduct of a major activity at an Exposition Center PUD in accordance with the procedures set forth in Section 1707 below. Village of Essex Junction Land Development Code December 13, 2016 (b) Any interested person may appeal a decision of the Staff classifying an activity at an Exposition Center PUD to the Planning Commission in accordance with the procedures set forth in Section 1704 below."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "8",
+              "text": "Signs. Signs in the Planned Exposition Center PUD shall be approved by the",
+              "use_type": null
+            },
+            {
+              "number": "9",
+              "text": "Expiration of Approvals. Approval for an Exposition Center PUD or approvals",
+              "use_type": null
+            },
+            {
+              "number": "10",
+              "text": "Appeals:",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "613",
+          "title": "PLANNED AGRICULTURE (P-A)",
+          "page": 27,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Purpose. To provide areas for active agricultural uses and provide mechanisms to ensure",
+              "paragraphs": [
+                "the long term viability of agriculture. Prime agriculture or active farming land shall be preserved whenever possible through specific policies of the Village. Property used for agricultural purposes shall be deemed the predominant use of land and shall be protected from the adverse affects of urban developments. If development is to occur, the preservation of open space for agricultural or recreation purposes is important to the long-term environmental sustainability and quality of life in the district. Projects are reviewed on an overall project density basis to allow for the preservation of open space while achieving full build out. Open space networks and preservation of important natural resources should be integrated with new development in such a way as to allow for continued agricultural uses or emerging open space opportunities with responsible development."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Density/Lot Coverage",
+              "paragraphs": [],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum lot size shall be fifteen thousand (15,000) square feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The maximum total lot coverage shall be thirty (30) percent.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Setback Requirements",
+              "paragraphs": [
+                "shall be established by the average setback of the principal structures on the two adjacent lots (or the closest two lots on the same side of the same street) and the minimum setback requirement for the underlying zoning district. The principal structure shall have a setback between the established maximum and minimum setback as described above. Semi-attached accessory structures (such as a deck) shall be allowed if there is sufficient space between the principal structure and the minimum setback. Porches that are integrated into the principal structure shall be considered part of the principal structure. If a principal structure is not parallel to the front lot line, the setback will be determined by the average setback at the two corners of the structure closest to the front lot line. The Planning Commission may waive this requirement if the following conditions are met: (a) The proposed setback does not negatively impact the character of the neighborhood; and (b) The proposed setback would be in keeping with the setbacks and character of anticipated future development of the area. Applicants may apply for a variance if they do not meet the criteria above but believe they cannot meet the requirements of this Section."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum front yard setback shall be thirty (30) feet. The front yard setback",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The minimum side yard setback shall be ten (10) feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The minimum rear yard setback shall be ten (10) feet.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Permitted and Conditional Uses. Permitted and Conditional uses are as indicated on the",
+              "paragraphs": [
+                "Use Chart in Section 620."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Parking Requirements. Off-street parking requirements are as specified in Section 703 of",
+              "paragraphs": [
+                "this Code. Village of Essex Junction Land Development Code December 13, 2016"
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Building Height. Building height for residential structures and accessory residential",
+              "paragraphs": [
+                "structures shall not exceed three (3) stories. Structures utilized for normal agricultural activities shall have no height limitation."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Agriculture PUD. The Planning Commission may approve a Planned Unit Development",
+              "paragraphs": [
+                "for an Agriculture PUD, and in connection with such PUD approval, approve the structures and facilities to accommodate any of the uses allowed in the Planned Agriculture District. Any application for proposed development in the Planned Agriculture District may, at the applicant's request, be reviewed as an Agriculture PUD under the provisions of this Section in this District. All development applications involving more than three (3) units of housing shall be reviewed as an Agriculture PUD."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Applications shall be reviewed in accordance with the procedures set forth in",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "511",
+          "title": "If the proposed Agriculture PUD includes new or altered buildings or",
+          "page": 28,
+          "paragraphs": [
+            "facilities, Site Plan approval and/or Subdivision approval may be required."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "2",
+              "text": "Submittal requirements. In addition to the submittal requirements established in",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "511",
+          "title": ", applications for an Agriculture PUD shall include the following:",
+          "page": 28,
+          "paragraphs": [
+            "(a) The location and acreage of land to be reserved for agricultural purposes. (b) Draft legal documents to ensure the continued availability of said lands for agricultural purposes in the future. (c) A description and map of areas to receive transferred development rights, if any. (d) A description of methods used to preserve agricultural lands other than the transfer of development rights, if applicable. (e) Other information as needed to demonstrate compliance with the purpose of"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "613",
+          "title": "of this Code",
+          "page": 28,
+          "paragraphs": [
+            "following information: (a) Location and acreage of all prime agricultural lands in single ownership. (b) Location and acreage of all land proposed to be developed. (c) Sending and receiving areas of all land proposed for transfer of development rights. (d) Location of all land proposed for conservation of prime agricultural lands. (e) Location and acreage of land proposed to be preserved as open space in perpetuity. (f) Location and acreage of any lands to be transferred to qualified land trusts or non-profit organizations. (g) Proposed phasing schedule. (h) Proposed methods of preserving agriculture land.",
+            "proposed development on the Community, public infrastructure and adjoining development. Mitigation efforts, including sound control, traffic control and landscaping shall be considered. (a) General Review Standards (i) Physical characteristics of the site and relation to surrounding properties. (ii) Relationship to major transportation facilities, including mass transit, walkways and bike paths. (iii) Design characteristics of the proposal and compatibility to adjoining Village of Essex Junction Land Development Code December 13, 2016 developed land. (iv) Unique design and land planning. (v) Methods used to provide a transition between adjoining uses and proposed uses including, but not limited to, setbacks, screening, fencing, building design and parking design. (vi) The preservation of unique natural physical characteristics. (vii) Building design compatibility with adjoining structures. (viii) Other criteria, as deemed necessary by the Commission to evaluate the merits of a specific proposal. (b) Specific Review Standards (i) Amount of land to be preserved for agricultural purposes. (ii) Location and type of all proposed uses. (iii) The proposed design concept, including location and access to any non-agricultural open space. (iv) Use of innovative techniques, including but not limited to, clustering, Zero Lot Lines development, purchase/leaseback arrangements, and the provision of amenities including biking and hiking trails. (v) Proposed densities and location of any proposed multi-family dwelling units.",
+            "Planned Agricultural proposal. Density shall be calculated on an overall project basis and allowable bonus density on developable land that is preserved may be applied elsewhere in a development. (a) Standards. The Commission shall consider the standards as specified below: (i) The proposed density guarantees the preservation of agricultural lands. (ii) The proposed development concept is of superior design and quality to a standard subdivision. The proposed development supports a walkable environment and pedestrian connectivity including pedestrian oriented design with attention to the relationship between blocks, lots, street, buildings and open spaces. (iii) The proposal includes amenities, including but not limited to, pedestrian and bikeways, passive and active open spaces, energy efficient designs and alternative energy sources including renewable energy sources. (iv) The provision of elderly housing. (v) The provision of affordable housing. (b) Bonuses. If the proposal clearly meets the intent of this District and preserves agricultural lands for either agricultural or recreational purposes, the applicant may request bonuses not to exceed the following: (i) Total density bonus may not exceed an additional one hundred (100) percent of the base density on all developable land. (ii) Twenty-five (25) percent density bonus for all preserved developable land, to be applied elsewhere on the site. (iii) One (1) additional residential unit per unit that is perpetually affordable to households earning no more than eighty (80) percent of median income as allowed per district. Any proposed development under Section 613.G.2 - Exceptions shall not qualify Village of Essex Junction Land Development Code December 13, 2016 for density bonuses. (c) Special Residential Standards. Upon approval and construction of any residential development, agricultural uses are prohibited in the developed area with the following exceptions: (i) Specific agricultural uses which are approved by the Commission as part of a Planned Unit Development Conceptual Plan shall be allowed. (ii) Barbed wire fencing may be used to separate the agricultural activities from the boundaries of any residential subdivision. (iii) Horse trails may be allowed as part of the proposed development. (iv) Lots which are ten (10) acres or more in area may have agricultural uses, provided animals are not kept within twenty-five (25) feet of the property boundaries.",
+            "conditions designed to meet the standards established in Section 613 of this Code.",
+            "accordance with terms set forth in the approval.",
+            "regarding an Agriculture PUD in accordance with the procedures set forth in Section 1707 below."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "3",
+              "text": "A Conceptual Plan shall be submitted which includes, at a minimum, the",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Standards of Review. Generally, the Commission shall consider the effect of the",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Density Bonuses. The Commission may approve density increases for any",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Conditions. The Commission may approve the proposed Agriculture PUD with",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "Expiration of Approval. An approval for an Agriculture PUD shall expire in",
+              "use_type": null
+            },
+            {
+              "number": "8",
+              "text": "Appeal. Any interested person may appeal a decision of the Commission",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "614",
+          "title": "FLOOD PLAIN (F-P)",
+          "page": 30,
+          "paragraphs": [
+            "The purpose of this district is to promote the public health, safety and general welfare, to prevent increases in flooding caused by excessive development of land in flood hazard areas, and to minimize losses due to floods. Uses within these areas should be restricted to agricultural, outdoor recreational and conservation uses not involving structural improvements. The flood plain district is as indicated on the official Zoning Map and as identified by the Department of Housing and Urban Development, Federal Insurance Administration (FIA) Flood Insurance Rate Maps (FIRM) dated January 2, 1981. FLOOD PLAIN REGULATIONS. These regulations shall apply to all areas included in the F-P Flood Plain District, or all lands identified as areas of special flood hazard on the most recently available Flood Insurance Rate Maps, at time of submittal of application. Permitted Uses: Agriculture and Accessory Uses. Conditional Uses: Recreational facilities not involving the use of structures, flood control works, structures other than dwellings and/or commercial buildings."
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Review Procedures",
+              "paragraphs": [
+                "improvement of existing buildings, or for development in the floodway, a copy of the application shall be submitted to the Vermont Department of Water Resources and Environmental Engineering in accordance with 24 V.S.A. 4409. A permit may be issued only following receipt of comments from the Department or the expiration of 30 days from the date the application was mailed to the Department, whichever is sooner.",
+                "Environmental Engineering shall be notified at least 15 days prior to issuing any permit for the alteration or relocation of a watercourse and copies of such notification shall be Village of Essex Junction Land Development Code December 13, 2016 submitted to the Administrator of the Federal Insurance Administration.",
+                "been received from those governmental agencies from which approval is required by Federal or State Law."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Prior to issuing a permit for the construction of new buildings, the substantial",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Adjacent communities and the Vermont Department of Water Resources and",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Proposed development shall be reviewed to assure that all necessary permits have",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "Base Flood Elevations and Floodway Limits",
+              "paragraphs": [
+                "National Flood Insurance Program in the Flood Insurance Study and accompanying maps shall be used to administer the provisions of these regulations.",
+                "by the National Flood Insurance Program, base flood elevation and floodway information available from State or Federal agencies or other sources shall be obtained and reasonably utilized to administer the provisions of these regulations."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Where available, the base flood elevations and floodway limits provided by the",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "In areas where base flood elevations and floodway limits have not been provided",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Development Standards",
+              "paragraphs": [
+                "(a) Minimize flood damage to the proposed development and to public facilities and utilities; and (b) To provide adequate drainage to reduce exposure to flood hazards.",
+                "(a) Designed (or modified) and adequately anchored to prevent flotation, collapse, or lateral movement of the structure during the occurrence of the base flood; (b) Be constructed with material resistant to flood damage; (c) Be constructed by methods and practices that minimize flood damage; and (d) Be constructed with electrical, heating, ventilation, plumbing, and air conditioning equipment and other service facilities that are designed and/or located so as to prevent water from entering or accumulating within the components during conditions of flooding.",
+                "watercourse shall be maintained.",
+                "to minimize or eliminate infiltration of flood waters into the systems and discharges from the systems into flood waters.",
+                "contamination from them during flooding.",
+                "compacted fill such that the top of the fill (the pad) under the entire manufactured home is above the base flood elevation.",
+                "engineer certifies that the proposed development will not result in any increase in flood levels during the occurrence of the base flood.",
+                "base flood elevation.",
+                "modified or elevated to meet the requirements of Subsection 8 (above).",
+                "either: Village of Essex Junction Land Development Code December 13, 2016 (a) Meet the requirements of Subsection 8 (above); or (b) Be designed to be watertight below the base flood elevation with walls substantially impermeable and with structural components having the capability of resisting hydrostatic and hydro-dynamic loads and effects of buoyancy. A permit for a building proposed to be flood proofed shall not be issued until a registered professional engineer or architect has reviewed the structural design, specifications and plans, and has certified that the design and proposed methods of construction are in accordance with accepted standards of practice for meeting the provisions of this Subsection.",
+                "flammable liquids, or other hazardous or toxic materials, are prohibited within the floodway. These facilities may be permitted outside the floodway, provided the area is filled to at least one foot above the base flood elevation.",
+                "below the lowest floor that are subject to flooding shall be designed to automatically equalize hydrostatic flood forces on exterior walls by allowing for the entry and exit of floodwaters. Designs for meeting this requirement must either be certified by a registered professional engineer or architect or meet or exceed the following minimum criteria: A minimum of two openings having a total net area of not less than one square inch for every square foot of enclosed area subject to flooding shall be provided. The bottom of all openings shall be no higher than one foot above grade. Openings may be equipped with screens, louvers, valves, or other coverings or devices provided that they permit the automatic entry and exit of floodwaters.",
+                "either: (a) Be on the site for fewer than 180 consecutive days; (b) Be fully licensed and ready for highway use; or (c) Meet all standards of Section 603(B)(1) of the National Flood Insurance Program Regulations and the elevation and anchoring requirements for \"manufactured homes\" of Section 603(C)(6)."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "All development shall be designed to:",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Structures shall be:",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The flood carrying capacity within any altered or relocated portion of a",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "New and replacement water supply and sanitary sewage systems shall be designed",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "On-site waste disposal systems shall be located to avoid impairment to them or",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "New and replacement manufactured homes shall be elevated on properly",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Development within the floodway is prohibited unless a registered professional",
+                  "use_type": null
+                },
+                {
+                  "number": "8",
+                  "text": "The lowest floor, including basement, of all new buildings shall be at or above the",
+                  "use_type": null
+                },
+                {
+                  "number": "9",
+                  "text": "Existing buildings to be substantially improved for residential purposes shall be",
+                  "use_type": null
+                },
+                {
+                  "number": "10",
+                  "text": "Existing buildings to be substantially improved for non-residential purposes shall",
+                  "use_type": null
+                },
+                {
+                  "number": "11",
+                  "text": "Junkyards and storage facilities for floatable materials, chemicals, explosives,",
+                  "use_type": null
+                },
+                {
+                  "number": "12",
+                  "text": "All new construction and substantial improvements with fully enclosed areas",
+                  "use_type": null
+                },
+                {
+                  "number": "13",
+                  "text": "Recreational vehicles placed on sites within Zones A1-A30, AH and AE shall",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Duties and Responsibilities of Staff. The Administrative Officer shall maintain records",
+              "paragraphs": [
+                "of:",
+                "basement, of all new or substantially improved buildings.",
+                "proofed."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "All permits issued for development in areas of special flood hazard.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The elevation, in relation to mean sea level, of the lowest floor, including",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The elevation, in relation to mean sea level, to which buildings have been flood",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "All flood-proofing certifications required under this regulation.",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "All variances and justification for their issuance.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "E",
+              "title": "Variances to the Development Standards. Variances shall be granted by the Board of",
+              "paragraphs": [
+                "Adjustment only:",
+                "result in increased flood levels.",
+                "methods that minimize flood damage during the base flood and create no additional Village of Essex Junction Land Development Code December 13, 2016 threats to public safety."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "In accordance with the provision of 24 V.S.A. Section 4468.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Upon a determination that during the base flood discharge the variance will not",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Upon a determination that the structure or other development is protected by",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "615",
+          "title": "MIXED COMMERCIAL USE DISTRICT (MCU)",
+          "page": 33,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Purpose. To provide areas for mixed use development in locations which have adequate",
+              "paragraphs": [
+                "public and compatible surrounding land uses. A mix of residential, retail and office use is encouraged."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Lot Size/Lot Coverage",
+              "paragraphs": [
+                "Commercial Use District shall not have a maximum allowable density. The maximum number of dwelling units shall be determined by the ability to meet the standards of the Land Development Code including, but not limited to, parking, setbacks, lot coverage and building height.",
+                "(65) percent lot coverage may be increased up to eighty (80) percent through a waiver process granted by the Planning Commission using the same criteria outlined in Section 601.G."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum lot size shall be fifteen thousand (15,000) square feet. The Mixed",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The maximum total lot coverage shall be sixty-five (65) percent; the sixty-five",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Setback Requirements",
+              "paragraphs": [],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum front yard setback shall be twenty (20) feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The minimum side yard setback shall be ten (10) feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The minimum rear yard setback shall be ten (10) feet.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Permitted and Conditional Uses. Permitted and Conditional uses are as indicated on the",
+              "paragraphs": [
+                "Use Chart in Section 620 of this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Parking Requirements. Off-street parking requirements are as specified in Section 703 of",
+              "paragraphs": [
+                "this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Building Height. Building heights shall not exceed four (4) stories or fifty-eight (58)",
+              "paragraphs": [
+                "feet, whichever is less."
+              ],
+              "items": []
+            },
+            {
+              "label": "G",
+              "title": "Planned Unit Development. The Planning Commission may approve a Planned Unit",
+              "paragraphs": [
+                "Development for use as a Commercial or Multi-Family Residential Development. In connection with such PUD approval, the Planning Commission may authorize the construction of structures and facilities to accommodate any of the uses allowed in the Mixed Commercial District. Any application for proposed development in the Mixed Commercial District may, at the applicant's request, be reviewed as a Planned Unit Development. Any application for proposed development in the Mixed Commercial District which contains more than two thousand five hundred (2,500) square feet of commercial space shall be reviewed as a Planned Unit Development or Multi- Family Residential Development unless this requirement is specifically waived by the Commission. Review standards and waiver requirements for a PUD are set forth in Section 511.B.1-3."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "616",
+          "title": "PROFESSIONAL OFFICE OVERLAY DISTRICT",
+          "page": 33,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Purpose. A Professional Office Development Overlay District is to allow for the",
+              "paragraphs": [
+                "Village of Essex Junction Land Development Code December 13, 2016 development of office buildings within areas of existing offices, and as designated on the Future Land Use Map in the Village Comprehensive Plan."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Review. All proposed Professional Office Developments shall require a hearing before",
+              "paragraphs": [
+                "the Commission. The Commission shall consider the following criteria and may establish conditions as deemed necessary to meet the purposes of this Section.",
+                "properties.",
+                "review of an application and finding that the proposal meets all the criteria of this Section. However, retail and industrial uses shall not be allowed. Residential uses shall be allowed as a Conditional use. The residential density shall not exceed ten (10) units per acre."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Compatibility with surrounding office uses.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Hours of operation.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The proposed use will not interfere with or alter the residential uses of adjoining",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Permitted Uses. Specific uses shall be determined by the Commission upon",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "The Commission may establish conditions as deemed necessary to mitigate impacts of a",
+              "paragraphs": [
+                "proposed Professional Office Development."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Site Plan. In addition to the Site Plan Standards specified in this Code, the Commission",
+              "paragraphs": [
+                "shall review the following:",
+                "of flood lighting is expressly prohibited.",
+                "structures."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Lighting shall not negatively impact adjoining residential properties and the use",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Parking areas shall be screened from view from adjoining residential properties.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "All structures shall be designed to be compatible in construction with adjoining",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Proposed signs shall be specifically approved.",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "617",
+          "title": "NORTH LINCOLN STREET OVERLAY DISTRICT (NLSO)",
+          "page": 34,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Purpose. The North Lincoln Street Overlay District is intended to allow additional land",
+              "paragraphs": [
+                "uses beyond those allowed by the underlying zoning district due to the fact that the properties within this district are not served by municipal sewer and the property is relatively isolated."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Permitted Uses. Uses allowed in the NLSO shall be those uses identified in Section 620",
+              "paragraphs": [
+                "Use Chart, including all uses identified in both the NLSO and the underlying zoning district."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Dimensional Standards. Development within the NLSO shall meet the dimensional",
+              "paragraphs": [
+                "requirements of the underlying zoning district including setbacks, lot coverage and building height."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Density. The allowable residential density in the NLSO shall be established by the",
+              "paragraphs": [
+                "underlying zoning district."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "618",
+          "title": "RESIDENTIAL 1 (R-1)",
+          "page": 34,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Purpose. To provide areas for large lot single family residential dwellings and accessory",
+              "paragraphs": [
+                "uses. Village of Essex Junction Land Development Code December 13, 2016"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Lot Size/Lot Coverage",
+              "paragraphs": [
+                "than one (1) principal structure shall be allowed per lot, unless approved as part of a Planned Development.",
+                "maximum permitted lot coverage for buildings shall not exceed twenty-five (25) percent."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum lot size shall be fifteen thousand (15,000) square feet. No more",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The maximum total lot coverage shall be forty (40) percent. However, the",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Setback Requirements",
+              "paragraphs": [
+                "shall be established by the average setback of the principal structures on the two adjacent lots (or the closest two lots on the same side of the same street) and the minimum setback requirement for the underlying zoning district. The principal structure shall have a setback between the established maximum and minimum setback as described above. Semi-attached accessory structures (such as a deck) shall be allowed if there is sufficient space between the principal structure and the minimum setback. Porches that are integrated into the principal structure shall be considered part of the principal structure. If a principal structure is not parallel to the front lot line the setback will be determined by the average setback at the two corners of the structure closest to the front lot line. The Planning Commission may waive this requirement if the following conditions are met: (a) The proposed setback does not negatively impact the character of the neighborhood; and (b) The proposed setback would be in keeping with the setbacks and character of anticipated future development of the area. Applicants may apply for a variance if they do not meet the criteria above but believe they cannot meet the requirements of this Section."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum front yard setback shall be twenty (20) feet. The front yard setback",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The minimum side yard setback shall be eight (8) feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The minimum rear yard setback shall be twenty-five (25) feet.",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Permitted and Conditional Uses. Permitted and Conditional uses are as indicated on the",
+              "paragraphs": [
+                "Use Chart in Section 620 of this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Parking Requirements. Off-street parking requirements are as specified in Section 703 of",
+              "paragraphs": [
+                "this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Building Height. Building heights shall not exceed three (3) stories or thirty-five (35)",
+              "paragraphs": [
+                "feet, whichever is less."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "619",
+          "title": "RESIDENTIAL 2 (R-2)",
+          "page": 35,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Purpose. To provide areas for high-density single family residential development and",
+              "paragraphs": [
+                "accessory uses."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Lot Size/Lot Coverage",
+              "paragraphs": [
+                "No more than one (1) principal structure shall be allowed per lot unless approved as part of a Planned Development.",
+                "maximum permitted lot coverage for buildings shall not exceed twenty-five (25) percent. Village of Essex Junction Land Development Code December 13, 2016"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum lot size shall be seven thousand five hundred (7,500) square feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The maximum total lot coverage shall be forty (40) percent. However, the",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "C",
+              "title": "Setback Requirements",
+              "paragraphs": [
+                "shall be established by the average setback of the principal structures on the two adjacent lots (or the closest two lots on the same side of the same street) and the minimum setback requirement for the underlying zoning district. The principal structure shall have a setback between the established maximum and minimum setback as described above. Semi-attached accessory structures (such as a deck) shall be allowed if there is sufficient space between the principal structure and the minimum setback. Porches that are integrated into the principal structure shall be considered part of the principal structure. If a principal structure is not parallel to the front lot line the setback will be determined by the average setback at the two corners of the structure closest to the front lot line. The Planning Commission may waive this requirement if the following conditions are met: (a) The proposed setback does not negatively impact the character of the neighborhood; and (b) The proposed setback would be in keeping with the setbacks and character of anticipated future development of the area. Applicants may apply for a variance if they do not meet the criteria above but believe they cannot meet the requirements of this section.",
+                "structures and fifteen (15) feet for accessory structures."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "The minimum front yard setback shall be fifteen (15) feet. The front yard setback",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "The minimum side yard setback shall be eight (8) feet.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "The minimum rear yard setback shall be twenty-five (25) feet for principal",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "D",
+              "title": "Permitted and Conditional Uses. Permitted and Conditional uses are as indicated on the",
+              "paragraphs": [
+                "Use Chart in Section 620 of this Code"
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Parking Requirements. Off-street parking requirements are as specified in Section 703 of",
+              "paragraphs": [
+                "this Code."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Building Height. Building heights shall not exceed three (3) stories or thirty five (35)",
+              "paragraphs": [
+                "feet, whichever is less."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "620",
+          "title": "USE CHART",
+          "page": 36,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "District Abbreviations. For the purposes of this Code, and for the chart presented in this",
+              "paragraphs": [
+                "Section, the zoning districts shall have the following abbreviations:",
+                "99.. Residential-Office District (RO).",
+                "Village of Essex Junction Land Development Code December 13, 2016"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Multi-Family Residential 1 District (MF1).",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Multi-Family Residential 2 District (MF2).",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Multi-Family Residential 3 District (MF3).",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Village Center District (VC).",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Highway-Arterial (HA)",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Multi-Family/Mixed Use-1 District (MF-MU1)",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Multi-Family/Mixed Use-2 District (MF-MU2)",
+                  "use_type": null
+                },
+                {
+                  "number": "8",
+                  "text": "Transit Oriented Development (TOD)",
+                  "use_type": null
+                },
+                {
+                  "number": "10",
+                  "text": "Open Space (OS)",
+                  "use_type": null
+                },
+                {
+                  "number": "11",
+                  "text": "Light Industrial District (LI).",
+                  "use_type": null
+                },
+                {
+                  "number": "12",
+                  "text": "Planned Exposition District (PE).",
+                  "use_type": null
+                },
+                {
+                  "number": "13",
+                  "text": "Planned Agriculture District (PA).",
+                  "use_type": null
+                },
+                {
+                  "number": "14",
+                  "text": "Flood Plain District (FP).",
+                  "use_type": null
+                },
+                {
+                  "number": "15",
+                  "text": "Mixed Commercial Use District (MCU).",
+                  "use_type": null
+                },
+                {
+                  "number": "16",
+                  "text": "Professional Office Overlay District",
+                  "use_type": null
+                },
+                {
+                  "number": "17",
+                  "text": "North Lincoln Street Overlay District (NLSO).",
+                  "use_type": null
+                },
+                {
+                  "number": "18",
+                  "text": "Residential 1 District (R1).",
+                  "use_type": null
+                },
+                {
+                  "number": "19",
+                  "text": "Residential 2 District (R2).",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "Permitted Uses. Uses considered to be permitted uses in each district are marked with an",
+              "paragraphs": [
+                "\"X\"."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "Conditional Uses. Uses considered to be conditional uses in each district are marked",
+              "paragraphs": [
+                "with a \"C\"."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "Special Uses. Uses which are generally permitted; but require specific reviews or",
+              "paragraphs": [
+                "approvals by the Commission to determine applicability at a specific location are marked with a \"S\"."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "The Use Chart. The following chart indicates uses specifically allowed within each",
+              "paragraphs": [
+                "district. Qualifications and other additional requirements can be found in the applicable zoning district standards elsewhere in this Code."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    }
+  ]
+}

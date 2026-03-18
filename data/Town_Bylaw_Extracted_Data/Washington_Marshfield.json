@@ -1,0 +1,2003 @@
+{
+  "metadata": {
+    "municipality": "Marshfield",
+    "county": "Washington",
+    "state": "Vermont",
+    "bylaw_date": "0701-20-19",
+    "source_pdf": "Washington_Marshfield_Text_eff07012019.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 59,
+    "word_count": 22195,
+    "articles_found": 4,
+    "sections_found": 46,
+    "subsections_found": 12,
+    "regulation_rows": 0,
+    "list_items": 239
+  },
+  "articles": [
+    {
+      "number": "II",
+      "title": "ESTABLISHMENT OF ZONING DISTRICTS, ADMINISTRATION AND",
+      "sections": [
+        {
+          "number": "275",
+          "title": "Construction Approved Prior to Adoption or Amendment of Regulations . 25",
+          "page": 2,
+          "paragraphs": [
+            "Marshfield Zoning Regulations Adopted March 1, 2016 1 ZONING ORDINANCE TOWN OF MARSHFIELD, VERMONT"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "I",
+      "title": "ENACTMENT, PURPOSE, AMENDMENTS AND DEFINITIONS",
+      "sections": [
+        {
+          "number": "110",
+          "title": "Enactment",
+          "page": 5,
+          "paragraphs": [
+            "In accordance with the Vermont Planning and Development Act, hereinafter referred to as the \"Act,\" 24 V.S.A. Chapter 117, there are hereby established Zoning Regulations for the Town of Marshfield which are set forth in the following text and the Land use, Zoning and Transportation Map, which together constitute the Regulations . These Regulations shall be known as the \"Town of Marshfield Zoning Regulations.\""
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "120",
+          "title": "Purpose",
+          "page": 5,
+          "paragraphs": [
+            "It is the intent of these Regulations to implement the Town Plan of Marshfield and to foster and encourage the use of lands in the Town of Marshfield in a manner that will promote the public health, safety, prosperity, comfort, convenience, efficiency, eco nomy and general welfare in the community of the Town of Marshfield . Such shall also be the purpose of any regulation, restrictions or boundaries contained in this Ordinance or adopted pursuant to this Ordinance. This Ordinance, and such regulations, restrictions or boundaries have, and shall have, as further aims, the following:",
+            "open spaces and forested hills, as well as the human activities thereon.",
+            "to establish locally-based business ventures.",
+            "all current and future residents have a safe and affordable place to live.",
+            "resources and environmentally sensitive areas.",
+            "promotes the economic vitality of village areas, and preserves the quality of Marshfield's environment.",
+            "schools, to meet future needs. Further, the Town of Marshfield specifically finds that the economic and social welfare of its 2 Marshfield Zoning Regulations Adopted March 1, 2016 present and future citizens depends in large part upon the conservation of its primarily undeveloped rural and forest character and appearance. The Town of Marshfield further finds that the economic benefits, present and future, to its citizens of the conservation of its presently undeveloped areas of recreation, agriculture and forestry will be of increasing importance as surrounding urban areas expand and the demand for productive land capable of concurrent low intensity recreational use increases. The Town of Marshfield further finds that the scattered and unplanned land development of those recreational, agricultural and forestry areas into higher intensity residential uses, in areas where substantial or material allocation of available revenues is or will be required to furnish and maintain governmental services for the protection of the health, safety, and welfare of those persons who would have domiciles in those previously undeveloped areas would result in a significant adverse reduction in the provision of such services for all of the Town's residents. Accordingly, it is the purpose of these Regulations to provide for and encourage the orderly and planned land development in areas where adequate provision is or can be made for the furnishing and maintenance of governmental services for the adequate prote ction of the health, safety and welfare of all of the Town's citizens, present and future, and where residential, commercial or industrial development will not have a material or a substantial adverse impact on the undeveloped rural and forest character and appearance of the Town."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "To maintain the rural character of the community as defined by its traditional village areas,",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "To stimulate appropriate economic development and provide opportunity for individuals",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "To encourage housing development/redevelopment consistent with the Town's desire that",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "To protect and preserve the integrity and function of Marshfield's important natural",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "To create a transportation system which is safe and efficient for vehicles and pedestrians,",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "To maintain and enhance recreational opportunities.",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "To realize an excellent and efficient system of public facilities and services, including",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "130",
+          "title": "Application of Regulations",
+          "page": 6,
+          "paragraphs": [
+            "No land development may be undertaken or affected, no building or structure shall be erected, moved, altered or extended, and no land, building or structure or part thereof shall be occupied or used unless in conformity with the Regulations herein specifie d for the district in which it is located. Any use not specifically permitted by these Regulations shall be deemed prohibited."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "140",
+          "title": "Existing Permits/Relation to State Law",
+          "page": 6,
+          "paragraphs": [
+            "Except where these Regulations specifically provide to the contrary, it is not intended to repeal, annul, or in any way to impair any permits previously issued . However, if any bylaw is enacted with respect to any land development subject to regulation under State statute, the more stringent or restrictive regulation applicable shall apply."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "150",
+          "title": "Amendments",
+          "page": 6,
+          "paragraphs": [
+            "These Regulations may be amended according to the requirements and procedures established in S4411 S4442 the Act."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "160",
+          "title": "Severability",
+          "page": 6,
+          "paragraphs": [
+            "The invalidity of any provisions of these Regulations shall not invalidate any other part."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "170",
+          "title": "Effective Date",
+          "page": 6,
+          "paragraphs": [
+            "These Regulations shall take effect upon the affirmative vote of the legal voters of Marshfield by Australian ballot at a regular or special meeting duly warned and held. Marshfield Zoning Regulations Adopted March 1, 2016 3"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "180",
+          "title": "Definitions",
+          "page": 7,
+          "paragraphs": [
+            "[Amended 3/3/09: The following definitions were deleted in this section and added to Section 440, Flood Hazard District: Area of shallow flooding, Area of special flood hazard, Base flood, Flood insurance study, Floodplain, Flood proofing, Lowest floor, Mean sea level , Substantial improvement] Except where specifically defined herein, all words used in this Ordinance shall carry their customary meanings. Words used in the present tense includes the future tense and the singular use of a word includes the plural; the word \"shall\" is mandatory and the word may is discretionary; \"occupied\" or \"used\" shall be interpreted as though followed by \"or intended, arranged, or designed to be used or occupied\"; \"person\" includes an individual, partnership, association, corporation, company or organization. The following words or phrases shall have the meanings set forth below: Abutter: A person who owns land that shares a property boundary with a tract of land where proposed or actual land development is located; or who owns adjacent land that is separated by a river, stream or public highway. Accessory apartment: A secondary dwelling unit established in conjunction with and clearly subordinate to a primary dwelling unit, whether a part of the same structure as the primary dwelling unit or a detached dwelling unit on the same lot. Floor space shall not exceed 30% of the existing living area of the single family residence. Accessory use or accessory building: A use, building, or structure customarily incidental and subordinate to the principal use or principal building and located on the same lot. This definition includes but is not limited to woodsheds, barns, stables, garages and tool sheds. Agricultural uses: Agriculture as defined by the Secretary of Agriculture, Food and Markets. (Amended March 2, 2010) Act: 24 VSA, Chapter 117. Basement: Any area of the building having its floor sub-grade (below ground level) on all sides. Bed and breakfast: A place of lodging that provides overnight accommodations for not more than six guests, and which may serve only breakfast to lodged guests. Boarding house: A dwelling, or part thereof, in which lodging is provided by the owner or operator to the boarders and in which cooking and eating facilities are not provided for boarders in their units. For purposes of this Ordinance, a bed-and-breakfast facility shall be included in the definition of boarding house. Bridge: A structure and necessary supports carrying a path, street or railway. Building: Structure having a roof supported by columns or walls . Within flood hazard zones, a 4 Marshfield Zoning Regulations Adopted March 1, 2016 gas or liquid storage tank is also a building whether above ground or buried. Building height: Vertical distance measured from the lowest elevation of the proposed finished grade to the highest point on the roof. (Amended March 2, 2010) Camp: A structure used primarily for recreational purposes and as a seasonal dwelling unit, not as a primary year round residential dwelling. This seasonal dwelling can not be occupied for more than 12 weeks at any given time and can not be occupied for more than 6 months in any given year. Change of use: The alteration of use of land or a building from one category of use, as listed in the zoning district regulations or defined in this section, to another category of use. Change of use requires a zoning permit. Clearing: Pre-development site preparation, including clearing trees and brush for the installation of driveways, septic systems, building construction, and/or yard area. Commercial self-storage: A structure containing separate, individual and private storage spaces of varying sizes, leased or rented for varying periods of time. Commercial use: The production or provision of a product or service in return for monetary and/or other consideration except the provision of such product or service by a home occupation as defined herein . Non-profit organizations engaged in the provision of goods or services are considered to be a commercial use under this Ordinance. Driveway: A private roadway that provides access to a dwelling, parking, or other structure on a single lot. Driveways may provide access to two or three lots without subdivision road approval providing that they are at least 12 feet wide and are located on a fifty-foot right of way. Dwelling: A building designed for and occupied exclusively for residential purposes, excluding hotel, rooming house, bed and breakfast, institutional home and the like. Dwelling unit: Building or part thereof, including mobile homes, used or suitable for use as living quarters for one or two families . The terms \"dwelling,\" \"one family dwelling,\" \"two family dwelling,\" or \"multiple family dwelling\" shall not include a motel, hotel, boarding house, bed and breakfast or similar structure. Dwelling unit, multi family: A building containing three or more dwelling units which may be condominiums or cooperatives, but shall not include hotels or motels. Essential municipal services: The provision of essential public services, including but not limited to town office facilities, town garage facilities, municipal waste water treatment facilities, municipal water treatment facilities, schools, and public utility power generating and transmission facilities. Family: One or more persons living, sleeping, cooking and eating on the same premises as a single Marshfield Zoning Regulations Adopted March 1, 2016 5 housekeeping unit. Fence, Transparent: A fence that is see -through when viewed from most angles. Examples include post and rail fences, wire fences, and chain-linked fences. (Added March 2, 2010) Flood Insurance Rate Map(FIRM): An official map of a community, on which the Administrator has delineated both the special hazard areas and the risk premium zones applicable to the community. Forestry (Silvaculture): The use and management of land for purposes of conservation and/or wood production and timber harvesting. This definition excludes sawmills, lumber yards, and other similar facilities used for the processing and/or manufacturing of wood and wood products, with the exception of portable sawmills which may be located within the Forestry and Conservation District on a temporary basis in accordance with a forest management plan. Forest use: The growing and harvesting of trees or timber other than for their fruit. Home occupation: Home industry or occupation within a minor portion of the dwelling, accessory building, or a portion of the grounds, carried on by members of the family residing in the dwelling. Such use is clearly secondary to use of the premises for dwelling purposes , and meets the criteria set forth in Section 304 of these bylaws. Hotel: A building in which lodging is provided and offered to the public for compensation and which is open to transient guest and is not a boarding house, a bed-and-breakfast or inn as defined herein. Inn: Any building in which there are five or less guest rooms, used for the purpose of offering public lodging for compensation. Kennel: The keeping of four or more dogs on the premises for the purpose of boarding, breeding or sale which can be considered a commercial use and/or the private control of five or more dogs. Land development: Means the division of a parcel into two or more parcels, the construction, reconstruction, conversion, structural alteration, relocation, or enlargement of any building or other structure, or of any mining, excavation, or landfill, and any change in the use of any building or other structure, or land, or extension of use of land. Landfill: A land disposal site employing an engineered method of disposing of solid waste on land in a manner that minimizes environmental hazards by spreading the solid waste in thin layers, compacting the solid waste to the smallest practical volume and applying and compacting cover material at the end of each operating day. Light industry: Any industrial or manufacturing use having not more than 20 employees and occupying not more than 20,000 square feet of floor and storage area in the aggregate. Lot: An individual parcel of land occupied or to be occupied by a building and its accessory buildings together with the required open spaces, having not less than the minimum area width 6 Marshfield Zoning Regulations Adopted March 1, 2016 and depth required for a lot in the district in which such land is situated, and having the frontage on a street or other means of access as may be determined by the Development Review Board to be adequate as a condition of the issuance of a zoning permit for a building on such land. Lot area: Total area within the property line excluding any part thereof lying within the boundaries of a public street, or proposed public street. Lot coverage: That portion of a lot that is covered by buildings, structures, and man -made improvements on the ground surface, such as surfacing of roads, parking areas and driveways, that prevent the absorption of storm water. Lot line: Any line bounding a lot as herein defined. Lot or road frontage: Distance measured across the width on one side of the lot along the public road or private right-of-way. Man-made pond: A pond, for the purpose of this ordinance, is considered a structure made of earth of other materials and is of embankment and/or excavated type designed with consideration for the particular site and the contributing watershed . This definition is inclusive of the water storage capacity at normal (controlled) elevation, temporary flood storage capacity (between normal controlled elevation and design flow elevation), embankment (fill) and cut slopes, cutoff trench, borrow pits and spoil areas, principal spillway structures (pipe or otherwise) which maintain the normal water level, emergency spillway (vegetated or otherwise) including inlet channel, level control section, and exit channel, and discharge aprons or other erosion control structures for each spillway. Manufactured home: A structure, transportable in one or more sections, which is built on a permanent chassis and is designed for use with or without a permanent foundation when connected to the required utilities. For flood plain management purposes, the term \"manufactured home\" also includes park trailers, travel trailers, and other similar vehicles placed on a site for greater than 180 consecutive days. For insurance purposes the term \"manufactured home\" does not include park trailers, travel trailers, and other similar vehicles. Manufacturing: Any process whereby the nature, size or shape of articles or raw materials are changed, or articles are assembled and/or packaged. Processing of produce where raised shall not be considered manufacturing. Mining: All or any part of the process involved in the mining of minerals by removing overburden and mining directly from the mineral deposits. Mixed-use development: The development of a tract of land or building or structure with two or more different uses, such as (but not limited to) residential, office, manufacturing, retail, public or entertainment, in a compact form. Mobile home: Movable living unit with or without wheels, used for living quarters. Marshfield Zoning Regulations Adopted March 1, 2016 7 Mobile home park: Any parcel of land under a single or common ownership or control which contains, or is designed, laid out or adapted to accommodate, two or more mobile homes, but not including premises for the display or storage of mobile homes. Motel: A building in which lodging is provided and offered to the public, which is open to transient guests, and which access to and from each room or unit is through an exterior door and is not a boarding house, a bed-and-breakfast or an inn as defined herein. Multiple family dwelling: A building providing three or more separate dwelling units. Noncomplying structure: Means a structure or part of a structure that does not conform to the present bylaws but was in conformance with all applicable laws, ordinances, and regulations prior to the enactment of the present bylaws, including a structure improperly authorized as a result of error by the administrative officer. Nonconforming lot: Means lots or parcels that do not conform to the present bylaws covering dimensional requirements but were in conformance with all applicable laws, ordinances, and regulations prior to the enactment of the present bylaws, including a lot or parcel impro perly authorized as a result of error by the administrative officer. Nonconforming use: Means use of land that does not conform to the present bylaws but did conform to all applicable laws, ordinances, and regulations prior to the enactment of the present bylaws, including a use improperly authorized as a result of error by the administrative officer. Non-residential buildings: These are limited to minor structures such as camps, partially enclosed animal shelters, sawmills, directly accessory and necessary to the uses permitted in the district. Open land: Tillable and/or unforested land. Open space: That undeveloped portion of any development parcel which is not occupied by buildings, streets, rights-of-way, driveways, parking spaces, house lots, individual yard areas, or lands so intensively used as to render them, in the judgment of the Development Review Board, inconsistent with this definition. Parcel: A contiguous quantity of land in the possession of an owner. Parking space: Off-street space used for the temporary location of one licensed motor vehicle, which is at least ten feet wide and twenty-two feet long, not including access driveway, and having direct access to a street or approved right of way. Planned unit development: Means one or more lots, tracts, or parcels of land to be developed as a single entity, the plan for which may propose any authorized combination of density or intensity transfers or increases, as well as the mixing of land uses. This plan, as authorized , may deviate from bylaw requirements that are otherwise applicable to the area in which it is located with respect to lot size, bulk, or type of dwelling or building, use, density, intensity, lot coverage, parking, required common open space, or other standards. Professional office: An office occupied by a member of a recognized profession for the conduct 8 Marshfield Zoning Regulations Adopted March 1, 2016 of that profession. Recreation facility: Includes public and private, indoor and outdoor facilities that provide or support recreational activities . Examples of recreational activities covered by this Ordinance include snowmobiling, the use of All Terrain Vehicles, golf driving range and course, skating rink, gymnasium, swimming pool, hobby workshop, trap, skeet and archery range, riding stable, park, tennis court, skiing facility, publicly owned and operated playground, play field, open space and other similar types of recreation. Recreation facility, commercial: A recreation facility operated as a business and open to the public for a fee. Recreation facility, non -commercial: A recreation facility operated as a not -for-profit that focuses on the following low intensity recreational activities: nature study, hiking, cross -country skiing, hunting, fishing and snowshoeing. Retail store: Customary use of enclosed restaurant, cafe, shop and store for the sale of goods at retail, personal service shop and department store, excluding any drive -up service, free- standing retail stand, gasoline service and motor vehicle repair service, new and used car sales and service, and trailer and mobile home sales and service. Ridgeline: The uppermost point of a ridge, hill, cliff, slope, or face . It may be the top of a rock cliff or, where the bedrock is buried, the most obvious break in slope associated with the underlying bedrock. The ridgeline does not include terraces and steps along the face of the slope. Rights of way: A town highway, state highway or a way for motor vehicles that is depicted on a site plan or subdivision plan approved by the Development Review Board. Roads: A right-of-way designated as a Class One, Two, Three or Four Highway in accordance with state law. Setback, Front: The distance between the nearest portion of any structure or proposed structure on a lot and the centerline of the public road. (Amended March 2, 2010) Setback, Side and Rear: The distance between the nearest portion of any structure or proposed structure on a lot and the side and rear property lines. (Amended March 2, 2010) Schools: A public, parochial, or private institution that provides educational instruction to students. Shooting range: The use of land for archery and/or the discharging of firearms for the purposes of target practice, skeet and trap shooting, mock war games or temporary competitions. Excluded for this definition shall be general hunting and unstructured and nonrecurring discharging of firearms on private property. Sign: A structure, building wall, or other outdoor surface, or any device used for visual Marshfield Zoning Regulations Adopted March 1, 2016 9 communication, which is used for the purpose of bringing the subject thereof to the attention of the public, or to display, identify and publicize the name, product, or service of any person. Single and separate ownership: The ownership of property by any person which ownership is separate and distinct from that of any adjoining property. Special exception: Permission, approval or authorization granted by the Development Review Board in situations where provision thereof is made by the terms of this Ordinance. Streams: Those areas where surface waters produce a defined channel or bed. A defined channel or bed is an area that demonstrates clear evidence of the passage of water. The channel or bed need not contain water year -round. This definition does not include artifici ally created ditches, canals or stormwater runoff devices. [Amended 3/3/09] Structure: Means an assembly of materials for occupancy or use, including a building, mobile home or trailer, sign, wall, or fence. Subdivision: Any land, vacant or improved, which is divided or proposed to be divided into two or more lots, parcels, sites, plots, units or interests for the purpose of offer, sale, lease or development. The term includes amended subdivisions and re -subdivisions. The term shall also include the development of a parcel of land as a PUD. Temporary signs: Signs to be maintained for a period not to exceed two weeks and relating to temporary or one time activity to be removed immediately thereafter. Temporary building: Any structure which can be relocated easily, has no permanent foundation, is designed for limited use, and is less than 100 square feet in area . All temporary structures shall be considered an accessory use. (Amended March 2, 2010) Travel trailer park: Any land used or designed to be used as a parking space for more than one (1) travel trailer. Travel trailer: A registered vehicle utilized for camping or other temporary use, and not occupied as a dwelling for over a period of three (3) months in a calendar year. Variance: Permission to depart from the literal requirements of a zoning ordinance . Variances may be granted by the Development Review Board if an applicant meets all of the criteria set forth in 24 V.S.A. S4468. 10 Marshfield Zoning Regulations Adopted March 1, 2016 AND ENFORCEMENT"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "210",
+          "title": "Establishment of Zoning Districts",
+          "page": 14,
+          "paragraphs": [
+            "Marshfield is hereby divided into the following zoning districts as shown on the Official Land Use and Zoning Map: Village Residential District Agricultural and Rural Residential District Forestry and Conservation District Flood Hazard District Water Conservation Overlay District These districts are generally described as follows: Village Residential District This District is defined by the Land Use and Zoning Map that describes the district in the Village of Marshfield and the Village of Plainfield wherein approved public wastewater treatment and disposal and public water supply systems are or will be available to service most of the developable land. According to the Town Plan, the Village Residential District is a growth center for the Town of Marshfield. Agricultural and Rural Residential District The District is defined by the Land Use and Zoning Map that shows the roads included in the district and the areas surrounding these roads. The Agricultural/Rural Residential District includes nearly all land within 600 feet of Town and State maintained highways (with a few minor exceptions). It is characterized, generally, by a mix of residential uses, agricultural and open land, and forested land . According to the Town Plan, new development in the district is generally residential in nature and shall be sited so as to maintain the productive capacity and visual integrity of the landscape. Forestry and Conservation District The Forestry and Conservation District is defined by the Land Use and Zoning Map . It includes all of the land in the Town of Marshfield that is not included in other districts. Where Forestry and Conservation District boundaries are uniformly setback from the existing Town Roads, the setback shall be 600 feet from the public road. The district is a largely unsettled part of Marshfield outside those areas that have traditionally served for residential and agricultural uses. The district provides vital wildlife habitat and significant opportunities for outdoor recreation, in addition to its very important function as a woodland. Flood Hazard District [Amended 3/3/09] The District includes all areas in Marshfield identified as areas of special flood hazard in and on the most current flood insurance studies and maps published by the Department of Homeland Security (DHA), Federal Management Agency (FEMA), National Flood I nsurance Program (NFIP), as provided by the Secretary of the Agency of Natural Resources pursuant to 10 VSA"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "753",
+          "title": ", which are hereby adopted by reference and declared to be part of these regulations. If",
+          "page": 14,
+          "paragraphs": [
+            "Marshfield Zoning Regulations Adopted March 1, 2016 11 the flood insurance maps are modified and areas are removed from the published map, those areas shall be considered as part of the closest adjacent zoning district. These shoreline areas, floodways, and floodplains perform many valuable ecological functions which should not be compromised by development. How land is used within these areas can profoundly influence water quality, aquatic habitats, and landscape aesthetics . In addition, undeveloped floodways and floodplains serve to store floodwaters, reducing the severity of downstream flooding and avoiding property damage. Water Conservation Overlay District [Added 3/3/09] The District includes all lands along all streams (as defined in this ordinance) that are within 75 feet horizontal distance measured from the top of slope, where the channel runs adjacent to a valley wall or high terrace, or top of bank, where the channel has access to its floodplain, or within 125 feet of these waters if t he slopes of the water or area to be developed is 15 degrees or more. The District also includes all lands along ponds over 5 acres in size that are within 75 feet horizontal distance measured from the mean water level, or within 125 feet of these waters i f the slopes of the affected area is 15 degrees or more. All ponds referred to in this section include only those waterbodies that are over 5 acres in size. All ponds less than five acres in size are not regulated under this section. The exact location of boundaries shall be field verified when there is uncertainty regarding district boundaries."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "215",
+          "title": "Zoning Map and Interpretation of Boundaries",
+          "page": 15,
+          "paragraphs": [
+            "The location and boundaries of zoning districts are established as shown on the attached Official Land Use and Zoning Map, which is part of this Ordinance. Regardless of other copies of the Zoning Map which may be published from time to time, the official Zoning Map located in the Town Clerk's office shall be the final authority as to the current zoning status of the land and water areas, buildings and other structures in the Town. If uncertainty exists with respect to the boundary of any zoning districts, the Development Review Board shall determine the boundary."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "220",
+          "title": "Administrative Officer (Zoning Administrator)",
+          "page": 15,
+          "paragraphs": [
+            "An administrative officer, who may hold any other office in the municipality other than membership in the development review board, shall be nominated by the planning commission and appointed by the legislative body for a term of three years as per S4448 o f the Act . The Administrative Officer shall administer this Ordinance literally, and shall not have the power to permit any act or condition which is not in conformance with this Ordinance . An administrative officer may be removed for cause at any time b y the legislative body after consultation with the planning commission The Administrative Officer shall keep on file and available to the public a full and accurate record of all applications received, permits issued, and violations committed during his term of office and those of his predecessor. 12 Marshfield Zoning Regulations Adopted March 1, 2016"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "225",
+          "title": "Zoning Permit and Certificate of Occupancy",
+          "page": 16,
+          "paragraphs": [
+            "No land development (including building extension) may commence unless a zoning permit has been issued by the Administrative Officer (Zoning Administrator). Examples of development that require a zoning permit include, but are not limited to, the following:",
+            "residential, or commercial use;",
+            "(This provision does not include a trailer used at an operational construction site.)",
+            "use, unless it is on the same building footprint, not to exceed existing dimensions (including height) and for the same use as a building or use that already existed on the site;",
+            "construction or enlargement of decks and porches;",
+            "minimum lot size and road frontage requirements of this Ordinance;",
+            "A zoning permit is not required for modifications of building interiors if no change of use is planned, for fences under five feet in height, transparent fences, fences at least 15 feet from a property line, for repairs, or for minor changes (including chimneys, re-roofing or re-siding) which will not affect the exterior dimensions or the height of the structure. A zoning permit is also not required for any temporary or permanent building up to 100 square feet in size and not more than 15-feet in height with the following limitations:",
+            "parcel by the required district lot size, rounded to the closest whole number. In no case shall the number of exempt buildings exceed three (excluding agricultural buildings).",
+            "front of the principal structure on the lot, which ever provides the least restriction.",
+            "Any additional buildings under 100 square-feet, other than permitted above, shall obtain a zoning permit and be required to meet the regular district setbacks. (Amended March 2, 2010) In accordance with 24 VSA S 4413, no zoning permit shall be required for the following activities: Marshfield Zoning Regulations Adopted March 1, 2016 13 (1) Accepted agricultural practices (AAPs), including the construction of farm structures, as those practices are defined by the Secretary of Agriculture, Food and Markets, in accordance with the Act . Written notification, including a sketch plan showing the structure setback distances from road rights -or-way, property lines, and surface waters shall be submitted to the Administrative Officer prior to any construction, as required for AAPs . Such structures shall meet all setback requirements under these regulat ions, unless specifically waived by the Secretary. (2) Accepted management practices (AMPs) for silviculture (forestry) as those practices are defined by the Commissioner of Forests, Parks and Recreation. (3) Power generation and transmission facilities, which are regulated under 30 V.S.A. S248 by the Vermont Public Service Board. Such facilities, however, should conform to policies and objectives specified for such development in the Municipal Plan. (4) Hunting, fishing, and trapping as specified under 24 V.S.A S2295 on private or public land. This does not include facilities supporting such activities, such as firing ranges or rod and gun clubs, which for the purposes of these regulations are defined as recreation facilities. Application Requirements . An application for a zoning permit shall be filed with the Administrative Officer on form(s) provided by the municipality . Required application fees, as prescribed in this ordinance, also shall be submitted with each application. No permit shall be issued unless and until curb cut plans, if applicable, have been approved by the Select Board (for developments on Town roads) or by the Vermont Agency of Transportation (for developments on State roads). In addition, if access to a lot is by a right -of-way, the Development Review Board must approve that right-of-way and access prior to the issuance of the zoning permit. Applications requesting sewage disposal through public facilities shall show written evidence of permission to connect as issued by the Sewage Commission. Applications requesting subsurface sewage disposal shall include a septic design approved and signed by a licensed engineer approved by the Vermont Agency of Natural Resources. Plot Plan. All applications must include a plot plan drawn to scale. Plot plans shall:",
+            "For development requiring one or more approvals from the DRB prior to the issuance of a zoning permit, application information and fees as required for such approvals shall be submitted concurrently with the application for a zoning permit and referred to the Secretary of the DRB. 14 Marshfield Zoning Regulations Adopted March 1, 2016 Issuance A zoning permit shall be issued by the Administrative Officer only in accordance with S 4449 of the Act and the following provisions: (1) Within thirty (30) days of receipt of a complete application, including all application materials, fees, the Administrative Officer shall act to either issue or deny a zoning permit in writing, or to refer the application to the DRB . In accordance with S 4448 and 4449 of the Act, if the Administrative Officer fails to act within the 30 -day period, a permit shall be deemed issued on the 31st day. (2) No zoning permit shall be issued by the Administrative Officer for any use or structure which requires the approval of the DRB or Legislative Body until such approval has been obtained. For permit applications that must be referred to a state agency for re view, no zoning permit shall be issued until a response has been received from the state, or the expiration of 30 days following the submission of the application to the state. (3) If public notice has been issued by the Legislative Body for their first public hearing on a proposed amendment to these regulations, for a period of 150 days following that notice the Administrative Officer shall review any new application filed for compl iance with the proposed amendment and applicable existing bylaws as per 4449(d) of the Act . If the new bylaw or amendment has not been adopted by the conclusion of the 150 day period, or if the proposed bylaw or amendment is rejected, the permit shall be reviewed under all applicable provisions of this bylaw. (4) A zoning permit shall include a statement of the time within which appeals may be taken; and shall require posting of a notice of permit, on a form prescribed by the municipality, within view of the nearest public right-of-way until the time for appeal has expired. The Administrative Officer, within three (3) days of the date of issuance, shall deliver a copy of the zoning permit to the Listers; and shall post a copy of the permit in the municipal offices for a period of fifteen (15) days from the date of issuance. No zoning permit shall take effect until the time for appeal has passed, or in the event that a notice of appeal is properly filed, until final adjudication of the appeal. An approved zoning permit shall be considered void if construction of the proposed use is not commenced within one (1) year from the effective date of the permit as defined by S 4449 of the Act. An approved zoning permit shall be considered valid for a period of six (6) years from the effective date of the permit as defined by S4449 of the Act. The project permitted must be completed within this time period. Issuance of a certificate of occupancy by the zoning administrator shall constitute proof of completion. In cases of undue hardship, the Development Review Board may grant a 3 -year extension of the permit under the original conditions. Marshfield Zoning Regulations Adopted March 1, 2016 15 For projects that require approval from the Development Review Board, after such approval is granted, all zoning permits must be applied for within three (3) years. The fee for such zoning permit shall be established by the Selectmen. The Zoning Administrator shall not issue a zoning permit unless an application fee, plot plan, and other information required by these Regulations have been properly submitted and the use is in direct compliance with these Regulations. No building may be occupied unless a certificate of occupancy has been duly issued by the Administrative Officer, as provided for in S S4449 of the Act. No certificate of occupancy may be issued by the Administrative officer, unless any required sewage disposal system has been properly constructed for this use and the designer certifies it has been installed in accordance with the approved plans. The Administrative Officer shall inspect the property to determine that the premises comply with the conditions of the zoning permit and these Regulations. The Administrative Officer shall perform the site inspection within three working days from written notification by the applicant. There will be no fee for a certificate of occupancy if the certificate is requested within one year of completion of the permitted project. If the Zoning Administrator fails to act with regard to an application for a permit within thirty (30) days of the determination that the application is complete, a permit shall be deemed issued on the thirty-first day . A zoning permit shall become void if the work described therein has not commenced within one year from the date of issuance. No permit issued by the Zoning Administrator or Development Review Board shall be valid until any permit or license required by the State of Vermont has been obtained."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "the construction of any building, structure, or man -made pond, whether for personal,",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "the installation of a mobile home or trailer, whether for residential or storage purposes;",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "the construction of any accessory building, such as a garage, utility shed or barn;",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "the reconstruction of any building, structure, man-made pond, accessory building or other",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "the enlargement, extension or relocation of any existing building, including the",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "the structural alteration of any existing building if the exterior dimensions will be changed;",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "the subdivision of any parcel of land, to assure that all lots so created will conform to the",
+              "use_type": null
+            },
+            {
+              "number": "8",
+              "text": "the change of a seasonal camp into a year round residence.",
+              "use_type": null
+            },
+            {
+              "number": "9",
+              "text": "a change of use as defined in Section 180 of these bylaws.",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "The allowed number of such exempt buildings is determined by dividing the size of the",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "The exempt building(s) shall not be placed within the required front yard setback or in",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "The exempt building(s) shall not be within 10 feet of a side or rear lot line.",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "Be drawn to scale, indicate scale; indicate north",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Show dimensions of parcel",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Show size and location of proposed buildings",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Show setbacks from roads and boundaries",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Show road frontage in feet",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Show any rights-of-way on the property",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "Show any slope which is greater than 15%",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "230",
+          "title": "Penalties",
+          "page": 19,
+          "paragraphs": [
+            "Violations of this Ordinance shall be processed as prescribed in S 4451 and S 4452 of the Act."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "235",
+          "title": "Development Review Board - Powers and Procedures",
+          "page": 19,
+          "paragraphs": [
+            "The Development Review Board (DRB) shall consist of not less than five (5) nor more than nine (9) members appointed by the Legislative Body for specified terms in accordance with S4460 of the Act. The Legislative Body also may appoint alternates, for specified terms, to serve on the Board in situations when one or more members of the Board are disqualified or are otherwise unable to serve. Any member of the Development Review Board may be removed for cause by the Legislative Body upon written charges and after public hearing. The Development Review Board shall have the following powers as prescribed S 4460 of the Act: [Amended 3/3/09 by removing review of development with 75 feet of a waterbody]",
+            "been committed in any order, requirement, decision or determination by the Administrative Officer (Zoning Administrator) in connection with the enforcement of these Regulations. 16 Marshfield Zoning Regulations Adopted March 1, 2016",
+            "approval.",
+            "plan or subdivision.",
+            "whether state development or subdivision applications conform with the Town Plan and will not pose an unreasonable burden on educational or municipal services.",
+            "one parcel and for the extraction of stone, sand and gravel. The Development Review Board shall adhere to the following general procedures: Filing Requirements: An interested person may appeal any decision or act taken, or any failure to act, under this Ordinance by filing a notice of appeal with the Secretary of the Development Review Board. Any interested person as defined in S 4465 of the Act may appeal a decision or act of the Administrative Officer within 15 days of the date of the decision or act by filing a notice of appeal with the Secretary of the DRB and by filing a copy of the notice with the Administrative Officer. (1) The Board shall hold a public hearing on a notice of appeal within 60 days of its filing, as required under S4468 of the Act. The Board shall give public notice of the hearing, and mail a copy of the hearing notice to the appellant not less than 15 days prior to the hearing date. (2) The Board may reject an appeal or request for reconsideration without hearing as per S4470 of the Act, and render a decision which shall include findings of fact within 10 days of the filing of a notice of appeal, if the Board determines that the issues raised by the appellant have been decided in an earlier appeal or are based on substantially or materially the same facts by or on behalf of the appellant. (3) In accordance with S 4468 of the Act , all appeal hearings shall be open to the public and the rules of evidence applicable at these hearings shall be the same as the rules of evidence applicable in contested cases in hearings before administrative agencie s as set forth in state statutes. Any interested person or body may appear and be heard in person or be represented Marshfield Zoning Regulations Adopted March 1, 2016 17 by an agent or attorney at the hearing. The hearing may be adjourned by the Board from time to time, provided that the date and place adjourned hearing shall be announced at the hearing. (4) A decision on appeal shall be rendered within 45 days after the final adjournment of the hearing, as required under S 4464(b) of the Act . The decision shall be sent by certified mail to the appellant within the 45 day period . Copies of the decision shall be mailed to every person or body appearing and having been heard at the hearing, and filed with the Administrative Officer and the Municipal Clerk as part of the public records of the municipality. Failure of the DRB to issue a decision within this 45 day period shall be deemed approval and shall be effective on the 46th day. Interested Persons The definition of an interested person under the Act includes the following: (1) the Town of Marshfield or an adjoining municipality; (2) a person owning or occupying property in the immediate neighborhood of a property which is the subject of a decision or act taken under these regulations, who can demonstrate a physical or environmental impact on the person's interest under the criteria reviewed, and who alleges that the decision or act, if confirmed, will not be in accord with the policies, purposes or terms of the plan or regulations of the municipality; (3) any ten (10) voters or property owners within the municipality who, by signed petition to the DRB, allege that any relief requested by a person under this section, if granted, will not be in compliance with the policies, purposes or terms of the plan or re gulations of the municipality; and (4) any department or administrative subdivision of the state owning property or any interest therein within the municipality or adjoining municipality, and the Vermont Agency of Commerce and Community Development. Notice of Appeal DRB A notice of appeal filed under this section shall be in writing and include the following information, in accordance with S 4466 of the Act: (1) the name and address of the appellant; (2) a brief description of the property with respect to which the appeal is taken; (3) a reference to applicable provisions of these regulations; (4) the relief requested by the appellant, including any request for a variance from one or more provisions of these regulations; and (5) the alleged grounds why such relief is believed proper under the circumstances. Appeals to Environmental Court In accordance with S4471 of the Act, an interested person who has participated in a regulatory 18 Marshfield Zoning Regulations Adopted March 1, 2016 proceeding of the DRB may appeal a decision rendered by the DRB, within 30 days of such decision, to the Vermont Environmental Court . Appeals to Environmental Court shall also meet the following requirements: (1) \"Participation\" in a DRB proceeding shall consist of offering, through oral or written testimony, evidence of a statement of concern related to the subject of the proceeding. (2) The notice of appeal shall be filed by certified mailing, with fees, to the Environmental Court and by mailing a copy to the Municipal Clerk, or the Administrative Officer if so designated, who shall supply a list of interested persons (including the appli cant if not the appellant), to the appellant within five (5) working days . Upon receipt of the list of interested persons, the appellant shall, by certified mail, provide a copy of the notice of appeal to every interested person. If any one or more of those persons are not then parties to the appeal, upon motion they shall be granted leave by the court to intervene. This provision shall not apply to determinations made by the Development Review Board with respect to local Act 250 review of municipal impacts which are not subject to appeal in accordance with the S 4471(d) of the Act."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "To hear and decide appeals taken under this Ordinance, where it is alleged that an error has",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "To hear and grant or deny a request for a variance from requirements of these Regulations",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "To approve or deny applications for variances of regulations of flood hazard areas",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "To hear and grant or deny and impose conditions on a request for a conditional uses.",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "To hear and grant or deny and impose conditions on requests for site plan approval.",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "To hear and grant or deny and impose conditions on requests for subdivision and site plan",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "To hear and grant or deny and impose conditions on applications for PUDs.",
+              "use_type": null
+            },
+            {
+              "number": "8",
+              "text": "Require the applicant to post a bond to ensure faithful performance of conditions to a site",
+              "use_type": null
+            },
+            {
+              "number": "9",
+              "text": "To review municipal impacts of development undergoing the Act 250 process, to determine",
+              "use_type": null
+            },
+            {
+              "number": "10",
+              "text": "To review any proposals for the construction of a road or a driveway to serve more than",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "240",
+          "title": "Variances",
+          "page": 22,
+          "paragraphs": [
+            "In the case of any appeal wherein a variance of the provisions of a zoning regulation is the relief requested, the Development Review Board may grant the variance if all the following facts are found by the Board and such findings are specified in its decision:",
+            "narrowness or shallowness of lot size or shape, or exceptional topographical or other physical conditions peculiar to the particular property, and that the unnecessary h ardship is due to such conditions, and not the circumstances or conditions generally created by the provisions of the zoning regulation in the neighborhood or district in which the property is located.",
+            "property can be developed in strict conformity with the provisions of the zoning regulation and that the authorization of a variance is, therefore, necessary to enable the reasonable use of the property.",
+            "or district in which the property is located, nor substantially or permanently impair the appropriate use or development of adjacent property, nor be detriment al to the public welfare, nor reduce access to renewable energy resources.",
+            "and will represent the least modification possible of the zoning regulation and of the Plan. Marshfield Zoning Regulations Adopted March 1, 2016 19 In rendering a decision in favor of the appellant in a request for a variance to the Zoning Regulations, the Development Review Board may attach such conditions to such variances as it may consider necessary and appropriate under the circumstances to implement the purposes of this Ordinance and the Marshfield Town Plan. In lieu of a variance, The Development Review Board may grant a waiver from dimensional requirements when:",
+            "reasonably satisfied without a waiver, or",
+            "without a waiver, or",
+            "of development on the parcel, irregular lot configuration, or restrictions of existing topography. In all cases, the waiver:",
+            "The applicant may propose, or the Development Review Board may require, mitigation of any affect through design, screening, or other remedy as part of the waiver approval."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "That there are unique physical circumstances or conditions, including irregularity,",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "That because of such physical circumstances or conditions, there is no possibility that the",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "That such unnecessary hardship has not been created by the appellant.",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "That the variance, if authorized, will not alter the essential character of the neighborhood",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "That the variance, if authorized, will represent the minimum variance that will afford relief",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "Fire safety, disability accessibility, or other building code requirements can not be",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Energy conservation and renewable energy structures can not be reasonably developed",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "The waiver is necessary to allow for reasonable expansions of existing uses, or",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "The waiver is necessary to allow for construction of new uses, given existing configuration",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "Must be found to be in conformance with the municipal plan and state planning goals.",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Shall not change the overall character of the surrounding area or neighborhood.",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Shall not exceed 5% of the required lot size.",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Shall not exceed 10% of the required setbacks and height restrictions.",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "245",
+          "title": "Conditional Uses",
+          "page": 23,
+          "paragraphs": [
+            "No zoning permit shall be issued by the Administrative officer for any use or structure that requires a conditional use permit in these Regulations until the Development Review Board grants such approval. In considering this action, the Development Review Board shall make findings on the general and specific standards set forth in the Act, hold hearings and attach conditions as provided for in the Act. A new Conditional Use permit is required for any change from one business operation to another (for example, from a hardware store to a video rental store) regardless of when it was established. The addition or change of accessory uses traditionally found within a particular business operation is not a considered a change from one business operation to another unless it substantially changes the nature of the business. The Administrative Officer shall make the determination whether there is a change in business operation or a change in accessory uses requiring conditional use review. (Amended March 2, 2010) The general and specific standards are as follows: 20 Marshfield Zoning Regulations Adopted March 1, 2016 General Standards The proposed use will not have an undue adverse impact upon:",
+            "district within which the project is located, and specifically stated policies and standards of the municipal plan;",
+            "Specific Standards Specific standards include the following:",
+            "methods of operation as may in the opinion of the Board be reasonably required to prevent or reduce fumes, gas, dust, smoke, odor, noise, vibration, or similar nuisance.",
+            "proposed use and surrounding properties.",
+            "character.",
+            "Health specifications may be required.",
+            "setback from road may be required to accommodate the use.",
+            "restricted to maintain the character of the neighborhood."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "The capacity of existing or planned community facilities;",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "The character of the area affected as defined by the purpose or purposes of the zoning",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Traffic on roads and highways in the vicinity;",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Bylaws then in effect;",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "The intrinsic capability of the land to support the use;",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Utilization of renewable energy resources; and",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "The goals and objectives of the Town Plan.",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "The Board may require the installation, operation, and maintenance of such devices and/or",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "The Board may impose such conditions regarding the extent of open spaces between the",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Landscaping and fencing may be required as desirable to maintain the zoning district",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Adequacy of vehicular circulation between site and roads, parking and loading facilities.",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Water supply and sewage disposal systems designed and installed to State Department of",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Up to triple minimum lot size, triple distance from adjacent or nearby uses, and triple",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "Design and location of signs, outdoor lighting, structures, and service areas may be",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "250",
+          "title": "Site Plan Approval",
+          "page": 24,
+          "paragraphs": [
+            "No zoning permit shall be issued by the Administrative Officer for any use or structure except one Marshfield Zoning Regulations Adopted March 1, 2016 21 or two family dwellings, dwelling accessory use , camps or agricultural structures until the Development Review Board grants site plan approval . The Board shall conform to requirements of S 4416 of the Act before acting upon any application, and may impose appropriate conditions and safeguards. An applicant for site plan approval is required to submit two sets of maps and supporting data to the Board which shall include the following: Site plan drawn to scale showing: existing features, contours, structures, easements, and proposed structure locations and land use areas, architectural design of proposes structures, street, driveways circulation, parking and loading spaces, pedestrian walks, landscaping, including site grading and screening as appropriate to the site, sign type and location, outdoor lighting, site distances, a locus map, a north arrow, and any other information determined appropriate by the Development Review Board in the specific instance. Site plan review may be combined with conditional use review."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "251",
+          "title": "Site Plan Review Procedure",
+          "page": 25,
+          "paragraphs": [
+            "The Board shall review the site plan map and supporting data before approval or approval with stated conditions, or disapproval, is given, and taking into consideration the following objectives:",
+            "proposed signs and outdoor lighting, in regard to achieving maximum compatibility with and protection of adjacent property.",
+            "The Development Review Board shall conduct its site plan review at a public hearing . The Development Review Board shall act to approve or disapprove any site plan within forty-five (45) days after the date upon which it receives the proposed plan, and failure to so act within such period shall be deemed approval as per S 4464 of the Act."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Compatibility between the proposed use and existing adjacent uses.",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Maximum safety of vehicular and pedestrian circulation between the site and roads.",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Adequacy of circulation parking and loading facilities.",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Adequacy of landscaping, screening, setbacks and architectural design, and location of all",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "The protection of the utilization of renewable energy resources",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "255",
+          "title": "Planned Unit Development",
+          "page": 25,
+          "paragraphs": [
+            "Applicability In accordance with the provisions set forth in S4417 of the Act, and where permitted in the zoning districts, the modification of the district regulations by the Development Review Board is permitted simultaneously with subdivision approval under the following procedures. 22 Marshfield Zoning Regulations Adopted March 1, 2016 Purpose Planned unit developments permit flexibility in the application of land development regulations for the purposes of S4302 of the Act and in conformance with the municipal plan. Purposes of PUD's include:",
+            "promote a mix of residential uses or nonresidential uses, or both, especially in downtowns, village centers, new town centers, and associated neighborhoods.",
+            "housing.",
+            "character of surrounding rural lands.",
+            "of buildings, use of open areas, provision of circulation facilities, including pedestrian facilities and parking, and related site and design considerations that will best achieve the goals for the area as articulated in the municipal plan and bylaws within the particular character of the site and its surroundings.",
+            "conservation in the municipal plan and bylaws, such as the preservation of agricultural land, forest land, trails, and other recreational resources, critical and sensitive natural areas, scenic resources, and protection from natural hazards.",
+            "redevelopment. Application Procedure A site plan depicting the proposed PUD shall be submitted to the Development Review Board with a preliminary subdivision plan application showing the location, height and spacing of buildings, open spaces and their landscaping, streets, driveways and off-street parking spaces, unique natural or manmade features, and physical conditions of the site, including waterways, floodplains, and wetlands, accompanied by a statement setting forth the nature of all proposed modifications, changes or supplementation's of existing zoning regulations. The Development Review Board shall hold a preliminary hearing to determine whether to authorize the preparation of a final PUD plan . The Development Review Board may authorize preparation of a final PUD plan if it determines that the proposed PUD plan is consistent with the purpose of PUD's set forth in this Ordinance and that the plan on its face meets the minimum specific requirements for PUD's set forth in this Ordinance. The Development Review Board may hold additional preliminary hearings prior to appr oving the proposed PUD plan . If the Development Review Board authorizes the preparation of a final PUD plan, the Development Review Board shall hold a public hearing on the proposed PUD plan . The Development Review Board shall act to approve or disapprove the proposed PUD plan within 45 days after the public hearing on the final PUD plan. Marshfield Zoning Regulations Adopted March 1, 2016 23",
+            "Permitted Uses Uses shall be limited to those permitted and conditional uses within the district in which the PUD is proposed. Standards for Review The following general standards shall be met in order for the Development Review Board to approve the application:",
+            "Village Districts, one unit per two acres in the Agricultural & Rural Residential District, and one unit per ten acres in the Forestry & Conservation District. The minimum requirement for open space shall be fifty percent (50%) of the total acreage of the PUD, including the land where the development is located. The overall density of the project shall not exceed the number of residential, commercial, industrial, or other units permitted in the Development Review Board's ju dgment if the land were subdivided into lots in accordance with the district regulations",
+            "project site, and the development plan makes appropriate provision for preservation of streams and stream banks, steep slopes, wet areas, soils unsuitable for develop ment, forested areas and unique natural and manmade features.",
+            "residents of the project.",
+            "industrial properties to be developed in a given calendar year shall be submitted for Development Review Board approval.",
+            "Town standards.",
+            "front of the front façade line of non-residential buildings.",
+            "reinforce the village green concept of the recreational fields.",
+            "The following specific standards shall be met in order for the Development Review Board to 24 Marshfield Zoning Regulations Adopted March 1, 2016 approve the application:",
+            "feet unless otherwise waived by the Development Review Board.",
+            "PUD, structures on the perimeter of the PUD shall be set back 40 feet, except where it borders the street or road, where it must be set back 70 feet from the center of the traveled portion of all roads except 80 feet from the center of the traveled portion of a 4 rod road, and screening may be required.",
+            "State regulations.",
+            "including the land where development is located.",
+            "suitable for agriculture or forestry uses.",
+            "usable for agriculture or forestry . To the extent practicable, such land shall not be encumbered by fences unless the fences are part of an ongoing agricultural operation.",
+            "Review Board may authorize a density bonus of up to 25 percent of the number of building sites otherwise allowed in exchange for creating small individual building sites, if so doing will further the purposes of this section.",
+            "the edge of the right-of-way, and arranged to create a unified street facade and to define a public space within the Village.",
+            "Open Space Requirement The land area not allocated to buildings and streets shall be permanently reserved as open space . This area shall be in such a condition, size and shape as to be readily usable for recreation or conservation. Such land must be reserved by one of the following means:",
+            "membership in said corporation shall be mandatory for all residents of the development. In case of corporate ownership, the developer shall include in the deed to the owners of the dwelling units the membership stipulation and the beneficial right in the use of open land. Marshfield Zoning Regulations Adopted March 1, 2016 25",
+            "require the land to be permanently conserved as open space.",
+            "Review Board that provide for permanent conservation of the open spaces. Signs in PUD's The PUD plan shall include a sign plan for all signs. In approving the sign plan, the Development Review Board shall require that the following standards be met.",
+            "necessarily identical) design;"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "To encourage compact, pedestrian -oriented development and redevelopment, and to",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "To implement the policies of the municipal plan, such as the provision of affordable",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "To encourage any development in the countryside to be compatible with the use and",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "To provide for flexibility in site and lot layout, building design, placement and clustering",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "To provide for the conservation of open space features recognized as worthy of",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "To provide for efficient use of public facilities and infrastructure.",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "To encourage and preserve opportunities for energy-efficient development and",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "The PUD is consistent with the goals of the Town Plan.",
+              "use_type": "by_right"
+            },
+            {
+              "number": "2",
+              "text": "The overall density of the project does not exceed one unit per 10,000 square feet in the",
+              "use_type": "by_right"
+            },
+            {
+              "number": "3",
+              "text": "The PUD is an effective and unified treatment of the development possibilities on the",
+              "use_type": "by_right"
+            },
+            {
+              "number": "4",
+              "text": "Mixed uses are arranged so as to be compatible and insure visual and aural privacy for",
+              "use_type": "by_right"
+            },
+            {
+              "number": "5",
+              "text": "A construction schedule indicating the proposed mixture of residential, commercial and",
+              "use_type": "by_right"
+            },
+            {
+              "number": "6",
+              "text": "Whenever feasible, a water storage pond should be provided for adequate fire protection.",
+              "use_type": "by_right"
+            },
+            {
+              "number": "7",
+              "text": "The PUD layout shall include connecting roads that shall be constructed in accordance with",
+              "use_type": "by_right"
+            },
+            {
+              "number": "8",
+              "text": "Off-street parking serving the PUD shall be located in side or rear yards and shall not be in",
+              "use_type": "by_right"
+            },
+            {
+              "number": "9",
+              "text": "Landscaping shall be provided to create a pleasant streetscape and, where appropriate,",
+              "use_type": "by_right"
+            },
+            {
+              "number": "10",
+              "text": "Utilities shall be placed underground when feasible.",
+              "use_type": "by_right"
+            },
+            {
+              "number": "1",
+              "text": "District regulations on height shall be met, and spacing between main buildings shall be 80",
+              "use_type": "by_right"
+            },
+            {
+              "number": "2",
+              "text": "To insure adequate visual and aural privacy for existing or proposed uses adjacent to the",
+              "use_type": "by_right"
+            },
+            {
+              "number": "3",
+              "text": "Adequate water supply and sewage disposal facilities shall be provided in accordance with",
+              "use_type": "by_right"
+            },
+            {
+              "number": "4",
+              "text": "The minimum requirement for open space shall be 50% of the total acreage of the PUD,",
+              "use_type": "by_right"
+            },
+            {
+              "number": "5",
+              "text": "The PUD shall be designed to allow significant portions of the land to be kept in tracts",
+              "use_type": "by_right"
+            },
+            {
+              "number": "6",
+              "text": "It is the intent of these regulations that land not used for building sites be kept open and",
+              "use_type": "by_right"
+            },
+            {
+              "number": "7",
+              "text": "For the purpose of encouraging higher density (cluster) development, the Development",
+              "use_type": "by_right"
+            },
+            {
+              "number": "8",
+              "text": "Buildings developed in the Village Districts shall be set back no more than 20 feet from",
+              "use_type": "by_right"
+            },
+            {
+              "number": "9",
+              "text": "Buildings shall be no more than 3 stories in height, or 35 feet, whichever is less.",
+              "use_type": "by_right"
+            },
+            {
+              "number": "1",
+              "text": "Held in corporate ownership by the owners of the units within the development. However,",
+              "use_type": "by_right"
+            },
+            {
+              "number": "2",
+              "text": "By being donated to a non -profit land trust, with deed restrictions stipulated that will",
+              "use_type": "by_right"
+            },
+            {
+              "number": "3",
+              "text": "By legal deed restrictions or easements or other means acceptable to the Development",
+              "use_type": "by_right"
+            },
+            {
+              "number": "1",
+              "text": "All signs shall be consistent with an overall sign plan and shall be of a consistent (but not",
+              "use_type": "by_right"
+            },
+            {
+              "number": "2",
+              "text": "Free-standing signs shall not be allowed in the Village Residential Districts.",
+              "use_type": "by_right"
+            },
+            {
+              "number": "3",
+              "text": "In the Village Residential Districts, signs may be located closer to roads than specified in",
+              "use_type": "by_right"
+            }
+          ]
+        },
+        {
+          "number": "4.2",
+          "title": "of these Regulations, but no less than ten (10) feet from the edge of the",
+          "page": 29,
+          "paragraphs": [
+            "right-of-way.",
+            "facades may be approved, provided: a. The sign contains no more than four (4) square feet of area; b. The lowest point of the sign shall not be less than eight (8) feet above grade or walkway, which ever is highest; c. The sign projects no more than four (4) feet from the building facade on which it is mounted."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "4",
+              "text": "In the Village Residential Districts, a sign designed to project at 90 degrees from building",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "275",
+          "title": "Construction Approved Prior to Adoption or Amendment of Regulations",
+          "page": 29,
+          "paragraphs": [
+            "Nothing contained in these Regulations shall require any change in plans or construction of a non-complying structure for which a building permit has been issued."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "280",
+          "title": "Non-Conforming Uses",
+          "page": 29,
+          "paragraphs": [
+            "The following provisions shall apply to all non -conforming uses as described in Section 180 Definitions."
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The non -conforming use has not been abandoned or discontinued based on the",
+              "paragraphs": [
+                "following criteria: i. For residential uses, abandonment or discontinuance shall be defined as no longer being maintained as a habitable structure for a period of at least three years, regardless of evidence of intent to re-establish such use. A habitable 26 Marshfield Zoning Regulations Adopted March 1, 2016 structure must be structurally intact with doors and windows in place and have mechanical systems including functioning plumbing and working heat. ii. For all other uses, such as commercial, abandonment or discontinuance shall be defined as no longer being used for that use or intended purpose for a period of at least one year, regardless of evidence of intent to re-establish such use. iii. There may be reasons beyond the owners control that would allow for a one year extension of these time periods, only through an appeal to the DRB . There is also the possibility for a one time one year renewal of the extension, only through an appeal to the DRB . Criteria to be considered in such an appeal would be military service, medical hardship, and death, inheritance, estate management, bankruptcy, or legal issues."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The non -conforming use may have maintenance and repair performed on the",
+              "paragraphs": [
+                "structures, provided such action meets all other applicable zoning regulations."
+              ],
+              "items": []
+            },
+            {
+              "label": "C",
+              "title": "The non-conforming use may be expanded, altered, or reconstructed, only under",
+              "paragraphs": [
+                "the following criteria: i. For residential uses, building expansion is allowed for the primary dwelling and accessory buildings in the same location . Any new building location must be within 166 feet of the primary dwelling, which limits such development to a 2 acre circular homestead centered around the existing dwelling. All other applicable zoning regulations must be adhered to. ii. For all other uses, building expansion is allowed, provided that it does not exceed 25% of its building footprint size as it existed upon the effective date of this bylaw (March, 2007) . All other applicable zoning regulations must be adhered to, including applicable DRB reviews."
+              ],
+              "items": []
+            },
+            {
+              "label": "D",
+              "title": "The non-conforming use may not be relocated, except through an approval by the",
+              "paragraphs": [
+                "DRB considering the following criteria: i. For uses requested to be relocated within the Forest District, if the relocation moves the use closer to the road or does not increase the visual impact from public roads then it may be considered. ii. For uses requested to be relocated within the Flood Plain District, if the relocation moves the use to a safer building site then it may be considered."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "The nonconforming use damaged by fire, flood, explosion or other casualty may be",
+              "paragraphs": [
+                "rebuilt and used as before . The permit to rebuild the structure must be obtained within 3 years of the casualty.",
+                "as the non -conforming use, regardless of evidence of intent to re -establish such use . Therefore, a change to a conforming use shall release all rights of the previous non - conforming use. For example, in the Forest District where camps are conforming uses and full-time residences are non -conforming uses, if a structure that was once used as a residence is now used as a camp, it can not be used again as a residence. Marshfield Zoning Regulations Adopted March 1, 2016 27"
+              ],
+              "items": [
+                {
+                  "number": "2",
+                  "text": "Any conforming use that was previously a non-conforming use, shall not be re-established",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Other provisions of this ordinance notwithstanding:",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "A",
+              "title": "A non -residential nonconforming use may be altered beyond the requirements",
+              "paragraphs": [
+                "stated above, only with DRB approval in order to address considerations of energy, safety, environment and health."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "A nonconforming use may be changed to another non -conforming use that is not",
+              "paragraphs": [
+                "an increased use, only with the approval of the DRB . The DRB will consider new non-conforming uses that have a lesser impact. Increased Use shall be defined as change in use or structure whereby: i. The proposed use generates more traffic, including truck deliveries, than the current non-conforming use or other permitted uses within the district. ii. The proposed use generates more odor, noise, vibration, smoke, dust, heat or glare than the current non-conforming use or other permitted uses within the district."
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Any non-conforming use may be continued, provided:",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "281",
+          "title": "Non-Conforming Structures",
+          "page": 31,
+          "paragraphs": [
+            "The following provisions shall apply to all non-conforming structures as described in Section 180 Definitions.",
+            "non-conformance. All other applicable zoning regulations must be adhered to."
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "The non -conforming structure may have maintenance and repair performed on the",
+              "paragraphs": [
+                "structures, provided such action meets all other applicable zoning regulations."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "The nonconforming structure damaged by fire, flood, explosion or other casualty may",
+              "paragraphs": [
+                "be rebuilt and used as before . The permit to rebuild the structure must be obtained within 3 years of the casualty."
+              ],
+              "items": [
+                {
+                  "number": "3",
+                  "text": "Other provisions of this ordinance notwithstanding:",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "A",
+              "title": "A nonconforming structure may be altered beyond the requirements stated above only",
+              "paragraphs": [
+                "with DRB approval in order to address considerations of energy, safety, environment and health. 28 Marshfield Zoning Regulations Adopted March 1, 2016"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Any non-conforming structure may be extended in any direction that does not increase the",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Any non-conforming structure may be continued indefinitely, provided:",
+              "use_type": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "III",
+      "title": "GENERAL REQUIREMENTS",
+      "sections": [
+        {
+          "number": "300",
+          "title": "Equal Treatment of Housing",
+          "page": 32,
+          "paragraphs": [
+            "No bylaw in this ordinance shall have the effect of excluding housing that meets the needs of the population as determined in the housing element of its municipal plan as required in S 4412(1) of the Act. Except as provided in S 4412(1) of the Act, this ordinance shall not have the effect of excluding mobile homes, modular housing, or prefabricated housing from the municipality, except upon the same terms and conditions as conventional housing is excluded. As per S4412(1) of the Act, this ordinance shall not have the effect of excluding mobile home parks, as defined in 10 V.S.A. chapter 153, from the municipality. Such mobile home parks shall be reviewed as PUD's in accordance with Section 255 of this Ordinance. As per S4412(1) of the Act, a residential care home or group home to be operated under state licensing or registration, serving not more than eight persons who have a handicap or disability as defined in 9 V.S.A. S 4501, shall be considered by right to con stitute a permitted single -family residential use of property."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "301",
+          "title": "Existing Small Lots",
+          "page": 32,
+          "paragraphs": [
+            "Any lot in individual or separate nonaffiliated ownership from surrounding properties in existence on the effective date of these Regulations may be developed for the purposes permitted in the district in which it is located, even though not conforming to minimum lot size requirements."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "302",
+          "title": "Required Frontage on, or Access to, Public Roads",
+          "page": 32,
+          "paragraphs": [
+            "No land or building development shall be permitted on lots which do not have the required frontage for their district on a public road. In the absence of frontage, access to such a road by a permanent easement or right of way at least 50 feet in width is r equired. No land or building development shall be permitted on lots created by subdivision after the effective date of the ordinance which do not have the required frontage on a public road or access to such road by permanent easement or right of way at least 50 feet in width."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "303",
+          "title": "Slopes",
+          "page": 32,
+          "paragraphs": [
+            "No land development is allowed on slopes greater than 25%. A conditional use permit is required from the Development Review Board for land development on slopes between 15% and 25%. The application of slope criteria is limited to the area of the parcel where the proposed development and use activities will occur. Marshfield Zoning Regulations Adopted March 1, 2016 29"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "304",
+          "title": "Protection of Home Occupations",
+          "page": 33,
+          "paragraphs": [
+            "No regulation herein is intended to infringe upon the right of any resident to use a minor portion of a dwelling for an occupation which is customary in residential areas and which does not have an undue adverse impact on the character thereof. A family child care home serving no more than six full -time children and four part -time children, as defined in subdivision 33 V.S.A. S 4902(3)(A), shall be considered to constitute a permitted home occupation. The home occupation is carried on principally and wholly within the walls of a legally established dwelling and occupies 50% or less of the floor area of the dwelling, or may occupy the entire floor space of an accessory building. Usable floor space will b e defined as including multiple levels except for attic space. (Garages which are attached or unattached will be defined as accessory buildings.) The home occupation must satisfy the following criteria:",
+            "They must be made to look like an agricultural building (barn, agricultural shed, etc.), or in the case of a residential structure they must be made to look like a home or garage.",
+            "beyond those usually present in residential neighborhoods.",
+            "dwelling and not more than two non-residents.",
+            "period of not more than 90 days in any given year.",
+            "a. All rubbish and refuse are stored in suitable containers. b. All storage not stored in suitable containers must be considered temporary. c. All stored material must be screened from view. Any occupation that cannot meet the above criteria must obtain a conditional use permit from the Development Review Board."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Building or buildings must not change the character of the agricultural and residential area.",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "The home occupation shall not produce levels of noise, vibration, smoke, dust, odors",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "The home occupation shall be carried on only by members of the family residing in the",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "For seasonal workloads, home occupations may hire up to eight non-family members for a",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Outdoor storage is permitted under the following conditions:",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "305",
+          "title": "Accessory Apartments",
+          "page": 33,
+          "paragraphs": [
+            "As per S4412(1) of the Act, this ordinance shall not have the effect of excluding as a permitted use one accessory dwelling unit that is located within or appurtenant to an owner -occupied single- family dwelling. An accessory dwelling unit means an efficien cy or one-bedroom apartment that is clearly subordinate to a single-family dwelling, and has facilities and provisions for independent living, including sleeping, food preparation, and sanitation, provided there is compliance with all the following: 30 Marshfield Zoning Regulations Adopted March 1, 2016 (i) The property has sufficient wastewater capacity. (ii) The unit does not exceed 30 percent of the total habitable floor area of the single -family dwelling. Habitable floor area shall mean that area defined by the Town Lister as livable area of the dwelling. (iii) Applicable setback, coverage, and parking requirements specified in the bylaws are met."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "340",
+          "title": "Off-Road Parking and Loading Space Requirements",
+          "page": 34,
+          "paragraphs": [
+            "Off-road parking spaces shall be provided at least as set forth below. A required driveway shall be at least twenty feet in width, except for one and two family dwelling uses . A parking space shall be at least nine feet by twenty-two feet.",
+            "Multiple-family dwelling: one parking space for each unit. Residential Professional Office: one parking space plus one additional parking space for every three hundred square feet of office space.",
+            "seats, one parking space shall be provided for every two hundred square feet of floor space.",
+            "of office space.",
+            "(250) square feet of floor space in a retail store or shop, department store or supermarket, office building or wholesale establishment; or for each fifty (50) squ are feet devoted to patron use in a restaurant, care, or tea room, or for each one thousand (1,000) square feet of floor space or fraction thereof in any commercial building not herein above enumerated; or for each commercial purpose. In addition, one parking space shall be provided for each vehicle that is used in the enterprise.",
+            "loading spaces if the Commission finds the minimum spaces are not sufficient, or that the requirement is too high."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Residential: One-family dwelling, two -family dwelling: one parking space for each unit .",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Hotel, Motel, Tourist Home, Boarding House: One space for each unit.",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Places of Public Assembly: One parking space for every five seats; where there are no",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Business, Professional and Medical Offices: one space for every two hundred square feet",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Commercial, Business and Industrial Uses: One parking space for every two hundred fifty",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Other Uses: as required by the Development Review Board.",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "The Development Review Board may require additional or fewer off -street parking and",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "350",
+          "title": "Signs",
+          "page": 34,
+          "paragraphs": [
+            "Purpose Marshfield Zoning Regulations Adopted March 1, 2016 31 The purpose of this section is to regulate all exterior signs and interior signs that are visible from the exterior in the Town of Marshfield. These regulations are to encourage the use of signs which are: ▪ Clear, legible, and maintained in good and safe repair. ▪ Not distracting or confusing to vehicular traffic. ▪ Compatible with the character of the town, as defined in the Marshfield Town Plan. A Zoning Permit shall be obtained prior to the erection of any sign except those that are exempt or temporary as described specifically below. Sizes The amount of total sign square footage allowed per business will depend on the zoning district in the Town of Marshfield where they exist: ▪ In the village district and on Route 2 between the Villages, the allowable signage per business will be limited to sixty-four (64) square feet. ▪ In the rural district (except on Route 2) the allowable signage per business will be limited to forty-eight (48) square feet. ▪ In the floodplain district (except on Route 2) the allowable signage per business will be limited to thirty-two (32) square feet. ▪ In the forest/conservation district the allowable signage per business will be limited to thirty-two (32) square feet. ▪ No premises used primarily as a residence shall contain more than eight (8) square feet of signage. ▪ Two-sided signs that have the same sign on each side will only have to count one side toward their square footage limit. ▪ No individual sign shall contain more than thirty-two (32) square feet of area on one side. Businesses The amount of sign square footage allowed for each zoning district in the Town of Marshfield is for each individual business on the premises. If there are multiple businesses on the premises then each individual business will be allowed the sign square footage as stated above. ▪ The Marshfield Development Review Board (DRB) will need to approve the number of businesses on the premises through a Site Plan Review. 32 Marshfield Zoning Regulations Adopted March 1, 2016 ▪ If multiple businesses do exist then each business will be allowed their signage, but these sign square footage limits may not be shared across the businesses. Exempt Signs Signs that fall into this category are exempt from permitting and do not count in any of the sign square footage calculations stated above . However they are required to not be distracting or confusing to vehicular traffic and to be maintained in good and safe repair. They are also required to comply with Section 354. ▪ Historic signs - defined as signs that are greater than 30 years old, as of the date of implementation (March 4th, 2003) of these new regulations. ▪ Informational/directional signs - defined as signs that provide direction, instruction, or convenience to the public . For example, entrance/exit, restrooms, freight entrance, open/closed. Each of these signs are limited to no more than three (3) square feet (per side) and are not allowed to have any advertisement on them. ▪ Home occupation signs - limited to eight (8) square feet (per side) ▪ Political signs displayed on private property ▪ Real estate for sale signs - limited to two (2) signs posted on the premises provided each sign does not exceed six (6) square feet (per side) ▪ Agricultural signs ▪ Hunting, fishing, trespassing, safety zone or other property control signs ▪ Government traffic control Temporary Signs Signs that fall into this category are exempt from permitting and do not count in any of the sign square footage calculations stated above . However they are required to not be distracting or confusing to vehicular traffic and to be maintained in good and safe repair . Temporary signs are limited to eight (8) square feet (per side), and are allowed to be in place for no more than 1 month during each calendar year . More restrictive time limits may be noted below . Each business is limited to two (2) temporary signs. They are also required to comply with Section 354. ▪ Portable signs or signboards, construction site signs, public announcement banners, public hearing notice signs ▪ Tag sale signs - should be displayed no more than seven (7) days prior to the sale and should be taken down immediately afterwards. Marshfield Zoning Regulations Adopted March 1, 2016 33"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "354",
+          "title": "Regulations for Permitted, Exempt, and Temporary Signs",
+          "page": 37,
+          "paragraphs": [
+            "▪ No sign shall be allowed which is not on the premises of the activity served by the sign except:",
+            "by the Vermont State Travel Informational Council, up to three (3) signs per post if needed; and",
+            "square feet or less in area and that are in place for ninety-six (96) hours or less. ▪ No freestanding signs may be more than twenty feet high. ▪ No sign which is attached to a building may be attached to, or extend above the roof. ▪ No sign shall be permitted within 20 feet of the side lot line or within the right of way of a public road except that directional signs of the Travel Information Council described above. ▪ No sign shall be permitted which prevents clear and unobstructed view of the official signs and approaching or merging traffic. ▪ No lighting of signs shall be permitted unless such lighting is so effectively shielded as to prevent beams or rays of light from being directed at any portion of the main traveled way of a public road . However, the Development Review Board may determine that such lighting is of such low intensity or brilliance as to cause no hazard . No lighting of signs shall illuminate or reflect onto other properties. ▪ No sign or display shall contain any moving parts, nor contain, include, or be illuminated internally by flashing, moving, or intermittent light. ▪ No sign shall be erected, attached, or maintained upon trees or drawn or painted on rocks or other natural features or upon utility poles, except hunting, fishing, trespassing, safety zone or other property control signs which may be placed on the property owner's trees."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "official business directional signs of eight (8) square feet or less in area provided",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "non-business personal directional signs, for example to a wedding, that are six (6)",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "360",
+          "title": "Extraction of Soil, Sand and Gravel",
+          "page": 37,
+          "paragraphs": [
+            "In accordance with S 4414 of the Act, the removal of soil, sand and gravel for sale shall be permitted only upon approval of a plan for the rehabilitation of the site by the Development Review Board. The Development Review Board may require the posting of a bond to assure rehabilitation. Application for a commercial material supply area would require site plan review and approval under Sections 250 and 251 of this Ordinance."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "365",
+          "title": "Sanitary Landfill",
+          "page": 37,
+          "paragraphs": [
+            "In any district, dumping of refuse and waste material for landfill is prohibited, except in a sanitary landfill which meets the requirements of the State of Vermont, Agency of Environmental 34 Marshfield Zoning Regulations Adopted March 1, 2016 Conservation and the Marshfield Development Review Board. Application for a sanitary landfill would require site plan review and approval under Sections 250 and 251 of this Ordinance . The Development Review Board may require the posting of a performance bond to assure proper operation and closure."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "366",
+          "title": "Miscellaneous Excavation and Landfill",
+          "page": 38,
+          "paragraphs": [
+            "Removal or placement of loam, soil, rock, stone, gravel, sand, cinders or other materials resulting in substantial contour changes to more than two acres of land must have site plan review and approval by the Development Review Board under Sections 250 and 251 of this Ordinance."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "380",
+          "title": "Adequate Wastewater Treatment Requirement",
+          "page": 38,
+          "paragraphs": [
+            "In addition to any other building restrictions, no zoning permit shall be issued unless the applicant can use approved municipal sewage systems or demonstrate that the soil can safely handle onsite sewage treatment and disposal. The Administrative Officer or his representative must approve the design of the onsite sewage disposal system . The Administrative Officer may supervise the percolation tests and inspect the construction of the systems . No building may be occupied until the sewage disposal system has been approved and certificate of occupancy issued by the Administrative Officer. The Vermont agency of Natural Resources, Environmental Protection Rules (Chapter 5, Subchapter 10) and any subsequent revisions thereof, shall be used in determining required test procedure, adequacy of site, isolation distances from water supplies, buildi ngs, streams, water pipes, etc., and the sizing, layout and design of the wastewater, disposal system."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "390",
+          "title": "Construction of Ponds [Amended 3/3/09]",
+          "page": 38,
+          "paragraphs": [
+            "No construction of man -made ponds shall be allowed without site plan and conditional use approval by the Development Review Board in accordance with Section 245. The preparation of the plan shall take the site and the watershed into consideration. The Development Review Board may engage a professional engineer to review the plans, at the applicant's expense, to insure that it is designed adequately for flood conditions, other potential hazards and safety considerations. In addition to the conditional use revie w standards in Section 245, the Development Review Board shall also review and make findings on the affect the conditional use has on water quality and quantity, aquatic habitats, and landscape aesthetics."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "391",
+          "title": "Fences",
+          "page": 38,
+          "paragraphs": [
+            "All fences over five in height, within 15 feet of a property line, and not transparent, are required to obtained site plan approval by the Development Review Board in accordance with Section 250 and 251. All other fences are exempt from zoning review. (Added March 2, 2010) Marshfield Zoning Regulations Adopted March 1, 2016 35"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "IV",
+      "title": "ZONING DISTRICT REGULATIONS",
+      "sections": [
+        {
+          "number": "410",
+          "title": "Village Residential",
+          "page": 39,
+          "paragraphs": [
+            "This District is defined by the Village limits of the Village of Marshfield wherein approved public wastewater treatment and disposal and public water supply systems are or will be available to service most of the developable land . In the Village Residential District, the following uses are permitted:",
+            "The following uses are permitted after issuance of a conditional use permit by the Development Review Board:",
+            "findings, that such use is appropriate in the District and will not have undue adverse impact to the other uses within the District or to the adjoining land uses.",
+            "prohibited.",
+            "36 Marshfield Zoning Regulations Adopted March 1, 2016 VILLAGE RESIDENTIAL DISTRICT Frontage, Area, Setbacks, Coverage, Height and General Regulations DIMENSION USES REQUIREMENTS Minimum Lot Frontage All buildings and uses 90 feet Minimum Lot Area * One family dwelling 10,000 square feet Two Family Dwelling 15,000 square feet Multiple Family Dwelling 6,000 square feet per unit, avg. Non-residential permitted uses 20,000 square feet Minimum front setback All buildings and uses 45 feet Minimum side and rear setbacks All buildings and uses 15 feet Maximum lot coverage All buildings and uses 20% of the lot Maximum building height** Residential, commercial, public, industrial uses 3 stories or 45 feet, whichever is less Accessory buildings 35 feet Agricultural uses No height limits * Minimum lot area applies to each dwelling unit or commercial structure. **Unoccupied building area not greater than 500 square feet in size and not greater than 10 feet above the height of the building for cupolas, and not greater than 25 feet above the height of the building for church steeples and bell towers, are exempt from the maximum building height requirement. (Added March 2, 2010) General Regulations:",
+            "two family dwellings, dwelling accessory use or agricultural use."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "One family dwelling",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Two family dwelling",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Multiple family dwelling",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Housing for the elderly",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Rooming or boarding house",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Professional residence-office",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "Religious institution",
+              "use_type": null
+            },
+            {
+              "number": "8",
+              "text": "School",
+              "use_type": null
+            },
+            {
+              "number": "9",
+              "text": "Community center",
+              "use_type": null
+            },
+            {
+              "number": "10",
+              "text": "Public and private outdoor recreation",
+              "use_type": null
+            },
+            {
+              "number": "11",
+              "text": "State facility",
+              "use_type": null
+            },
+            {
+              "number": "12",
+              "text": "Accessory use",
+              "use_type": null
+            },
+            {
+              "number": "13",
+              "text": "Parking",
+              "use_type": null
+            },
+            {
+              "number": "14",
+              "text": "Home occupation",
+              "use_type": null
+            },
+            {
+              "number": "15",
+              "text": "Cemetery",
+              "use_type": null
+            },
+            {
+              "number": "16",
+              "text": "Planned Unit Development when approved under this Ordinance",
+              "use_type": null
+            },
+            {
+              "number": "17",
+              "text": "Second or third dwelling per lot with site plan review",
+              "use_type": null
+            },
+            {
+              "number": "18",
+              "text": "Agricultural uses and forestry",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "Commercial and industrial uses upon finding by the Board in addition to other necessary",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Development on slopes between 15 -25%. Development on slopes greater than 25% is",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Fourth or more dwelling per lot with site plan approval and conditional use approval.",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "Wastewater and water facilities approved by the Marshfield Village Trustees are required.",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "As set forth in Article II hereof, site plan approval is required for all uses except one and",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "420",
+          "title": "Agricultural and Rural Residential",
+          "page": 40,
+          "paragraphs": [
+            "In the Agricultural and Rural Residential District, the following uses are permitted:",
+            "Marshfield Zoning Regulations Adopted March 1, 2016 37",
+            "The following uses are permitted after issuance of a conditional use permit by the Development Review Board.",
+            "addition to other necessary findings, that such is appropriate in the District and will not be detrimental to the other uses within the District or to the adjoining land uses.",
+            "prohibited.",
+            "38 Marshfield Zoning Regulations Adopted March 1, 2016 AGRICULTURAL AND RURAL RESIDENTIAL DISTRICT Frontage, Area, Setbacks, Coverage, Height, and General Regulations DIMENSIONS USES REQUIREMENTS Minimum lot frontage Lots less than 10 acres 250 feet Lots greater than 10 acres 350 feet Minimum lot area * All uses and structures 2 acres Minimum front setback All uses and structures 65 feet from the centerline of the road Minimum side and rear setback All uses and structures 40 feet from property line Maximum lot coverage All uses and structures 20% of the lot Maximum building height** Primary uses and structures 3 stories or 45 feet, whichever is less Accessory buildings 35 feet Agricultural uses No height restriction * Minimum lot area applies to each dwelling unit or commercial structure. **Unoccupied building area not greater than 500 square feet in size and not greater than 10 feet above the height of the building for cupolas, and not greater than 25 feet above the height of the building for church steeples and bell towers, are exempt from the maximum building height requirement. (Added March 2, 2010) General Regulations As set forth in Article II hereof, site plan approval is required for all uses except one and two family dwellings, dwelling accessory uses or agricultural uses."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Agricultural uses and forestry",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "One or two family dwelling",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Professional residence-office",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "School",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Community center",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Dormitory use",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "Public and outdoor recreation",
+              "use_type": null
+            },
+            {
+              "number": "8",
+              "text": "Wildlife refuge",
+              "use_type": null
+            },
+            {
+              "number": "9",
+              "text": "Camps on 25 acres or more",
+              "use_type": null
+            },
+            {
+              "number": "10",
+              "text": "Cemetery",
+              "use_type": null
+            },
+            {
+              "number": "11",
+              "text": "Parking",
+              "use_type": null
+            },
+            {
+              "number": "12",
+              "text": "Enclosed storage",
+              "use_type": null
+            },
+            {
+              "number": "13",
+              "text": "Accessory use",
+              "use_type": null
+            },
+            {
+              "number": "14",
+              "text": "Home occupation",
+              "use_type": null
+            },
+            {
+              "number": "15",
+              "text": "Planned Unit Development when approved under this Ordinance",
+              "use_type": null
+            },
+            {
+              "number": "16",
+              "text": "Second or third dwelling per lot with site plan review",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "Public wastewater treatment and disposal facilities",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Public water treatment and supply facilities",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Commercial and industrial uses upon the finding by the Development Review Board, in",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Rooming and boarding house",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Hospital",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Religious institution",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "State facility",
+              "use_type": null
+            },
+            {
+              "number": "8",
+              "text": "Multiple family dwelling.",
+              "use_type": null
+            },
+            {
+              "number": "9",
+              "text": "Kennel",
+              "use_type": null
+            },
+            {
+              "number": "10",
+              "text": "Development on slopes between 15 -25%. Development on slopes greater than 25% is",
+              "use_type": null
+            },
+            {
+              "number": "11",
+              "text": "Fourth or more dwelling per lot with site plan approval and conditional use approval.",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "430",
+          "title": "Forestry and Conservation District",
+          "page": 42,
+          "paragraphs": [
+            "In the Forestry and Conservation District, the following uses are permitted:",
+            "Ordinance. Marshfield Zoning Regulations Adopted March 1, 2016 39",
+            "The following uses are permitted after issuance of a conditional use permit by the Development Review Board:",
+            "prohibited.",
+            "FORESTRY AND CONSERVATION DISTRICT Frontage, Area, Setbacks, Coverage, Height and General Regulations DIMENSIONS USE REQUIREMENTS Minimum lot frontage All permitted uses 450 feet Minimum Density Planned Unit Development (minimum 2 units) 10 acres per unit Camps & non-residential 10 acres Minimum front setback All permitted uses 65 feet from centerline of road Minimum side and rear setbacks All permitted uses 40 feet from property line Maximum coverage All permitted uses 20% of the lot Maximum building height Primary uses 3 stories or 45 feet, whichever is less Accessory uses 35 feet Forestry & Agric. uses No height limit Where Forestry and Conservation District boundaries are uniformly setback from the existing Town Roads, the setback shall be 600 feet from the centerline of the public road."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Agricultural",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Forestry",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Outdoor recreation, public or private non-structural",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Wildlife refuge",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Reservoir",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Planned Unit Development with only residential uses when approved under this",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "Camps",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "Non-residential buildings.",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Development on slopes between 15 -25%. Development on slopes greater than 25% is",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Recreational bridges.",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Parking",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "440",
+          "title": "Flood Hazard District",
+          "page": 43,
+          "paragraphs": [
+            "[Previous Section 440 was deleted and replaced on March 3, 2009. Further amendments were adopted March 2, 2010] Statutory Authorization To effect the purpose of 10 VSA Chapter 32, and in accordance with the Vermont Planning and Development Act, 24 VSA section 442, there are hereby established Flood Hazard District 40 Marshfield Zoning Regulations Adopted March 1, 2016 Regulations for the Town of Marshfield. Statement of Purpose It is the purpose of these Regulations to: a) minimize and prevent the loss of life and property, the disruption of commerce, the impairment of the tax base, and the extraordinary public expenditures that result from flooding and other flood related hazards; b) ensure that the design and construction of development in flood and other hazard areas are accomplished in a manner that minimizes or eliminates the potential for flood and loss or damage to life and property; c) manage all flood hazard areas designa ted pursuant to 10 VSA section 753; d)make the State, municipalities, and individuals eligible for Federal flood insurance and other Federal disaster recovery and hazard mitigation funds as may be available; and e) to develop regulations that achieve the g oals and principals in the Town Plan. Lands to which these Regulations Apply These regulations shall apply to all areas in Marshfield (including the Town and Village) identified as areas of special flood hazard in and on the most current flood insurance studies and maps published by the Department of Homeland Security (DHA), Federa l Management Agency (FEMA), National Flood Insurance Program (NFIP), as provided by the Secretary of the Agency of Natural Resources pursuant to 10 VSA section 753, which are hereby adopted by reference and declared to be part of these regulations.1 Development Permit Required A permit is required to the extent authorized by State law, for all proposed construction or other development in areas of special flood hazard. Any provisions for exclusion from permitting of development found elsewhere in this ordinance does not apply to the Special Flood Hazard District. All development and subdivisions shall be reviewed to assure that such proposals minimize potential flood damage, public facilities and utilities such as sewer, gas, electrical, and water systems are constructed so as to minimize flood damage, and adequate drainage is provided to reduce exposure to flood hazards. Allowed Uses With Site Plan Review Site Plan approval by the DRB is required for:",
+            "Conditional Uses Conditional use approval by the DRB is required for:",
+            "1 Flood Insurance Rate Maps (which show all flood hazard areas) are available at the Marshfield Town Clerks Office Marshfield Zoning Regulations Adopted March 1, 2016 41",
+            "boat launching sites.",
+            "Procedures",
+            "submitted by the administrative officer to the State National Floodplain Insurance Program Coordinator at the Vermont Agency of Natural Resources, Department of Environmental Conservation, River Management Section in accordance with 24 V.S.A. S 4424. A permit may be issued only following receipt of comments from the Agency or the expiration of 30 days from the date the application was mailed to the Agency, whichever is sooner.",
+            "Natural Resources, Department of Environmental Conservation, River Management Section shall be notified at least 30 days prior to issuing any permit for the alteration or relocation of a watercourse and copies of such notification shall be submitted to the Administrator of the National Flood Insurance Program. Any permit issued shall assure that the flood carrying capacity within the altered or relocated portion of any watercourse is maintained.",
+            "Project Review Sheet (which lists all permits required) and then to provide that review sheet as part of their application submittal . Approval of any zoning permit shall be conditioned upon proof that the other required permits noted on the review sheet have been obtained before commencement of construction. \\ Base Flood Elevations and Floodway Limits",
+            "community can designate regulatory floodway limits) provided by the National Flood Insurance Program in the Flood Insurance Study and accompanying maps shall be used to administer and enforce these regulations.",
+            "the National Flood Insurance Program in the Flood Insurance Study and accompanying maps, base flood elevations and floodway data provided by FEMA or available from State or Federal agencies or other sources, shall be obtained and utilized to administer and enforce these regulations.",
+            "improvements, or other development shall be permitted unless it is demonstrated that the cumulative effect of the proposed development, when combined with all other existing development and anticipated development will not increase the water surface elevation of the base flood more than one foot at any point within the community. 42 Marshfield Zoning Regulations Adopted March 1, 2016 Development Standards"
+          ],
+          "subsections": [
+            {
+              "label": "A",
+              "title": "Floodway Areas",
+              "paragraphs": [
+                "above, is prohibited unless it has been demonstrated through hydrologic and hydraulic analyses performed in accordance with standard engineering practice by a registered professional engineer certifying that the proposed development will result in no increase in flood levels during the occurrence of the base flood.",
+                "materials, are prohibited within the floodway."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Development, or any encroachments, within the regulatory floodway, as determined by",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Storage of chemicals, explosives, flammable liquids, or other hazardous or toxic",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "Floodway Fringe Areas (i.e., special flood hazard areas outside of the floodway)",
+              "paragraphs": [
+                "a. Designed (or modified) and adequately anchored to prevent flotation, collapse, or lateral movement of the structure during the occurrence of the base flood, b. Constructed with materials resistant to flood damage, c. Constructed by methods and practices that minimize flood damage, and d. Constructed with electrical, heating, ventilation, plumbing and air conditioning equipment and other service facilities that are designed and/or located so as to prevent water from entering or accumulating within the components during conditions of flooding.",
+                "a. New construction and existing buildings to be substantially improved that are located in Zones A, A1 -30, AE, and AH shall have the lowest floor, including basement, elevated to or above the base flood elevation. New construction and existing buildings to b e substantially improved that are located in Zone AO shall have the lowest floor, including basement, elevated above the highest adjacent grade at least as high as the depth number specified in the feet on the community's FIRM or at least two feet if no depth number is specified.2 b. Manufactured homes to be placed and existing manufactured homes to be substantially improved that are: i. located in a new manufactured home park or subdivision, outside of a manufactured home park or subdivision, in an expansion to an existing manufactured home park or subdivision, or in a manufactured home park or subdivision which has incurred substantial d amage from a flood shall be elevated on a permanent foundation such that the lowest floor of the manufactured home is elevated to one foot above the base flood elevation and be securely anchored to an adequately anchored foundation system to 2 Although construction is required to have the lowest floor elevated to or above the base flood elevation, it is recommended to elevate the lowest floor to at least one foot above the base flood elevation. This will result in considerable reductions in flood insurance premiums and less risk to property and life. Marshfield Zoning Regulations Adopted March 1, 2016 43 resist flotation, collapse, and lateral movement during the occurrence of the base flood. ii. located in an existing manufactured home park, where elevating a replacement home to or above base flood elevation is not possible, the lowest floor shall be supported by reinforced piers or other foundation elements of at least equivalent strength that ar e no less than 48 inches in height above grade, and be securely anchored to an adequately anchored system to resist floatation, collapse, and lateral movement. c. Residential construction located within Zones AH and AO shall have adequate drainage paths around structures on slopes, to guide floodwater around and away from the proposed structures.",
+                "a. New construction located in Zones A, A1 -30, AE, and AH shall have the lowest floor, including basement, elevated to or above one foot above the base flood elevation. New construction located in Zone AO shall have the lowest floor, including basement, eleva ted above the highest adjacent grade at least as high as the depth number specified in the feet on the community's FIRM or at least two feet if no depth number is specified. b. Existing buildings to be substantially improved located in Zones A, A1-30, AE, and AH shall have the lowest floor, including basement, elevated to or above the base flood elevation or together with attendant utility and sanitary facilities be designed so t hat below the base flood elevation the structure is watertight with walls substantially impermeable to the passage of water and with structural components having the capability of resisting hydrostatic and hydrodynamic loads and effects of buoyancy. Existing buildings to be substantially improved located in AO zones shall have the lowest floor, including basement, elevated above the highest adjacent grade at least as high as the depth number specified in feet on the community's FIRM or at least two feet if no depth number is specified or together with attendant utility and sanitary facilities be designed so that below the base flood elevation the structure is watertight with walls substantially impermeable to the passage of water and with structural componen ts having the capability of resisting hydrostatic and hydrodynamic loads and effects of buoyancy. 3 c. A permit for a building proposed to be floodproofed shall not be issued until a registered professional engineer or architect has reviewed the structural design, specifications and plans, and has certified that the design and proposed methods of construction are in accordance with accepted standards of practice for meeting the provisions of this subsection. 3 Although construction is required to have the lowest floor elevated to or above the base flood elevation, it is recommended to elevate the lowest floor to at least one foot above the base flood elevation. This will result in considerable reductions in flood insurance premiums and less risk to property and life. 44 Marshfield Zoning Regulations Adopted March 1, 2016 d. Commercial construction located within Zones AH and AO shall have adequate drainage paths around structures on slopes, to guide floodwater around and away from the proposed structures.",
+                "a. New subdivision proposals and other proposed development (including proposals for manufactured home parks and subdivisions) that are greater than 50 lots or 5 acres, whichever is the lesser, shall include base flood elevation data. b. Subdivisions (including manufactured home parks) shall be designed to assure: i. such proposals minimize flood damage within the flood-prone area, ii. public utilities and facilities, such as sewer, gas, electrical, and water systems are located and constructed to minimize or eliminate flood damage, and iii. adequate drainage is provided to reduce exposure to flood hazards.",
+                "a. Enclosures below grade on all sides (including below grade crawlspaces and basements) are prohibited. b. Filling enclosed areas above grade and below the lowest floor, which are subject to flooding shall: i. Be used solely for parking of vehicles, storage, or building access, and such a condition shall clearly be stated on any permits; and ii. Be designed to automatically equalize hydrostatic flood forces on exterior walls by allowing for the entry and exit of floodwaters. Such designs must be certified by a registered professional engineer or architect or meet or exceed the following minimum criteria: A minimum of two openings having a total net area of not less than one square inch for every square foot of enclosed area subject to flooding shall be provided. The bottom of all openings shall be no high er than one foot above grade. Openings may be equipped with screens, louvers, valves, or other coverings or devices provided that they permit the automatic entry and exit of floodwaters.",
+                "areas shall either: a. Be on the site for fewer than 180 consecutive days, b. Be fully licensed and ready for highway use, or c. Be permitted in accordance with the elevation and anchoring requirements for \"manufactured homes\"",
+                "structure meets the following requirements: Marshfield Zoning Regulations Adopted March 1, 2016 45 a. The structure must only be used for parking or storage b. The structure must have the required openings to allow floodwaters in and out c. The structure must be constructed using flood resistant materials below the Base Flood Elevation d. The structure must be adequately anchored to resist flotation, collapse, and lateral movement, and e. All building utility equipment including electrical and heating must be elevated or floodproofed.",
+                "minimize or eliminate infiltration of flood waters into the systems.",
+                "designed to minimize or eliminate infiltration of flood waters into the systems and discharges from the systems into flood waters.",
+                "impairment to them or contamination from them during flooding.",
+                "relocated portion of a watercourse shall be maintained. Duties and Responsibilities of the Administrative Officer The Administrative Officer shall maintain a record of:",
+                "elevation on the current Flood Insurance Rate Maps for the community) of the lowest floor, including basement, of all new, substantially improved, or flood proofed build ings (not including accessory buildings) in the Special Flood Hazard Area",
+                "fact, conclusions and conditions. Variances to Development Standards Variances shall be granted by the DRB only:",
+                "granting variances found in 44 CFR, section 60.6 of the National Flood Insurance Program regulations.",
+                "will inform the applicant in writing over the signature of a community official that the issuance of a variance to construct a structure below the base flood elevation increases risk to life and property and will increase flood insurance premiums up to amounts as high as 46 Marshfield Zoning Regulations Adopted March 1, 2016 $25 for $100 coverage. Such notification shall be maintained with a record of all variance actions.",
+                "with 24 V.S.A. S4464(3). Warning of Disclaimer of Liability These regulations do not imply that areas outside the Flood Hazard District or land uses permitted within such areas will be free from flooding or flood damage. These regulations shall not create liability on the part of the Town of Marshfield, town officials, or employees thereof for any flood damages that may result from reliance on these regulations or any administrative decision lawfully made there under. Precedence of ordinance The provisions of these regulations shall not in any way impair or remove the necessity of compliance with any other applicable ordinances . Where these regulations imposes a greater restriction, the provisions of this ordinance shall take precedence. Enforcement and Penalties It shall be the duty of the Administrative Officer to enforce the provisions of these regulations. Whenever any development occurs contrary to these Flood Hazard District regulations, the Administrative Officer, in his/her discretion, shall institute appro priate action in accordance with the provisions of 24 V.S.A. S1974a or pursuant to 24 V.S.A. S 4451 or 24 V.S.A. S 4452 to correct the violation. No action may be brought unless the alleged offender has had at least a seven -day warning notice by certified mail. An action may be brought without the seven -day notice and opportunity to cure if the alleged offender repeats the violation after the seven -day notice period and within the next succeeding twelve months. The seven -day warning notice shall state that a violation exists, that the alleged offender has an opportunity to cure the violation within the seven days, and that the alleged offender will not be entitled to an additional warning notice for a violation occurring after the seven days. If the structure is still noncompliant after the opportunity to cure has passed, the Administrative Officer shall submit a declaration to the Administrator of the NFIP requesting a denial of flood insurance. Section 1316 of the National Flood Insurance Act of 1968, as am ended, authorizes FEMA to deny flood insurance to a property declared by a community to be in violation of their Flood Hazard District regulations. The declaration shall consist of: (a) the name of the property owner and address or legal description of the property sufficient to confirm its identity or location, (b) a clear and unequivocal declaration that the property is in violation of a cited State or local law, regulation, or ordinance, (c) a clear statement that the public body making the declaration has authority to do so and a citation to that authority, (d) evidence that the property owner has been provided notice of the violation and the prospective denial of insurance, and (e) a clear statement that the declaration is being submitted pursuant to"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "All development shall be reasonably safe from flooding and:",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Residential Development:",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Non-Residential Development:",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "4. Subdivisions",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Enclosed Areas Below the Lowest Floor:",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Recreational Vehicles: Recreational Vehicles placed on sites within special flood hazard",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Accessory Structures: Need not be elevated to the base flood elevation provided the",
+                  "use_type": null
+                },
+                {
+                  "number": "8",
+                  "text": "Water Supply Systems: New and replacement water supply systems shall be designed to",
+                  "use_type": null
+                },
+                {
+                  "number": "9",
+                  "text": "Sanitary Sewage Systems : New and replacement sanitary sewage systems shall be",
+                  "use_type": null
+                },
+                {
+                  "number": "10",
+                  "text": "On-Site Waste Disposal Systems: On-site waste disposal systems shall be located to avoid",
+                  "use_type": null
+                },
+                {
+                  "number": "11",
+                  "text": "Watercourse Carrying Capacity : The flood carrying capacity within any altered or",
+                  "use_type": null
+                },
+                {
+                  "number": "1",
+                  "text": "All permits issued for development in areas of special flood hazard",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "An Elevation Certificate with the as -built elevation (consistent with the datum of the",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "All floodproofing and other certifications required under this regulation",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "All decisions of the DRB (including variances and violations) and all supporting finds of",
+                  "use_type": null
+                },
+                {
+                  "number": "1",
+                  "text": "In accordance with 24 VSA S4469 and S4424(E) and in accordance with the criteria for",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Any variance issued in the Special Flood Hazard Area will not increase flood heights, and",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "A copy of such variance shall be recorded in the land records of the town in accordance",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Expansion and/or changes to a non-conforming use in the Flood Hazard District",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "Public wastewater treatment and disposal facilities.",
+              "use_type": "conditional"
+            },
+            {
+              "number": "2",
+              "text": "Public and private water supply facilities.",
+              "use_type": "conditional"
+            },
+            {
+              "number": "3",
+              "text": "Public and private bridges, parking areas, and roads.",
+              "use_type": "conditional"
+            },
+            {
+              "number": "4",
+              "text": "Public and private dams or other water control structures",
+              "use_type": "conditional"
+            },
+            {
+              "number": "5",
+              "text": "Public and private non -structural recreation uses, such as parks, picnic grounds, and",
+              "use_type": "conditional"
+            },
+            {
+              "number": "6",
+              "text": "Non-commercial open-sided structures with a roof and not in the floodway",
+              "use_type": "conditional"
+            },
+            {
+              "number": "1",
+              "text": "Prior to issuing a permit a copy of the application and supporting information shall be",
+              "use_type": "conditional"
+            },
+            {
+              "number": "2",
+              "text": "Adjacent communities and the Stream Alteration Engineer at the Vermont Agency of",
+              "use_type": "conditional"
+            },
+            {
+              "number": "3",
+              "text": "All applicants shall contact the State's Environmental Assistance Office to obtain a",
+              "use_type": "conditional"
+            },
+            {
+              "number": "1",
+              "text": "Where available, base flood elevations and floodway limits (or data from which a",
+              "use_type": "conditional"
+            },
+            {
+              "number": "2",
+              "text": "In areas where base flood elevations and floodway limits have not been provided by",
+              "use_type": "conditional"
+            },
+            {
+              "number": "3",
+              "text": "Until a regulatory floodway has been designated, no new construction, substantial",
+              "use_type": "conditional"
+            }
+          ]
+        },
+        {
+          "number": "1316",
+          "title": "of the National Flood Insurance Act of 1968, as amended",
+          "page": 50,
+          "paragraphs": [
+            "Definitions The National Flood Insurance Program Definitions contained in 44CFR section 59.1 are hereby adopted by reference and shall be used to interpret and enforce these regulations. The following definitions shall be used for administration of the Flood Hazard District regulations: Marshfield Zoning Regulations Adopted March 1, 2016 47 Accessory structures A building, storage containers, and trailers, any which (taken collectively) are not greater than 100 square feet , and represent a minimal investment. Base flood means the flood having a one percent chance of being equaled or exceeded in any given year. Base Flood Elevation (BFE) the height of the base flood, usually in feet, in relation to the National Geodetic Vertical Datum of 1929, the North American Vertical Datum of 1988, or other datum referenced in the Flood Insurance Study report, or average depth of the base flood, usually in feet, above the ground surface. Basement means any area of the building having its floor subgrade (below ground level) on all sides. Building means a walled and roofed structure including a gas or liquid storage tank, that is principally above ground, as well as a manufactured home. Development means any man-made change to improved or unimproved real estate, including but not limited to buildings or other structures, mining, dredging, filling, grading, paving, excavation or drilling operations or storage of equipment or materials. Existing manufactured home park or subdivision means a manufactured home park or subdivision for which the construction of facilities for servicing the lots on which the manufactured homes are to be affixed (including, at a minimum, the installation of utilities, the construction of streets, and either final site grading or the pouring of concrete pads) is completed before the effective date of the floodplain management regulations adopted by a community. Expansion to an existing manufactured home park or subdivision means the preparation of additional sites by the construction of facilities for servicing the lots on which the manufacturing homes are to be affixed (including the installation of utilities, the construction of streets, and either final site grading or the pouring of concrete pads). Flood means (a) A general and temporary condition of partial or complete inundation of normally dry land areas from: the overflow of inland or tidal waters; the unusual and rapid accumulation or runoff of surface waters from any source; and mudslides which are proximately caused by flooding and are akin to a river of liquid and flowing mud on the surfaces of normally dry land areas, as when earth is carried by a current of water and deposited along the path of the current. (b) The collapse or subsidence of land along the shore of a lake or other body of water as a result of erosion or undermining caused by waves or currents of water exceeding anticipated cyclical levels or suddenly caused by an unusually high water level in a n atural body of water, accompanied by a severe storm, or by an unanticipated force of nature, such as flash flood or abnormal tidal surge, or by some similarly unusual and unforeseeable event which results in flooding. Flood Insurance Rate Map (FIRM) means an official map of a community, on which the Federal Insurance Administrator has delineated both the special hazard areas and the risk premium zones applicable to the community. Flood Insurance Study means an examination, evaluation and determination of flood hazards and, if appropriate, corresponding water surface elevations or an examination, evaluation and determination of mudslide (i.e., mudflow) and /or flood related erosion hazards. Flood Hazard Area or Area of Special Flood Hazard is the land in the floodplain within a 48 Marshfield Zoning Regulations Adopted March 1, 2016 community subject to a 1 percent or greater chance of flooding in any given year. Floodplain or flood -prone area means any land area susceptible to being inundated by water from any source (see definition of \"flood\"). Flood proofing means any combination of structural and non -structural additions, changes, or adjustments to structures which reduce or eliminate flood damage to real estate or improved real property, water and sanitary facilities, structures and their contents. Floodway, Regulatory in Town of Marshfield means the channel of a river or other watercourse and the adjacent land areas that must be reserved in order to discharge the base flood without cumulatively increasing the water surface elevation more than one foot at any point Historic Structure means any structure that is: (a) listed individually in the National Register of Historic Places (a listing maintained by the Department of the Interior) or preliminarily determined by the Secretary of the Interior as meeting the requirements for individu al listing on the National Register; (b) certified or preliminarily determined by the Secretary of the Interior as contributing to the historical significance of a registered historic district or a district preliminarily determined by the Secretary to qualify as a registered historic district; (c) individually listed on a state inventory of historic places in state with historic preservation programs that have been certified either: (i) by an approved state program as determined by the Secretary of the Interior or (ii) directly by the Secretary of the Interior in states without approved programs. Legislative body means the Selectboard in that case of a town, the trustees in the case of an incorporated village, and the mayor, alderpersons, and city council members in the case of a city, and the supervisor in the case of an unorganized town or gore. Lowest Floor means the lowest floor of the lowest enclosed area (including basement). An unfinished or flood resistant enclosure, usable solely for parking of vehicles, building access or storage in an area other than a basement area is not considered a building's lowest floor; provided, that such enclosure is not built so as to render the structure in violation of the applicable non - elevation design requirements of 44 CFR Sec. 60.3. Manufactured home or Mobile home means a structure, transportable in one or more sections, which is designed for use with or without a permanent foundation when attached to the required utilities. The term \"manufactured home'' does not include a \"recreational vehicle''. Manufactured home park or subdivision means a parcel (or contiguous parcels) of land divided into two or more manufactured home lots for rent or sale. Mean sea level means, for purposes of the National Flood Insurance Program, the National Geodetic Vertical Datum (NGVD) of 1929 or other datum, to which base flood elevations shown on a community's Flood Insurance Rate Map are referenced. Minor Residential Building Improvements means any repairs, reconstruction, or improvement of a structure, the cost of which is less than fifty (50) percent of the market value of the structure. New construction means, for the purposes of determining insurance rates, structures for which the \"start of construction\" commenced on or after the effective date of an initial FIRM or after December 31, 1974, whichever is later, and includes any subsequent improvements to such structures. For floodplain management purposes, new construction means structures for which the start of construction commenced on or after the effective date of the floodplain management Marshfield Zoning Regulations Adopted March 1, 2016 49 regulation adopted by a community and includes any subsequent improvements to such structures. New manufactured home park or subdivision means a manufactured home park or subdivision for which the construction of facilities for servicing the lots on which the manufactured homes are to be affixed (including at a minimum, the installation of utilities, the construction of streets, and either final site grading or the pouring of concrete pads) is completed on or after the effective date of the floodplain management.regulations adopted by a community. Recreational vehicle means a vehicle which is: (a) Built on a single chassis; (b) 400 square feet or less when measured at the largest horizontal projection; (c) Designed to be self -propelled or permanently towable by a light duty truck; and (d) Designed primarily not for use as a permanent dwelling but as a temporary living quarters for recreational, camping, travel, or seasonal use. Special Flood Hazard Area is the land in the floodplain within a community subject to a 1 percent or greater chance of flooding in any given year. The area may be designated a Zone A on the Flood Hazard Boundary Map (FHBM). After detailed ratemaking has been completed in preparation for publication of the Flood Insurance Rate Map (FIRM), Zone A usually is refined into Zones A, AO, AH, A1-30, AE, A99, AR, AR/AI-30, AR/AE, AR/AO, AR/AH, AR/A, VO or V1-30, VE, or V. For purposes of these regulations, the term \"special flood hazard area\" is synonymous in meaning with the phrase \"area of special flood hazard\". Start of Construction includes substantial improvement, and means the date the building permit was issued, provided the actual start of construction, repair, reconstruction, rehabilitation, addition placement, or other improvement was within 180 days of the permit date. The act ual start means either the first placement of permanent construction of a structure on a site, such as the pouring of slab or footings, the installation of piles, the construction of columns, or any work beyond the stage of excavation; or the placement of a manufactured home on a foundation. Permanent construction does not include land preparation, such as clearing, grading and filling; nor does it include the installation of streets and/or walkways; nor does it include excavation for a basement, footing, piers, or foundations or the erection of temporary forms; nor does it include the installation on the property of accessory buildings, such as garages or sheds not occupied as dwelling units or not part of the main structure. For a su bstantial improvement, the actual start of construction means the first alteration of any wall, ceiling, floor, or other structural part of a building, regardless whether that alteration affects the external dimensions of the building. Structure means, for floodplain management purposes, a walled and roofed building, including a gas or liquid storage tank, that is principally above ground, as well as a manufactured home. Structure, for insurance purposes, means: (a) A building with two or more outside rigid walls and a fully secured roof, that is affixed to a permanent site; (b) A manufactured home (\"a manufactured home,\" also known as a mobile home, is a structure: built on a permanent chassis, transported to its site in one or more sections, and affixed to a permanent foundation); or (c) A travel trailer without wheels, built on a chassis and affixed to a permanent foundation, that is regulated under the community's floodplain management and building ordinances or laws. For the latter purpose, \"structure\" does not mean a recreational vehicle or a park trailer or other similar vehicle, except as described in (c) of this definition, or a gas or liquid storage tank. Substantial damage means damage of any origin sustained by a structure whereby the cost of restoring the structure to its before damaged conditions would equal or exceed 50 percent of the market value of the structure before the damage occurred. 50 Marshfield Zoning Regulations Adopted March 1, 2016 Substantial improvement means any reconstruction, rehabilitation, addition, or other improvement of a structure, the cost of which equals or exceeds 50 percent of the market value of the structure before the \"start of construction\" of the improvement. This term includes structure s which have incurred \"substantial damage\", regardless of the actual repair work performed . When a project is split over several years, substantial improvement shall mean the cumulative amount of improvements over a five year period .The term does not, however, include any project for improvement of a structure to correct existing violations of state or local health, sanitary, or safety code specification which have been identified by the local code enforcement official and which are the minimum necessary to assure safe living conditions. Variance means a grant of relief by a community from the terms of a flood plain management regulation. Violation means the failure of a structure or other development to be fully compliant with the community's floodplain management regulations. A structure or other development without the elevation certificate, other certifications, or other evidence of compliance required in 44 CFR 60.3 is presumed to be in violation until such time as that documentation is provided."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "450",
+          "title": "Water Conservation Overlay District (added 3/3/09)",
+          "page": 54,
+          "paragraphs": [
+            "Statement of Purpose The purpose of this overlay district is to maintain the goal of the Town Plan to keep surface waters clean and attractive and to further protect surface waters by having development setbacks and vegetative buffers. It is recognized that development along w ater bodies can influence water quality and quantity, aquatic habitats, and landscape aesthetics. These regulations are meant to be additional regulations beyond those that are already in the underlying district. Lands Involved The District includes all lands along all streams (as defined in this ordinance) that are within 75 feet horizontal distance measured from the top of slope, where the channel runs adjacent to a valley wall or high terrace, or top of bank, where the channel has access to its floodplain, or within 125 feet of these waters if the slopes of the water or area to be developed is 15 degrees or more. The District also includes all lands along ponds over 5 acres in size that are within 75 feet horizontal distance measured from the mean water level, or within 125 feet of these waters if the slopes of the water or area to be developed is 15 degrees or more. The exact location of boundaries shall be field verified when there is uncertainty regarding district boundaries. Marshfield Zoning Regulations Adopted March 1, 2016 51 Restrictions of Use Within the Water Conservation Overlay District, no land development and no clearing of land is permitted except as provided below. Any existing structure (as of March 3, 2009), except as noted below, within the Water Conservation Overlay District shall be considered a non -conforming structure and shall be limited to expansion as prescribed in Section 281. Activities Permitted Without A Zoning Permit The following activities are permitted without approval by the town:",
+            "pruning of existing trees.",
+            "or according to a written plan by the Vermont Agency of Natural Resources.",
+            "safety and welfare.",
+            "Natural Resources.",
+            "size.",
+            "not exceed 50 linear feet for any one parcel.",
+            "the first 25 feet adjacent to a stream, or pond over 5 acres in size.",
+            "top of slope top of bank 52 Marshfield Zoning Regulations Adopted March 1, 2016",
+            "Permitted Uses The following land development activities are permitted with the issuance of a zoning permit by the Zoning Administrator:",
+            "such structures on a parcel of land within the overlay zone district do not exceed a total of 200 square feet and so long as the structures are not within the first 25 feet adjacent to a stream, or pond over 5 acres in size.",
+            "Conditional Uses The following land development activities are permitted as conditional uses with approval by the Development Review Board. In addition to the conditional use review standards in Section 245, the Development Review Board shall also review and make findings on the affect the conditional use has on water quality and quantity, aquatic habitats, and landscape aesthetics.",
+            "approaches.",
+            "structures on a parcel of land within the overlay zone district exceed a total of 200 square feet and so long as the structures are not within the first 25 feet adjac ent to a stream, or pond over 5 acres in size. State of Vermont Regulations There are setbacks and buffer zones required by the State of Vermont for wetlands and other surface waters that may exceed the setbacks required in these regulations . Setbacks required by the State of Vermont in the regulations listed below shall supersede setbacks established in these regulations.",
+            "Department of Environmental Conservation, Agency of Natural Resources.",
+            "Agriculture.",
+            "Jobs in Vermont (AMP's) . Contact the Department of Forest, Parks and Recreation, Agency of Natural Resources. Marshfield Zoning Regulations Adopted March 1, 2016 53 Town of Marshfield, Vermont Fee Schedule for Zoning and Subdivision Applications Effective May 20, 2014 July 1September 22, 20219 APPLICATION FEES One and two family dwellings and additions requiring additional sewage disposal $100.00150.00 Accessory buildings, additions not requiring additional sewage disposal & signs. $50.0075.00 Reissuance of a previous valid permit that meets current regulations $25.00 Certificate of Occupancy $50.0075.00 Lot Line AdjustmentMinimal Alteration $75.00100.00 Minor Subdivision $225.00275.00 Major Subdivision $300.00350.00 up to 4 lots, $75.00 each additional Lot Planned Unit Development $350.00400.00, plus $75.00 per unit Appeal to Development Review Board/Variance $125.00150.00 Conditional Use permit $150.00175.00 Site plan approval $150.00175.00 Conditional Use and Site plan approval, if applied for simultaneously $175.00225.00 Filing land plats: 11x17 or 18x24 $15.0025.00 Curb Cut Permit $50.00 The proper fee must be received before the application will be deemed complete and considered. The fee should be paid with a check or money order made payable to the Town of Marshfield. Formatted: Centered Formatted: Centered Formatted: Font: 11 pt Formatted Table Formatted: Font: 11 pt Formatted: Font: 11 pt Formatted: Font: 11 pt Formatted: Font: 11 pt Formatted: Font: 11 pt Formatted: Font: 11 pt Formatted: Font: 11 pt Formatted: Font: 11 pt Formatted: Font: 11 pt Formatted: Font: 11 pt Formatted: Font: 11 pt Formatted: Font: 11 pt Formatted: Font: 11 pt Formatted: Font: 11 pt 54 Marshfield Zoning Regulations Adopted March 1, 2016 Marshfield Zoning Regulations Adopted March 1, 2016 55 Town of Marshfield, Vermont For Reference Purpose Only Use Schedule USE VILLAGE AG/RR FOREST FLOOD Accessory uses P P C/SPR P Agricultural uses P P P P Forestry uses P P P P Public and private non-structural recreation uses P P P P Wildlife refuges P P P P Reservoirs P P P P Camps P P P N Single family residential P P N N Two family residential P P N N Multifamily residential P/SPR C/SPR N N Planned Unit Development P P P N Commercial C/SPR C/SPR N N Industrial C/SPR C/SPR N N Community center P/SPR P/SPR N N Cemetery P/SPR P/SPR N N Parking P/SPR P/SPR C/SPR N Commercial self-storage C/SPR P/SPR N N Home occupation P P P N Public wastewater treatment plant C/SPR C/SPR N C/SPR Private wastewater treatment C/SPR C/SPR N N Public water treatment and supply C/SPR C/SPR N C/SPR Rooming and boarding houses P/SPR C/SPR N N Hospital C/SPR C/SPR N N Elderly housing P/SPR P/SPR N N Religious institutions P/SPR C/SPR N N State facilities P/SPR P/SPR N N Professional residence-office P/SPR P/SPR N N Public and private bridges P/SPR P/SPR C/SPR C/SPR P = Permitted N = Not Permitted C = Conditional Use Permit Required SPR = Site Plan Review Required Note: The above Use Table is for reference purposes only. Please see the body of the regulations for the detailed information on the application of any use in any zoning district. Formatted: Left, Widow/Orphan control, Adjust space between Latin and Asian text, Adjust space between Asian text and numbers, Tab stops: Not at -1\""
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Removal of dead trees or trees of immediate threat to human safety as well as reasonable",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Removal of non-native species or nuisance plants where control is by hand pulling of plants",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Buffer re-establishment projects.",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Encroachments necessary to rectify a natural catastrophe for the protection of public health,",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Unpaved footpaths at least 10 feet from any stream, or pond over 5 acres in size.",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Walls and fences except within the Flood Hazard District defined in Section 210.",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "Stream restoration projects in accordance with a plan approved by the Vermont Agency of",
+              "use_type": null
+            },
+            {
+              "number": "8",
+              "text": "Maintenance of lawn and cleared areas in existence as of March 3, 2009.",
+              "use_type": null
+            },
+            {
+              "number": "9",
+              "text": "Clearing lands beyond 25 feet from a stream or beyond 25 feet from a pond over 5 acres in",
+              "use_type": null
+            },
+            {
+              "number": "10",
+              "text": "Clearing within 25 feet of a stream, or pond over 5 acres in size when the cleared area does",
+              "use_type": null
+            },
+            {
+              "number": "11",
+              "text": "Clearing or maintenance of cleared areas required by a governmental body.",
+              "use_type": null
+            },
+            {
+              "number": "12",
+              "text": "Roadway or driveways not involving a bridge so long as the road or driveway is not within",
+              "use_type": null
+            },
+            {
+              "number": "13",
+              "text": "Foot bridges.",
+              "use_type": null
+            },
+            {
+              "number": "14",
+              "text": "Bridges without foundations.",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "Open-sided structure(s) (such as a gazebo or lean -to) so long as the aggregate area of all",
+              "use_type": "by_right"
+            },
+            {
+              "number": "2",
+              "text": "Docks or similar structures.",
+              "use_type": "by_right"
+            },
+            {
+              "number": "3",
+              "text": "Signs as regulated under Section 350.",
+              "use_type": "by_right"
+            },
+            {
+              "number": "1",
+              "text": "Bridges, other than foot bridges and bridges without foundations, and associated",
+              "use_type": "conditional"
+            },
+            {
+              "number": "2",
+              "text": "Hydro-power projects for private use only.",
+              "use_type": "conditional"
+            },
+            {
+              "number": "3",
+              "text": "Dams or related structures ancillary to the use.",
+              "use_type": "conditional"
+            },
+            {
+              "number": "4",
+              "text": "Open-sided structure(s) (such as a gazebo or lean -to) when the aggregate area of all such",
+              "use_type": "conditional"
+            },
+            {
+              "number": "1",
+              "text": "The Vermont Wetland Rules. Contact the Wetland Office, Water Quality Division of the",
+              "use_type": "conditional"
+            },
+            {
+              "number": "2",
+              "text": "Vermont's Accepted Agricultural Practices (AAP's) . Contact the Vermont Agency of",
+              "use_type": "conditional"
+            },
+            {
+              "number": "3",
+              "text": "Vermont's Acceptable Management Practices for Maintaining Water Quality on Logging",
+              "use_type": "conditional"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

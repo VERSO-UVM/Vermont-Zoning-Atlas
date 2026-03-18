@@ -1,0 +1,238 @@
+{
+  "metadata": {
+    "municipality": "Greensboro",
+    "county": "Orleans",
+    "state": "Vermont",
+    "bylaw_date": "0303-20-15",
+    "source_pdf": "Orleans_Greensboro_Text_eff03032015.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 95,
+    "word_count": 31039,
+    "articles_found": 9,
+    "sections_found": 2,
+    "subsections_found": 6,
+    "regulation_rows": 0,
+    "list_items": 17
+  },
+  "articles": [
+    {
+      "number": "1",
+      "title": "Authority and Purpose",
+      "sections": [
+        {
+          "number": "2012",
+          "title": "Greensboro Town Plan and 24 V.S.A. S4302",
+          "page": 10,
+          "paragraphs": [
+            "S 1.3 Application and Interpretation (A) Within the town of Greensboro no land development or land subdivision shall commence, nor shall any structure be erected or altered, except in conformance with the requirements of this Bylaw. (B) In their interpretation and application, the provisions of this Bylaw shall be held to be minimum requirements adopted for the promotion of the public health, safety, comfort, convenience, and general welfare. (C) It is not intended by this Bylaw to repeal, annul or in any way impair any regulations or permits previously adopted or issued, provided, however, that where these regulations impose a greater restriction upon use of a structure or land than are required by any other statute, rule, regulation permit, easement, or agreement, the provisions of this Bylaw shall control. (D) Where the meaning of the Bylaw is not apparent to the Administrative Officer or the Development Review Board, interpretation of the Bylaw will be made by the Planning Commission and that interpretation will be attached to the Zoning Permit and entered into the minutes of the hearing if a hearing is held. S 1.4 Separability The invalidity of any article or section of this Bylaw shall not invalidate any other article or section thereof. S 1.5 Adoption and Effective Date This Bylaw shall take effect in accordance with the procedures contained in 24 V.S.A. S4442. GREENSBORO ZONING BYLAW as amended on March 3, 2015 S 1.6 Amendments These Regulations may be amended according to the requirements and procedures established in 24 V.S.A., SS 4441 and 4442. S 1.7 Repeal With the adoption of this Zoning Bylaw, the former Greensboro Zoning Bylaw, adopted January 13, 2009, as amended on March 5, 2013 , is hereby repealed. GREENSBORO ZONING BYLAW as amended on March 3, 2015"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "Zoning Districts",
+      "sections": []
+    },
+    {
+      "number": "3",
+      "title": "General Regulations",
+      "sections": []
+    },
+    {
+      "number": "4",
+      "title": "Specific Use Provisions",
+      "sections": []
+    },
+    {
+      "number": "5",
+      "title": "Administration and Enforcement",
+      "sections": []
+    },
+    {
+      "number": "6",
+      "title": "Flood Hazard Area Regulations",
+      "sections": []
+    },
+    {
+      "number": "7",
+      "title": "Telecommunication Facilities Regulations",
+      "sections": []
+    },
+    {
+      "number": "8",
+      "title": "of this Bylaw is adopted by the Town of Greensboro under authority of 24 V.S.A. S 4424, 24",
+      "sections": [
+        {
+          "number": "8.11",
+          "title": "of this bylaw",
+          "page": 69,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "C",
+              "title": "Stormwater shall be managed through land development strategies and best management practices as",
+              "paragraphs": [
+                "recommended by the state in the Vermont Low Impact Development Guide for Residential and Small Sites."
+              ],
+              "items": []
+            },
+            {
+              "label": "E",
+              "title": "Runoff from cleared or impervious areas within the Shoreland Protection District shall not enter the",
+              "paragraphs": [
+                "Shoreland Buffer Resource Zone in channelized form."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "New Development must also comply with the applicable Flood Hazard Area regulations (Article 6) if",
+              "paragraphs": [
+                "it is located in the Special Flood Hazard Area."
+              ],
+              "items": []
+            },
+            {
+              "label": "F",
+              "title": "Roads and Driveways",
+              "paragraphs": [
+                "surface i nto surrounding vegetation or a stabilized ditch. W ater bars can also be utilized to intercept water flowing lengthwise down the surface and transfer it off to the side into vegetation or ditched areas.",
+                "avoided.",
+                "greater than 5% shall be lined with riprap.",
+                "150 feet from the water's edge. GREENSBORO ZONING BYLAW as amended on March 3, 2015",
+                "avoid ditch erosion.",
+                "products in the Shoreland Protection District. S 8.11 Shoreland Protection District Erosion Prevention and Sediment Control Standards for New Construction, Reconstruction, and Relocation."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Roads and driveways shall be properly crowned to allow stormwater to flow immediately off the",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Banks shall have a slope of 2:1 (horizontal: vertical) or less.",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Grades shall be no steeper than 10% . New roads or driveways crossing Steep Slopes shall be",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Drainage ditches with slopes less than 5% shall be lined with grass and run -off ditches; slopes",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "Drainage ditches shall empty, in a diffused manner, into vegetated buffer strips set back at least",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Adequate and correctly installed cross drains, culverts, and water turnouts shall be provided to",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "New and existing driveways shall not be paved but may have StayMat or other similar gravel",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "A",
+              "title": "The extent of earthwork, erosion potential, and protection of critical features shall be considered in",
+              "paragraphs": [
+                "site selection and design. Site selection shall consider existing topography, existing drainage courses, vegetation and soil conditions. Erosion prevention and sediment control measures shall be well thought-out early in the selection process.",
+                "disturbance, exposure time, soil compaction and topography change.",
+                "undisturbed space. Environmentally sensitive areas shall be a priority for preservation.",
+                "area into an undisturbed vegetated area.",
+                "leaving the site.",
+                "identified and delineated in the field with appropriate safety or landscape fencing. In areas outside the disturbance area, there shall be no storage of construct ion vehicles, construction materials, or fill, nor shall these areas be used for circulation.",
+                "at the conclusion of each phase of construction, or at the con clusion of construction if not phased. Use only matting with non-fixed net joints so animals will not get trapped in the matting.",
+                "prohibited."
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "Development of a lot or site shall require the least possible amount of vegetation clearing, soil",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "Lot coverage and building footprints shall minimize site disturbance and preserve large areas of",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "Runoff from above the construction site shall be intercepted and directed around the disturbed",
+                  "use_type": null
+                },
+                {
+                  "number": "4",
+                  "text": "Vegetated strips and swales, sediment traps, and silt fences shall be used to prevent soil from",
+                  "use_type": null
+                },
+                {
+                  "number": "5",
+                  "text": "There shall be no soil compaction outside the construction disturbance area, which shall be",
+                  "use_type": null
+                },
+                {
+                  "number": "6",
+                  "text": "Immediate seeding and mulching or the application of an erosion control mat shall be completed",
+                  "use_type": null
+                },
+                {
+                  "number": "7",
+                  "text": "Development, grading or clearing of vegetation on land where the slope is greater than 15% is",
+                  "use_type": null
+                }
+              ]
+            },
+            {
+              "label": "B",
+              "title": "Pre-Development Submission Requirements for Single Family Dwellings and Accessory",
+              "paragraphs": [
+                "Dwelling Units. (Accessory Structures are exempted from these requirements).",
+                "natural communities, and site features that aid in stormwater management such as nat ural drainage ways and vegetated lands. GREENSBORO ZONING BYLAW as amended on March 3, 2015",
+                "disturbance and its proximity to the Shorel and Buffer Resource Zone and Lake. The plan shall include consideration of low impact development concepts as recommended in the Vermont Low Impact Development Guide for Residential and Small Sites.",
+                "recommended by the state in The Low Risk Site Handbook for Erosion Prevention and Sediment Control.6 S 8.12 Independent Technical Review See Section 5.12 for full discussion of the Independent Technical Review in the Greensboro Zoning Bylaw. S 8.13 Other Laws This Article is in addition to all other regulations of the Town of Greensboro and all applicable laws of the State of Vermont. S 8.14 Abrogation and Greater Restrictions This Article does not intend to repeal, abrogate, or impair any existing easements, covenants, or deed restrictions. However, where this Bylaw imposes greater restrictions, the provisions of this Bylaw shall prevail. All other regulations inconsistent with this bylaw are hereby repealed to the extent of the inconsistency only. S 8.15 Severability If any section of this Article is held by a court of competent jurisdiction to be invalid, such finding shall not invalidate any other part of this Bylaw. 6 Any construction activity that disturbs one or more acres of land, or is part of a larger development plan that will disturb an acre or more requires a Vermont state permit for stormwater discharges from construction sites. GREENSBORO ZONING BYLAW as amended on March 3, 2015"
+              ],
+              "items": [
+                {
+                  "number": "1",
+                  "text": "An existing condition site assessment providing slope profiles, existing gradients, sensitive",
+                  "use_type": null
+                },
+                {
+                  "number": "2",
+                  "text": "A map drawn to scale showing the location, extent and type of proposed Development and land",
+                  "use_type": null
+                },
+                {
+                  "number": "3",
+                  "text": "An erosion and sediment control plan that incorporates accepted management practices as",
+                  "use_type": null
+                }
+              ]
+            }
+          ],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "title": "Definitions and Acronyms",
+      "sections": []
+    }
+  ]
+}
