@@ -1,0 +1,1449 @@
+{
+  "metadata": {
+    "municipality": "Baltimore",
+    "county": "Windsor",
+    "state": "Vermont",
+    "bylaw_date": "0826-20-09",
+    "source_pdf": "Windsor_Baltimore_Text_eff08262009.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 50,
+    "word_count": 19531,
+    "articles_found": 9,
+    "sections_found": 65,
+    "subsections_found": 0,
+    "regulation_rows": 0,
+    "list_items": 111
+  },
+  "articles": [
+    {
+      "number": "1",
+      "title": "Authority and Purpose",
+      "sections": [
+        {
+          "number": "1.1",
+          "title": "Enactment",
+          "page": 4,
+          "paragraphs": [
+            "In accordance with the Vermont Planning and Development Act (hereinafter referred to as the \"Act\") 24 V.S.A., Chapter 117, Subchapter 6, S 4401 , this hereby estab lishes the Town of Baltimore Unified Bylaws which is set forth in the following text. These regulations shall be known as the \"Town of Baltimore Unified Bylaws\""
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1.2",
+          "title": "Purpose",
+          "page": 4,
+          "paragraphs": [
+            "These regulations shall be in conformance with the Baltimore Town Plan, shall be adopted for the purposes set forth in [24 VSA S4302] and shall be in accord with the policies set forth therein. The specific purpose of these regulations is to: * To ensure that all development is compatible with the ecology, topography, geology, natural drainage, surface water runoff, groundwater resources, agricultural resources, and present and potential uses of land identified in the maps of the Baltimore Town Plan * To protect and provide for the comfort, convenience, safety, health, and welfare of the people of the * To ensure that development conforms to the policies set forth in the Baltimore Town Plan. The Planning Commission will refer to the goals, objectives, and policies established in the Town Plan in making decisions and requiring modifications to any subdivision request * To guide future growth at a reasonable rate that does not overburden the town services and facilities * Encourage responsible land use and careful stewardship of the natural resources, rural character, and cultural heritage * To protect property owners from extensive development in areas not suitable for such development * To minimize the change of land use in any areas used at present for agricultural purposes"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1.3",
+          "title": "Application of Regulations",
+          "page": 4,
+          "paragraphs": [
+            "A zoning permit issued by the Zoning Administrator shall be required for any land development as defined by the Act [S 4303] except for development specifically exem pted from these Bylaws under the Act [S 4413]. Such permit may be issued only in conformance with these Bylaws and other Town regulations as provided in the Act [S 4446]. Any use not allowed by these regulations shall be deemed prohibited. Approval by t he Planning Commission shall be required for any proposed subdivision in accordance with"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.1",
+          "title": "of these Bylaws",
+          "page": 4,
+          "paragraphs": [
+            "Any proposed boundary adjustment shall be required to obtain boundary line adjustment approval by the Zoning Administrator in accordance with Section 6.2 of these Bylaws."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1.4",
+          "title": "Conformance with Other Regulations",
+          "page": 4,
+          "paragraphs": [
+            "The adoption of this Bylaw shall not repeal any permit previously issued. All land development shall be subject to all other applicable local, state and federal regulations. Where there are inconsistencies between regulations, the more stringent regulations shall apply. Unified Bylaws for Town of Baltimore 8-5-2009"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1.5",
+          "title": "Interpretation",
+          "page": 5,
+          "paragraphs": [
+            "The provision of these regulations shall be the minimum requirement s adopted for the promotion of public health, safety, comfort, convenience, and general welfare. These regulations shall not repeal, annul, or in any way impair any permit previously issued. Where these regulations impose a greater restraint or restriction than is provided under any other statute, bylaws , ordinance, rule or regulation, then these regulations shall govern."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1.6",
+          "title": "Adoption and Amendments; Effective Date",
+          "page": 5,
+          "paragraphs": [
+            "These regulations may from time to time be amended or repealed to respect changing social, environmental, or economic conditions within the town. After the completion of the final public hearing, the bylaws may be amended by a majority vote of the Selectboard in accordance with the Act [S 4442(c)(1) ]. The Zoning Ordinance and Subdivision Regulations heretofore in effect (Baltimore Zoning Ordinance, 2005; and Baltimore Subdivision Regulations, 199 2) shall be dee med repealed upon the effective date of the se Bylaws. Any mandatory changes enacted by the State shall automatically become part of these Bylaws. These regulations shall take effect 21 days after adoption by the Selectboard of the Town of Baltimore."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1.7",
+          "title": "Severability",
+          "page": 5,
+          "paragraphs": [
+            "The invalidity of any provision of this Bylaw shall not invalidate any other provisions. Unified Bylaws for Town of Baltimore 8-5-2009"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "ESTABLISHMENT OF ZONING DISTRICTS AND DISTRICT STANDARDS",
+      "sections": [
+        {
+          "number": "2.0",
+          "title": "Establishment of Zoning Districts and Zoning Map",
+          "page": 6,
+          "paragraphs": [
+            "For the purposes of these Bylaws, one Rural Residential District shall encompass the entire land area of the Town of Baltimore. Since there is only one district in Baltimore, no zoning map is needed."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.1",
+          "title": "Rural Residential District",
+          "page": 6,
+          "paragraphs": [
+            "The purpose of the Rural Residential D istrict is to provide for growth that is compatible with the existing rural character of Baltimore, protect residential development from incompatible adjacent uses, and protect scenic resources, wildlife habitat and water resources. (A) Permitted Uses",
+            "by the Zoning Administrator in accordance with Section 5.1 of these regulations: a. Accessory Dwellings (Section 3.1) b. Accessory Structures and Uses c. Family Childcare Home (Section 3.4) d. Home Occupation (Section 3.7) e. Residential Care Home or Group Home f. Single-Family Residential g. Two-Family Residential",
+            "Planning Commission in accordance with Section 5.3 of these regulations, and issuance of a zoning permit by the Zoning Administrator: h. Multi-Family Residential (B) Conditional Uses",
+            "conditional use approval by the Zoning Board of Adjustment in accordance with the provisions set forth in Section 5.2 of these regulations , and issuance of a zoning permit by the Zoning Administrator: a. Commercial Uses b. Family Childcare Facility (Section 3.4) c. Home-Based Businesses (Section 3.7) d. Light Industrial Uses e. Mobile Home Parks (Section 3.9) f. Wireless Telecommunication Facilities (Section 3.11) (C) Dimensional Requirements. Dimensional requirements for lots in the Rural Residential District shall be as specified below: Unified Bylaws for Town of Baltimore 8-5-2009",
+            "Unified Bylaws for Town of Baltimore 8-5-2009"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "The following uses are permitted in the Rural Residential District upon issuance of a zoning permit",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "The following uses are permitted in the Rural Residential District upon Site Plan Approval by the",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "In addition to Site Plan Review, the following uses in the Rural Residential District require",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "Minimum Lot Area Per Dwelling Unit 3 Acres",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Minimum Lot Size 3 Acres",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Minimum Road Frontage 100 Feet",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Minimum Front Setback 100 Feet from ROW (or 125' from road centerline)",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Minimum Side Setback 50 Feet",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Minimum Rear Setback 50 Feet",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "Maximum Building Height 35 Feet",
+              "use_type": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "SPECIFIC USE STANDARDS",
+      "sections": [
+        {
+          "number": "3.0",
+          "title": "Specific Standards for Designated Uses",
+          "page": 8,
+          "paragraphs": [
+            "The following standard s shall apply to the use in all zoning districts in which the respective uses are allowed. Such uses may be subject to conditional use review in accordance with Section 5.2. If there is a conflict between a standard in this section and a standard in anot her section of these regulations, the more restrictive standard shall apply."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.1",
+          "title": "Accessory Dwelling",
+          "page": 8,
+          "paragraphs": [
+            "(A) Accessory dwellings are permitted throughout Town where single -family dwellings are permitted. A zoning permit shall be required. This provision is intended, in part, to meet all statutory requirements pertaining to accessory apartments included in the Act [S 4412]. (B) One accessory dwelling unit may be permitted on the same lot as one single- family dwelling unit in accordance with the following:",
+            "non-conforming structure, the accessory dwelling shall in no way increase the degree of non - conformance under Section 4.6.",
+            "the principal dwelling unit.",
+            "street parking capacity exists to safely accommodate residents of the primary dwelling and accessory dwelling. In addition, a water and/or wastewater permit issued by the VT Agency of Natural Resources may be required before construction of any accessory dwelling. A copy of an Agency of Natural Resources P roject Review Sheet shall be required as part of the zoning permit application.",
+            "structure to the primary single -family residence, and shall be retained in common ownership. An accessory dwelling may not be subdivided and/or sold under separate ownership."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "The accessory dwelling shall meet all setback and other dimensional requirements; or, for a",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "The floor area of the accessory dwelling shall not exceed 30 percent of the total floor area of",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "It shall be demonstrated to the satisfaction of the Zoning Administrator that adequate off -",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "The permit for the accessory dwelling shall clearly state that the dwelling is an accessory",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "3.2",
+          "title": "Accessory Structures",
+          "page": 8,
+          "paragraphs": [
+            "All accessory structures, other than fences and signs , shall conform to the appropriate setback requirements. Accessory structures larger than 144 square feet shall require a permit."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.3",
+          "title": "Agricultural Structures",
+          "page": 8,
+          "paragraphs": [
+            "Agricultural structures shall not be regulated by these regulations. However, such structures shall abide by setbacks approved by the secretary of agriculture, food and markets in accordance with the Act [ S 4413(d)]. Written notification of proposed construction of agricultural struc tures shall be provided to the Zoning Administrator by the property owner. No zoning permit shall be required."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.4",
+          "title": "Childcare Facilities",
+          "page": 8,
+          "paragraphs": [
+            "(A) Family childcare homes operated in a residence involvin g the care of no more than six full- time and four part -time children may be permitted in the Rural Residential District. A zoning permit shall be required. Unified Bylaws for Town of Baltimore 8-5-2009 (B) Family childcare facilities involving the care of more than six full- time and four part -time children may be permitted in the Rural Residential District subject to conditional use approval under"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.2",
+          "title": "A zoning permit shall be required",
+          "page": 9,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.5",
+          "title": "Commercial and Light Industrial Uses",
+          "page": 9,
+          "paragraphs": [
+            "Commercial and light industrial uses require conditional use review as specified under Section 5.2."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.6",
+          "title": "Filling of Land",
+          "page": 9,
+          "paragraphs": [
+            "Filling of land with loam, rock, gravel, sand or other such material is allowed in all districts as a permitted use provided that finish contours are graded, measures are taken to prevent erosion, and natural drainage flows are not obstructed or diverted onto adjacent properties."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.7",
+          "title": "Home Occupations and Home-Based Businesses",
+          "page": 9,
+          "paragraphs": [
+            "No provision in these regulations shall infringe upon the right of any resident to use a minor portion of a dwelling that is customary in residential areas for hom e occupations, which do not have an undue adverse effect upon the character of the residential area in which the dwelling is located. Home occupations are permitted as an accessory use in all districts where residential uses are permitted. Home-based businesses are permitted as a conditional use in all districts where residential uses are permitted and are subject to the following provisions: (A) The home based -business shall be clearly incidental and secondary to the residential use of the property, and shall be conducted wholly within the principal or accessory structures; (B) The home based -business shall be carried on by members of the family residing in the dwelling unit. Two additional employees who are not members of the family are permitted; (C) No traffic shall be generated which would be uncharacteristic of the neighborhood; (D) Exterior displays or signs other than those normally permitted in the district, exterior storage of materials, and exterior indications of the home occupation or variation from the res idential character of the principal or accessory structures shall be prohibited."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.8",
+          "title": "Mobile Homes and Modular Housing",
+          "page": 9,
+          "paragraphs": [
+            "(A) Mobile homes are allowed on lots as single -family dwelling units. A zoning permit shall be required. (B) Modular or prefabricated housing are allowed on lots as single -family dwelling units. A zoning permit shall be required."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.9",
+          "title": "Mobile Home Parks",
+          "page": 9,
+          "paragraphs": [
+            "(A) Mobile hom e parks are allowed subject to conditional use approval under Section 5.2, and in accordance with applicable state requirements. (B) Mobile home parks shall provide common open space accessible to all residents for the mobile home park, and shall have sufficient landscaping or other screening to provide visual and acoustic privacy for residents in adjacent lots. Unified Bylaws for Town of Baltimore 8-5-2009 (C) A minimum of 10,000 square feet of lot area shall be provided for each mobile home with minimum setback from other mobile homes of 30 feet, and mobile home parks shall meet all state Water-Wastewater regulations, and shall protect water quality. (D) If a mobile home park is a nonconformity, the entire park, not individual lots, must be treated as a nonconformity per Section 4.6 and the Act [S 4412(1)(C)]."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.10",
+          "title": "Recreational Vehicles",
+          "page": 10,
+          "paragraphs": [
+            "Recreational vehicles (campers, travel trailers) may be stored on the premises of the owner. They may not be used for dwelling purposes for more than one (1) month at a time without approval of the Zoning Board of Adjustment."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.11",
+          "title": "Wireless Telecommunications Facilities",
+          "page": 10,
+          "paragraphs": [
+            "(A) The purpose of this provision is to regulate the construction, alteration, development, decommissioning or dismantling of wireless communication facilities and ancillary structures and improvements. Activities regarding the decommissioning or dismantling of communication facilities and ancillary structures may include requirements that a bond be posted, or other security acceptable to the Zoning Board of Adjustment, in order to finance the decommissioning or dismantling of all or any portion of the facility. Pursuant to the Act [ S 4440(d)], the Board is authorized to hire qualified persons to conduct an independent technical review of applications and to require the applicant to pay all reasonable costs thereof. (B) A wireless communication facility requires conditional use review by the Zoning Board of Adjustment. In add ition to the relevant bylaws, the Board shall review an application for a wireless telecommunications facility for compliance with the conditional use standards in Section 5.2, the standards listed below and may attach certain additional requirements or conditions to a permit.",
+            "telecommunications provider, or must provide a copy of its lease/contract with the property owner and an existing telecommunications provider. A permit shall not be granted for a tower to be built on speculation.",
+            "wireless communications facilities shall include the following supplemental information: a. The name and address of the applicant, the record landowners, and any duly appointed agents of the landowners or applicants. If the applicant is not an actual person, the name of the business and the state in which it is registered shall be provided. b. The name, add ress, and telephone number of the person to be contacted and authorized to act in the event of an emergency. c. The names and addresses of the record owners of all abutting property. d. A report from a qualified and licensed professional engineer that describes the tower height and design including a cross section and elevation. e. A written five -year plan for use of the proposed facility, including reasons for seeking capacity in excess of immediate needs, as well as plans for further developments and coverage within the Town. Unified Bylaws for Town of Baltimore 8-5-2009 f. For all commercial wireless telecommunication service towers, a letter of intent committing the tower owner and his or her successors to permit shared use of the tower if the additional user agrees to meet reasonable terms and conditions for shared use. g. Vicinity Map showing the entire vicinity within a 2,500 foot radius of the tower site, including the topography, public and private roads and driveways, buildings and structures, water bodies, wetlands, landscape features, historic sites, and areas designated by the Vermont Agency of Natural Resources as critical wildlife habitat or as known locations of endangered or threatened species. It shall indicate the property lines of the proposed tower site parcel and all easements or rights -of-way needed for access from a public way to the tower. h. Proposed plans of the entire development indicating all improvements including landscaping, screening, power lines, storage and maintenance buildings, and roads. i. Elevations showing all facades and indicating all exterior materials and color of towers.",
+            "Radio Frequency (RF) engineer, that the proposed facility will comply with all applicable Federal Communications Zon ing Board of Adjustment (FCC) rules governing RF radiation and interference. The Zoning Board of Adjustment may require post -construction monitoring to ensure compliance.",
+            "structures, necessary access corridors, and utility lines) shall minimize impacts on natural, scenic, and aesthetic resources to the fullest extent possible. The Zoning Board of Adjustment is specifically authorized to place, among other conditions, restrictions on the type of structure (i.e. lattice tower) and the height of a facility above existing roof lines and tree canopies. Lighting shall not be allowed unless specifically required by the Federal Aviation Administration (FAA), and must be shielded from surrounding properties to the greatest extent possible. No tower shall be placed on Hawks Mountain at 1,500 feet in elevation or above.",
+            "equipment for that provider shall be removed from the site within 180 days of discontinuance. In the event that all users of a tower discontinue use, the site shall be restored to its natural condition, or to the condition that existed prior to construction or installation, a s appropriate, within 180 days of discontinuance. The Zoning Board of Adjustment may require an applicant to secure a bond on the property ensuring removal of the facility and site rehabilitation.",
+            "but not limited to buildings, existing communications facilities, and utility poles and towers. An applicant for a new tower or support structure shall have the burden of demonstrating, to the satisfaction of the Z oning Board of Adjustment, that there are no existing structures on which it is feasible to locate. This demonstration shall include, at a minimum: a. A map showing other FCC -licensed wireless communications facilities within the Town and within ten miles of the proposed site. b. A propagation study, showing why available structures cannot be used to attain the coverage necessary for the applicant to provide service to the town. Unified Bylaws for Town of Baltimore 8-5-2009",
+            "the relevant bylaws, the Zoning Board of Adjustment shall review an application for a wireless telecommunications facility for compliance with this Section 3.11, as well as the conditional use standards in Section 5.2 and may attach certain additional requirements or conditions to a permit. Unified Bylaws for Town of Baltimore 8-5-2009"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "An applicant for a telecommunications tower or facility must be the property owner, a",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "In addition to information otherwise required under this ordinance, all applications for",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Before receiving a permit an applicant shall demonstrate, through certification by a qualified",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Siting and design of communications facilities (including any support and maintenanc e",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "In the event that the use of a tower by any licensed provider is discontinued, all specific",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "If feasible, wireless communications facilities shall be located on existing structures, including",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "A wireless telecommunication facility is a conditional use in any part of Town. In addition to",
+              "use_type": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "GENERAL REGULATIONS",
+      "sections": [
+        {
+          "number": "4.0",
+          "title": "Applicability of General Regulations",
+          "page": 13,
+          "paragraphs": [
+            "The following general standards and provisions, including requirements of the Act, apply to all uses and structures."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.1",
+          "title": "Access and Frontage Requirements",
+          "page": 13,
+          "paragraphs": [
+            "(A) All land development shall have either frontage on a maintained public road (Class 2 or 3 town highway) or access to such a road by a permanent easement or right -of-way at least three rods (49.5 feet) in width, with the approval of the Planning Commission or Zoning Board of Adjustment in accordance with these Bylaws, or to public waters. For access subject to Planning Commission or Zoning Board of Adjustment approval, either board may consider intended use, safety, traffic, and road and site conditions in granting or denying such approval. (B) A written permit for access to a public highway is required from the Baltimore Selectboard. (C) All access roads and driveways shall be subject to the provisions set forth in the Baltimore Road Ordinance. (D) Lot frontage requirements apply to lots served by private development roads as well as lots served by public roads. (E) Development shall be permitted , which is accessible only by intersection with a Class 4 town highway, providing that the applicant secures written permission of the Baltimore Selectboard and the proposal is in accordance with the Baltimore Road Ordinance and any other local regulations in effect."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.2",
+          "title": "Conversions and Changes of Use",
+          "page": 13,
+          "paragraphs": [
+            "Conversions or changes in the use of land, existing buildings or other structures are subject to the provisions of this Ordinance."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.3",
+          "title": "Equal Treatment of Housing",
+          "page": 13,
+          "paragraphs": [
+            "In accordance with the Act [S 4412], no provision in these regulations shall have the effect of excluding mobile homes, modular housing, or other forms of prefabricated housing from Baltimore except upon the same terms and conditions as conventional housing is excl uded. Additionally, provisions for the establishment of mobile home parks and accessory apartments are included under Sections 3.8 and 3.1, respectively. The equal treatment of housing is intended to provide low- and moderate-income housing options in Baltimore."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.4",
+          "title": "Height Limitations",
+          "page": 13,
+          "paragraphs": [
+            "The maximum height of structures in all parts of Town shall not exceed the district maximum specified under structures, wind turbines with blades less than 20 feet in diameter, or rooftop solar collectors, any of which are mounted on complying structures. Height limitations for wireless telecommunications facilities are specifically addressed under Section 3.11. Unified Bylaws for Town of Baltimore 8-5-2009"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.5",
+          "title": "Lot and Yard Requirements",
+          "page": 14,
+          "paragraphs": [
+            "(A) Reduction in Lot Area. No lot shall be so reduced in land area that the area, yard, lot width, frontage, coverage or other requirements of these regulations are less than the minimum standards herein prescribed. (B) Required Lot and Yard Areas. In calculating the required area, width or depth of a lot, the area of existing and proposed road rights-of-way shall be excluded. (C) Corner Lots. Lots at an intersection of streets shall have the required frontage on one street, and both yards adjoining the streets shall meet the front yard setback requirements. (D) Principal Structure / Use. There shall only be one principal structure and/or use on a lot. (E) Setbacks. The shortest distance between the exterior of a building, including covered terraces and projections thereof, but excluding steps, uncovered patios and terraces, and the nearest adjacent boundary or the b uilding lot. On public or private rights -of-way fifty (50) feet or more wide, the front setback shall be measured from the edge of the right- of-way. On public or private rights -of-way less than (50) feet or of undetermined width, the front setback shall be measured from a line one -hundred and twenty -five (125) feet away from the centerline of the traveled portion of the roadway."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.6",
+          "title": "Nonconformities",
+          "page": 14,
+          "paragraphs": [
+            "(A) Existing Nonconformities. Any lawful lot, building or use in existence at the time of adoption or amendment of these regulations may be continued. Such lot, building or use shall meet all other requirements of these regulations, and is subject to the following provisions. (B) Nonconforming Lots",
+            "regulations, may be maintained and developed for the purposes permitted in that district as long as all other requirements for that district are met.",
+            "and is in existence on the date of enactment of any bylaws , may be developed for the purposes permitted by these regulations, even though the small lot does not conform with the minimum lot size requirements of these regulations. (C) Nonconforming Structures",
+            "nonconforming structure provided such action does not increase the degree of noncompliance. Any noncon forming structure lawfully existing as of the effective date of these regulations or of any pertinent amendment thereto, may be maintained indefinitely subject to the following conditions: a. No nonconforming structure shall be enlarged unless the enlarged portion conforms to the building and setback requirements of these regulations. Unified Bylaws for Town of Baltimore 8-5-2009 b. Any nonconforming structure which has been substantially damaged or destroyed to an extent more than seventy -five (75) percent of its value as assessed by the Town may be resto red within a one (1) year period, and shall not increase the degree o f noncompliance. (D) Nonconforming Uses",
+            "date of these regulations or of any pertinent amendment th ereto, including a use improperly authorized as a result of error by the Zoning Administrator, may be continued subject to the following conditions: a. A nonconforming use may be changed either to a conforming use, or to another nonconforming use of a lesser , or no more nonconforming nature, and is subject to conditional use review by the Zoning Board of Adjustment. b. No nonconforming use shall, if once changed into a conforming use, be changed back again into a nonconforming use. c. Any nonconforming use which has been discontinued for a period of one (1) year shall thereafter conform to the provisions of these regulat ions. Intent to resume a nonconforming use shall not confer the right to do so unless actual resumption occurs within the specified time period. d. No nonconforming use shall be extended or expanded except with conditional use approval from the Zoning Board of Adjustment, which shall have determined that no greater detrimental effect upon the community or neighborhood will result. Unified Bylaws for Town of Baltimore 8-5-2009"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Any lawful l ot that does not meet the specified dimensional requirements in these",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Existing Small Lots. In accordan ce with the Act [S 4412], any lot that is legally subdivided,",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "Nothing in these regulations shall prevent the maintenance or improvement of an existing",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "Any nonconforming use of land, buildings or premises lawfully existing as of the effective",
+              "use_type": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "title": "DEVELOPMENT REVIEW",
+      "sections": [
+        {
+          "number": "5.0",
+          "title": "Applicability and Coordination of Review Process",
+          "page": 16,
+          "paragraphs": [
+            "(A) Conditional Use Review. Conditional use review pursuant to Section 5.2 and the Act [S 4414] shall apply to all conditional uses as designated in Article 2 or as otherwise specified under Articles 3 or 4. (B) Site Plan Review. Site plan review pursuant to Section 5. 3 and the Act [ S 4416], shall apply to all permitted uses requiring site plan review as designated in Article 2. Accessory structures, single - family residential and two-family residential shall not require site plan review. (C) Subdivision Review.",
+            "and the Act [S 4418].",
+            "of these regulations may occur concurrently with subdivision review if all application and procedural requirements according to each respective review process are met and separate decisions are issued. When subdivision and conditional use review are both required for a particular project, subdivision review shall precede conditional use review. When applicable, conditional use review shall incorporate the findings and conditions of subdivision approval. The Planning Commission and Zoning Board of Adjustment may hold hearings, either jointly or separately, on the same evening if requested by the applicant. Hearing notices must be warned separately and written decisions by the Planning Commission and Zoning Board of Adjustments must be issued.",
+            "[S 4418 and 4464(c)]. (D) Site Visits. The Zoning Administrator, Planning Commission and/or the Zoning Board of Adjustment will make a site visit per each application before issuing any permits."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Subdivision review shall ap ply to all proposed subdivisions pursuant to Section 6.1",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Site Plan review under Section 5.3 and/or conditional use review under Section 5.2",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Boundary adjustment review shall apply in accordance with Section 6.2 and the Act",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "5.1",
+          "title": "Application Submission Requirements",
+          "page": 16,
+          "paragraphs": [
+            "(A) Permitted Uses. Applications for Permitted Uses shall include a completed application form provided by the Town, all required fees and enough information to demonstrate that the proposal complies with all applicable zoning standards. Permits for permitted uses may be granted by the Zoning Administrator. (B) Site Plan, Conditional Uses. Applications for site plan and conditional use review shall include a completed application form provided by the Town"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.2",
+          "title": "Conditional Use Review Standards and Procedures",
+          "page": 16,
+          "paragraphs": [
+            "(A) Application. An application for conditional use review, including a development plan prepared in accordance with Section 5.1 abo ve and associated fees, shall be submitted to the Zoning Administrator for consideration at the next available regularly scheduled meeting of the Zoning Board of Adjustment. Unified Bylaws for Town of Baltimore 8-5-2009 (B) Review Procedure. The Zoning Administrator shall schedule a public hearing of th e Zoning Board of Adjustment, warned in accordance with the Act [S 4444], within 30 days of the submission of a complete application as specified in Section 5.1. The Zoning Board of Adjustment will consider whether the proposed use or structure conforms to the conditional use standards set forth below. The Zoning Board of Adjustment shall act on the proposal in accordance to Section 5.1. (C) General Standards. Conditional use approval shall be granted by the Zoning Board of Adjustment upon their determination that the proposed use or structure will not adversely affect the following standards:",
+            "(D) Specific Standards. In addition to the General Standards, the following shall apply to all",
+            "conditional uses:",
+            "Section;",
+            "pitch of roofs, massing and/or orientation - shall be compatible with their proposed setting and context, as determined by Town Plan goals and policies, zon ing district requirements, existing site conditions and adjacent structures and uses;",
+            "or fragile features - including wetlands, slopes greater than 25 percent, streams, w ildlife habitat, groundwater source protection areas and floodplains - located on or adjacent to the lot. (E) Waivers for Minor Projects. The Zoning Board of Adjustment may waive one or more of the standards set forth in subsections (C) or (D) above, should the Board determine that the proposed use:"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "The capacity of existing or planned community facilities;",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "The character of the area affected;",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Traffic on roads and highways in the vicinity;",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Bylaws now in effect; and,",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "The utilization of renewable energy resources.",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "Site Plan Review General Standards shall apply to all conditional uses reviewed under this",
+              "use_type": "conditional"
+            },
+            {
+              "number": "2",
+              "text": "The design and location of structures - including siting, density, setbacks, height, type and",
+              "use_type": "conditional"
+            },
+            {
+              "number": "3",
+              "text": "Proposed developments shall not have an adverse impact on important natural resources",
+              "use_type": "conditional"
+            },
+            {
+              "number": "1",
+              "text": "Will not result in an exterior change to an existing building; and,",
+              "use_type": "conditional"
+            },
+            {
+              "number": "2",
+              "text": "Will not require alterations to an existing site.",
+              "use_type": "conditional"
+            }
+          ]
+        },
+        {
+          "number": "5.3",
+          "title": "Site Plan Review",
+          "page": 17,
+          "paragraphs": [
+            "(A) Application. An application for site plan review, including a site development plan prepared in accordance with Section 5.1, and associated fees, shall be submitted to the Zoning Administrator for consideration at the next available regularly scheduled meeting of the Planning Commission. (B) Review Procedure. The Zoning Administrator shall schedule a public hearing for the Planning Commission to review an application and determine whether it is complete, and to determine whether the proposed use or structure conforms to the site plan review standards set forth below. The Planning Commission shall act to approve, approve with conditions , or disapprove any Unified Bylaws for Town of Baltimore 8-5-2009 application in accordance with the Act [S 4464], and shall issue a written decision to include findings, any condition s and provisions for appeal. Failure to act in forty five ( 45) days after adjournment of the hearing shall deem the application approved effective on the forty sixth ( 46) day. Hearings for conditional use and site plan review may be consolidated at the discretion of the Zoning Board of Adjustment. In approving a project with conditions, the Planning Commission may require specific modifications to the design, scale and/or configuration of the project. (C) Site Plan Review Standards. In reviewing site plans , the Planning Commission shall give consideration to conditions and safeguards with respect to traffic access, circulation and parking, landscaping and screening, compatibility with surrounding development, noise, vibration, erosion, dust, and the protect ion of natural resources. Consideration shall be given to traffic mobility and safety on affected streets, impacts on surrounding uses, and to desired land use patterns expressed in the Town Plan and these regulations . Conditions may include but are not limited to the following:",
+            "design and placement of structures to conform with the existing relationship of surrounding buildings to the street, the landscape and to each ot her, including setback distances, physical orientation, construction materials and architectural design. Design should not be limited to any particular style or period, but shall be consistent with established trends and patterns in the surrounding area.",
+            "Planning Commission may: a. Require the installation of access roads or upgrade a road to Town of Baltimore standards; b. Limit the number and width of access drives and/or require consolidation of existing access points; c. Require shared access and/or parking for adjoining properties or for future users of the remainder of a parcel; d. Require the reservation of shared rights -of-way for future roads, parking areas or trails; e. Require an applicant to commission a traffic impact study from a qualified consultant; f. Accommodate existing or future facilities or rights -of-way for non -vehicular travel.",
+            "parking facilities and other development be located so as to avoid impacts to surface waters, wetlands, wildlife habitat, agricultural land, important scenic resources, and significant natural and cultural features. These requirements may include modificat ion of the district minimum setback distances. Unified Bylaws for Town of Baltimore 8-5-2009"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Compatibility with surrounding development : The Planning Commission may require the",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Traffic access and circulation: Among other appropriate safeguards and conditions, the",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Protection of natural resources : The Planning Commission may require that structures,",
+              "use_type": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "title": "SUBDIVISION REVIEW",
+      "sections": [
+        {
+          "number": "6.1",
+          "title": "Applicability",
+          "page": 19,
+          "paragraphs": [
+            "(A) In accordance with the Act [S 4418], whenever any subdivision of land is proposed to be made, subdivision approval by the Baltimore Planning Commission is required prior to: * any transfer of property, granting of a right of way, sale, or lease is made of any subdivided lot * any grading, clearing, construction, or other land development is undertaken * any permit for land development in such proposed subdivision is granted * the filing of an approved, signed subdivision plat with the Town Clerk. (B) For the purposes of these Bylaws, subdivisions shall be classified by the Planning Commission during sketch plan review, as either minor or major subdivisions according to the following: * Minor: shall include any subdivision creating less than three (3) lots, or any amendments to an approved subdivision plan that does not substantially alter the previously approved subdivision * Major: shall include any subdivision creating greater than three (3) lots (C) All subdivisions of land, uses and structures lawfully in existence as of the effective date of t hese regulations are allowed to continue indefinitely. Changes, alterations or expansions to pre -existing subdivisions, structures or uses shall be subject to all applicable requirements of these regulations, including provisions applying to nonconforming uses and/or non -complying structures under Section 4.6 of these regulations and the Act [S 4446]. (D) Waiver Authority: The Planning Commission may waive one or more of the following, subject to appropriate conditions: application requirements, prelim inary plat review, and applicable planning standards set forth in Article 7 . A written request for a waiver shall be filed with the application for subdivision , and it shall be the responsibility of the applicant to provide sufficient information to justify the granting of the waiver. In granting waivers, the Planning Commission shall require such conditions that will in the Commissions judgment substantially achieve the objectives of any waived requirement of these regulations in accordance with the Act [S 4418(2)(a)]. The waiver may be granted if the Planning Commission determines that: * It is not requisite in the interest of the public health, safety, and general welfare * Is inappropriate due to the lack of connecting facilities adjacent to or in close proximity to the subdivision Unified Bylaws for Town of Baltimore 8-5-2009 Table 6.1 Subdivision Review Process Summary Action: Responsibility: Sketch Plan Review Phase [all subdivisions, except boundary adjustments; see Section 6.2]: Submission of sketch plan and any request for waiver Applicant; at least 15 days prior to a regularly scheduled Planning Commission meeting Planning Commission meeting Applicant (or authorized representative) attendance required Classification of subdivision as minor or major; written sketch plan approval & design changes Planning Commission; within 45 days of completion of the discussion phase Minor Subdivision [ or fewer lots or as determined by Planning Commission]: Submission of final subdivision plan, including any waiver requests; documentation of design changes and/or strategies to address Planning Commission issues raised during Discussion Phase (sketch plan review); proposed plat and supporting documentation Applicant; within 6 months of the date of sketch plan approval Planning Commission public hearing Planning Commission; within 30 days of receipt of the final subdivision plan Subdivision/plat approval Planning Commission; within 45 days of the hearing adjournment date Final plat recording in the town records Applicant; within 180 days of the date of the subdivision approval Major Subdivision [other than minor]: Submission of preliminary subdivision plan including any waiver requests, documentation of design changes and/or strategies to address Board issues raised during Discussion Phase (sketch plan review); supporting documentation Applicant; within 6 months of the date of sketch plan approval Planning Commission public hearing Planning Commission; within 30 days of receipt of the preliminary subdivision plan Preliminary subdivision/plat approval Planning Commission; within 45 days of the adjournment of the hearing Submission of final subdivision plan, including the final plat, documentation of compliance with preliminary approval and other supporting documentation Applicant; within 6 months of the date of preliminary plan approval Final Planning Commission public hearing Planning Commission; within 30 days of receipt of the final subdivision plan Final subdivision/plat approval Planning Commission; within 45 days of the hearing adjournment date Final plat recording Applicant; within 180 days of the date of final subdivision and plat approval Unified Bylaws for Town of Baltimore 8-5-2009"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.2",
+          "title": "Boundary Line Adjustments",
+          "page": 21,
+          "paragraphs": [
+            "(A) The adjustment of a boundary between two adjoining parcels which does not result in the creation of a new lot shall be subject to review and approval by the Zoning Administrator, in acco rdance with the Act [S 4464(c)], provided that the Zoning Administrator finds the following to be true:",
+            "subdivision approvals;",
+            "agricultural land or identified fragile natural feature;",
+            "space as the result of a prior municipal permit or approval, or allow for the acreage of any open space parcel to be applied to the maximum density or minimum lot size for another parcel; and,",
+            "If any of these conditions are not clearly met to the satisfaction of the of the Zoning Administrator, such boundary adjustments shall be subject to approval as a subdivision. Wh ere subdivision approval is necessary, the application is exempt from the sketch plan review phase and may proceed directly to final subdivision review. (B) An application for a proposed boundary adjustment must be consistent with Table 6.2. The Zoning Administrator shall make a decision on the request for Boundary Line Adjustment by applying the facts presented in the application to the criteria listed in Section 6. 2(A) of these Bylaws and incorporate them all into a written decision. In approving a pro ject the Zoning Administrator shall act to ensure the Boundary Line Adjustment conforms to the Baltimore Town Plan. Any conditions attached to the decision shall be depicted on the final subdivision plat showing the adjustment. (C) Upon securing a wri tten decision and signature on the boundary adjustment plat from the Zoning Administrator, the applicant shall be required to file the plat in accordance with Section 6. 8 of these regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "It is a minor boundary realignment that does not substantially change the nature of any previous",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "It does not create any new lots as a result of the adjustment;",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "It will not adversely impact access to any parcel;",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "It will not adversely impact and significant natural resource or result in fragmentation of",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "It will not result in the development on any portion of a parcel that has been designated as open",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "It will not create a nonconforming lot(s).",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "6.3",
+          "title": "Sketch Plan Review [all applications for subdivision]",
+          "page": 21,
+          "paragraphs": [
+            "(A) Application Requirements: The applicant shall submit to the Zoning Administrator, at least fifteen (15) days prior to a regularly scheduled Planning Commission meeting, a n application of the proposed sketch plan which includes all relevant information listed in Table 6.2 of these regulations, and the associated fees. (B) Initial Meeting: The applicant should meet with the Zoning Administrator prior to th e first meeting with the Planning Commission. The applicant shall request a meeting with the Planning Commission at a regularly scheduled meeting to discuss the proposed subdivision. The applicant shall be guided by the Commission to the need of addition al studies or documentation along with the advisability of entering into the preliminary and final plan stages of the subdivision review process. (C) Action on Sketch Plan: Within forty five (45) days of the final meeting with the applicant, the Plannin g Commission, based on the information provided by the applicant, shall issue in writing: Unified Bylaws for Town of Baltimore 8-5-2009 * a determination on whether the subdivision is a minor subdivision to be reviewed under Section 6. 5 of these regulations or a major subdivision to be reviewed under Section 6.4 and 6.5 of these regulations; * the granting or denial of any requests for waivers to the subdivision review standards set forth in"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "title": "of these regulations;",
+      "sections": [
+        {
+          "number": "6.4",
+          "title": "Preliminary Plan Review [major subdivision applications]:",
+          "page": 22,
+          "paragraphs": [
+            "(A) Application Requirements: Within six (6) months of the date of action on the sketch plan and determination that the subdivision is a major subdivision by the Plannin g Commission, the applicant shall submit an application and associated fees for preliminary plan approval including one original and one copy of the information required in Table 6.2 of these regulations, unless otherwise specifically waived. (B) Public Hearing: Within thirty (30) days of the date that the Planning Commission determines the preliminary application is complete; the Planning Commission shall schedule a public hearing on the preliminary plan in accordance with the [Act S 4464]. (C) Prel iminary Plan Approval: Within forty five (45) days of the date of closing the public hearing, the Planning Commission shall approve, approve with modifications, or disapprove the preliminary plan based on a determination of whether the preliminary plan co mplies with the planning standards set forth in Article 7 of these regulations, the Baltimore Town Plan, and any other municipal regulations in effect. The Planning Commission may also require, as a condition of approval, the submission of proposed changes or modifications resulting from further study. The decision of the Planning Commission on approval, conditions of approval, or disapproval shall be set forth in a written notice of decision. Copies of the written decision shall be provided to the applicant and any interested persons in accordance with Section 8.2 within the 45-day period. Failure to act within the 45 -day period shall result in deemed approval of the preliminary plan. The approval of the preliminary plan shall be effective for a period of six (6) months following the date of written notice of approval, unless otherwise approved or extended by the Planning Commission in the written notice of decision. (D) Phasing: At the time that the Planning Commission grants preliminary plan approv al it may require the subdivision to be divided into two or more phases to ensure that the projects conforms with the Baltimore Town Plan. Conditions imposed by the Planning Commission at the time of filing of the application for final subdivision plan an d plat approval for each phase may be deemed necessary to ensure the orderly development of the plat and to avoid overburdening town facilities and services. Unified Bylaws for Town of Baltimore 8-5-2009 (E) Effect of Preliminary Plan Approval: Approval of the preliminary plan shall not constitute approval of the final subdivision plat and plan. Following the approval of the preliminary plan, the Planning Commission may require the applicant to submit all applicable approvals to municipal officials/agencies that may have jurisdiction over the proje ct (Selectboard, Health Officer), and a completed Vermont Agency of Natural Resources Project Review Sheet. Upon receiving evidence of the necessary approval s by all agencies mentioned above, if required, and the expiration of all relevant appeal periods, the applicant may apply to the Planning Commission for final subdivision plan and plat approval under Section 6.5 of these Bylaws. The preliminary plan approval issued by the Planning Commission shall remain in effect for six (6) months from the date of the written notice."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.5",
+          "title": "Final Subdivision Plan and Plat Review [all subdivisions]:",
+          "page": 23,
+          "paragraphs": [
+            "(A) Application Requirements: Within six (6) months of the date of action on the sketch plan for minor subdivisions or preliminary plan approval for major subdivisions, unless specifically waived by the Planning Commission, the applicant shall submit an application for final subdivision plan and plat approval. If the applicant/subdivider fails to do so within six (6) months, s/he will be required to resubmit an application for sketch plan, which will be subject to any new zoning and subdivision regulations , and readopted Town Plan in effect at that time. The application for final subdivision plan and plat approval shall include all associated fees, and unless specifically waived by the Planning Commission, one original and one copy of the information specified in Table 6.2 of these regulations. (B) Public Hearing: Withi n thirty (30) days of the date that the Planning Commission determines the preliminary application is complete; the Planning Commission shall schedule a public hearing , on the preliminary plan in accordance with Section 8.0(C) and the Act S 4464. (C) F inal Subdivision Plan and Plat Approval: Within forty five (45) days of the date of closing the public hearing, the Planning Commission shall approve, approve with modifications, or disapprove the final plan and plat based on a determination of whether th e final subdivision plan and plat complies with the planning standards set forth in Article 7 of these Bylaws, the Baltimore Town Plan, and any other municipal regulations in effect. Failure to act within forty five (45) days shall be deemed approval, as certified by the Town Clerk. Approval, conditions for approval, disapproval, and provisions for appeal under Section 8.2 of these regulations shall be set forth in the written decision of the Planning Commission. Copies of the written decision shall be provided to the applicant and any interested persons in accordance with Section 8.2(D) within the 45-day period. (D) Effect of Final Subdivision Plan and Plat Approval: The approval by the Planning Commission of a final subdivision plan and plat shall not be construed to constitute acceptance by the Town of Baltimore of any street, easement, utility, park, recreation area, or other open space shown of the final plat. Such acceptance may only be gained through a formal resolution by the Selectboard in accordance with state statute. A final plan approval shall contain a time limit by which all improvements shall be completed, not to exceed three (3) years unless otherwise required or extended by the Planning Commission."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.6",
+          "title": "Revisions to an Approved Plat:",
+          "page": 23,
+          "paragraphs": [
+            "(A) No changes, modifications, or other revisions that alter the final subdivision plan and plat or conditions attached to approval shall be made unless the proposed changes are first submitted to the Planning Commission for approval. Unified Bylaws for Town of Baltimore 8-5-2009 (B) No changes, modifications, or other revisions that alter the boundary adjustment approval shall be made unless the proposed changes are first submitted to the Zoning Administrator or Planning Com mission, as appropriate, for approval. (C) In the event that such subdivision plan revisions are recorded without complying with this requirement, the revisions shall be considered null and void."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.7",
+          "title": "Plat Recording Requirements:",
+          "page": 24,
+          "paragraphs": [
+            "(A) Within one hundred eight (180) days of the date of final plan approval under Section 6.5(C) of these regulations, the applicant shall file with the Town of Baltimore one final copy of the approved plat fo r recording under [27 S VSA 17]. Subdivisions approved and not recorded within the 180 day time period shall expire. (B) The final plat shall be signed by at least two (2) authorized members of the Planning Commission . The Planning Commission may require that conditions to approval be included on the final plat. (C) Any subdivision that requires the construction of any roads or other public utility improvements by the applicant, the Planning Commission may require the applicant to post a bond or comparable surety prior to the signing of the final plat. * Prior to plat recording, the plat must be signed by the Planning Commission Chair or Vice Chair. All final plats must include a notation to include the following statement: The subdivision depicted on this plat was duly approved, as conditioned, by the Baltimore Planning Commission in accordance with the Baltimore Land Use Bylaws and all other applicable laws and regulations on the ___ day of __________________ 2___. Subdivision Permit#___________________. Signed: _______________________________ [Planning Commission Chair or Vice - Chair]. (E) A final plat for a Boundary Line Adjustment not deemed a Subdivision in accordance with Section 6.2 and approved by the Zoning Administrator shall be filed for recording with the Town in conformance with the requirements of [27 SVSA, Chapter 17]. Approved plats not filed and recorded within this 180 day period shall expire. *Prior to plat recording for a Boundary Line Adjustment, the plat must be signed by the Zoning Administrator. All final plats must include a notation to include the following statement: The boundary line adjustment depicted on this plat was duly approved by the Zoning Administrator in accordance with the Baltimore Unified Bylaw and all other applicable laws and regulations on the ___ day of ___ 2____. [Boundary Line Adjustment Permit#___________________]. Signed: _______________________________ [Planning Commission Chair or Vice Chair. Unified Bylaws for Town of Baltimore 8-5-2009"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "6.8",
+          "title": "Coordination with Zoning Permits",
+          "page": 25,
+          "paragraphs": [
+            "Prior to the issuance of a zoning permit for any development of any subdivided lot approved under these Bylaws, the applicant shall demonstrate that public and private improvements have been inst alled in accordance with the conditions of subdivision approval, and that all other applicable conditions have been met. The Zoning Administrator shall not issue a zoning permit for any development that is not in compliance with such approval, or for any lot that is in violation of a condition of approval. Unified Bylaws for Town of Baltimore 8-5-2009 Table 7.2 Subdivision Application Requirements (A) Application Information Boundary Line Adjustment Sketch Plan Preliminary Plan Final Plan Application Form - 1 original & 1 copy     Application Fee (see Fee Schedule)     Name of project, if any     Name, address, telephone number of applicant (landowner and/or subdivider). Name, address, telephone number of land owner.     Written description of proposed development plans, including number and size of lots; general timing of development    Waiver request, in writing (if any)   Names, addresses of all adjoining property owners     Evidence of written notification to adjoiners of intent to Subdivide; to include copies of any waiver requests (Notice by applicant or town??)  (B) Plan/Plat Mapping Requirements Sketch Draft Plan Final Plat Materials Paper Paper Mylar Date, North Arrow, Legend   Preparer Information, Certifications   Scale (minimum 1 inch = 100 feet)   Project boundaries, property lines, existing and proposed lot lines and dimensions Sketch Approximate Surveyed Adjoining land uses, roads and drainage, names of adjoining landowners   Zoning district designations and boundaries    Location of significant natural features, including but not limited to: - slopes with a gradient of 25% or greater; - critical wildlife habitat; - flood hazard areas; - surface waters, wetlands and associated buffer areas; - historic sites and features, including stone walls; and - other significant geologic features and landforms, including prominent knolls and ridgelines.   Existing and proposed elevations, contour lines 20' interval 20' interval Existing and proposed roads, paths, parking areas, associated rights-of- way or easements, springs, and shallow wells, driveway locations and driveway profiles. Sketch Approximate Surveyed Proposed development envelopes   Unified Bylaws for Town of Baltimore 8-5-2009 Table 7.2 Subdivision Application Requirements (cont.) (B) Plan/Plat Mapping Requirements (continued) Boundary Line Adjustment Sketch Draft Plan Final Plat Proposed utilities, water and wastewater systems and associated rights-of-way or easements   Road profiles; road, intersection and parking area geometry and construction schematics   Proposed landscaping and screening   Proposed conservation buffer and/or easement areas   Monument locations Approx/ Proposed  Site location map showing proposed subdivision in relation to major roads, drainage ways, and adjoining properties   Notation per Section 6.8  (C) Supporting Information & Documentation Discussion-Sketch Preliminary Plan Final Plan Statement of compliance with the Town Plan and applicable local regulations    Written request to the Select Board for a preliminary determination of the Town's willingness to accept any streets, utilities or o ther community facilities for the subdivision    Copy of all other local permits or pending applications   VTrans access permit letter of intent   VT ANR Project Review Sheet   (D) As may be required by the Planning Commission Statement of compliance with the Town Plan and applicable local regulations As required under sketch plan approval As required under sketch plan or preliminary approval Engineering reports (water and wastewater systems) Existing and proposed traffic generation rates, volumes Off-site easements (e.g., for water, wastewater, access) Proposed phasing schedule Proposed covenants and/or deed restrictions Proposed homeowner or tenant association or agreeme nts Proposed performance bond or surety Grading plan (showing proposed areas of cut and fill) Open space management plan Site reclamation plan (for subdivisions involving extraction) Traffic impact analysis (current and proposed traffic volumes, capacities, levels of service, proposed improvements) Contour lines < 20' Fiscal impact analysis (analysis of fiscal costs and benefits to the Town) Visual impact analysis and mitigation plan Environmental impact assessment (analysis of potential environmental impacts, proposed mitigation measures) Other Unified Bylaws for Town of Baltimore 8-5-2009"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.0",
+          "title": "General Planning Standards",
+          "page": 28,
+          "paragraphs": [
+            "The Planning Commission shall authorize the creation of lots, and the siting of structures and improvements on those lots in conformity with the Baltimore Town Plan and these Bylaws. (A) Character of the Land All land to be subdivided shall be, in the judgment of the Planning Commission, of such a character that it can be used for the intended purposes without undue impacts on public health or safety, neighboring properties, the environment or critical resources, as identified in the Town Plan. Land characterized by poor drainage or steep slopes, or subject to other hazardous conditions shall not ordinarily be subdivided. (B) Conformance with the Town Plan & Other Regulations. Subdivisions shall conform to the town Plan and all other regulations of the Town of Baltimore currently in effect. The proposed subdivision may be denied if the intended use(s) cannot be shown to be capable of complying with the provisions of these Bylaws. (C) Lot Layout and Siting Consideration in lot layout and siting shall conform to Section 2.1(D) and shall be appropriate for the intended development and proposed uses. The following standards shall apply: (1) Corner Lots. Corner lots shall have sufficient width to permit a front yard setback on each street. (2) Side Lots. Side lot lines shall generally be at right angles to straight streets, or radial to curved street lines. (3) Lot Shape. Lots with irregular shapes (curves, jogs, dog-legs, etc.) should not be created unless warranted by conditions of topography, the location of natural features or existing road conditions. (4) Lot Size. Lot sizes in the zoning provisions are a minimum standard; larger lot sizes may be required by the Planning Commission based on prevailing site conditions and the potential impact on fragile features and natural and cultural resources. (5) Frontage Requirements. Lots shall meet minimum lot frontage requirements for the zoning district in which they are located . Frontage standards shall apply e qually to lots fronting public or private roads. (D) Energy Conservation: Energy efficient site planning and layout shall be encouraged in the review of a proposed subdivision."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.1",
+          "title": "Protection of Natural, Cultural and Historic Resources",
+          "page": 28,
+          "paragraphs": [
+            "(A). Due regard shall be given to the preservation and protection of natural, cultural and historic resources such as, but not limited to, trees, scenic points and roads, brook s, streams, rock outcroppings, water bodies, forest resources, other natural resources, wildlife habitat, historic resources, cultural resources, and prime agricultural soils. The Planning Commission may require that applicants provide a detailed site analysis identifying all natural, cultural and historic resources described below, the impact of the proposed subdivision on those resources, and the protection measures proposed to avoid or mitigate those impacts. (B) Establishment of Development Envelope s. The Planning Commission may require the designation of development envelopes to protect natural, cultural and historic resources described in this Section, and to ensure the maintenance and/or extension of district settlement patterns as described in S ection 3.3. Development envelopes, when required, shall be configured to limit the location of one or more site Unified Bylaws for Town of Baltimore 8-5-2009 improvement on the subdivided lot, including principal and accessory structures, parking areas, and associated site development (excluding road and utility rights -of-way or easements). In the event no development envelope is required, subsequent development on the subdivided lot shall comply with all applicable zoning standards. The Board may require the identification of specific building footprints if, in their judgment , such information is required to meet the standards set forth in these regulations. (C) Wetlands. Applicant shall demonstrate that the subdivision has been designed to reasonably mitigate impacts upon significant wetlands by demonstrating that: * No infrastructure will be located within a Class II wetland or the fifty (50) buffer surrounding it. * If infrastructure must reasonably cross a Class II wetland or its boundaries, the applicant shall secure a Conditional Use Permit from the Agency of Natural Resources as applicable. (D) Protection of Wildlife Habitat & Natural Areas . Applicant shall demonstrate that the proposed subdivision has been designed to reasonably mitigate impacts on important wildlife habitat, including deer wintering areas and rare, threatened and endangered species, as identified in the Town Plan , by the Vermont Department of Fish & Wildlife, or through site investigation. If wildlife habitat areas exist on the parcel proposed to be subdivided, the app licant shall reasonably mitigate impact by: clustering development, preserving the open space, other methods of conservation. (E) Flood Hazard Areas . Subdivision boundaries, lot layout and development envelopes shall be located and configured to avoid any adverse impact to flood hazard areas in accordance with Section __ of these Bylaws. (F) Protection of Historic & Cultural Resources. Subdivision boundaries, lot layout and development envelopes shall be located and configured to minimize adverse i mpacts to historic sites and resources identified in the Baltimore Town Plan , by the Vermont Division for Historic Preservation, or through site investigation. Methods to minimize adverse impacts include but may not be limited to minimizing disturbance of stone walls, requiring a site assessment in areas where known archeological sites exist, and/or siting development envelopes in order to minimize the impact of new development on the historic and architectural integrity of historic resources. (G) Protection of Farm Land. Subdivision boundaries, lot layout and development envelopes shall be located and configured to avoid the encroachment of development onto prime agricultural soils and other open farmland. Development envelopes shall be located at the edges of prime agricultural soils and agricultural fields or, in the event that no other land is practical for development, on the least fertile soils in order to minimize the use of productive agricultural land, impacts on existing farm operations, and d isruption to the scenic qualities of the site"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.2",
+          "title": "Roads",
+          "page": 29,
+          "paragraphs": [
+            "These standards apply to all proposed public roads, private roads and driveways, which are also subject to the Baltimore Road Ordinance. All proposed subdivision roads - serving more than two lots or units - shall be deemed to be a private road until such time as it has been formally accepted by the Selectboard pursuant to state law for laying out public rights-of-way [19 SVSA, Chapter 7] and in accordance with the Baltimore Road Ordinance. All subdivision roads shall be built to town highways standards per the Baltimore Road Ordinance. Construction of roads to these standards in no way ensures such acceptance. In the event the Baltimore Selectboard agrees to accept a road associated with an approved subdivision, the terms of acceptance, including road construction standards, inspection and maintenance, shall be prescribed in an agreement Unified Bylaws for Town of Baltimore 8-5-2009 approved by the Selectboard. Such agreements may be included as a condition of subdivision approval, and such approval may specify the timing of development on subdivided lots to ensure coordination with the terms of the agreement between the Selectboard and subdivider.",
+            "of-way width, grades, drainage ditches, bridges, culverts, side slopes, sight -distances, curves and turn - arounds - shall be designed to insure the safe and efficient movement of vehicles, includ ing but not exclusive to, all emergency vehicles, maintenance, and snow removal in accordance with the Baltimore Road Ordinance. Roads shall be logically related to the topography so as to produce usable lots , provide adequate emergency access, follow exi sting linear features (such as utility corridors or tree lines), and avoid adverse impacts to important resources identified in Section 7.1 . Wherever extensions of proposed roads could rationally provide access to adjacent properties or connection to exis ting Town highways, a right-of-way across the subdivider's property may be required. In the event the subdivision grants an easement or right(s)-of-way, the applicant must provide a recordable instrument delineating the responsibility for maintenance of easement or right(s)-of-way.",
+            "subdivision presents the potential for significant traffic impact on Town roads, historic areas, or other significant features, a traffic impact study may be required. The purpose of such a study shall be to identify the traffic impact potential of a proposed subdivision and to identify necessary and appropriate mitigating measures. Such studies shall be funded by the applicant and shall be prepared by a qualified, licensed professional engineer or transportation planner. Such studies shall include: * A description of the general location of the project * A statement of existing traffic conditions and projected traffic conditions on all impacted roadway(s) for ten (10) years * A statement indicating if the proposed subdivision places and undue burden on the impacted town highway(s) and intersection with respect to existing road conditions, town improvements listed in either the Town Plan or Capital Budget and Program, and the safety of the travelling public. * A statement of recommendations outlining any adverse traffic impact of a proposed project and the necessary improvements to mitigate negative impacts. Based upon a review of the study, the Commission shall set appropriate conditions to avoid or mitigate any traffic congestion or safety problems associated with the proposed subdivision.",
+            "street parking shall be provided.",
+            "adequately maintained. Each such lot deed shall contain the provision that in accepting the conveyance, the purchaser accepts the obligation of his proportionate share of the expenses of maintaining said park or other recreation area until such time that the Town accepts said road(s).",
+            "pursuant to this Section. The bond may be in the amount of 100 percent of the estimated cost of the permitted road work. Such surety shall be issued either by a bonding or surety company approved by the Selectboard. No work may commence bef ore the bond is provided to the Town by the applicant. Permits Unified Bylaws for Town of Baltimore 8-5-2009 may be withheld pending tender of the proper performance bond or acceptance of the permitted work. This bond or other security shall provide for, and secure to the public, the completion of a ny improvements that may be required within the period fixed for that completion and for the maintenance of those improvements for a period of two years after completion.",
+            "construction to ensure all subdivision standards and permit conditions pursuant to this section are met. Failure to do so may result in forfeiture of performance bonds or other legal enforcement actions.",
+            "comply with the appropriate standards in the Baltimore Road Ordinance. All driveways that enter a town highway are subject to an access permit as required by the Road Ordinance.",
+            "name signs shall be furnished and installed by the subdivider. The type, size and location shall be by the approval of the Road Commissioner."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Road Design and Construction Standards: All subdivision roadways and intersections - including right-",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Traffic Management: If, in the judgment of the Planning Commission or Selectboard, a proposed",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Parking. Parking areas shall be included within any designated development envelopes. Adequate off-",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Road Maintenance: The subdivider shall supply evidence and assurance that said roads will be",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Performance Bonds . A performance bond may be required as a condition of any app roval issued",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Inspections . The Planning Commission shall make periodic inspections before, du ring and after",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "Driveways and Access Permits. All driveways, which may serve no more than 2 lots or units, must",
+              "use_type": null
+            },
+            {
+              "number": "8",
+              "text": "Road Name Signs . All roads shall be signed subject to the policies of the Town of Baltimore. Road",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "7.3",
+          "title": "Easements and Rights of Way",
+          "page": 31,
+          "paragraphs": [
+            "The Commission may require appropriate easements and rights -of-way for utilities and drainage facilities and for pedestrian access to schools, open space, parks, streets, and other public facilities. The Commission's approval of any Applicant's right -of-way or easement in no way implies that the Town of Baltimore is responsible or liable for any property or personal damage caused by a lack of maintenance or upgrading of same."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.4",
+          "title": "Schools",
+          "page": 31,
+          "paragraphs": [
+            "The subdivider shall indicate in his final application the imp act of the major subdivision on the Town of Springfield school system."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.5",
+          "title": "Open Space",
+          "page": 31,
+          "paragraphs": [
+            "When a subdivision development will accommodate more than fifteen (15) dwellings, the Commission may at its discretion require that the subdivider set aside an area not to exceed ten (10) percent of the total area being subdivided as a park or other recreation area, in accordance with [24 VSA 4417(5)]. Each conveyance in a subdivision shall include an undivided interest in said park or other recreation area vested in the purchaser of the lot sold. Each such lot deed shall contain the prov ision that in accepting the conveyance, the purchaser accepts the obligation of his proportionate share of the expenses of maintaining said park or other recreation area."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.6",
+          "title": "Power, Telephone and Cable",
+          "page": 31,
+          "paragraphs": [
+            "Poles, power lines and cable installations are to be approved by the local power company and the Town. The Commission may require the underground installation of power, telephone lines and cable installations where ever it is necessary to maintain and protect the character of a highly sensitive area. A diagram showing location of utility lines shall be submitted with the subdivision plan and plat. Unified Bylaws for Town of Baltimore 8-5-2009"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.7",
+          "title": "Watersheds, Drainage, and Erosion Control",
+          "page": 32,
+          "paragraphs": [
+            "When a drainage system is proposed, the subdivider shall ensure that it is designed and installed in conformance with State health and environmental regulations. Temporary and permanent drainage and erosion control techniques shall be used as necessary to control surface runoff. Factors to be considered in determining the types of controls necessary shall include, but not be limited to, vegetation and ground cover, slopes, soil types, percentage of land covered b y impermeable surfaces, distances to streams and impact on adjacent properties. The Planning Commission may require the preparation and implementation of stormwater management and/or sedimentation and erosion control plans and associated analyses to ensur e that site improvements, including excavation, road and driveway construction and site clearing and grading, will not unduly impact neighboring properties or surface waters. Such plans, if required, shall be prepared by a licensed Vermont engineer, be ba sed upon Best Management Practices (BMPs) for managing stormwater and controlling erosion, as defined by the Vermont Agency of Natural Resources and the U.S. Natural Resource Conservation Service, and shall include provisions for the inspection and long- term maintenance of stormwater management and erosion control facilities. In approving a stormwater management and/or erosion control plan, the Board may consult with appropriate local and state officials (e.g., VANR, Town Engineer). The Commission may re quire the phasing of construction to reduce the amount of land disturbed by construction at any one time and may stipulate deadlines for the installation of erosion control or soil stabilization measures. For the purposes of calculating the amount of surf ace runoff, a minimum of twenty -five (25) year storm precipitation factor shall be used. Where the Commission anticipates a change in the runoff resulting from the subdivision, it may require the subdivider to modify the proposal to protect existing watersheds."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.8",
+          "title": "Fire Protection",
+          "page": 32,
+          "paragraphs": [
+            "The Commission may require the provision of facilities necessary for adequate fire protection. Where required by the Planning Commission, fire hydrants, dry hydrants, or ponds shall be installed by the subdivider. The Planning Commission may require documentation from the Springfield Fire Department and/or other emergency service providers as to the adequacy of emergency access and fire protection facilities."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.9",
+          "title": "Site Preservation and Improvements",
+          "page": 32,
+          "paragraphs": [
+            "Land shall be subdivided and improved in reasonable conformity to existing topography in order to minimize grading, cut and fill, to retain, insofar as possible, the natural contours, limit stormwater runoff, and conserve the natural cover and soil.",
+            "potential for conflicts between different adjoining land uses; it can also help to reduce noise, glare and can provide privacy separation. The Commission may require that suitable landscaping be established in areas where it does not exist. The Commission shall determine the minimum acceptable size of trees.",
+            "establishment of appropriate, permanent vegetative cover following excavation or grading. The Commission may also require embankments to be planted with a stabilizing shrub or ground cover to prevent erosion. Topsoil removed in the process of grading the subdivision site shall be replaced, except in proposed roads, driveways, parking lots, and building locations. Unified Bylaws for Town of Baltimore 8-5-2009"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Landscaping: The Commission may require properly planned and installed landscaping to reduce the",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Excavation and Grading: The Commission may require a program of soil stabilization and the",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "7.10",
+          "title": "Water Supply",
+          "page": 33,
+          "paragraphs": [
+            "A water supply shall be provided for each residential, commercial and industrial unit at the expense of the subdivider, designed and installed to conform to State heath regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.11",
+          "title": "Sewage Disposal",
+          "page": 33,
+          "paragraphs": [
+            "Either individual septic systems or a community sewage disposal system shall be provided to service each residential, commercial and industrial unit at the expense of the subdivider, designed and installed to conform with State health regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "7.12",
+          "title": "Disclosure of Subsequent Development Plans",
+          "page": 33,
+          "paragraphs": [
+            "Whenever a subdivider submits a proposal for development on only a portion of a contiguous parcel, the Commission may require a general indication of the intended uses of the remaining portion of land. Such an indication should include access, type of use, intensity of use, and phasing. Unified Bylaws for Town of Baltimore 8-5-2009"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "title": "ADMINISTRATION AND ENFORCEMENT",
+      "sections": [
+        {
+          "number": "8.0",
+          "title": "Municipal Administration",
+          "page": 34,
+          "paragraphs": [
+            "(A) Appointments.",
+            "nominations submitted by the Planning Commission for a term of three (3) years in accordance with [24 VSA 4448]. The Legislative Body may remove a Zoning Administrator for cause at any time after consultation with the Planning Commission. An acting Zoning Administrator may be appointed by the Legislative Body, from nominations submitted by the Planning Commission, who shall have the same duties and responsibilities of the Zoning Administrator in the Zoning Administrator's absence. In t he event an acting Zoning Administrator is appointed, the Legislative Body shall establish clear policies regarding the authority of the Zoning Administrator relative to the authority of the acting Zoning Administrator. The Zoning Administrator shall literally administer and strictly enforce the provisions of these regulations, and in doing so shall inspect development, maintain records, and perform other related tasks as is necessary and appropriate. The Zoning Administrator is authorized to issue zoni ng permits and approve boundary adjustments through an administrative review process as provided for in these Bylaws and in the Act [S 4464(c)]. In addition, the Zoning Administrator shall coordinate the Town's development review programs. If other munic ipal permits or approvals are required, the Zoning Administrator shall provide the applicant with necessary forms. The Zoning Administrator may also inform any person applying for municipal permits or authorizations that they should contact the Vermont Ag ency of Natural Resource's Regional Permit Specialist to assure timely action on any related state permits. The applicant retains the obligation to identify, apply for, and obtain relevant state permits.",
+            "more than nine (9) members appointed by the Legislative Body in accordance with [24 VSA 4321-4323]. At least a majority of members shall be residents of the municipality. Any member of the Commission may be removed at any time by a unanimous vote of the Legislative Body. The Commission shall adopt rules of procedure deemed necessary and appropriate for the performance of its functions as required under the [24 VSA 4323(b) ] and Vermont's Open Meeting Laws. In accordance with the Act, the Commission shall have the following duties in association with these regulations: a. To prepare proposed amendments to these regulations, and consider proposed amendments submitted by others, including amendments submitted by petition; b. To prepare and approve written reports on any proposed amendment to these regulations as required by the [24 VSA 4441(c)]; and Unified Bylaws for Town of Baltimore 8-5-2009 c. To hold one or more warned public hearings on proposed amendments to these regulations, prior to submission of a proposed amen dment and written report to the Legislative Body [24 VSA 4441(d)]. The Planning Commission shall adopt rules of procedure and rules of ethics with respect to conflicts of interest to guide its official conduct, as required under the [24 VSA 4461(a)] and Vermont's Open Meeting Law. The Commission shall have all powers and duties as set forth in the Act to administer the provisions of these regulations, including but not limited to the power to hear and act upon: a. Applications for site plan approval and, b. Applications for subdivision approval.",
+            "three (3) nor more than nine (9) members appointed by the Legislative Body for specified terms in accordance with the [24 VSA 4460(b) (c)] . The Legislative Body also may appoint alternates, for specified terms, to serve on the Board in situations when one or more members of the Board are disqualified or are otherwise unable to serve. Any member of the Zoning Board of Adjustment may be removed for cause by the Legislative Body upon written charges and after public hearing. The Board shall adopt rules of procedure and rules of ethics with respect to conflicts of interest to guide its official conduct, as required under the [24 VS A 4461(a)] and Vermont's Open Meeting Law. The Board shall have all powers and duties as set forth in the Act to administer the provisions of these regulations, including but not limited to the power to hear and act upon: a. Appeals from any decision, act o r failure to act by the Zoning Administrator and any associated variance requests and; b. Applications for conditional use approval. (B) Fee Schedule. The Selectboard shall establish a schedule of fees to be charged in administering these regulations, with the intent of covering the Town's administrative costs. (C) Public Hearings.",
+            "required for conditional use review , appeals of decisions of the Zoning Administrator and variances and final subdivision review. Any public notice for a warned public hearing shall be given not less than 15 days prior to the date of the public hearing by all of the following: a. Publication of the date, place and purpose of the hearing in a newspaper of general circulation in the municipality; Unified Bylaws for Town of Baltimore 8-5-2009 b. Posting of the same information in three (3) or more public places within the municipality, including the posting of a notice within view from the public right -of- way nearest to the property for which the application is being made; c. Written notification to the applicant and to owners of all properties adjoining the property subject to development, without regard to public rights -of-way, which includes a description of the proposed project, information that clearly informs the recipient where additional information may be obtained, and that participation in the local proceeding is a prerequisite to the right to take any subsequent appeal; and d. For hearings on subdivision plats located within 500 feet of a municip al boundary, written notification to the clerk of the adjoining municipality. Public notice of all other types of development review hearings, including site plan review shall be given not less than seven (7) days prior to the date of the public hearing, and shall at minimum include the following: a. Posting of the date, place and purpose of the hearing in three (3) or more public places within the municipality; and b. Written notification to the applicant and to owners of all properties adjoining the property subject to development, without regard to public rights -of-way, which includes a description of the proposed project, information that clearly informs the recipient where additional information may be obtained, and that participation in the local proce eding, is a prerequisite to the right to take any subsequent appeal. The applicant shall be required to bear the cost of public warning, posting of a notice per"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Zoning Administrator : The Selectboard shall appoint a Zoning Administrator from",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Planning Commission. The Planning Commission shall consist of not less than three (3) or",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Zoning Board of Adjustment. The Zoning Board of Adjustment shall consist of not less than",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "Public Notice. In accordance with [ 24 VSA 4464], a warned public hearing shall be",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "6.0",
+          "title": "(C)1.b, and the cost and responsibility of notifying adjoining landowners as",
+          "page": 36,
+          "paragraphs": [
+            "required above, as determined from the current municipal grand list. The applicant shall be required to demonstrate proof of posting and delivery of notice to adjoining landowners by written documentation to that fact provided to the Zoning Administrator , including a list of adjoining landowners notified. No defect in the form or substance of any required public notice under this section shall invalidate the action of the Planning Commission or Zoning Board of Adjustment where reasonable efforts have been made to provide adequate posting and notice. However, the action shall be invalid when the defective posting or notice was materially misleading in content. If an action is ruled to be invalid by the Zoning Board of Adjustment or the Environmental Court, the action shall be remanded to the Board to provide new posting and notice, hold a new hearing, and take a new action.",
+            "Commission and Zoning Board of Adjustment, exce pt for deliberative sessions, shall be open to the public. For the conduct of any hearing, and the taking of any action, a quorum shall be not less than the majority of members of the Planning Commission or Zoning Unified Bylaws for Town of Baltimore 8-5-2009 Board of Adjustment. The Planning Commis sion or Zoning Board of Adjustment, in conjunction with any hearing under this bylaws, may: a. Examine or caused to be examined any property, maps, books, or records bearing upon the matters concerned in that proceeding; b. Require the attendance of any person having knowledge in the premises; c. Take testimony and require proof material for its information; and d. Administer oaths or take acknowledgement in respect of those matters. In any public hearing there shall be an opportunity for each person wishing to achie ve status as an interested person to demonstrate that the criteria set forth under Section 6.2(D) are met. The Zoning Administrator shall keep a record of the name, address, and participation of each of these persons. In accordance with the [24 VSA 4464( b) & 4468], the Planning Commission and Zoning Board of Adjustment may recess a hearing on any application or appeal pending the submission of additional information, provided that the next hearing date and place is announced at the hearing.",
+            "Adjustment shall be taken by the concurrence of a majority of the members of that panel. In accordance with the [24 VSA 4464(b)], the Planning Commission or Zoning Board of Adjustment sha ll issue a decision within 45 days after the adjournment of the hearing. Failure to issue a decision within the 45 -day period shall be deemed approval and shall be effective the 46 th day. In addition: a. All decisions shall be issued in writing and shall s eparately state findings of fact and conclusions of law. Findings of fact shall explicitly and concisely restate the underlying facts that support the decision, based exclusively on evidence of the record. Conclusions shall be based on the findings of fac t. The decision shall also include a statement of the time within which appeals may be taken under Section"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "2",
+              "text": "Hearings. In accordance with the [24 VSA 4461], all meetings and hearings of the Planning",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Decisions. A ny action or decision of the Planning Commission or Zoning Board of",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "6.2",
+          "title": "The minutes of a meeting may suffice, provided that the factual basis and",
+          "page": 37,
+          "paragraphs": [
+            "conclusions relating to the review standards are provided in accordance with these requirements. b. In rendering a decision in favor of the applicant, the Planning Commission or Zoning Board of Adjustment may attach additional reasonable conditions and safeguards as it deems necessary to implement the purposes of the Act, these regulations, and the municipal plan currently in effect. This may include, as a condition of approval:  The submission of a three -year performance bond, escrow account, or other form or surety acceptable to the Baltimore Legislative Body, which may be extended for an additional three -year period with the consent of the owner, to assure the completion of a project, adequate stabilization, or protection of public facilities that may be affected by a project; and/or Unified Bylaws for Town of Baltimore 8-5-2009  A requirement that no zoning permit b e issued for an approved development until required improvements have been satisfactorily installed in accordance with the conditions of approval. c. All decisions of the Planning Commission or Zoning Board of Adjustment shall be sent by certified mail, with in the required 45 -day period, to the applicant or the appellant on matters of appeal. Copies of the decision also shall be mailed to every person or body appearing and having been heard at the hearing, and filed with the Zoning Administrator and Clerk as part of the public record of the municipality. (D) Recording Requirements. Within 30 days of the issuance of a municipal land use permit or notice of violation, the Zoning Administrator shall deliver either the original, a legible copy, or a notice of the permit or violation to the Municipal Clerk for recording in the land records of the municipality generally as provided in [ 24 VSA 1154(c)], and file a copy in the Municipal Office in a location where all municipal land use permits shall be kept, as required under the [24 VSA 4449 (c)]. The applicant may be charged for the cost of the recording fees."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "8.1",
+          "title": "Permit Requirements",
+          "page": 38,
+          "paragraphs": [
+            "(A) Zoning Permit. No land development as defined herein, which is subject to these regulations, shall be commenced in the Town of Baltimore until a zoning permit has been issued by the Zoning Administrator, as provided for in the [24 VSA 4448 & 4449]. (B) Exemptions. No zoning permit shall be required for the following activities:",
+            "those practices are defined by the Secretary of Agriculture, Food and Markets, in accordance with the [24 VSA 4413(d) ] and Section 3.3. Written notification, inclu ding a sketch plan showing structure setback distances from road rights -or-way, property lines, and surface waters shall be submitted to the Zoning Administrator prior to any construction, as required for AAPs.",
+            "defined by the Commissioner of Forests, Parks and Recreation, in accordance with the [24 VSA 4413(d)].",
+            "the Vermont Public Service Board. Such facilities, however, should conform to policies and objectives specified for such development in the Municipal Plan.",
+            "This does not include fa cilities supporting such activities, such as firing ranges or rod and gun clubs, which for the purposes of these regulations are defined as outdoor recreation facilities [or other use].",
+            "alterations or expansion or a change of use. Unified Bylaws for Town of Baltimore 8-5-2009",
+            "expansion or a change in use.",
+            "height of the structure or a change in use.",
+            "and fences or walls less than four (4) feet in height which do not extend into or obstruct public rights-of-way, or interfere with corner visibilities or sight distances for vehicular traffic.",
+            "including culvert replacement and resurfacing), and lawn and yard maintenance (e.g., for gardening or landscaping), or which is otherwise incidental to an approved use.",
+            "trails) which do not require the installation of structures or parking areas.",
+            "not located within required setback areas.",
+            "(C) Application Requirements. An application for a zon ing permit shall be filed with the Zoning Administrator on form(s) provided by the municipality. Required application fees, as set by the Legislative Body, also shall be submitted with each application. In addition, the following information will be required as applicable:",
+            "that 8.5\" x 11\", that depicts the following: a. The dimensions of the lot, including existing property boundaries; b. The location, footprint and height or existing and proposed structures or additions; c. Existing and required setbacks from property boundaries and road rights-of-way; and, d. Other such information as required by the Zoning Administrator to determine conformance with these regulations.",
+            "site plan approval under Article 2 shall include the information as specified in Table 5.1 and as required by the Planning Commission depending upon the scope and locat ion of the project.",
+            "specified in Table 5.1 and as required by the Zoning Board Adjustment depending upon the scope and location of the project. Unified Bylaws for Town of Baltimore 8-5-2009",
+            "Table 7.2 and as required by the Planning Commission depending upon the scope and location of the proposed subdivision.",
+            "information as specified in Table 7.2 and as required by the Planning Commission depending upon the scope and location of the proposed boundary adjustment.",
+            "flood hazard areas shall include the information as specified in Section 5.5 (??). (D) Issuance of Zoning Permits. A zoning permit shall be issued by the Zoning Administrator only in accordance with the [24 VSA 4449] and the following provisions:",
+            "materials, fees, the Zoning Administrator shall act to either issue or deny a zoning permit in writing, or to refer the application to the Planning Commission, Zoning Board of Adjustment and/or state for consideration, as appropriate. In accordance with the [24 VSA 4448 & 4449] , if the Zoning Administrator fails to act within the 30 -day period, a permit shall be deemed issued on the 31 st day.",
+            "which requires the approval of the Planning Commission, Zoning Board of Adjustment or Legislative Body until such approval has been obtained. For permit applications that must be referred to a state agenc y for review, no zoning permit shall be issued until a response has been received from the state, or the expiration of 30 days following the submission of the application to the state.",
+            "proposed amendment to these regulations, for a period of 150 days following that notice the Zoning Administrator shall review any new application filed for compliance with the proposed amendment and applicable existing bylaws . If th e new bylaws or amendment has not been adopted by the conclusion of the 150 day period, or if the proposed bylaws or amendment is rejected, the permit shall be reviewed under all applicable provisions of this bylaws [24 VSA 4449(d)].",
+            "under Section 6.2; and shall require posting of a notice of permit, on a form prescribed by the municipality, within view of the nearest public right -of-way until the time for appeal has expired.",
+            "of the zoning permit to the Town Clerk and Listers; and shall post a copy of the permit in the municipal offices for a period of fifteen (15) days from the date of issuance. Unified Bylaws for Town of Baltimore 8-5-2009 (E) Effective Dates of Zoning Permit. No zoning permit shall take effect until the time for appeal under Section 6.2 has passed, or in the event that a notice of appeal is properly filed, until final adjudication of the appeal. Zoning permits and associated approvals shall remain in effect for one (1) year from the date of issuance, unless the permit and associated approvals specify otherwise. All development authorized by the permit shall be substantially commenced within this one (1) year period or reapplication and approval shall be required to continue development. The Zoning Administrator may administratively renew a permit for a period not to exceed one (1) additional year upon finding that there was reasonable cause for delay in the start of the development."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "Accepted agricultural practices (AAPs), including the construction of farm structures, as",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Accepted management practices (AMPs) for s ilviculture (forestry) as those practices are",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Power generation and transmission facilities, which are regulated under [ 30 VSA 248] by",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Hunting, fishing, and trapping as specified under [ 24 VSA 2295] on private or public land.",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Normal maintenance and repair of an existing structure which do not result in exterior",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Interior alterations or repairs to a structure which do not result in exterior alterations or",
+              "use_type": null
+            },
+            {
+              "number": "7",
+              "text": "Exterior alterations to structures which do not result in any chang e to the footprint or",
+              "use_type": null
+            },
+            {
+              "number": "8",
+              "text": "Residential entry stairs (excluding decks and porches), handicap access ramps, walkways,",
+              "use_type": null
+            },
+            {
+              "number": "9",
+              "text": "Minor grading and excavation associated with road and driveway maintenance (e.g.,",
+              "use_type": null
+            },
+            {
+              "number": "10",
+              "text": "Outdoor recreational trails (e.g., walking, hiking, cross -country skiing and snow mobile",
+              "use_type": null
+            },
+            {
+              "number": "11",
+              "text": "Small accessory buildings (up to 144 square feet) associated with residential uses, and are",
+              "use_type": null
+            },
+            {
+              "number": "12",
+              "text": "Garage sales, yard sales, auctions, or similar activities.",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "Permitted Uses. Applications for a permitted use shall include a sketch plan, no smaller",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Permitted Uses Requiring Site Plan Review. Applications for a permitted use that requires",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "Conditional Uses. Applications for a conditional use shall include the information as",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Subdivision. Applications for subdivisions shall include the information as specified in",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Boundary Adjustments. Applications for a boundary adjustment shall include the",
+              "use_type": null
+            },
+            {
+              "number": "6",
+              "text": "Flood Damage Prevention Review. Applications required for development within local",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "Within t hirty (30) days of receipt of a complete application, including all application",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "No zoning permit shall be issued b y the Zoning Administrator for any use or structure",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "If public notice has been issued by the Legislative Body for their first public hearing on a",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "A zoning permit sha ll include a statement of the time within which appeals may be taken",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "The Zoning Administrator, within three (3) days of the date of issuance, shall deliver a copy",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "8.2",
+          "title": "Appeals",
+          "page": 41,
+          "paragraphs": [
+            "(A) Decisions of the Zoning Administrator . Any interested person as defined under the [24 VSA 4465] may appeal a decision or act of the Zoning Administrator within 15 days of the date of the decision or act by filing a notice of appeal with the Secretary of the Zoning Board of Adjustment or the Town Clerk if no Secretary has been elected, and by filing a copy of the notice with the Zoning Administrator.",
+            "required under the [24 VSA 4468]. The Board shall give public notice of the hearing under"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "The Board shall hold a public hearing on a notice of appeal within 60 days of its filing, as",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "6.0",
+          "title": "(C), and mail a copy of the hearing notice to the appellant not less th an 15 days",
+          "page": 41,
+          "paragraphs": [
+            "prior to the hearing date.",
+            "render a decision which shall include findings of fact within 10 days of the filing of a notice of appeal, if the Board determines tha t the issues raised by the appellant have been decided in an earlier appeal or are based on substantially or materially the same facts by or on behalf of the appellant [24 VSA 4470].",
+            "rules of evidence applicable at these hearings shall be the same as the rules of evidence applicable in contested cases in hearings before administrative agencies as set forth in state statutes [3 VSA 810]. Any interested person or body may appear and be heard in person or be represented by an agent or attorney at the hearing. The hearing may be adjourned by the Board from time to time, provided that the date and place adjourned hearing shall be announced at the hearing.",
+            "hearing, as required under the [24 VSA 4464(b)]. The decision shall be sent by certified mail to the appellant within the 45 day period. Copies of the decision shall be mailed to every person or body appearing and having been heard at the hearing, and filed with the Zoning Administrator and the Town Clerk as part of the public records of the municipality, in accordance with Section 6.0(C). Failure of the Board to issue a decision within this 45 day period shall be deemed approval and shall be effective on the 46 th day. (B) Decisions of the Planning Commission. Decisions of the Planning Commission are subject for appeals to the Environmental Court pursuant to the [24 VSA 4471], and Section 6.2 (F). Unified Bylaws for Town of Baltimore 8-5-2009 (C) Decisions of the Zoning Board of Adjustment. Decisions of the Zoning Board of Adjustment are subject for appeals to the Environmental Court pursuant to the [24 VSA 4471], and Section 6.2 (F). (D) Interested Persons. The definition of an int erested person under the [24 VSA 4465(b)] includes the following:",
+            "empowered to condemn it or an interest in it, affected by a bylaws , who alleges that the bylaws imposes on the property unreasonable or inappropriate restrictions of present or potential use under the particular circumstances of the case;",
+            "which is the subject of a decision or act taken under these regulations, who can demonstrate a physical or environmental impact on the person's interest under the criteria reviewed, and who alleges that the decision or act, if confirmed , will not be in accord with the policies, purposes or terms of the plan or bylaws of that municipality;",
+            "the Planning Commission or Zoning Board of Adjustment, alleg e that any relief requested by a person under this section, if granted, will not be in compliance with the policies, purposes or terms of the plan or regulations of the municipality; and",
+            "therein within the municipality or adjoining municipality, and the Vermont Agency of Commerce and Community Development. (E) Notice of Appeal. A notice of appeal to the Zoning Board of Adjustment filed under this section shall be in writing and include the following information, in accordance with the [24 VSA 4466]:",
+            "more provisions of these regulations, and",
+            "(F) Appeals to Environmental Court. In a ccordance with the [24 VSA 4471], an interested person who has participated in a regulatory proceeding of the Planning Commission or Zoning Board of Adjustment may appeal a decision rendered by the Commission or Board within 30 days of such Unified Bylaws for Town of Baltimore 8-5-2009 decision to the Vermont Environmental Court. Appeals to Environmental Court shall also meet the following requirements:",
+            "of Adjustment shall consist of offering, through oral or written testimony, evidence of a statement of concern related to the subject of the proceeding.",
+            "Court and by mailing a copy to the Municipal Clerk, or the Zoning Adm inistrator if so designated, who shall supply a list of interested persons (including the applicant if not the appellant), to the appellant within five (5) working days. Upon receipt of the list of interested persons, the appellant shall, by certified mail, provide a copy of the notice of appeal to every interested person. If any one or more of those persons are not then parties to the appeal, upon motion they shall be granted leave by the court to intervene."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "2",
+              "text": "The Board may reject an appeal or request for reconsideration without hearing, and",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "In accordance with [24 VSA 4468], all appeal hearings shall be open to the public and the",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "A decision on appeal shall be rendered within 45 days after the final adjournment of the",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "A person owning title to property, or a municipality or solid waste management district",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "The Town of Baltimore or any adjoining municipality;",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "A person owning or occupying property in the immediate neighbo rhood of a property",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "Any ten (10) voters or property owners within the municipality who, by signed petition to",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "Any department or administrative subdivision of the state owning pro perty or any interest",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "The name and address of the appellant,",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "A brief description of the property with respect to which the appeal is taken,",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "A reference to applicable provisions of these regulations,",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "The relief requested by the appellant, including any request for a variance from one or",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "The alleged grounds why such relief is believed proper under the circumstances.",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "\"Participation\" in an official proceeding of either the Planning Commission or Zoning Board",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "The notice of appeal shall be filed by certified mailing, with fees, to the Environmental",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "8.3",
+          "title": "Variances",
+          "page": 43,
+          "paragraphs": [
+            "(A) Variance Criteria. The Zoning Board of Adjustment shall hear and decide requests f or variances as required by [24 VSA 4469(a)] and appeal procedures under this Section. In granting a variance, the Board may impose conditions it deems necessary and appropriate under the circumstances to implement the purposes of these regulations and the town plan currently in effect. The Board may grant a variance and render a decision in favor of the appellant only if all of the following facts are found, and the findings are specified in its written decision:",
+            "or shallowness of lot size or shape, or exceptional topographical or other physical conditions pecul iar to the particular property, and that unnecessary hardship is due to these conditions and not the circumstances or conditions generally created by the provisions of these regulations in the neighborhood or district in which the property is located;",
+            "property can be developed in strict conformity with the provisions of these regulations and that the authorization of a variance is necessary to enable the reasonable use of the property;",
+            "district in which the property is located, substantially or permanently impair the appropriate use or development of adjacent property, reduce access to renewable energy resources, or be detrimental to the public welfare; and",
+            "represent the least deviation possible from these regulations and from the plan. Unified Bylaws for Town of Baltimore 8-5-2009 (B) Renewable Energy Structures. Where a variance is requested for a structure that is primarily a renewable energy resource structure, in accordance with the [24 VSA 4469(b)], the Board may grant such variance only if all of the following facts are found in the affirmative and specified in its written decision:",
+            "energy resource structure in conformance with these regulations;",
+            "district in which the property is located, substantially or permanently impair the appropriate use or development of adjacent property, reduce access to renewable energy resources, nor be detrimental to the public welfare; and",
+            "represent the least deviation possible from these regulations and from the plan."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "1",
+              "text": "There are unique physical circumstances or conditions, including irregularity, narrowness,",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "Because of these physical circumstances or conditions, there is no possibility that the",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "The unnecessary hardship has not been created by the appellant;",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "The variance, if authorized, will not alter the essential character of the neighborhood or",
+              "use_type": null
+            },
+            {
+              "number": "5",
+              "text": "The variance, if authorized, will represent the minimum that will afford relief and will",
+              "use_type": null
+            },
+            {
+              "number": "1",
+              "text": "It is unusually difficult or unduly expensive for the appellant to build a suitable renewable",
+              "use_type": null
+            },
+            {
+              "number": "2",
+              "text": "The hardship was not created by the appellant;",
+              "use_type": null
+            },
+            {
+              "number": "3",
+              "text": "The variance, if authorized, will not alter the essential character of the neighborhood or",
+              "use_type": null
+            },
+            {
+              "number": "4",
+              "text": "The variance, if authorized, will represent the minimum that will afford relief and will",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "8.4",
+          "title": "Violations and Enforcement",
+          "page": 44,
+          "paragraphs": [
+            "(A) Violations. The commencement or continuation of any land development or subdivision that does not meet the requirements of these regulations shall constitute a violation. All violations shall be pursued in accordance with [24 VSA 4451 & 4452]. Each day that a violation continues shall constitute a separate offense. The Zoning Administrator shall institute, in the name of the Town of Baltimore, any appropriate action, injunction or other proceeding to enforce the provisions of these regulations. All fines imposed and collected shall be paid over to the municipality. (B) Notice of Violation. No action may be brought under this section unless the alleged offender has had at least seven (7) days warning notice by certified mail that a violation exists, as required under [24 VSA 4451]. The notice of violation also shall be recorded in the land records of the Town. The notice shall state that a violation exists, that the alleged offender has an opportunity to cure the violation within the seven-day notice period, and that the alleged offender will not be entitled to an additional warning notice for a violation occurring after the seven days. Action may be brought without notice and opportunity to cure if the alleged offender repeats the violation of the regulations after the seven-day notice period and within the next succeeding 12 months. (C) Limitations on Enforcem ent. An action, injunction or other enforcement proceeding relating to the failure to obtain or comply with the terms and conditions of any required or duly recorded town land use permit may be instituted against the alleged offender if the action, injunc tion or other enforcement proceeding is instituted within 15 years from the date the alleged violation first occurred, and not thereafter, in accordance with [24 VSA 4454]. The burden of proving the date the alleged violation first occurred shall be on th e person against whom the enforcement action is instituted. No enforcement proceeding may be instituted to enforce an alleged violation of a municipal land use permit unless the permit or a notice of the permit has been recorded in the land records of the municipality under Section 6.1(D). Unified Bylaws for Town of Baltimore 8-5-2009"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "title": "DEFINITIONS",
+      "sections": [
+        {
+          "number": "9.0",
+          "title": "Terms and Uses",
+          "page": 45,
+          "paragraphs": [
+            "(A) All words, phrases and terms in these regulations shall have their usual and customary meanings except where specifically defined herein or in the Act or where the context clearly indicates a different meaning. (B) The Planning Commission shall clarify doubt as to the precise meaning of any word used in these regulations. In such cases, the Commission shall base its ruling upon the following definitions, state statute and the need for reasonable and effective implementation of these regulations."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "9.1",
+          "title": "Definitions",
+          "page": 45,
+          "paragraphs": [
+            "ACCESSORY DWELLING - A dwelling unit established in conjunction with and clearly subordinate to a primary owner-occupied single-family dwelling unit which is retained in common ownership, is located on the same lot as the primary dwelling unit, and which otherwise meets applicable criteria of these regulations (see Section 3.1). ACCESSORY STRUCTURE - Any building which is subordinate to and whose use is incidental and accessory to the use of the principal building on the same lot or on an adjoining lot under the same own ership. This includes permanent accessory structures and the temporary storage of accessory structures. ACCESSORY USE - A use subordinate to and incidental to the principal use of the land or building. AFFORDABLE HOUSING - Affordable housing means either of the following: a. Housing that is owned by its inhabitants whose gross annual household income does not exceed 80 percent of the county median income, or 80 percent of the standard metropolitan statistical area income if the municipality is located in s uch an area, as defined by the United States Department of Housing and Urban Development, and the total annual cost of the housing, including principal, interest, taxes, insurance, and condominium association fees is not more than 30 percent of the househo ld's gross annual income. b. Housing that is rented by its inhabitants whose gross annual household income does not exceed 80 percent of the county median income, or 80 percent of the standard metropolitan statistical area income if the municipality is locat ed in such an area, as defined by the United States Department of Housing and Urban Development, and the total annual cost of the housing, including rent, utilities, and condominium association fees, is not more than 30 percent of the household's gross annual income. AFFORDABLE HOUSING DEVELOPMENT - A housing development of which at least 20 percent of the units or a minimum of five units, whichever is greater, are affordable housing units. Affordable units shall be subject to covenants or restrictions th at preserve their affordability for a minimum of 15 years or longer as provided in municipal bylaws. Unified Bylaws for Town of Baltimore 8-5-2009 BUILDING - Any structure having a roof supported by columns or walls and intended for the shelter, housing or enclosure of any individual, animal, process, equipment, goods or materials of any kind. BYLAWS - Municipal regulations applicable to land development adopted under the authority of 24 V.S.A. S 4401. COMMERCIAL USES - An occupation, employment or enterprise that is carried on for profit by the own er, lessee or licensee. CONDITIONAL USE - A use permitted in a particular zoning district when it is shown that such use in a specified location will comply with all the conditions and standards for the location or operation of the use as specified in the zoning ordinance and authorized by the Planning Commission. DWELLING UNIT - A building or part thereof used as living quarters for one or more persons (a family), containing cooking, sanitary and sleeping facilities built on a permanent foundation. DWELLING UNIT, SINGLE-FAMILY - A single, detached building with independent living quarters for one family. DWELLING UNIT, TWO-FAMILY - A building with independent living quarters for two families (duplex). DWELLING UNIT, MULTI-FAMILY - A building with independent living quarters for three or more families. EXISTING SMALL LOT - Any lot that is legally subdivided, is in individual and separate and nonaffiliated ownership from surrounding properties, is in existence on the date of enactment of any bylaws , and is too small to conform to the minimum lot size requirements for the zoning district in which it is located. FAMILY - A person or persons living together in the same dwelling unit as a single housekeeping unit and sharing the same kitchen and sanitary facilities. FAMILY CHILDCARE FACILITY - A building used for childcare services for more than six full- time and four part - time children, where the owner or operator is to be licensed or registered by the State for childcare. FAMILY CHILDCARE HOME - A residence used for childcare services for no more than six full- time and four part-time children consistent with Section 3.4, and where the owner or operator is to be licensed or registered by the State for childcare. FARM STRUCTURE - Any building or structure used for agricultural purposes. FINES - Payments of monies to the Zoning Administrator for penalties of the municipal land use permit and Zoning Ordinance. FRONTAGE - Distance along the property line dividing a lot with a street or private right-of-way. GROUP HOME - Any residential facility operating under a license or registration granted or recognized by a state agency, that serves not more than eight unrelated persons, who have a handicap or disability as defined in 9 V.S.A. S 4501, and who live toget her as a single housekeeping unit. In addition to room, board and Unified Bylaws for Town of Baltimore 8-5-2009 supervision, residents of a group home may receive other services at the group home meeting their health, developmental or educational needs. HOME OCCUPATIONS - Any home occupation that is conducted entirely within the living area of a residence or accessory structure, carried on only by one resident of the premises, involving only a service provided or product produced by that resident, and is clearly secondary to the use of the residence as a dwelling. HOME-BASED BUSINESSES - Any business that is carried on primarily within a principal or accessory structure secondary to the use of the property for dwelling purpose by residents of the premises and not more than two additional on-premises employees who are not residents. LAND DEVELOPMENT - The division of a parcel into two or more parcels, the construction, reconstruction, conversion, structural alteration, relocation , or enlargement of any building or other structure, or of any mining, exc avation, or landfill, and any change in the use of any building or other structure, or land, or extension of use of land. LANDSCAPING AND SCREENING - Where any development, commercial or industrial land use, mobile home park, or housing project abuts a re sidential or other incompatible use, a strip of land at least 15 feet in width shall be maintained as a planted buffer. Plant material for this purpose shall be deciduous and/or evergreen trees and shrubs indigenous to the area. LIGHT INDUSTRIAL USES - The assembly, manufacture, processing, packaging or other industrial operations which are conducted in such a manner that no resulting dust, smoke, odors, vapor, vibration, noise and light exceed that normally associated with uses in that district. LOT - A designated parcel, tract or area of land established by plat, subdivision or as otherwise permitted by law, to be separately owned, used, developed or built upon. LOT LINE - A line of record bounding a lot that divides one lot from another lot or from a public or private right-of-way or any other public space. LOW INCOME HOUSING - Housing that is affordable, according to the U.S. Department of Housing and Urban Development, for either home ownership or rental, and that is occupied, reserved, or marketed for occupancy for households with a gross household income that does not exceed 50 percent of the median gross household income for households of the same size within the housing region in which the housing is located. MOBILE HOME - A structure or type of manufactured home that is built on a permanent chassis and is designed to be used as a dwelling with or without a permanent foundation, includes plumbing, heating, cooling, and electrical systems, and is: * Transportable in one or more sections; and * At least eight feet wide or 40 feet long or when erected has at least 320 square feet or if the structure was constructed prior to June 15, 1976, at least eight feet wide or 32 feet long; or * Any structure that meets all the requirements of this subdivi sion except for size and for which the manufacturer voluntarily files a certification required by the U.S. Department of Housing and Urban Unified Bylaws for Town of Baltimore 8-5-2009 Development and complies with the standards established under Title 42 of the U.S. Code. 10 V.S.A. S 6201(1). MOBILE HOME PARK - Any parcel of land under single or common ownership or control which contains, or is designed, laid out or adapted to accommodate, more than two mobile homes. Nothing herein shall be construed to apply to premises used solely for storage or display of mobile homes. Mobile Home Park does not mean any parcel of land under the ownership of an agricultural employer who may provide up to four mobile homes used by full -time workers or employees of the agricultural employer as a benefit or condition o f employment or any parcel of land used solely on a seasonal basis for vacation or recreational mobile homes. 10 V.S.A. S 6201(2). MODERATE INCOME HOUSING - Housing that is affordable, according to the U.S. Department of Housing and Urban Development, for either home ownership or rental, and that is occupied, reserved, or marketed for occupancy by households with a gross household income that is greater than 50 percent but does not exceed 80 percent of the median gross household income for households of the same size within the housing region in which the housing is located. MODULAR (OR PREFABRICATED) HOUSING - A dwelling unit constructed on-site and composed of components substantially assembled in a manufacturing plant and transported to the building sit e for final assembly on a permanent foundation. MUNICIPAL LAND USE PERMIT - Means any of the following: (A) A zoning, subdivision, site plan, or building permit or approval, any of which relate to \"land development\" as defined in this section, that has recei ved final approval from the applicable board, commission, or officer of the municipality. (B) Final official minutes of a meeting that relate to a permit or subdivision approval that serve as the sole evidence of that permit or approval. NONCONFORMING LOT - Lots that do not conform to the present bylaws covering dimensional requirements but were in conformance with all applicable laws, ordinances, and regulations prior to the enactment of the present bylaws, including a lot or parcel improperly authorized as a result of error by the Zoning Administrator. NONCONFORMING STRUCTURE - Structure or part of a structure that does not conform to the present bylaws but was in conformance with all applicable laws, ordinances, and regulations prior to the enactment of th e present bylaws, including a structure improperly authorized as a result of error by the Zoning Administrator. NONCONFORMING USE - Use of land that does not conform to the present bylaws but did conform to all applicable laws, ordinances, and regulations prior to the enactment of the present bylaws, including a use improperly authorized as a result of error by the Zoning Administrator. PERMIT - Written governmental permission issued by an authorized official, empowering the holder thereof to do some act not forbidden by law but not allowed without such authorization. PERMITTED USE - Any use allowed in a zoning district and subject to the restrictions applicable to that zoning district. Unified Bylaws for Town of Baltimore 8-5-2009 PLAT - A map of a specific land area such as a town, section or sub division showing the location and boundaries of individual parcels of land subdivided into lots, with streets, alleys, easements, etc. drawn to a specified scale. PREMISES - A lot, parcel, tract or plot of land together with the buildings and structures thereon. PROPERTY LINE - See Lot Line. PUBLIC NOTICE - The form of notice prescribed by 24 V.S.A. S 4444, S 4449 or S 4464 of this title, as the context requires. RECREATIONAL VEHICLE - A vehicular- type portable structure without permanent foundation th at can be towed, hauled or driven and is primarily designed as a temporary living accommodation for recreational and camping purposes. Recreational vehicles include, but are not limited to, travel trailers, truck campers, camping trailers and self-propelled motor homes. RESIDENTIAL CARE HOME - A place, however named, excluding a licensed foster home, which provides, for profit or otherwise, room, board and personal care to three or more residents unrelated to the home operator. 33 V.S.A. S 7102(1). RIGHT-OF-WAY - An area or strip of land, either public or private, on which an irrevocable right-of-passage has been recorded for the used of vehicles or pedestrians or other means of travel. When the boundary of the right-of-way is not known, it will be assumed to be 25 feet from the centerline of the street. SETBACK - The distance between the nearest portion of a structure on a lot and a lot line. STREET - A public or private thoroughfare used, or intended to be used, for passage or travel by motor vehicle or other means of travel. STRUCTURE - An assembly of materials for occupancy or use, including a building, mobile home or trailer, sign, wall, or fence. USE - The purpose for which a structure or parcel of land is designed, intended, occupied or used. VARIANCE - A dispensation permitted on individual parcels of property as a method of alleviating unnecessary hardship by allowing a reasonable use of the building, structure or property which because of unusual or unique circumstances, is denied by the terms of these regulations (See Section 6.3). WETLANDS - Those areas of the state that are inundated by surface or groundwater with a frequency sufficient to support vegetation or aquatic life that depend on saturated or seasonally saturated soil conditions for growth and reproduction. Such areas include marshes, swamps, sloughs, potholes, fens, river and lake overflows, mud flats, bogs , and ponds, but excluding such areas as grow food or crops in connection with farming activities. Unified Bylaws for Town of Baltimore 8-5-2009 WIRELESS TELECOMMUNICATIONS FACILITY - A tower or other support structure, including antennae, that will extend 20 or more feet vertically, and related equipment, and base structures to be used primarily for communication or broadcast purposes to transmit or receive communication or broadcast signals."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    }
+  ]
+}

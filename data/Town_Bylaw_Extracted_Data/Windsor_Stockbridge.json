@@ -1,0 +1,759 @@
+{
+  "metadata": {
+    "municipality": "Stockbridge",
+    "county": "Windsor",
+    "state": "Vermont",
+    "bylaw_date": "1106-20-18",
+    "source_pdf": "Windsor_Stockbridge_Text_eff11062018.pdf",
+    "extracted_date": "2026-03-18",
+    "pages": 63,
+    "word_count": 23728,
+    "articles_found": 6,
+    "sections_found": 67,
+    "subsections_found": 11,
+    "regulation_rows": 0,
+    "list_items": 1
+  },
+  "articles": [
+    {
+      "number": "1",
+      "title": "GENERAL PROVISIONS",
+      "sections": [
+        {
+          "number": "1.1",
+          "title": "Enactment",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1.2",
+          "title": "Purpose",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1.3",
+          "title": "Effective Date",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1.4",
+          "title": "Status of Prior Bylaws",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1.5",
+          "title": "Validity and Severability",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1.6",
+          "title": "Precedence of Bylaws",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "GENERAL BYLAWS",
+      "sections": [
+        {
+          "number": "2.1",
+          "title": "Application and Interpretation of Bylaws",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.2",
+          "title": "Zoning Permit",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.3",
+          "title": "Agricultural, Farming and Forestry - Permit Not Required",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.4",
+          "title": "Exempt Development",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.5",
+          "title": "Construction Approved or Commenced prior to these Bylaws",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.6",
+          "title": "Pre-Existing Violations",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.7",
+          "title": "Certificate of Compliance",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.8",
+          "title": "Affordable Housing",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.9",
+          "title": "Childcare Facilities",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "2.10",
+          "title": "Zoning Limitations",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "ZONING DISTRICTS",
+      "sections": [
+        {
+          "number": "3.1",
+          "title": "Establishment of Zoning Districts and Map",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.2",
+          "title": "Interpretation of Zoning District Boundaries",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.3",
+          "title": "Lots in Two Zoning Districts",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.4",
+          "title": "Village Residential District \"VR\"",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.5",
+          "title": "School Hamlet District (SSH)",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.6",
+          "title": "Rural Residential District - \"RR\"",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.7",
+          "title": "Upland Conservation District - \"UC\"",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.8",
+          "title": "Mixed Use Light Industrial (MULI)",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.9",
+          "title": "Special Flood Hazard Area Overlay- \"SFHA\"",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "SPECIAL PROVISIONS",
+      "sections": [
+        {
+          "number": "4.1",
+          "title": "Existing Small (nonconforming) Lots",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.2",
+          "title": "Required Frontage On, or Access To Public Roads",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.3",
+          "title": "Sewage Disposal",
+          "page": 3,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.4",
+          "title": "Off-Street Parking",
+          "page": 3,
+          "paragraphs": [
+            "Stockbridge Zoning Bylaws November 6, 2018"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.5",
+          "title": "Outdoor Storage of Junk",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.6",
+          "title": "Home Occupations",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.7",
+          "title": "Home Industry",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.8",
+          "title": "Temporary Structures",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.9",
+          "title": "Obnoxious Uses",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.10",
+          "title": "Signs - Permit Required",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.11",
+          "title": "Earth Materials Extraction:",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.12",
+          "title": "Subdivision of Lots",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.13",
+          "title": "Conservation",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.14",
+          "title": "Mobile Home Parks",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.15",
+          "title": "Accessory Dwelling Units",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.16",
+          "title": "Height Limitations",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.17",
+          "title": "Exterior Lighting",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.18",
+          "title": "Outdoor Displays",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.19",
+          "title": "More than One Principal Building per Lot",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.20",
+          "title": "Buffer Strip",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4.21",
+          "title": "Natural Resource Limitations",
+          "page": 4,
+          "paragraphs": [
+            "4.22 ​ Off-Grid Residential Wind Energy Systems 4.23 ​ Wireless Communication Facilities"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": [
+            {
+              "number": "5",
+              "text": "ADMINISTRATION, ENFORCEMENT, APPEALS",
+              "use_type": null
+            }
+          ]
+        },
+        {
+          "number": "5.1",
+          "title": "Zoning Administrator",
+          "page": 4,
+          "paragraphs": [
+            "​ (ZA)"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.2",
+          "title": "Planning Commission",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.3",
+          "title": "Zoning Board of Adjustment (ZBA)",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.4",
+          "title": "Zoning Permit",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [
+            {
+              "label": "5.4.1",
+              "title": "Permit Application Requirements for Approvals",
+              "paragraphs": [
+                "​"
+              ],
+              "items": []
+            },
+            {
+              "label": "5.4.2",
+              "title": "Permit Application Requirements for in the Special Flood Hazard Area Overlay",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "5.4.3",
+              "title": "Referrals to State Agencies Prior to Issuance",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "5.4.4",
+              "title": "Effective Date, Filing, and Posting of Zoning Permit",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "5.4.5",
+              "title": "Appeal of Zoning Administrator's Actions or Zoning Permit",
+              "paragraphs": [
+                "​"
+              ],
+              "items": []
+            },
+            {
+              "label": "5.4.6",
+              "title": "Expiration of Zoning Permit",
+              "paragraphs": [],
+              "items": []
+            },
+            {
+              "label": "5.4.7",
+              "title": "Permit Coordination",
+              "paragraphs": [],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.5",
+          "title": "Discontinuance",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.6",
+          "title": "Abandonment",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.7",
+          "title": "Nonconformities",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.8",
+          "title": "Site Plan Approval Standards",
+          "page": 4,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.9",
+          "title": "Site Plan Approval Hearing and Decision",
+          "page": 4,
+          "paragraphs": [
+            "Stockbridge Zoning Bylaws November 6, 2018"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.10",
+          "title": "Conditional Use Approval Process and Standards",
+          "page": 5,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.11",
+          "title": "Conditional Use Hearing and Decision",
+          "page": 5,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.12",
+          "title": "Variances",
+          "page": 5,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.13",
+          "title": "Waivers",
+          "page": 5,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.14",
+          "title": "Notice of Public Hearings",
+          "page": 5,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.15",
+          "title": "Violations",
+          "page": 5,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.16",
+          "title": "Notice of Violation",
+          "page": 5,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "5.17",
+          "title": "Enforcement and Fines",
+          "page": 5,
+          "paragraphs": [],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "title": "CLUSTERED HOUSING DEVELOPMENT",
+      "sections": []
+    },
+    {
+      "number": "7",
+      "title": "DEFINITIONS",
+      "sections": [
+        {
+          "number": "5.4.4",
+          "title": "",
+          "page": 35,
+          "paragraphs": [
+            "5.2 Planning Commission There is hereby established a Planning Commission, which shall consist of not less than three, nor more than nine, members appointed by the Selectboard for a term of three years. Any appointment to fill a vacancy shall be for the unexpired term. The Planning Commission shall have the authority to conduct those duties established for it under Section 4325 of the Act. The Planning Commission is principally responsible for drafting the Town Plan and the Town's zoning and subdivision bylaws. It also serves as a quasi-judicial board, reviewing site plans, subdivisions and Clustered Housing Developments, and may prepare and present building, housing and safety codes, a capital budget and program and any amendments thereto. The Planning Commission shall also be charged with the administration of the procedures allocated to it by these Bylaws. 5.3 Zoning Board of Adjustment (ZBA) There is hereby established a Zoning Board of Adjustment (ZBA), some or all of whose members may also be members of the Planning Commission. The Zoning Board of Adjustment shall consist of not less than three, nor more than nine, members appointed by the Selectboard for a term of three years. Any appointment to fill a vacancy shall be for the unexpired term. Stockbridge Zoning Bylaws November 6, 2018 The ZBA shall be charged with the proper interpretation of these Bylaws, including the following: (a) To hear and rule on appeals concerning any order, requirement, decision, or determination made by the Zoning Administrator or in the administration and enforcement of these Bylaws. (b) To hear and grant or deny a request for a variance. (c) To hear and approve or deny a request for a Conditional Use Approval 5.4 Zoning Permit Applications for Zoning Permits shall be made to the Zoning Administrator on forms approved by the Planning Commission. In addition to the information requested on the form, the Zoning Administrator may require additional information, surveys, site plans, or drawings, to document that the proposed development is in compliance with these Bylaws. A fee schedule for applications shall be set by the Selectboard and payment of fees is due at application. Fees are non-refundable and do not guarantee a permit. An application for a Zoning Permit will not be acted upon until it is considered complete by the Zoning Administrator. For an application to be complete, it must include a signed application form, all required information, and any necessary approvals (septic permit, access permit, site plan approval, conditional use approval, waiver or variance.) When an application involves a use in the Special Flood Hazard Area, an application will not be deemed complete until the Agency of Natural Resources provides comments or the thirty (30) day comment period expires. When additional information is requested from the applicant by the Zoning Administrator in order to consider the permit application complete and such information is not presented within 60 days, the application will be deemed rejected. When Site Plan or Conditional Use Approval is necessary before acting on a permit, the Zoning Administrator shall refer all such applications for such approval to the appropriate municipal panel for action prior to issuance or denial of a permit. Within thirty (30) days of the completion of an application and all necessary approvals, the Zoning Administrator shall either issue or deny the zoning permit. If the permit is denied, the Zoning Administrator shall notify the applicant in writing, stating the reasons for denial, and the procedure for appeal. If the Zoning Administrator fails to act within 30 days, a permit shall be deemed issued on the 31st day. 5.4.1 Permit Application Requirements for Approvals An application which requires Site Plan, Conditional Use, or Planned Unit Development approval shall include submission of the following plans and supporting documents to the Planning Commission and/or Zoning Board of Adjustment, as appropriate. Stockbridge Zoning Bylaws November 6, 2018 (a) A map showing the general location of the property within the Town and its relationship to existing public roads and highways. (b) A statement including the uses of adjacent property, and the names and current addresses of all owners of land immediately adjacent to and directly across all public highways from the property at issue. The Town Clerk is available to help the applicant with the names and addresses as needed. (c) A statement and/or map sufficient to demonstrate the relationship of the proposed development to adjacent land uses, both existing and proposed. (d) A proposed site plan, drawn to an appropriate scale, showing the location, height, spacing, uses, and architectural relationships of all buildings existing and proposed open spaces, landscaping, utility lines, streets, driveways, off-street parking facilities, unique or manmade features and the physical conditions of the site. (e) In the event land development is proposed involving the condominium form of ownership, copies of the proposed Declaration of Condominium and Condominium Bylaws. (f) Quantitative data indicating the number and types of dwelling units and or other uses, parcel size, proposed open space not to include roads, utilities, rights of way, parking and loading areas or small inter-structural yards. (g) A development schedule indicating the approximate dates when construction of the project or stages of the project is expected to begin and be completed. (h) Existing and proposed future ownership of the property involved. (i) Notwithstanding the above, any additional documents and supporting information upon finding by the Planning Commission or the Zoning Board of Adjustment that such information may materially assist in its review and evaluation of the proposal. 5.4.2 Permit Application Requirements for in the Special Flood Hazard Area Overlay (also see"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "3.9",
+          "title": ")",
+          "page": 37,
+          "paragraphs": [
+            "When development in the Special Flood Hazard Area is proposed, all applications shall also include: (a) A site plan that depicts the proposed development, all water bodies, Special Flood Hazard Areas, floodways, any existing and proposed drainage, any proposed fill, and pre and post development grades, and the elevation of the proposed lowest floor, as referenced to the same vertical datum as the elevation on the current Flood Insurance Rate Maps. Maps are available for reference at the Town Office. (b) A Vermont Agency of Natural Resources Project Review Sheet for the proposal. The Project Review Sheet shall identify all State and Federal agencies from which permit approval is required for the proposal, and shall be filed as a required attachment to the municipal permit application. The identified permits, or letters indicating that such permits are not required, shall be submitted to the ZA and attached to the permit before work can begin. Stockbridge Zoning Bylaws November 6, 2018 (c) In accordance with Section 4424 of the Act, any permit for the development of land within the Special Flood Hazard Area shall be submitted to the state floodplain manager in the Agency of Natural Resources. No permit shall be issued by the Zoning Administrator prior to either the receipt of comments or the expiration of a period of thirty (30) days, whichever comes first, following the submittal to the Agency. (d) Adjacent communities and the Stream Alteration Engineer at the Vermont Agency of Natural Resources, Department of Environmental Conservation, River Management Section shall be notified at least days prior to issuing any permit for the alteration or relocation of a watercourse and copies of such notification shall be submitted to the Administrator of the National Flood Insurance Program. Any permit issued shall assure that the flood carrying capacity within the altered or relocated portion of any watercourse is maintained. 5.4.3 Effective Date, Filing, and Posting of Zoning Permit Zoning permits shall not take effect until fifteen (15) days after issuance by the Zoning Administrator, or in the event that a notice of appeal is properly filed in accordance with the Act, such permit shall not take effect until final adjudication of said appeal. Each permit or notice of permit issued under this section shall contain a statement of the period of time within which an appeal may be taken. Within three (3) days following the issuance of a permit, the Zoning Administrator shall: (a) deliver a copy of the permit to the listers of the municipality, (b) post a copy of the permit at the Town Office until the time for appeal has passed. Within days following the issuance of a permit, the applicant shall post a copy of the notice of permit on a form prescribed by the Planning Commission within view from the public right-of-way adjacent to the subject property. The Zoning Administrator shall monitor compliance with this provision. After the 15-day appeal period has closed, but within days after a zoning permit has been issued, the Zoning Administrator shall deliver the original or a legible copy of the notice of permit to the Town Clerk for recording in the town's land records on a form and in a manner as provided in section 1154 of the Act. The Zoning Administrator shall then file a copy of the effective zoning permit, along with any necessary approvals, conditions, maps or drawings in the Town Office where all municipal land use permits shall be kept. The applicant will be charged for the cost of the recording fees as required by law. 5.4.4 Appeal of Zoning Administrator's Actions or Zoning Permit An interested person as defined S4465 of the Act may appeal any decision or act taken by the Zoning Administrator by filing a notice of appeal with the secretary of the ZBA, or with the Town Clerk if no such secretary has been elected. This notice of appeal must be filed within Stockbridge Zoning Bylaws November 6, 2018 fifteen (15) days of the date of that decision or act, and a copy of the notice of appeal shall be filed with the Zoning Administrator. The ZBA shall conduct a hearing of the appeal, as provided in S4465-69 of the Act. The ZBA shall render its decision within forty-five (45) days after completing the final hearing. The decision shall include findings of fact setting forth its basis. Failure to render a decision within the forty-five (45) days noted above will result in an automatic granting of the appeal. Copies of the decision will be promptly mailed to the applicant and appellant by certified mail and by first class mail to every person or body appearing and having been heard at the hearing(s), and also filed with the Zoning Administrator and the Town Clerk. Appeals of ZBA decisions must be made to the Environmental Court in accord with Section 4471 of the Act. 5.4.5 Expiration of Zoning Permit A development permit is authorization to undertake certain actions. A zoning permit shall expire two years after the date it was issued by the Zoning Administrator unless fully complied with. A permit that is complied with remains valid and in effect indefinitely. It stays valid regardless of owner."
+          ],
+          "subsections": [
+            {
+              "label": "5.4.6",
+              "title": "Permit Coordination",
+              "paragraphs": [
+                "The Zoning Administrator shall inform any person applying for municipal permits or authorizations that the person should contact the regional permit specialist employed by the Agency of Natural Resources in order to assure timely action on any related State and/or federal permits. Note that this will not change the applicant's sole obligation to identify, apply for, and obtain relevant State/federal permits. The ZA shall also coordinate any local permits/approvals that may be needed. No development permit shall be issued by the Town of Stockbridge for a structure for human occupation/use that requires a water and wastewater permit, until a wastewater disposal permit has been received and approved by the State. 5.5 Discontinuance Discontinuance applies to cessation of a use. If a non-conforming or conditional use is discontinued for a period of twenty-four (24) consecutive months, it shall be deemed discontinued. A discontinued use shall not resume unless a new permit is issued and the development is in full compliance with these Bylaws. Where the Zoning Administrator determines that a discontinuance has taken place, the ZA shall notify the owner of this determination via certified mail and file a statement to this effect in the land records. Owner(s) may appeal this action to the ZBA and the burden of proof shall be on the owner. Stockbridge Zoning Bylaws November 6, 2018 5.6 Abandonment a) Structures shall be considered abandoned for the purposes of these Bylaws if one or more of the following apply: 1) Structures which are not substantially complete within two (2) years of the issuance of a zoning permit, 2) Structures deemed uninhabitable by the Health Officer, 3) Structures deemed a fire danger by the Fire Chief, or 4) Structures which, due to deterioration or damage, lack any major structural element customary to that building type, such as a roof, windows, water supply, etc. for a period of two years."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "For such structures, the owner shall be notified in writing via certified mail by the ZA",
+              "paragraphs": [
+                "that the structure in question has been deemed abandoned and that they must either: 1) apply for a development permit in order to undertake any use or construction, and thereby confirm the intent not to abandon the structure; or 2) fence and sign the property to prevent access, and then as soon as practical remove all materials from the site, restore the site to a normal grade, and establish ground cover sufficient to prevent erosion. Owner(s) may appeal this action to the ZBA and the burden of proof shall be on the owner. The ZBA may consider the structure's historical significance to the community in its deliberations. 5.7 Nonconformities a) Uses: Uses that are lawfully in existence prior to the adoption of these Bylaws but that do not meet the requirements of these Bylaws are considered \"nonconformities.\" A nonconformity may be continued indefinitely subject to the following limitations: 1) Nonconformities that come into compliance with these Bylaws may not be reestablished in a nonconforming manner. 2) Nonconformities deemed discontinued or abandoned shall lose any permission under these Bylaws and any subsequent application to reestablish them shall treat them as a new application. 3) A nonconforming use may be changed to another nonconforming use with the approval of the ZBA, subject to Conditional Use Review under these Bylaws and a determination by the ZBA that the new use is less disruptive and more similar in character and impact with other uses in the district. 4) A nonconforming use may be reestablished within a structure or portion thereof which has been damaged or destroyed, only if a zoning permit for the redevelopment or reconstruction of the structure is obtained within two (2) years of the date of the damage."
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Structures: Structures that are lawfully in existence prior to the adoption of these Bylaws",
+              "paragraphs": [
+                "Stockbridge Zoning Bylaws November 6, 2018 but that do not meet the requirements of these Bylaws are considered \"nonconforming structures\". A nonconforming structure may be occupied indefinitely, subject to the following limitations: 1) A nonconforming structure may undergo normal maintenance and repair without a Zoning Permit, provided that such action does not increase the degree of nonconformance and it is not in the Special Flood Hazard Overlay. 2) A nonconforming structure not in the Special Flood Hazard Overlay that has been damaged by any cause may be reconstructed with the issuance of a Zoning Permit either to its prior size and condition, or to a smaller or larger size than the original as long as any nonconformities are not increased, but only if such reconstruction is permitted within two (2) years from the date of the damages. 3) Non-conforming structures shall not be moved, enlarged, altered, extended, or reconstructed in any way that increases the degree of non-conformity. Where a building has less than the required front setback, additions that are lateral to the existing structure may be permitted so long as they become no closer to the road than the original structure and conforming side and rear setback requirements are met. 5.8 Site Plan Approval Standards a) Other than uses listed in section B of each Zoning District, no zoning permit shall be issued by the Zoning Administrator ​ ​ for any: 1) commercial 2) industrial 3) public or quasi-public use 4) multi-family dwelling (three (3) units or more) until the Planning Commission grants Site Plan approval. b) To grant site plan approval, the Planning Commission shall hold at least one public hearing after public notice and review the application information and find that: 1) Safe vehicular and pedestrian circulation between the site and street network and adjacent traffic generators exists. 2) There are adequate parking and loading facilities. 3) There is adequate landscaping, screening, and setbacks to achieve year-round compatibility with and protection of adjacent properties and views from public highways. (i) Landscaping and Screening will be designed to: 1) integrate the site with the surrounding landscape 2) provide separation between incompatible adjacent land uses or activities 3) provide a transition from built features to designated open space areas 4) interrupt the facades of buildings 5) visually reduce the scale and bulk of large buildings 6) define site features, such as main entrances and circulation corridors Stockbridge Zoning Bylaws November 6, 2018 7) improve the aesthetic appearance of parking lots and service areas 8) have an emphasis on species that are indigenous to Vermont. (ii) As a condition of approval, all landscaping and plantings shall be maintained in a healthy and living condition and shall be replaced as needed. 4) Proposed exterior lighting complies with these Bylaws. 5) There are adequate surface drainage facilities to handle stormwater on site. 6) The size, location and design of signs complies with these Bylaws. If a zoning application requires both Site Plan and Conditional Use approvals, the Planning Commission may coordinate its review process with the ZBA and arrange concurrent meetings with the applicant, if possible, within the specific limits for each review as established herein. 5.9 Site Plan Approval Hearing and Decision The purpose of the hearing is for the Planning Commission to: (a) fully understand the proposal and how it addresses all requirements of these Bylaws (b) review all special studies (c) identify significant issues or concerns associated with the proposal (d) establish all potential interested persons (e) provide abutters and other persons an opportunity to comment on the proposal (f) provide the Commission with sufficient information to base its approval, approval with conditions, or denial. The Planning Commission shall take such testimony as will enable them to reach a decision supported by findings of fact, including continuing or closing the initial hearing pending the submittal of further information, and reconvening when such information is ready. If the Commission decides any additional information is needed from any party, it shall continue the hearing process until it is ready to proceed to a decision. As part of this continuance the Board shall set a time by which such additional information is due. Failure to produce needed information by the applicant or representative may result in denial. For all relevant criteria applicable to the requested use, the applicant or representative has the burden of proof. This means that the applicant or representative must persuade the Planning Commission that the use complies with these Bylaws. This can be by written or oral testimony provided by the applicant or representative at the hearing. The applicant or representative shall provide sufficient evidence that all relevant criteria have been met even if no party actually opposes that project. Evidence must be credible and clear enough for the Commission to be able make written findings. Stockbridge Zoning Bylaws November 6, 2018 To assist the Planning Commission in its review of technical issues in applications under this section, it may, after consultation with the applicant, retain consultants and require the applicant to pay the reasonable cost of their services. Any or all final reports or documents prepared by the consultant shall be made available to the applicant and other parties to the proceeding. When sufficient testimony has been taken for the Planning Commission to address each specific standard that applies to that use in that district, they shall close the final hearing and deliberate. Deliberations may be done in private and will lead to a written decision. The Planning Commission must grant or deny the application for site plan approval in writing, after deliberations and within 45 days of the final hearing or approval will be automatically given on the 46th day. Copies of the decision will be promptly mailed to the applicant by certified mail, and by first class mail to every person or body appearing and having been heard at the hearing(s) and also filed with the Zoning Administrator and the Town Clerk. Any site plan approval granted under these Bylaws shall expire two (2) years from the date of the written decision granting such approval unless a zoning permit has been issued by the Zoning Administrator for the approved project. Appeals from the decisions of the Planning Commission shall be to the Vermont Environmental Court in accordance with 24 V.S.A. Section 4471 and related statutes and rules. 5.10 Conditional Use Approval Process and Standards Applications for any development requiring conditional use approval prior to permit must be made to the Zoning Administrator, who shall receive applications for these approvals and transmit them to the Zoning Board of Adjustment for action. The Zoning Board of Adjustment shall deem when an application is complete for its review. When additional information is requested from the applicant in order to consider the permit application complete and such information is not presented within sixty ( 60) days, the application will be deemed rejected. Development requiring conditional use approval must receive such approval before a zoning permit may be granted. As its name implies, conditional use approval will entail written conditions on development in order to achieve certain goals. Conditional use approval shall be granted only if the ZBA determines, after public notice and public hearing and deliberation that the proposed use conforms to the following general and specific standards: a) General Standards - The proposed use shall not result in an undue adverse effect on any of the following: 1. The capacity of existing or planned community facilities 2. The character of the area affected as defined by the purposes of the district 3. Traffic on roads and highways in the vicinity 4. The Bylaws and Town Ordinances in effect 5. Utilization of renewable energy resources. Stockbridge Zoning Bylaws November 6, 2018 b) Specific Standards - The proposed use shall comply with all specific provisions of these Bylaws applicable to it, including, but not limited to lot area, setbacks, coverage, parking and loading facilities, sign regulations, performance standards, landscaping and fencing. c) So not to contribute to a pattern of strip development, development with frontage on Routes 100 or 107 in the Rural Residential District requiring a conditional use approval shall meet the following specific standards: 1. Road frontage parking ​ . Parking lots that extend along the highway and lack depth exhibit broad road frontage. In order to minimize this characteristic, parking lots shall be oriented so that they do not dominate the frontage by allocating additional parking to the side or rear of the building. Topographical constraints will be taken into consideration. Parking areas shall be bordered by landscaped buffers that are integrated with the overall landscaping plan for the site and include trees in suitable locations. Landscaping shall be installed within and contiguous to parking areas to avoid large expanses of parking, to facilitate stormwater management and to reduce the visibility of parking areas from off-site. 2. Shared access ​ . Uses that have single accesses and no connection to adjacent uses inhibit walking and can contribute to a pattern of strip development. There is a lack of connection to surrounding land uses if one must drive back onto a highway in order to access a neighboring property. To avoid this with current and future development, projects will minimize accesses onto state and town highways and maximize connections to adjacent lots. Where reasonable access exists on adjacent lots, projects will be required to use these. Where no alternative access currently exists the project will create a contingency design, with a condition requiring future sharing with adjacent lots.and with access located in such a way as to reasonably facilitate sharing. Internal pedestrian access to adjacent properties is required, although if no adjacent development exists yet, sidewalks may simply be designed into the project and required to be built only when adjacent development occurs. 3. Building design, size and scale. ​ Buildings shall take reasonable efforts to be at a scale and a design that is similar to those within the immediate vicinity of the proposed development. For example new buildings should avoid flat roofs. Larger buildings than adjacent uses may be allowed upon finding that proposed landscaping and design elements break the building shape into smaller components (varying roofline, building edge, façade material). Formulaic franchise building designs are not allowed unless they reflect local vernacular architecture. 4. Prime Agricultural Land. ​ Conservation of primary agricultural soils shall be incorporated into a development's design. Development on prime agricultural soils will be approved on the determination that it has been planned to maximize the agricultural potential of the land through the use of clustering techniques, and effective layout and design of roads and utilities. Stockbridge Zoning Bylaws November 6, 2018 5. Outdoor Lighting. ​ Outdoor lighting fixtures shall be limited to recessed, shielded or fully cut-off fixtures. Outdoor lighting shall be kept to the minimum required for safety, security and intended use. Outdoor lighting fixtures shall be energy-efficient, using metal halide, high-pressure sodium, fluorescent, LED (light-emitting diode) technology, or technology of equivalent or greater energy efficiency. Incandescent lighting may be allowed, provided it is controlled by a motion sensor. Outdoor lighting shall only be illuminated during the hours of operation unless necessary for safety or security reasons. 6. Efficient use of land. ​ The project design will make efficient use of land, energy, roads, utilities, and other supporting infrastructure. In determining whether a proposed development constitutes strip development, the ZBA will consider topographical constraints in the area in which the development is to be located. 5.11 Conditional Use Hearing and Decision The purpose of the hearing is for the ZBA to: (a) fully understand the proposal and how it addresses all requirements of these Bylaws (b) review all special studies (c) identify significant issues or concerns associated with the proposal (d) establish all potential interested persons (e) provide abutters and other persons an opportunity to comment on the proposal, (f) provide the Board with sufficient information to base its decision: approval, approval with conditions, or denial. The ZBA shall take such testimony as will enable them to reach a decision supported by findings of fact, including continuing or closing the initial hearing pending the submittal of further information, and reconvening when such information is ready. If the Board decides any additional information is needed from any party, it shall continue the hearing process until it is ready to proceed to a decision. As part of this continuance the Board shall set a time by which such additional information is due. Failure to produce needed information by the applicant may result in denial. For all relevant criteria applicable to the requested use, the applicant has the burden of proof. This means that the applicant must persuade the ZBA that the use complies with these Bylaws. This can be by written or oral testimony provided by the applicant at the hearing. The applicant shall provide sufficient evidence that all relevant criteria have been met even if no party actually opposes that project. Evidence must be credible and clear enough for the Board to be able make written findings. To assist the ZBA in its review of technical issues in applications under this section, it may, after consultation with the applicant, retain consultants and require the applicant to pay the reasonable cost of their services. Any or all final reports or documents prepared by the consultant shall be made available to the applicant and other parties to the proceeding. Stockbridge Zoning Bylaws November 6, 2018 When sufficient testimony has been taken for the ZBA to address each general and specific standard that applies to that use in that district, the ZBA shall close the final hearing and deliberate. Deliberations may be done in private and will lead to a written decision. The ZBA must grant or deny the application for conditional use approval in writing, after deliberations and within forty-five (45) days of the final hearing or approval will be automatically given on the 46th day. Copies of the decision will be promptly mailed to the applicant by certified mail, and by first class mail to every person or body appearing and having been heard at the hearing(s) and also filed with the Zoning Administrator and the Town Clerk. Any conditional use approval granted under these Bylaws shall expire two (2) years from the date of the written decision granting such approval unless a zoning permit has been issued by the Zoning Administrator for the approved project. Appeals from the decisions of the Zoning Board of Adjustment shall be to the Vermont Environmental Court in accordance with 24 V.S.A. Section 4471 and related statutes and rules. 5.12 Variances When approval or a permit for a development or use has been denied, an applicant may appeal this denial to the Zoning Board of Adjustment and apply for a variance, which, if granted, shall allow the development use. The ZA may also refer an application directly to the ZBA for a variance instead of denying it. A variance is a process that takes into account individual factors that may have precluded the issuance of a permit under the more standard permitting or approval processes. A variance shall be granted by the ZBA after a public hearing noticed as required by law and if in accordance with all criteria in V.S.A S4469, S4424(E) and if in the SFHA, also in accordance with CFR S60.6. Except as specified in Section S4469(b) of the Act for renewable energy structures, variances shall be granted by the ZBA upon a written finding that all of the following facts are true: (a) That there are unique physical circumstances or conditions, including irregularity, narrowness, or shallowness of lot size or shape, or exceptional topographical or other physical conditions peculiar to the particular property, and that unnecessary hardship is due to these conditions, and not the circumstances or conditions generally created by the provisions of these bylaws in the neighborhood or district in which the property is located. (b) That because of these physical circumstances or conditions, there is no possibility that the property can be developed in strict conformity with the provisions of these bylaws, and that the authorization of a variance is therefore necessary to enable the reasonable use of the property. (c) That the unnecessary hardship has not been created by the appellant. (d) That the variance, if authorized, will not alter the essential character of the neighborhood or district in which the property is located, substantially or permanently Stockbridge Zoning Bylaws November 6, 2018 impair the appropriate use or development of adjacent property, reduce access to renewable energy resources, or be detrimental to the public welfare. (e) That the variance, if authorized, will represent the minimum variance that will afford relief and will represent the least deviation possible from the zoning regulation and the town plan. For variances in the Special Flood Hazard Area, the ZBA must also find that the variance will not result in increased flood heights, increased susceptibility to flooding or erosion, additional threats to public safety or infrastructure (including emergency services during flood events), or extraordinary public expense. If issued, variances in the Special Flood Hazard Area will inform the applicant that the issuance of a variance to construct a structure below the base flood elevation increases risk to life and property and will result in increased flood insurance premiums up to amounts as high as $25 for $100 of coverage. Such notifications shall be maintained with a record of all variance actions and a copy of such variance shall be affixed to the deed of the property on file in the Stockbridge land records. In rendering a decision in favor of an appellant under this section, the ZBA may attach such conditions to such variance as it may consider necessary and appropriate under the circumstances to implement the purposes of the Act and the Town Plan. The ZBA must grant or deny the variance within days of the final hearing or approval will be automatically given on the ​ th day. Copies of the decision will be promptly mailed to the applicant by certified mail, and by first class mail to every person or body appearing and having been heard at the hearing(s), and also filed with the Zoning Administrator and the Town Clerk. Any variance granted under these Bylaws shall expire two (2) years from the date of the written decision granting such approval unless a zoning permit has been issued by the Zoning Administrator for the approved project. The approval or denial of a variance by the ZBA may be appealed to the Environmental Court in a manner as specified in Section 4471 of the Act. 5.13 Waivers There are times when a proposed use cannot fit the requirements of a permitted or conditional use. Under certain specific conditions, when only a dimensional change from the established standards (such as a reduction in a setback) is needed, an applicant may be eligible to receive a waiver. A. Setback Waivers: A waiver to allow the least possible deviance from setbacks can be issued by the Zoning Administrator for the following purposes provided that the structure does not enter the right-of-way.: (a) To allow for disability access; or (b) To allow for required life safety improvements; Stockbridge Zoning Bylaws November 6, 2018"
+              ],
+              "items": []
+            },
+            {
+              "label": "B",
+              "title": "Upland Conservation District Development Bonus Waiver:",
+              "paragraphs": [
+                "To help protect important wildlife habitats and forests and avoid fragmentation in the Upland Conservation District a 100% bonus in allowable density (two dwellings rather than one) may be granted by the ZBA using the conditional use approval process, so long as the waiver will not result in lots over acre and will effectively cluster these so as to retain a contiguous solid block of undeveloped remaining land. Where such waivers are granted by the ZBA the resulting permit shall so specify. The approval or denial of a waiver by the ZBA may be appealed to the Environmental Court in a manner as specified in Section 4471 of the Act. 5.14 Notice of Public Hearings At least one warned public hearing is [shall be] required for Zoning Administrator appeals, site plan reviews, conditional use approvals, variances. Some waivers also require a warned hearing. Notice for a warned public hearing shall be given not less than fifteen (15) days prior to the date of the public hearing by all the following: (a) Publication by the Zoning Administrator in a newspaper of general circulation in the Town of the date, place, and purpose of the hearing; and that participation in the hearing is a prerequisite to the right to take any subsequent appeal. (b) Posting of the same information by the Zoning Administrator in three or more public places within the municipality, including the Town Office, Stockbridge Post Office and Gaysville Post Office. (c) Posting by the applicant on a form provided by the Town within view from the public right-of-way most nearly adjacent to the property for which an application is made. Such outdoors posting shall be on a form prescribed by the Zoning Board of Adjustment, and if within the Town right-of-way shall be posted no closer than seven (7) feet to the traveled surface. Posting on private property outside the right-of-way requires landowner permission. (d) Written notification by the Zoning Administrator by first class mail to the applicant and to owners of all properties adjoining the property subject to development, without regard to any public right-of-way. The notification shall include a description of the proposed project and shall be accompanied by information that clearly informs the recipient where additional information may be obtained, and that participation in the hearing is a prerequisite to the right to take any subsequent appeal. (e) Written notification to any relevant neighboring town clerk, as described in (d) above, if the proposed subdivision is within five hundred (500) feet of that town. The Zoning Administrator will keep record of such above notices and shall include a copy of the newspaper notice and a signed certification as to the postings. Proof of the mailings may be either by certified mail, return receipt requested, written notice hand-delivered, or a sworn certificate of service of first class mailing. Costs for all notices will be paid by the applicant. Stockbridge Zoning Bylaws November 6, 2018 If additional hearings are needed for additional information, the first hearing may be recessed to a later date and time specified at the first hearing without requiring new notice. If the first hearing is closed and any additional hearings are needed, the notice requirements above apply. 5.15 Violations The commencement or continuation of any land development, subdivision or land use which is not in conformance with any provision of these Bylaws shall constitute a violation. Attempts to circumvent the provisions of these Bylaws through conveyances or transactions not \"at arms length\" (such as partially or wholly owned corporations or transactions in collusion), shall void any permits. 5.16 Notice of Violation Pursuant to S4451-4454 of the Act, no legal enforcement action may be brought by the Town under this Section unless the alleged offender has had at least seven (7) days written notice by Certified Mail from the Zoning Administrator. The seven-day warning notice shall state that a violation exists; that the alleged offender has an opportunity to correct the violation or present an action plan and remedial schedule to correct the violation; which must be submitted to the ZA. The alleged offender will not be entitled to an additional warning notice for a violation occurring after the seven days. The ZA will have 30 days to review and respond to the action plan, at which point the alleged offender will have 7 days to review and respond to the ZA's findings. When an agreement to remedy the offense has been established, the responsible party may have up to 12 months to cure depending on the level of violation as established by the ZA. If the agreement is not completed or further violation occurs the Town may take legal action against the offender, and levy fines pursuant to 4451 of the Act. Action may be brought without notice and opportunity to cure if the alleged offender repeats the violation of these Bylaws after the written notice period and within the next succeeding twelve (12) months. In the case of violations in the ​ Special Flood Hazard Area, ​ the seven-day warning notice shall also state that failure to cure may result in loss of flood insurance. In addition, notice shall also be sent to the state NFIP Coordinator and the Administrator of the National Flood Insurance Program and shall include: (a) evidence that the property owner has been provided notice of the violation and the prospective denial of insurance (Section 1316 of the National Flood Insurance Act of 1968, as amended, authorizes FEMA to deny flood insurance to a property declared by a community to be in violation of their flood hazard area regulations.) (b) when applicable, a clear statement that the declaration is being submitted pursuant to"
+              ],
+              "items": []
+            }
+          ],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "1316",
+          "title": "of the National Flood Insurance Act of 1968, as amended",
+          "page": 49,
+          "paragraphs": [
+            "Stockbridge Zoning Bylaws November 6, 2018 A copy of the warning shall be sent to the Chairs of the Selectboard, Planning Commission, and ZBA and placed in the permit file for the subject property. If the violation is not remedied, subject to a written action plan, or appealed within seven (7) days, the ZA shall file a copy of the notice of violation in the municipal land use permit files, with the Town Clerk for filing in the land records, and shall also mail a copy to the violator. The notice shall include: (a) the name of the property owner and address or legal description of the property sufficient to confirm its identity or location; (b) a clear and unequivocal declaration that the property is in violation of these Bylaws; (c) a clear statement that the ZA or public body making the declaration has authority to do so and a citation to that authority. 5.17 Enforcement and Fines The Zoning Administrator shall initiate the appropriate legal action in the name of the Town of Stockbridge to enforce the provisions of these Bylaws, but shall not incur costs without the approval of the Selectboard. In the prosecution of alleged offenders through the Environmental Court, the Zoning Administrator shall first consult with the Selectboard and legal counsel, as necessary. The Town shall observe any limitations on enforcement proceedings relating to municipal permits and approvals as set forth in the Act. Any person who violates these Bylaws shall be fined not more than one thousand dollars ($1,000) for each offense. Each day that a violation is continued shall constitute a separate offense. In default of payment of the fine, such person shall pay double the amount of such fine. All fines imposed by the Court and collected for violations shall be paid to the Town. Violations of Required Agricultural Practices shall be enforced under this Section as violations of these Bylaws in accordance with 10 VSA S 1974a, S 4451, and S 4452. Such violations shall also be immediately reported to the Secretary of Agriculture for enforcement under 6 V.S.A. Section 4812. When a violation occurs in the Special Flood Hazard Area, a copy of the notice of violation will be mailed the State NFIP Coordinator. If any appeals have been resolved, but the violation remains, the ZA shall submit a declaration to the Administrator of the National Flood Insurance Program requesting denial of flood insurance to the property pursuant to Section 1316 of the National Flood Insurance Act of 1968, as amended. Stockbridge Zoning Bylaws November 6, 2018 6. CLUSTERED HOUSING DEVELOPMENT 6.1 General Intent and Purposes The provisions for Clustered Housing Development (CHD) set forth below are intended to permit the development of larger parcels of land in such a manner as will result in the most efficient, aesthetic, and desirable use of such parcels; encourage a more creative approach to the development of such parcels than would otherwise result under these Bylaws; to protect natural resources; and to provide flexibility in the design and placement of buildings, open spaces, vehicular and pedestrian circulation and off-street parking areas so as to best utilize the features of the specific site. In order to encourage innovation in design and layout and promote the efficient use of land, the Planning Commission may grant Clustered Housing Development approval for proposals subject to the standards and conditions set forth below. 6.2 Clustered Housing Development Approval - Standards and Conditions In its review and approval of a proposed Clustered Housing Development, the Planning Commission shall find in its written decision that the Project meets all of the following criteria and standards: (a) The application submitted satisfies all the requirements for submission of a Clustered Housing Development application as identified by the Planning Commission. (b) The parcel size of the proposed Clustered Housing Development meets the minimum area requirements set forth below: Village Residential/Hamlet 2 acres Rural Residential 5 acres Upland Conservation 40 acres (c) The setback requirements, as determined for the project in its entirety, and for any and all buildings, structures, or lot lines within the project, comply with all applicable setback requirements. (d) The total number of dwelling units and other uses shall not exceed the number or densities which would be permitted in the Planning Commission's judgment if the involved land were subdivided into lots in conformance with the Bylaws unless a density bonus is granted by the Planning Commission. (e) Density Bonus - in order to encourage the most appropriate and efficient use of the involved land, the total number of dwelling units and other uses may be exceeded by up Stockbridge Zoning Bylaws November 6, 2018 to fifty percent (50%), rounded up to the nearest whole number. In granting any such requested density increase, the Commission shall find that: ● The character and siting variations incorporated in the project consists of factors which make a substantial contribution to the general intent and purposes of the CHD provision. ● Such variation are appropriate based upon, but not limited to, the following project amenities: siting, visual focal points, use of existing physical features such as topography, building orientation, variation in building groups such as clusters; design features, architectural styles, harmonious use of building materials, landscaping, and pedestrian ways; and extent and location of open space reservation relative total project area, proposed plans for use and management of such area, and the degree of preservation of natural features for any unimproved areas. (f) The design and layout of the project preserves any recognized historic sites or structures and to the greatest extent feasible any natural features or resources of the site. (g) Adequate conditions and technical plans exist to insure the safe treatment of sewage and the provisions of a safe supply of drinking water for the project. (h) If the proposal involves a greater concentration of land uses within some section of the development than upon others, such greater concentration shall be offset by a lesser concentration in other section or sections or by an appropriate reservation of common open spaces on the remaining lands. (i) To encourage maintenance or enhancement of forest resources, wildlife habitats, and critical resource areas for which the project has been designed so areas of the total parcel are permanently set aside as undevelopable and or the purposes set forth above. 6.3 Clustered Housing Development - General Procedures The Planning Commission encourages developers to meet informally with the Commission to discuss this development option prior to submission of a formal application. (a) Upon receipt of an application for Clustered Housing Development Approval, the Commission shall ascertain if the application is complete. (b) A request for Clustered Housing Development Approval shall be scheduled for at least one Public Hearing held by the Planning Commission within days from the date of acceptance of the completed application. All procedures as set forth in V.S.A."
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        },
+        {
+          "number": "4407",
+          "title": "(3) shall apply also",
+          "page": 52,
+          "paragraphs": [
+            "(c) The Planning Commission may attach such reasonable conditions to its approval of a Clustered Housing Development as it finds necessary to further the purposes of these Bylaws and 24 V.S.A. Chapter 117. (d) The Planning Commission shall act to approve or disapprove a proposal by written decision within sixty (60) days from the date of the final public hearing. (e) Land development for which Approval has been granted shall not commence unless the Zoning Administrator has issued a Permit for such development. Stockbridge Zoning Bylaws November 6, 2018 (f) In the event that substantial construction has not been undertaken within two years from approval, the permit shall expire and a new permit will be required for further development. 6.4 Clustered Housing Development - Appeals Appeals from the decisions of the Planning Commission shall be to the Environmental Court in accordance 24 V.S.A. Section 4471 and related statutes and rules. Stockbridge Zoning Bylaws November 6, 2018 7. DEFINITIONS For the purposes of these Bylaws, meanings of the following words and terms shall be interpreted as defined below and all other words shall be presumed to have their normal meaning, unless such meaning runs counter to the purposes and objectives of these Bylaws or the Town Plan. The definitions of terms defined in Section 4303 of the Act, and not otherwise defined herein are made a part of these Bylaws. ABANDONED STRUCTURE: A structure that is uninhabited and uninhabitable for two or more years. ABUTTER: An owner whose property is within feet of the property that is subject to an application under review by the Planning Commission and/or the ZBA. ACCESS: A way or means of approach to provide vehicular or pedestrian physical entrance to or egress from a property. ACCESSORY DWELLING: ​ See ​ DWELLING, ACCESSORY ACCESSORY STRUCTURE: A structure customarily incidental and subordinate to the permitted principal structure and located on the same lot. ACCESSORY USE: A use customarily incidental and subordinate to the permitted principal use and located on the same lot. When applied to agriculture, this shall be deemed to include the sale of products raised on the property. ACT, THE: The State statute that is the authority for these Bylaws. Full title: Municipal and Regional Planning and Development Act, VSA Chapter 117, et seq. ACT 250: ​ 10 VSA Ch. 151. ADMINISTRATIVE OFFICER: The Town official appointed by the Selectboard whose duties are described by the Act and these Bylaws. \"Zoning Administrator\" or \"ZA\" is synonymous with this definition. AFFORDABLE HOUSING: Housing that is owned by its inhabitants, whose gross annual household income does not exceed percent of the county median income, as defined by the United States Department of Housing and Urban Development, and the total annual cost of the housing, including principal, interest, taxes and insurance, is not more than thirty (30) percent of the household's gross annual income; or housing that is rented by its inhabitants whose gross annual household income does not exceed percent of the county median income, as defined by the United States Department of Housing and Urban Development, and the total annual cost of the housing, including rent, utilities, and condominium association fees, is not more than percent of the household's gross annual income. 24 V.S.A. S 4303(1) (A). Low Income Housing ​ : Housing that is affordable, according to the U.S. Department of Housing and Urban Development, for either home ownership or rental, and that is occupied, reserved, or marketed for occupancy for households with a gross household income that does Stockbridge Zoning Bylaws November 6, 2018 not exceed percent of the median gross household income for households of the same size within the region in which the housing is located. Moderate Income Housing: Housing that is affordable, according to the U.S. Department of Housing and Urban Development, for either home ownership or rental, and that is occupied, reserved, or marketed for occupancy by households with a gross household income that is greater than percent but does not exceed percent of the median gross household income for households of the same size within the region in which the housing is located. AGRIBUSINESS ​ : The sale of farm products produced on site. AGRICULTURE ​ : The activity of raising crops and/or animal husbandry and the processing and sale of farm products produced on site. See Section 4413(d) of the Act for State mandated exemptions. ALTERATION ​ : Change of location or of footprint of a structure, other than repairs and modification in building equipment. APPLICANT ​ : The owner, or his or her duly authorized agent, of property proposed to be developed and for which an application for a zoning permit has been submitted in accordance with these Bylaws. The property owner may allow another party such as tenant or contractor to apply for a permit but the property owner shall consent to such person being co-applicant and sign the permit application. AUTO SERVICE FACILITY ​ : Any area of land, including structures thereon, that is used or designed to be used for the supply of gasoline or oil or other fuel for the propulsion of motor vehicles, and which may include facilities used or designed to be used for polishing, greasing, washing, spraying, or otherwise servicing or cleaning such motor vehicles. BASE FLOOD ​ : A flood having a one percent chance of being equaled or exceeded in any given year. BASE FLOOD ELEVATION (BFE) ​ : The height of the base flood, usually in feet, in relation to the National Geodetic Vertical Datum of 1929, the North American Vertical Datum of 1988, or other datum referenced in the Flood Insurance Study report, or average depth of the base flood, usually in feet, above the ground surface. BASEMENT ​ : Any area of the building having its floor elevation below ground level on all sides. BED & BREAKFAST/INN ​ : Overnight accommodations, which may include a morning meal, provided to guests for compensation in a dwelling occupied by a resident. BUILDING HEIGHT ​ : Vertical distance measured from the average elevation of the proposed finished grade at the front of the building to the highest point of the roof CERTIFICATE OF COMPLIANCE ​ : A statement signed by the Zoning Administrator, setting forth that a structure or use complies with these Bylaws. Stockbridge Zoning Bylaws November 6, 2018 CHILD CARE SERVICES ​ : The care, protection and supervision of children under the age of sixteen years outside of their homes for periods of less than hours a day in a day care center. COMMERCIAL CATERING MOBILE UNIT: ​ See ​ FOOD TRUCK CONDITIONAL USE ​ : A land use permitted in a given zoning district only by approval by the ZBA. CONTRACTORS' YARD ​ : Buildings or structures for uses such as offices and repair facilities and associated storage yards operated by a contractor for storage of large equipment, vehicles, or other materials commonly used in the individual contractor's type of business. DETACHED APARTMENT: A dwelling unit in an accessory structure and not attached to the main structure. DEVELOPMENT ​ : The division of a parcel into two or more parcels, the construction, reconstruction, conversion, structural alteration, relocation, or enlargement of any building or other structure, or of any mining, excavation, or landfill, and any change in the use of any building or other structure, or land, or extension of use of land. (24 VSA S4303(10). DWELLING, ACCESSORY ​ : An apartment that is clearly subordinate and appurtenant to a single-family dwelling, and has facilities and provisions for independent living, including sleeping, food preparation and sanitation. 24 VSA S4412(1)(E) \"Appurtenant\" means located within the area designated under VSA Title 32 and is a structure \"incidental or subordinate to the primary dwelling.\" DWELLING, ONE-FAMILY ​ : Any building or portion thereof, designed or used exclusively as living quarters for one family, other than motels, hotels, tourist homes, clubs, schools, hospitals, or similar use. DWELLING, TWO-FAMILY ​ : Any building or portion thereof, designed or used exclusively as living quarters for two families living independently of each other. DWELLING, MULTI-FAMILY ​ : Any building or portion thereof, designed or used exclusively as three to five dwelling units. ​ ​ A residential care home or group home, to be operated under state licensing or registration, serving nine or more who have a handicap or disability as defined in 9 V.S.A. S 4501, shall be reviewed as a multi-family dwelling and shall be subject to Conditional Use and Site Plan review. DWELLING UNIT: ​ One or more rooms, connected together, constituting a separate independent housekeeping establishment that is physically separate from other dwelling units that may be in the same structure, and containing facilities for its own independent living, including a toilet, lavatory, food preparation/kitchen facilities and one or more bedrooms. The term shall not include rooms with such provisions intended for guest occupation in boarding houses, dormitories, hotels, or other similar buildings. For the purposes of this regulation, the term also includes a residential care group home serving not more than 8 persons, or a licensed or registered home child care facility serving no more than six full-time and 4 part-time children. Stockbridge Zoning Bylaws November 6, 2018 EARTH MATERIAL EXTRACTION ​ : The on-site removal or processing of surface and subsurface materials, including soils, sand, gravel, stone, rock or organic substances other than vegetation, from land or water. Customary extraction operations include sand and gravel pits, rock quarries and accessory processing such as crushing, screening and storage of materials excavated on-site. EASEMENT: ​ A grant of one or more of the property rights by the property owner to or for use by the public, a corporation, or another permit or entity. FAMILY: ​ One or more persons living, sleeping, cooking and eating on the same premises as a single housekeeping unit. FAMILY CHILD CARE HOME OR FACILITY ​ : A home or facility where the owner or operator is to be licensed or registered by the state for child care. FARMERS MARKET: ​ Two or more farmer-producers that sell their own agricultural products directly to the general public at a fixed location, products such as fruits and vegetables, meat, fish, poultry, dairy products, and grains, as well as value-added products and arts and crafts. FARMING: The cultivation or other use of land for growing food, fiber, Christmas trees, maple sap, or horticultural and orchard crops; the raising, feeding or management of livestock, poultry, equines, fish or bees; the operation of greenhouses; the production of maple syrup; the on-site storage, preparation and sale of agricultural products principally produced on the farm; the on-site production of fuel or power from agricultural products or wastes produced on the farm; or the raising, feeding or management of equines owned or boarded by the farmer, including training, showing, and providing instruction and lessons in riding, training, and the management of equines. FLOOD ​ : (a) A general and temporary condition of partial or complete inundation of normally dry land areas from: the overflow of inland or tidal waters; the unusual and rapid accumulation or runoff of surface waters from any source; and mudslides which are proximately caused by flooding and are akin to a river of liquid and flowing mud on the surfaces of normally dry land areas, as when earth is carried by a current of water and deposited along the path of the current. (b) The collapse or subsidence of land along the shore of a lake or other body of water as a result of erosion or undermining caused by waves or currents of water exceeding anticipated cyclical levels or suddenly caused by an unusually high water level in a natural body of water, accompanied by a severe storm, or by an unanticipated force of nature, such as flash flood or abnormal tidal surge, or by some similarly unusual and unforeseeable event which results in flooding. FLOOD INSURANCE RATE MAP (FIRM) ​ : An official map of a community, on which the Federal Insurance Administrator has delineated both the special hazard areas and the risk premium zones applicable to the community. FLOOD INSURANCE STUDY ​ : An examination, evaluation and determination of flood hazards and, if appropriate, corresponding water surface elevations or an examination, evaluation and determination of mudslide (i.e., mudflow) and /or flood related erosion hazards. Stockbridge Zoning Bylaws November 6, 2018 FLOODPLAIN OR FLOOD-PRONE AREA ​ : Any land area susceptible to being inundated by water from any source (see definition of \"flood\"). FLOOD PROOFING ​ : Any combination of structural and non-structural additions, changes, or adjustments to structures which reduce or eliminate flood damage to real estate or improved real property, water and sanitary facilities, structures and their contents. FLOODWAY, REGULATORY ​ : The channel of a river or other watercourse and the adjacent land areas that must be reserved in order to discharge the base flood without cumulatively increasing the water surface elevation more than one foot at any point. FOOD TRUCK ​ : A trailer or other mobile unit that is towed by another vehicle or is self-propelled and in which food is prepared and/or from which food is served. This definition is not synonymous with \"food cart\", which is generally a smaller mobile unit that can be moved manually by one person. HISTORIC STRUCTURE ​ : Any structure that is: (a) listed individually in the National Register of Historic Places a listing maintained by the Department of the Interior) or preliminarily determined by the Secretary of the Interior as meeting the requirements for individual listing on the National Register; (b) certified or preliminarily determined by the Secretary of the Interior as contributing to the historical significance of a registered historic district or a district preliminarily determined by the Secretary to qualify as a registered historic district; (c) individually listed on a state inventory of historic places in states with historic preservation programs that have been certified either: (i) by an approved state program as determined by the Secretary of the Interior or (ii) directly by the Secretary of the Interior in states without approved programs. HOME INDUSTRY ​ : Any small industrial or service type of operation carried out on a residential property under the conditions established by Section 4.7 of these Bylaws. A home industry is a commercial use requiring both Site Plan review and Conditional Use review. HOME OCCUPATION ​ : Accessory use of a service, trade or artisan character conducted within a dwelling by the residents thereof, including temporary rentals re \"airbnbs\" which are clearly secondary to the dwelling used for living purposes and which does not change the character thereof and meets the characteristics under Section 4.6 of these Bylaws. HOTEL/INN: ​ An establishment designed or used for public lodging, meeting rooms, meals, service of legal beverages, and related amenities with all rooms accessible from a central point within the building. LIGHT INDUSTRY: ​ M ​ anufacturing activity that uses moderate amounts of partially processed materials to produce items of relatively high value per unit weight\". Examples of light industries include the manufacturing of foods ​ , beverages including craft beer, personal care and home care products, cosmetics ​ , drugs, clothes & shoes ​ , furniture ​ , art ware & crafts ​ , consumer electronics and ​ home appliances ​ . Stockbridge Zoning Bylaws November 6, 2018 LODGING/BOARDING HOUSE: An owner-occupied building in which three to six separate rooms are rented on a long term or seasonal basis with or without meals. A boarding, tourist, or rooming house shall be deemed a lodging house. LOT: A designated parcel, tract or area of land established by plat, subdivision, or as otherwise permitted by law; to be used, developed or built upon as a unit, which is not divided by a public highway as defined by 19 V.S.A., Section 1. LOT AREA: The total area within the property lines of a lot, excluding public streets, roads and road right-of-ways, and meeting the district requirements of these Bylaws, and within the municipal boundaries. LOT COVERAGE: Any portion of a lot covered or occupied by buildings, roads, parking, drives, stormwater facilities or other man-made improvements LOT FRONTAGE ​ : That portion of a lot which is adjacent and parallel to a public highway as defined by 19 V.S.A., Section 1 or a private way as approved by the Planning Commission LOWEST FLOOR ​ : The lowest floor of the lowest enclosed area, including basement. An unfinished or flood resistant enclosure, usable solely for parking of vehicles, building access or storage in an area other than a basement area is not considered a building's lowest floor, provided that such enclosure is not built so as to render the structure in violation of the applicable non-elevation design requirements of 44 CFR 60.3. MANUFACTURED HOME: ​ A structure, transportable in one or more sections, which is built on a permanent chassis and is designed for use with or without a permanent foundation when attached to the required utilities. The term \"manufactured home\" does not include a \"recreational vehicle\". MANUFACTURED HOME PARK OR SUBDIVISION: A parcel (or contiguous parcels) of land divided into two or more manufactured home lots for rent or sale. MOBILE HOME ​ : A structure or type of manufactured home that is built on a permanent chassis and is designed to be used as a dwelling with or without a permanent foundation, which includes plumbing, heating, cooling, and electrical systems, and is: * transportable in one or more sections; and * at least eight feet wide or feet long or when erected has at least square feet or if the structure was constructed prior to June 15, 1976, at least eight feet wide or feet long; or * any structure that meets all the requirements of this definition except for size and for which the manufacturer voluntarily files a certification required by the U.S. Department of Housing and Urban Development and complies with the standards established under Title 42 of the U.S. Code. 10 V.S.A. S 6201(1). MOBILE HOME PARK ​ : Any parcel of land under single or common ownership or control which contains, or is designed, laid out or adapted to accommodate, more than two mobile homes. Nothing herein shall be construed to apply to premises used solely for storage or display of mobile homes. Mobile Home Park does not mean any parcel of land under the ownership of Stockbridge Zoning Bylaws November 6, 2018 an agricultural employer who may provide up to four mobile homes used by full-time workers or employees of the agricultural employer as a benefit or condition of employment or any parcel of land used solely on a seasonal basis for vacation or recreational mobile homes. V.S.A. S 6201(2). MODULAR OR PREFABRICATED HOUSING ​ : Adwelling unit constructed on-site composed of components substantially assembled in a manufacturing plant and transported to the building site for final assembly on a permanent foundation. MOTEL: A lodging facility for guests, usually having a private outside entrance for each room or suite of rooms, and for each room or suite a parking place provided on the premises. MULTI-FAMILY DWELLING: ​ See ​ DWELLING, MULTI-FAMILY NON-CONFORMING LOT: ​ A lot that does not conform to the present Bylaws covering dimensional requirements but was in conformance with all applicable laws, and regulations prior to the enactment of the present Bylaws, including a lot improperly authorized as a result of error by the ZA. 24 VSA S4303(13). NON-CONFORMING STRUCTURE: A structure or part thereof that does not conform to the present zoning Bylaws, but was in conformance with all applicable laws, ordinances and regulations prior to enactment of the present Bylaws. NON-CONFORMING USE: A use of land or a structure that does not conform to the present zoning Bylaws but was in conformance with all applicable laws, ordinances and regulations prior to enactment of the present Bylaws. OFFICE: A building, a room, or set of rooms used to conduct the affairs of a business, profession, organization, or public entity. ONE-FAMILY DWELLING: ​ See ​ DWELLING, ONE FAMILY PARKING SPACE: A defined space which is at least ten (10) feet wide and twenty (20) feet long outside of the right-of-way or driveway used for the parking of one motor vehicle which affords practical access to the road or right-of-way and graveled or paved sufficiently to permit year-round use. PERMITTED USE: A use specifically allowed in a given zoning district, requiring only the granting of zoning permit by the Zoning Administrator. PERSONAL/PROFESSIONAL SERVICE: ​ Any business enterprise with the primary purpose of providing personal/professional services. These activities encompass a wide range of professions such as law, medicine, engineering, design, finance, and accounting, PUBLIC BUILDING OR USES: A building or lot owned by a municipality, county, state, or federal government or a quasi-public building that is property tax exempt, such as church, private school, medical clinic, hospital, library or museum. RECREATION FACILITY, (OUTDOOR) PUBLIC OR PRIVATE: Includes sports clubs, golf courses, trap, skeet, and archery ranges, swimming pools, skating rinks, riding stables, park, swimming areas, tennis courts, recreation stadiums, skiing facilities, licensed seasonal camps, Stockbridge Zoning Bylaws November 6, 2018 and similar places of private outdoor recreation. Includes publicly owned and operated playgrounds, playfields, parks, open spaces, swimming pools, and other similar places of publicly owned outdoor recreation. RECREATIONAL VEHICLE: ​ A vehicle which is: (a) built on a single chassis; (b) 400 square feet or less when measured at the largest horizontal projection; (c) designed to be self-propelled or towable by a light duty truck; and (d) designed primarily not for use as a permanent dwelling but as a temporary living quarters for recreational, camping, travel, or seasonal use. RESIDENTIAL CARE HOME or GROUP HOME: A residential care home or group home, to be operated under state licensing or registration, serving nine or more persons who have a handicap or disability as defined in V.S.A. S 4501, shall be reviewed as a multi family dwelling and shall be subject to conditional use and site plan review. RESTAURANT: An establishment where food and drink is prepared and served to patrons at tables and/or at counters within or adjacent to the principal building. RETAIL ESTABLISHMENT ​ : An establishment engaged in selling goods, services or articles individually or in small quantities directly to the consumer and rendering services incidental to such goods and articles. Retail establishments such as grocery, general, drug, and hardware stores, vehicle and equipment dealerships, and retail service establishments like hairdressers. SETBACK ​ : The minimum distance between any part of any structure and (1) the center line of any road or right-of-way, (2) any property line, or (3) public waters SIGN ​ : Any surface, fabric, device or display which bears letter, pictorial or sculptured matter, designed to convey information visually and which is exposed to public view. The term shall include all structural members and related elements composed to form a single unit. SIGN AREA: The entire face of a sign, including the advertising surface and any framing, trim or molding, but not including the supporting structure. SITE PLAN: A plan, drawn at an appropriate scale, illustrating the overall proposed site development, including the location of existing and proposed buildings in and adjacent to the site, building setbacks, the location of street, driveways, parking and loading areas, traffic circulation patterns, loading docks, septic systems, pedestrian walkways, and landscaping. SPECIAL FLOOD HAZARD AREA ​ : is the land in the floodplain within a community subject to a 1 percent or greater chance of flooding in any given year. The area may be designated a Zone A on the Flood Hazard Boundary Map (FHBM). After detailed ratemaking has been completed in preparation for publication of the Flood Insurance Rate Map (FIRM), Zone A usually is refined into Zones A, AO, AH, A1-30, AE, A99, AR, AR/AI-30, AR/AE, AR/AO,AR/AH, AR/A, VO or V1-30, VE, or V. For purposes of these Bylaws the term Zone A: Areas subject to inundation by the 1-percent-annual-chance flood event. Because detailed hydraulic analyses have not been performed, no Base Flood Elevations (BFEs) or flood depths are shown. Zone A1-A30: Areas subject to inundation by the 1-percent-annual-chance flood event determined by detailed methods. BFEs are shown within these zones. (Zone AE is used on new and revised maps in place of Zones A1-A30. Zone AH: areas subject to inundation by 1-percent-annual-chance shallow flooding (usually areas of ponding) where average depths are 1-3 feet. BFEs derived from detailed hydraulic analyses are shown in this zone. Stockbridge Zoning Bylaws November 6, 2018 \"special flood hazard area\" is synonymous in meaning with the phrase \"area of special flood hazard\". START OF CONSTRUCTION: ​ The date any sitework, clearing, renovation, or building incidental to construction that would require a permit under these Bylaws occurs. STRIP DEVELOPMENT: ​ A linear pattern of retail businesses along a major roadway, characterized by box-like buildings, multiple driveways, large signs, and a dependency on automobiles for access and circulation. STRUCTURE: ​ An assembly of materials, whether installed on, above or below the surface of the ground for occupancy or use, including but not limited to a building, shed, mobile home, trailer, sign, tennis court, swimming pool, driveway, road, and permanently mounted equipment; but excluding mailboxes, fences, walls, underground utilities, playsets and incidental structures up to one hundred (100) square feet in area. ​ Structure ​ , for floodplain management purposes, means a walled and roofed building, including a gas or liquid storage tank, that is principally above ground, as well as a manufactured home. ​ Structure ​ , for insurance purposes, means: (a) A building with two or more outside rigid walls and a fully secured roof, that is affixed to a permanent site; (b) A manufactured home (\"a manufactured home,\" also known as a mobile home, is a structure: built on a permanent chassis, transported to its site in one or more sections, and affixed to a permanent foundation); or (c) A travel trailer without wheels, built on a chassis and affixed to a permanent foundation, that is regulated under the community's floodplain management and building ordinances or laws. For the latter purpose, \"structure\" does not mean a recreational vehicle or a park trailer or other similar vehicle, except as described in (c) of this definition, or a gas or liquid storage tank. SUBSTANTIAL DAMAGE: ​ Damage of any origin sustained by a structure whereby the cost of restoring the structure to its before damaged conditions would equal or exceed 50 percent of the market value of the structure before the damage occurred. SUBSTANTIAL IMPROVEMENT: ​ Any reconstruction, rehabilitation, addition, or other improvement of a structure, the cost of which cumulatively equals or exceeds 50 percent of the market value of the structure before the \"start of construction\" of the improvement. This term includes structures which have incurred \"substantial damage\", regardless of the actual repair work performed. The term does not, however, include either: (a) Any project for improvement of a structure to correct existing violations of state or local health, sanitary, or safety code specification which have been identified by the local code enforcement official and which are the minimum necessary to assure safe living conditions or (b) Any alteration of a \"historic structure\", provided that the alteration will not preclude the structure's continued designation as a \"historic structure\". TEMPORARY STRUCTURE ​ : Structures, buildings, or storage containers located on a lot for a time period not exceeding one (1) year. Examples of temporary structures or buildings include construction trailers, storage vans or trailers incidental to a building project, construction fences, electrical and telephone boxes, storage sheds and portable toilets incidental to a building project. Stockbridge Zoning Bylaws November 6, 2018 TWO-FAMILY DWELLING: ​ See ​ DWELLING, TWO FAMILY VANTAGE POINT: A point located on a public highway or public water body in Stockbridge from which a proposed wireless communication facility will be visible. VARIANCE: An approval granted by the ZBA to allow development that does not conform to all provisions of these Bylaws. VIOLATION: ​ The commencement or continuation of any land development, subdivision or land use which is not in conformance with any provision of these Bylaws. For floodplain management purposes, violation means the failure of a structure or other development to be fully compliant with the community's floodplain management regulations. A structure or other development without the elevation certificate, other certifications, or other evidence of compliance required in 44 CFR 60.3 is presumed to be in violation until such time as that documentation is provided. WHOLESALE DISTRIBUTOR ​ : A company who handles the wholesale shipments for the manufacturer of a product (or in some cases is the product manufacturer). They have a warehouse, distribution center and ship products directly to the Retailer (or to the customer if they deal in drop shipping). WIRELESS COMMUNICATION FACILITY: A tower, pole, antenna, guy wire, or related fixture intended for use in connection with transmission or receipt of radio or television signals or any other electromagnetic spectrum-based transmissions/reception; the construction or improvement of a road, trail, building, or structure incidental to a telecommunications facility. ZBA ​ : Zoning Board of Adjustment Stockbridge Zoning Bylaws November 6, 2018"
+          ],
+          "subsections": [],
+          "regulations": [],
+          "items": []
+        }
+      ]
+    }
+  ]
+}
