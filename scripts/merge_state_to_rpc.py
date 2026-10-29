@@ -6,9 +6,11 @@ Compiles individual town GeoJSON files from data/State_of_Vermont/ into
 per-RPC files in data/RPC/.
 
 RPC is determined in priority order:
-  1. The 'RPC' property already set on each feature
-  2. Lookup via data/municipal_geoid_county_rpc_fips.csv using normalized Municipal_Name
+  1. The 'RPC' property already set on each feature (VCGI 2-character code)
+  2. Lookup via data/municipal_geoid_county_rpc_fips.csv using normalized JXTN
   3. Manual overrides for municipalities not in the CSV
+
+Output files keep the RPC abbreviations (e.g. ACRPC.geojson) used by the site.
 
 Usage:
     python scripts/merge_state_to_rpc.py
@@ -27,17 +29,33 @@ CSV_PATH    = REPO_ROOT / "data" / "municipal_geoid_county_rpc_fips.csv"
 
 # --- Manual RPC assignments for municipalities absent from the CSV ---
 MANUAL_RPC = {
-    "huntington":      "CCRPC",
-    "morristown":      "LCPC",
-    "northbennington": "BCRC",
-    "oldbennington":   "BCRC",
-    "saintgeorge":     "CCRPC",
-    "sandgatef2":      "BCRC",
-    "southburlington": "CCRPC",
-    "stowetown":       "LCPC",
-    "stovevillage":    "LCPC",
-    "warrengore":      "NVDA",
+    "huntington":      "CC",
+    "morristown":      "LC",
+    "northbennington": "BC",
+    "oldbennington":   "BC",
+    "saintgeorge":     "CC",
+    "sandgatef2":      "BC",
+    "southburlington": "CC",
+    "stowetown":       "LC",
+    "stovevillage":    "LC",
+    "warrengore":      "NV",
 }
+
+# --- VCGI 2-character RPC code -> output file name ---
+RPC_FILES = {
+    "AC": "ACRPC",
+    "BC": "BCRC",
+    "CC": "CCRPC",
+    "CV": "CVRPC",
+    "LC": "LCPC",
+    "MA": "MARC",
+    "NV": "NVDA",
+    "NW": "NRPC",
+    "RR": "RRPC",
+    "TR": "TRORC",
+    "WR": "WRC",
+}
+CSV_RPC_CODES = {abbr: code for code, abbr in RPC_FILES.items()}
 
 
 def norm(s):
@@ -48,11 +66,11 @@ def norm(s):
 
 
 def build_csv_lookup():
-    """Return dict: norm(municipal_name) -> RPC abbreviation."""
+    """Return dict: norm(municipal_name) -> VCGI RPC code."""
     lookup = {}
     with open(CSV_PATH, encoding="utf-8") as f:
         for row in csv.DictReader(f):
-            lookup[norm(row["Municipal_Name"])] = row["RPC"]
+            lookup[norm(row["Municipal_Name"])] = CSV_RPC_CODES.get(row["RPC"], row["RPC"])
     return lookup
 
 
@@ -63,8 +81,8 @@ def get_rpc(props, csv_lookup):
     if rpc:
         return rpc
 
-    # 2. Look up by Municipal_Name in the CSV
-    muni = str(props.get("Municipal_Name") or "").strip()
+    # 2. Look up by JXTN in the CSV
+    muni = str(props.get("JXTN") or "").strip()
     rpc = csv_lookup.get(norm(muni))
     if rpc:
         return rpc
@@ -88,25 +106,25 @@ def main():
 
         for feat in data.get("features", []):
             props = feat.get("properties", {})
-            # Strip trailing spaces from Municipal_Name
-            if "Municipal_Name" in props and props["Municipal_Name"]:
-                props["Municipal_Name"] = str(props["Municipal_Name"]).strip()
+            # Strip trailing spaces from JXTN
+            if "JXTN" in props and props["JXTN"]:
+                props["JXTN"] = str(props["JXTN"]).strip()
 
             rpc = get_rpc(props, csv_lookup)
             if rpc:
                 rpc_features.setdefault(rpc, []).append(feat)
             else:
-                muni = str(props.get("Municipal_Name") or "").strip()
+                muni = str(props.get("JXTN") or "").strip()
                 no_rpc.append((fpath.name, muni))
 
     print(f"\nWriting RPC files to {RPC_DIR}/...")
     for rpc in sorted(rpc_features):
         feats = rpc_features[rpc]
-        out_path = RPC_DIR / f"{rpc}.geojson"
+        out_path = RPC_DIR / f"{RPC_FILES.get(rpc, rpc)}.geojson"
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump({"type": "FeatureCollection", "features": feats}, f)
-        munis = sorted(set(ft["properties"].get("Municipal_Name", "") for ft in feats))
-        print(f"  {rpc}.geojson: {len(feats):>4} features, {len(munis):>2} municipalities")
+        munis = sorted(set(ft["properties"].get("JXTN", "") for ft in feats))
+        print(f"  {out_path.name}: {len(feats):>4} features, {len(munis):>2} municipalities")
 
     if no_rpc:
         unique = sorted(set(m for _, m in no_rpc if m))

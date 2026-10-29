@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Data - Vermont Zoning Atlas</title>
-  <meta name="description" content="Data structure and field descriptions for the Vermont Zoning Atlas.">
+  <meta name="description" content="Data structure, schema, and domains for the Vermont Zoning Atlas, aligned with the Vermont Zoning GIS Data Standard.">
   <link rel="stylesheet" href="styles.css">
   <style>
     /* Story-specific styles - matching homepage */
@@ -123,6 +123,35 @@
         padding: 0.5rem;
       }
     }
+    /* Data documentation */
+    .toc { font-size: 1.15rem; line-height: 1.9; }
+    .toc ul { margin: 0.25rem 0 0.25rem 1.5rem; }
+    .story-section h4 { font-size: 1.2rem; margin-top: 2rem; margin-bottom: 0.75rem; color: #333; }
+    .story-section code { font-size: 0.9em; background: #f0f0f0; padding: 0.05rem 0.3rem; border-radius: 3px; }
+    .fields-table-wrap { overflow-x: auto; margin: 2rem 0; }
+    .story-section table th { background: #667eea; color: #fff; }
+    .fields-table-wrap table { min-width: 880px; font-size: 0.92rem; margin: 0; }
+    .fields-table-wrap td:first-child { font-family: monospace; font-size: 0.85rem; min-width: 210px; max-width: 250px; overflow-wrap: anywhere; }
+    .schema-table td:nth-child(2) { min-width: 120px; }
+    .schema-table td:nth-child(4) { min-width: 300px; }
+    .schema-table td:nth-child(5) { min-width: 110px; }
+    .count-table td:nth-child(n+3), .count-table th:nth-child(n+3) { text-align: right; white-space: nowrap; }
+    .prev-name { display: block; font-size: 0.75rem; color: #777; font-weight: 400; }
+    .group-row td { background: #f0f4ff; font-weight: 600; color: #2a7ae2; font-family: inherit !important; font-size: 0.95rem !important; }
+    .badge { display: inline-block; padding: 0.15rem 0.5rem; border-radius: 4px; font-size: 0.78rem; font-weight: 600; white-space: nowrap; }
+    .badge-text { background: #e8f0fe; color: #1a56db; }
+    .badge-numerical { background: #e6f4ea; color: #137333; }
+    .badge-mixed { background: #fef3c7; color: #92400e; }
+    .badge-match { background: #0b5394; color: #fff; }
+    .badge-derived { background: #cfe2f3; color: #0b5394; }
+    .badge-partial { background: #fef3c7; color: #92400e; }
+    .open-items-table td:first-child { min-width: 0; width: 2.5rem; }
+    .open-items-table td:nth-child(2) { min-width: 180px; }
+    .open-items-table td:nth-child(3) { min-width: 130px; }
+    .open-items-table td:nth-child(4) { text-align: right; }
+    .open-items-table td:nth-child(5) { min-width: 320px; }
+    .hero-link { color: #fff; text-decoration: underline; }
+    .swatch { display: inline-block; width: 24px; height: 24px; border-radius: 4px; vertical-align: middle; }
   </style>
 </head>
 <body>
@@ -141,254 +170,362 @@
   <!-- Hero Section -->
   <section class="hero-section">
     <h1>Data Documentation</h1>
-    <p>Complete field descriptions and structure for Vermont's zoning database</p>
+    <p>Schema, domains, and file structure for Vermont's zoning database, aligned with the <a class="hero-link" href="https://files.vcgi.vermont.gov/other/standards-guidelines/zoning/zoning-standard.html">Vermont Zoning GIS Data Standard</a></p>
+  </section>
+
+  <section class="story-section" data-section="toc">
+    <div class="story-content">
+      <h2>Table of Contents</h2>
+      <ul class="toc">
+        <li><a href="#purpose">Purpose</a></li>
+        <li><a href="#data-structure">Data Structure</a></li>
+        <li><a href="#data-quality">Collection Timeline and Data Quality</a></li>
+        <li><a href="#specifications">Specifications</a>
+          <ul>
+            <li><a href="#schema">Schema</a></li>
+            <li><a href="#domains">Domains</a></li>
+            <li><a href="#vcgi-gaps">VCGI Fields Not Yet Collected</a></li>
+          </ul>
+        </li>
+        <li><a href="#open-items">Open Items for Review</a></li>
+        <li><a href="#cartographic-presentation">Cartographic Presentation</a></li>
+        <li><a href="#updates-history">Updates and History</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="story-section" data-section="purpose" id="purpose">
+    <div class="story-content">
+      <h2>Purpose</h2>
+      <p>This page documents the fields and allowed values in the Vermont Zoning Atlas. Where a field has an equivalent in the <a href="https://files.vcgi.vermont.gov/other/standards-guidelines/zoning/zoning-standard.html">Vermont Zoning GIS Data Standard</a> (Version 2.0, adopted November 12, 2025, revised March 11, 2026), the atlas uses the VCGI field name and domain values (full standard: <a href="https://files.vcgi.vermont.gov/other/standards-guidelines/zoning/zoning-standard.html">files.vcgi.vermont.gov/other/standards-guidelines/zoning/zoning-standard.html</a>), so the data can be combined with the statewide zoning dataset maintained by the RPCs and the State. The remaining fields follow the <a href="https://www.zoningatlas.org/">National Zoning Atlas</a> methodology and capture detail the VCGI standard does not cover, such as setbacks, parking, and ADU rules.</p>
+      <p>25 of the 113 fields follow the VCGI standard. They are marked <span class="badge badge-match">VCGI</span> in the <a href="#schema">schema</a> below.</p>
+    </div>
   </section>
 
   <!-- Data Structure Section -->
-  <section class="story-section" data-section="structure">
+  <section class="story-section" data-section="structure" id="data-structure">
     <div class="story-content">
       <h2>Data Structure</h2>
-      
-      <p>Data has been broken into smaller files for ease in editing. In "<a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/RPCs">data/RPC</a>" all the zoning files are split out into the Regional Planning Commissions (RPC). This geojson can be explored in the abbreviated viewer on the homepage of this site or downloaded for further analysis.</p>
 
-    <table>
-      <thead>
-        <tr>
-          <th>Management Region</th>
-          <th>Website</th>
-          <th>Abbrev.</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Addison County</td>
-          <td><a href="http://www.acrpc.org/">www.acrpc.org/</a></td>
-          <td>ACRPC</td>
-        </tr>
-        <tr>
-          <td>Bennington County</td>
-          <td><a href="http://www.bcrcvt.org/">www.bcrcvt.org/</a></td>
-          <td>BCRC</td>
-        </tr>
-        <tr>
-          <td>Chittenden County</td>
-          <td><a href="http://www.ccrpcvt.org">www.ccrpcvt.org</a></td>
-          <td>CCRPC</td>
-        </tr>
-        <tr>
-          <td>Central Vermont</td>
-          <td><a href="http://www.centralvtplanning.org">www.centralvtplanning.org</a></td>
-          <td>CVRPC</td>
-        </tr>
-        <tr>
-          <td>Lamoille County</td>
-          <td><a href="http://www.lcpcvt.org">www.lcpcvt.org</a></td>
-          <td>LCPC</td>
-        </tr>
-        <tr>
-          <td>Mount Ascutney</td>
-          <td><a href="https://marcvt.org/">https://marcvt.org/</a></td>
-          <td>MARC</td>
-        </tr>
-        <tr>
-          <td>Northwest</td>
-          <td><a href="http://www.nrpcvt.com">www.nrpcvt.com</a></td>
-          <td>NWRPC</td>
-        </tr>
-        <tr>
-          <td>Northeastern</td>
-          <td><a href="http://www.nvda.net">www.nvda.net</a></td>
-          <td>NVDA</td>
-        </tr>
-        <tr>
-          <td>Rutland</td>
-          <td><a href="http://www.rutlandrpc.org">www.rutlandrpc.org</a></td>
-          <td>RPC</td>
-        </tr>
-        <tr>
-          <td>Two Rivers-Ottauquechee</td>
-          <td><a href="http://www.trorc.org">www.trorc.org</a></td>
-          <td>TRORC</td>
-        </tr>
-        <tr>
-          <td>Windham</td>
-          <td><a href="http://www.windhamregional.org">www.windhamregional.org</a></td>
-          <td>WRC</td>
-        </tr>
-      </tbody>
-      </table>
+      <p>Data has been broken into smaller files for ease in editing. In "<a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/RPC">data/RPC</a>" all the zoning files are split out by Regional Planning Commission (RPC). These GeoJSONs can be explored in the abbreviated viewer on the homepage of this site or downloaded for further analysis. The <code>RPC</code> field in each file uses the VCGI code listed under <a href="#domain-rpc">Domains</a>.</p>
 
-      <p>There is also a state-wide single file, "<a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/State_of_Vermont">data/State of Vermont</a>", this is not the preferred way to update the files but rather for analysis.</p>
+      <p>There is also a state-wide single file, "<a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/State_of_Vermont">data/State of Vermont</a>"; this is not the preferred way to update the files but rather for analysis.</p>
 
       <p>If you are interested in viewing the legal PDFs downloaded as part of this process, explore "<a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/Town_Bylaw_Text">data/Town_Bylaw_Text</a>" and the downloaded maps from town websites here: "<a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/Town_Zoning_Maps">data/Town_Zoning_Maps</a>"</p>
+
+      <p>The machine-readable version of the schema on this page is <a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/analysis/canonical_fields.csv">analysis/canonical_fields.csv</a>.</p>
     </div>
   </section>
 
   <!-- Data Quality Section -->
-  <section class="story-section" data-section="quality">
+  <section class="story-section" data-section="quality" id="data-quality">
     <div class="story-content">
       <h2>Collection Timeline and Data Quality</h2>
       <p>This effort is a collection of teams which includes volunteers, interns, and students. This was done over a year period from 2023-2024 and during this time updates to the zoning codes have already made some of this data inaccurate. It is likely that this data will only be updated once a year at most so this data can be out of date. It is also possible that the regulation from the State of Vermont may not be reflected in town zoning just due to the time it takes to update and comply with legislation and the very limited capacity many of these towns have to complete that work.</p>
     </div>
   </section>
 
-  <!-- Fields Section -->
-  <section class="story-section" data-section="fields">
+  <!-- Specifications Section -->
+  <section class="story-section" data-section="specifications" id="specifications">
     <div class="story-content">
-      <h2>Field Descriptions</h2>
-      <p>The dataset contains 110 fields covering district identification, dimensional standards (setbacks, lot size, height, parking), allowance types, and housing-specific regulations. Field names use a prefix system: <strong>F1F</strong> = single-family, <strong>F2F</strong> = 2-unit, <strong>F3F</strong> = 3-unit, <strong>F4F</strong> = 4+ unit, <strong>ADU</strong> = accessory dwelling unit, <strong>PRD</strong> = planned residential development, <strong>PUD</strong> = planned unit development.</p>
+      <h2>Specifications</h2>
 
-      <style>
-        .fields-table-wrap {
-          overflow-x: auto;
-          margin: 2rem 0;
-        }
-        .fields-table-wrap table {
-          min-width: 700px;
-          font-size: 0.92rem;
-        }
-        .fields-table-wrap td:nth-child(1) { white-space: nowrap; font-family: monospace; font-size: 0.85rem; }
-        .fields-table-wrap td:nth-child(2) { white-space: nowrap; }
-        .fields-table-wrap td:nth-child(3) { white-space: nowrap; font-family: monospace; font-size: 0.85rem; color: #555; }
-        .badge { display: inline-block; padding: 0.15rem 0.5rem; border-radius: 4px; font-size: 0.78rem; font-weight: 600; }
-        .badge-text { background: #e8f0fe; color: #1a56db; }
-        .badge-numerical { background: #e6f4ea; color: #137333; }
-        .badge-mixed { background: #fef3c7; color: #92400e; }
-      </style>
+      <h3 id="schema">Schema</h3>
+      <p>The dataset contains 113 fields covering district identification, housing treatment, dimensional standards (setbacks, lot size, height, parking), and housing-specific regulations. Fields that follow the VCGI standard use VCGI's names; the remaining fields use a prefix system: <strong>F1F</strong> = single-family, <strong>F2F</strong> = 2-unit, <strong>F3F</strong> = 3-unit, <strong>F4F</strong> = 4+ unit, <strong>ADU</strong> = accessory dwelling unit, <strong>PRD</strong> = planned residential development, <strong>PUD</strong> = planned unit development. Renamed fields show their previous name.</p>
+      <p>The atlas records 4+ unit housing as one category, while VCGI separates 4-unit and 5+ unit housing. The 4+ value is written to both VCGI fields (for example <code>UT4</code> and <code>UT5</code>) and marked <span class="badge badge-derived">VCGI &middot; from 4+</span>.</p>
 
       <div class="fields-table-wrap">
-      <table>
+      <table class="schema-table">
         <thead>
           <tr>
-            <th>Field Name</th>
+            <th>Field</th>
+            <th>Alias</th>
             <th>Type</th>
-            <th>Example</th>
             <th>Description</th>
+            <th>Domain Values</th>
+            <th>Standard</th>
           </tr>
         </thead>
         <tbody>
-          <tr><td>OBJECT_ID</td><td><span class="badge badge-numerical">numerical</span></td><td>1</td><td>Unique sequential integer identifier assigned to each zoning district feature across all municipalities.</td></tr>
-          <tr><td>County</td><td><span class="badge badge-text">text</span></td><td>Addison</td><td>Vermont county in which the zoning district is located.</td></tr>
-          <tr><td>RPC</td><td><span class="badge badge-text">text</span></td><td>ACRPC</td><td>Abbreviation of the Regional Planning Commission that serves the municipality.</td></tr>
-          <tr><td>Municipal_Name</td><td><span class="badge badge-text">text</span></td><td>Middlebury</td><td>Name of the Vermont municipality (town, city, or village) that adopted the zoning bylaw.</td></tr>
-          <tr><td>GEO_ID</td><td><span class="badge badge-text">text</span></td><td>5000144350</td><td>US Census geographic identifier (GEOID) for the municipality, used to link to Census data.</td></tr>
-          <tr><td>District_Name</td><td><span class="badge badge-text">text</span></td><td>Low Density Residential/Agricultural District</td><td>Full name of the zoning district as defined in the municipal zoning bylaw.</td></tr>
-          <tr><td>Abbreviated_District_Name</td><td><span class="badge badge-text">text</span></td><td>Ldr/A</td><td>Short abbreviation of the zoning district name as used in maps and tables.</td></tr>
-          <tr><td>District_Type</td><td><span class="badge badge-text">text</span></td><td>Primarily Residential</td><td>Classification of the district by its primary land use character (e.g., Primarily Residential, Nonresidential, Mixed with Residential, Overlay).</td></tr>
-          <tr><td>Bylaw_Date</td><td><span class="badge badge-text">text</span></td><td>2023-08-15</td><td>Date of the zoning bylaw document from which data was collected.</td></tr>
-          <tr><td>Elderly_Housing_District</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether the district is designated specifically for elderly housing.</td></tr>
-          <tr><td>District_Mapped</td><td><span class="badge badge-text">text</span></td><td>Yes</td><td>Indicates whether the zoning district has a corresponding mapped geographic boundary.</td></tr>
-          <tr><td>Overlay_District</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether this record represents an overlay district layered on top of a base district.</td></tr>
-          <tr><td>Base_Density</td><td><span class="badge badge-numerical">numerical</span></td><td>0.2</td><td>Maximum residential density allowed in the district as a baseline, expressed in units per acre.</td></tr>
-          <tr><td>FIPS6</td><td><span class="badge badge-numerical">numerical</span></td><td>1055</td><td>Vermont six-digit FIPS place code identifying the municipality within the state.</td></tr>
-          <tr><td>GIS_ID</td><td><span class="badge badge-text">text</span></td><td>Charlotte_Rural</td><td>Identifier used in the source GIS system, typically combining municipality name and district name.</td></tr>
-          <tr><td>Last_Update</td><td><span class="badge badge-text">text</span></td><td>20250313</td><td>Date the record was last updated in the source dataset.</td></tr>
-          <tr><td>Shape_Length</td><td><span class="badge badge-numerical">numerical</span></td><td>1.3336</td><td>Perimeter length of the zoning district polygon in decimal degrees.</td></tr>
-          <tr><td>Shape_Area</td><td><span class="badge badge-numerical">numerical</span></td><td>0.000625</td><td>Area of the zoning district polygon in decimal degrees squared.</td></tr>
-          <tr><td colspan="4" style="background:#f0f4ff; font-weight:600; color:#2a7ae2;">Single-Family Housing (F1F)</td></tr>
-          <tr><td>F1F_Allowance</td><td><span class="badge badge-text">text</span></td><td>Permitted</td><td>Whether single-family (1-unit) residential structures are permitted in the district (e.g., Permitted, Prohibited, Allowed/Conditional, Public Hearing, Overlay).</td></tr>
-          <tr><td>F1F_Front_Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>75</td><td>Minimum required setback from the front lot line for single-family structures, in feet.</td></tr>
-          <tr><td>F1F_Side_Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>25</td><td>Minimum required setback from each side lot line for single-family structures, in feet.</td></tr>
-          <tr><td>F1F_Rear_Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>25</td><td>Minimum required setback from the rear lot line for single-family structures, in feet.</td></tr>
-          <tr><td>F1F_Frontage</td><td><span class="badge badge-numerical">numerical</span></td><td>200</td><td>Minimum required road frontage for a single-family lot, in feet.</td></tr>
-          <tr><td>F1F_Max_Height</td><td><span class="badge badge-numerical">numerical</span></td><td>35</td><td>Maximum allowed height for single-family structures, in feet.</td></tr>
-          <tr><td>F1F_Max_Stories</td><td><span class="badge badge-numerical">numerical</span></td><td>2</td><td>Maximum number of stories allowed for single-family structures.</td></tr>
-          <tr><td>F1F_Min_Lot_Size</td><td><span class="badge badge-numerical">numerical</span></td><td>1.5</td><td>Minimum lot size required for single-family use, in acres.</td></tr>
-          <tr><td>F1F_Max_Lot_Building_Coverage</td><td><span class="badge badge-numerical">numerical</span></td><td>30</td><td>Maximum percentage of the lot that may be covered by a building footprint for single-family use.</td></tr>
-          <tr><td>F1F_Max_Lot_Impervious_Coverage</td><td><span class="badge badge-numerical">numerical</span></td><td>25</td><td>Maximum percentage of the lot that may be covered by impervious surfaces for single-family use.</td></tr>
-          <tr><td>F1F_Min_Parking_Spaces</td><td><span class="badge badge-numerical">numerical</span></td><td>2</td><td>Minimum number of off-street parking spaces required per single-family unit.</td></tr>
-          <tr><td>F1F_Max_Density</td><td><span class="badge badge-numerical">numerical</span></td><td>0.2</td><td>Maximum density allowed for single-family housing, in units per acre.</td></tr>
-          <tr><td>F1F_Elderly_Housing_Only</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether single-family housing in this district is restricted to elderly occupants only.</td></tr>
-          <tr><td>F1F_Affordable_Housing_Only</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether single-family housing in this district is restricted to affordable housing only.</td></tr>
-          <tr><td colspan="4" style="background:#f0f4ff; font-weight:600; color:#2a7ae2;">2-Unit Housing (F2F)</td></tr>
-          <tr><td>F2F_Allowance</td><td><span class="badge badge-text">text</span></td><td>Permitted</td><td>Whether 2-unit (duplex) residential structures are permitted in the district.</td></tr>
-          <tr><td>F2F_Front_Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>75</td><td>Minimum required setback from the front lot line for 2-unit structures, in feet.</td></tr>
-          <tr><td>F2F_Side_Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>25</td><td>Minimum required setback from each side lot line for 2-unit structures, in feet.</td></tr>
-          <tr><td>F2F_Rear_Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>25</td><td>Minimum required setback from the rear lot line for 2-unit structures, in feet.</td></tr>
-          <tr><td>F2F_Frontage</td><td><span class="badge badge-numerical">numerical</span></td><td>200</td><td>Minimum required road frontage for a 2-unit residential lot, in feet.</td></tr>
-          <tr><td>F2F_Max_Density</td><td><span class="badge badge-numerical">numerical</span></td><td>0.67</td><td>Maximum density allowed for 2-unit housing, in units per acre.</td></tr>
-          <tr><td>F2F_Max_Height</td><td><span class="badge badge-numerical">numerical</span></td><td>35</td><td>Maximum allowed height for 2-unit structures, in feet.</td></tr>
-          <tr><td>F2F_Max_Stories</td><td><span class="badge badge-numerical">numerical</span></td><td>2</td><td>Maximum number of stories allowed for 2-unit structures.</td></tr>
-          <tr><td>F2F_Min_Lot_Size</td><td><span class="badge badge-numerical">numerical</span></td><td>3</td><td>Minimum lot size required for 2-unit residential use, in acres.</td></tr>
-          <tr><td>F2F_Max_Lot_Building_Coverage</td><td><span class="badge badge-numerical">numerical</span></td><td>30</td><td>Maximum percentage of the lot that may be covered by a building footprint for 2-unit use.</td></tr>
-          <tr><td>F2F_Max_Lot_Impervious_Coverage</td><td><span class="badge badge-numerical">numerical</span></td><td>25</td><td>Maximum percentage of the lot covered by impervious surfaces for 2-unit use.</td></tr>
-          <tr><td>F2F_Min_Parking_Spaces_per_1BR</td><td><span class="badge badge-numerical">numerical</span></td><td>2</td><td>Minimum off-street parking spaces required per 1-bedroom unit in a 2-unit building.</td></tr>
-          <tr><td>F2F_Min_Parking_Spaces_per_mult_BR</td><td><span class="badge badge-numerical">numerical</span></td><td>2</td><td>Minimum off-street parking spaces required per multi-bedroom unit in a 2-unit building.</td></tr>
-          <tr><td>F2F_Elderly_Housing_Only</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether 2-unit housing in this district is restricted to elderly occupants only.</td></tr>
-          <tr><td>F2F_Affordable_Housing_Only</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether 2-unit housing in this district is restricted to affordable housing only.</td></tr>
-          <tr><td colspan="4" style="background:#f0f4ff; font-weight:600; color:#2a7ae2;">3-Unit Housing (F3F)</td></tr>
-          <tr><td>F3F_Allowance</td><td><span class="badge badge-text">text</span></td><td>Permitted</td><td>Whether 3-unit residential structures are permitted in the district.</td></tr>
-          <tr><td>F3F_Front_Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>75</td><td>Minimum required setback from the front lot line for 3-unit structures, in feet.</td></tr>
-          <tr><td>F3F_Side_Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>25</td><td>Minimum required setback from each side lot line for 3-unit structures, in feet.</td></tr>
-          <tr><td>F3F_Rear_Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>25</td><td>Minimum required setback from the rear lot line for 3-unit structures, in feet.</td></tr>
-          <tr><td>F3F_Frontage</td><td><span class="badge badge-numerical">numerical</span></td><td>200</td><td>Minimum required road frontage for 3-unit residential use, in feet.</td></tr>
-          <tr><td>F3F_Max_Density</td><td><span class="badge badge-numerical">numerical</span></td><td>0.67</td><td>Maximum density allowed for 3-unit housing, in units per acre.</td></tr>
-          <tr><td>F3F_Max_Height</td><td><span class="badge badge-numerical">numerical</span></td><td>35</td><td>Maximum allowed height for 3-unit structures, in feet.</td></tr>
-          <tr><td>F3F_Max_Stories</td><td><span class="badge badge-numerical">numerical</span></td><td>3</td><td>Maximum number of stories allowed for 3-unit structures.</td></tr>
-          <tr><td>F3F_Min_Lot_Size</td><td><span class="badge badge-numerical">numerical</span></td><td>4.5</td><td>Minimum lot size required for 3-unit residential use, in acres.</td></tr>
-          <tr><td>F3F_Max_Lot_Building_Coverage</td><td><span class="badge badge-numerical">numerical</span></td><td>30</td><td>Maximum percentage of the lot covered by building footprint for 3-unit use.</td></tr>
-          <tr><td>F3F_Max_Lot_Impervious_Coverage</td><td><span class="badge badge-numerical">numerical</span></td><td>25</td><td>Maximum percentage of the lot covered by impervious surfaces for 3-unit use.</td></tr>
-          <tr><td>F3F_Min_Parking_Spaces_per_1BR</td><td><span class="badge badge-numerical">numerical</span></td><td>2</td><td>Minimum off-street parking spaces per 1-bedroom unit in a 3-unit building.</td></tr>
-          <tr><td>F3F_Min_Parking_Spaces_per_mult_BR</td><td><span class="badge badge-numerical">numerical</span></td><td>2</td><td>Minimum off-street parking spaces per multi-bedroom unit in a 3-unit building.</td></tr>
-          <tr><td>F3F_Elderly_Housing_Only</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether 3-unit housing in this district is restricted to elderly occupants only.</td></tr>
-          <tr><td>F3F_Affordable_Housing_Only</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether 3-unit housing in this district is restricted to affordable housing only.</td></tr>
-          <tr><td>F3F_Proximity_to_Public_Transit_Required</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether 3-unit housing requires proximity to public transit service.</td></tr>
-          <tr><td>F3F_Connection_to_Sewage/Water_Required</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether 3-unit housing requires connection to public sewer or water systems.</td></tr>
-          <tr><td colspan="4" style="background:#f0f4ff; font-weight:600; color:#2a7ae2;">4+ Unit Housing (F4F)</td></tr>
-          <tr><td>F4F_Allowance</td><td><span class="badge badge-text">text</span></td><td>Permitted</td><td>Whether 4-or-more-unit multifamily residential structures are permitted in the district.</td></tr>
-          <tr><td>F4F_Front_Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>75</td><td>Minimum required setback from the front lot line for 4+ unit structures, in feet.</td></tr>
-          <tr><td>F4F_Side_Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>25</td><td>Minimum required setback from each side lot line for 4+ unit structures, in feet.</td></tr>
-          <tr><td>F4F_Rear_Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>25</td><td>Minimum required setback from the rear lot line for 4+ unit structures, in feet.</td></tr>
-          <tr><td>F4F_Frontage</td><td><span class="badge badge-numerical">numerical</span></td><td>200</td><td>Minimum required road frontage for 4+ unit multifamily use, in feet.</td></tr>
-          <tr><td>F4F_Max_Density</td><td><span class="badge badge-numerical">numerical</span></td><td>0.67</td><td>Maximum density allowed for 4+ unit multifamily housing, in units per acre.</td></tr>
-          <tr><td>F4F_Max_Height</td><td><span class="badge badge-numerical">numerical</span></td><td>35</td><td>Maximum allowed height for 4+ unit multifamily structures, in feet.</td></tr>
-          <tr><td>F4F_Max_Stories</td><td><span class="badge badge-numerical">numerical</span></td><td>3</td><td>Maximum number of stories allowed for 4+ unit multifamily structures.</td></tr>
-          <tr><td>F4F_Min_Lot_Size</td><td><span class="badge badge-numerical">numerical</span></td><td>6</td><td>Minimum lot size required for 4+ unit multifamily use, in acres.</td></tr>
-          <tr><td>F4F_Max_Lot_Building_Coverage</td><td><span class="badge badge-numerical">numerical</span></td><td>30</td><td>Maximum percentage of the lot covered by building footprint for 4+ unit use.</td></tr>
-          <tr><td>F4F_Max_Lot_Impervious_Coverage</td><td><span class="badge badge-numerical">numerical</span></td><td>25</td><td>Maximum percentage of the lot covered by impervious surfaces for 4+ unit use.</td></tr>
-          <tr><td>F4F_Min_Parking_Spaces_per_1BR</td><td><span class="badge badge-numerical">numerical</span></td><td>2</td><td>Minimum off-street parking spaces per 1-bedroom unit in a 4+ unit building.</td></tr>
-          <tr><td>F4F_Min_Parking_Spaces_per_mult_BR</td><td><span class="badge badge-numerical">numerical</span></td><td>2</td><td>Minimum off-street parking spaces per multi-bedroom unit in a 4+ unit building.</td></tr>
-          <tr><td>F4F_Elderly_Housing_Only</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether 4+ unit housing in this district is restricted to elderly occupants only.</td></tr>
-          <tr><td>F4F_Affordable_Housing_Only</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether 4+ unit housing in this district is restricted to affordable housing only.</td></tr>
-          <tr><td>F4F_Proximity_to_Public_Transit_Required</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether 4+ unit housing requires proximity to public transit service.</td></tr>
-          <tr><td>F4F_Connection_to_Sewage/Water_Required</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether 4+ unit housing requires connection to public sewer or water systems.</td></tr>
-          <tr><td colspan="4" style="background:#f0f4ff; font-weight:600; color:#2a7ae2;">Accessory Dwelling Units (ADU)</td></tr>
-          <tr><td>ADU_Allowance</td><td><span class="badge badge-text">text</span></td><td>Allowed/Conditional</td><td>Whether accessory dwelling units (ADUs) are permitted in the district.</td></tr>
-          <tr><td>ADU_Elderly_Housing_Only</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether ADUs in this district are restricted to elderly occupants only.</td></tr>
-          <tr><td>ADU_Max_Size_as_Percent_of_Primary_Strcture</td><td><span class="badge badge-mixed">mixed</span></td><td>30</td><td>Maximum allowed size of an ADU as a percentage of the primary structure's floor area; may contain 'No' where no limit applies.</td></tr>
-          <tr><td>ADU_Max_Size_in_sq_ft</td><td><span class="badge badge-numerical">numerical</span></td><td>1000</td><td>Maximum allowed floor area of an ADU in square feet.</td></tr>
-          <tr><td>ADU_Min_Lot_Size</td><td><span class="badge badge-numerical">numerical</span></td><td>1.5</td><td>Minimum lot size required for a property to include an ADU, in acres.</td></tr>
-          <tr><td>ADU_Max_Bedrooms</td><td><span class="badge badge-numerical">numerical</span></td><td>1</td><td>Maximum number of bedrooms allowed in an ADU.</td></tr>
-          <tr><td>ADU_Min_Parking_Spaces</td><td><span class="badge badge-numerical">numerical</span></td><td>1</td><td>Minimum off-street parking spaces required for an ADU.</td></tr>
-          <tr><td>ADU_Owner_Occupancy_Required</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether the property owner must occupy either the primary structure or the ADU.</td></tr>
-          <tr><td>ADU_Renter_Occupancy_Prohibited</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether renting the ADU to non-family members is prohibited.</td></tr>
-          <tr><td>ADU_Employee_or_Family_Occupancy_Required</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether the ADU must be occupied by an employee or family member of the property owner.</td></tr>
-          <tr><td>ADU_Restricted_to_Primary_Structure</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether the ADU must be contained within or attached to the primary structure rather than built as a detached unit.</td></tr>
-          <tr><td colspan="4" style="background:#f0f4ff; font-weight:600; color:#2a7ae2;">Affordable Housing</td></tr>
-          <tr><td>Affordable_Housing_Allowance</td><td><span class="badge badge-text">text</span></td><td>Permitted</td><td>Whether affordable housing developments are permitted in the district as a distinct use category.</td></tr>
-          <tr><td>Affordable_Housing_District</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether the district is specifically designated for affordable housing development.</td></tr>
-          <tr><td>Affordable_Housing_Elderly_Only</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether affordable housing in this district is restricted to elderly residents only.</td></tr>
-          <tr><td>Affordable_Housing_Min_Lot_Size</td><td><span class="badge badge-numerical">numerical</span></td><td>1</td><td>Minimum lot size required for affordable housing development, in acres.</td></tr>
-          <tr><td>Affordable_Housing_Max_Density</td><td><span class="badge badge-numerical">numerical</span></td><td>24</td><td>Maximum density allowed for affordable housing, in units per acre.</td></tr>
-          <tr><td>Affordable_Housing_Min_Parking_Spaces_per_mult_BR</td><td><span class="badge badge-numerical">numerical</span></td><td>1</td><td>Minimum off-street parking spaces per multi-bedroom affordable housing unit.</td></tr>
-          <tr><td>Affordable_Housing_Max_Units_per_Building</td><td><span class="badge badge-numerical">numerical</span></td><td>4</td><td>Maximum number of units allowed per affordable housing building.</td></tr>
-          <tr><td>Affordable_Housing_Min_Parking_Spaces_per_1BR</td><td><span class="badge badge-numerical">numerical</span></td><td>1</td><td>Minimum off-street parking spaces per 1-bedroom affordable housing unit.</td></tr>
-          <tr><td colspan="4" style="background:#f0f4ff; font-weight:600; color:#2a7ae2;">Planned Residential Development (PRD)</td></tr>
-          <tr><td>PRD_Allowance</td><td><span class="badge badge-text">text</span></td><td>Allowed/Conditional</td><td>Whether planned residential developments (PRDs) are permitted in the district.</td></tr>
-          <tr><td>PRD_Max_Density</td><td><span class="badge badge-numerical">numerical</span></td><td>1</td><td>Maximum density allowed for a planned residential development, in units per acre.</td></tr>
-          <tr><td>PRD_Max_Units</td><td><span class="badge badge-numerical">numerical</span></td><td>4</td><td>Maximum total number of units allowed in a planned residential development.</td></tr>
-          <tr><td>PRD_Min_Lot_Size</td><td><span class="badge badge-numerical">numerical</span></td><td>2</td><td>Minimum lot size required to develop a planned residential development, in acres.</td></tr>
-          <tr><td>PRD_Mobile_or_Manufactured_Home_Park</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether the PRD provision includes mobile home or manufactured housing parks.</td></tr>
-          <tr><td colspan="4" style="background:#f0f4ff; font-weight:600; color:#2a7ae2;">Planned Unit Development (PUD)</td></tr>
-          <tr><td>PUD_Allowance</td><td><span class="badge badge-text">text</span></td><td>Yes</td><td>Whether planned unit developments (PUDs) are permitted in the district.</td></tr>
-          <tr><td>PUD_Required_with_Subdivision</td><td><span class="badge badge-text">text</span></td><td>Yes</td><td>Indicates whether PUD approval is required when subdividing land in this district.</td></tr>
-          <tr><td>PUD_Requires_Land_Conservation</td><td><span class="badge badge-text">text</span></td><td>No</td><td>Indicates whether PUD approval requires setting aside land for conservation.</td></tr>
-          <tr><td>PUD_Threshold_Number</td><td><span class="badge badge-numerical">numerical</span></td><td>5</td><td>Minimum number of units or lots that triggers PUD requirements in the district.</td></tr>
-          <tr><td colspan="4" style="background:#f0f4ff; font-weight:600; color:#2a7ae2;">Additional Information</td></tr>
-          <tr><td>Notes</td><td><span class="badge badge-text">text</span></td><td>Preexisting homes allowed.</td><td>Free-text notes providing additional context about the district's regulations or data collection observations.</td></tr>
+          <tr class="group-row"><td colspan="6">District Identification</td></tr>
+          <tr><td>OBJECT_ID</td><td>OBJECT ID</td><td><span class="badge badge-numerical">numerical</span></td><td>Unique sequential integer identifier assigned to each zoning district feature across all municipalities.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>COUNTY<span class="prev-name">was County</span></td><td>County</td><td><span class="badge badge-text">text</span></td><td>County per the VT Geographic Area Names and Codes Standard.</td><td>&ndash;</td><td><span class="badge badge-match">VCGI</span></td></tr>
+          <tr><td>RPC</td><td>Regional Planning Commission</td><td><span class="badge badge-text">text</span></td><td>Unique identifier of the Regional Planning Commission per the VT Geographic Area Names and Codes Standard (2-character code).</td><td>AC, BC, CC, CV, LC, MA, NV, NW, RR, TR, WR</td><td><span class="badge badge-match">VCGI</span></td></tr>
+          <tr><td>JXTN<span class="prev-name">was Municipal_Name</span></td><td>Jurisdiction</td><td><span class="badge badge-text">text</span></td><td>Name of town, city or incorporated village per the VT Geographic Area Names and Codes Standard.</td><td>&ndash;</td><td><span class="badge badge-match">VCGI</span></td></tr>
+          <tr><td>GEOID<span class="prev-name">was GEO_ID</span></td><td>GEOID</td><td><span class="badge badge-text">text</span></td><td>Unique identifier of the town, city, or incorporated village per the VT Geographic Area Names and Codes Standard. Currently the Census GEOID; VCGI plans a combined town/village code (TVGEOID).</td><td>&ndash;</td><td><span class="badge badge-match">VCGI</span></td></tr>
+          <tr><td>DIST_NAME<span class="prev-name">was District_Name</span></td><td>District Name</td><td><span class="badge badge-text">text</span></td><td>Full zoning district name as defined in the municipal zoning bylaw.</td><td>&ndash;</td><td><span class="badge badge-match">VCGI</span></td></tr>
+          <tr><td>ABBRDISTNM<span class="prev-name">was Abbreviated_District_Name</span></td><td>District Abbreviation</td><td><span class="badge badge-text">text</span></td><td>Abbreviated district name as used in maps and tables.</td><td>&ndash;</td><td><span class="badge badge-match">VCGI</span></td></tr>
+          <tr><td>District_Type</td><td>District Type</td><td><span class="badge badge-text">text</span></td><td>Classification of the district by its primary land use character (e.g., Primarily Residential, Nonresidential, Mixed with Residential, Overlay).</td><td>Primarily Residential, Nonresidential, Mixed with Residential, Overlay</td><td></td></tr>
+          <tr><td>Bylaw_Date</td><td>Bylaw Date</td><td><span class="badge badge-text">text</span></td><td>Date of the zoning bylaw document from which data was collected.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>Elderly_Housing_District</td><td>Elderly Housing District</td><td><span class="badge badge-text">text</span></td><td>Indicates whether the district is designated specifically for elderly housing.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>District_Mapped</td><td>District Mapped</td><td><span class="badge badge-text">text</span></td><td>Indicates whether the zoning district has a corresponding mapped geographic boundary.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>OVER<span class="prev-name">was Overlay_District</span></td><td>Overlay</td><td><span class="badge badge-text">text</span></td><td>Overlay. Indicates whether this record is an overlay district layered on top of a base district.</td><td>Yes, No</td><td><span class="badge badge-match">VCGI</span></td></tr>
+          <tr><td>Base_Density</td><td>Base Density</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum residential density allowed in the district as a baseline, expressed in units per acre.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>FIPS6</td><td>FIPS6</td><td><span class="badge badge-numerical">numerical</span></td><td>Vermont six-digit FIPS place code identifying the municipality within the state.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>GIS_ID</td><td>GIS ID</td><td><span class="badge badge-text">text</span></td><td>Identifier used in the source GIS system, typically combining municipality name and district name.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>Last_Update</td><td>Last Update</td><td><span class="badge badge-text">text</span></td><td>Date the record was last updated in the source dataset.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>Shape_Length</td><td>Shape Length</td><td><span class="badge badge-numerical">numerical</span></td><td>Perimeter length of the zoning district polygon in decimal degrees.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>Shape_Area</td><td>Shape Area</td><td><span class="badge badge-numerical">numerical</span></td><td>Area of the zoning district polygon in decimal degrees squared.</td><td>&ndash;</td><td></td></tr>
+          <tr class="group-row"><td colspan="6">1-Unit Housing (Single-Family)</td></tr>
+          <tr><td>UT1<span class="prev-name">was F1F_Allowance</span></td><td>1-Unit Treatment</td><td><span class="badge badge-text">text</span></td><td>1-Unit Treatment: how the bylaw treats 1-unit (single-family) residential structures.</td><td>AP, CU, SP, PR</td><td><span class="badge badge-match">VCGI</span></td></tr>
+          <tr><td>F1F_Front_Setback</td><td>F1F Front Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum required setback from the front lot line for single-family structures, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F1F_Side_Setback</td><td>F1F Side Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum required setback from each side lot line for single-family structures, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F1F_Rear_Setback</td><td>F1F Rear Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum required setback from the rear lot line for single-family structures, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F1F_Frontage</td><td>F1F Frontage</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum required road frontage for a single-family lot, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F1F_Max_Height</td><td>F1F Max Height</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum allowed height for single-family structures, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F1F_Max_Stories</td><td>F1F Max Stories</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum number of stories allowed for single-family structures.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>MIN_LOT_1U<span class="prev-name">was F1F_Min_Lot_Size</span></td><td>1-UNIT MIN LOT</td><td><span class="badge badge-numerical">numerical</span></td><td>1-Unit Min. Lot, in acres.</td><td>&ndash;</td><td><span class="badge badge-match">VCGI</span></td></tr>
+          <tr><td>F1F_Max_Lot_Building_Coverage</td><td>F1F Max Lot Building Coverage</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum percentage of the lot that may be covered by a building footprint for single-family use.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F1F_Max_Lot_Impervious_Coverage</td><td>F1F Max Lot Impervious Coverage</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum percentage of the lot that may be covered by impervious surfaces for single-family use.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F1F_Min_Parking_Spaces</td><td>F1F Min Parking Spaces</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum number of off-street parking spaces required per single-family unit.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F1F_Elderly_Housing_Only</td><td>F1F Elderly Housing Only</td><td><span class="badge badge-text">text</span></td><td>Indicates whether single-family housing in this district is restricted to elderly occupants only.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>F1F_Affordable_Housing_Only</td><td>F1F Affordable Housing Only</td><td><span class="badge badge-text">text</span></td><td>Indicates whether single-family housing in this district is restricted to affordable housing only.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>F1F_Max_Density</td><td>F1F Max Density</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum density allowed for single-family housing, in units per acre.</td><td>&ndash;</td><td></td></tr>
+          <tr class="group-row"><td colspan="6">2-Unit Housing</td></tr>
+          <tr><td>UT2<span class="prev-name">was F2F_Allowance</span></td><td>2-Unit Treatment</td><td><span class="badge badge-text">text</span></td><td>2-Unit Treatment: how the bylaw treats 2-unit residential structures.</td><td>AP, CU, SP, PR</td><td><span class="badge badge-match">VCGI</span></td></tr>
+          <tr><td>F2F_Front_Setback</td><td>F2F Front Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum required setback from the front lot line for 2-unit structures, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F2F_Side_Setback</td><td>F2F Side Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum required setback from each side lot line for 2-unit structures, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F2F_Rear_Setback</td><td>F2F Rear Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum required setback from the rear lot line for 2-unit structures, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F2F_Frontage</td><td>F2F Frontage</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum required road frontage for a 2-unit residential lot, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>MAX_DEN_2U<span class="prev-name">was F2F_Max_Density</span></td><td>2-UNIT MAX DENSITY</td><td><span class="badge badge-numerical">numerical</span></td><td>2-Unit Max. Density, in dwelling units per acre.</td><td>&ndash;</td><td><span class="badge badge-match">VCGI</span></td></tr>
+          <tr><td>F2F_Max_Height</td><td>F2F Max Height</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum allowed height for 2-unit structures, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F2F_Max_Stories</td><td>F2F Max Stories</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum number of stories allowed for 2-unit structures.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>MIN_LOT_2U<span class="prev-name">was F2F_Min_Lot_Size</span></td><td>2-UNIT MIN LOT</td><td><span class="badge badge-numerical">numerical</span></td><td>2-Unit Min. Lot, in acres.</td><td>&ndash;</td><td><span class="badge badge-match">VCGI</span></td></tr>
+          <tr><td>F2F_Max_Lot_Building_Coverage</td><td>F2F Max Lot Building Coverage</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum percentage of the lot that may be covered by a building footprint for 2-unit use.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F2F_Max_Lot_Impervious_Coverage</td><td>F2F Max Lot Impervious Coverage</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum percentage of the lot covered by impervious surfaces for 2-unit use.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F2F_Min_Parking_Spaces_per_1BR</td><td>F2F Min Parking Spaces per 1BR</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum off-street parking spaces required per 1-bedroom unit in a 2-unit building.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F2F_Min_Parking_Spaces_per_mult_BR</td><td>F2F Min Parking Spaces per mult BR</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum off-street parking spaces required per multi-bedroom unit in a 2-unit building.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F2F_Elderly_Housing_Only</td><td>F2F Elderly Housing Only</td><td><span class="badge badge-text">text</span></td><td>Indicates whether 2-unit housing in this district is restricted to elderly occupants only.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>F2F_Affordable_Housing_Only</td><td>F2F Affordable Housing Only</td><td><span class="badge badge-text">text</span></td><td>Indicates whether 2-unit housing in this district is restricted to affordable housing only.</td><td>Yes, No</td><td></td></tr>
+          <tr class="group-row"><td colspan="6">3-Unit Housing</td></tr>
+          <tr><td>UT3<span class="prev-name">was F3F_Allowance</span></td><td>3-Unit Treatment</td><td><span class="badge badge-text">text</span></td><td>3-Unit Treatment: how the bylaw treats 3-unit residential structures.</td><td>AP, CU, SP, PR</td><td><span class="badge badge-match">VCGI</span></td></tr>
+          <tr><td>F3F_Front_Setback</td><td>F3F Front Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum required setback from the front lot line for 3-unit structures, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F3F_Side_Setback</td><td>F3F Side Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum required setback from each side lot line for 3-unit structures, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F3F_Rear_Setback</td><td>F3F Rear Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum required setback from the rear lot line for 3-unit structures, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F3F_Frontage</td><td>F3F Frontage</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum required road frontage for 3-unit residential use, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>MAX_DEN_3U<span class="prev-name">was F3F_Max_Density</span></td><td>3-UNIT MAX DENSITY</td><td><span class="badge badge-numerical">numerical</span></td><td>3-Unit Max. Density, in dwelling units per acre.</td><td>&ndash;</td><td><span class="badge badge-match">VCGI</span></td></tr>
+          <tr><td>F3F_Max_Height</td><td>F3F Max Height</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum allowed height for 3-unit structures, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F3F_Max_Stories</td><td>F3F Max Stories</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum number of stories allowed for 3-unit structures.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>MIN_LOT_3U<span class="prev-name">was F3F_Min_Lot_Size</span></td><td>3-UNIT MIN LOT</td><td><span class="badge badge-numerical">numerical</span></td><td>3-Unit Min. Lot, in acres.</td><td>&ndash;</td><td><span class="badge badge-match">VCGI</span></td></tr>
+          <tr><td>F3F_Max_Lot_Building_Coverage</td><td>F3F Max Lot Building Coverage</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum percentage of the lot covered by building footprint for 3-unit use.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F3F_Max_Lot_Impervious_Coverage</td><td>F3F Max Lot Impervious Coverage</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum percentage of the lot covered by impervious surfaces for 3-unit use.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F3F_Min_Parking_Spaces_per_1BR</td><td>F3F Min Parking Spaces per 1BR</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum off-street parking spaces per 1-bedroom unit in a 3-unit building.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F3F_Min_Parking_Spaces_per_mult_BR</td><td>F3F Min Parking Spaces per mult BR</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum off-street parking spaces per multi-bedroom unit in a 3-unit building.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F3F_Affordable_Housing_Only</td><td>F3F Affordable Housing Only</td><td><span class="badge badge-text">text</span></td><td>Indicates whether 3-unit housing in this district is restricted to affordable housing only.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>F3F_Proximity_to_Public_Transit_Required</td><td>F3F Proximity to Public Transit Required</td><td><span class="badge badge-text">text</span></td><td>Indicates whether 3-unit housing requires proximity to public transit service.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>F3F_Connection_to_Sewage/Water_Required</td><td>F3F Connection to Sewage/Water Required</td><td><span class="badge badge-text">text</span></td><td>Indicates whether 3-unit housing requires connection to public sewer or water systems.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>F3F_Elderly_Housing_Only</td><td>F3F Elderly Housing Only</td><td><span class="badge badge-text">text</span></td><td>Indicates whether 3-unit housing in this district is restricted to elderly occupants only.</td><td>Yes, No</td><td></td></tr>
+          <tr class="group-row"><td colspan="6">4+ Unit Housing</td></tr>
+          <tr><td>UT4<span class="prev-name">was F4F_Allowance</span></td><td>4-Unit Treatment</td><td><span class="badge badge-text">text</span></td><td>4-Unit Treatment. Collected as a single 4+ unit value, so UT4 and UT5 are equal.</td><td>AP, CU, SP, PR</td><td><span class="badge badge-derived">VCGI &middot; from 4+</span></td></tr>
+          <tr><td>UT5<span class="prev-name">was F4F_Allowance</span></td><td>5+Unit Treatment</td><td><span class="badge badge-text">text</span></td><td>5+Unit Treatment. Collected as a single 4+ unit value, so UT4 and UT5 are equal.</td><td>AP, CU, SP, PR</td><td><span class="badge badge-derived">VCGI &middot; from 4+</span></td></tr>
+          <tr><td>F4F_Front_Setback</td><td>F4F Front Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum required setback from the front lot line for 4+ unit structures, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F4F_Side_Setback</td><td>F4F Side Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum required setback from each side lot line for 4+ unit structures, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F4F_Rear_Setback</td><td>F4F Rear Setback</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum required setback from the rear lot line for 4+ unit structures, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F4F_Frontage</td><td>F4F Frontage</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum required road frontage for 4+ unit multifamily use, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>MAX_DEN_4U<span class="prev-name">was F4F_Max_Density</span></td><td>4-UNIT MAX DENSITY</td><td><span class="badge badge-numerical">numerical</span></td><td>4-Unit Max. Density, in dwelling units per acre. Collected as a single 4+ unit value, so MAX_DEN_4U and MAX_DEN_5U are equal.</td><td>&ndash;</td><td><span class="badge badge-derived">VCGI &middot; from 4+</span></td></tr>
+          <tr><td>MAX_DEN_5U<span class="prev-name">was F4F_Max_Density</span></td><td>5+UNIT MAX DENSITY</td><td><span class="badge badge-numerical">numerical</span></td><td>5+Unit Max. Density, in dwelling units per acre. Collected as a single 4+ unit value, so MAX_DEN_4U and MAX_DEN_5U are equal.</td><td>&ndash;</td><td><span class="badge badge-derived">VCGI &middot; from 4+</span></td></tr>
+          <tr><td>F4F_Max_Height</td><td>F4F Max Height</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum allowed height for 4+ unit multifamily structures, in feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F4F_Max_Stories</td><td>F4F Max Stories</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum number of stories allowed for 4+ unit multifamily structures.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>MIN_LOT_4U<span class="prev-name">was F4F_Min_Lot_Size</span></td><td>4-UNIT MIN LOT</td><td><span class="badge badge-numerical">numerical</span></td><td>4-Unit Min. Lot, in acres. Collected as a single 4+ unit value, so MIN_LOT_4U and MIN_LOT_5U are equal.</td><td>&ndash;</td><td><span class="badge badge-derived">VCGI &middot; from 4+</span></td></tr>
+          <tr><td>MIN_LOT_5U<span class="prev-name">was F4F_Min_Lot_Size</span></td><td>5+UNIT MIN LOT</td><td><span class="badge badge-numerical">numerical</span></td><td>5+Unit Min. Lot, in acres. Collected as a single 4+ unit value, so MIN_LOT_4U and MIN_LOT_5U are equal.</td><td>&ndash;</td><td><span class="badge badge-derived">VCGI &middot; from 4+</span></td></tr>
+          <tr><td>F4F_Max_Lot_Building_Coverage</td><td>F4F Max Lot Building Coverage</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum percentage of the lot covered by building footprint for 4+ unit use.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F4F_Max_Lot_Impervious_Coverage</td><td>F4F Max Lot Impervious Coverage</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum percentage of the lot covered by impervious surfaces for 4+ unit use.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F4F_Min_Parking_Spaces_per_1BR</td><td>F4F Min Parking Spaces per 1BR</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum off-street parking spaces per 1-bedroom unit in a 4+ unit building.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F4F_Min_Parking_Spaces_per_mult_BR</td><td>F4F Min Parking Spaces per mult BR</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum off-street parking spaces per multi-bedroom unit in a 4+ unit building.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>F4F_Elderly_Housing_Only</td><td>F4F Elderly Housing Only</td><td><span class="badge badge-text">text</span></td><td>Indicates whether 4+ unit housing in this district is restricted to elderly occupants only.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>F4F_Affordable_Housing_Only</td><td>F4F Affordable Housing Only</td><td><span class="badge badge-text">text</span></td><td>Indicates whether 4+ unit housing in this district is restricted to affordable housing only.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>F4F_Proximity_to_Public_Transit_Required</td><td>F4F Proximity to Public Transit Required</td><td><span class="badge badge-text">text</span></td><td>Indicates whether 4+ unit housing requires proximity to public transit service.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>F4F_Connection_to_Sewage/Water_Required</td><td>F4F Connection to Sewage/Water Required</td><td><span class="badge badge-text">text</span></td><td>Indicates whether 4+ unit housing requires connection to public sewer or water systems.</td><td>Yes, No</td><td></td></tr>
+          <tr class="group-row"><td colspan="6">Accessory Dwelling Units (ADU)</td></tr>
+          <tr><td>ADUDP<span class="prev-name">was ADU_Allowance</span></td><td>Accessory Dwelling Unit Treatment</td><td><span class="badge badge-text">text</span></td><td>Accessory Dwelling Unit Treatment.</td><td>AP, CU, SP, PR</td><td><span class="badge badge-match">VCGI</span></td></tr>
+          <tr><td>ADU_Elderly_Housing_Only</td><td>ADU Elderly Housing Only</td><td><span class="badge badge-text">text</span></td><td>Indicates whether ADUs in this district are restricted to elderly occupants only.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>ADU_Max_Size_as_Percent_of_Primary_Strcture</td><td>ADU Max Size as Percent of Primary Strcture</td><td><span class="badge badge-mixed">mixed</span></td><td>Maximum allowed size of an ADU as a percentage of the primary structure&#x27;s floor area; may contain &#x27;No&#x27; where no limit applies.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>ADU_Max_Size_in_sq_ft</td><td>ADU Max Size in sq ft</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum allowed floor area of an ADU in square feet.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>ADU_Min_Lot_Size</td><td>ADU Min Lot Size</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum lot size required for a property to include an ADU, in acres.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>ADU_Max_Bedrooms</td><td>ADU Max Bedrooms</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum number of bedrooms allowed in an ADU.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>ADU_Min_Parking_Spaces</td><td>ADU Min Parking Spaces</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum off-street parking spaces required for an ADU.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>ADU_Owner_Occupancy_Required</td><td>ADU Owner Occupancy Required</td><td><span class="badge badge-text">text</span></td><td>Indicates whether the property owner must occupy either the primary structure or the ADU.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>ADU_Renter_Occupancy_Prohibited</td><td>ADU Renter Occupancy Prohibited</td><td><span class="badge badge-text">text</span></td><td>Indicates whether renting the ADU to non-family members is prohibited.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>ADU_Employee_or_Family_Occupancy_Required</td><td>ADU Employee or Family Occupancy Required</td><td><span class="badge badge-text">text</span></td><td>Indicates whether the ADU must be occupied by an employee or family member of the property owner.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>ADU_Restricted_to_Primary_Structure</td><td>ADU Restricted to Primary Structure</td><td><span class="badge badge-text">text</span></td><td>Indicates whether the ADU must be contained within or attached to the primary structure rather than built as a detached unit.</td><td>Yes, No</td><td></td></tr>
+          <tr class="group-row"><td colspan="6">Affordable Housing</td></tr>
+          <tr><td>Affordable_Housing_Allowance</td><td>Affordable Housing Allowance</td><td><span class="badge badge-text">text</span></td><td>Whether affordable housing developments are permitted in the district as a distinct use category.</td><td>Permitted, Prohibited, Allowed/Conditional, Public Hearing</td><td></td></tr>
+          <tr><td>Affordable_Housing_District</td><td>Affordable Housing District</td><td><span class="badge badge-text">text</span></td><td>Indicates whether the district is specifically designated for affordable housing development.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>Affordable_Housing_Elderly_Only</td><td>Affordable Housing Elderly Only</td><td><span class="badge badge-text">text</span></td><td>Indicates whether affordable housing in this district is restricted to elderly residents only.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>Affordable_Housing_Min_Lot_Size</td><td>Affordable Housing Min Lot Size</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum lot size required for affordable housing development, in acres.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>Affordable_Housing_Max_Density</td><td>Affordable Housing Max Density</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum density allowed for affordable housing, in units per acre.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>Affordable_Housing_Min_Parking_Spaces_per_mult_BR</td><td>Affordable Housing Min Parking Spaces per mult BR</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum off-street parking spaces per multi-bedroom affordable housing unit.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>Affordable_Housing_Max_Units_per_Building</td><td>Affordable Housing Max Units per Building</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum number of units allowed per affordable housing building.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>Affordable_Housing_Min_Parking_Spaces_per_1BR</td><td>Affordable Housing Min Parking Spaces per 1BR</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum off-street parking spaces per 1-bedroom affordable housing unit.</td><td>&ndash;</td><td></td></tr>
+          <tr class="group-row"><td colspan="6">Planned Residential Development (PRD)</td></tr>
+          <tr><td>PRDDP<span class="prev-name">was PRD_Allowance</span></td><td>Planned Residential Development Treatment</td><td><span class="badge badge-text">text</span></td><td>Planned Residential Development Treatment.</td><td>AP, CU, SP, PR</td><td><span class="badge badge-match">VCGI</span></td></tr>
+          <tr><td>PRD_Max_Density</td><td>PRD Max Density</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum density allowed for a planned residential development, in units per acre.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>PRD_Max_Units</td><td>PRD Max Units</td><td><span class="badge badge-numerical">numerical</span></td><td>Maximum total number of units allowed in a planned residential development.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>PRD_Min_Lot_Size</td><td>PRD Min Lot Size</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum lot size required to develop a planned residential development, in acres.</td><td>&ndash;</td><td></td></tr>
+          <tr><td>PRD_MHP<span class="prev-name">was PRD_Mobile_or_Manufactured_Home_Park</span></td><td>Mobile or Manufactured Home Park Allowed</td><td><span class="badge badge-text">text</span></td><td>Mobile or Manufactured Home Park allowed in a PRD. VCGI expects a treatment code; this dataset records Yes/No.</td><td>Yes, No</td><td><span class="badge badge-partial">VCGI name only</span></td></tr>
+          <tr class="group-row"><td colspan="6">Planned Unit Development (PUD)</td></tr>
+          <tr><td>PUD_Allowance</td><td>PUD Allowance</td><td><span class="badge badge-text">text</span></td><td>Whether planned unit developments (PUDs) are permitted in the district.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>PUD_Required_with_Subdivision</td><td>PUD Required with Subdivision</td><td><span class="badge badge-text">text</span></td><td>Indicates whether PUD approval is required when subdividing land in this district.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>PUD_Requires_Land_Conservation</td><td>PUD Requires Land Conservation</td><td><span class="badge badge-text">text</span></td><td>Indicates whether PUD approval requires setting aside land for conservation.</td><td>Yes, No</td><td></td></tr>
+          <tr><td>PUD_Threshold_Number</td><td>PUD Threshold Number</td><td><span class="badge badge-numerical">numerical</span></td><td>Minimum number of units or lots that triggers PUD requirements in the district.</td><td>&ndash;</td><td></td></tr>
+          <tr class="group-row"><td colspan="6">Additional Information</td></tr>
+          <tr><td>NOTE<span class="prev-name">was Notes</span></td><td>Note</td><td><span class="badge badge-text">text</span></td><td>Notes. Free-text context about the district&#x27;s regulations or data collection.</td><td>&ndash;</td><td><span class="badge badge-match">VCGI</span></td></tr>
         </tbody>
       </table>
       </div>
+
+      <h3 id="domains">Domains</h3>
+
+      <h4 id="domain-treatment">Treatment Types</h4>
+      <p>The domain values below apply to the following fields: <code>UT1</code>, <code>UT2</code>, <code>UT3</code>, <code>UT4</code>, <code>UT5</code>, <code>ADUDP</code>, <code>PRDDP</code>. Counts are districts in the statewide file (1,760 districts).</p>
+      <div class="fields-table-wrap">
+      <table class="count-table">
+        <thead>
+          <tr><th>Code</th><th>Description</th><th>UT1</th><th>UT2</th><th>UT3</th><th>UT4</th><th>UT5</th><th>ADUDP</th><th>PRDDP</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>AP</td><td>Administrative Permit. Converted from <em>Permitted</em>.</td><td>903</td><td>745</td><td>231</td><td>89</td><td>89</td><td>32</td><td>0</td></tr>
+          <tr><td>CU</td><td>Conditional Use. Converted from <em>Public Hearing</em>.</td><td>135</td><td>223</td><td>574</td><td>700</td><td>700</td><td>128</td><td>577</td></tr>
+          <tr><td>SP</td><td>Site Plan. No values converted yet (see <em>Allowed/Conditional</em>).</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+          <tr><td>PR</td><td>Prohibited. Converted from <em>Prohibited</em>.</td><td>346</td><td>469</td><td>742</td><td>758</td><td>758</td><td>278</td><td>343</td></tr>
+        </tbody>
+      </table>
+      </div>
+
+      <p>Some National Zoning Atlas values have no single VCGI code and are kept as collected until each district is reviewed against its bylaw:</p>
+      <div class="fields-table-wrap">
+      <table class="count-table">
+        <thead>
+          <tr><th>Value</th><th>Meaning</th><th>UT1</th><th>UT2</th><th>UT3</th><th>UT4</th><th>UT5</th><th>ADUDP</th><th>PRDDP</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Allowed/Conditional</td><td>Allowed without a public hearing: either an administrative permit (AP) or site plan review (SP). Needs bylaw review to split.</td><td>233</td><td>183</td><td>81</td><td>81</td><td>81</td><td>1,122</td><td>193</td></tr>
+          <tr><td>Not Mentioned</td><td>The bylaw does not address this use.</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>158</td><td>615</td></tr>
+          <tr><td>Overlay</td><td>Treatment is set by an overlay district.</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>29</td><td>11</td></tr>
+          <tr><td><em>(blank)</em></td><td>No value recorded.</td><td>143</td><td>140</td><td>132</td><td>132</td><td>132</td><td>13</td><td>21</td></tr>
+        </tbody>
+      </table>
+      </div>
+
+      <h4 id="domain-rpc">Regional Planning Commissions (RPC)</h4>
+      <p>2-character codes from the <a href="https://files.vcgi.vermont.gov/other/standards-guidelines/geonames-codes/geonames-codes-standard.html">Vermont Geographic Area Names and Codes Standard</a>, as listed in the VCGI zoning standard.</p>
+      <table>
+        <thead>
+          <tr><th>Code</th><th>Description</th><th>File</th><th>Districts</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>AC</td><td><a href="http://www.acrpc.org/">Addison County Regional Planning Commission</a></td><td><a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/data/RPC/ACRPC.geojson">ACRPC.geojson</a></td><td>166</td></tr>
+          <tr><td>BC</td><td><a href="http://www.bcrcvt.org/">Bennington County Regional Planning Commission</a></td><td><a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/data/RPC/BCRC.geojson">BCRC.geojson</a></td><td>147</td></tr>
+          <tr><td>CC</td><td><a href="http://www.ccrpcvt.org">Chittenden County Regional Planning Commission</a></td><td><a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/data/RPC/CCRPC.geojson">CCRPC.geojson</a></td><td>269</td></tr>
+          <tr><td>CV</td><td><a href="http://www.centralvtplanning.org">Central Vermont Regional Planning Commission</a></td><td><a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/data/RPC/CVRPC.geojson">CVRPC.geojson</a></td><td>163</td></tr>
+          <tr><td>LC</td><td><a href="http://www.lcpcvt.org">Lamoille County Planning Commission</a></td><td><a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/data/RPC/LCPC.geojson">LCPC.geojson</a></td><td>82</td></tr>
+          <tr><td>MA</td><td><a href="https://marcvt.org/">Mount Ascutney Regional Commission</a></td><td><a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/data/RPC/MARC.geojson">MARC.geojson</a></td><td>80</td></tr>
+          <tr><td>NV</td><td><a href="http://www.nvda.net">Northeastern Vermont Development Association</a></td><td><a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/data/RPC/NVDA.geojson">NVDA.geojson</a></td><td>212</td></tr>
+          <tr><td>NW</td><td><a href="http://www.nrpcvt.com">Northwest Regional Planning Commission</a></td><td><a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/data/RPC/NRPC.geojson">NRPC.geojson</a></td><td>148</td></tr>
+          <tr><td>RR</td><td><a href="http://www.rutlandrpc.org">Rutland Regional Planning Commission</a></td><td><a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/data/RPC/RRPC.geojson">RRPC.geojson</a></td><td>167</td></tr>
+          <tr><td>TR</td><td><a href="http://www.trorc.org">Two Rivers-Ottauquechee Regional Commission</a></td><td><a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/data/RPC/TRORC.geojson">TRORC.geojson</a></td><td>196</td></tr>
+          <tr><td>WR</td><td><a href="http://www.windhamregional.org">Windham Regional Commission</a></td><td><a href="https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/data/RPC/WRC.geojson">WRC.geojson</a></td><td>130</td></tr>
+        </tbody>
+      </table>
+
+      <h4 id="domain-district-type">District Type (District_Type)</h4>
+      <p>The atlas classifies districts with the National Zoning Atlas categories below. This is a different classification from VCGI's <code>DIST_TYPE</code> list (Downtown, Village Center, Forest, and so on). See <a href="#vcgi-gaps">VCGI Fields Not Yet Collected</a>.</p>
+      <table>
+        <thead>
+          <tr><th>Value</th><th>Description</th><th>Districts</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Primarily Residential</td><td>Residential uses are the main allowed uses.</td><td>501</td></tr>
+          <tr><td>Mixed with Residential</td><td>Residential and nonresidential uses are both allowed.</td><td>804</td></tr>
+          <tr><td>Nonresidential</td><td>Residential uses are generally not allowed.</td><td>337</td></tr>
+          <tr><td>Overlay</td><td>Overlay district layered on top of base districts.</td><td>109</td></tr>
+        </tbody>
+      </table>
+
+      <h4 id="domain-geoid">GEOID (GEOID)</h4>
+      <p>Census GEOID for the town, city, or incorporated village. VCGI expects to add a combined town/village code (<code>TVGEOID</code>) to the Names and Codes standard; <code>GEOID</code> will be updated to that code once it is published.</p>
+
+      <h3 id="vcgi-gaps">VCGI Fields Not Yet Collected</h3>
+      <p>These VCGI fields have no equivalent in the atlas yet. Where a related atlas field exists, it is noted.</p>
+      <div class="fields-table-wrap">
+      <table>
+        <thead>
+          <tr><th>VCGI Field</th><th>Alias</th><th>Status in the Atlas</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>DIST_TYPE</td><td>District Type</td><td>Our <code>District_Type</code> uses the 4 National Zoning Atlas categories (Primarily Residential, Mixed with Residential, Nonresidential, Overlay), not VCGI's land-use list. Needs district-by-district classification.</td></tr>
+          <tr><td>DTYPNONRES</td><td>District Type Non-residential</td><td>Partly covered by <code>District_Type</code> = Nonresidential.</td></tr>
+          <tr><td>RES_ALLOW</td><td>Residential Allowed</td><td>Can be derived: Yes when any of <code>UT1</code>&ndash;<code>UT5</code> is not PR.</td></tr>
+          <tr><td>ADUS</td><td>Accessory Dwelling Unit Size</td><td>Related to <code>ADU_Max_Size_in_sq_ft</code> and <code>ADU_Max_Size_as_Percent_of_Primary_Strcture</code>, which record limits rather than a treatment.</td></tr>
+          <tr><td>AFFDHR</td><td>Affordable Housing Requirement</td><td>Not collected. <code>Affordable_Housing_*</code> fields record allowances, not requirements.</td></tr>
+          <tr><td>AFFDHINC</td><td>Affordable Housing Incentive</td><td>Not collected. <code>Affordable_Housing_Max_Density</code> may indicate a density bonus.</td></tr>
+          <tr><td>BYLAW_EFF</td><td>Bylaw Effective</td><td><code>Bylaw_Date</code> is the date data was collected, not the bylaw effective date. Effective dates are in the bylaw PDF file names (<code>..._eff11272007.pdf</code>).</td></tr>
+          <tr><td>MINLOT1_NT</td><td>1-UNIT MIN LOT NOTES</td><td>Not collected. Lot-size caveats are in <code>NOTE</code>.</td></tr>
+          <tr><td>MINLOT2_NT</td><td>2-UNIT MIN LOT NOTES</td><td>Not collected. Lot-size caveats are in <code>NOTE</code>.</td></tr>
+          <tr><td>MINLOT3_NT</td><td>3-UNIT MIN LOT NOTES</td><td>Not collected. Lot-size caveats are in <code>NOTE</code>.</td></tr>
+          <tr><td>MINLOT4_NT</td><td>4-UNIT MIN LOT NOTES</td><td>Not collected. Lot-size caveats are in <code>NOTE</code>.</td></tr>
+          <tr><td>MINLOT5_NT</td><td>5+UNIT MIN LOT NOTES</td><td>Not collected. Lot-size caveats are in <code>NOTE</code>.</td></tr>
+          <tr><td>DATE_RPC</td><td>Date from RPC</td><td><code>Last_Update</code> is related but records the source GIS update date.</td></tr>
+        </tbody>
+      </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- Open Items Section -->
+  <section class="story-section" data-section="open-items" id="open-items">
+    <div class="story-content">
+      <h2>Open Items for Review</h2>
+      <p>These values could not be converted to the VCGI standard automatically and need review against the municipal bylaws. District counts are from the statewide file (1,760 districts).</p>
+      <div class="fields-table-wrap">
+      <table class="open-items-table">
+        <thead>
+          <tr><th>#</th><th>Item</th><th>Fields</th><th>Districts</th><th>What's Needed</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>1</td><td>Split <em>Allowed/Conditional</em> into AP or SP</td><td><code>UT1</code>&ndash;<code>UT5</code>, <code>ADUDP</code>, <code>PRDDP</code></td><td>1,172</td><td>Allowed/Conditional covers both an administrative permit (AP) and site plan review (SP). Check each district's bylaw and record AP or SP.</td></tr>
+          <tr><td>2</td><td>Resolve <em>Not Mentioned</em> and <em>Overlay</em> treatments</td><td><code>ADUDP</code>, <code>PRDDP</code></td><td>679</td><td>VCGI has no code for these. Decide how to record them, for example PR when the bylaw is silent, or the overlay district's treatment.</td></tr>
+          <tr><td>3</td><td>Record mobile home park treatment</td><td><code>PRD_MHP</code></td><td>1,472</td><td>VCGI expects a treatment code (AP, CU, SP, PR); the atlas records Yes/No. Re-review bylaws to record how mobile or manufactured home parks are permitted.</td></tr>
+          <tr><td>4</td><td>Classify districts with VCGI district types</td><td><code>DIST_TYPE</code> (new)</td><td>1,760</td><td>Assign each district one of VCGI's 18 district types (Downtown, Village Center, Rural Residential, and so on). <code>District_Type</code> keeps the National Zoning Atlas categories and cannot be converted automatically.</td></tr>
+          <tr><td>5</td><td>Add bylaw effective dates</td><td><code>BYLAW_EFF</code> (new)</td><td>1,760</td><td><code>Bylaw_Date</code> is the data collection date, so it was not renamed. Effective dates are in the bylaw PDF file names in <code>data/Town_Bylaw_Text</code> and could be filled from there.</td></tr>
+        </tbody>
+      </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- Cartographic Presentation Section -->
+  <section class="story-section" data-section="cartographic" id="cartographic-presentation">
+    <div class="story-content">
+      <h2>Cartographic Presentation</h2>
+      <p>The map on the homepage colors districts by the treatment of the selected housing type (<code>UT1</code>&ndash;<code>UT4</code>). Overlay districts (<code>OVER</code> = Yes) are not drawn.</p>
+      <table>
+        <thead>
+          <tr><th>Treatment</th><th>HEX #</th><th>Color</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>AP</td><td>#27AE60</td><td><span class="swatch" style="background:#27ae60"></span></td></tr>
+          <tr><td>CU, Allowed/Conditional</td><td>#F39C12</td><td><span class="swatch" style="background:#f39c12"></span></td></tr>
+          <tr><td>PR</td><td>#E74C3C</td><td><span class="swatch" style="background:#e74c3c"></span></td></tr>
+          <tr><td>No data</td><td>#95A5A6</td><td><span class="swatch" style="background:#95a5a6"></span></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- Updates and History Section -->
+  <section class="story-section" data-section="history" id="updates-history">
+    <div class="story-content">
+      <h2>Updates and History</h2>
+      <table>
+        <thead>
+          <tr><th>Date</th><th>Notes</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>October 29, 2026</td><td>Aligned matching fields with the <a href="https://files.vcgi.vermont.gov/other/standards-guidelines/zoning/zoning-standard.html">Vermont Zoning GIS Data Standard</a> v2.0 (March 11, 2026 revision): 21 fields renamed to VCGI names, 3 VCGI 5+ unit fields added from the 4+ unit values, RPC values converted to VCGI codes, and Permitted / Public Hearing / Prohibited converted to AP / CU / PR.</td></tr>
+          <tr><td>February 26, 2026</td><td>Canonical 110-field schema established across all RPC and statewide files.</td></tr>
+        </tbody>
+      </table>
     </div>
   </section>
 
