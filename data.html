@@ -537,9 +537,10 @@
   </footer>
 
   <script>
-    // Scroll animations
+    // Scroll animations. Threshold 0 so sections taller than the viewport
+    // (like the schema table) still become visible.
     const observerOptions = {
-      threshold: 0.2,
+      threshold: 0,
       rootMargin: '0px 0px -100px 0px'
     };
 
