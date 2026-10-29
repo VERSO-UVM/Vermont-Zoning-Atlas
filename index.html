@@ -694,10 +694,10 @@
         Select Housing Type to Visualize:
       </label>
       <select id="housing-type-select" style="padding: 0.75rem 1rem; font-size: 1rem; border: 2px solid #ddd; border-radius: 4px; width: 100%; max-width: 400px; cursor: pointer;">
-        <option value="F1F_Allowance">Single-Family (1 unit)</option>
-        <option value="F2F_Allowance">Duplex (2 units)</option>
-        <option value="F3F_Allowance">Triplex (3 units)</option>
-        <option value="F4F_Allowance">Fourplex+ (4+ units)</option>
+        <option value="UT1">Single-Family (1 unit)</option>
+        <option value="UT2">Duplex (2 units)</option>
+        <option value="UT3">Triplex (3 units)</option>
+        <option value="UT4">Fourplex+ (4+ units)</option>
       </select>
       
       <div style="margin-top: 1.5rem; display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
@@ -733,7 +733,7 @@
 
       // Store all GeoJSON layers for re-styling
       var geoJsonLayers = [];
-      var currentHousingType = 'F1F_Allowance';
+      var currentHousingType = 'UT1';
 
       // Function to determine color based on allowance value
       function getColor(allowance) {
@@ -741,11 +741,11 @@
         
         var value = allowance.toLowerCase().trim();
         
-        if (value === 'permitted' || value === 'yes') {
+        if (value === 'ap' || value === 'permitted' || value === 'yes') {
           return '#27ae60'; // Green
-        } else if (value.includes('public hearing') || value.includes('conditional')) {
+        } else if (value === 'cu' || value.includes('public hearing') || value.includes('conditional')) {
           return '#f39c12'; // Orange
-        } else if (value === 'prohibited' || value === 'no') {
+        } else if (value === 'pr' || value === 'prohibited' || value === 'no') {
           return '#e74c3c'; // Red
         }
         
@@ -766,41 +766,59 @@
 
       // List of fields to display in the popup
       var fieldsToDisplay = [
-        "County", "Municipal_Name", "District_Type", "District_Name",
-        "Overlay_District","F1F_Allowance","F2F_Allowance","F3F_Allowance",
-        "F4F_Allowance", "Affordable_Housing_District",
+        "COUNTY", "JXTN", "District_Type", "DIST_NAME",
+        "OVER","UT1","UT2","UT3",
+        "UT4", "ADUDP", "Affordable_Housing_District",
         "ADU_Owner_Occupancy_Required","F1F_Elderly_Housing_Only",
         "F2F_Elderly_Housing_Only","F3F_Elderly_Housing_Only","F4F_Elderly_Housing_Only"
       ];
+
+      // Readable labels for VCGI field names and treatment codes
+      var fieldLabels = {
+        'COUNTY': 'County',
+        'JXTN': 'Jurisdiction',
+        'DIST_NAME': 'District Name',
+        'OVER': 'Overlay',
+        'UT1': 'Single-Family (1 unit)',
+        'UT2': 'Duplex (2 units)',
+        'UT3': 'Triplex (3 units)',
+        'UT4': 'Fourplex+ (4+ units)',
+        'ADUDP': 'Accessory Dwelling Unit'
+      };
+      var treatmentLabels = {
+        'AP': 'Administrative Permit',
+        'CU': 'Conditional Use (public hearing)',
+        'SP': 'Site Plan',
+        'PR': 'Prohibited'
+      };
+
+      function displayValue(value) {
+        return treatmentLabels[value] || value;
+      }
 
       // Function to bind popups to each feature
       function onEachFeature(feature, layer) {
         if (feature.properties) {
           var popupContent = "<div style='max-height: 400px; overflow-y: auto;'>";
-          var title = (feature.properties.Municipal_Name && feature.properties.District_Name)
-            ? feature.properties.Municipal_Name + ' — ' + feature.properties.District_Name
-            : (feature.properties.District_Name || feature.properties.Municipal_Name || "Zoning District");
+          var title = (feature.properties.JXTN && feature.properties.DIST_NAME)
+            ? feature.properties.JXTN + ' — ' + feature.properties.DIST_NAME
+            : (feature.properties.DIST_NAME || feature.properties.JXTN || "Zoning District");
           popupContent += "<p><strong>" + title + "</strong></p>";
           
           // Show current housing type prominently
           var currentValue = feature.properties[currentHousingType];
-          var housingTypeLabel = {
-            'F1F_Allowance': 'Single-Family (1 unit)',
-            'F2F_Allowance': 'Duplex (2 units)',
-            'F3F_Allowance': 'Triplex (3 units)',
-            'F4F_Allowance': 'Fourplex+ (4+ units)'
-          }[currentHousingType];
+          var housingTypeLabel = fieldLabels[currentHousingType];
           
           popupContent += "<p style='background: " + getColor(currentValue) + "; color: white; padding: 0.5rem; border-radius: 4px; margin: 0.5rem 0;'>";
-          popupContent += "<strong>" + housingTypeLabel + ":</strong> " + (currentValue || "No data") + "</p>";
+          popupContent += "<strong>" + housingTypeLabel + ":</strong> " + (currentValue ? displayValue(currentValue) : "No data") + "</p>";
           
           popupContent += "<hr style='margin: 1rem 0;'>";
           popupContent += "<p><strong>All Housing Types:</strong></p>";
           
           fieldsToDisplay.forEach(field => {
             if (feature.properties[field] !== undefined && feature.properties[field] !== null && feature.properties[field] !== '') {
-              var displayName = field.replace(/_/g, ' ');
-              popupContent += "<p style='margin: 0.25rem 0; font-size: 0.9rem;'><strong>" + displayName + ":</strong> " + feature.properties[field] + "</p>";
+              var displayName = fieldLabels[field] || field.replace(/_/g, ' ');
+              popupContent += "<p style='margin: 0.25rem 0; font-size: 0.9rem;'><strong>" + displayName + ":</strong> " + displayValue(feature.properties[field]) + "</p>";
             }
           });
           
@@ -837,7 +855,7 @@
       // Filter out overlay districts — they represent areas where allowance
       // fields don't apply as base zoning and clutter the map display.
       function isNotOverlay(feature) {
-        return feature.properties && feature.properties.Overlay_District !== 'Yes';
+        return feature.properties && feature.properties.OVER !== 'Yes';
       }
 
       // Load each RPC's GeoJSON data
